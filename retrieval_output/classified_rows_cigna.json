@@ -1,0 +1,2317 @@
+[
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-001",
+    "record_date": "2026-12-15",
+    "title": "Open Neuroplasty Lumbar Plexus – (0587) (Updated)",
+    "text_or_description": "Posted 9/15/2026, Effective 12/15/2026 Important changes in coverage criteria/policy: • Revised policy statements for medically necessary open neuroplasty of the lumbar plexus to clarify clinical findings and conservative treatments • Added policy statement for diagnostic nerve block for suspected LFCN involvement • Revise",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Open Neuroplasty Lumbar Plexus – (0587)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised.",
+    "evidence_quote_or_field": "Posted 9/15/2026, Effective 12/15/2026 Important changes in coverage criteria/policy: • Revised policy statements for medically necessary open neuroplasty of the lumbar plexus to clarify clinical findings and conservative treatments • Added policy statement for diagnostic nerve block for suspected L"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-002",
+    "record_date": "2026-10-01",
+    "title": "Cobranded Cigna- EviCore Cerebrovascular Intervention Guidelines (Updated)",
+    "text_or_description": "Effective 10/1/2026 • Guidelines were updated with no clinically impactful changes. Cob",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Cobranded Cigna- EviCore Cerebrovascular Intervention Guidelines",
+    "topic": "eviCore Guidelines",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "PA requirement"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. eviCore Guidelines entries govern the clinical criteria used by Cigna's delegated utilization-management vendor (eviCore) for precertification/utilization review of MSK, spine, or chiropractic/PT services.",
+    "evidence_quote_or_field": "Effective 10/1/2026 • Guidelines were updated with no clinically impactful changes. Cob"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-003",
+    "record_date": "2026-09-25",
+    "title": "Cobranded Cigna- EviCore Spine Surgery Guidelines (Updated)",
+    "text_or_description": "Effective 9/25/2026 One guideline was updated with clinically impactful changes: • CMM-616: Ve",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Cobranded Cigna- EviCore Spine Surgery Guidelines",
+    "topic": "eviCore Guidelines",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "PA requirement"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. eviCore Guidelines entries govern the clinical criteria used by Cigna's delegated utilization-management vendor (eviCore) for precertification/utilization review of MSK, spine, or chiropractic/PT services.",
+    "evidence_quote_or_field": "Effective 9/25/2026 One guideline was updated with clinically impactful changes: • CMM-616: Ve"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-004",
+    "record_date": "2026-09-15",
+    "title": "Value/Advantage Drug List (ST007) (Updated)",
+    "text_or_description": "Effective 9/15/2026 • Mirabegron granules for extended-release oral suspension: Generic mirabegron granules for extended-release oral suspension were added to Step 1. Phenylketonuria – Sephience (IP0764) Uodated Effective 9/15/2026 No criteria changes. Phar",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Value/Advantage Drug List (ST007)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Step therapy"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Formulary 'Step' tier placement -- a step-therapy utilization requirement.",
+    "evidence_quote_or_field": "Effective 9/15/2026 • Mirabegron granules for extended-release oral suspension: Generic mirabegron granules for extended-release oral suspension were added to Step 1. Phenylketonuria – Sephience (IP0764) Uodated Effective 9/15/2026 No criteria changes. Phar"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-005",
+    "record_date": "2026-09-15",
+    "title": "Standard / Performance / Legacy Drug Lists (ST004) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o Vtama: Brand Dovonex was removed from the Note listing topical vitamin D analogs (obsolete). Pellix was added to the Note listing topical vitamin D analogs. Topical Retinoids – Ak",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Standard / Performance / Legacy Drug Lists (ST004)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o Vtama: Brand Dovonex was removed from the Note listing topical vitamin D analogs (obsolete). Pellix was added to the Note listing topical vitamin D analogs. Topical Retinoids – Ak"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-006",
+    "record_date": "2026-09-15",
+    "title": "Legacy Drug List (ST002) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Mirabegron granules for extended-release oral suspension: Generic mirabegron granules for extended-release oral suspension were added to Step 1. • Exception Criteria: The exception criterion that approved brand Myrbetriq Granules if the patient cannot swallow or has difficulty swallowing tablets or capsules was removed. Overactive Bladder Medications Step Therapy Policy for Emp...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Legacy Drug List (ST002)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Step therapy"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Formulary 'Step' tier placement -- a step-therapy utilization requirement.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Mirabegron granules for extended-release oral suspension: Generic mirabegron granules for extended-release oral suspension were added to Step 1. • Exception Criteria: The exception criterion that approved brand Myrbetriq Granules if the patient cannot swallow or has difficulty sw"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-007",
+    "record_date": "2026-09-15",
+    "title": "Genetic Testing Panels – (R28) (Updated)",
+    "text_or_description": "• Effective 09/15/2026 CPT code 87632 to the respiratory pathogen detection panel sections.",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Genetic Testing Panels – (R28)",
+    "topic": "Reimbursement Policy*",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text names specific CPT/HCPCS codes affected by this policy change.",
+    "evidence_quote_or_field": "• Effective 09/15/2026 CPT code 87632 to the respiratory pathogen detection panel sections."
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-008",
+    "record_date": "2026-09-15",
+    "title": "Global Maternity/Obstetric Package - (R11) (Updated)",
+    "text_or_description": "• Added Maternity Banner: Earlier this year, the American Medical Association (AMA) published a new maternity coding framework and guidelines that represent a significant shift in how maternity care services are to be reported and billed beginning, January 1, 2027. During this transition period, Cigna Healthcare® believes maintaining the current billing guidance and this policy is the best way to ...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Global Maternity/Obstetric Package - (R11)",
+    "topic": "Reimbursement Policy*",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• Added Maternity Banner: Earlier this year, the American Medical Association (AMA) published a new maternity coding framework and guidelines that represent a significant shift in how maternity care services are to be reported and billed beginning, January 1, 2027. During this transition period, Cig"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-009",
+    "record_date": "2026-09-15",
+    "title": "Technology-Assisted Surgery - (R04) (Updated)",
+    "text_or_description": "Effective 09/15/2026 • Cigna will not reimburse computer-assisted surgical navigation codes 20985, 0054T, and 0055T when reported on a UB-04 claim form. • Policy title updated from “Robotic Assisted Surgery” to “Technology-Assisted Surgery” to encompass all technology-assisted surgical techniques. Other Coding and Reimbursement Documents",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Technology-Assisted Surgery - (R04)",
+    "topic": "Reimbursement Policy*",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Reimbursement / Payment",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Payment rule",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states a reimbursement rule (e.g. 'will not reimburse ... codes'). Comment text names specific CPT/HCPCS codes affected by this policy change.",
+    "evidence_quote_or_field": "Effective 09/15/2026 • Cigna will not reimburse computer-assisted surgical navigation codes 20985, 0054T, and 0055T when reported on a UB-04 claim form. • Policy title updated from “Robotic Assisted Surgery” to “Technology-Assisted Surgery” to encompass all technology-assisted surgical techniques. O"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-010",
+    "record_date": "2026-09-15",
+    "title": "Mulitple Births - (R03) (Updated)",
+    "text_or_description": "• Added Maternity Banner: Earlier this year, the American Medical Association (AMA) published a new maternity coding framework and guidelines that represent a significant shift in how maternity care services are to be reported and billed beginning, January 1, 2027. During this transition period, Cigna Healthcare® believes maintaining the current billing guidance and this policy is the best way to ...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Mulitple Births - (R03)",
+    "topic": "Reimbursement Policy*",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• Added Maternity Banner: Earlier this year, the American Medical Association (AMA) published a new maternity coding framework and guidelines that represent a significant shift in how maternity care services are to be reported and billed beginning, January 1, 2027. During this transition period, Cig"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-011",
+    "record_date": "2026-09-15",
+    "title": "Brinsupri for Employer Plans (IP0775) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. Qua",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Brinsupri for Employer Plans (IP0775)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. Qua"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-012",
+    "record_date": "2026-09-15",
+    "title": "Palsonify (IP0769) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. S",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Palsonify (IP0769)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. S"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-013",
+    "record_date": "2026-09-15",
+    "title": "Dawnzera (IP0761) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Hereditary Angioedema – Ekterly Drug Quantity Management Policy – Pe",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Dawnzera (IP0761)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Frequency restriction"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Drug Quantity Management policy -- a utilization-management frequency/quantity limit.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Hereditary Angioedema – Ekterly Drug Quantity Management Policy – Pe"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-014",
+    "record_date": "2026-09-15",
+    "title": "Dermatology-Anzupgo (IP0759) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Dermatology – Gene Therapy - Zev",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Dermatology-Anzupgo (IP0759)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Dermatology – Gene Therapy - Zev"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-015",
+    "record_date": "2026-09-15",
+    "title": "Treprostinil Injection (IP0757) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. Pulmonary – Brin",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Treprostinil Injection (IP0757)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. Pulmonary – Brin"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-016",
+    "record_date": "2026-09-15",
+    "title": "Ocrevus Zunovo (IP0705) (Updated)",
+    "text_or_description": "Effective 9/15/2026 • Multiple Sclerosis, Relapsing Forms: Under the note regarding a patient who has received < 1 year of therapy or is restarting therapy, the word “Zunovo” was added to Ocrevus Zunovo. Multiple Sclerosis (Injectable) – Gla",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Ocrevus Zunovo (IP0705)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 • Multiple Sclerosis, Relapsing Forms: Under the note regarding a patient who has received < 1 year of therapy or is restarting therapy, the word “Zunovo” was added to Ocrevus Zunovo. Multiple Sclerosis (Injectable) – Gla"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-017",
+    "record_date": "2026-09-15",
+    "title": "Tecelra (IP0699) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Synovial Sarcoma: In the requirement that the patient ≥ 18 years of age was modified to the patient is ≥ 12 years of age. The requirement that the patient has received prior chemotherapy was modified to the medication is used as subsequent therapy. Dosing was modified to approve up to 10 x 109 MAGE-A4 T-cell receptor positive T-cells administered intravenously as a single dose....",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Tecelra (IP0699)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Synovial Sarcoma: In the requirement that the patient ≥ 18 years of age was modified to the patient is ≥ 12 years of age. The requirement that the patient has received prior chemotherapy was modified to the medication is used as subsequent therapy. Dosing was modified to approve "
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-018",
+    "record_date": "2026-09-15",
+    "title": "Symlin for IFP (IP0698) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Drugs",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Symlin for IFP (IP0698)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Drugs"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-019",
+    "record_date": "2026-09-15",
+    "title": "Lofexidine for Individual and Family Plans (IP0696) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Metabolic Disorders – Do",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Lofexidine for Individual and Family Plans (IP0696)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Metabolic Disorders – Do"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-020",
+    "record_date": "2026-09-15",
+    "title": "Natalizumab Products Prior Authorization Policy - (IP0690) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: In Initial Therapy, under the criterion that the patient has highly active or aggressive multiple sclerosis, the specific criteria were removed to now state “According to the prescriber, the patient has highly-active or aggressive multiple sclerosis.”. Appendix A: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Appendix B: Ic...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Natalizumab Products Prior Authorization Policy - (IP0690)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: In Initial Therapy, under the criterion that the patient has highly active or aggressive multiple sclerosis, the specific criteria were removed to now state “According to the prescriber, the patient has highly-active or aggressive multiple sclerosis.”. Appendi"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-021",
+    "record_date": "2026-09-15",
+    "title": "No criteria changes Vecamyl for Individual and Family Plans (IP0650) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No c",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "No criteria changes Vecamyl for Individual and Family Plans (IP0650)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No c"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-022",
+    "record_date": "2026-09-15",
+    "title": "Xphozah (IP0608) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. Neurology – Ima",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Xphozah (IP0608)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. Neurology – Ima"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-023",
+    "record_date": "2026-09-15",
+    "title": "Elfabrio (IP0570) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Added “Documentation: Documentation is required where noted in the criteria as [documentation required]. Documentation may include, but is not limited to, chart notes, laboratory tests, claims records, prescription receipts and/or other information. All documentation must include patient-specific identifying information.” Fabry Disease.",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Elfabrio (IP0570)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Added “Documentation: Documentation is required where noted in the criteria as [documentation required]. Documentation may include, but is not limited to, chart notes, laboratory tests, claims records, prescription receipts and/or other information. All documentation must include"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-024",
+    "record_date": "2026-09-15",
+    "title": "Teriflunomide for Individual and Family Plans (IP0560) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Multiple Sclerosis (O...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Teriflunomide for Individual and Family Plans (IP0560)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or w"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-025",
+    "record_date": "2026-09-15",
+    "title": "Ultomiris (IP0550) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Der",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Ultomiris (IP0550)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Der"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-026",
+    "record_date": "2026-09-15",
+    "title": "Eculizumab Products (IP0549) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Complement Inhibitors – Ul",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Eculizumab Products (IP0549)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Complement Inhibitors – Ul"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-027",
+    "record_date": "2026-09-15",
+    "title": "Briumvi - (IP0545) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis, Relapsing Forms: Added Dosing. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable – CD20- Directed Cytolytic Antibody) – Kes",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Briumvi - (IP0545)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis, Relapsing Forms: Added Dosing. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable – CD20- Directed Cytolytic Antibody) – Kes"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-028",
+    "record_date": "2026-09-15",
+    "title": "Posaconazole (Oral) for Individual and Family Plans (IP0536) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Cryptococcal Meningitis – Treatment.",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Posaconazole (Oral) for Individual and Family Plans (IP0536)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Cryptococcal Meningitis – Treatment."
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-029",
+    "record_date": "2026-09-15",
+    "title": "Abilify Mycite (IP0534) (Retired)",
+    "text_or_description": "Effective 9/15/2026 Abilify Mycite was discontinued 9/2024. Albe",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Abilify Mycite (IP0534)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Coverage change",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Retired' -- a first-party record that this policy was changed. Status 'Retired' -- coverage under this policy is being withdrawn/discontinued. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Abilify Mycite was discontinued 9/2024. Albe"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-030",
+    "record_date": "2026-09-15",
+    "title": "Tascenso ODT (IP0514) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Muscular Dystrophy – Gene Ther...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Tascenso ODT (IP0514)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was note"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-031",
+    "record_date": "2026-09-15",
+    "title": "Ztalmy (IP0508) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Bone Modifiers - Denos",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Ztalmy (IP0508)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Bone Modifiers - Denos"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-032",
+    "record_date": "2026-09-15",
+    "title": "Sirturo (IP0494) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Inflammatory Conditions – Etanercept Products Drug Quantity Management Policy – Pe",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Sirturo (IP0494)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Frequency restriction"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Drug Quantity Management policy -- a utilization-management frequency/quantity limit.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Inflammatory Conditions – Etanercept Products Drug Quantity Management Policy – Pe"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-033",
+    "record_date": "2026-09-15",
+    "title": "Fabrazyme (IP0406) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Added “Documentation: Documentation is required where noted in the criteria as [documentation required]. Documentation may include, but is not limited to, chart notes, laboratory tests, claims records, prescription receipts and/or other information. All documentation must include patient-specific identifying information.” Fabry Disease.",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Fabrazyme (IP0406)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Added “Documentation: Documentation is required where noted in the criteria as [documentation required]. Documentation may include, but is not limited to, chart notes, laboratory tests, claims records, prescription receipts and/or other information. All documentation must include"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-034",
+    "record_date": "2026-09-15",
+    "title": "Xipere (IP0371) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Overactive Bladder Medications Step Therapy Policy for Employer Plans: Leg",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Xipere (IP0371)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Step therapy"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Formulary 'Step' tier placement -- a step-therapy utilization requirement.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Overactive Bladder Medications Step Therapy Policy for Employer Plans: Leg"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-035",
+    "record_date": "2026-09-15",
+    "title": "Bylvay (IP0363) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Alagille Syndrome: For initial therapy and in a patient currently receiving treatment, the requirement that the patient does not have cirrhosis or portal hypertension was removed. In the note listing examples of a hepatic decompensation event, gastroesophageal varices was added. Progressive Familial Intrahepatic Cholestasis: For initial therapy and in a patient currently receiv...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Bylvay (IP0363)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Alagille Syndrome: For initial therapy and in a patient currently receiving treatment, the requirement that the patient does not have cirrhosis or portal hypertension was removed. In the note listing examples of a hepatic decompensation event, gastroesophageal varices was added. "
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-036",
+    "record_date": "2026-09-15",
+    "title": "Fibrinogen Products (IP0357) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. Hemophilia – Non- Factor Routine Prophylaxis Products – Al",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Fibrinogen Products (IP0357)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. Hemophilia – Non- Factor Routine Prophylaxis Products – Al"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-037",
+    "record_date": "2026-09-15",
+    "title": "Livmarli (IP0341) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Alagille Syndrome: For initial therapy and in a patient currently receiving treatment, the requirement that the patient does not have cirrhosis or portal hypertension was removed. In the note listing examples of a hepatic decompensation event, gastroesophageal varices was added. Progressive Familial Intrahepatic Cholestasis: For initial therapy and in a patient currently receiv...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Livmarli (IP0341)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Alagille Syndrome: For initial therapy and in a patient currently receiving treatment, the requirement that the patient does not have cirrhosis or portal hypertension was removed. In the note listing examples of a hepatic decompensation event, gastroesophageal varices was added. "
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-038",
+    "record_date": "2026-09-15",
+    "title": "Myalept (IP0340) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o Generalized Lipodystrophy: Approval indication was updated to “Generalized Lipodystrophy,” previously it was “Generalized Lipodystrophy (Congenital or Acquired)” Throughout criteria, “gene mutation” was changed to “pathogenic variant.” The approval option that the patient has had a genetic test that did not demonstrate an AGPAT2, BSCL2, CAV1, or PTRF gene mutation was removed...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Myalept (IP0340)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o Generalized Lipodystrophy: Approval indication was updated to “Generalized Lipodystrophy,” previously it was “Generalized Lipodystrophy (Congenital or Acquired)” Throughout criteria, “gene mutation” was changed to “pathogenic variant.” The approval option that the patient has h"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-039",
+    "record_date": "2026-09-15",
+    "title": "Nintedanib (IP0312) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. Pulmonary – Antifibrotics – Pi",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Nintedanib (IP0312)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. Pulmonary – Antifibrotics – Pi"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-040",
+    "record_date": "2026-09-15",
+    "title": "Pirfenidone (IP0311) (Updated)",
+    "text_or_description": "Effective 9/15/2026 The policy name was changed to as listed. Previously, it was Idiopathic Pulmonary Fibrosis and Related Lung Disease – Pirfenidone Prior Authorization policy. o Generic nintedanib was added throughout the policy as an alternative to Ofev. Pulmonary Arterial Hypertension – Tre",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Pirfenidone (IP0311)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 The policy name was changed to as listed. Previously, it was Idiopathic Pulmonary Fibrosis and Related Lung Disease – Pirfenidone Prior Authorization policy. o Generic nintedanib was added throughout the policy as an alternative to Ofev. Pulmonary Arterial Hypertension – Tre"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-041",
+    "record_date": "2026-09-15",
+    "title": "Strensiq (IP0308) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes. F",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Strensiq (IP0308)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes. F"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-042",
+    "record_date": "2026-09-15",
+    "title": "Sapropterin (IP0295) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. Pulmonary – Antifibrotics – Ni",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Sapropterin (IP0295)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. Pulmonary – Antifibrotics – Ni"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-043",
+    "record_date": "2026-09-15",
+    "title": "Palynziq (IP0294) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. Phenylketonuria – Sa",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Palynziq (IP0294)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. Phenylketonuria – Sa"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-044",
+    "record_date": "2026-09-15",
+    "title": "Firdapse (IP0290) (Updated)",
+    "text_or_description": "Effective 9/15/2026 The policy name was changed from Amifampridine Products to Firdapse. Ruzurgi was removed from the policy (obsolete > 3 years). Added “All documentation must include patient-specific identifying information.” to documentation statement. Throughout the policy, references to “amifampridine” were updated to “Firdapse”. G",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Firdapse (IP0290)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 The policy name was changed from Amifampridine Products to Firdapse. Ruzurgi was removed from the policy (obsolete > 3 years). Added “All documentation must include patient-specific identifying information.” to documentation statement. Throughout the policy, references to “amifam"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-045",
+    "record_date": "2026-09-15",
+    "title": "Dimethyl Fumarate (IP0266) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Employer Plans and Individual and Family Plans Preferred Product Tables: Added “[e.g., difference in dyes, fillers, prese...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Dimethyl Fumarate (IP0266)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Employer Plans and In"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-046",
+    "record_date": "2026-09-15",
+    "title": "Rebif (IP0265) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Rebif (IP0265)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was note"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-047",
+    "record_date": "2026-09-15",
+    "title": "Ponvory (IP0264) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was note...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Ponvory (IP0264)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or w"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-048",
+    "record_date": "2026-09-15",
+    "title": "Plegridy (IP0263) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. o Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectab...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Plegridy (IP0263)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. o Appendix: It was no"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-049",
+    "record_date": "2026-09-15",
+    "title": "Mayzent (IP0262) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Conditions Not Covere...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Mayzent (IP0262)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or w"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-050",
+    "record_date": "2026-09-15",
+    "title": "Kesimpta - (IP0260) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. • Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectab...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Kesimpta - (IP0260)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. • Appendix: It was no"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-051",
+    "record_date": "2026-09-15",
+    "title": "Glatiramer Products (IP0257) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Policy Statement: Statements regarding “Copaxone/Glatopa” were updated to “glatiramer”. Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Employer Plans and Individual and...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Glatiramer Products (IP0257)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Policy Statement: Statements regarding “Copaxone/Glatopa” were updated to “glatiramer”. Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restar"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-052",
+    "record_date": "2026-09-15",
+    "title": "Glatiramer Products (IP0257) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Removed manufacturer specific formulations of glatiramer acetate as policy will apply to all generic glatiramer acetate for Individual and Family Plans Multiple Sclerosis (Injectable – Oth",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Glatiramer Products (IP0257)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Removed manufacturer specific formulations of glatiramer acetate as policy will apply to all generic glatiramer acetate for Individual and Family Plans Multiple Sclerosis (Injectable – Oth"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-053",
+    "record_date": "2026-09-15",
+    "title": "Betaseron (IP0256) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Betaseron (IP0256)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was note"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-054",
+    "record_date": "2026-09-15",
+    "title": "Bafiertam (IP0255) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. o Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Oral – F...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Bafiertam (IP0255)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. o Appendix: It was no"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-055",
+    "record_date": "2026-09-15",
+    "title": "Avonex (IP0254) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Avonex (IP0254)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was note"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-056",
+    "record_date": "2026-09-15",
+    "title": "Vumerity (IP0253) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Oral – Oth...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Vumerity (IP0253)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Appendix: It was note"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-057",
+    "record_date": "2026-09-15",
+    "title": "Standard/Performance, Value/Advantage, Legacy, Total Savings Prescription Drug Lists (IP0252) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or who is restarting therapy should be reviewed under the Initial Therapy pathway. Multiple Sclerosis (O...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Standard/Performance, Value/Advantage, Legacy, Total Savings Prescription Drug Lists (IP0252)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: A requirement that the patient is ≥ 18 years of age was added to initial and continuation criteria. Under the requirements for a patient who has received therapy for ≥ 1 year, a Note was added clarifying that a patient who has received < 1 year of therapy or w"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-058",
+    "record_date": "2026-09-15",
+    "title": "Other) Lemtrada - (IP0213) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Multiple Sclerosis: In Initial Therapy, under the criterion that the patient has highly active or aggressive multiple sclerosis, the specific criteria requirements were removed to now state “According to the prescriber, the patient has highly-active or aggressive multiple sclerosis.” o Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Mu...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Other) Lemtrada - (IP0213)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Multiple Sclerosis: In Initial Therapy, under the criterion that the patient has highly active or aggressive multiple sclerosis, the specific criteria requirements were removed to now state “According to the prescriber, the patient has highly-active or aggressive multiple scleros"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-059",
+    "record_date": "2026-09-15",
+    "title": "Ocrevus Intravenous (IP0212) (Updated)",
+    "text_or_description": "Effective 9/15/2026 • Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable – CD20- Directed Cytolytic Antibody) – Ocr",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Ocrevus Intravenous (IP0212)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 • Appendix: It was noted that a generic for Mavenclad (cladribine tablets) is now available. Multiple Sclerosis (Injectable – CD20- Directed Cytolytic Antibody) – Ocr"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-060",
+    "record_date": "2026-09-15",
+    "title": "Aklief (IP0180) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No cr",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Aklief (IP0180)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No cr"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-061",
+    "record_date": "2026-09-15",
+    "title": "Nitisinone Products (IP0146) (Updated)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Nitisinone Products (IP0146)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-062",
+    "record_date": "2026-09-15",
+    "title": "Xiaflex (IP0143) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o No criteria changes. U",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Xiaflex (IP0143)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o No criteria changes. U"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-063",
+    "record_date": "2026-09-15",
+    "title": "Dalfampridine (IP0024) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Employer Plans and Individual and Family Plans Preferred Product Table: Ampyra: Added “per the prescriber” to criteria. Multiple Sclerosis (Injectable – Beta Interferon) – Avo",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Dalfampridine (IP0024)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Employer Plans and Individual and Family Plans Preferred Product Table: Ampyra: Added “per the prescriber” to criteria. Multiple Sclerosis (Injectable – Beta Interferon) – Avo"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-064",
+    "record_date": "2026-09-15",
+    "title": "Taclonex Suspension Brands with Bioequivalent Generics (IP0011) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Removed for Employer Plans and Individual and Family Plans: Vy",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Taclonex Suspension Brands with Bioequivalent Generics (IP0011)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Removed for Employer Plans and Individual and Family Plans: Vy"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-065",
+    "record_date": "2026-09-15",
+    "title": "Neuropsychological Testing - (EN0258) (Updated)",
+    "text_or_description": "• No change in coverage. Plasm",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Neuropsychological Testing - (EN0258)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Plasm"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-066",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM040) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM040)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-067",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM039) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM039)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-068",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM038) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM038)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-069",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM037) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM037)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-070",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM036) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM036)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-071",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM035) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM035)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-072",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM034) (New)",
+    "text_or_description": "Effective 9/15/2026",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM034)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-073",
+    "record_date": "2026-09-15",
+    "title": "Per Days - (DQM028) (Updated)",
+    "text_or_description": "Effective 9/15/2026 No criteria changes.",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days - (DQM028)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 No criteria changes."
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-074",
+    "record_date": "2026-09-15",
+    "title": "Per Days (DQM010) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Policy title updated from “Hereditary Angioedema – Ekterly Drug Quantity Management Policy – Per Days for Individual and Family Plans” to “Hereditary Angioedema – Ekterly Drug Quantity Management Policy” No criteria changes. HMG-C",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Per Days (DQM010)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Frequency restriction"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Drug Quantity Management policy -- a utilization-management frequency/quantity limit.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Policy title updated from “Hereditary Angioedema – Ekterly Drug Quantity Management Policy – Per Days for Individual and Family Plans” to “Hereditary Angioedema – Ekterly Drug Quantity Management Policy” No criteria changes. HMG-C"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-075",
+    "record_date": "2026-09-15",
+    "title": "(CPG 129) (Updated)",
+    "text_or_description": "• No change in coverage. Spinal Ultrasound - (C",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "(CPG 129)",
+    "topic": "ASH Guidelines",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "PA requirement"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. ASH Guidelines entries govern the clinical criteria used by Cigna's delegated utilization-management vendor (American Specialty Health) for precertification/utilization review of MSK, spine, or chiropractic/PT services.",
+    "evidence_quote_or_field": "• No change in coverage. Spinal Ultrasound - (C"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-076",
+    "record_date": "2026-09-15",
+    "title": "(CPG 038) (Updated)",
+    "text_or_description": "• No change in coverage. eviCore Guidelines",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "(CPG 038)",
+    "topic": "ASH Guidelines",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "PA requirement"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. ASH Guidelines entries govern the clinical criteria used by Cigna's delegated utilization-management vendor (American Specialty Health) for precertification/utilization review of MSK, spine, or chiropractic/PT services.",
+    "evidence_quote_or_field": "• No change in coverage. eviCore Guidelines"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-077",
+    "record_date": "2026-09-15",
+    "title": "Preventive Care Services – (A004) (Updated)",
+    "text_or_description": "Important changes in coverage criteria/policy: •",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Preventive Care Services – (A004)",
+    "topic": "Administrative Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised.",
+    "evidence_quote_or_field": "Important changes in coverage criteria/policy: •"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-078",
+    "record_date": "2026-09-15",
+    "title": "Drugs Requiring Medical Necessity Review for Employer Plans (1602) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o Added preferred product requirement criteria for the following: Widaplik and Evesse Enzyme Replacement Therapy – Elf",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Drugs Requiring Medical Necessity Review for Employer Plans (1602)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o Added preferred product requirement criteria for the following: Widaplik and Evesse Enzyme Replacement Therapy – Elf"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-079",
+    "record_date": "2026-09-15",
+    "title": "Pharmacy and Medical Prior Authorization (1407) (Updated)",
+    "text_or_description": "Effective 9/15/2026 o Added preferred product requirement criteria for the following: Altoprev, Atorvaliq, Crestor, Ezallor Sprinkle, FloLipid, Lescol XL, Lipitor, Livalo, Roszet, rosuvastatin and ezetimibe tablets, Vytorin, Zocor, and Zypitamag Phenylketonuria – Pa",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Pharmacy and Medical Prior Authorization (1407)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria.",
+    "evidence_quote_or_field": "Effective 9/15/2026 o Added preferred product requirement criteria for the following: Altoprev, Atorvaliq, Crestor, Ezallor Sprinkle, FloLipid, Lescol XL, Lipitor, Livalo, Roszet, rosuvastatin and ezetimibe tablets, Vytorin, Zocor, and Zypitamag Phenylketonuria – Pa"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-080",
+    "record_date": "2026-09-15",
+    "title": "Quantity Limitations – (1201) (Updated)",
+    "text_or_description": "Effective 9/15/2026 Removed Enbrel and relocated to a new policy, Inflammatory Conditions – Etanercept Products Drug Quantity Management Policy – Per Days - (DQM034). Removed Ilumya and relocated to a new policy, Inflammatory Conditions – Ilumya Drug Quantity Management Policy – Per Days - (DQM035). Removed Siliq and relocated to a new policy, Inflammatory Conditions – Siliq Drug Quantity Manageme...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Quantity Limitations – (1201)",
+    "topic": "Cigna Healthcare Drug Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage",
+      "Frequency restriction"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Pharmacy/drug coverage-policy bulletin row -- defines drug coverage criteria. Drug Quantity Management policy -- a utilization-management frequency/quantity limit.",
+    "evidence_quote_or_field": "Effective 9/15/2026 Removed Enbrel and relocated to a new policy, Inflammatory Conditions – Etanercept Products Drug Quantity Management Policy – Per Days - (DQM034). Removed Ilumya and relocated to a new policy, Inflammatory Conditions – Ilumya Drug Quantity Management Policy – Per Days - (DQM035)."
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-081",
+    "record_date": "2026-09-15",
+    "title": "Percutaneous Electrical Nerve Field Stimulation (PENFS) – (0589) (New)",
+    "text_or_description": "(bulletin table row -- no free-text comment beyond status/date)",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Percutaneous Electrical Nerve Field Stimulation (PENFS) – (0589)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'New' -- a first-party record that this policy was changed. Status 'New' -- establishes coverage criteria for a previously ungoverned drug/service.",
+    "evidence_quote_or_field": "status=New; section=Medical Coverage Policy"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-082",
+    "record_date": "2026-09-15",
+    "title": "Amplitude-Modulated Radiofrequency Electromagnetic Fields Therapy – (0581) (Updated)",
+    "text_or_description": "Posted 6/15/2026, Effective 9/15/2026 Important change(s) in coverage criteria/policy: • Title change from “Amplitude-Modulated Radiofrequency Electromagnetic Fields Therapy” to “Electromagnetic Field and Alternating Electric Field Therapy for Cancer Treatment”. • Added policy statement for the use of tumor treating fields (TTFields) therapy in supratentorial glioblastoma. Benig",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Amplitude-Modulated Radiofrequency Electromagnetic Fields Therapy – (0581)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised.",
+    "evidence_quote_or_field": "Posted 6/15/2026, Effective 9/15/2026 Important change(s) in coverage criteria/policy: • Title change from “Amplitude-Modulated Radiofrequency Electromagnetic Fields Therapy” to “Electromagnetic Field and Alternating Electric Field Therapy for Cancer Treatment”. • Added policy statement for the use "
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-083",
+    "record_date": "2026-09-15",
+    "title": "Cardiac Omnibus Codes - (0574) (Updated)",
+    "text_or_description": "• No change in coverage. Categ",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Cardiac Omnibus Codes - (0574)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Categ"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-084",
+    "record_date": "2026-09-15",
+    "title": "Adjustable Continence Therapy – (0573) (Updated)",
+    "text_or_description": "• No change in coverage. Ambul",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Adjustable Continence Therapy – (0573)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Ambul"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-085",
+    "record_date": "2026-09-15",
+    "title": "Category III Current Procedural Terminology (CPT®) codes - (0558) (Updated)",
+    "text_or_description": "• No change in coverage. Cervic",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Category III Current Procedural Terminology (CPT®) codes - (0558)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Cervic"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-086",
+    "record_date": "2026-09-15",
+    "title": "Ambulatory External Implantable Electrocardiographic Monitoring - (0547) (Updated)",
+    "text_or_description": "• No change in coverage. Car",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Ambulatory External Implantable Electrocardiographic Monitoring - (0547)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Car"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-087",
+    "record_date": "2026-09-15",
+    "title": "Flow Cytometry – (0538) (Updated)",
+    "text_or_description": "Important change(s) in coverage criteria/policy: • Revised policy statement to include platelet function disorders and acquired and congenital red cell disorders in the medically necessary indications. Man",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Flow Cytometry – (0538)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised.",
+    "evidence_quote_or_field": "Important change(s) in coverage criteria/policy: • Revised policy statement to include platelet function disorders and acquired and congenital red cell disorders in the medically necessary indications. Man"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-088",
+    "record_date": "2026-09-15",
+    "title": "Vitamin D Testing – (0526) (Updated)",
+    "text_or_description": "• No change in coverage. ASH Guidelines",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Vitamin D Testing – (0526)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. ASH Guidelines"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-089",
+    "record_date": "2026-09-15",
+    "title": "Transthoracic Echocardiography in Children - (0523) (Updated)",
+    "text_or_description": "• No change in coverage. Vit",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Transthoracic Echocardiography in Children - (0523)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Vit"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-090",
+    "record_date": "2026-09-15",
+    "title": "Transthoracic Echocardiography in Adults - (0510) (Updated)",
+    "text_or_description": "• No change in coverage. Tran",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Transthoracic Echocardiography in Adults - (0510)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Tran"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-091",
+    "record_date": "2026-09-15",
+    "title": "Redundant Skin Surgery – (0470) (Updated)",
+    "text_or_description": "Posted 6/15/2026, Effective 9/15/2026 Important changes in coverage criteria/policy: • Revised the medically necessary policy statement regarding preoperative photographs to remove requirement for sensitive anatomical areas (e.g., genital or buttock regions) • Revised the medically necessary policy statement regarding rhytidectomy to include criteria that the individual is a non-smoker or agree to...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Redundant Skin Surgery – (0470)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised.",
+    "evidence_quote_or_field": "Posted 6/15/2026, Effective 9/15/2026 Important changes in coverage criteria/policy: • Revised the medically necessary policy statement regarding preoperative photographs to remove requirement for sensitive anatomical areas (e.g., genital or buttock regions) • Revised the medically necessary policy "
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-092",
+    "record_date": "2026-09-15",
+    "title": "Manipulation Under Anesthesia – (0276) (Updated)",
+    "text_or_description": "Important change(s) in coverage criteria/policy: • Revised the conservative treatment requirements for adhesive capsulitis/frozen shoulder by condensing requirements down to physical therapy and intra-articular corticosteroid injections. • Revised the conservative treatment requirements for chronic contractures and arthrofibrosis of the knee by condensing requirements down to physical therapy. Ope...",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Manipulation Under Anesthesia – (0276)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised.",
+    "evidence_quote_or_field": "Important change(s) in coverage criteria/policy: • Revised the conservative treatment requirements for adhesive capsulitis/frozen shoulder by condensing requirements down to physical therapy and intra-articular corticosteroid injections. • Revised the conservative treatment requirements for chronic "
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-093",
+    "record_date": "2026-09-15",
+    "title": "Gender Dysphoria Treatment – (0266) (Updated)",
+    "text_or_description": "• No change in coverage. Genet",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Gender Dysphoria Treatment – (0266)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Genet"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-094",
+    "record_date": "2026-09-15",
+    "title": "Benign Prostatic Hyperplasia (BPH) Surgical Treatments - (0159) (Updated)",
+    "text_or_description": "Important change in coverage criteria/policy: • Removed the policy statement for HIFU because the associated CPT code is not managed. Ele",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Benign Prostatic Hyperplasia (BPH) Surgical Treatments - (0159)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed. Comment text explicitly states clinical/coverage criteria were revised. Comment text names specific CPT/HCPCS codes affected by this policy change.",
+    "evidence_quote_or_field": "Important change in coverage criteria/policy: • Removed the policy statement for HIFU because the associated CPT code is not managed. Ele"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-095",
+    "record_date": "2026-09-15",
+    "title": "Infant Nutritional Formula - (0136) (Updated)",
+    "text_or_description": "• No change in coverage. Intr",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Infant Nutritional Formula - (0136)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Intr"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-096",
+    "record_date": "2026-09-15",
+    "title": "Cervical Cancer Screening Visualization Technologies - (0127) (Updated)",
+    "text_or_description": "• No change in coverage. Gen",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Cervical Cancer Screening Visualization Technologies - (0127)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Gen"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-097",
+    "record_date": "2026-09-15",
+    "title": "Intraocular Lens Implant – (0125) (Updated)",
+    "text_or_description": "• No change",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Intraocular Lens Implant – (0125)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-098",
+    "record_date": "2026-09-15",
+    "title": "Genetic Testing for Hereditary and Multifactorial Conditions – (0052) (Updated)",
+    "text_or_description": "• No change in coverage. Inf",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Genetic Testing for Hereditary and Multifactorial Conditions – (0052)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Inf"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-099",
+    "record_date": "2026-09-15",
+    "title": "Plasma Brain Natriuretic Peptide in the Outpatient Setting – (0028) (Updated)",
+    "text_or_description": "• No change in coverage. Tran",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "Plasma Brain Natriuretic Peptide in the Outpatient Setting – (0028)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No change in coverage. Tran"
+  },
+  {
+    "source": "Cigna",
+    "source_type": "Payer monthly policy-update bulletin (static.cigna.com PDF, September 2026)",
+    "record_id": "cigna-policy-update-2026-09-100",
+    "record_date": "2026-09-15",
+    "title": "No change in coverage Minimally Invasive Anti-Reflux Procedures and Peroral Endoscopic Myotomy (POEM) Procedures - (0019) (Updated)",
+    "text_or_description": "• No chang",
+    "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "payer": "Cigna",
+    "procedure": "No change in coverage Minimally Invasive Anti-Reflux Procedures and Peroral Endoscopic Myotomy (POEM) Procedures - (0019)",
+    "topic": "Medical Coverage Policy",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision"
+    ],
+    "classification_reason": "Official Cigna monthly policy-update bulletin row with explicit status 'Updated' -- a first-party record that this policy was changed.",
+    "evidence_quote_or_field": "• No chang"
+  }
+]

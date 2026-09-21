@@ -1,0 +1,2210 @@
+=== POST 1 ===
+urn: urn:li:activity:7505631570389557248
+author: Gigi Yuen-Reed | authorType: Person | headline: Chief Data & AI Officer | Ex-IBM Distinguished Engineer in Data Science | Master Inventor
+posted: 2026-09-15T14:20:14.272Z | isRepost: False
+likes: 26 | comments: 3 | shares: 1
+url: https://www.linkedin.com/posts/gigi-yuen-reed_activity-7505631570389557248
+text:
+I’ve been thinking about KFF’s recent analysis of CMS-0057-F and the annual metrics that health plans are now required to post publicly, including approval and denial rates and decision turnaround times. 
+
+That transparency is real progress. But visibility into the prior authorization (PA) process isn’t the same as improving it, and aggregate data points can’t tell us the whole story. There’s a bigger opportunity to understand where PA continues to break down and use that data to improve how plans operate.
+
+=== POST 2 ===
+urn: urn:li:activity:7503490030833831937
+author: Receivable Management Solutions, LLC | authorType: Person | headline: 997 followers
+posted: 2026-09-09T16:30:31.454Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/receivable-management-solutions,-llc_activity-7503490030833831937
+text:
+UnitedHealthcare (UHC) will eliminate prior authorization requirements for approximately 1,700 procedure codes beginning October 1, advancing its goal of reducing authorization volume by 30% by year-end. 
+
+The changes affect outpatient procedures including colonoscopies, endoscopies, arthroscopies, joint injections, hernia repairs, lesion excisions, fracture care, and selected genetic testing. 
+
+UHC is also expanding exemptions for rural hospitals and pediatric specialties while moving more than 70% of prior authorizations to standardized electronic formats. 
+
+Mejong Ayeb, Vice President for Revenue Cycle Market Operations at Providence, highlighted the difficulty of automation when payer policies frequently change. 
+
+The American Medical Association (AMA) reports physicians average 40 prior authorizations weekly, while revenue cycle leaders remain concerned about retrospective audits, downcoding, medical necessity reviews, and documentation requirements.
+
+RMS helps healthcare organizations redesign authorization, eligibility, documentation, and denial-prevention workflows as payer requirements change. 
+
+Our revenue cycle and implementation teams help integrate electronic processes, monitor payer policies, strengthen medical necessity documentation, reduce avoidable delays, and build sustainable systems that protect reimbursement while improving operational consistency for providers, patients, and communities.
+
+Let’s CoSource! 
+
+By strategically CoSourcing parts of your processes, your practice or facility can prevent revenue leakage and strengthen financial performance. Connect with us today at 855-676-8326 to explore how much you could save!
+
+#PriorAuthorization #UnitedHealthcare #RevenueCycleManagement #MedicalBilling #DenialManagement #HealthcareOperations #RCM #HealthcareAutomation #PayerRelations #LetsCoSource HealthLeaders
+
+https://lnkd.in/guce-Bcs
+
+=== POST 3 ===
+urn: urn:li:activity:7503813495948410880
+author: Mantl Health | authorType: Person | headline: 140 followers
+posted: 2026-09-10T13:55:51.547Z | isRepost: False
+likes: 5 | comments: 0 | shares: 2
+url: https://www.linkedin.com/posts/mantl-health_activity-7503813495948410880
+text:
+UnitedHealthcare is removing prior authorization requirements for approximately 1,700 procedure codes beginning October 1, 2026—an important step toward reducing administrative burden for providers. This change reduces prior authorization requirements by about 30%.
+
+As payer requirements continue to evolve, staying ahead of these changes remains critical to protecting reimbursement. We help our clients monitor payer changes, reduce unnecessary administrative work, address late-stage denials, and ensure patients are billed correctly.
+
+Reimbursement rules are always changing. We help our clients stay ahead of them.
+
+https://lnkd.in/dez8Tidi
+
+=== POST 4 ===
+urn: urn:li:activity:7496552531213373440
+author: PAULA- Policy-Augmented Utilization Logic Agent https://paula.pplx.app | authorType: Person | headline: 47 followers
+posted: 2026-08-21T13:03:22.652Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/paula--policy-augmented-utilization-logic-agent-https://paula.pplx.app_activity-7496552531213373440
+text:
+This week’s PAULA Report — what hospital leaders should be watching:
+
+📌 OIG is targeting ventilator-associated events as an untracked hospital-acquired condition (OEI-06-26-00210, Aug. 14). That creates a live HAC-list expansion watch and a potential new layer of payment and quality exposure.
+
+📌 OIG also found New York and Kansas Medicaid MCOs noncompliant with MH/SUD parity requirements for prior authorization. For CFOs, compliance leaders, and physician advisors, auditor-documented patterns make authorization design and appeal defensibility a board-level issue.
+
+📌 CMS Transmittal 13888 (CR 14480) adds a “reason for denial” value to prior-authorization data flowing to the Integrated Data Repository. Denial rationale is becoming more structured, visible, and auditable.
+
+📌 PAULA’s current dashboard tracks 78 policy events, 60 policy logic cards, 165 denial scenarios, 27 states, and 14 audit authorities. Risk is escalating across 3 of 8 reimbursement pathways; Medicare Advantage / Commercial shared savings, capitation, and value-based contracts are rated Severe at 4.7.
+
+The question is not whether policy change reaches operations. It’s whether your organization can identify the exposure early enough to protect revenue, documentation integrity, and clinical defensibility.
+
+PAULA watches the rules. CLIP protects the revenue.
+
+Explore the full PAULA intelligence dashboard → https://lnkd.in/gVTxr8xJ
+
+=== POST 5 ===
+urn: urn:li:activity:7505265352629501953
+author: Part ABC | authorType: Person | headline: 380 followers
+posted: 2026-09-14T14:05:01.154Z | isRepost: False
+likes: 4 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/part-abc_activity-7505265352629501953
+text:
+Prior Authorization: What does it actually mean? 🤔
+
+If your doctor says a service needs prior authorization, it doesn’t necessarily mean your care has been denied. It simply means your insurance wants to review and approve the service before agreeing to pay for it.
+
+But how that process works can look very different depending on your Medicare coverage. Original Medicare and Medicare Advantage have different rules when it comes to prior authorization.
+
+A little clarity can go a long way when navigating your Medicare coverage.  Learn more below!👇
+
+=== POST 6 ===
+urn: urn:li:activity:7503769330212499458
+author: Timothy Poore | authorType: Person | headline: Husband & father to two wonderful kids. Elevating Healthcare: Reducing Hospital Average Length of Stay, Enhancing Patient Care
+posted: 2026-09-10T11:00:21.615Z | isRepost: False
+likes: 1 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/timothy-poore_activity-7503769330212499458
+text:
+Starting January 1, your health insurer has to hand your medical history to your doctor automatically — unless you opt out. It has to hand that same history to your next insurer only if you opt in.
+ 
+ Two federal requirements, one deadline, opposite defaults. One of them will carry real volume on day one and the other almost certainly will not, and most implementation plans treat them as the same project.
+ 
+ There's a second wrinkle for hospitals. The insurer decides which patients count as yours, using a method you can't see and have no defined way to contest — so the list that comes back won't match your patient panel, and nothing in the response tells you whether a missing person was never attributed to you or simply opted out of everything.
+ 
+ Four months out, the useful test isn't whether the connection works. It's whether it returns the patients you're actually treating, with enough history to be worth reading.
+ 
+ https://lnkd.in/e2hTxHKd
+
+=== POST 7 ===
+urn: urn:li:activity:7506003300278812672
+author: Adam Gupilan | authorType: Person | headline: Licensed LVN in Utilization Management | I review the prior auths providers submit — and build the tool that gets them approved on the first shot | Founder, ClinicalFlow AI
+posted: 2026-09-16T14:57:21.584Z | isRepost: False
+likes: 0 | comments: 2 | shares: 0
+url: https://www.linkedin.com/posts/adam-gupilan_activity-7506003300278812672
+text:
+The Prior Authorization API under CMS-0057-F takes effect January 1, 2027. A little over three months.
+
+Almost everything written about it is about speed — requests moving through an API instead of a fax queue. From the review chair, that's not the part that matters.
+
+The load-bearing line is in CMS's own fact sheet. The API has to be populated with the payer's list of covered items and services, and it has to identify documentation requirements for prior authorization approval.
+
+That's the criteria checklist. Published, and queryable before the note is written.
+
+Most denials I see aren't clinical disagreements. The care was right, and the note answered a different question than the criteria asked. That checklist has always existed. It just lived on the payer's side of the wall.
+
+Two things to stay clear-eyed about.
+
+The API carries the request. It does not make the decision. A submission that still doesn't establish what the criteria ask gets denied faster, not less.
+
+And the scope is narrower than the coverage suggests. Impacted payers are Medicare Advantage organizations, Medicaid and CHIP fee-for-service and managed care, and QHP issuers on the federally facilitated exchanges. Medicare fee-for-service isn't on that list. Neither are commercial group plans.
+
+One thing already in effect that fewer offices use than should: since 2026, impacted payers have had to give a specific reason for a denied prior authorization — by portal, fax, email, mail, or phone. If your denials still say "not medically necessary" and stop there, that's a question you can ask today, not in January.
+
+=== POST 8 ===
+urn: urn:li:activity:7506111036832374785
+author: John Phomm, MBA, MPM | authorType: Person | headline: Healthcare Executive | Medicare Advantage | Government Programs | Enterprise Transformation | CMS Regulatory Compliance | Interoperability (CMS-0057F) | Operations | Product Strategy | Executive Leadership
+posted: 2026-09-16T22:05:27.980Z | isRepost: False
+likes: 3 | comments: 0 | shares: 2
+url: https://www.linkedin.com/posts/john-phomm,-mba,-mpm_activity-7506111036832374785
+text:
+The 2027 Medicare deadline is not just an IT project—it is a test of leadership.
+
+In my latest article, I share why CMS-0057-F readiness requires technology, data, operations, and governance to move together.
+
+What is the greatest risk to readiness?
+
+#Medicare #HealthcareLeadership #Interoperability #CMS0057F
+
+=== POST 9 ===
+urn: urn:li:activity:7495788002036748288
+author: Dylan Reid(Moskowitz) | authorType: Person | headline: Director‑Level Healthcare AI Operations & Strategic Communication (Target Roles) | AI Governance & Workflow Strategy | Prior Auth & Reimbursement Modernization | President, Dylan Reid Media LLC
+posted: 2026-08-19T10:25:24.692Z | isRepost: False
+likes: 8 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/dylan-reid(moskowitz)_activity-7495788002036748288
+text:
+President Trump has selected Dr. Heidi Overton to lead the FDA.     
+
+She serves as deputy director of the White House Domestic Policy Council and previously worked at the America First Policy Institute.
+
+She arrives from the Trump White House and must be confirmed by the Senate at a moment when regulatory priorities are shifting, creating new implications for AI in prior authorization and reimbursement.
+
+Overton trained in general surgery at Johns Hopkins, earned her medical degree from the University of New Mexico, and completed clinical‑investigation research training at the Johns Hopkins Bloomberg School of Public Health. Reuters reported that she was one of three finalists considered for the role.
+
+My focus is on how her leadership could influence the future of AI in prior authorization and reimbursement.
+
+FDA decisions on labeling, medical necessity criteria, and accelerated approval pathways shape how quickly AI can streamline payer approvals, reduce administrative workload, strengthen denial prevention, and improve coding accuracy.
+
+Even with Centers for Medicare & Medicaid Services reimbursement in place, FDA evidence and labeling choices determine how coverage workflows evolve. 
+
+Leadership changes at the FDA often influence business strategy, regulatory timelines, and near‑term market behavior. 
+
+Government appointments signal how organizations in payer, provider, and pharma spaces should think about revenue protection and the operational role AI will play in coverage and access.
+
+Great reporting from Reuters: https://lnkd.in/eJvnzdgv
+
+*Bloomberg News reported first that Trump picked Overton to lead the FDA.
+
+=== POST 10 ===
+urn: urn:li:activity:7503803493627912193
+author: Andrew Schreffler | authorType: Person | headline: EVP, Employee Benefits Consultant
+posted: 2026-09-10T13:16:06.808Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/andrew-schreffler_activity-7503803493627912193
+text:
+https://lnkd.in/e92Zxy2H
+
+Takeaway:
+A new, bipartisan House bill could prohibit employers' health insurers and self-insured health plans from using artificial intelligence systems to deny health insurance claims.
+
+The bill would require a licensed health care professional to oversee any AI system used in reviews and to take responsibility for any "adverse benefit determinations."
+
+=== POST 11 ===
+urn: urn:li:activity:7505021238902276096
+author: Certifi, Inc | authorType: Person | headline: 1,267 followers
+posted: 2026-09-13T21:54:59.906Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/certifi,-inc_activity-7505021238902276096
+text:
+A health insurer CEO is calling for prior authorization to be made illegal. Patrick Quigley of Sidecar Health, a non-network cash-price insurer that uses no prior auth at all, argues the system controls cost simply by denying care.
+
+The context is the first year of federally reported PA data. A KFF analysis found insurers denied 12% to 18% of requests across Medicare Advantage, Medicaid managed care, and the ACA marketplace. When patients appeal, 67% of MA denials are overturned, 47% in Medicaid, 43% on the marketplace.
+
+But the data has real gaps: it excludes the roughly 150 million people with employer coverage, reports only percentages (not volumes), and does not say what services were denied. An advocacy group estimated prior auth consumes the equivalent of more than 99,000 full-time clinicians at a cost as high as $32.7 billion annually.
+
+Starting next year, CMS requires ACA, Medicaid, and MA plans to accept electronic PA submissions through EHRs. https://hubs.ly/Q04wYwkW0
+
+=== POST 12 ===
+urn: urn:li:activity:7503563819848482817
+author: Inna Sheyn | authorType: Person | headline: Enterprise Healthcare Product, Portfolio & Competitive Strategy | Strategic Planning · Commercialization · Product Development | Payer · Provider · Consumer | Digital Health · Life Sciences · Wellness · Aging | MD MBA
+posted: 2026-09-09T21:23:44.126Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/inna-sheyn_activity-7503563819848482817
+text:
+𝗨𝗻𝗶𝘁𝗲𝗱𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝘀 𝗣𝗿𝗶𝗼𝗿 𝗔𝘂𝘁𝗵 𝗼𝗻 𝟭.𝟳𝗞 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀
+UnitedHealthcare will eliminate prior authorization requirements on approximately 1,700 service codes effective October 1 (for commercial, Medicaid, Medicare Advantage, and individual market coverage) as part of its commitment to reduce prior auth requirements by 30% by the end of 2026.
+ 
+A recent KFF analysis found UHC had the highest MA prior auth denial rate among analyzed insurers at 17% for standard requests in 2025. 
+
+Reducing which services require prior auth and reducing how often legitimate requests are denied are two different problems, and this announcement addresses only the first.
+
+=== POST 13 ===
+urn: urn:li:activity:7503799864506531840
+author: The Healthcare Hotseat | authorType: Person | headline: 250 followers
+posted: 2026-09-10T13:01:41.558Z | isRepost: False
+likes: 1 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/the-healthcare-hotseat_activity-7503799864506531840
+text:
+🔥 THE HEALTHCARE HOTSEAT | QUESTION OF THE WEEK
+
+Prior authorization was intended to help control unnecessary healthcare spending—but for many providers and patients, it has become a source of delays, administrative burden, and frustration.
+
+If you could change ONE thing about prior authorization today, what would it be?
+
+Would you eliminate it for certain services? Create universal standards? Require faster decisions? Or rethink the process entirely?
+
+🔥 Take the Hotseat. We want to hear what YOU think.
+
+#TheHealthcareHotseat #PriorAuthorization #HealthcareReform #PatientAccess #HealthcareLeadership
+
+=== POST 14 ===
+urn: urn:li:activity:7506111914444357633
+author: Kyle Hogwood PT, DPT, OCS | authorType: Person | headline: Physical Therapy Leader | Clinic Manager | PT, DPT, OCS, MBA | Healthcare Operations & Clinical Leadership
+posted: 2026-09-16T22:08:57.219Z | isRepost: False
+likes: 5 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/kyle-hogwood-pt,-dpt,-ocs_activity-7506111914444357633
+text:
+https://lnkd.in/eycipzCB
+
+Prior authorization is one of the biggest barriers I see to patients getting the care that has already been recommended for them.
+
+That’s why I was encouraged to see UnitedHealthcare announce that it will eliminate nearly 30% of its prior authorization requirements beginning October 1.
+
+Prior authorization has a legitimate purpose in reducing unnecessary care, but it can also create delays, additional administrative work, and situations where patients have difficulty accessing necessary treatment.
+
+As a physical therapist, I’ve seen how frustrating that can be for both patients and providers. Anything that reduces unnecessary barriers while still ensuring appropriate care is a step in the right direction.
+
+I’m interested to see what the impact looks like in practice and hope we continue moving toward making it easier for patients to access the care they need.
+
+=== POST 15 ===
+urn: urn:li:activity:7505223181322948609
+author: Carolyn Lookabill. CDP | authorType: Person | headline: Owner//Advisor of Caring Services LLC. Helping older adults and their family members navigate the caregiving journey. Senior placement in assisted living and memory care. End of Life Doula services, Dementia Training.
+posted: 2026-09-14T11:17:26.731Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/carolyn-lookabill.-cdp_activity-7505223181322948609
+text:
+Sharing FYI. This will impact those who provide Home health and or DME services.
+
+=== POST 16 ===
+urn: urn:li:activity:7495588129333096448
+author: PAULA- Policy-Augmented Utilization Logic Agent https://paula.pplx.app | authorType: Person | headline: 47 followers
+posted: 2026-08-18T21:11:11.326Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/paula--policy-augmented-utilization-logic-agent-https://paula.pplx.app_activity-7495588129333096448
+text:
+Two OIG audits. Two states. Same finding: Medicaid MCOs cannot prove they're meeting mental health parity requirements for prior authorization.
+
+OIG audited New York (Aug 12) and Kansas (Aug 9) Medicaid MCOs. Neither state's MCOs could produce a complete MH/SUD parity analysis. In New York, MH/SUD denial rates exceeded the state's own threshold — more than six years after the federal compliance deadline.
+
+Why this matters for hospital leaders:
+
+💰 CFOs: A federal auditor has independently documented denial-rate disparities. This is now evidence-backed appeal leverage with no expiration date — not a theoretical argument.
+
+🏥 Physician Advisors: If your payer cannot produce a compliant parity analysis, that's a defensible position in peer-to-peer and level-of-care appeals.
+
+👔 CEOs: The pattern is multi-state. If OIG audited your MCO partners tomorrow, could they substantiate their parity compliance?
+
+Meanwhile, CMS is structurally rewriting the Medicare Inpatient-Only list. 285 procedures already removed (Jan 1, 2026). 637+ proposed for removal (Jan 1, 2027). Full elimination targeted by 2029. Every procedure that shifts from inpatient to outpatient creates new denial-pattern exposure across FFS, Medicare Advantage, and commercial lines.
+
+PAULA is tracking all 77 policy events, 8 reimbursement pathways, and 165 denial scenarios — indexed to the briefings that trigger them.
+
+PAULA watches the rules. CLIP protects the revenue.
+
+Explore the full intelligence dashboard → https://lnkd.in/gke83Gtk
+
+=== POST 17 ===
+urn: urn:li:activity:7497684180449783808
+author: Sunny Sharma | authorType: Person | headline: Co-Founder, Apex EHR | EHR & Practice Operations Technology for U.S. Medical Practices | RCM • Clinical Workflows • Interoperability • Healthcare AI
+posted: 2026-08-24T16:00:08.855Z | isRepost: False
+likes: 6 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/sunny-sharma_activity-7497684180449783808
+text:
+A 1–2% Medicare reimbursement change may look small on paper.
+
+For an independent medical practice, it isn't.
+
+CMS has proposed its 2027 Medicare Physician Fee Schedule, and the numbers deserve attention.
+
+Under the proposal:
+
+→ Qualifying APM conversion factor: $33.17
+→ Non-qualifying APM conversion factor: $32.84
+
+That represents a projected decline from the current 2026 conversion factors.
+
+But here’s the bigger issue:
+
+Practices cannot manage reimbursement only after the claim is submitted.
+
+Revenue performance starts much earlier.
+
+It starts with:
+
+Patient eligibility
+↓
+Correct documentation
+↓
+Diagnosis + CPT selection
+↓
+Modifiers
+↓
+Medical necessity
+↓
+Prior authorization
+↓
+Clean claim submission
+↓
+Payment / denial
+↓
+Denial resolution
+
+CMS is also proposing changes around E/M services, G2211, remote monitoring, behavioral health, FQHC/RHC services and value-based care.
+
+That means the EHR and RCM system should not operate as two separate worlds.
+
+A modern EHR should help the provider understand:
+
+“What did I document?”
+
+But it should also help the organization understand:
+
+“Will we get paid correctly for the care we delivered?”
+
+That connection between clinical workflow and financial workflow is where I believe the next generation of healthcare technology has to go.
+
+Because improving revenue cycle isn't only about collecting faster.
+
+It's about preventing revenue leakage before the claim ever leaves the practice.
+
+For U.S. clinic owners and healthcare leaders:
+
+Where do you see the biggest revenue leakage today — documentation, coding, prior authorization, denials, or collections?
+
+#RevenueCycleManagement #Medicare #EHR #MedicalBilling #HealthcareIT
+
+=== POST 18 ===
+urn: urn:li:activity:7506074940941664256
+author: CompMed | authorType: Person | headline: 1,692 followers
+posted: 2026-09-16T19:42:02.049Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/compmed_activity-7506074940941664256
+text:
+Prior authorization denials are not the same across every payer, and new data is making those differences harder to ignore.
+
+A recent analysis found significant variation in prior authorization denial rates among insurers, with rates ranging from just 2% to as high as 25% across Medicare Advantage, Medicaid managed care and ACA marketplace plans. As payer policies and requirements continue to evolve, staying ahead of the details matters. Read the full article from Healthcare Dive: https://bit.ly/4h0ofKZ
+
+#MedicalBilling #RevenueCycleManagement #PriorAuthorization #HealthcareFinance #HealthcareAdministration
+
+=== POST 19 ===
+urn: urn:li:activity:7503471051343855617
+author: The Leaders Rheum | authorType: Person | headline: 1,746 followers
+posted: 2026-09-09T15:15:06.391Z | isRepost: False
+likes: 8 | comments: 0 | shares: 2
+url: https://www.linkedin.com/posts/the-leaders-rheum_activity-7503471051343855617
+text:
+💡𝗜𝗻𝗱𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝘁 𝗥𝗵𝗲𝘂𝗺𝗮𝘁𝗼𝗹𝗼𝗴𝘆 𝗜𝗻𝘀𝗶𝗱𝗲𝗿 𝗦𝗲𝗿𝗶𝗲𝘀💡 
+𝘙𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴 𝘧𝘰𝘳 𝘪𝘯𝘥𝘦𝘱𝘦𝘯𝘥𝘦𝘯𝘵 𝘳𝘩𝘦𝘶𝘮𝘢𝘵𝘰𝘭𝘰𝘨𝘺
+
+𝗧𝗵𝗲𝗿𝗲’𝘀 𝗮 𝗺𝗮𝗷𝗼𝗿 𝗽𝗿𝗶𝗼𝗿 𝗮𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗰𝗵𝗮𝗻𝗴𝗲 𝗰𝗼𝗺𝗶𝗻𝗴, 𝗯𝘂𝘁 𝘁𝗵𝗲𝗿𝗲’𝘀 𝗮𝗻 𝗶𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝗱𝗲𝘁𝗮𝗶𝗹 𝗿𝗵𝗲𝘂𝗺𝗮𝘁𝗼𝗹𝗼𝗴𝘆 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 𝘀𝗵𝗼𝘂𝗹𝗱 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱.
+
+ For certain CMS-regulated payers, new turnaround requirements for non-drug medical items and services are already in effect in 2026:
+
+ • 𝟳𝟮 𝗵𝗼𝘂𝗿𝘀 for expedited requests
+ • 𝟳 𝗰𝗮𝗹𝗲𝗻𝗱𝗮𝗿 days for standard requests
+
+The next major change arrives January 1, 2027, when these payers must begin supporting standardized electronic prior authorization APIs.
+
+The goal is to move more of the process away from separate portals, phone calls and faxes allowing practices to electronically identify requirements, send documentation, follow the status of a request and receive a decision.
+
+But for rheumatology, there’s an important catch:
+
+𝗧𝗵𝗼𝘀𝗲 𝟮𝟬𝟮𝟳 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗱𝗼 𝗻𝗼𝘁 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆 𝗶𝗻𝗰𝗹𝘂𝗱𝗲 𝗱𝗿𝘂𝗴 𝗽𝗿𝗶𝗼𝗿 𝗮𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀.
+
+CMS issued a separate proposed rule in April that would expand electronic prior authorization to drugs, including drugs covered under the medical benefit, beginning 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 𝟭, 𝟮𝟬𝟮𝟳, if the proposal is finalized.
+
+That makes now a good time to ask your EHR vendor a few very specific questions:
+
+Will your system support the CMS Prior Authorization API in 2027?
+Will coverage and authorization requirements appear inside the clinical workflow?
+ 
+Can required documentation be submitted electronically?
+Can staff see approvals, denials and requests for additional information without leaving the EHR?
+
+CMS estimates that prior authorization consumes roughly 𝟭𝟯 𝗵𝗼𝘂𝗿𝘀 𝗼𝗳 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿/𝘀𝘁𝗮𝗳𝗳 𝘁𝗶𝗺𝗲 𝗲𝗮𝗰𝗵 𝘄𝗲𝗲𝗸.
+
+For an independent rheumatology practice, recovering even part of that administrative time could be meaningful.
+
+This is one technology and regulatory change worth following closely over the next 12 months.
+
+𝘚𝘰𝘶𝘳𝘤𝘦𝘴: 𝘊𝘦𝘯𝘵𝘦𝘳𝘴 𝘧𝘰𝘳 𝘔𝘦𝘥𝘪𝘤𝘢𝘳𝘦 & 𝘔𝘦𝘥𝘪𝘤𝘢𝘪𝘥 𝘚𝘦𝘳𝘷𝘪𝘤𝘦𝘴, 𝘊𝘔𝘚-0057-𝘍 𝘢𝘯𝘥 𝘊𝘔𝘚-0062-𝘗
+
+#rheumatology #Insider #priorauthorization #CMS
+
+=== POST 20 ===
+urn: urn:li:activity:7504750185059885056
+author: Camille PERRIN | authorType: Person | headline: infirmière à la MSA
+posted: 2026-09-13T03:57:55.634Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/camille-perrin_activity-7504750185059885056
+text:
+UnitedHealthcare will eliminate prior authorization for 1700 common procedures and treatments. For years patients and clinicians waited days or weeks just to get approval before care could begin. Removing those barriers means faster treatment, less paperwork, and fewer delays. This isn’t just about cost. It is about restoring focus to what matters most  the patient. Sometimes the best healthcare improvement is simply removing what stands in the way 
+ #PriorAuthorization #HealthcareReform #AdministrativeSimplification #PatientAccess
+
+=== POST 21 ===
+urn: urn:li:activity:7503452220965773312
+author: Advanced Data Systems Corp | authorType: Person | headline: 4,641 followers
+posted: 2026-09-09T14:00:16.879Z | isRepost: False
+likes: 1 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/advanced-data-systems-corp_activity-7503452220965773312
+text:
+Neurology denials aren't a payer problem first.
+
+An MRI order goes in. Two weeks pass. The scan still hasn't happened, not because anything is clinically wrong, but because a payer hasn't signed off.
+
+Neurology denial rates average 18%, more than double the 5-10% most specialties see. CMS's new rule (CMS-0057-F) is pushing faster turnaround times, but a request kicked back for missing documentation still costs your patient days.
+
+Four issues account for most of the delay:
+• Incomplete headache-frequency documentation on Botox claims
+• Missing sleep architecture confirmation before EEG billing
+• Per-nerve counting errors on nerve conduction studies
+• Imaging orders submitted before authorization is confirmed
+
+A dedicated authorization queue, worked 5-7 business days ahead of each study, is the difference between reacting to denials and preventing them.
+→ https://hubs.la/Q04vcqhs0
+
+#Neurology #PriorAuthorization #DenialManagement #HealthcareRCM
+
+=== POST 22 ===
+urn: urn:li:activity:7506337040108650496
+author: CGS Administrators, LLC | authorType: Person | headline: 5,432 followers
+posted: 2026-09-17T13:03:31.360Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/cgs-administrators,-llc_activity-7506337040108650496
+text:
+📣 JB and JC suppliers, CGS has updated our Prior Authorization webpages with the latest guidance and resources to help you navigate the process with confidence. Prior Authorization ensures items meet Medicare requirements before delivery, reducing avoidable claim issues and supporting timely payments.
+
+Whether you provide lower-limb prostheses, manual wheelchairs, or other related items, explore the updated resources today! 
+
+JB: https://lnkd.in/eDKMKdDH  
+JC: https://lnkd.in/e82v29Nq
+
+#DME #Medicare #PriorAuthorization
+
+=== POST 23 ===
+urn: urn:li:activity:7505384963807236096
+author: TCP Software | authorType: Person | headline: 123,103 followers
+posted: 2026-09-14T22:00:18.681Z | isRepost: False
+likes: 4 | comments: 0 | shares: 5
+url: https://www.linkedin.com/posts/tcp-software_activity-7505384963807236096
+text:
+Physicians completed 39 prior authorizations a week on average in 2023, and medical billing and collections roles are now among the toughest healthcare jobs to fill. 
+
+A vacant seat in billing, coding, or eligibility verification means fewer claims processed, more denials, and a growing AR backlog.
+
+This article makes the case that AI can't close that gap on its own, and why healthcare organizations may need to rethink how they build workforce capacity: https://bit.ly/4yxhuYc
+
+=== POST 24 ===
+urn: urn:li:activity:7503498415939715073
+author: Association Financial Services, LLC - A Registered Investment Adviser Firm | authorType: Person | headline: 117 followers
+posted: 2026-09-09T17:03:50.619Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/association-financial-services,-llc---a-registered-investment-adviser-firm_activity-7503498415939715073
+text:
+Patients who are denied coverage for a drug or treatment are often successful when they appeal, but it takes medical evidence and persistence.
+
+=== POST 25 ===
+urn: urn:li:activity:7505445652236230656
+author: Lyn Law | authorType: Person | headline: Revenue Cycle Management Specialist | Claim Resolution, Process Improvement
+posted: 2026-09-15T02:01:27.930Z | isRepost: False
+likes: 1 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/lyn-law_activity-7505445652236230656
+text:
+Prior Authorization Is Changing in 2027
+
+Beginning in 2027, affected health plans must support electronic prior authorization through standardized APIs.
+
+This could allow providers to:
+
+✅ Determine whether authorization is required
+✅ View payer-specific documentation requirements
+✅ Submit requests within the clinical workflow
+✅ Receive approval, denial or additional-information notices electronically
+✅ See specific reasons for denials
+
+The goal is fewer phone calls, faxes and separate payer portals—but automation alone will not solve every problem.
+
+Practices will still need strong processes for eligibility verification, complete clinical documentation, authorization tracking and resolving exceptions. Staff responsibilities may shift from manual data entry toward identifying problems before they delay treatment or reimbursement.
+
+This raises an important question:
+
+Will electronic prior authorization truly reduce administrative burden—or simply move the same challenges into a new technology?
+
+What changes is your organization making to prepare for 2027? Please share your thoughts or experiences below.
+
+#PriorAuthorization #RevenueCycleManagement #HealthcareAutomation #HealthcareAI #MedicalBilling #RCM #Interoperability #LegendsLoopBillingServices
+
+=== POST 26 ===
+urn: urn:li:activity:7506331669436596224
+author: Michelle Wright | authorType: Person | headline: Field Reimbursement Manager with over a decade of measurable experience across multiple specialties, and launches while supporting offices through complex barriers by providing effective patient access solutions
+posted: 2026-09-17T12:42:10.892Z | isRepost: True
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/michelle-wright_activity-7506331669436596224
+text:
+Wow this is crazy but as a woman who worked in Revenue previously I can truly see this but to not have a person in place to review these or periodically do office audits is crazy. I really hope they don't come back and try to make them pay it back.
+
+=== POST 27 ===
+urn: urn:li:activity:7503774344385425409
+author: Devil Mountain Investment Management | authorType: Person | headline: 21 followers
+posted: 2026-09-10T11:20:17.087Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/devil-mountain-investment-management_activity-7503774344385425409
+text:
+Patients who are denied coverage for a drug or treatment are often successful when they appeal, but it takes medical evidence and persistence.
+
+=== POST 28 ===
+urn: urn:li:activity:7495933225857486848
+author: Instancy | authorType: Person | headline: 3,764 followers
+posted: 2026-08-19T20:02:28.749Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/instancy_activity-7495933225857486848
+text:
+Revenue cycle leaders entering 2026 are holding a longer watchlist than usual. A regulatory overhaul of prior auth has taken effect. Denials keep climbing. Medicare has, for the first time in its history, split physician payment into two rates. AI has moved from conference-panel curiosity to budget line. And audit scrutiny is intensifying from every direction at once.
+ 
+It's tempting to treat these as five separate fires, each needing its own task force. That instinct is the trap. The stronger reading, the one the best-performing organizations have already adopted, is that these aren't five problems. They're five pressures a single operating model can answer.
+ 
+The five developments to track:
+New prior-authorization rules. CMS-0057-F took operational effect January 1, 2026: impacted payers must decide standard requests within 7 days, urgent within 72 hours, and give a specific reason for every denial. Helpful, but only if your workflow is built to use it.
+
+Rising denials, concentrating on the highest-value inpatient and commercial claims. Good collections can't outrun bad denials.
+
+A first-of-its-kind dual Medicare conversion factor. For CY2026, CMS finalized two conversion factors for the first time ever: $33.57 for qualifying APM participants, $33.40 for everyone else. 
+
+Reimbursement now depends partly on your care model, not just your codes.
+
+AI-driven workflows, moving "left" into documentation, coding, and prior auth to prevent denials rather than chase them.
+
+Intensifying audit scrutiny. It's no longer enough to submit a correct claim; you have to be able to defend it.
+
+Here's the pattern. Every one of the five rewards the same three capabilities, and the organizations posting the strongest results share exactly these priorities:
+ 
+Automation. Take manual work out of prior auth, coding, and follow-up.
+
+Prevention. Stop denials upstream instead of appealing downstream, where you lose more than half.
+
+Visibility. See denials, audit risk, and payment shifts in time to act, not in the quarter-end report.
+ 
+Map them out and all five developments are covered. Automation speeds the new prior-auth cycle and powers the AI. Prevention cuts denials and builds the audit trail. Visibility surfaces risk and models the payment shift. You don't need five initiatives. You need one operating model with three capabilities.
+ 
+That's the strategic task for 2026: don't fight five fires. Build the one operating model that makes all five manageable, and turn a year of disruption into a durable advantage.
+ 
+(Regulatory items per CMS. Educational, not billing advice.)
+ 
+See how it works: https://zurl.co/xwopn
+ 
+#RevenueCycle #RCM #PriorAuthorization #DenialManagement #HealthcareFinance #CMS #RevenueIntegrity #HealthcareAI
+
+=== POST 29 ===
+urn: urn:li:activity:7495933233461833729
+author: Harvey Singh | authorType: Person | headline: CEO & Founder, Instancy: Enterprise Agentic AI for Skills | Instancy Healthcare: RTM, Ambient Scribe & FHIR-Native EHR Automation
+posted: 2026-08-19T20:02:30.562Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/harvey-singh_activity-7495933233461833729
+text:
+Revenue cycle leaders entering 2026 are holding a longer watchlist than usual. A regulatory overhaul of prior auth has taken effect. Denials keep climbing. Medicare has, for the first time in its history, split physician payment into two rates. AI has moved from conference-panel curiosity to budget line. And audit scrutiny is intensifying from every direction at once.
+ 
+It's tempting to treat these as five separate fires, each needing its own task force. That instinct is the trap. The stronger reading, the one the best-performing organizations have already adopted, is that these aren't five problems. They're five pressures a single operating model can answer.
+ 
+The five developments to track:
+New prior-authorization rules. CMS-0057-F took operational effect January 1, 2026: impacted payers must decide standard requests within 7 days, urgent within 72 hours, and give a specific reason for every denial. Helpful, but only if your workflow is built to use it.
+
+Rising denials, concentrating on the highest-value inpatient and commercial claims. Good collections can't outrun bad denials.
+
+A first-of-its-kind dual Medicare conversion factor. For CY2026, CMS finalized two conversion factors for the first time ever: $33.57 for qualifying APM participants, $33.40 for everyone else. 
+
+Reimbursement now depends partly on your care model, not just your codes.
+
+AI-driven workflows, moving "left" into documentation, coding, and prior auth to prevent denials rather than chase them.
+
+Intensifying audit scrutiny. It's no longer enough to submit a correct claim; you have to be able to defend it.
+
+Here's the pattern. Every one of the five rewards the same three capabilities, and the organizations posting the strongest results share exactly these priorities:
+ 
+Automation. Take manual work out of prior auth, coding, and follow-up.
+
+Prevention. Stop denials upstream instead of appealing downstream, where you lose more than half.
+
+Visibility. See denials, audit risk, and payment shifts in time to act, not in the quarter-end report.
+ 
+Map them out and all five developments are covered. Automation speeds the new prior-auth cycle and powers the AI. Prevention cuts denials and builds the audit trail. Visibility surfaces risk and models the payment shift. You don't need five initiatives. You need one operating model with three capabilities.
+ 
+That's the strategic task for 2026: don't fight five fires. Build the one operating model that makes all five manageable, and turn a year of disruption into a durable advantage.
+ 
+(Regulatory items per CMS. Educational, not billing advice.)
+ 
+See how it works: https://zurl.co/xwopn
+ 
+#RevenueCycle #RCM #PriorAuthorization #DenialManagement #HealthcareFinance #CMS #RevenueIntegrity #HealthcareAI
+
+=== POST 30 ===
+urn: urn:li:activity:7503774328405045249
+author: Chris Hannan | authorType: Person | headline: President & Financial Advisor at Devil Mountain Investment Management
+posted: 2026-09-10T11:20:13.277Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/chris-hannan_activity-7503774328405045249
+text:
+Patients who are denied coverage for a drug or treatment are often successful when they appeal, but it takes medical evidence and persistence.
+
+=== POST 31 ===
+urn: urn:li:activity:7503482041573785601
+author: Val Lopez | authorType: Person | headline: Helping Healthcare Organizations Optimize IT, Utilization Management & Training | Business Development at Blue Eagle Consulting
+posted: 2026-09-09T15:58:46.666Z | isRepost: True
+likes: 2 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/val-lopez_activity-7503482041573785601
+text:
+Are you ready? CMS now requires standard prior authorization decisions within 7 days and expedited requests within 72 hours. Is your UM team prepared to meet these requirements while reducing costs and improving provider satisfaction?
+
+=== POST 32 ===
+urn: urn:li:activity:7504629064675151873
+author: NY Medical RCM | authorType: Person | headline: 3 followers
+posted: 2026-09-12T19:56:38.284Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/ny-medical-rcm_activity-7504629064675151873
+text:
+As of January 1, 2026, payers must decide standard prior auth requests within 7 days, expedited within 72 hours — and every denial now requires a specific reason. That's a real opening for practices to appeal, if they're tracking it. (Per CMS-0057-F.)
+
+#MedicalBilling #PriorAuthorization #DenialManagement #RevenueCycleManagement #CMS #NYMedicalRCM
+
+=== POST 33 ===
+urn: urn:li:activity:7505607126795481088
+author: Rio Radice | authorType: Person | headline: COO | Leadership | Dental Sleep | Software and Technology
+posted: 2026-09-15T12:43:06.465Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/rio-radice_activity-7505607126795481088
+text:
+In case we needed more proof that insurance billing is a confusing process rife with error and in need of systems that can make it easier... 😉 
+
+I love the subheadline: 
+
+"Association reminds dentists to be vigilant when reviewing explanations of benefits"
+
+This is make-or-break for smaller practices. Vigilance isn't a choice - it's a necessity for staying in business. 
+
+You need a tool - and a team behind that tool - who can make sure you get the payments you've been promised on time. 
+
+https://lnkd.in/eKFNnZnp
+
+=== POST 34 ===
+urn: urn:li:activity:7504293797636370434
+author: Westside Behavioral Care | authorType: Person | headline: 98 followers
+posted: 2026-09-11T21:44:24.393Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/westside-behavioral-care_activity-7504293797636370434
+text:
+Westside Behavioral Care works with many major insurance plans, including Aetna, Anthem Blue Cross Blue Shield, Cigna / Evernorth, Humana / Medicare, Medicare, and UnitedHealthcare / Optum. Most clients using these insurance providers are able to schedule an appointment within just a few days.
+
+https://lnkd.in/eebs6chT
+
+=== POST 35 ===
+urn: urn:li:activity:7503451965973233664
+author: Lisa Krueger, MSN, MBA | authorType: Person | headline: Healthcare Operations Executive & Former Hospitalist NP | Value-Based Care, Physician Group Operations & P&L Performance | Fractional Advisory
+posted: 2026-09-09T13:59:16.084Z | isRepost: True
+likes: 3 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/lisa-krueger,-msn,-mba_activity-7503451965973233664
+text:
+Prior authorization is one of those things that quietly impacts hours of staff and physician time, delayed care, revenue stuck in limbo, and most of it invisible on the P&L until you go looking for it.
+ 
+The changes coming are significant, but here's the operational reality I keep coming back to: most groups treat prior auth as a compliance task to survive, not a workflow to design. That's the miss. The groups that will come out ahead aren't just reacting to the new requirements, they're rethinking how prior auth actually moves through their people, processes, and technology.
+ 
+In this episode I get into what's changing and why "beyond compliance" is the mindset that matters. When you've untangled a prior auth bottleneck, where did the real fix come from, the workflow, the staffing, or the technology?
+
+=== POST 36 ===
+urn: urn:li:activity:7503803312706617346
+author: Ask For IT Solutions | authorType: Person | headline: 93 followers
+posted: 2026-09-10T13:15:23.673Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/ask-for-it-solutions_activity-7503803312706617346
+text:
+Prior authorization is about to change whether anyone is ready or not.
+
+CMS-0057-F requires impacted payers to run electronic prior authorization through standardized APIs by January 1, 2027. Metrics reporting already started this year. An April proposal extends the reform to drugs.
+
+Meanwhile, the day-to-day reality has not budged: practices average roughly 40 prior auths per physician per week, about 12 staff hours of pure administration.
+
+The solutions we deploy cut prior authorization workload by 80% and target the three places PA actually fails: missing documentation, missing or incorrect authorization, and medical necessity appeals. The result is 20% higher claim recovery across all three.
+
+💬 What would your team do with 80% less prior authorization work? 
+
+The organizations that automate before the deadline set the pace. The ones that wait inherit the scramble.
+
+📌 SAVE FOR LATER: the 2027 deadline belongs on your roadmap now
+👏🏼 SHARE & FOLLOW: to stay up to date
+📞 QUESTIONS FOR US: See how it works → https://lnkd.in/eMyY_6MP
+
+#AskForITSolutions #PriorAuthorization #RevenueCycle #CMS #HealthcarePolicy
+
+=== POST 37 ===
+urn: urn:li:activity:7503731549339750402
+author: Mike G. | authorType: Person | headline: Balancing Success, Counting on Accuracy
+posted: 2026-09-10T08:30:13.953Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/mike-g._activity-7503731549339750402
+text:
+The Medicare Advantage Improvement Act Just Cleared Its First Hurdle — What H.R. 8375 Would Mean for HH and Hospice Cash Flow
+
+H.R. 8375 — the Medicare Advantage Improvement Act of 2026 — has picked up bipartisan support and endorsement from AHA, AAHomecare, and LeadingAge since its April 2026 introduction. If it moves, the friction that has strangled home health and hospice MA margins for the last five years changes materially.
+
+Most owners are treating this as political noise. It is worth reading the text.
+
+What the bill actually does that hits your P&L:
+
+1. Standard prior authorization decisions in 72 hours, expedited in 24 hours. Today many MA plans stretch decisions past two weeks, delaying starts of care and inflating your DSO. Compressed decision windows would move revenue forward by 10–20 days on affected episodes.
+
+2. Coverage criteria must align with traditional Medicare. Plans could no longer apply stricter medical necessity thresholds than fee-for-service. That kills a significant portion of the denial rationale used against home health episodes and hospice general inpatient stays.
+
+3. No re-authorization on services already approved or when a clinician makes clinically necessary changes mid-episode. This is the single biggest source of mid-episode revenue leakage most agencies do not track separately.
+
+4. Expanded access requirements for post-acute providers, including home medical equipment and home-based care. Narrow-network MA behavior would face new statutory constraints.
+
+Even if the bill stalls in this Congress, three things are already happening:
+— CMS is signaling alignment through its own prior authorization rulemaking
+— MA plans that overreach on prior auth are visible political targets
+— The 25+ health systems dropping MA contracts in 2026 have shifted the negotiating floor
+
+What you should be doing regardless of the bill's timeline:
+— Track prior auth turnaround time by MA plan as a monthly KPI
+— Document mid-episode reauthorization requests separately from initial denials
+— Build appeal cost per denied episode into your MA contract profitability analysis
+
+If the reform passes, agencies with clean data will capture the cash flow benefit first. If it stalls, that same data is your negotiating leverage at contract renewal.
+
+Visit alpha-financial-inc.com for guidance on turning MA payer data into contract and cash-flow decisions.
+
+Sources:
+• H.R. 8375 — Medicare Advantage Improvement Act of 2026 (Congress.gov): https://lnkd.in/efnSGJek
+• Home Health Care News — Bipartisan Bill to Reform Medicare Advantage: https://lnkd.in/e3-tynMN
+• AHA Support Letter (5/7/2026): https://lnkd.in/eQEEitXE
+
+=== POST 38 ===
+urn: urn:li:activity:7504169416428007428
+author: Verovian AHP Recruitment USA | authorType: Person | headline: 13 followers
+posted: 2026-09-11T13:30:09.602Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/verovian-ahp-recruitment-usa_activity-7504169416428007428
+text:
+𝗨𝗻𝗶𝘁𝗲𝗱𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗣𝗿𝗶𝗼𝗿 𝗔𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝗦𝗽𝗲𝗲𝗰𝗵-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗮𝘁𝗵𝗼𝗹𝗼𝗴𝘆 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀
+
+UnitedHealthcare (UHC) has announced that, effective October 1, 2026, prior authorization will not apply to select speech-language pathology services under its Medicare Advantage and Dual Special Needs Plans (D-SNPs). The change follows the insurer's broader prior authorization requirements for therapy and chiropractic services.
+
+𝗖𝗣𝗧 𝗰𝗼𝗱𝗲𝘀 𝗲𝘅𝗲𝗺𝗽𝘁 𝗳𝗿𝗼𝗺 𝗽𝗿𝗶𝗼𝗿 𝗮𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻:
+
+- CPT 92507 and 92508 will not require prior authorization under Medicare Advantage or D-SNP plans
+- CPT 92526 will not be subject to prior authorization under Medicare Advantage plans
+
+𝗢𝘂𝘁𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗰𝗼𝗻𝘀𝗶𝗱𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀:
+
+- Prior authorization policies do not appear to have changed for Medicaid managed care plans
+- CPT 92507 is set to be deleted effective January 1, 2027, and ASHA has contacted UHC to determine whether the replacement codes will be subject to prior authorization
+- ASHA has confirmed further updates will be shared as they become available
+
+𝗛𝗼𝘄 𝗺𝗶𝗴𝗵𝘁 𝘁𝗵𝗲𝘀𝗲 𝗽𝗿𝗶𝗼𝗿 𝗮𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗰𝗵𝗮𝗻𝗴𝗲𝘀 𝗮𝗳𝗳𝗲𝗰𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝘀𝗲𝗹𝗼𝗮𝗱 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗿𝗲𝗳𝗲𝗿𝗿𝗮𝗹 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀? 𝗦𝗵𝗮𝗿𝗲 𝘆𝗼𝘂𝗿 𝘁𝗵𝗼𝘂𝗴𝗵𝘁𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝗲𝗻𝘁𝘀.
+
+#Verovian #Healthcare #Recruitment #SpeechLanguageTherapists #SpeechLanguagePathology #SLP #ASHA #UnitedHealthcare #PriorAuthorization #MedicareAdvantage #HealthcareProfessionals #VerovianAgencyCares #USNews
+
+=== POST 39 ===
+urn: urn:li:activity:7503449353483894784
+author: Flora Verity Revenue Cycle Support | authorType: Person | headline: 5 followers
+posted: 2026-09-09T13:48:53.218Z | isRepost: False
+likes: 1 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/flora-verity-revenue-cycle-support_activity-7503449353483894784
+text:
+“No prior authorization required.”
+
+Sounds like one less thing to worry about.
+
+Not quite.
+
+As payers reduce prior authorization requirements, front-end teams still need to verify the details:
+
+✓ Is PA removed for this specific plan and service?
+✓ Is advance notification still required?
+✓ Is the provider and site of care in network?
+✓ Are there benefit limitations or medical-necessity requirements?
+✓ Has the payer workflow been updated internally?
+
+A payer policy change only saves administrative time when the practice’s workflow changes with it.
+
+Otherwise, teams may spend time obtaining authorizations that are no longer necessary—or assume no action is required when another payer requirement still applies.
+
+Good front-end revenue cycle management isn’t simply obtaining authorization.
+
+It’s knowing exactly what is required before the patient receives care.
+
+That protects patient access, staff time, and reimbursement.
+
+— Flora Verity Revenue Cycle Support
+
+#PriorAuthorization #RevenueCycleManagement #PatientAccess #InsuranceVerification #DenialPrevention #HealthcareRCM #dermatology #rcm #healthcarebilling #floraverity #physiciansupport
+
+=== POST 40 ===
+urn: urn:li:activity:7503795690360209408
+author: Drew Kyler | authorType: Person | headline: Strategy, Growth, and Operations Leader
+posted: 2026-09-10T12:45:06.364Z | isRepost: False
+likes: 3 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/drew-kyler_activity-7503795690360209408
+text:
+Administrative Complexity Is Becoming a Clinical Problem
+
+Prior authorization, claim denials, and payer documentation requirements are often described as revenue cycle challenges.
+
+Technically, that is true.
+
+But it may also understate the broader impact they have on healthcare organizations.
+
+When administrative requirements consume clinical time, delay treatment, and reduce organizational capacity, they are no longer simply financial problems.
+
+They become care delivery problems.
+
+That is one reason I found the American Hospital Association’s recent Cost of Caring report particularly important. The report notes that Medicare Advantage plans issued nearly 50 million prior authorization requests in 2023 and that hospitals spent approximately $26 billion managing insurance claims. It also found that 70% of denied claims were eventually paid, but only after additional reviews and administrative work.
+
+That is an extraordinary amount of effort devoted to determining whether organizations will be paid for care they have already delivered.
+
+The cost is not limited to billing departments.
+
+Physicians participate in peer-to-peer reviews.
+
+Nurses provide additional documentation.
+
+Patients wait for decisions.
+
+Administrative teams track, resubmit, appeal, and reconcile information across multiple systems.
+
+The most effective healthcare finance leaders I have worked with understand that administrative efficiency and clinical capacity are increasingly connected.
+
+Every unnecessary administrative task competes with something else the organization could be doing.
+
+That might be caring for another patient, resolving a genuine clinical issue, improving the patient experience, or investing in growth.
+
+Healthcare has spent years treating administrative complexity as an unavoidable feature of the system.
+
+I suspect that view is becoming financially and operationally unsustainable.
+
+Reducing administrative burden may ultimately prove to be one of the most important clinical capacity strategies available to healthcare organizations.
+
+Article: https://lnkd.in/eETYda7Q
+
+=== POST 41 ===
+urn: urn:li:activity:7503848562695434240
+author: William Pokluda, CEBS | authorType: Person | headline: Global Total Rewards & Benefits Leader | Director, Healthcare Benefits Strategy & Operations at Gartner | Author of Maximize Your Health Insurance | Scaling Digital Health Tech & Value-Based Care for 10K+ Populations
+posted: 2026-09-10T16:15:12.111Z | isRepost: False
+likes: 5 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/william-pokluda,-cebs_activity-7503848562695434240
+text:
+Remember when a teacher cancelled recess for the whole class because one student misbehaved?
+ 
+That is exactly how Prior Authorization (PA) feels for patients today. A system meant to manage utilization often ends up delaying critical care for the vast majority of people who genuinely need it.
+ 
+According to a study in Health Affairs, prior authorization costs the U.S. healthcare system $93.3 billion annually, consuming massive resources in paperwork and appeals. https://lnkd.in/ehMWY8Z3
+ 
+But the real cost is measured in patient friction: delayed treatments, administrative confusion, and abandoned prescriptions.
+ 
+Today, healthcare players—payers, providers, and employers—remain highly siloed. Everyone works in isolation, and the patient is caught in the middle. As benefits and insurance professionals, we have a responsibility to break down these barriers and build integrated, collaborative systems that put the patient experience first.
+ 
+How is your organization working to bridge these silos and simplify the patient journey?
+ 
+KFF video:  https://lnkd.in/eR-SbQi3
+ 
+#PatientCare #HealthInsurance #PriorAuthorization #EmployeeBenefits #HealthcareAdvocacy #HealthcareCollaboration
+
+=== POST 42 ===
+urn: urn:li:activity:7503809538203066368
+author: Riddle Compliance | authorType: Person | headline: 110 followers
+posted: 2026-09-10T13:40:07.947Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/riddle-compliance_activity-7503809538203066368
+text:
+Prior authorization denials are not always a payer issue.
+
+Sometimes they are a visibility issue.
+OIG has continued to review prior authorization processes, including reports involving Medicaid managed care and Medicare Advantage denials. One recent OIG listing noted that Medicare Advantage organizations overturned nearly all appealed prior authorization denials for skilled nursing facility admission, raising concerns about initial denials. 
+
+For healthcare leaders, that raises a practical question.
+
+Are denied authorizations being treated as isolated cases, or as operational intelligence?
+
+A denial can reveal documentation gaps, payer rule misalignment, incomplete clinical support, weak escalation, or inconsistent follow-up.
+
+Prepared organizations track more than approval rates.
+
+They review denial reasons, appeal overturn rates, timing, payer variation, service lines affected, and the financial impact of delayed care or reimbursement.
+
+Revenue integrity improves when authorization data informs process improvement.
+
+Where could your prior authorization data be showing a preventable pattern that is not yet reaching leadership?
+
+=== POST 43 ===
+urn: urn:li:activity:7506035876880195584
+author: Medikode Inc | authorType: Person | headline: 164 followers
+posted: 2026-09-16T17:06:48.451Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/medikode-inc_activity-7506035876880195584
+text:
+FOIA documents reveal CMS rushed its AI prior-authorization pilot despite vendor warnings — a compliance signal coders and RCM teams shouldn't ignore.
+
+=== POST 44 ===
+urn: urn:li:activity:7506310249843314693
+author: Teresa Heim | authorType: Person | headline: CEO @ Behavioral Health Billing Solutions | Ohio Medicaid Expert
+posted: 2026-09-17T11:17:04.063Z | isRepost: True
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/teresa-heim_activity-7506310249843314693
+text:
+Comments are due today. If you are an Ohio Behavioral Health Agency, it’s important to review these “proposed” rules and provide comment. These are impactful changes, operational and financial. 
+
+#allinthistogether
+
+=== POST 45 ===
+urn: urn:li:activity:7505233975909576705
+author: Bonfire Revenue | authorType: Person | headline: 953 followers
+posted: 2026-09-14T12:00:20.361Z | isRepost: False
+likes: 2 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/bonfire-revenue_activity-7505233975909576705
+text:
+Master HCFA-1500 claim formatting for integrative pain rehab. Avoid common denials by correctly using identifiers like POS, modifiers, and taxonomy codes.
+
+=== POST 46 ===
+urn: urn:li:activity:7503935095540449280
+author: Josh Schweizer | authorType: Person | headline: Sales Development Representative at Assembly Health
+posted: 2026-09-10T21:59:03.149Z | isRepost: False
+likes: 2 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/josh-schweizer_activity-7503935095540449280
+text:
+A TMS billing policy change doesn't have to introduce a new CPT code to create new billing problems.
+
+In March 2026, CMS updated several Medicare TMS billing policies, with revised guidance taking effect around the end of March and beginning of April.
+
+On paper, the change can look like a routine policy update.
+
+For TMS providers, it's worth paying closer attention.
+
+Why?
+
+Because TMS reimbursement isn't just about submitting the correct CPT code. Coverage, documentation, diagnosis requirements, authorization and payer-specific billing rules all play a role in whether that claim actually gets paid.
+
+And that's where things can get messy.
+
+For example:
+• CMS's current TMS billing guidance continues to identify 90867, 90868 and 90869 as the core TMS treatment codes.
+• Medicare coverage still ties medical necessity to specific diagnoses. CMS's current billing article lists F32.2 and F33.2 among the covered diagnosis codes. Simply attaching a payable procedure code to a claim doesn't guarantee reimbursement.
+• Payer requirements can also differ significantly. Highmark, for example, added TMS codes 90867, 90868 and 90869 to its prior authorization requirements effective March 1, 2026, alongside PHP and IOP codes.
+
+That's the trap.
+
+A practice can update its billing rules based on one payer's requirements and still have claims denied by another because the authorization, documentation or medical-necessity rules aren't the same.
+
+And for organizations offering TMS alongside IOP, PHP, Spravato or traditional outpatient psychiatry, the complexity compounds.
+
+Different services.
+
+Different authorization requirements.
+
+Different payer policies.
+
+Different documentation expectations.
+
+Same billing team.
+
+The result can be more rework, more denials, longer payer follow-up and ultimately more money sitting in AR.
+
+TMS providers should be reviewing their payer-specific requirements, not just their CPT codes.
+
+If your billing team updated its TMS workflow this spring but didn't revisit the payer-specific authorization and documentation requirements behind it, that's worth taking another look at.
+
+Sources: CMS Medicare Coverage Database, “Billing and Coding: Transcranial Magnetic Stimulation” (current effective date 4/1/2026); Highmark, “Behavioral Health: Upcoming Prior Authorization Changes.”
+
+https://lnkd.in/gXSBDVwM
+
+=== POST 47 ===
+urn: urn:li:activity:7503459026744168448
+author: Rosemary John | authorType: Person | headline: Healthcare Operations & Analytics Professional | AI-Powered Workflow & Productivity |Helping Healthcare Practices Improve Operations Through Data, AI & Patient-Centered Workflows | Founder, Other Doors Initiative
+posted: 2026-09-09T14:27:19.503Z | isRepost: False
+likes: 3 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/rosemary-john_activity-7503459026744168448
+text:
+A prior authorization was denied.
+
+Okay.
+
+But what happened before that denial?
+
+That’s the part I’m interested in.
+
+When you look at prior authorization data, it’s easy to say: “10 medications were denied this month.” But that number alone doesn’t tell me much.
+
+I want to know why they were denied.
+
+Was it because the medication didn’t meet the insurance company’s criteria?
+Was documentation missing?
+Was the wrong information submitted?
+Did the patient’s medical history support the request?
+Were the recent office notes and medication history reviewed before answering the payer’s questions?
+
+Because when you’re working on a prior authorization, you’re not just filling out a form and hoping for an approval.
+
+You’re working with the patient’s clinical information, provider documentation, medication history, and the payer’s requirements.
+
+And sometimes, one missing piece of information can change the outcome.
+
+That’s why I don’t think “approved” or “denied” should be the end of the analysis.
+
+The real question is: What is driving the outcome?
+
+Because a denial is a number.
+
+The story behind that number is where the real insight is. 
+
+
+#HealthcareAnalytics #HealthcareOperations #PriorAuthorization #HealthcareData #TheStoryBehindTheData
+
+=== POST 48 ===
+urn: urn:li:activity:7504147351893262336
+author: Daniels Distribution | authorType: Person | headline: 9 followers
+posted: 2026-09-11T12:02:29.007Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/daniels-distribution_activity-7504147351893262336
+text:
+🚨 CMS Finalizes Historic Rule Streamlining Prior Authorization & API Integration  The Centers for Medicare & Medicaid Services (CMS) has issued its landmark Interoperability and Prior Authorization Final Rule (CMS-0057-F). Designed to alleviate administrative burden and mitigate care delays, this mandate impacts Medicare Advantage organizations, state Medicaid agencies, and Qualified Health Plans. By codifying strict decision timelines and demanding transparency in denials, CMS directly addresses long-standing friction points between revenue cycle teams and payers.  For clinical leaders and practice administrators, prior authorization overhead has long diverted valuable resources away from patient care while increasing billing complexity. Under this new rule, payers are mandated to modernize technological infrastructure through standardized APIs, effectively automating authorization workflows. This shift is projected to save healthcare systems billions while accelerating clinical delivery and reducing unnecessary claim denial rates.  Key Takeaways: • Decision Timelines Mandated: Impacted payers must respond to urgent prior authorization requests within 72 hours and non-urgent requests within 7 calendar days. • Denial Transparency Required: Payers must provide specific reasons for prior authorization denials to facilitate clear appeals and accurate rebilling. • Interoperable API Integration: Mandates implementation of HIPAA-compliant APIs by 2027 to automate prior auth workflows and cut administrative burden.  How will these shortened timelines and mandatory API integrations reshape your organization's revenue cycle and clinical workflow strategies?  🔗 Source Article: https://lnkd.in/etwRpHgC  👍 If you found this update valuable, please like, share with your clinical network, and follow for daily medical policy and healthcare updates! #MedicalBilling #MedicalCoding #HealthcareReimbursement #PriorAuth #RevenueCycle
+
+=== POST 49 ===
+urn: urn:li:activity:7504147256795729921
+author: The Podiatry Voice | authorType: Person | headline: 13 followers
+posted: 2026-09-11T12:02:06.334Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/the-podiatry-voice_activity-7504147256795729921
+text:
+🚨 CMS Finalizes Historic Rule Streamlining Prior Authorization & API Integration  The Centers for Medicare & Medicaid Services (CMS) has issued its landmark Interoperability and Prior Authorization Final Rule (CMS-0057-F). Designed to alleviate administrative burden and mitigate care delays, this mandate impacts Medicare Advantage organizations, state Medicaid agencies, and Qualified Health Plans. By codifying strict decision timelines and demanding transparency in denials, CMS directly addresses long-standing friction points between revenue cycle teams and payers.  For clinical leaders and practice administrators, prior authorization overhead has long diverted valuable resources away from patient care while increasing billing complexity. Under this new rule, payers are mandated to modernize technological infrastructure through standardized APIs, effectively automating authorization workflows. This shift is projected to save healthcare systems billions while accelerating clinical delivery and reducing unnecessary claim denial rates.  Key Takeaways: • Decision Timelines Mandated: Impacted payers must respond to urgent prior authorization requests within 72 hours and non-urgent requests within 7 calendar days. • Denial Transparency Required: Payers must provide specific reasons for prior authorization denials to facilitate clear appeals and accurate rebilling. • Interoperable API Integration: Mandates implementation of HIPAA-compliant APIs by 2027 to automate prior auth workflows and cut administrative burden.  How will these shortened timelines and mandatory API integrations reshape your organization's revenue cycle and clinical workflow strategies?  🔗 Source Article: https://lnkd.in/etwRpHgC  👍 If you found this update valuable, please like, share with your clinical network, and follow for daily medical policy and healthcare updates! #MedicalBilling #MedicalCoding #HealthcareReimbursement #PriorAuth #RevenueCycle
+
+=== POST 50 ===
+urn: urn:li:activity:7504287756706185216
+author: Crescera | authorType: Person | headline: 4 followers
+posted: 2026-09-11T21:20:24.123Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/crescera_activity-7504287756706185216
+text:
+Nearly 30 health systems just walked away from Medicare Advantage.
+
+Mayo Clinic, NewYork-Presbyterian, Mount Sinai and dozens more dropped MA contracts in 2026, citing prior authorization denials and slow reimbursement. More than 80% of denied claims get overturned on appeal, yet only 1 in 10 denials are ever appealed. A lot of "no" was never meant to stick.
+
+This isn't a payer PR problem. It's balance-sheet math. Health systems have priced in the real cost of administrative friction, and for a growing share of contracts, MA no longer clears the bar.
+
+Expect this list to keep growing through 2026. The MA plans that keep marquee networks won't be the richest in benefits. They'll be the fastest to fix authorization turnaround, before renewal season, not after.
+
+Half of Medicare beneficiaries sit in MA plans. Every dropped contract pushes seniors into a narrower network or a new plan mid-relationship with their doctor. This is as much an access story as a finance one.
+
+Health system leaders: what would it take for MA to earn its way back into your payer mix?
+
+#MedicareAdvantage #Healthcare #ValueBasedCare #HealthTech #PriorAuthorization
+
+=== POST 51 ===
+urn: urn:li:activity:7503813450742243328
+author: Mary Golas | authorType: Person | headline: Whistleblower: specialist in ICE alerts, surveillance, accountability, compliance. Cybersecurity analyst, focused on election security.
+posted: 2026-09-10T13:55:40.769Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/mary-golas_activity-7503813450742243328
+text:
+https://lnkd.in/gnkwjieq
+from 2025
+
+=== POST 52 ===
+urn: urn:li:activity:7503817914463027200
+author: Adnan Moeen | authorType: Person | headline: Co-Founder @ CareCycle MBS | Medical Billing, Credentialing & RCM | Helping Practices Go from “We Should’ve Been Paid” to “We Got Paid”
+posted: 2026-09-10T14:13:25.003Z | isRepost: False
+likes: 2 | comments: 1 | shares: 1
+url: https://www.linkedin.com/posts/adnan-moeen_activity-7503817914463027200
+text:
+𝐓𝐇𝐄 𝐁𝐈𝐋𝐋𝐈𝐍𝐆 𝐑𝐎𝐎𝐌
+Chapter 4: Prior Authorization 
+Part 1 - "Why It Exists and Why Everyone Hates It" 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+A new chapter starts today.  
+
+If credentialing is the gate you have to pass before you can bill, prior authorization is the gate that stands between your patient and their treatment, every single time certain services are ordered.  Nobody in healthcare likes it. Almost everyone deals with it constantly. Very few people actually understand why it exists or how to work with it efficiently.  
+
+𝐖𝐇𝐀𝐓 𝐈𝐒 𝐏𝐑𝐈𝐎𝐑 𝐀𝐔𝐓𝐇𝐎𝐑𝐈𝐙𝐀𝐓𝐈𝐎𝐍?  Prior authorization, often called prior auth or PA, is a requirement from the insurance payer that certain services, procedures, or medications must be approved before they are performed or prescribed.  Without that approval, the payer can deny the claim entirely, even if the service was medically necessary and correctly documented.  
+
+𝐖𝐇𝐘 𝐃𝐎𝐄𝐒 𝐈𝐓 𝐄𝐗𝐈𝐒𝐓?  Payers use prior auth as a cost and utilization control mechanism. From their perspective, it prevents unnecessary or inappropriate care, controls high cost procedures and medications, and ensures the requested treatment matches their specific coverage criteria before money is spent.  From the provider and patient perspective, it often feels like a delay tactic that puts a non-clinical reviewer between the doctor and the treatment plan.  Both things are true at the same time. That tension is exactly why prior auth is one of the most frustrating parts of modern healthcare.  
+
+𝐖𝐇𝐀𝐓 𝐓𝐘𝐏𝐈𝐂𝐀𝐋𝐋𝐘 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐒 𝐈𝐓  Advanced imaging like MRIs, CTs, and PET scans.  Many surgical procedures, particularly elective ones.  Certain specialty medications, especially biologics and high cost drugs.  Durable medical equipment above certain cost thresholds.  Some physical therapy, chiropractic, and behavioral health services beyond an initial visit count.  Out of network referrals.  Requirements vary significantly by payer, by plan, and by state. What requires auth with one payer may not require it with another for the exact same service.  
+
+𝐓𝐇𝐄 𝐑𝐄𝐀𝐋 𝐂𝐎𝐒𝐓 𝐎𝐅 𝐆𝐄𝐓𝐓𝐈𝐍𝐆 𝐈𝐓 𝐖𝐑𝐎𝐍𝐆  Missing or invalid prior auth is one of the most common denial reasons we covered back in Chapter 3. The claim gets denied regardless of medical necessity. The patient's care gets delayed while the practice scrambles to obtain retroactive approval, which many payers refuse to grant.  This is not a small administrative detail. It is one of the highest stakes steps in the entire billing process, because it happens before the service is even rendered.  
+
+Next, we go into which specific procedures require prior auth by specialty, so you know exactly what to check before you schedule.  
+
+
+#TheBillingRoom #PriorAuthorization #MedicalBilling #HealthcareRCM #RevenueCycle #BillingExplained #HealthcareBilling #PracticeManagement #InsuranceAuthorization #PatientCare
+
+=== POST 53 ===
+urn: urn:li:activity:7503841360580509696
+author: Shabney Ismail | authorType: Person | headline: Medical Billing & Revenue Cycle Management (RCM) for Independent Practices.
+posted: 2026-09-10T15:46:34.993Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/shabney-ismail_activity-7503841360580509696
+text:
+UnitedHealthcare’s 30% prior authorization reduction is good news. But I would not tell a practice to simply remove 30% of its work.
+My concern is the cutover. Teams can keep submitting authorizations that are no longer required, or assume a broad removal applies to a plan or code where it does not. Both are workflow failures.
+If I were reviewing this before October 1, I would ask for one version-controlled payer matrix, one owner for each update, and a two-week audit comparing requests against outcomes. A policy change only creates value when the work queue reflects it.
+We broke down the change, where the transition can fail, and the practical RCM and KPO controls that can keep the rule set current:
+https://lnkd.in/gu_RFp92
+What would your practice change first — the payer matrix, the work queue, or the audit?
+#RevenueCycleManagement #PriorAuthorization #HealthcareLeadership #MedicalBilling
+
+=== POST 54 ===
+urn: urn:li:activity:7505970323763249152
+author: Kimberly Rhodes | authorType: Person | headline: Healthcare Operations Leader with 30 Years in Sleep Medicine, DME & Revenue Cycle | Author | Turning Experience into Better Systems, Stories & Solutions
+posted: 2026-09-16T12:46:19.370Z | isRepost: False
+likes: 2 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/kimberly-rhodes_activity-7505970323763249152
+text:
+Prior-Authorization Denials
+
+A denial rate tells you there is a problem.
+A denial reason tells you where to look.
+
+A denial rate is an important performance measure—but it is not a diagnosis.
+
+To improve the workflow, organizations need to understand what is underneath that number.
+
+Was documentation missing?
+
+Were coverage requirements misunderstood?
+
+Was the wrong code submitted?
+
+Did the request miss a deadline?
+
+Was additional information requested but never routed to the correct person?
+
+Was the service scheduled before authorization was complete?
+
+CMS’s finalized prior-authorization requirements already require impacted payers to provide a specific reason for denied non-drug prior-authorization decisions beginning in 2026.
+
+Beginning primarily January 1, 2027, the required Prior Authorization APIs must also communicate a specific denial reason electronically.
+
+That creates an opportunity for healthcare organizations to stop treating every denial as the same problem.
+
+Group the reasons.
+
+Identify the workflow responsible.
+
+Assign an owner.
+
+Measure whether the corrective action works.
+
+A team cannot improve a category called “denied.”
+
+It can improve missing documentation, incorrect coding, eligibility errors, untimely follow-up, and failed handoffs.
+
+Do not stop at counting denials. Learn from them.
+
+#PriorAuthorization #DenialManagement #RevenueCycle #PatientAccess #HealthcareAnalytics #WorkflowImprovement
+
+The goal is simple: Better processes. Better patient experiences. Better healthcare.
+
+This is a finalized CMS requirement, not a proposal. CMS Interoperability and Prior Authorization Final Rule⁠￼.
+
+=== POST 55 ===
+urn: urn:li:activity:7503543030839234560
+author: David Bobrowsky, CFP® | authorType: Person | headline: Comprehensive Financial Planning and Advice, Founder Bay Area Professionals Give Back Network
+posted: 2026-09-09T20:01:07.640Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/david-bobrowsky,-cfp®_activity-7503543030839234560
+text:
+Patients who are denied coverage for a drug or treatment are often successful when they appeal, but it takes medical evidence and persistence.
+
+=== POST 56 ===
+urn: urn:li:activity:7506066811306700801
+author: Abbi Schoenhofer, CPC, CPPM, CMPE | authorType: Person | headline: Healthcare Leader | Anesthesia Practice Management | Payer Strategy | Physician Practice Leadership | Revenue Cycle Management | Insurance Committee Chair, Kansas MGMA
+posted: 2026-09-16T19:09:43.793Z | isRepost: False
+likes: 3 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/abbi-schoenhofer,-cpc,-cppm,-cmpe_activity-7506066811306700801
+text:
+DID YOU KNOW ONE OF THE BIGGEST CHANGES TO PRIOR AUTHORIZATION WORKFLOWS IS GETTING VERY CLOSE? 
+
+~CMS-0057-F~ is already beginning to change how prior authorization works, with faster decision timeframes and more transparency around denials now in effect for impacted payers.
+
+But the BIG OPERATIONAL CHANGE COMES JANUARY 1, 2027, when impacted payers must implement electronic prior authorization APIs designed to allow providers to submit requests and receive responses electronically — rather than relying so heavily on payer portals, phone calls and faxes.
+
+For practice leaders, I think the important question right now is:
+
+WHAT IS YOUR PRACTICE DOING TO PREPARE?
+
+A few conversations worth having with your EHR/practice management vendor now:
+
+• Will our current system support the new prior authorization APIs?
+• Will we need an upgrade, additional module or integration?
+• When will testing and training be available?
+• How will this change our current authorization workflow?
+
+There is real potential here to reduce administrative burden and get answers back to providers and patients faster — BUT ONLY IF OUR SYSTEMS AND WORKFLOWS ARE READY FOR IT.  
+
+I’d love to hear from other practice leaders: HAVE YOU STARTED TALKING WITH YOUR VENDORS ABOUT CMS-0057-F YET?  WHAT ARE YOU HEARING?
+
+#PracticeManagement #PriorAuthorization #CMS #HealthcareAdministration #MGMA #HealthcareOperations
+
+=== POST 57 ===
+urn: urn:li:activity:7506095387900788737
+author: Pradeep Negi | authorType: Person | headline: Annuities at Genpact
+posted: 2026-09-16T21:03:16.984Z | isRepost: False
+likes: 5 | comments: 4 | shares: 1
+url: https://www.linkedin.com/posts/pradeep-negi_activity-7506095387900788737
+text:
+Dear Care Insurance Team 
+ 
+I am writing to raise a formal complaint regarding the denial of cashless authorization for my wife’s hospitalization under my health insurance policy.
+
+My wife was admitted to the hospital and a cashless authorization request was submitted to Care Insurance. However, the cashless approval was denied on the ground that there was a pending premium EMI.
+
+I strongly dispute this reason because there was no pending premium EMI from my side at the time of hospitalization. All applicable premium payments were duly paid, and there was no outstanding premium amount that should have resulted in denial of the cashless facility.
+
+
+Due to what appears to be an incorrect representation of my premium payment status, I was forced to arrange and deposit the hospitalization amount from my own pocket. This caused me significant financial hardship, stress, and inconvenience during a critical time when my wife was receiving medical treatment.
+
+I request Care Insurance to urgently investigate this matter and provide a clear written explanation for the denial.
+
+Specifically, I request you to provide:
+
+1. The exact details of the alleged pending EMI, including the amount, due date, and policy period.
+2. The basis and records on which Care Health concluded that my premium was pending.
+3. A complete payment statement/ledger of my policy showing all premiums received and their respective dates.
+4. The exact policy clause under which the cashless authorization was denied due to the alleged pending premium.
+5. A fresh review of the cashless denial decision in view of the fact that my premium payments were up to date.
+6. Reconsideration and processing of the eligible hospitalization expenses as per the terms of my policy, since I had to make the payment to the hospital due to the denial of cashless authorization.
+
+I am prepared to provide bank statements, payment receipts, transaction references, policy documents, and any other evidence required to establish that there was no pending premium EMI.
+
+I request that this matter be treated as a formal grievance and that I receive a written response along with a grievance/complaint reference number and the resolution within the applicable grievance redressal timeline.
+
+I expect Care Health Insurance to investigate this matter fairly and transparently. If the cashless denial was based on an incorrect premium-status record, I request that the matter be rectified and my eligible claim expenses be processed accordingly.
+
+Regards,
+[Pradeep Negi]
+Policy Number: [89390130]
+Claim/Pre-Authorization Number: [CWI15092026015718]
+Patient Name: [Pushpa Sethi]
+Hospital Name: [St. Stephen Hospital- Tis hazari (Delhi-110054)]
+Date of Admission: [12/09/2026]
+Date of Discharge: [15/09/2026]
+Mobile Number: [8826384570]
+
+=== POST 58 ===
+urn: urn:li:activity:7498166300607930368
+author: Maham Saeed | authorType: Person | headline: Experienced in Medical Billing-Revenue Cycle Management
+posted: 2026-08-25T23:55:55.258Z | isRepost: False
+likes: 0 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/maham-saeed_activity-7498166300607930368
+text:
+Are pre-authorization delays and medical necessity denials impacting your cardiology revenue cycle? 💔
+
+Cardiology medical billing is inherently high-stakes. Between expensive diagnostic imaging, complex interventional procedures, and continuous remote monitoring, simple eligibility errors can result in devastating revenue losses.
+
+Verifying basic patient eligibility is no longer enough. To protect your practice from costly write-offs and retrospective audit clawbacks, your front-end team must execute a strict, specialized verification protocol.
+
+Here are the main points to verify for every cardiology patient before care is rendered:
+
+🔹 Payer-Specific Medical Necessity & ICD-10 Alignment – Many major insurers limit coverage for procedures like echocardiograms or myocardial imaging to highly specific clinical indications. Always cross-reference the patient's documented diagnosis code against the payer’s active coverage criteria.
+
+🔹 Prior Authorization for Imaging and Intervention – An estimated 85% of advanced cardiology procedures—including heart catheterizations, cardiac MRIs, and CT scans—require formal prior authorization. Confirm authorization numbers are active in your EHR at least 7 to 14 days before the scheduled procedure date.
+
+🔹 Indication-Specific Remote Patient Monitoring (RPM) Rules – If enrolling a patient in cardiac telemetry or digital health monitoring, check the policy rules at the individual plan level. Some commercial payers strictly limit RPM reimbursement to specific chronic diagnoses like heart failure, while excluding others.
+
+🔹 Referral Mandates for Specialists – Determine if the patient’s plan requires a formal primary care provider (PCP) referral to see a cardiologist. Missing a required electronic referral will trigger an automatic claim denial, even if the policy is active.
+
+🔹 Granular Out-of-Pocket Breakdown – Cardiology treatments carry high patient responsibility. Verify the exact remaining deductible, co-insurance percentages for outpatient hospital settings versus in-office clinics, and the total out-of-pocket maximum.
+
+🔹 Coordination of Benefits (COB) – Always ask if the patient has secondary or tertiary coverage (e.g., commercial plan paired with Medicare). Submitting to the wrong primary payer causes automatic rejection and massive delays.
+
+Shifting from a generalized verification workflow to a specialized cardiology checklist dramatically drops clean-claim denial rates. Clean claims start long before the doctor ever sees the patient!
+
+How has your practice optimized its prior authorization workflow for complex cardiac cases? Let’s share strategies in the comments! 👇
+
+#CardiologyBilling #MedicalBilling #HealthcareAdministration #RevenueCycleManagement #PriorAuthorization #CardiologyCare #PracticeManagement #MedicalCoding #EligibilityVerification
+
+=== POST 59 ===
+urn: urn:li:activity:7503436230521442305
+author: Heather W. | authorType: Person | headline: COO Reimagine Billing Concepts
+posted: 2026-09-09T12:56:44.460Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/heather-w._activity-7503436230521442305
+text:
+Prior authorization denial rates can range from 2% to 25% depending on the payer.
+
+That range represents a significant exposure for practices and hospitals: but there is an important second number to track:
+
+43%–67% of appealed denials are overturned.
+
+The takeaway is clear: a high denial rate does not have to become lost revenue. It may signal an opportunity to strengthen authorization workflows, documentation, and appeals follow-up.
+
+Track these metrics by individual payer:
+
+✓ Prior authorization denial rate
+✓ Appeal submission rate
+✓ Appeal overturn rate
+✓ Revenue recovered through successful appeals
+
+A payer-level view can reveal where your greatest exposure sits: and where your team may have the best opportunity to recover revenue.
+
+Reimagine Billing Concepts helps healthcare organizations improve authorization management, claims workflows, and revenue cycle performance with practical, tailored support.
+
+Heather Wilborn, CEO
+Reimagine Billing Concepts
+https://lnkd.in/g6V3N4v
+470-771-0175
+heatherwilborn@reimaginebillingconcepts.com
+
+Which payer represents your greatest prior authorization exposure today?
+
+=== POST 60 ===
+urn: urn:li:activity:7505254789073559552
+author: John Tozzi | authorType: Person | headline: Deputy team leader and healthcare reporter at Bloomberg News | Signal: JohnTozzi.12
+posted: 2026-09-14T13:23:02.606Z | isRepost: False
+likes: 54 | comments: 4 | shares: 8
+url: https://www.linkedin.com/posts/john-tozzi_activity-7505254789073559552
+text:
+NEW: Few patients appeal when insurers decline to pay for their care. Many don’t even know they can. But new data show that when they do, they frequently win — in some plans, nine out of 10 times.
+
+That dynamic means many Americans can’t get the care their doctors have prescribed without first wading through prior authorization. Five large publicly traded insurers that together insure more than 160 million people denied more than 10% of standard prior authorization requests in 2025 for most Medicare, Medicaid and Affordable Care Act plans, according to a Bloomberg News analysis of recently released data. Patients won about half the time on appeals.
+
+https://lnkd.in/gQbb43Un
+
+=== POST 61 ===
+urn: urn:li:activity:7505965842829049857
+author: BillingParadise | authorType: Person | headline: 3,770 followers
+posted: 2026-09-16T12:28:31.032Z | isRepost: False
+likes: 1 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/billingparadise_activity-7505965842829049857
+text:
+What do 10 revenue cycle experts say about rising denials and A/R days?
+
+Payer behavior is becoming harder to predict. Denials are getting more complex, prior authorization requirements are increasing, and revenue cycle teams are looking for ways to address these challenges earlier.
+
+We brought together perspectives from:
+
+Beth Carlson, Paul LePage II, Michele Cusack, Kerry Rogers, Dwight Johnson, Nikki Harper, Lynn Ansley, Patti Consolver, Tony Morrison, Thomas Buckley 
+
+Their insights cover denial prevention, payer monitoring, prior authorization, automation, predictive analytics, technology, and front-end revenue cycle processes.
+
+The common thread? 
+
+More focus on preventing revenue cycle problems before they turn into denials and A/R.
+
+👉Explore insights from 10 industry experts.
+
+#RevenueCycleManagement #HealthcareRCM #DenialManagement #PriorAuthorization #MedicalBilling #HealthcareRevenueCycle #HealthcareLeadership #HealthcareTechnology #BillingParadise
+
+=== POST 62 ===
+urn: urn:li:activity:7505451303418994688
+author: Salim Bouguermouh | authorType: Person | headline: MD-PhD & AI Entrepreneur | Founder & CEO, PrevAI Health | AI-Driven: Prevention, Chronic Care, RWD, & Clinical Trial Efficiency | Ex-Pfizer Director | Global Clinical Research Leader
+posted: 2026-09-15T02:23:55.277Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/salim-bouguermouh_activity-7505451303418994688
+text:
+“As part of the effort, federal health officials are working on developing a new payment category for Medicare, the federal health program that covers more than 60 million older Americans, to reimburse companies for A.I. software that supports medical care or diagnosis. Medicare officials have urged private insurers covering about 165 million Americans to reimburse for “technology-supported care,” including some A.I. projects, if they improve care and cut costs.” NYT
+
+#AI
+
+=== POST 63 ===
+urn: urn:li:activity:7505653152193388544
+author: Elvis J | authorType: Person | headline: Founder & CEO, Enovadi Systems | CPC, CPPM, 20+ Years in Medical Coding & RCM | Healthcare Content & AI Business Solutions | I write what billing companies rank for
+posted: 2026-09-15T15:45:59.775Z | isRepost: False
+likes: 0 | comments: 1 | shares: 0
+url: https://www.linkedin.com/posts/elvis-j_activity-7505653152193388544
+text:
+Most prior authorization denials don't get appealed. Most of the ones that do get overturned. That gap is the whole story.
+ 
+I wrote about what practice managers can actually control in prior authorization denials, and what's out of their hands no matter how hard the team works. The new CMS rule everyone's been asking about doesn't even reach most commercial insurance.
+ 
+If you build or sell into practices that live with this every day, billing services, RCM platforms, practice management software, this is written for the exact problem your buyer is stuck with.
+
+=== POST 64 ===
+urn: urn:li:activity:7505309089141317632
+author: Scott Glovsky | authorType: Person | headline: Founder of Law Offices of Scott Glovsky | Skilled trial attorney | Insurance Bad Faith, Catastrophic Personal Injury, Sexual Abuse, Healthcare Litigation - Representing Plaintiffs for 30+ Years
+posted: 2026-09-14T16:58:48.751Z | isRepost: False
+likes: 7 | comments: 4 | shares: 0
+url: https://www.linkedin.com/posts/scott-glovsky_activity-7505309089141317632
+text:
+Recent regulatory data indicates that approximately one in three challenges to health insurers were resolved in favor of patients, with CaremarkPCS (CVS Caremark), Quantum Health, Cigna Health and Life Insurance Company, and Oxford Health Plans (UnitedHealth) among the insurers and health benefit companies with notable reversal or settlement rates. Many of these disputes involved denials based on medical necessity, delays in coverage, or refusal to pay claims. These findings demonstrate that pursuing an appeal or regulatory complaint may provide patients with an opportunity to obtain coverage, payment, or a favorable resolution when an insurer’s decision is challenged.
+
+=== POST 65 ===
+urn: urn:li:activity:7506164890957684738
+author: Pratap Singh Notiyal | authorType: Person | headline: Head of Business Development & Operations | US Healthcare RCM | Provider Relations | Client Success | AI & Digital Transformation | Product & Mobile App Delivery | Business Growth Strategist
+posted: 2026-09-17T01:39:27.804Z | isRepost: False
+likes: 3 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/pratap-singh-notiyal_activity-7506164890957684738
+text:
+𝐏𝐫𝐢𝐨𝐫 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐬 𝐦𝐨𝐯𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 “𝐰𝐚𝐢𝐭 𝐚𝐧𝐝 𝐜𝐡𝐚𝐬𝐞” 𝐭𝐨 𝐦𝐞𝐚𝐬𝐮𝐫𝐚𝐛𝐥𝐞 𝐭𝐮𝐫𝐧𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐢𝐦𝐞𝐬.
+
+CMS’s Interoperability and Prior Authorization Final Rule is changing how certain impacted payers handle prior authorization for 𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐢𝐭𝐞𝐦𝐬 𝐚𝐧𝐝 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬.
+
+Here are the numbers RCM and healthcare operations teams should know:
+
+🔹 𝟕𝟐 𝐡𝐨𝐮𝐫𝐬 —  maximum timeframe for expedited/urgent requests
+
+🔹 𝟕 𝐜𝐚𝐥𝐞𝐧𝐝𝐚𝐫 𝐝𝐚𝐲𝐬 — maximum timeframe for standard requests
+
+🔹 𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐝𝐞𝐧𝐢𝐚𝐥 𝐫𝐞𝐚𝐬𝐨𝐧𝐬 — impacted payers must explain why a request was denied
+
+🔹 𝐀𝐥𝐫𝐞𝐚𝐝𝐲 𝐢𝐧 𝐞𝐟𝐟𝐞𝐜𝐭 𝐬𝐢𝐧𝐜𝐞 𝐉𝐚𝐧𝐮𝐚𝐫𝐲 𝟏, 𝟐𝟎𝟐𝟔 — key operational requirements are now   
+    applicable
+
+🔹 𝐉𝐚𝐧𝐮𝐚𝐫𝐲 𝟏, 𝟐𝟎𝟐𝟕 — required Prior Authorization APIs are scheduled to begin for impacted payers
+
+And the operational burden is significant:
+
+📊 CMS estimates prior authorization work costs providers approximately $𝟐𝟎–$𝟓𝟎 𝐩𝐞𝐫 𝐡𝐨𝐮𝐫 and takes an average of 𝟏𝟑 𝐡𝐨𝐮𝐫𝐬 𝐩𝐞𝐫 𝐰𝐞𝐞𝐤.
+
+That translates to approximately 𝟕𝟎𝟎 𝐡𝐨𝐮𝐫𝐬 𝐚𝐧𝐝 $𝟑𝟒,𝟎𝟎𝟎 𝐩𝐞𝐫 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐫 𝐞𝐚𝐜𝐡 𝐲𝐞𝐚𝐫, according to CMS estimates.
+
+And there’s another important shift:
+
+CMS is moving the industry toward 𝐅𝐇𝐈𝐑-𝐛𝐚𝐬𝐞𝐝 𝐀𝐏𝐈𝐬 to support electronic prior authorization workflows, including documentation requirements, submissions, responses, approvals, denials and requests for additional information.
+
+The technical framework includes standards such as 𝐇𝐋𝟕 𝐅𝐇𝐈𝐑 𝐑𝟒.𝟎.𝟏, 𝐔𝐒𝐂𝐃𝐈 𝐚𝐧𝐝 𝐒𝐌𝐀𝐑𝐓 𝐀𝐩𝐩 𝐋𝐚𝐮𝐧𝐜𝐡, with CMS also identifying the 𝐃𝐚 𝐕𝐢𝐧𝐜𝐢 𝐏𝐫𝐢𝐨𝐫 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 (𝐏𝐀𝐒) implementation guide as a recommended implementation guide.
+
+CMS also requires impacted payers to publicly report prior-authorization metrics annually, including 𝐚𝐩𝐩𝐫𝐨𝐯𝐚𝐥 𝐚𝐧𝐝 𝐝𝐞𝐧𝐢𝐚𝐥 𝐫𝐚𝐭𝐞𝐬, 𝐚𝐩𝐩𝐫𝐨𝐯𝐚𝐥𝐬 𝐚𝐟𝐭𝐞𝐫 𝐚𝐩𝐩𝐞𝐚𝐥, 𝐞𝐱𝐭𝐞𝐧𝐝𝐞𝐝-𝐫𝐞𝐯𝐢𝐞𝐰 𝐫𝐚𝐭𝐞𝐬, 𝐚𝐧𝐝 𝐚𝐯𝐞𝐫𝐚𝐠𝐞 𝐚𝐧𝐝 𝐦𝐞𝐝𝐢𝐚𝐧 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐭𝐢𝐦𝐞𝐬 for standard and expedited requests.
+
+CMS estimates these policies could generate approximately $𝟏𝟓 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧 𝐬𝐚𝐯𝐢𝐧𝐠𝐬 𝐨𝐯𝐞𝐫 𝟏𝟎 𝐲𝐞𝐚𝐫𝐬 through reduced administrative burden.
+
+For providers and RCM teams, the practical question is:
+
+𝐈𝐬 𝐲𝐨𝐮𝐫 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐫𝐞𝐚𝐝𝐲 𝐟𝐨𝐫 𝐟𝐚𝐬𝐭𝐞𝐫 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬, 𝐜𝐥𝐞𝐚𝐫𝐞𝐫 𝐝𝐞𝐧𝐢𝐚𝐥 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧, 𝐦𝐞𝐚𝐬𝐮𝐫𝐚𝐛𝐥𝐞 𝐭𝐮𝐫𝐧𝐚𝐫𝐨𝐮𝐧𝐝 𝐭𝐢𝐦𝐞𝐬, 𝐚𝐧𝐝 𝐦𝐨𝐫𝐞 𝐞𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜 𝐩𝐚𝐲𝐞𝐫 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐯𝐢𝐭𝐲?
+
+Because this isn’t simply a technology change — it affects how authorization teams manage documentation, follow-ups, denials, appeals and turnaround time.
+
+#HealthcareOperations #RevenueCycleManagement #PriorAuthorization #RCM #HealthcareIT #CMS #HealthTech #MedicalBilling #DigitalHealth
+
+=== POST 66 ===
+urn: urn:li:activity:7505231523751571456
+author: Vadim Muchnik | authorType: Person | headline: Healthcare Operator | President, Provident Healthcare Consulting | Find the Constraint. Rebuild the System Where Good People Win and Become Exceptional. | Leadership, Employee Engagement & AI
+posted: 2026-09-14T11:50:35.721Z | isRepost: False
+likes: 2 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/vadim-muchnik_activity-7505231523751571456
+text:
+Medicare Advantage plans denied more SNF admissions in 2026 than ever before. Denials for post-acute care are up 56% year-over-year. That's not noise — that's a strategy.
+
+Now here's the number that should make every SNF operator angry: OIG found that MA plans reversed roughly 95% of prior auth denials when providers appealed them.
+
+Let that sink in. Nine out of ten denials that get challenged get overturned. But most never get challenged at all.
+
+The math on this is straightforward: MA plans are issuing mass denials knowing the majority will never be appealed. It's a volume game. They're counting on your team being too burned out, too understaffed, or too unaware to push back every single time. And historically, they've been right.
+
+OIG is now actively investigating MA prior auth practices across SNF, IRF, and LTACH placements — a report is expected later this year that will likely trigger rulemaking. That's good news, but it's not fast.
+
+In the meantime, the fix is operational. Build a systematic appeals workflow. Track every denial. Document clinical criteria meticulously at intake. Make appeals the default, not the exception.
+
+You're leaving recoverable revenue on the table every day you don't.
+
+#MedicareAdvantage #PriorAuthorization #SNF #PostAcuteCare #RevenueRecovery
+
+=== POST 67 ===
+urn: urn:li:activity:7505996908130193408
+author: Archelle Georgiou, MD | authorType: Person | headline: Physician | Chief Medical Sense-Maker & Health Journalist explaining healthcare, policy, and medical news so real people can use it | Host, Speak Up For Your Health
+posted: 2026-09-16T14:31:57.577Z | isRepost: False
+likes: 20 | comments: 4 | shares: 0
+url: https://www.linkedin.com/posts/archelle-georgiou,-md_activity-7505996908130193408
+text:
+UnitedHealthcare announced a 30% decrease in codes requiring PA as of October 1. But shortening the list doesn't necessarily translate to lessening the burden – decreasing the crushing volume of mandatory PA submissions. 
+
+How can a health plan impose less burden on providers while maintaining affordability and cost savings from (appropriate) denials?
+
+I analyzed a full year of inpatient and outpatient prior auth decisions for a large Blues plan. Every procedure group was matched to CMS cost data to rank which ones were actually catching low-value or high-cost care, and which were just generating paperwork and consuming resources for both the provider and the plan.
+
+The result: cutting the list from 880 procedure groups to 162 — an 82% smaller list — would drop the actual number of PA submissions by 67% WHILE allowing the plan to retain over 90% of the dollar value those denials were designed to catch. 
+
+This is the piece missing from the "we're cutting X% of our PA list" press releases. A smaller list only helps if it's the right list.
+
+The method is repeatable for any plan's PA list. Details in my Friction Index 2.0 work — link in comments.
+
+UnitedHealthcare Centene Corporation Aetna, a CVS Health Company Cigna Healthcare AHIP #priorauthorization #managedcare #healthpolicy Mark Cuban John Tozzi
+
+=== POST 68 ===
+urn: urn:li:activity:7505858143931797504
+author: ARCLYFT Health | authorType: Person | headline: 9 followers
+posted: 2026-09-16T05:20:33.614Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/arclyft-health_activity-7505858143931797504
+text:
+CMS is expanding required prior authorization for additional DMEPOS items beginning October 28. The additions span multiple categories:
+
+• Thoracic-lumbar-sacral orthoses
+• Knee orthoses
+• Upper-limb orthoses
+• Pressure-reducing support surfaces
+• Manual wheelchairs
+
+For organizations managing DME/O&P benefits, changes like these are a reminder of how diverse the category really is. Effective oversight requires more than authorization alone. Clinical criteria, product selection, utilization patterns, documentation and vendor capabilities all matter. Understanding the category is the first step toward managing it well.
+
+CMS details:
+
+https://lnkd.in/e7V2sgFp
+
+#DME #DMEPOS #Orthotics #UtilizationManagement #PriorAuthorization #ManagedCare #Healthcare
+
+=== POST 69 ===
+urn: urn:li:activity:7503820969271242754
+author: Ana Lidia Aguilera Hechavarria | authorType: Person | headline: Founder & CEO at ALH Billing Solutions LLC | Helping healthcare providers maximize revenue, cut denials, and eliminate billing headaches. US-based company.
+posted: 2026-09-10T14:25:33.326Z | isRepost: False
+likes: 8 | comments: 5 | shares: 0
+url: https://www.linkedin.com/posts/ana-lidia-aguilera-hechavarria_activity-7503820969271242754
+text:
+An authorization number is not a paid claim.
+
+Independent radiation oncology, medical oncology, urology, and behavioral health practices still lose cash when the PA, the chart, and the claim tell three different stories. Payers approve a range of codes, units, dates, and providers. Billing often ships something adjacent. That is how you get CO-15 and “auth on file” denials that feel unfair and are usually preventable.
+
+A practical denial-prevention checklist before the claim drops:
+
+Eligibility and PA rules checked for this plan and this service, in the right portal, not last month’s screenshot.
+The approved PA record matches what you will bill: CPT/HCPCS, units, diagnosis, rendering and facility NPI, place of service, and date span. If the plan approved 77412 and the claim says 77407, you already lost.
+Clinical documentation supports the request the payer approved. Radiation: technique, dose, fractionation, and image guidance line up with the prescription. Oncology drugs and imaging: staging, intent, and biomarkers sit in the chart the way the policy asks, not as a vague “positive” note. Behavioral health: level of care, functional impairment, and why a lower level failed or is contraindicated, plus concurrent review dates if the auth is episode-based.
+Do not schedule infusion, radiation starts, or high-cost imaging without a live PA when the payer requires one. Expired or unit-exhausted auths should stop the charge, not surprise the remittance.
+Before batch, reconcile auth to claim. After denials, bucket CO-15 by root cause (no PA, provider mismatch, dx mismatch, units exceeded, expired) and fix the gate that owns it.
+
+Getting the letter is step one. Getting paid is matching the letter to the claim.
+
+#MedicalBilling #RCM #PriorAuth #DenialManagement #Healthcare #IndependentPractice
+
+=== POST 70 ===
+urn: urn:li:activity:7506094270915854338
+author: Warren K. | authorType: Person | headline: Patient Advocacy / Healthcare Nonprofit Leadership / Strategic Revenue Growth
+posted: 2026-09-16T20:58:50.674Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/warren-k._activity-7506094270915854338
+text:
+#WendellPotter's "Health Care-uncovered" blog and his team often find the rest of the story" when it comes to healthcare business. Here's a great example: https://lnkd.in/gKkgfwK7
+
+=== POST 71 ===
+urn: urn:li:activity:7505421679385452544
+author: Susie White | authorType: Person | headline: CEO & Owner | Payor Contract Revenue Generation - Specializing in Ambulatory Surgical and Post-Acute Facility Contracting Strategy and Procurement
+posted: 2026-09-15T00:26:12.357Z | isRepost: False
+likes: 5 | comments: 4 | shares: 0
+url: https://www.linkedin.com/posts/susie-white_activity-7505421679385452544
+text:
+🚨 Ninety-two percent approval, ten authorizations a year, two years straight. That is the bar UnitedHealthcare set for ASCs that want out of prior authorization altogether.
+ 
+On September 1, UnitedHealthcare opened its National Gold Card portal so provider groups could check their 2026 status. 
+ ✅ Qualifying groups go live October 1, with prior authorization waived on a defined list of codes, several of them ASC procedures.
+ 
+ 👉 Here's the reality most centers are missing. To qualify, you need at least ten eligible prior authorizations a year for two consecutive years, a 92 percent or higher approval rate, and you have to already be in-network with a UnitedHealthcare plan.
+ 
+That is not a reward for good behavior. That is a bar built for high-volume centers with a clean track record and an existing contract. 
+
+ 🚫 If you are newly in-network, low-volume on a given code set, or still working through credentialing, you do not qualify. You stay in the slow lane while the center down the street skips it entirely.
+ 
+This is the part nobody explains when gold carding gets announced as a win for providers. The program rewards centers that already have leverage. It does very little for the ones still trying to get in-network in the first place.
+ 
+If your center is not tracking its prior authorization approval rate by payer right now, this is the year that number starts deciding more than your denials. It decides who skips the line.
+
+Drop a comment if your ASC is already tracking prior auth approval rates by payer.
+ 
+#AmbulatorySurgeryCenters #ASC #PriorAuthorization #PayerContracts #ManagedCareContracting
+
+=== POST 72 ===
+urn: urn:li:activity:7504769215325700097
+author: The Healthcare Executive | authorType: Person | headline: 184 followers
+posted: 2026-09-13T05:13:32.803Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/the-healthcare-executive_activity-7504769215325700097
+text:
+An expedited Medicare Advantage request arrives Friday at 2:00 p.m. On Sunday, the payer asks for previously undisclosed documentation and changes its portal deadline. Does that restart the clock?
+
+The Prior-Authorization Clock examines CMS-0057-F, payer decisions, and hospital accountability through a practical hospital operations lens.
+
+The review explores verified receipt, applicable timing and extension rules, weekend ownership, clinical escalation, and the difference between an information request and a substantive decision.
+
+It includes a 91-second fictional case, explanatory figures, and full-article narration. The patient’s clinical needs remain central throughout.
+
+By Greg Wahlstrom, MBA, HCM. Approx. 19-minute read.
+
+https://lnkd.in/gDFvX3iM
+
+#PriorAuthorization #HealthcareLeadership #PatientAccess #HospitalGovernance
+
+=== POST 73 ===
+urn: urn:li:activity:7504770081680306176
+author: The Healthcare Executive | Law, Ethics & Governance | authorType: Person | headline: 14 followers
+posted: 2026-09-13T05:16:59.358Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/the-healthcare-executive-|-law,-ethics-&-governance_activity-7504770081680306176
+text:
+An expedited Medicare Advantage request arrives Friday at 2:00 p.m. On Sunday, the payer asks for previously undisclosed documentation and changes its portal deadline. Does that restart the clock?
+
+The Prior-Authorization Clock examines CMS-0057-F, payer decisions, and hospital accountability through a practical hospital operations lens.
+
+The review explores verified receipt, applicable timing and extension rules, weekend ownership, clinical escalation, and the difference between an information request and a substantive decision.
+
+It includes a 91-second fictional case, explanatory figures, and full-article narration. The patient’s clinical needs remain central throughout.
+
+By Greg Wahlstrom, MBA, HCM. Approx. 19-minute read.
+
+https://lnkd.in/gTfHfcdT
+
+#PriorAuthorization #HealthcareLeadership #PatientAccess #HospitalGovernance
+
+=== POST 74 ===
+urn: urn:li:activity:7504536462588190720
+author: Elizabeth McLaren | authorType: Person | headline: SVP Revenue Cycle, Reimbursement and HCBS at Covenant Living Communities and Services
+posted: 2026-09-12T13:48:40.226Z | isRepost: False
+likes: 20 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/elizabeth-mclaren_activity-7504536462588190720
+text:
+I appreciated the opportunity to contribute to this Skilled Nursing News discussion on the growing challenges surrounding Medicare Advantage.
+
+For providers, effective contract management increasingly requires looking beyond the negotiated rate. Administrative burden, authorization requirements, denials, payment practices, and the actual cost of delivering quality care all matter when evaluating the true value of a payer relationship.
+
+There are no easy answers, and meaningful progress will require greater transparency, better data, stronger partnerships, and continued advocacy across our industry.
+
+Which brings to mind the unlikely wisdom of Clark Griswold during his pursuit of an old-fashioned family Christmas:
+
+“Nobody’s walking out on this… We’re all in this together.”
+
+Different circumstances, certainly. But the sentiment applies.
+
+We’re all invested in making this work—for providers, for payers, and most importantly, for the residents, patients and families we serve.
+
+Sometimes leadership lessons come from unexpected places.
+
+Zahida Siddiqi
+
+=== POST 75 ===
+urn: urn:li:activity:7505581316239863808
+author: Prashant Sood | authorType: Person | headline: Director at Trigma | Driving AI & Digital Transformation | Building Scalable Solutions & Strategic Partnerships
+posted: 2026-09-15T11:00:32.749Z | isRepost: False
+likes: 8 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/prashant-sood_activity-7505581316239863808
+text:
+UnitedHealthcare is removing prior authorization requirements for around 1,700 services, including home health, starting October 1.
+
+It’s a meaningful step toward reducing administrative burden for providers.
+
+But it also raises an important question: What about the healthcare workflows that still require manual work?
+
+Authorization follow-ups, payer calls, claim status checks, denials, documentation, and other repetitive RCM processes still take significant time.
+
+As healthcare moves toward simpler processes, there is a growing opportunity to automate the work that remains.
+
+Agentic AI can help healthcare and RCM teams handle these repetitive workflows more efficiently, giving teams more time to focus on higher-value work.
+
+The goal isn't just fewer administrative steps.
+
+It’s building healthcare operations that are increasingly intelligent, efficient, and self-executing.
+
+source: https://lnkd.in/guRS55Fp
+
+#HealthcareAI #PriorAuthorization #RCM #AgenticAI #HealthTech
+
+=== POST 76 ===
+urn: urn:li:activity:7505837891500265473
+author: Connie Kindhart Flick | authorType: Person | headline: Director of Denials Management @ EyeCare Partners | Revenue Cycle Management
+posted: 2026-09-16T04:00:05.058Z | isRepost: False
+likes: 9 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/connie-kindhart-flick_activity-7505837891500265473
+text:
+AI has enormous potential in healthcare, especially in revenue cycle.
+
+But the conversation gets more interesting when AI moves from identifying patterns to influencing decisions that affect patients, reimbursement, or access to care.
+
+Technology can process more data, faster. That does not eliminate the need for transparency, accountability, and human judgment.
+
+The real opportunity is not simply automating decisions. It is using AI to make better-informed decisions while keeping the right safeguards around them.
+
+This recent look at CMS’s WISeR prior authorization pilot is a good example of why that balance matters.
+
+#HealthcareAI #RevenueCycle #HealthcareLeadership #ArtificialIntelligence
+
+https://lnkd.in/gV359fFY
+
+=== POST 77 ===
+urn: urn:li:activity:7503899636198199297
+author: Kaled Alhanafi | authorType: Person | headline: Co-Founder & CEO at Basata
+posted: 2026-09-10T19:38:08.983Z | isRepost: False
+likes: 32 | comments: 2 | shares: 1
+url: https://www.linkedin.com/posts/kaled-alhanafi_activity-7503899636198199297
+text:
+Creating more capacity for care will take everything in our arsenal: better technology, workforce training, and policy changes that make healthcare simpler to deliver.
+
+So UnitedHealthcare’s decision to remove prior authorization requirements for 1,700 medical codes starting in October is a welcome step in the right direction for both patients and care teams.
+
+For patients, it could mean less time waiting for approval before treatment can move forward. For practice administrators and doctors, it could mean fewer submissions, status checks, and calls explaining why an appointment is still on hold.
+
+That’s time a team can spend helping another patient get seen quicker or connect more dots to help with care.
+
+Basata means simplicity. We’re building toward that every day by making healthcare operations easier to manage. We should welcome opportunities to eliminate unnecessary work, alongside efforts to improve how necessary work gets done and equip people with the skills to do it.
+
+The impact will vary by plan and service. The measure of progress should be straightforward: do practice teams get time back, and do patients get care sooner? 
+
+I’m looking forward to seeing if this is the way forward
+
+🔗 https://lnkd.in/gt9KG_gG
+
+=== POST 78 ===
+urn: urn:li:activity:7503498070412742656
+author: ArceeHQ | authorType: Person | headline: 126 followers
+posted: 2026-09-09T17:02:28.239Z | isRepost: False
+likes: 3 | comments: 2 | shares: 0
+url: https://www.linkedin.com/posts/arceehq_activity-7503498070412742656
+text:
+“3 Front-end fixes help prevent most denials.”
+
+"Eligibility is the number one impact we can make. Surgeries: what we authorized is not what we did. And agreeing on medical necessity upfront, because once it makes it to the back end, it is so much more difficult."
+
+Follow this ArceeHQ LinkedIn page now to get more such executive revenue cycle insights in your feed.
+
+In this short clip from The RC Executive Lounge Podcast Series, Christina Slemp, DHA, MSHI, MHA 🎙 cuts through the complexity of front-end denial prevention and names three fixes any organization can start with.
+
+The first is eligibility. High front desk turnover and difficult training are realities in every health system. But however you can make it easiest for the front end to get eligibility right, that investment delivers more denial prevention impact than almost anything else downstream.
+
+The second is surgery authorization accuracy. What was authorized is frequently not what was performed. And payers give organizations just 24 hours to update that authorization. Without a process specifically designed to catch that gap quickly, the window closes and the denial becomes unavoidable.
+
+The third is the hardest and the most strategic. Agreeing on medical necessity at the time of service, before the claim goes out. Once a medical necessity dispute reaches the back end and the patient finance side, the options narrow dramatically. Getting clinical and payer agreement upfront is a long-term goal, but the organizations working toward it now are the ones that will see the most durable reduction in their final denial rates.
+
+Two of these three are immediately actionable. Any organization can tackle eligibility and surgery authorization accuracy starting now.
+
+🎧 Watch the full episode of The RC Executive Lounge Podcast (link in comments).
+
+#DenialPrevention #FrontEndRevenueCycle #Eligibility #AuthorizationManagement #MedicalNecessity #RevenueCycle #RCM #RevenueCycleManagement #HealthcareLeadership #HealthcareFinance #HealthSystemLeadership #RCMLeadership #PatientAccess #RevenueIntegrity #HealthcareOperations #HealthcareStrategy #HealthcareCFO #HealthcareCEO #ExecutiveLeadership #OperationalExcellence
+
+=== POST 79 ===
+urn: urn:li:activity:7503618430957228033
+author: Mohammed Nomani | authorType: Person | headline: Founder & Operator | Acquiring, Building & Scaling Tech-Enabled Service Businesses in Healthcare, Digital Services, eCommerce and Agentic AI
+posted: 2026-09-10T01:00:44.429Z | isRepost: False
+likes: 0 | comments: 1 | shares: 1
+url: https://www.linkedin.com/posts/mohammed-nomani_activity-7503618430957228033
+text:
+The denial you didn't appeal just paid for someone else's Q4.
+
+A denial is not the end of the process. But once the appeal deadline passes, the revenue may be gone for good.
+
+KFF data shows:
+
+• At least 1 in 8 standard prior authorization requests are denied.
+• About 67% of appealed Medicare Advantage denials are overturned.
+• Nearly half of appealed Medicaid denials are overturned.
+• 43% of ACA exchange denials are approved on appeal.
+
+The opportunity is clear. Yet most initial denials are never appealed.
+
+Why? Missed deadlines. Incomplete documentation. Unclear ownership. Denials sitting in work queues until recovery is no longer possible.
+
+Denial recovery is a race against time. Your practice needs to:
+
+• Track payer-specific appeal deadlines.
+• Prioritize high-value denials before they age out.
+• Submit complete clinical and billing documentation.
+• Monitor overturn rates to identify preventable patterns.
+
+Revenue not recovered before year-end does not strengthen your cash flow, support your staff, or fund patient care. It becomes permanent leakage from your practice.
+
+At Unstoppable Revenue, we help healthcare practices move from reactive denial management to proactive revenue protection.
+
+How much denied revenue could your practice recover before the next deadline: and who is responsible for making sure it happens?
+
+Source: KFF
+
+=== POST 80 ===
+urn: urn:li:activity:7503945540385157120
+author: Washington Health Insurance Agency | authorType: Person | headline: 24 followers
+posted: 2026-09-10T22:40:33.394Z | isRepost: False
+likes: 3 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/washington-health-insurance-agency_activity-7503945540385157120
+text:
+You scheduled the procedure. Your provider recommended it. So that means insurance will cover it, right?
+
+Not necessarily.
+
+Some health plans require prior authorization before certain medications, imaging, procedures or other services are covered.
+
+Prior authorization is the process your health plan uses to review whether a requested service meets its coverage requirements before the service is received. Your provider will often handle the request, but as the member, it is still worth confirming that any required authorization has been obtained.
+
+If prior authorization is required and isn't completed, it can affect how the claim is processed and potentially what you owe.
+
+Before a planned procedure, test or other non-emergency service, consider asking:
+
+“Does my health plan require prior authorization for this, and has it been approved?”
+
+One simple question can help you better understand what to expect before receiving care.
+
+Keep in mind that prior authorization requirements vary by plan and approval does not guarantee payment. Your benefits, eligibility and other plan provisions still apply.
+
+#WHIA #BenefitsDoneBetter #EmployeeBenefits #BenefitsEducation #HealthInsurance #PriorAuthorization
+
+=== POST 81 ===
+urn: urn:li:activity:7505953234063273984
+author: Kelly Emrick DHSc, PhD, MBA, BSRT(ARRT)R | authorType: Person | headline: Healthcare Leadership
+posted: 2026-09-16T11:38:24.868Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/kelly-emrick-dhsc,-phd,-mba,-bsrt(arrt)r_activity-7505953234063273984
+text:
+A Tactic of Big Insurers and It’s Giving Everyone a Stomach Ache. 
+Outsourced Utilization Management
+  
+Financial incentives and the cost of delayed care 2026
+  
+Abstract. Outsourced utilization management places consequential decisions about access to care within contractual arrangements that may reward reductions in medical spending. This special report examines the resulting conflict between financial performance, clinical appropriateness, and timely access. It integrates public financial records, regulatory examinations, federal audits, company statements, and peer-reviewed research. The evidence establishes that spending risk arrangements exist and that prior authorization can delay or interrupt care. It does not establish that all vendors receive payment for individual denials or that an adjustable algorithmic threshold alone proves inappropriate decision-making. For independent diagnostic and treatment centers, the central operational exposure is uncertainty between clinical ordering and completed care, including repeated documentation, scheduling disruption, and unresolved referrals. The report proposes an evaluation framework that follows patients beyond the initial authorization decision, measures administrative costs across organizations, and independently reviews clinical appropriateness. Its central conclusion is that reductions in paid utilization cannot be accepted as evidence of improved population health without accounting for necessary care that is delayed or forgone, continuity of treatment, and the distribution of burdens across patients and providers. Reach out to Kelly Emrick for the special report, or ask for it in the comments section. kellyemrick.com
+  
+Keywords. Prior authorization; utilization management; diagnostic imaging; algorithmic governance; population health; administrative burden; Medicare Advantage.
+
+=== POST 82 ===
+urn: urn:li:activity:7505259053883748352
+author: Steven Berkey,CPC,CPB,CPCO,COSC,CPMA,CANPC,CPCD,CFPC,CRHC | authorType: Person | headline: Steven Berkey,DPM,CPC,CPB,CPCO,COSC,CANPC,CPCD,CPMA,CFPC,CRHC,FMC
+posted: 2026-09-14T13:39:59.416Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/steven-berkey,cpc,cpb,cpco,cosc,cpma,canpc,cpcd,cfpc,crhc_activity-7505259053883748352
+text:
+Aetna agreed to pay $117.7 million to settle claims it overbilled Medicare Advantage. 
+Source: The Financial Wire
+                https://lnkd.in/gNE8MyhJ
+
+=== POST 83 ===
+urn: urn:li:activity:7504770468512419840
+author: Greg Wahlstrom | authorType: Person | headline: Healthcare Operations Executive | Hospital Operations & Administration | Operational Excellence | Patient Experience | Strategic Planning | Quality Improvement | Workforce Strategy
+posted: 2026-09-13T05:18:31.586Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/greg-wahlstrom_activity-7504770468512419840
+text:
+An expedited Medicare Advantage request arrives Friday at 2:00 p.m. On Sunday, the payer asks for previously undisclosed documentation and changes its portal deadline. Does that restart the clock?
+The Prior-Authorization Clock examines CMS-0057-F, payer decisions, and hospital accountability through a practical hospital operations lens.
+The review explores verified receipt, applicable timing and extension rules, weekend ownership, clinical escalation, and the difference between an information request and a substantive decision.
+It includes a 91-second fictional case, explanatory figures, and full-article narration. The patient’s clinical needs remain central throughout.
+By Greg Wahlstrom, MBA, HCM. Approx. 19-minute read.
+https://lnkd.in/gDGkhr3Z
+#PriorAuthorization #HealthcareLeadership #PatientAccess #HospitalGovernance
+
+=== POST 84 ===
+urn: urn:li:activity:7505757593546600448
+author: Rory Murphy | authorType: Person | headline: Board Certified Neurosurgeon, Barrow Brain and Spine, Associate Professor Barrow Neurological institute
+posted: 2026-09-15T22:41:00.534Z | isRepost: False
+likes: 30 | comments: 4 | shares: 3
+url: https://www.linkedin.com/posts/rory-murphy_activity-7505757593546600448
+text:
+How to Appeal Your Health Insurer’s ‘Prior Authorization’ Denial—and Win .
+
+A prior-authorization denial should not always be accepted as the final answer.
+
+Thank you to Ike Swetlitz Bloomberg News  and Gail MarksJarvis  at The Wall Street Journal  for their excellent reporting on how patients and physicians can successfully challenge health-insurance denials.
+
+understand the reason for the denial, provide focused medical evidence, appeal promptly, and remain persistent. 
+
+A remarkable number of denials are ultimately overturned—but only when someone fights them.
+
+#PriorAuthorization #PatientAdvocacy #Healthcare #HealthInsurance Myelopathy.org Cervical Spine Research Society
+
+=== POST 85 ===
+urn: urn:li:activity:7503852043175116800
+author: Scott Glovsky | authorType: Person | headline: Founder of Law Offices of Scott Glovsky | Skilled trial attorney | Insurance Bad Faith, Catastrophic Personal Injury, Sexual Abuse, Healthcare Litigation - Representing Plaintiffs for 30+ Years
+posted: 2026-09-10T16:29:01.922Z | isRepost: False
+likes: 54 | comments: 19 | shares: 6
+url: https://www.linkedin.com/posts/scott-glovsky_activity-7503852043175116800
+text:
+A couple’s wedding plans were put on hold after a serious neurological condition worsened following multiple surgeries, including one that resulted in a stroke. The patient and his fiancée said inpatient rehabilitation was helping his recovery, but UnitedHealthcare repeatedly denied continued coverage, citing a lack of “notable continued progress” and later determining that the treatment was not medically necessary. Despite a neurosurgeon’s letter stating that he showed encouraging signs of recovery and faced significant risks if discharged too soon, his appeals were denied, forcing the couple to pay for additional therapy out of pocket while continuing to fight for coverage. UnitedHealthcare said it reviewed the medical information provided and determined that its coverage decisions were appropriate.
+
+=== POST 86 ===
+urn: urn:li:activity:7503517611557687296
+author: RSB Healthcare Consulting | authorType: Person | headline: 2,479 followers
+posted: 2026-09-09T18:20:07.211Z | isRepost: False
+likes: 7 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/rsb-healthcare-consulting_activity-7503517611557687296
+text:
+📊 What Happens When Payer Data Finally Becomes Actionable? 
+Healthcare organizations have more payer data than ever. 
+ 
+- Claims and encounter data 
+- Prior authorization status 
+- Denial reasons 
+- Documentation requirements 
+- Payment and reimbursement trends 
+
+But having payer data is not the same as acting on it. 
+
+The real opportunity begins when that data changes a revenue cycle decision.  
+
+🔎 A Current Industry Shift 
+CMS is advancing greater transparency and interoperability in payer data and prior authorization. 
+
+As of January 1, 2026, impacted payers are required to provide specific reasons for denied prior authorization decisions for applicable non-drug items and services. CMS also requires impacted payers to meet 72-hour expedited and 7-calendar-day standard decision timeframes. 
+
+Looking ahead to January 1, 2027, impacted payers must implement key FHIR-based APIs, including Provider Access and Prior Authorization APIs, enabling more structured exchange of claims, encounter and prior authorization information. 
+
+💡 What Does This Mean for Providers? 
+A recurring authorization issue should no longer be viewed as just another work queue item. 
+
+Revenue cycle leaders can use payer information to understand: 
+
+✔️ Which services are creating authorization friction 
+
+✔️Which payer requirements are driving delays 
+
+✔️Where documentation gaps are recurring 
+
+✔️Which denial patterns deserve immediate attention 
+
+✔️How much A/R is connected to a specific payer issue 
+
+✔️Where the workflow needs to change before the next claim 
+
+🔄 The Shift Is from Data to Action 
+Reactive → Predictive 
+Denial follow-up → Root-cause management 
+Reporting → Decision-making 
+Payer data → Revenue intelligence 
+
+The goal isn't simply to understand what went wrong. 
+It is to determine: 
+
+🎯 What is likely to go wrong next and what can we change now? 
+
+At RSB Healthcare Consulting, we help healthcare organizations turn payer, claims, denial and payment data into practical revenue cycle insights- helping leadership identify process gaps, prioritize high-impact issues and make informed operational decisions. 
+
+A dashboard tells you what happened. 
+Actionable intelligence helps you decide what happens next. 
+
+#Healthcare #RevenueCycleManagement #PayerData #RevenueIntegrity #PriorAuthorization #DenialManagement #HealthcareConsulting #USHealthcare
+
+=== POST 87 ===
+urn: urn:li:activity:7505645349412311040
+author: Reginald McCoy, DBH, MBA, MPA. | authorType: Person | headline: Director of Government Affairs | Professor | Doctor of Behavioral Health
+posted: 2026-09-15T15:14:59.447Z | isRepost: False
+likes: 0 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/reginald-mccoy,-dbh,-mba,-mpa._activity-7505645349412311040
+text:
+For years, the challenge of accurately identifying 340B claims under Part D has relied on proxy approaches like the Prescriber-Pharmacy Methodology. A dedicated repository that draws directly from covered entities has real potential to improve accuracy as CMS implements the Inflation Reduction Act's requirement to exclude 340B drugs from inflation rebate calculations.
+ 
+A few things stand out from a policy standpoint:
+ 
+▪️ Starting voluntary on Oct. 1, with a proposed mandatory requirement in 2027, gives providers and their TPAs time to build the workflows and account infrastructure they'll need. That sequencing reflects thoughtful implementation.
+▪️ CMS's commitment that repository data will not be shared outside the agency, including with manufacturers or Part D plans is significant. Data governance and stakeholder trust will make or break programs like this one.
+▪️ With comments on the 2027 PFS proposal this is a great way covered entities can shape how this framework matures.
+ 
+The broader 340B data landscape remains complex, with HRSA's rebate pilot, differing manufacturer and provider positions, and the reported move of program oversight to CMS all signal a period of real change ahead. But building infrastructure grounded in accuracy and clear data protections is a constructive foundation.
+
+#340B 
+#HealthPolicy 
+#Medicare 
+#GovernmentAffairs 
+#HealthcareRegulation
+
+=== POST 88 ===
+urn: urn:li:activity:7505626705345073153
+author: Brittany Trang, PhD | authorType: Person | headline: Health Tech Reporter at STAT News | Signal: btrang.01
+posted: 2026-09-15T14:00:54.355Z | isRepost: False
+likes: 19 | comments: 2 | shares: 2
+url: https://www.linkedin.com/posts/brittany-trang,-phd_activity-7505626705345073153
+text:
+New: One of the WISeR Medicare AI prior auth vendors didn't know Medicare Part A from Part B. Innovaccer warned CMS that choosing not to delay the start date meant they would launch with an unfinished product, and reports of constant delays show just how unfinished it was. 
+
+Meanwhile, patients were bearing the brunt of the deficient technology. "I HAVE HAD TO WATCH 3 PATIENTS CRY AT BEDSIDE FOR NOT HEARING BACK ON THEIR PRIOR AUTH FOR KYPHOPLASTY/VERTABRAL AUGMENTIATION PROCEDURE. THESE PATIENTS ARE IN DEEP PAIN," wrote one provider in a feedback survey. "THERE IS NO WAY TO GET A HOLD OF A HUMAN TO TALK TO ON INNOVACER. WHAT A DISGRACE TO THE HUMAN RACE IN AMERICA. THIS IS THIRD WORLD."
+
+Medicare's AI prior auth program had a bumpy start. Whether it's still bumpy is unclear. Read more on what's revealed in the documents from the Electronic Frontier Foundation (EFF)'s FOIA lawsuit:
+
+https://lnkd.in/g68-n4zd
+
+#health #healthcare #medicine #AI #artificialintelligence #healthtech #medicare #CMS #WISeR #priorauth
+
+=== POST 89 ===
+urn: urn:li:activity:7498359908770164736
+author: Dr. Sai Pavan V, Pharm.D, MSHI | authorType: Person | headline: PhD Student in Enterprise Systems| Business Data Analyst | Clinical Informatics | Revenue Cycle | HL7/FHIR Integrations | CRM | AI Workflows |Clinical Research |EHR/EMR Workflows
+posted: 2026-08-26T12:45:15.041Z | isRepost: False
+likes: 2 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/dr.-sai-pavan-v,-pharm.d,-mshi_activity-7498359908770164736
+text:
+What if payer evaluation focused on total operational value instead of reimbursement rates alone?
+
+As part of an AI Boost Bites challenge, I explored a healthcare analytics problem:
+Which payer-provider relationships deliver the strongest overall value when reimbursement, denial risk, prior authorization burden, payment speed, and administrative effort are evaluated together?
+
+Healthcare payer information is spread across CMS regulations, fee schedules, payer policies, prior authorization requirements, claims data, remittance data, contracts, and revenue cycle reports. The challenge isn't finding data. It's making that information comparable, measurable, and actionable.
+
+To address this, I used Gemini Deep Research as a research synthesis layer to organize fragmented reimbursement, regulatory, denial, and prior authorization information around a common business question.
+
+I then developed an interactive proof-of-concept payer reimbursement and RCM decision-support application using HTML, Tailwind CSS, JavaScript, Chart.js, and Gemini capabilities.
+
+Key concepts included:
+✅ Multi-factor payer comparison
+✅ Prior authorization and denial analysis
+✅ Payer scorecards
+✅ Scenario modeling
+✅ "True Payer Value" framework
+✅ Internal 837/835 and contract-data integration concepts
+
+One of the biggest lessons from the project:
+The value of AI is not simply faster research. It's helping transform fragmented information into structured decision-support frameworks that humans can validate and use to make better decisions.
+
+AI can support research, synthesis, comparison, and scenario analysis.
+Human expertise is still required to validate regulations, review payer policies, assess contracts, verify assumptions, and make final business decisions.
+
+Link: https://lnkd.in/gtkdXqPR
+
+AI + Data + Domain Knowledge + Human Validation > AI alone
+
+#HealthcareAnalytics #RevenueCycleManagement #RCM #HealthcareFinance #ManagedCare #PayerStrategy #ResponsibleAI #HealthcareTechnology #DecisionSupport #Medicare #Medicaid #DataAnalytics #BusinessAnalysis
+
+=== POST 90 ===
+urn: urn:li:activity:7504318406960156672
+author: Girish G. Kaimal Pharm D., MBA, FACHE, FHFMA | authorType: Person | headline: VP Pharmacy Services | Chief Pharmacy Officer | 340B Strategy · Drug Spend · AI Governance | Thomas C. Dolan Fellow · FACHE · FHFMA · Kellogg MBA · Pharm.D.
+posted: 2026-09-11T23:22:11.713Z | isRepost: False
+likes: 10 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/girish-g.-kaimal-pharm-d.,-mba,-fache,-fhfma_activity-7504318406960156672
+text:
+#UnitedHealthcare is removing prior authorization requirements for roughly 1,700 procedure codes effective October 1, 2026. 
+
+That is welcome news. But what happened to the patients who needed that care before the requirements were removed?
+
+The company told Healthcare Dive it focused on services with established clinical efficacy and consistently high approval rates. 
+
+An approval rate tells us how often permission was granted. It does not tell us what waiting for permission cost the patient.
+
+UnitedHealthcare’s own explanation includes removing “barriers that can delay care.” 
+
+That deserves more than an administrative-burden discussion.
+
+For these specific services, how many patients experienced avoidable delays? How many abandoned treatment? Was preventable harm tracked, and did those findings inform the decision to remove the requirements?
+
+The announcement does not provide that accounting. 
+
+In the #AMA’s 2025 survey of 1,000 physicians, 26% reported that prior authorization had led to a serious adverse event for a patient in their care. These are physician reports across payers, not a harm estimate for UnitedHealthcare or these codes. 
+
+They are a reason to ask for more than a count of requirements eliminated.
+
+#CMS already requires aggregate reporting of approvals, appeals and decision times from #Medicare Advantage, Medicaid/CHIP and federally facilitated exchange payers, excluding drug authorizations. UnitedHealthcare says it has published those metrics. 
+
+Now break them out for the codes being removed. For employer plans outside that federal reporting requirement, publish the same breakdown.
+
+And measure more than the insurer’s decision clock.
+
+CMS measures that clock from receipt of a request to a determination. That is not the same as time from a treatment decision to treatment. 
+
+An approval after an appeal may correct a coverage decision. It cannot give a patient back the days spent waiting.
+
+Preventing unnecessary or unsafe care matters. For the requirements that remain, what evidence shows the review improves care enough to justify its burden? What findings trigger an independent review, suspension or removal?
+
+Health systems and employers purchasing coverage should be asking these questions, too.
+
+When a patient abandons necessary treatment, we should not mistake the absence of a claim for successful care management.
+
+The burden of proof should not rest only with the clinician requesting care.
+
+It should also rest with the organization requiring permission.
+
+=== POST 91 ===
+urn: urn:li:activity:7504343265828216832
+author: Mohammed Nomani | authorType: Person | headline: Founder & Operator | Acquiring, Building & Scaling Tech-Enabled Service Businesses in Healthcare, Digital Services, eCommerce and Agentic AI
+posted: 2026-09-12T01:00:58.529Z | isRepost: False
+likes: 2 | comments: 1 | shares: 1
+url: https://www.linkedin.com/posts/mohammed-nomani_activity-7504343265828216832
+text:
+Most practices don't have a denial problem. They have a data problem.
+
+If you don’t know your denial rate by payer, plan type, reason, service, and clinician, you’re not managing denials. You’re reacting to isolated events.
+
+KFF data shows that at least 1 in 8 standard prior authorization requests are denied. Rates vary significantly by insurer and market:
+
+25% : Centene, ACA Marketplace
+23% : Independence Health Group, Medicaid
+17% : UnitedHealthcare, Medicare Advantage
+
+That variation matters.
+
+A denial pattern tied to one payer or service requires a different solution than a documentation or coding issue affecting multiple clinicians. Without the right breakdown, your team may keep appealing symptoms while the same front-end problems repeat.
+
+Start tracking denials by:
+
+Payer and plan type
+Denial reason
+Service or procedure
+Clinician or location
+
+Then move from denial management to denial prevention. Use the patterns to address eligibility, authorization, documentation, and coding gaps before claims are submitted.
+
+Your denial rate is not just one number. It is a map showing where revenue leakage begins.
+
+Is your practice tracking denial data deeply enough to prevent the next denial? Let’s analyze the patterns together.
+
+Source: KFF analysis of prior authorization data.
+
+=== POST 92 ===
+urn: urn:li:activity:7503952965909647360
+author: Chris Cockey | authorType: Person | headline: Licensed Health Insurance Agent
+posted: 2026-09-10T23:10:03.777Z | isRepost: False
+likes: 1 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/chris-cockey_activity-7503952965909647360
+text:
+Medicare Advantage plan operations are becoming easier for the public to see.
+Prior authorization is the process through which a plan reviews certain services before agreeing to cover them. It has long been difficult for beneficiaries and advisors to evaluate how that process operates across Medicare Advantage contracts.
+A KFF analysis published in January 2026 examined CMS contract-level data for 2024. Medicare Advantage insurers made 52.8 million prior authorization decisions:
+- 92.3% of requests were approved in full
+- 7.7% were not fully approved
+- 11.5% of denials were appealed
+- When someone asked the plan to look again, it changed its original answer 80.7% of the time
+In public-facing terms, when someone asked the plan to look again, the plan approved all or part of the requested care in more than 8 out of 10 appeals.
+The figure needs context. A changed decision does not automatically establish that the first decision was improper; an appeal may include additional clinical documentation. The data are also aggregated at the Medicare Advantage contract level and cannot predict the result of an individual request.
+But the scale and appeal results demonstrate why transparency matters.
+Beginning in 2026, Medicare Advantage organizations must publicly report approval and denial rates, appeal outcomes, and response times for medical items and services, excluding drugs. CMS has also said that this information must be publicly accessible and understandable to patients.
+This is a positive development in Medicare oversight. Public reporting will not resolve every problem with prior authorization, but it creates a stronger basis for accountability and better-informed plan reviews.
+When I help clients evaluate 2027 coverage, I consider provider access, prescriptions, plan approval rules, and available performance information together. To schedule an appointment:
+https://lnkd.in/gjGCK7bi
+KFF analysis:
+https://lnkd.in/gmjrxN8s
+CMS reporting requirements:
+https://lnkd.in/g3ZVbiH8
+New public-data analysis:
+https://lnkd.in/grBWRk3Q
+Not affiliated with or endorsed by Medicare or any government agency.
+#MedicareAdvantage #PriorAuthorization #HealthPolicy #HealthcareTransparency
+
+=== POST 93 ===
+urn: urn:li:activity:7503987200913678336
+author: Vikas Kumar Bhardwaj | authorType: Person | headline: Subject Matter Expert (SME) | Revenue Cycle Management (RCM) | Payment Posting | Quality Auditing | US Healthcare
+posted: 2026-09-11T01:26:06.038Z | isRepost: False
+likes: 45 | comments: 0 | shares: 6
+url: https://www.linkedin.com/posts/vikas-kumar-bhardwaj_activity-7503987200913678336
+text:
+🚨 Medical Billing & RCM is changing in 2026 — Are you ready?
+
+If you work in Medical Billing, Coding, or RCM, these updates can directly impact your clean claim rate, denials, AR, and reimbursement.
+
+Here’s what deserves your attention 👇
+
+🔹 Prior Authorization is getting stricter
+More focus on PA requirements, denial reasons, and faster decision timelines. Missing or incorrect authorization can quickly turn into a denial.
+
+🔹 Electronic Prior Authorization is growing 💻
+The industry is moving toward more automated and electronic PA processes. Accurate clinical information and documentation will become even more important.
+
+🔹 Coding rules keep evolving 📝
+Updated NCCI edits, CPT/HCPCS, and ICD-10 changes mean billing teams need to stay current. One incorrect code combination can impact an entire claim.
+
+🔹 Medicare reimbursement changes 💰
+Payment rate updates can affect provider reimbursement, making it important for RCM teams to understand how these changes impact billing and revenue.
+
+🔹 Denial Prevention > Denial Management
+The goal isn't just to work denials after they happen.
+The real win is identifying the root cause and preventing the denial from happening again.
+
+💡 The RCM mindset for 2026:
+Verify → Authorize → Code Correctly → Submit Clean → Prevent Denials → Collect Faster
+
+The healthcare revenue cycle is becoming more data-driven, automated, and compliance-focused.
+
+👉 RCM professionals who keep learning will always have an advantage.
+
+What do you think will be the BIGGEST challenge for RCM teams in 2026? 👇
+
+#MedicalBilling #RCM #RevenueCycleManagement #MedicalCoding #Healthcare #DenialManagement #HealthcareRevenue #MedicalBilling2026
+
+=== POST 94 ===
+urn: urn:li:activity:7506006787989356544
+author: Sidley Global Life Sciences | authorType: Person | headline: 2,822 followers
+posted: 2026-09-16T15:11:13.119Z | isRepost: False
+likes: 5 | comments: 0 | shares: 1
+url: https://www.linkedin.com/posts/sidley-global-life-sciences_activity-7506006787989356544
+text:
+HHS Secretary Robert F. Kennedy Jr. recently announced that he would give CMS the authority to exclude individuals and entities from participation in federal health care programs, an authority previously held only by HHS-OIG. 
+
+Read more in the blog post by Meenakshi Datta, Mark Langdon, Donielle McCutcheon, Trevor Wear, and Gabrielle Feliciani: "HHS Secretary Announces Intent to Extend HHS-OIG Exclusion Authority to CMS, Expanding the Administration's Anti-Fraud Campaign."
+
+=== POST 95 ===
+urn: urn:li:activity:7505292280094912512
+author: John Lynn | authorType: Person | headline: Founder of Healthcare Scene which includes the HealthcareITToday.com and Swaay.Health communities
+posted: 2026-09-14T15:52:01.162Z | isRepost: False
+likes: 3 | comments: 0 | shares: 0
+url: https://www.linkedin.com/posts/john-lynn_activity-7505292280094912512
+text:
+Prior authorization is one of those revenue cycle workflows where the administrative burden can quickly add up.
+
+Anurag Mehta is seeing AI change that equation, including agents that can actually call payers and handle parts of the process.
+
+And the technology isn't limited to one part of RCM. AI-powered voice and agentic capabilities are emerging across both front-end and back-end workflows.
+
+Hear the full conversation: https://lnkd.in/dJD_-9dt
+
+Omega Healthcare Management Services #HFMA #digitalhealth
+

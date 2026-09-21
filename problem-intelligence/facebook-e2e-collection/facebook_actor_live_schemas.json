@@ -1,0 +1,715 @@
+{
+  "step": "0 - live actor input schema inspection",
+  "produced_at": "2026-09-21T12:21:41.861460+00:00",
+  "cost_usd": 0.0,
+  "note": "Metadata reads only. No actor was started by this script.",
+  "budget": {
+    "used_usd": 0.6654056905332126,
+    "cap_usd": 5,
+    "remaining_usd": 4.334594309466787
+  },
+  "actors": {
+    "scrapesmith/facebook-search-scraper": {
+      "slug": "scrapesmith/facebook-search-scraper",
+      "actor_id": "2BZSEQfgrOqtoCTib",
+      "title": "Facebook Search Scraper",
+      "username": "scrapesmith",
+      "name": "facebook-search-scraper",
+      "is_public": true,
+      "total_runs": 4027,
+      "total_users": 99,
+      "last_run_started_at": "2026-09-21T11:50:52.095Z",
+      "pricing_model": "PAY_PER_EVENT",
+      "price_per_unit_usd": null,
+      "price_detail": {
+        "minimalMaxTotalChargeUsd": null,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": false,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-actor-start": {
+              "eventTitle": "Actor Start",
+              "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+              "isOneTimeEvent": true,
+              "eventPriceUsd": 0.005
+            },
+            "apify-default-dataset-item": {
+              "eventTitle": "result",
+              "eventDescription": "Single result in the default dataset.",
+              "isOneTimeEvent": false,
+              "eventPriceUsd": 0.0005,
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-07-13T10:59:34.450Z",
+        "createdAt": "2026-07-13T10:59:34.800Z",
+        "apifyMarginPercentage": 0.2,
+        "notifiedAboutChangeAt": "2026-07-13T11:05:35.278Z"
+      },
+      "input_schema": {
+        "title": "Facebook Search Scraper Input",
+        "type": "object",
+        "schemaVersion": 1,
+        "required": [
+          "queries"
+        ],
+        "properties": {
+          "queries": {
+            "title": "Search Queries",
+            "type": "array",
+            "description": "Keywords to search for on Facebook.",
+            "editor": "stringList",
+            "items": {
+              "type": "string"
+            },
+            "prefill": [
+              "coffee shop"
+            ]
+          },
+          "searchType": {
+            "title": "Search Type",
+            "type": "string",
+            "description": "What type of results to search for.",
+            "default": "pages",
+            "editor": "select",
+            "enum": [
+              "pages",
+              "posts",
+              "groups",
+              "events",
+              "people",
+              "all"
+            ],
+            "enumTitles": [
+              "Pages",
+              "Posts",
+              "Groups",
+              "Events",
+              "People",
+              "All (mixed)"
+            ]
+          },
+          "maxResultsPerQuery": {
+            "title": "Max Results Per Query",
+            "type": "integer",
+            "description": "Maximum number of results per search query.",
+            "default": 100,
+            "minimum": 1,
+            "maximum": 5000,
+            "editor": "number"
+          }
+        }
+      },
+      "input_schema_error": null,
+      "example_input": {
+        "body": "{ \"helloWorld\": 123 }",
+        "contentType": "application/json; charset=utf-8"
+      },
+      "fields": [
+        {
+          "field": "queries",
+          "type": "array",
+          "editor": "stringList",
+          "required": true,
+          "default": [
+            "coffee shop"
+          ],
+          "enum": null,
+          "enum_titles": null,
+          "description": "Keywords to search for on Facebook."
+        },
+        {
+          "field": "searchType",
+          "type": "string",
+          "editor": "select",
+          "required": false,
+          "default": "pages",
+          "enum": [
+            "pages",
+            "posts",
+            "groups",
+            "events",
+            "people",
+            "all"
+          ],
+          "enum_titles": [
+            "Pages",
+            "Posts",
+            "Groups",
+            "Events",
+            "People",
+            "All (mixed)"
+          ],
+          "description": "What type of results to search for."
+        },
+        {
+          "field": "maxResultsPerQuery",
+          "type": "integer",
+          "editor": "number",
+          "required": false,
+          "default": 100,
+          "enum": null,
+          "enum_titles": null,
+          "description": "Maximum number of results per search query."
+        }
+      ]
+    },
+    "parseforge/facebook-search-scraper": {
+      "slug": "parseforge/facebook-search-scraper",
+      "actor_id": "m5GRLRRCpHItqIz19",
+      "title": "Facebook Search Scraper - Posts by Keyword",
+      "username": "parseforge",
+      "name": "facebook-search-scraper",
+      "is_public": true,
+      "total_runs": 1096,
+      "total_users": 49,
+      "last_run_started_at": "2026-09-21T10:34:17.935Z",
+      "pricing_model": "PAY_PER_EVENT",
+      "price_per_unit_usd": null,
+      "price_detail": {
+        "pricingModel": "PAY_PER_EVENT",
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "result-item": {
+              "eventTitle": "Result item",
+              "eventDescription": "Facebook page match with basic metadata.",
+              "isOneTimeEvent": false,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.012
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.01064
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.00936
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.008
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.008
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.008
+                }
+              },
+              "isPrimaryEvent": true
+            },
+            "page-enrichment": {
+              "eventTitle": "Page enrichment",
+              "eventDescription": "Fires per result when enrichPages is enabled. Bundles contact info, verified status, business details and mission.",
+              "isOneTimeEvent": false,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.018
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.01596
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.01404
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.012
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.012
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.012
+                }
+              }
+            }
+          }
+        },
+        "startedAt": "2026-08-08T19:15:03.000Z",
+        "apifyMarginPercentage": 0.2,
+        "createdAt": "2026-07-24T19:15:34.515Z",
+        "notifiedAboutChangeAt": "2026-08-11T00:05:43.456Z"
+      },
+      "input_schema": {
+        "title": "Facebook Search Scraper",
+        "type": "object",
+        "schemaVersion": 1,
+        "properties": {
+          "queries": {
+            "title": "Search Queries",
+            "type": "array",
+            "editor": "stringList",
+            "prefill": [
+              "nike",
+              "apple"
+            ],
+            "description": "List of search queries"
+          },
+          "searchType": {
+            "title": "Search Type",
+            "type": "string",
+            "editor": "select",
+            "enum": [
+              "pages",
+              "groups",
+              "posts",
+              "videos"
+            ],
+            "prefill": "pages",
+            "description": "Type of entity to search"
+          },
+          "maxItems": {
+            "title": "Maximum results",
+            "type": "integer",
+            "description": "Maximum number of results to collect per run.",
+            "editor": "number",
+            "prefill": 10,
+            "minimum": 1,
+            "maximum": 1000000
+          }
+        },
+        "required": [
+          "queries"
+        ]
+      },
+      "input_schema_error": null,
+      "example_input": {
+        "body": "{ \"helloWorld\": 123 }",
+        "contentType": "application/json; charset=utf-8"
+      },
+      "fields": [
+        {
+          "field": "queries",
+          "type": "array",
+          "editor": "stringList",
+          "required": true,
+          "default": [
+            "nike",
+            "apple"
+          ],
+          "enum": null,
+          "enum_titles": null,
+          "description": "List of search queries"
+        },
+        {
+          "field": "searchType",
+          "type": "string",
+          "editor": "select",
+          "required": false,
+          "default": "pages",
+          "enum": [
+            "pages",
+            "groups",
+            "posts",
+            "videos"
+          ],
+          "enum_titles": null,
+          "description": "Type of entity to search"
+        },
+        {
+          "field": "maxItems",
+          "type": "integer",
+          "editor": "number",
+          "required": false,
+          "default": 10,
+          "enum": null,
+          "enum_titles": null,
+          "description": "Maximum number of results to collect per run."
+        }
+      ]
+    },
+    "thedoor/facebook-page-scraper": {
+      "slug": "thedoor/facebook-page-scraper",
+      "actor_id": "QAhtRJ73BUzzsWfJ5",
+      "title": "Facebook Page Post & Comment Scraper",
+      "username": "thedoor",
+      "name": "facebook-page-scraper",
+      "is_public": true,
+      "total_runs": 10119,
+      "total_users": 1121,
+      "last_run_started_at": "2026-09-21T11:50:03.679Z",
+      "pricing_model": "PAY_PER_EVENT",
+      "price_per_unit_usd": null,
+      "price_detail": {
+        "minimalMaxTotalChargeUsd": null,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": false,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-default-dataset-item": {
+              "eventTitle": "result",
+              "eventDescription": "Single result in the default dataset.",
+              "isOneTimeEvent": false,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.0025
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.00199
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.0017
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.0015
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.0015
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.0015
+                }
+              },
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-08-04T07:38:26.426Z",
+        "createdAt": "2026-08-04T07:38:29.680Z",
+        "apifyMarginPercentage": 0.2,
+        "notifiedAboutChangeAt": "2026-08-05T15:06:33.131Z"
+      },
+      "input_schema": {
+        "title": "Facebook Page Scraper Input",
+        "type": "object",
+        "schemaVersion": 1,
+        "properties": {
+          "pageUrls": {
+            "title": "Facebook Page URLs",
+            "type": "array",
+            "description": "Enter the URLs of the Facebook pages you want to scrape. One URL per line.",
+            "editor": "stringList",
+            "prefill": [
+              "https://www.facebook.com/newshour/",
+              "https://www.facebook.com/nytimes/",
+              "https://www.facebook.com/usatoday/",
+              "https://www.facebook.com/10643211755/",
+              "https://www.facebook.com/CBSNews/"
+            ]
+          },
+          "postsToScrape": {
+            "title": "Number of Posts",
+            "type": "integer",
+            "description": "The maximum number of posts to scrape from each page.",
+            "default": 100,
+            "minimum": 1,
+            "editor": "number"
+          },
+          "includeTranscript": {
+            "title": "Include video transcript",
+            "type": "boolean",
+            "description": "Download available Facebook video captions and return them in videoTranscript.",
+            "default": false,
+            "editor": "checkbox"
+          },
+          "postsNewerThan": {
+            "title": "Posts newer than",
+            "type": "string",
+            "description": "Choose Relative or Absolute. Relative accepts values such as 7 days; Absolute accepts YYYY-MM-DD.",
+            "editor": "datepicker",
+            "dateType": "absoluteOrRelative",
+            "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$|^(\\d+(?:\\.\\d+)?)\\s*(minute|hour|day|week|month|year)s?$"
+          }
+        },
+        "required": [
+          "pageUrls"
+        ]
+      },
+      "input_schema_error": null,
+      "example_input": {
+        "body": "{ \"helloWorld\": 123 }",
+        "contentType": "application/json; charset=utf-8"
+      },
+      "fields": [
+        {
+          "field": "pageUrls",
+          "type": "array",
+          "editor": "stringList",
+          "required": true,
+          "default": [
+            "https://www.facebook.com/newshour/",
+            "https://www.facebook.com/nytimes/",
+            "https://www.facebook.com/usatoday/",
+            "https://www.facebook.com/10643211755/",
+            "https://www.facebook.com/CBSNews/"
+          ],
+          "enum": null,
+          "enum_titles": null,
+          "description": "Enter the URLs of the Facebook pages you want to scrape. One URL per line."
+        },
+        {
+          "field": "postsToScrape",
+          "type": "integer",
+          "editor": "number",
+          "required": false,
+          "default": 100,
+          "enum": null,
+          "enum_titles": null,
+          "description": "The maximum number of posts to scrape from each page."
+        },
+        {
+          "field": "includeTranscript",
+          "type": "boolean",
+          "editor": "checkbox",
+          "required": false,
+          "default": false,
+          "enum": null,
+          "enum_titles": null,
+          "description": "Download available Facebook video captions and return them in videoTranscript."
+        },
+        {
+          "field": "postsNewerThan",
+          "type": "string",
+          "editor": "datepicker",
+          "required": false,
+          "default": null,
+          "enum": null,
+          "enum_titles": null,
+          "description": "Choose Relative or Absolute. Relative accepts values such as 7 days; Absolute accepts YYYY-MM-DD."
+        }
+      ]
+    },
+    "apify/facebook-comments-scraper": {
+      "slug": "apify/facebook-comments-scraper",
+      "actor_id": "us5srxAYnsrkgUv2v",
+      "title": "Facebook Comments Scraper",
+      "username": "apify",
+      "name": "facebook-comments-scraper",
+      "is_public": true,
+      "total_runs": 11124392,
+      "total_users": 43549,
+      "last_run_started_at": "2026-09-21T12:21:47.955Z",
+      "pricing_model": "PAY_PER_EVENT",
+      "price_per_unit_usd": null,
+      "price_detail": {
+        "minimalMaxTotalChargeUsd": 0.0017,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": true,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "comment": {
+              "eventTitle": "Comment",
+              "eventDescription": "Each comment written to the dataset.",
+              "isOneTimeEvent": false,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.0025
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.002
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.0017
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.0014
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.0009
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.0004
+                }
+              },
+              "isPrimaryEvent": true
+            },
+            "actor-start": {
+              "eventTitle": "Actor start",
+              "eventDescription": "Flat charge for starting an Actor run.",
+              "isOneTimeEvent": true,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.001
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.001
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.001
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.001
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.001
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.001
+                }
+              }
+            },
+            "filter-applied": {
+              "eventTitle": "Add-on: Date filter",
+              "eventDescription": "Extra cost per post scraped with a date filter.",
+              "isOneTimeEvent": false,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.002
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.001
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.0008
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.0007
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.0004
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.0002
+                }
+              }
+            }
+          }
+        },
+        "createdAt": "2026-03-04T11:05:35.365Z",
+        "startedAt": "2026-03-04T11:05:35.365Z",
+        "apifyMarginPercentage": 0.2
+      },
+      "input_schema": {
+        "title": "Input schema for the empty project actor.",
+        "description": "This scraper will get comments from a Facebook post of your choice. To try it out, just paste one or multiple Facebook post URLs and click ▷ Start. If you need any guidance, just <a href='https://blog.apify.com/scrape-facebook-comments-data/' target='_blank' rel='noopener'>follow this tutorial</a>.",
+        "type": "object",
+        "schemaVersion": 1,
+        "properties": {
+          "startUrls": {
+            "title": "Facebook URLs",
+            "type": "array",
+            "description": "Valid facebook URL",
+            "editor": "requestListSources",
+            "prefill": [
+              {
+                "url": "https://www.facebook.com/humansofnewyork/posts/pfbid0BbKbkisExKGSKuhee9a7i86RwRuMKFC8NSkKStB7CsM3uXJuAAfZLrkcJMXxhH4Yl"
+              }
+            ],
+            "example": [
+              {
+                "url": "https://www.facebook.com/humansofnewyork/posts/pfbid0BbKbkisExKGSKuhee9a7i86RwRuMKFC8NSkKStB7CsM3uXJuAAfZLrkcJMXxhH4Yl"
+              }
+            ]
+          },
+          "resultsLimit": {
+            "title": "Results amount",
+            "type": "integer",
+            "description": "If this limit is not set as many results as possible are returned",
+            "editor": "number",
+            "prefill": 50,
+            "minimum": 1,
+            "example": 50
+          },
+          "includeNestedComments": {
+            "title": "Include comment replies",
+            "description": "If checked, the actor will return up to 3 levels of comments/replies for each post. Note that each reply/comment will be returned as a separate result.",
+            "default": false,
+            "type": "boolean",
+            "editor": "checkbox",
+            "example": false
+          },
+          "viewOption": {
+            "title": "Comments mode",
+            "description": "Choose the way the comments are sorted",
+            "type": "string",
+            "default": "RANKED_UNFILTERED",
+            "editor": "select",
+            "enum": [
+              "RANKED_THREADED",
+              "RECENT_ACTIVITY",
+              "RANKED_UNFILTERED"
+            ],
+            "enumTitles": [
+              "Most relevant",
+              "Newest",
+              "All"
+            ],
+            "example": "RANKED_UNFILTERED"
+          },
+          "onlyCommentsNewerThan": {
+            "title": "📅 Extract comments that are newer than",
+            "type": "string",
+            "description": "Limit how far back to the history the scraper should go. The date should be in YYYY-MM-DD or full ISO absolute format or in relative format e.g. 1 year, 2 months, 3 days, 4 hours, or 5 minutes. All time values are taken in UTC timezone. This <a href='https://apify.com/apify/facebook-comments-scraper/pricing' target='_blank' rel='noopener'>add-on feature</a> is billed separately.",
+            "dateType": "absoluteOrRelative",
+            "editor": "datepicker",
+            "sectionCaption": "Time frame",
+            "sectionDescription": "Use this if you only want to scrape comments from a specific period of time.",
+            "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])(T[0-2]\\d:[0-5]\\d(:[0-5]\\d)?(\\.\\d+)?Z?)?$|^(\\d+)\\s*(minute|hour|day|week|month|year)s?$",
+            "example": "2024-01-01"
+          }
+        },
+        "required": [
+          "startUrls"
+        ]
+      },
+      "input_schema_error": null,
+      "example_input": {
+        "body": "{ \"helloWorld\": 123 }",
+        "contentType": "application/json; charset=utf-8"
+      },
+      "fields": [
+        {
+          "field": "startUrls",
+          "type": "array",
+          "editor": "requestListSources",
+          "required": true,
+          "default": [
+            {
+              "url": "https://www.facebook.com/humansofnewyork/posts/pfbid0BbKbkisExKGSKuhee9a7i86RwRuMKFC8NSkKStB7CsM3uXJuAAfZLrkcJMXxhH4Yl"
+            }
+          ],
+          "enum": null,
+          "enum_titles": null,
+          "description": "Valid facebook URL"
+        },
+        {
+          "field": "resultsLimit",
+          "type": "integer",
+          "editor": "number",
+          "required": false,
+          "default": 50,
+          "enum": null,
+          "enum_titles": null,
+          "description": "If this limit is not set as many results as possible are returned"
+        },
+        {
+          "field": "includeNestedComments",
+          "type": "boolean",
+          "editor": "checkbox",
+          "required": false,
+          "default": false,
+          "enum": null,
+          "enum_titles": null,
+          "description": "If checked, the actor will return up to 3 levels of comments/replies for each post. Note that each reply/comment will be returned as a separate result."
+        },
+        {
+          "field": "viewOption",
+          "type": "string",
+          "editor": "select",
+          "required": false,
+          "default": "RANKED_UNFILTERED",
+          "enum": [
+            "RANKED_THREADED",
+            "RECENT_ACTIVITY",
+            "RANKED_UNFILTERED"
+          ],
+          "enum_titles": [
+            "Most relevant",
+            "Newest",
+            "All"
+          ],
+          "description": "Choose the way the comments are sorted"
+        },
+        {
+          "field": "onlyCommentsNewerThan",
+          "type": "string",
+          "editor": "datepicker",
+          "required": false,
+          "default": null,
+          "enum": null,
+          "enum_titles": null,
+          "description": "Limit how far back to the history the scraper should go. The date should be in YYYY-MM-DD or full ISO absolute format or in relative format e.g. 1 year, 2 months, 3 days, 4 hours, or 5 minutes. All time values are taken in UTC timezone. This <a href='https://apify.com/apify/facebook-comments-scraper"
+        }
+      ]
+    }
+  }
+}

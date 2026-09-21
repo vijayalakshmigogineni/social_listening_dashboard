@@ -1,0 +1,374 @@
+{
+  "step": "3 - group post collection capability test",
+  "produced_at": "2026-09-21T12:36:13.500865+00:00",
+  "question": "Can any of the four actors under test retrieve posts from a discovered public Facebook Group?",
+  "groups_tested": [
+    {
+      "url": "https://www.facebook.com/groups/273498442314660/",
+      "name": "People Looking for Life insurance",
+      "facebookId": "273498442314660",
+      "snippet": "Public · 41K members · 90+ posts a day",
+      "discovered_by_query": "insurance denial"
+    },
+    {
+      "url": "https://www.facebook.com/groups/350382725467096/",
+      "name": "USA Medical Health Group MD and Medical Billing",
+      "facebookId": "350382725467096",
+      "snippet": "Public · 33K members · 90+ posts a day",
+      "discovered_by_query": "medical claim denial"
+    }
+  ],
+  "verdict": "Group discovery works, but Group-post collection is not supported by the tested actors.",
+  "targeted_group_post_retrieval_supported": false,
+  "indirect_group_posts_available_via_search": true,
+  "required_capability_if_unsupported": {
+    "capability_needed": "A dedicated Facebook GROUP feed scraper.",
+    "why": "The four actors under test cover keyword search (scrapesmith, parseforge), page-feed retrieval (thedoor) and post comments (apify). None of them takes a group URL and returns that group's post feed.",
+    "candidate_actor": {
+      "slug": "apify/facebook-groups-scraper",
+      "actor_id": "2chN8UQcH1CfxLRNE",
+      "input": [
+        "startUrls",
+        "resultsLimit",
+        "viewOption",
+        "onlyPostsNewerThan"
+      ],
+      "status": "NOT part of this test's actor set. Earlier work in ../facebook/facebook_actor_recommendation.json records a verified pass on group 290657479460430 (run lwd1sFYEcsEnAx10X, 10 posts with text/author/time/engagement). Adding it would require approval since it is outside the four actors named for this test."
+    },
+    "access_note": "Only PUBLIC groups are in scope. Private-group content would require an authenticated session, which is out of scope for public-content collection."
+  },
+  "tests": [
+    {
+      "test": "A - thedoor/facebook-page-scraper fed group URLs",
+      "group_urls": [
+        "https://www.facebook.com/groups/273498442314660/",
+        "https://www.facebook.com/groups/350382725467096/"
+      ],
+      "run": {
+        "actor_slug": "thedoor/facebook-page-scraper",
+        "actor_id": "QAhtRJ73BUzzsWfJ5",
+        "run_id": "Wb4bwzTCOjhyd4bxH",
+        "status": "SUCCEEDED",
+        "started_at": "2026-09-21T12:32:50.047Z",
+        "finished_at": "2026-09-21T12:34:30.897Z",
+        "dataset_id": "PNn6xXZppVZIQrGZK",
+        "usage_total_usd": 0,
+        "http_status": null,
+        "error_body": null,
+        "run_input": {
+          "pageUrls": [
+            "https://www.facebook.com/groups/273498442314660/",
+            "https://www.facebook.com/groups/350382725467096/"
+          ],
+          "postsToScrape": 3,
+          "includeTranscript": false
+        }
+      },
+      "actor_log_tail": "65d91f438b94e709__cr.it;sessid.90402:****@gw.dataimpulse.com:823\n2026-09-21T12:34:08.683Z [Session] Refreshed session 2 (reason=session_rotations_exhausted_3) proxy: http://29e765d91f438b94e709__cr.co;sessid.48768:****@gw.dataimpulse.com:823\n2026-09-21T12:34:08.683Z [Session] Refreshed session 3 (reason=session_rotations_exhausted_3) proxy: http://29e765d91f438b94e709__cr.br;sessid.49041:****@gw.dataimpulse.com:823\n2026-09-21T12:34:08.684Z [Session] Assigned page session 0 (ID: 58256, region=MX)\n2026-09-21T12:34:08.684Z [Page 112463092102121] Refreshed complete four-session pool (3/3)\n2026-09-21T12:34:10.758Z [Session] Session 0 marked as blocked (reason=blocked_other) msg=\"Response too short (184 bytes) - likely blocked\"\n2026-09-21T12:34:10.759Z [Page 112463092102121] ⚠️  No healthy sessions, rotated to session 1\n2026-09-21T12:34:11.851Z [Session] Session 1 marked as blocked (reason=blocked_other) msg=\"Response too short (184 bytes) - likely blocked\"\n2026-09-21T12:34:11.851Z [Page 112463092102121] ⚠️  No healthy sessions, rotated to session 2\n2026-09-21T12:34:12.804Z [Session] Session 2 marked as blocked (reason=blocked_other) msg=\"Response too short (184 bytes) - likely blocked\"\n2026-09-21T12:34:12.805Z [Page 112463092102121] ⚠️  No healthy sessions, rotated to session 3\n2026-09-21T12:34:13.906Z [Session] Session 3 marked as blocked (reason=blocked_other) msg=\"Response too short (184 bytes) - likely blocked\"\n2026-09-21T12:34:28.930Z [Session] Refreshed session 3 (reason=rotation_no_available) proxy: http://29e765d91f438b94e709__cr.br;sessid.77884:****@gw.dataimpulse.com:823\n2026-09-21T12:34:28.931Z [Page 112463092102121] ⚠️  No healthy sessions, rotated to session 3\n2026-09-21T12:34:30.061Z [Session] Session 3 marked as blocked (reason=blocked_other) msg=\"Response too short (184 bytes) - likely blocked\"\n2026-09-21T12:34:30.062Z [Page 112463092102121] ✅ Done: 0 posts in 92.59s\n2026-09-21T12:34:30.062Z [Session] Cleaned page pool for 112463092102121: released 4 sessions\n2026-09-21T12:34:30.063Z ⚠️  [2/2] FAILED: groups - 0 posts collected (endReason=session_rotations_exhausted)\n2026-09-21T12:34:30.063Z \n2026-09-21T12:34:30.063Z ============================================================\n2026-09-21T12:34:30.064Z 📈 FINAL SUMMARY\n2026-09-21T12:34:30.064Z ============================================================\n2026-09-21T12:34:30.064Z ⏱️  Duration: 98.40s\n2026-09-21T12:34:30.065Z 📄 Total pages: 2\n2026-09-21T12:34:30.065Z 🔎 Preflight resolved: 1\n2026-09-21T12:34:30.065Z 🔎 Preflight failed: 1\n2026-09-21T12:34:30.065Z 🔁 Session model: 4 sessions per resolved Page\n2026-09-21T12:34:30.066Z ✅ Successful: 0\n2026-09-21T12:34:30.066Z ❌ Failed: 2\n2026-09-21T12:34:30.066Z 📝 Total posts: 0\n2026-09-21T12:34:30.067Z \n2026-09-21T12:34:30.067Z ❌ FAILED PAGES:\n2026-09-21T12:34:30.067Z    • groups: Could not resolve page ID\n2026-09-21T12:34:30.067Z    • groups: 0 posts fetched\n2026-09-21T12:34:30.068Z ============================================================\n",
+      "records_returned": 0,
+      "records_with_post_text": 0,
+      "supported": false,
+      "records": []
+    },
+    {
+      "test": "B - group posts harvested from keyword search output",
+      "cost_usd": 0.0,
+      "note": "These are real posts from inside public groups, obtained via scrapesmith searchType=posts. This is keyword-driven discovery, NOT targeted retrieval of a chosen group's feed.",
+      "records_returned": 4,
+      "supported_as_targeted_retrieval": false,
+      "records": [
+        {
+          "type": "post",
+          "postId": "4595325750699650",
+          "name": "Abihaabbasi Abihaabbasi Abihaabbasi",
+          "authorName": "Abihaabbasi Abihaabbasi Abihaabbasi",
+          "facebookId": "100093245076419",
+          "text": "Assalamualaikum\nI am Zummar Chanazaib Abbasi, a Remote Medical Biller from Rawalpindi.\nSkills: Claim Submission, AR Calling, Denial Management, Data Entry\nAvailable: US Night Shift 9pm-5am PKT\nFresher but fast learner and dedicated. CV attached.\nJazakAllah",
+          "url": "https://www.facebook.com/groups/3805049843060582/permalink/4595325750699650/",
+          "timestamp": 1789113270000,
+          "reactionsCount": 8,
+          "commentsCount": 17,
+          "sharesCount": 0,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 7,
+            "love": 0,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "100093245076419",
+            "name": "Abihaabbasi Abihaabbasi Abihaabbasi",
+            "url": "https://www.facebook.com/profile.php?id=100093245076419",
+            "profile_picture_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/700096649_881906774927484_5437109148459403110_n.jpg?stp=c0.0.1004.1004a_cp0_dst-jpg_tt6&cstp=mx1004x1004&ctp=s50x50&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGeJQxPVZXU7e1TC5Oh8ie8xD0QLo8hKcrEPRAujyEpyokXEEIXqtiMCYKU6NuiQVJXY_akY5rGoDIyDEn0MAtl&_nc_ohc=LMALolKThBwQ7kNvwEs43qC&_nc_oc=Adpt3hudmaa9A3XrWTjP0rnAR8cbuWnkI27M_3wgp_ONDKxpffR-eqiWK6j1jaMuLHg&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQLb0jW-xTwqitlIjrxiA7gPOoD4mdvHgQnrgFsUqdKLaw&oe=6AB710A0",
+            "delegate_page_id": null
+          },
+          "image": null,
+          "video": null,
+          "videoViewCount": null,
+          "albumPreview": [],
+          "imagesCount": 0,
+          "externalUrl": null,
+          "query": "medical claim denial"
+        },
+        {
+          "type": "post",
+          "postId": "38669009166046196",
+          "name": "LowkeyKiwi1099",
+          "authorName": "LowkeyKiwi1099",
+          "facebookId": "1058226426951407",
+          "text": "Help please 🙏 \nI filed a VA claim for my mental health condition and it got denied. The reason they gave was that there was \"no qualifying in-service event\" — no complaints, treatment, or diagnosis in my service records.\n\nHere's the problem: that's flat-out wrong.\n\nI requested my C&P exam DBQs, and when I read them, the C&P examiner had directly documented my in-service mental health treatment — a diagnosis and medications from during my service — right there in the exam. So the VA's own examiner found the exact evidence the rater claimed didn't exist. The denial contradicts their own paperwork.\n\nI've got a current diagnosis confirmed, and now I've got proof the in-service treatment is documented. From what I understand, the piece I'm still missing is a nexus opinion tying the two together — so I've got an appointment lined up with a psych provider to get a nexus letter.\n\nMy questions for anyone who's been through this:\n\nHave any of you dealt with a denial where the C&P examiner's own DBQ contradicted the rater's decision? How'd you attack it? HLR for the error, or Supplemental with a nexus letter?\n\nAny recommendations on getting a strong nexus letter, or providers who know how to write them for the VA?\n\nAnything you wish you'd known before you appealed?\n\nNot looking for anyone to do it for me, just trying to learn from folks who've fought this fight. Appreciate any wisdom. 🇺🇸",
+          "url": "https://www.facebook.com/groups/4425387990835085/permalink/38669009166046196/",
+          "timestamp": 1788902378000,
+          "reactionsCount": 10,
+          "commentsCount": 92,
+          "sharesCount": 1,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 10,
+            "love": 0,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "1058226426951407",
+            "name": "LowkeyKiwi1099",
+            "url": "https://www.facebook.com/groups/4425387990835085/user/1058226426951407/",
+            "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.35477-6/553566971_24439269395766954_8056268434669181463_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_eui2=AeGjzIKtuAexmcN7VUKOPY-T7JO-zveUOaXsk77O95Q5pWGBpjT8f_Cq97eXyBm4UdjdD0MyMV6RmOFaswIGwCT6&_nc_ohc=QCq-FN7W4KYQ7kNvwFmH6XV&_nc_oc=AdraxKRz-ctpdifXRI_0qf2VBeaECvpZcGwAHTGW5445siL-S3_uC777PbYOG6ME4mg&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQKlcZYqdFecF2Sq1Me7rAy_OmE5oSUsEWyaSMGtQcHnTg&oe=6AB6E859",
+            "delegate_page_id": null
+          },
+          "image": null,
+          "video": null,
+          "videoViewCount": null,
+          "albumPreview": [],
+          "imagesCount": 0,
+          "externalUrl": null,
+          "query": "medical claim denial"
+        },
+        {
+          "type": "post",
+          "postId": "2470556703442057",
+          "name": "Abdullah Qureshi",
+          "authorName": "Abdullah Qureshi",
+          "facebookId": "100034862491845",
+          "text": "I recently completed my Medical billing course and looking for internship to gain more practical knowledge.During my medical billing internship, I aim to gain practical experience in healthcare billing processes, including patient registration, insurance verification, medical coding, claim submission, payment posting, and denial management. This internship will help me develop a strong understanding of medical billing procedures, improve my accuracy and attention to detail, and learn how to work with healthcare providers and insurance companies professionally. I look forward to applying my knowledge in a practical environment while developing the skills needed for a successful career in medical billing.",
+          "url": "https://www.facebook.com/groups/usamedicalbillingcodingservices/permalink/2470556703442057/",
+          "timestamp": 1787104439000,
+          "reactionsCount": 1,
+          "commentsCount": 2,
+          "sharesCount": 0,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 1,
+            "love": 0,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "100034862491845",
+            "name": "Abdullah Qureshi",
+            "url": "https://www.facebook.com/abdullah.qureshi.607675",
+            "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/449263207_1189136378925101_7949322411105459664_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx594x590&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFJ1DNl1FSLGBQ56X9eysjz-Ynq4HSynVT5iergdLKdVGwPUjS6jR-RI32ebAwRhaM1pz_7a8119uioqJkqk9Z4&_nc_ohc=mecpa6xP8v0Q7kNvwFyml5B&_nc_oc=AdqXBYKQW6yK6nA8FVoBXvClH6SSw3PSZw67haphaqXkcWOgZhH6zwDgTXqb9WFslHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQJap5dqcF7CPwfUtyrBYYR3_pR02LAElBCbqGMHBiyyTQ&oe=6AB7032A",
+            "delegate_page_id": null
+          },
+          "image": null,
+          "video": null,
+          "videoViewCount": null,
+          "albumPreview": [],
+          "imagesCount": 0,
+          "externalUrl": null,
+          "query": "medical claim denial"
+        },
+        {
+          "type": "post",
+          "postId": "28605702425714108",
+          "name": "Abdullah Qureshi",
+          "authorName": "Abdullah Qureshi",
+          "facebookId": "100034862491845",
+          "text": "I recently completed my Medical billing course and looking for internship to gain more practical knowledge.During my medical billing internship, I aim to gain practical experience in healthcare billing processes, including patient registration, insurance verification, medical coding, claim submission, payment posting, and denial management. This internship will help me develop a strong understanding of medical billing procedures, improve my accuracy and attention to detail, and learn how to work with healthcare providers and insurance companies professionally. I look forward to applying my knowledge in a practical environment while developing the skills needed for a successful career in medical billing.",
+          "url": "https://www.facebook.com/groups/431822400195488/permalink/28605702425714108/",
+          "timestamp": 1787103707000,
+          "reactionsCount": 0,
+          "commentsCount": 0,
+          "sharesCount": 0,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 0,
+            "love": 0,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "100034862491845",
+            "name": "Abdullah Qureshi",
+            "url": "https://www.facebook.com/abdullah.qureshi.607675",
+            "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/449263207_1189136378925101_7949322411105459664_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx594x590&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFJ1DNl1FSLGBQ56X9eysjz-Ynq4HSynVT5iergdLKdVGwPUjS6jR-RI32ebAwRhaM1pz_7a8119uioqJkqk9Z4&_nc_ohc=mecpa6xP8v0Q7kNvwFyml5B&_nc_oc=AdqXBYKQW6yK6nA8FVoBXvClH6SSw3PSZw67haphaqXkcWOgZhH6zwDgTXqb9WFslHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQJap5dqcF7CPwfUtyrBYYR3_pR02LAElBCbqGMHBiyyTQ&oe=6AB7032A",
+            "delegate_page_id": null
+          },
+          "image": null,
+          "video": null,
+          "videoViewCount": null,
+          "albumPreview": [],
+          "imagesCount": 0,
+          "externalUrl": null,
+          "query": "medical claim denial"
+        }
+      ]
+    }
+  ],
+  "records": [
+    {
+      "type": "post",
+      "postId": "4595325750699650",
+      "name": "Abihaabbasi Abihaabbasi Abihaabbasi",
+      "authorName": "Abihaabbasi Abihaabbasi Abihaabbasi",
+      "facebookId": "100093245076419",
+      "text": "Assalamualaikum\nI am Zummar Chanazaib Abbasi, a Remote Medical Biller from Rawalpindi.\nSkills: Claim Submission, AR Calling, Denial Management, Data Entry\nAvailable: US Night Shift 9pm-5am PKT\nFresher but fast learner and dedicated. CV attached.\nJazakAllah",
+      "url": "https://www.facebook.com/groups/3805049843060582/permalink/4595325750699650/",
+      "timestamp": 1789113270000,
+      "reactionsCount": 8,
+      "commentsCount": 17,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 7,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100093245076419",
+        "name": "Abihaabbasi Abihaabbasi Abihaabbasi",
+        "url": "https://www.facebook.com/profile.php?id=100093245076419",
+        "profile_picture_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/700096649_881906774927484_5437109148459403110_n.jpg?stp=c0.0.1004.1004a_cp0_dst-jpg_tt6&cstp=mx1004x1004&ctp=s50x50&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGeJQxPVZXU7e1TC5Oh8ie8xD0QLo8hKcrEPRAujyEpyokXEEIXqtiMCYKU6NuiQVJXY_akY5rGoDIyDEn0MAtl&_nc_ohc=LMALolKThBwQ7kNvwEs43qC&_nc_oc=Adpt3hudmaa9A3XrWTjP0rnAR8cbuWnkI27M_3wgp_ONDKxpffR-eqiWK6j1jaMuLHg&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQLb0jW-xTwqitlIjrxiA7gPOoD4mdvHgQnrgFsUqdKLaw&oe=6AB710A0",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "38669009166046196",
+      "name": "LowkeyKiwi1099",
+      "authorName": "LowkeyKiwi1099",
+      "facebookId": "1058226426951407",
+      "text": "Help please 🙏 \nI filed a VA claim for my mental health condition and it got denied. The reason they gave was that there was \"no qualifying in-service event\" — no complaints, treatment, or diagnosis in my service records.\n\nHere's the problem: that's flat-out wrong.\n\nI requested my C&P exam DBQs, and when I read them, the C&P examiner had directly documented my in-service mental health treatment — a diagnosis and medications from during my service — right there in the exam. So the VA's own examiner found the exact evidence the rater claimed didn't exist. The denial contradicts their own paperwork.\n\nI've got a current diagnosis confirmed, and now I've got proof the in-service treatment is documented. From what I understand, the piece I'm still missing is a nexus opinion tying the two together — so I've got an appointment lined up with a psych provider to get a nexus letter.\n\nMy questions for anyone who's been through this:\n\nHave any of you dealt with a denial where the C&P examiner's own DBQ contradicted the rater's decision? How'd you attack it? HLR for the error, or Supplemental with a nexus letter?\n\nAny recommendations on getting a strong nexus letter, or providers who know how to write them for the VA?\n\nAnything you wish you'd known before you appealed?\n\nNot looking for anyone to do it for me, just trying to learn from folks who've fought this fight. Appreciate any wisdom. 🇺🇸",
+      "url": "https://www.facebook.com/groups/4425387990835085/permalink/38669009166046196/",
+      "timestamp": 1788902378000,
+      "reactionsCount": 10,
+      "commentsCount": 92,
+      "sharesCount": 1,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 10,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "1058226426951407",
+        "name": "LowkeyKiwi1099",
+        "url": "https://www.facebook.com/groups/4425387990835085/user/1058226426951407/",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.35477-6/553566971_24439269395766954_8056268434669181463_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_eui2=AeGjzIKtuAexmcN7VUKOPY-T7JO-zveUOaXsk77O95Q5pWGBpjT8f_Cq97eXyBm4UdjdD0MyMV6RmOFaswIGwCT6&_nc_ohc=QCq-FN7W4KYQ7kNvwFmH6XV&_nc_oc=AdraxKRz-ctpdifXRI_0qf2VBeaECvpZcGwAHTGW5445siL-S3_uC777PbYOG6ME4mg&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQKlcZYqdFecF2Sq1Me7rAy_OmE5oSUsEWyaSMGtQcHnTg&oe=6AB6E859",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "2470556703442057",
+      "name": "Abdullah Qureshi",
+      "authorName": "Abdullah Qureshi",
+      "facebookId": "100034862491845",
+      "text": "I recently completed my Medical billing course and looking for internship to gain more practical knowledge.During my medical billing internship, I aim to gain practical experience in healthcare billing processes, including patient registration, insurance verification, medical coding, claim submission, payment posting, and denial management. This internship will help me develop a strong understanding of medical billing procedures, improve my accuracy and attention to detail, and learn how to work with healthcare providers and insurance companies professionally. I look forward to applying my knowledge in a practical environment while developing the skills needed for a successful career in medical billing.",
+      "url": "https://www.facebook.com/groups/usamedicalbillingcodingservices/permalink/2470556703442057/",
+      "timestamp": 1787104439000,
+      "reactionsCount": 1,
+      "commentsCount": 2,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 1,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100034862491845",
+        "name": "Abdullah Qureshi",
+        "url": "https://www.facebook.com/abdullah.qureshi.607675",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/449263207_1189136378925101_7949322411105459664_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx594x590&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFJ1DNl1FSLGBQ56X9eysjz-Ynq4HSynVT5iergdLKdVGwPUjS6jR-RI32ebAwRhaM1pz_7a8119uioqJkqk9Z4&_nc_ohc=mecpa6xP8v0Q7kNvwFyml5B&_nc_oc=AdqXBYKQW6yK6nA8FVoBXvClH6SSw3PSZw67haphaqXkcWOgZhH6zwDgTXqb9WFslHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQJap5dqcF7CPwfUtyrBYYR3_pR02LAElBCbqGMHBiyyTQ&oe=6AB7032A",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "28605702425714108",
+      "name": "Abdullah Qureshi",
+      "authorName": "Abdullah Qureshi",
+      "facebookId": "100034862491845",
+      "text": "I recently completed my Medical billing course and looking for internship to gain more practical knowledge.During my medical billing internship, I aim to gain practical experience in healthcare billing processes, including patient registration, insurance verification, medical coding, claim submission, payment posting, and denial management. This internship will help me develop a strong understanding of medical billing procedures, improve my accuracy and attention to detail, and learn how to work with healthcare providers and insurance companies professionally. I look forward to applying my knowledge in a practical environment while developing the skills needed for a successful career in medical billing.",
+      "url": "https://www.facebook.com/groups/431822400195488/permalink/28605702425714108/",
+      "timestamp": 1787103707000,
+      "reactionsCount": 0,
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 0,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100034862491845",
+        "name": "Abdullah Qureshi",
+        "url": "https://www.facebook.com/abdullah.qureshi.607675",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/449263207_1189136378925101_7949322411105459664_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx594x590&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFJ1DNl1FSLGBQ56X9eysjz-Ynq4HSynVT5iergdLKdVGwPUjS6jR-RI32ebAwRhaM1pz_7a8119uioqJkqk9Z4&_nc_ohc=mecpa6xP8v0Q7kNvwFyml5B&_nc_oc=AdqXBYKQW6yK6nA8FVoBXvClH6SSw3PSZw67haphaqXkcWOgZhH6zwDgTXqb9WFslHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQJap5dqcF7CPwfUtyrBYYR3_pR02LAElBCbqGMHBiyyTQ&oe=6AB7032A",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    }
+  ],
+  "records_source": "keyword search output (indirect)"
+}

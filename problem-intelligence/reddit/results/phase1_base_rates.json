@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "phase": "Phase 1 - Manual Reality Check",
+    "source": "reddit",
+    "communities": [
+      "CodingandBilling",
+      "MedicalCoding"
+    ],
+    "n_posts": 60,
+    "collected_via": "apify:trudax/reddit-scraper-lite",
+    "denominator_note": "All five headline rates use n=60, the full sample. No filtering was applied before labelling."
+  },
+  "base_rates": {
+    "problem_evidence_rate": {
+      "n": 22,
+      "of": 60,
+      "pct": 36.7,
+      "definition": "posts showing a concrete RCM/practice operational problem someone is actually experiencing (not commentary, not a pure knowledge question, not career/labour-market difficulty)"
+    },
+    "solution_seeking_rate": {
+      "n": 11,
+      "of": 60,
+      "pct": 18.3,
+      "definition": "seeking_level L2 or above across the whole sample"
+    },
+    "identifiable_role_rate": {
+      "n": 34,
+      "of": 60,
+      "pct": 56.7,
+      "definition": "post text evidences the author's professional role"
+    },
+    "identifiable_organization_rate": {
+      "n": 1,
+      "of": 60,
+      "pct": 1.7,
+      "definition": "post text identifies the organisation the AUTHOR works for or on behalf of; third-party payers, vendors and prospective employers do not count"
+    },
+    "pain_management_relevance_rate": {
+      "n": 1,
+      "of": 60,
+      "pct": 1.7,
+      "definition": "post text evidences pain-management clinical or billing relevance"
+    }
+  },
+  "counts": {
+    "problem_category": {
+      "Authorization & Pre-Certification": 1,
+      "Denials & Appeals": 4,
+      "Coding & Documentation": 9,
+      "Reimbursement & Underpayment": 1,
+      "AR & Collections": 0,
+      "Credentialing & Enrollment": 1,
+      "Staffing & Capacity": 2,
+      "Technology & Workflow": 3,
+      "Vendor / Outsourcing Dissatisfaction": 1,
+      "Other": 0,
+      "None": 38
+    },
+    "seeking_level": {
+      "L0": 4,
+      "L1": 45,
+      "L2": 9,
+      "L3": 2,
+      "L4": 0
+    },
+    "l2_plus": 11,
+    "l3_plus": 2,
+    "pain_management_relevant": 1,
+    "painmedpa_service_match": 1
+  },
+  "supporting": {
+    "relevant_to_rcm": 34,
+    "problem_evidence": 22,
+    "problem_evidence_first_person": 20,
+    "l2_plus_among_problem_evidence": 9,
+    "l3_plus_among_problem_evidence": 2,
+    "pain_management_relevant_incl_unclear": 2,
+    "painmedpa_service_match_incl_unclear": 15,
+    "any_organisation_named_incl_third_party": 24,
+    "problem_evidence_by_community": {
+      "MedicalCoding": 14,
+      "CodingandBilling": 8
+    }
+  },
+  "decision_gate": {
+    "roadmap_rule": "problem-evidence rate < 10% -> change sources before building; L3+ rate < 2% -> Deliverable B may not be viable",
+    "problem_evidence_pct": 36.7,
+    "problem_evidence_gate": "PASS",
+    "l3_plus_pct": 3.3,
+    "l3_plus_gate": "PASS"
+  }
+}

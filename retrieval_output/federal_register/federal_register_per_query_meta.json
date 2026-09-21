@@ -1,0 +1,152 @@
+[
+  {
+    "query_term": "\"Medicare Program\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"Medicare Program\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22Medicare+Program%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 4481,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"Medicaid Program\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"Medicaid Program\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22Medicaid+Program%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 1829,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"prior authorization\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"prior authorization\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22prior+authorization%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 1422,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"coverage determination\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"coverage determination\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22coverage+determination%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 660,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"National Coverage Determination\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"National Coverage Determination\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22National+Coverage+Determination%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 316,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"Medicare reimbursement\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"Medicare reimbursement\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22Medicare+reimbursement%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 460,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"reimbursement rate\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"reimbursement rate\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22reimbursement+rate%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 544,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"HCPCS\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"HCPCS\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22HCPCS%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 794,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"medical billing\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"medical billing\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22medical+billing%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 140,
+    "records_returned_this_call": 100
+  },
+  {
+    "query_term": "\"medical coding and billing\"",
+    "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+    "params": {
+      "per_page": 100,
+      "page": 1,
+      "order": "newest",
+      "conditions[term]": "\"medical coding and billing\""
+    },
+    "fields_requested_count": 49,
+    "full_request_url": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&page=1&order=newest&conditions%5Bterm%5D=%22medical+coding+and+billing%22&fields%5B%5D=abstract&fields%5B%5D=action&fields%5B%5D=agencies&fields%5B%5D=body_html_url&fields%5B%5D=cfr_references&fields%5B%5D=citation&fields%5B%5D=comment_url&fields%5B%5D=comments_close_on&fields%5B%5D=correction_of&fields%5B%5D=corrections&fields%5B%5D=dates&fields%5B%5D=disposition_notes&fields%5B%5D=docket_ids&fields%5B%5D=dockets&fields%5B%5D=document_number&fields%5B%5D=effective_on&fields%5B%5D=end_page&fields%5B%5D=excerpts&fields%5B%5D=executive_order_notes&fields%5B%5D=executive_order_number&fields%5B%5D=full_text_xml_url&fields%5B%5D=html_url&fields%5B%5D=images&fields%5B%5D=images_metadata&fields%5B%5D=json_url&fields%5B%5D=mods_url&fields%5B%5D=not_received_for_publication&fields%5B%5D=page_length&fields%5B%5D=page_views&fields%5B%5D=pdf_url&fields%5B%5D=presidential_document_number&fields%5B%5D=proclamation_number&fields%5B%5D=public_inspection_pdf_url&fields%5B%5D=publication_date&fields%5B%5D=raw_text_url&fields%5B%5D=regulation_id_number_info&fields%5B%5D=regulation_id_numbers&fields%5B%5D=regulations_dot_gov_info&fields%5B%5D=regulations_dot_gov_url&fields%5B%5D=significant&fields%5B%5D=signing_date&fields%5B%5D=start_page&fields%5B%5D=subtype&fields%5B%5D=title&fields%5B%5D=toc_doc&fields%5B%5D=toc_subject&fields%5B%5D=topics&fields%5B%5D=type&fields%5B%5D=volume",
+    "http_status": 200,
+    "api_total_count_for_this_term": 4,
+    "records_returned_this_call": 4
+  }
+]

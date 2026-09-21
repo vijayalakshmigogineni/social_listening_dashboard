@@ -1,0 +1,55 @@
+{
+  "probed_at": "2026-09-21T11:14:02.844188+00:00",
+  "modes": [
+    {
+      "search_type": "groups",
+      "query": "medical billing",
+      "returned": 0,
+      "record_kinds": {},
+      "fields_present": [],
+      "apify": {
+        "actor_id": "F60Kx7YJNOmKmqQm3",
+        "actor_name": "scrapeforge/facebook-search-posts",
+        "run_id": "IKTEa3sXZLsfkkaPu",
+        "status": "SUCCEEDED",
+        "started_at": "2026-09-21T11:13:43.594Z",
+        "finished_at": "2026-09-21T11:13:45.075Z",
+        "dataset_id": "9vUFdcfCOI0tahsDB",
+        "usage_total_usd": 5e-05,
+        "run_input": {
+          "query": "medical billing",
+          "search_type": "groups",
+          "max_results": 5
+        }
+      },
+      "items_raw": []
+    },
+    {
+      "search_type": "pages",
+      "query": "medical billing",
+      "returned": 0,
+      "record_kinds": {},
+      "fields_present": [],
+      "apify": {
+        "actor_id": "F60Kx7YJNOmKmqQm3",
+        "actor_name": "scrapeforge/facebook-search-posts",
+        "run_id": "sgflssYmugE8RBs5F",
+        "status": "SUCCEEDED",
+        "started_at": "2026-09-21T11:13:53.138Z",
+        "finished_at": "2026-09-21T11:13:54.520Z",
+        "dataset_id": "WRZlRwDr1cXNaYT3d",
+        "usage_total_usd": 5e-05,
+        "run_input": {
+          "query": "medical billing",
+          "search_type": "pages",
+          "max_results": 5
+        }
+      },
+      "items_raw": []
+    }
+  ],
+  "budget_after": {
+    "used_usd": 0.3787154747624874,
+    "remaining_usd": 4.621284525237512
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "apify/facebook-search-scraper": {
+    "actor_id": "Us34x9p7VgjCz99H6",
+    "title": "Facebook Search Scraper",
+    "pricing_model": null,
+    "price": null,
+    "unit": null,
+    "input_schema": {
+      "title": "Input schema for the apify_project actor.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "categories": {
+          "title": "🔍 Search terms",
+          "description": "Add one or multiple keywords. You can add the keywords one by one, or use the <b>Bulk edit</b> section to pull them from a prepared list.",
+          "default": [],
+          "prefill": [
+            "Pub"
+          ],
+          "example": [
+            "Pub"
+          ],
+          "type": "array",
+          "editor": "stringList",
+          "uniqueItems": true
+        },
+        "locations": {
+          "title": "📍 Location (applied to each search term)",
+          "description": "Free text location definition. Just add a name of a country, city or province.",
+          "default": [],
+          "type": "array",
+          "editor": "stringList",
+          "uniqueItems": true
+        },
+        "resultsLimit": {
+          "title": "💯 Up to [number] of search results",
+          "type": "integer",
+          "description": "Set the number of results you expect for the entire run (if this limit is not set, as many results as possible are returned).",
+          "editor": "number",
+          "prefill": 20,
+          "minimum": 1
+        }
+      },
+      "required": [
+        "categories"
+      ]
+    }
+  },
+  "danek/facebook-search-ppr": {
+    "actor_id": "l6CUZt8H0214D3I0N",
+    "title": "Facebook Search Scraper",
+    "pricing_model": null,
+    "price": null,
+    "unit": null,
+    "input_schema": {
+      "title": "Scrape data from a web page",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "query": {
+          "title": "search query",
+          "type": "string",
+          "description": "Facebook urls. Can be page or profile",
+          "editor": "textfield",
+          "prefill": "Mausritter"
+        },
+        "search_type": {
+          "title": "Search type",
+          "type": "string",
+          "description": "Which types of results search for",
+          "editor": "select",
+          "prefill": "posts",
+          "enum": [
+            "pages",
+            "places",
+            "posts",
+            "global"
+          ],
+          "enumTitles": [
+            "pages",
+            "places",
+            "posts",
+            "global"
+          ]
+        },
+        "max_posts": {
+          "title": "max results",
+          "type": "integer",
+          "description": "Max results to scrape",
+          "editor": "number",
+          "prefill": 10
+        },
+        "recent_posts": {
+          "title": "Recent post",
+          "type": "boolean",
+          "description": "Recent post",
+          "prefill": false
+        },
+        "location": {
+          "title": "Location",
+          "type": "string",
+          "description": "Location. For better result include both city and country",
+          "editor": "textfield"
+        },
+        "start_date": {
+          "title": "Date from",
+          "type": "string",
+          "description": "Date from which to scrape posts",
+          "editor": "datepicker"
+        },
+        "end_date": {
+          "title": "Date to",
+          "type": "string",
+          "description": "Date to which to scrape posts",
+          "editor": "datepicker"
+        }
+      },
+      "required": [
+        "query",
+        "search_type",
+        "max_posts"
+      ]
+    }
+  },
+  "apify/facebook-groups-scraper": {
+    "actor_id": "2chN8UQcH1CfxLRNE",
+    "title": "Facebook Groups Scraper",
+    "pricing_model": null,
+    "price": null,
+    "unit": null,
+    "input_schema": {
+      "title": "Input schema for the empty project actor.",
+      "description": "This scraper will get posts, comments and user info from a Facebook group of your choice. To try it out, just paste one or multiple Facebook group URLs and click ▷ Start. If you need any guidance, just <a href='https://blog.apify.com/scrape-facebook-groups-data/' target='_blank' rel='noopener'>follow this tutorial</a>.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "startUrls": {
+          "title": "🔗 Facebook group URLs",
+          "type": "array",
+          "description": "Insert a URL of a valid Facebook group. Only <strong>public</strong> Facebook groups can be scraped.",
+          "editor": "requestListSources",
+          "prefill": [
+            {
+              "url": "https://www.facebook.com/groups/874728723021553"
+            }
+          ],
+          "example": [
+            {
+              "url": "https://www.facebook.com/groups/874728723021553"
+            }
+          ]
+        },
+        "resultsLimit": {
+          "title": "✍️ Number of posts",
+          "type": "integer",
+          "description": "Select the number of posts you want to scrape. If this limit is not set, as many results as possible will be returned.",
+          "editor": "number",
+          "prefill": 20,
+          "minimum": 1,
+          "example": 20
+        },
+        "viewOption": {
+          "title": "📜 Sorting order",
+          "type": "string",
+          "description": "Select sorting order by which the posts should be scraped. Please note that the <strong>Number of results</strong> field will be applied to New posts only. The BuySell items sorting will return results for BuySell groups only.",
+          "editor": "select",
+          "enum": [
+            "CHRONOLOGICAL",
+            "RECENT_ACTIVITY",
+            "TOP_POSTS",
+            "CHRONOLOGICAL_LISTINGS"
+          ],
+          "enumTitles": [
+            "New posts",
+            "Newest activity",
+            "Most relevant",
+            "BuySell items"
+          ],
+          "default": "CHRONOLOGICAL",
+          "prefill": "CHRONOLOGICAL",
+          "example": "CHRONOLOGICAL"
+        },
+        "searchGroupKeyword": {
+          "title": "Search by letter (words are allowed, but will not return any results in most cases)",
+          "type": "string",
+          "description": "Without logging in, search results are VERY limited, so searching by word will return nothing in most cases. To get more messages, it is recommended to use a one or two letter search and change the year.",
+          "editor": "textfield",
+          "example": "a"
+        },
+        "searchGroupYear": {
+          "title": "🗓 Search keyword by year",
+          "type": "string",
+          "description": "The scraper will extract Facebook posts by this year. To use this field, you need to fill in the <strong>Search by letter</strong> field above ↑.",
+          "editor": "textfield",
+          "example": "2024"
+        },
+        "onlyPostsNewerThan": {
+          "title": "Posts newer than",
+          "type": "string",
+          "description": "Scrapes post from the provided date to the present day. The date should be in YYYY-MM-DD or full ISO absolute format or in relative format e.g. 1 days, 2 months, 3 years. The JSON input also supports adding time units (UTC timezone): Full or partial ISO timestamp (e.g., `2025-09-23T10:02:01`) as absolute time and relative time, e.g., `1 hour` or `2 minutes`.",
+          "dateType": "absoluteOrRelative",
+          "editor": "datepicker",
+          "sectionCaption": "Time frame",
+          "sectionDescription": "Use this if you only want to scrape posts from a specific period of time.",
+          "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])(T[0-2]\\d:[0-5]\\d(:[0-5]\\d)?(\\.\\d+)?Z?)?$|^(\\d+)\\s*(minute|hour|day|week|month|year)s?$",
+          "example": "2024-01-01"
+        }
+      },
+      "required": [
+        "startUrls"
+      ]
+    }
+  },
+  "apify/facebook-posts-scraper": {
+    "actor_id": "KoJrdxJCTtpon81KY",
+    "title": "Facebook Posts Scraper",
+    "pricing_model": null,
+    "price": null,
+    "unit": null,
+    "input_schema": {
+      "title": "Input schema for the empty project actor.",
+      "description": "This scraper will get post and page details from Facebook pages of your choice. To try it out, just paste a Facebook Page URL and click ▷ Start. If you need any guidance, just <a href='https://blog.apify.com/scrape-facebook-posts-data/' target='_blank' rel='noopener'>follow this tutorial</a>.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "startUrls": {
+          "title": "Facebook URLs",
+          "type": "array",
+          "description": "Enter a valid Facebook page URL, e.g. <code>https://www.facebook.com/humansofnewyork/</code>. Note that you can only scrape public pages with this Actor, not personal profiles.",
+          "editor": "requestListSources",
+          "prefill": [
+            {
+              "url": "https://www.facebook.com/humansofnewyork/"
+            }
+          ],
+          "example": [
+            {
+              "url": "https://www.facebook.com/humansofnewyork/"
+            }
+          ]
+        },
+        "resultsLimit": {
+          "title": "Results amount",
+          "type": "integer",
+          "description": "If this limit is not set as many results as possible are returned",
+          "editor": "number",
+          "prefill": 20,
+          "minimum": 1,
+          "example": 20
+        },
+        "captionText": {
+          "title": "Include video transcript",
+          "description": "Extract video transcript (if available).",
+          "default": false,
+          "type": "boolean",
+          "editor": "checkbox",
+          "example": false
+        },
+        "onlyPostsNewerThan": {
+          "title": "Posts newer than",
+          "type": "string",
+          "description": "Scrape posts from the provided date to the present day (or date set in 'Older than'). The date should be in YYYY-MM-DD absolute format or in relative format, e.g., 1 day, 2 months, 3 years. The JSON input also supports adding time units (UTC timezone): Full or partial ISO timestamp (e.g., `2025-09-23T10:02:01`) as absolute time and relative time, e.g., `1 hour` or `2 minutes`.",
+          "dateType": "absoluteOrRelative",
+          "editor": "datepicker",
+          "sectionCaption": "Time frame",
+          "sectionDescription": "Use this if you only want to scrape posts from a specific period of time.",
+          "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])(T[0-2]\\d:[0-5]\\d(:[0-5]\\d)?(\\.\\d+)?Z?)?$|^(\\d+)\\s*(minute|hour|day|week|month|year)s?$",
+          "example": "2024-01-01"
+        },
+        "onlyPostsOlderThan": {
+          "title": "Posts older than",
+          "type": "string",
+          "description": "Scrape posts from the provided date to the past (or date set in 'Newer than'). The date should be in YYYY-MM-DD or full ISO absolute format or in relative format e.g. 1 days, 2 months, 3 years. The JSON input also supports adding time units (UTC timezone): Full or partial ISO timestamp (e.g., `2025-09-23T10:02:01`) as absolute time and relative time, e.g., `1 hour` or `2 minutes`.\n\n",
+          "dateType": "absoluteOrRelative",
+          "editor": "datepicker",
+          "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])(T[0-2]\\d:[0-5]\\d(:[0-5]\\d)?(\\.\\d+)?Z?)?$|^(\\d+)\\s*(minute|hour|day|week|month|year)s?$",
+          "example": "2024-12-31"
+        }
+      },
+      "required": [
+        "startUrls"
+      ]
+    }
+  },
+  "apify/facebook-pages-scraper": {
+    "actor_id": "4Hv5RhChiaDk6iwad",
+    "title": "Facebook Pages Scraper",
+    "pricing_model": null,
+    "price": null,
+    "unit": null,
+    "input_schema": {
+      "title": "facebook-page-scraper",
+      "description": "Extract public information from Facebook pages. Get page info, categories, number of likes, address, phone, email, services and rating (whatever is available for the given page). If you need any guidance, just <a href='https://blog.apify.com/how-to-scrape-facebook-pages-posts-comments-photos-and-more/' target='_blank' rel='noopener'>follow this tutorial</a>.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "startUrls": {
+          "title": "Start urls",
+          "description": "Provide urls of Facebook pages you want to get information from. Only works on facebook pages, not personal profiles (not even public ones).",
+          "default": [],
+          "prefill": [
+            {
+              "url": "https://www.facebook.com/copperkettleyqr/"
+            }
+          ],
+          "example": [
+            {
+              "url": "https://www.facebook.com/copperkettleyqr/"
+            },
+            {
+              "url": "https://www.facebook.com/HiltonGardenInnMontrealAirport/"
+            }
+          ],
+          "type": "array",
+          "uniqueItems": true,
+          "editor": "requestListSources"
+        }
+      },
+      "required": [
+        "startUrls"
+      ]
+    }
+  },
+  "apify/facebook-comments-scraper": {
+    "actor_id": "us5srxAYnsrkgUv2v",
+    "title": "Facebook Comments Scraper",
+    "pricing_model": null,
+    "price": null,
+    "unit": null,
+    "input_schema": {
+      "title": "Input schema for the empty project actor.",
+      "description": "This scraper will get comments from a Facebook post of your choice. To try it out, just paste one or multiple Facebook post URLs and click ▷ Start. If you need any guidance, just <a href='https://blog.apify.com/scrape-facebook-comments-data/' target='_blank' rel='noopener'>follow this tutorial</a>.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "startUrls": {
+          "title": "Facebook URLs",
+          "type": "array",
+          "description": "Valid facebook URL",
+          "editor": "requestListSources",
+          "prefill": [
+            {
+              "url": "https://www.facebook.com/humansofnewyork/posts/pfbid0BbKbkisExKGSKuhee9a7i86RwRuMKFC8NSkKStB7CsM3uXJuAAfZLrkcJMXxhH4Yl"
+            }
+          ],
+          "example": [
+            {
+              "url": "https://www.facebook.com/humansofnewyork/posts/pfbid0BbKbkisExKGSKuhee9a7i86RwRuMKFC8NSkKStB7CsM3uXJuAAfZLrkcJMXxhH4Yl"
+            }
+          ]
+        },
+        "resultsLimit": {
+          "title": "Results amount",
+          "type": "integer",
+          "description": "If this limit is not set as many results as possible are returned",
+          "editor": "number",
+          "prefill": 50,
+          "minimum": 1,
+          "example": 50
+        },
+        "includeNestedComments": {
+          "title": "Include comment replies",
+          "description": "If checked, the actor will return up to 3 levels of comments/replies for each post. Note that each reply/comment will be returned as a separate result.",
+          "default": false,
+          "type": "boolean",
+          "editor": "checkbox",
+          "example": false
+        },
+        "viewOption": {
+          "title": "Comments mode",
+          "description": "Choose the way the comments are sorted",
+          "type": "string",
+          "default": "RANKED_UNFILTERED",
+          "editor": "select",
+          "enum": [
+            "RANKED_THREADED",
+            "RECENT_ACTIVITY",
+            "RANKED_UNFILTERED"
+          ],
+          "enumTitles": [
+            "Most relevant",
+            "Newest",
+            "All"
+          ],
+          "example": "RANKED_UNFILTERED"
+        },
+        "onlyCommentsNewerThan": {
+          "title": "📅 Extract comments that are newer than",
+          "type": "string",
+          "description": "Limit how far back to the history the scraper should go. The date should be in YYYY-MM-DD or full ISO absolute format or in relative format e.g. 1 year, 2 months, 3 days, 4 hours, or 5 minutes. All time values are taken in UTC timezone. This <a href='https://apify.com/apify/facebook-comments-scraper/pricing' target='_blank' rel='noopener'>add-on feature</a> is billed separately.",
+          "dateType": "absoluteOrRelative",
+          "editor": "datepicker",
+          "sectionCaption": "Time frame",
+          "sectionDescription": "Use this if you only want to scrape comments from a specific period of time.",
+          "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])(T[0-2]\\d:[0-5]\\d(:[0-5]\\d)?(\\.\\d+)?Z?)?$|^(\\d+)\\s*(minute|hour|day|week|month|year)s?$",
+          "example": "2024-01-01"
+        }
+      },
+      "required": [
+        "startUrls"
+      ]
+    }
+  }
+}

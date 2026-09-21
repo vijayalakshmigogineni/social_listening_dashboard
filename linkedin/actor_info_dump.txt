@@ -1,0 +1,12 @@
+name: linkedin-post
+title: Linkedin Post Scraper ✅ No cookies
+username: supreme_coder
+description: Scrape unlimited Linkedin posts without risking your Linkedin account. Live data, Super fast scraping at affordable cost. High success rate
+
+input-schema status: 404
+{
+  "error": {
+    "type": "page-not-found",
+    "message": "We have bad news: there is no API endpoint at this URL. Did you specify it correctly?"
+  }
+}

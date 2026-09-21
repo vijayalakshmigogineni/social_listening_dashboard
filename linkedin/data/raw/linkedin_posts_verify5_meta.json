@@ -1,0 +1,22 @@
+{
+  "actor_id": "Wpp1BZ6yGWjySadk3",
+  "run_id": "hYBEwUiL8PQzxiZW1",
+  "final_status": "SUCCEEDED",
+  "search_url": "https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20prior%20authorization%20denial%20reimbursement&origin=FACETED_SEARCH",
+  "run_input": {
+    "deepScrape": false,
+    "fetchDocumentDetails": false,
+    "limitPerSource": 5,
+    "numComments": 0,
+    "numLikes": 0,
+    "rawData": false,
+    "urls": [
+      "https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20prior%20authorization%20denial%20reimbursement&origin=FACETED_SEARCH"
+    ]
+  },
+  "usageTotalUsd": 5e-05,
+  "usageUsd": null,
+  "startedAt": "2026-09-17T13:22:04.473Z",
+  "finishedAt": "2026-09-17T13:22:09.912Z",
+  "posts_returned": 5
+}

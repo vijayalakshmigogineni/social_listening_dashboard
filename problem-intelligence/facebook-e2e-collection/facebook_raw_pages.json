@@ -1,0 +1,233 @@
+{
+  "step": "1 - discovery (pages)",
+  "produced_at": "2026-09-21T12:27:37.102043+00:00",
+  "search_queries": [
+    "medical claim denial",
+    "insurance denial",
+    "prior authorization",
+    "denied claim",
+    "reimbursement problem",
+    "medical billing problem",
+    "revenue cycle management",
+    "payer denial",
+    "insurance verification",
+    "delayed payment"
+  ],
+  "requested": {
+    "max_results_per_query": 2,
+    "run_item_cap": 12,
+    "target_records": 10
+  },
+  "returned": {
+    "raw_from_actor": 10,
+    "dropped_non_content": 0,
+    "duplicates_removed": 0,
+    "kept": 10
+  },
+  "id_key_used_counts": {
+    "facebookId": 10
+  },
+  "duplicates": [],
+  "dropped_records": [],
+  "run": {
+    "actor_slug": "scrapesmith/facebook-search-scraper",
+    "actor_id": "2BZSEQfgrOqtoCTib",
+    "run_id": "3aQbMAUdeL5NLB8xr",
+    "status": "SUCCEEDED",
+    "started_at": "2026-09-21T12:27:19.959Z",
+    "finished_at": "2026-09-21T12:27:32.378Z",
+    "dataset_id": "WlO6UK0kVyMX4d8w9",
+    "usage_total_usd": 0.005,
+    "http_status": null,
+    "error_body": null,
+    "run_input": {
+      "queries": [
+        "medical claim denial",
+        "insurance denial",
+        "prior authorization",
+        "denied claim",
+        "reimbursement problem",
+        "medical billing problem",
+        "revenue cycle management",
+        "payer denial",
+        "insurance verification",
+        "delayed payment"
+      ],
+      "searchType": "pages",
+      "maxResultsPerQuery": 2
+    }
+  },
+  "actor_log_tail": "2026-09-21T12:27:20.190Z ACTOR: Pulling container image of build e0MMd1An5Mru8OMUQ from registry.\n2026-09-21T12:27:20.192Z ACTOR: Creating container.\n2026-09-21T12:27:20.274Z ACTOR: Starting container.\n2026-09-21T12:27:20.276Z ACTOR: Running under \"LIMITED_PERMISSIONS\".\n2026-09-21T12:27:21.960Z 2026-09-21 12:27:21,959 - WARNING - Actor is running on the Apify platform, `disable_browser_sandbox` was changed to True.\n2026-09-21T12:27:21.965Z [apify] INFO  Initializing Actor ({\"apify_sdk_version\": \"4.0.2\", \"apify_client_version\": \"3.2.0\", \"crawlee_version\": \"1.10.0\", \"python_version\": \"3.12.13\", \"os\": \"linux\", \"is_running_in_ipython\": false})\n2026-09-21T12:27:21.971Z [apify] INFO  ✓ Actor initialized\n2026-09-21T12:27:21.973Z [apify] INFO  🆓 Free plan — 10 results limit\n2026-09-21T12:27:22.357Z [apify] INFO  📡 Monitor: 3 FB sessions (3 with proxy pool)\n2026-09-21T12:27:25.269Z [apify] INFO  📦 Session: 5\n2026-09-21T12:27:28.088Z [apify] INFO  ✅ 'medical claim denial': ~8 results\n2026-09-21T12:27:29.941Z [apify] INFO  ✅ 'insurance denial': ~6 results\n2026-09-21T12:27:29.996Z [apify] INFO  📤 10 results (127/min)\n2026-09-21T12:27:31.165Z [apify] INFO  ✅ 'prior authorization': ~4 results\n2026-09-21T12:27:31.169Z [apify] INFO  ==================================================\n2026-09-21T12:27:31.171Z [apify] INFO  📊 Total: 10 results in 6s\n2026-09-21T12:27:31.172Z [apify] INFO  ⚡ 102/min\n2026-09-21T12:27:31.174Z [apify] INFO  ==================================================\n2026-09-21T12:27:31.252Z [apify] INFO  Exiting Actor ({\"exit_code\": 0})\n",
+  "records": [
+    {
+      "type": "page",
+      "name": "Brokenwingedbutterflies",
+      "facebookId": "100067146878913",
+      "url": "https://www.facebook.com/BrokenWingedButterflies",
+      "profileUrl": "https://www.facebook.com/BrokenWingedButterflies",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/300631156_393048659610027_4265017178024426600_n.jpg?stp=c80.0.480.480a_cp0_dst-jpg_tt6&cstp=mx480x480&ctp=s60x60&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeGYFEH2eyBmaatQRZTpvMoaBJJFxCIDuIAEkkXEIgO4gAmB9nrNj9J7MnQzGdv15oR1TKNPnU89CWh0P2lpiR7_&_nc_ohc=TUDrKzsxBF0Q7kNvwEBygXD&_nc_oc=AdoLAUSBQn8_qAKGVBhxNSg-hioqQpUk3yRSr_kGUKsOIDlGWnFHjjjVvmoGLdUmAK4&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQL3j_7s1XROSL399F357_QfQMikfmBSGGTkRy_K3X6UlA&oe=6AB6F509",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Product/service · 10 followers",
+      "description": "Broken Winged Butterflies offers support, inspiration, and hope to everyone. Delivered via prayers, hospice/ pre-funeral care, seminars, books, & gifts",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Xsolis",
+      "facebookId": "100060740655726",
+      "url": "https://www.facebook.com/xsolishealth",
+      "profileUrl": "https://www.facebook.com/xsolishealth",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/410964042_901034195264594_2051826627572925425_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1222x1222&ctp=s60x60&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeFmmvox2iXXxUXlV-PrTiAzZeHs47EXy7Vl4ezjsRfLtYSvCyh4BKSDssyFs7j1g4C8sBDTdwr4Fthmc4Adjzb-&_nc_ohc=qcTUo5DA7toQ7kNvwHu_aFJ&_nc_oc=Ado_Y-_BEp17UmRoTpgHvu5of41XT9_vubc4428J_gaOJ36gD8ggUjsLclA4uVE_LgA&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQLWN_5razCnkwnl-n4oFIx0V-82fFSEVffXEyNAmBtbIg&oe=6AB6ECF4",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Information technology company · 4031 Aspen Grove Drive, Suite 500, Franklin, TN, US · Always open · 286 followers",
+      "description": "Xsolis is an AI-driven health technology company with a human-centered approach. Real-time transparency and objective data improve efficiency and collaboration between providers and health plans for more accurate, aligned medical necessity decisions.",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Mezrano Alabama Injury Lawyers",
+      "facebookId": "100021212120505",
+      "url": "https://www.facebook.com/mezranolaw",
+      "profileUrl": "https://www.facebook.com/mezranolaw",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/436200272_1526143894769333_7273071074497608752_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s60x60&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeEZWdEmizjV9jSAodScrILQF2OyJRVXRgEXY7IlFVdGAQW9iLG-k2ZZxJZC45gkpQEJ5SKmPfb70MIM6zbSLO4Y&_nc_ohc=rWymx_-2kKcQ7kNvwFI1mZF&_nc_oc=AdqUMjmd8pYQnDJffAEt7-32PbeDC-f7QSxskzo9E6pAoIFP2oS_nWVKWwZWRmNuU1Y&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQLT7iaSSKDdMkufjotp4GHbd2H0txAXFO3tohV-fOjBQA&oe=6AB6F26E",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Legal service · 92% recommend · £ · 31 Inverness Center Pkwy, Suite 350, Birmingham, AL, US · Always open · 6.2K followers",
+      "description": "Injured to no fault of your own? Car/Truck Accidents, Medical Malpractice & More. Know your Rights!",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Keith Wells, P.A.",
+      "facebookId": "100063574600228",
+      "url": "https://www.facebook.com/vkwellsPA",
+      "profileUrl": "https://www.facebook.com/vkwellsPA",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/304090317_494633665999116_8204755519722817365_n.jpg?stp=c0.0.230.230a_cp0_dst-jpg_tt6&cstp=mx230x230&ctp=s60x60&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeEfSIpQbX3B78OQ6GX1Cetbf4t4A7anNQV_i3gDtqc1BecVdiHuUekYVLjCR9gaYEDsI11bGQwPgCdiBRbX-QqJ&_nc_ohc=aY79je9K6HEQ7kNvwHhe_5b&_nc_oc=AdqpOKPVnO5108xPP5_MyWqZUb8is2rwNjGf2PjYy8-oDXxcQrvVyC-_yB18evRdFgg&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQLTqut6bC7lX8Z_WX4xlx_4X3CUaFAUdV6FATbXepOEnQ&oe=6AB6E830",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Lawyer and law firm · PO Box 9639, Pensacola, FL, US · Closed now · Online services, See posts for service changes · 59 followers",
+      "description": "Social Security Disability Attorney",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Medical Pay Solutions",
+      "facebookId": "100071949678757",
+      "url": "https://www.facebook.com/medicalpaysolutions",
+      "profileUrl": "https://www.facebook.com/medicalpaysolutions",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/358706914_292117489863238_4223066256863391771_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx604x604&ctp=s60x60&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeHiRwzH0U-0sjJou9gDX61mdsHiT39oNOd2weJPf2g05-5mfCeoVFMXOH7J6pU5_Ui1WaULy9rZrn5tEB0mWwy3&_nc_ohc=Rdm7k6nEb_oQ7kNvwGnxmPW&_nc_oc=AdruDM81sgg2fzuUmNQuX-QdHu9lKlpPDDqQl4IkpGGX2zpnAKXBmrakD3MyGfsGN1g&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQIzDExWgz0U-6l4nkLMh0mCHnsSYsSOMR81M8jGrEFNkQ&oe=6AB6F863",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Consulting agency · 100 followers",
+      "description": "Revenue Maximizer is an easy-to-use, web-based patient responsibility calculation and payment system designed specifically for healthcare providers to help improve cash flow, accelerate patient payments, and minimize patient bad debt.",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Advantrix Corp",
+      "facebookId": "100063902531698",
+      "url": "https://www.facebook.com/advantrixcorp",
+      "profileUrl": "https://www.facebook.com/advantrixcorp",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/301148302_465680755572005_1445625510871164849_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx800x800&ctp=s60x60&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeEYdU7bbbxp9yMfgIMyWCqqTDupvbR8c29MO6m9tHxzbyF-ZaxxwdZPHDb6NT88mLNtXC1TvoIfJhsIR64xWz-0&_nc_ohc=77hrrVsxhKcQ7kNvwFjQX4V&_nc_oc=Adqhx8MH7c9EER66V54XQQG6YtKsUyG2BZwbIlk2KrRNz6FWtFXLQv12qiMVJKrT3Xg&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQJB2-Ol3FCeFCbPqJziHdMOumzSF8ky5OgspN9yjP3_tA&oe=6AB6ECCA",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Medical & health · 1050 Wall Street W, #210, Lyndhurst, NJ, US · Opening soon · 926 followers",
+      "description": "With Advantrix Corp, you get medical billing that is in the hands of professionals with industry-lea",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Homemedicalresources, Inc.",
+      "facebookId": "100069051011896",
+      "url": "https://www.facebook.com/HomeMedResources",
+      "profileUrl": "https://www.facebook.com/HomeMedResources",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax7-1.xx.fbcdn.net/v/t39.30808-1/300072737_383311983980499_8782287304185880649_n.png?stp=c26.0.343.343a_cp0_dst-png&cstp=mx343x343&ctp=s60x60&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeGrSOLuErUuwZbbT-5Z6vqI_KrZc8fSXRH8qtlzx9JdESp5HPWKn_zlaDi7EgJeImIp75lFnzRNyXbnoXF0jGBZ&_nc_ohc=bNKZRl8V-5oQ7kNvwHhbF9X&_nc_oc=AdqBQCXMwFOEBTbMsKmJVjIz2XYFvvc3H9F-gl-UUx1GuzyLUju-p7TL2Xr5sURkoa8&_nc_zt=24&_nc_ht=scontent-lax7-1.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQLl1-R1OYz13x2G_8U2VZggLCOAOiaKKv6Ow-rlTjhfgw&oe=6AB6EC57",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Local business · Fort Wayne, IN, US · 2 followers",
+      "description": "Medical Equipment, Products, Aids-Delivered Personally to Your Door by Professionals, not salespeople!",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Evermedics",
+      "facebookId": "100068566698318",
+      "url": "https://www.facebook.com/Evermedics",
+      "profileUrl": "https://www.facebook.com/Evermedics",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/583689939_1117653930530153_241595348398950157_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx400x400&ctp=s60x60&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeF9BpA4ysU0OlKjtjN9FUO9GooQnl3nDj4aihCeXecOPvEWFIUw_A2DMyrrnUIqJaq4FvxzkBFFkrmjxFWjqR07&_nc_ohc=0m0UAepgnBQQ7kNvwFP31sU&_nc_oc=AdqjukFGBtLP8VuiNI3Cvf4mTBoy_kXlF1tPVTzcAnpuxvAZUD-d-9oZSKRgsOYRAbg&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=21MQOyKRK7haq7km1uSr6A&_nc_ss=702a8&oh=00_AQL0Z29Owj4GGMjPB40uQGACXK8NVUh8ty_9C_njLwIh6A&oe=6AB70EA1",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Software company · 10K followers",
+      "description": "Ever Medics provides medical billing, Credentialing, Digital Marketing Services, Remote Patient Monitoring, Front Desk Support, Medical Coding Services, Denial Management Services, Account Receivable Audit And Reporting Services",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "page",
+      "name": "Denial The Movie",
+      "facebookId": "100069768014991",
+      "url": "https://www.facebook.com/denialthemovie",
+      "profileUrl": "https://www.facebook.com/denialthemovie",
+      "isVerified": true,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/347026320_568909442111318_7304432577239991292_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx180x180&ctp=s60x60&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeF4b_T23aksXIY1WWhNvaLBQlah_D8lbshCVqH8PyVuyJENQme_lT5tWsjji4U2PsFt06tv4W2Kt5e9ZsK7XW8n&_nc_ohc=U0hKXdS5ocIQ7kNvwGMJpyu&_nc_oc=AdpWqYbIFlOsgG55QkxnrAMHitbOTwMPYUMGi0Mx2_7MhGTPZhHd_DKESO6XnKQvjtY&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=sLaAGxB-g6Wox86-pqLi7A&_nc_ss=702a8&oh=00_AQJkFh_BuqtQSBesbDX5i0RtPBLeUL34KupqY9xWJfUSpg&oe=6AB6F505",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Film · 14K followers",
+      "description": "The whole world knows the Holocaust happened. Now she needs to prove it.",
+      "query": "insurance denial"
+    },
+    {
+      "type": "page",
+      "name": "Insurance Denial Lawyers",
+      "facebookId": "100063772861345",
+      "url": "https://www.facebook.com/fishmanlawyers",
+      "profileUrl": "https://www.facebook.com/fishmanlawyers",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/302014941_480225380779887_3678532553426890185_n.jpg?stp=c0.0.1253.1253a_cp0_dst-jpg_tt6&cstp=mx1253x1253&ctp=s60x60&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeEK35c7Jvm2Bp4IL07nqGEwsGytRokPCa2wbK1GiQ8JrWTr8U5w1Eowg9WXf2s-zjmvw9a67PCc4XSfDOc3OKEH&_nc_ohc=XpuY_qbLzPUQ7kNvwFE1IDL&_nc_oc=AdrJ9MBROk_JERQgwwdEu0kWV9eAzcLOtuER3d0JGxA-25Hi848Ciy0jVcTOjGscLgc&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=sLaAGxB-g6Wox86-pqLi7A&_nc_ss=702a8&oh=00_AQJ00xsy5T28JrZ0wt4SEoKpb4oNdqxVmrJd7SBqB3Cz8A&oe=6AB6FB31",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Lawyer and law firm · 17th Floor, 808 Nelson St., Box 12148, Vancouver, BC, Canada · Closed now · 93 followers",
+      "description": "Jan A. Fishman is a lawyer with very special training and experience. Unlike most insurance denial lawyers, Jan actually worked in the \"belly of the beast\" for many years. \"Experience from the Inside. Now on Your Side.\" ",
+      "query": "insurance denial"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "actor_id": "Wpp1BZ6yGWjySadk3",
+  "run_id": "0mD6duDFUnszp1821",
+  "final_status": "SUCCEEDED",
+  "search_url": "https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20UHC%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20AND%20%28%22prior%20authorization%22%20OR%20%22prior%20auth%22%20OR%20precertification%20OR%20denial%20OR%20%22medical%20necessity%22%20OR%20reimbursement%20OR%20%22epidural%20steroid%20injection%22%20OR%20%22radiofrequency%20ablation%22%20OR%20%22spinal%20cord%20stimulator%22%20OR%20%22peripheral%20nerve%20stimulation%22%20OR%20%22sacroiliac%20joint%22%29&origin=FACETED_SEARCH&sortBy=date_posted",
+  "run_input": {
+    "deepScrape": true,
+    "fetchDocumentDetails": false,
+    "limitPerSource": 25,
+    "numComments": 10,
+    "numLikes": 10,
+    "rawData": false,
+    "urls": [
+      "https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20UHC%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20AND%20%28%22prior%20authorization%22%20OR%20%22prior%20auth%22%20OR%20precertification%20OR%20denial%20OR%20%22medical%20necessity%22%20OR%20reimbursement%20OR%20%22epidural%20steroid%20injection%22%20OR%20%22radiofrequency%20ablation%22%20OR%20%22spinal%20cord%20stimulator%22%20OR%20%22peripheral%20nerve%20stimulation%22%20OR%20%22sacroiliac%20joint%22%29&origin=FACETED_SEARCH&sortBy=date_posted"
+    ]
+  },
+  "usageTotalUsd": 5e-05,
+  "usageUsd": null,
+  "startedAt": "2026-09-17T13:20:26.119Z",
+  "finishedAt": "2026-09-17T13:20:32.766Z",
+  "posts_returned": 0
+}

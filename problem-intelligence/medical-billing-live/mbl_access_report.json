@@ -1,0 +1,258 @@
+{
+  "source": "Medical Billing Live",
+  "entry_point": "https://www.medicalbillinglive.com/members/index.php",
+  "step": "1-access",
+  "robots": {
+    "url": "https://www.medicalbillinglive.com/robots.txt",
+    "status": 200,
+    "body": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\nUser-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php",
+    "disallow_rules": [
+      "/wp-admin/",
+      "/wp-admin/"
+    ],
+    "forum_path_disallowed": false
+  },
+  "index": {
+    "url": "https://www.medicalbillinglive.com/members/index.php",
+    "status": 200,
+    "software": "SMF 2.0.19",
+    "readable_without_login": true,
+    "guest_state_confirmed": true,
+    "boards_visible": [
+      {
+        "board_id": 13,
+        "name": "New!",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,13.0.html",
+        "posts": 6070,
+        "topics": 3741
+      },
+      {
+        "board_id": 6,
+        "name": "General Questions",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,6.0.html",
+        "posts": 12615,
+        "topics": 4431
+      },
+      {
+        "board_id": 5,
+        "name": "NPI Numbers",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,5.0.html",
+        "posts": 735,
+        "topics": 165
+      },
+      {
+        "board_id": 8,
+        "name": "Coding",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,8.0.html",
+        "posts": 4932,
+        "topics": 971
+      },
+      {
+        "board_id": 7,
+        "name": "Billing",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,7.0.html",
+        "posts": 10221,
+        "topics": 1936
+      },
+      {
+        "board_id": 4,
+        "name": "Facility Billing",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,4.0.html",
+        "posts": 1482,
+        "topics": 298
+      },
+      {
+        "board_id": 2,
+        "name": "Insurance Payments",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,2.0.html",
+        "posts": 1651,
+        "topics": 276
+      },
+      {
+        "board_id": 3,
+        "name": "Patient Billing",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,3.0.html",
+        "posts": 883,
+        "topics": 171
+      },
+      {
+        "board_id": 9,
+        "name": "HIPAA",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,9.0.html",
+        "posts": 416,
+        "topics": 69
+      },
+      {
+        "board_id": 10,
+        "name": "Starting Your Own Medical Billing Business",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,10.0.html",
+        "posts": 5050,
+        "topics": 760
+      },
+      {
+        "board_id": 14,
+        "name": "Online Medical Billing Courses - Student Section",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,14.0.html",
+        "posts": 41,
+        "topics": 18
+      },
+      {
+        "board_id": 11,
+        "name": "Medical Billing Software Reviews",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,11.0.html",
+        "posts": 918,
+        "topics": 110
+      },
+      {
+        "board_id": 12,
+        "name": "Medical Billing Software Questions",
+        "url": "https://www.medicalbillinglive.com/members/index.php/board,12.0.html",
+        "posts": 767,
+        "topics": 181
+      }
+    ],
+    "forum_totals": {
+      "posts": 45781,
+      "topics": 13127,
+      "members": 62716
+    }
+  },
+  "boards": [
+    {
+      "board_id": 13,
+      "name": "New!",
+      "rcm_relevant": false,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,13.0.html",
+      "status": 200,
+      "topic_links_found": 22,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 6,
+      "name": "General Questions",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,6.0.html",
+      "status": 200,
+      "topic_links_found": 20,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 5,
+      "name": "NPI Numbers",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,5.0.html",
+      "status": 200,
+      "topic_links_found": 20,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 8,
+      "name": "Coding",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,8.0.html",
+      "status": 200,
+      "topic_links_found": 31,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 7,
+      "name": "Billing",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,7.0.html",
+      "status": 200,
+      "topic_links_found": 33,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 4,
+      "name": "Facility Billing",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,4.0.html",
+      "status": 200,
+      "topic_links_found": 32,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 2,
+      "name": "Insurance Payments",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,2.0.html",
+      "status": 200,
+      "topic_links_found": 28,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 3,
+      "name": "Patient Billing",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,3.0.html",
+      "status": 200,
+      "topic_links_found": 25,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 9,
+      "name": "HIPAA",
+      "rcm_relevant": true,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,9.0.html",
+      "status": 200,
+      "topic_links_found": 34,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 10,
+      "name": "Starting Your Own Medical Billing Business",
+      "rcm_relevant": false,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,10.0.html",
+      "status": 200,
+      "topic_links_found": 25,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 14,
+      "name": "Online Medical Billing Courses - Student Section",
+      "rcm_relevant": false,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,14.0.html",
+      "status": 200,
+      "topic_links_found": 20,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 11,
+      "name": "Medical Billing Software Reviews",
+      "rcm_relevant": false,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,11.0.html",
+      "status": 200,
+      "topic_links_found": 31,
+      "login_wall": false,
+      "public": true
+    },
+    {
+      "board_id": 12,
+      "name": "Medical Billing Software Questions",
+      "rcm_relevant": false,
+      "url": "https://www.medicalbillinglive.com/members/index.php/board,12.0.html",
+      "status": 200,
+      "topic_links_found": 20,
+      "login_wall": false,
+      "public": true
+    }
+  ],
+  "summary": {
+    "boards_total": 13,
+    "boards_public": 13,
+    "boards_rcm_relevant": 8,
+    "login_required_anywhere": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "scripts_used": [
+    "test_uhc_activities.py (new script extending test_uhc.py / test_uhc_commercial.py parsing logic)"
+  ],
+  "endpoints": [
+    "https://www.uhcprovider.com/en/policies-protocols/commercial-policies/commercial-medical-drug-policies.html",
+    "https://www.uhcprovider.com/en/resource-library/news/2026/mpub-updates-sep-2026.html",
+    "https://www.uhcprovider.com/en/policies-protocols/commercial-policies/commercial-reimbursement-policies.html",
+    "https://www.uhcprovider.com/en/policies-protocols/medicare-advantage-policies/medicare-advantage-medical-policies.html",
+    "https://www.uhcprovider.com/en/resource-library/news/2026/october-prior-auth-reductions.html"
+  ],
+  "retrieval_timestamp_utc": "2026-09-18T03:13:08.371667+00:00",
+  "http_status": {
+    "commercial_medical": 200,
+    "monthly_updates": 200,
+    "commercial_reimbursement": 200,
+    "medicare_advantage": 200,
+    "prior_auth_reduction_oct2026": 200
+  },
+  "errors": [],
+  "total_faceted_items_found_all_pages": 452,
+  "total_with_parsable_last_published_date": 452,
+  "total_without_parsable_date": 0,
+  "total_records_selected_for_top100_file": 100,
+  "monthly_updates_page_links_count": 20,
+  "date_range_all_dated_items": {
+    "oldest_last_published": "2024-10-01",
+    "newest_last_published": "2026-09-16"
+  },
+  "date_range_top100_file": {
+    "oldest_last_published": "2026-08-26",
+    "newest_last_published": "2026-09-16"
+  },
+  "fields_available": [
+    "title",
+    "url",
+    "source_page",
+    "source_page_url",
+    "item_type",
+    "last_published_raw",
+    "last_published_iso",
+    "effective_date_raw",
+    "effective_date_iso",
+    "description"
+  ],
+  "limitations": [
+    "monthly_updates page (mpub-updates-sep-2026.html) has NO faceted-list-item widget and NO per-item date field in its HTML; it is a flat list of one PDF link per plan type, all implicitly dated 'September 2026' by the page's own subject. These 20 links are saved separately in uhc_monthly_update_links.json and are NOT included in uhc_activities_top100.json / uhc_activities_all_dated.json because they have no genuine per-item date to sort by.",
+    "'last_published_iso' is parsed from the site's own 'Last Published MM.DD.YYYY' text next to each policy/bulletin link (visible on-page, human readable date, not a hidden metadata timestamp).",
+    "'effective_date_iso' is only populated for the commercial_medical individual-policy listing, where the on-page description text begins with 'Effective Date: MM.DD.YYYY -'. The reimbursement and medicare_advantage listings on this site do not print an Effective Date in their description text, so this field is null there (not fabricated/estimated).",
+    "No login, token, or CAPTCHA was required for any of the 4 pages hit by this script; all returned HTTP 200 to a plain GET with only a User-Agent header.",
+    "Console/terminal display of the en dash character (U+2013) used in many titles can render as a mangled glyph in some terminals; the JSON files on disk were verified via raw byte inspection to contain the correct UTF-8 bytes (\\xe2\\x80\\x93).",
+    "prior_auth_reduction_oct2026 (october-prior-auth-reductions.html) is a single richtext news article, not a faceted-list page: its 'last_published_iso' comes from a <div class=\"title__date\"> on the page (parsed with dateutil, fuzzy) and its 'effective_date_iso' is extracted from the plain-English <meta name=\"description\"> summary, not from a machine-readable field. It is included here because UHC announced ~1,700 procedure codes losing prior-authorization requirements on 09.01.2026 effective 10.01.2026, split across 5 plan-specific PDFs; this script records the article itself plus one row per linked PDF (item_type prior_auth_reduction_announcement / prior_auth_code_reduction_list)."
+  ]
+}

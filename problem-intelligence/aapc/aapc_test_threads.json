@@ -1,0 +1,120 @@
+[
+  {
+    "source": "AAPC",
+    "source_item_id": "236506",
+    "title": "Aetna denials - recent",
+    "url": "https://www.aapc.com/discuss/threads/aetna-denials-recent.236506/",
+    "published_at": "Thu, 10 Sep 2026 21:42:09 +0000",
+    "post_count": 1,
+    "posts": [
+      {
+        "post_id": "js-post-597040",
+        "author_name": "19bowers78",
+        "author_profile_url": "/discuss/members/19bowers78.450778/",
+        "location": "Seattle, WA",
+        "created_at": "2026-09-10T15:42:09-0600",
+        "text": "Is anyone else experiencing an insane amount of denials and other weird stuff from Aetna and Aetna MedAdvantage plans? For example, they started off downcoding many of our E&M codes. Then started denying anything billed with testing (99213 + 92250). Now they are denying a routine eye exam (paying the refraction but denying the 92014). I am losing my mind over this!"
+      }
+    ]
+  },
+  {
+    "source": "AAPC",
+    "source_item_id": "236010",
+    "title": "Horizon NJ Health Downcoding Claims",
+    "url": "https://www.aapc.com/discuss/threads/horizon-nj-health-downcoding-claims.236010/",
+    "published_at": "Fri, 14 Aug 2026 18:53:43 +0000",
+    "post_count": 4,
+    "posts": [
+      {
+        "post_id": "js-post-595921",
+        "author_name": "Biller2023",
+        "author_profile_url": "/discuss/members/biller2023.905264/",
+        "location": "Trenton, NJ",
+        "created_at": "2026-06-07T07:20:56-0600",
+        "text": "Horizon NJ Health is downcoding our claims even without reviewing the documentation. Is anyone experiencing the same issue and what are the steps to handle this?"
+      },
+      {
+        "post_id": "js-post-595925",
+        "author_name": "shanamarie",
+        "author_profile_url": "/discuss/members/shanamarie.394418/",
+        "location": "Eagan",
+        "created_at": "2026-06-08T10:58:20-0600",
+        "text": "Biller2023 said:\nHorizon NJ Health is downcoding our claims even without reviewing the documentation. Is anyone experiencing the same issue and what are the steps to handle this?\nClick to expand...\nSeveral payers are currently doing this, using an AI edit or something like that. We appeal all of these with records, and end up getting paid."
+      },
+      {
+        "post_id": "js-post-596765",
+        "author_name": "Biller2023",
+        "author_profile_url": "/discuss/members/biller2023.905264/",
+        "location": "Trenton, NJ",
+        "created_at": "2026-08-13T18:18:46-0600",
+        "text": "We appeal with records but our claims are still not getting paid. Our records clearly show the visit time based on the E&M (please see below) but still Horizon NJ Health denies and they directed us to these notices on their website (provided links below). Can someone tell us how to handle this situation and how to make Horizon NJ Health pay for the code we billed without downcoding.\n99212:\n10 minutes (met or exceeded)\n99213:\n20 minutes (met or exceeded)\n99214:\n30 minutes (met or exceeded)\n99215:\n40 minutes (met or exceeded)\nNew Patient Office Visit Time Thresholds\n99202:\n15 minutes (met or exceeded)\n99203:\n30 minutes (met or exceeded)\n99204:\n45 minutes (met or exceeded)\n99205:\n60 minutes (met or exceeded) [\n1\n,\n2\n,\n3\n]\nhttps://www.horizonblue.com/providers/news/news-legal-notices/outlier-program-expansion-high-level-e-m-coding\nhttps://www.horizonnjhealth.com/for-providers/news/updates-and-announcements/outlier-program-expansion-high-level-em-coding\nhttps://www.horizonnjhealth.com/for-providers/news/updates-and-announcements/outlier-program-expansion-update-high-level-em-coding\nhttps://www.horizonblue.com/providers/policies-procedures/claim-submission-billing/pre-payment-correct-coding-reviews/high-level-evaluation-management-e-m-prepayment-coding-review\nhttps://www.horizonblue.com/providers/news/news-legal-notices/outlier-program-expansion-update-high-level-e-m-coding"
+      },
+      {
+        "post_id": "js-post-596775",
+        "author_name": "shanamarie",
+        "author_profile_url": "/discuss/members/shanamarie.394418/",
+        "location": "Eagan",
+        "created_at": "2026-08-14T12:53:43-0600",
+        "text": "Biller2023 said:\nWe appeal with records but our claims are still not getting paid. Our records clearly show the visit time based on the E&M (please see below) but still Horizon NJ Health denies and they directed us to these notices on their website (provided links below). Can someone tell us how to handle this situation and how to make Horizon NJ Health pay for the code we billed without downcoding.\n99212:\n10 minutes (met or exceeded)\n99213:\n20 minutes (met or exceeded)\n99214:\n30 minutes (met or exceeded)\n99215:\n40 minutes (met or exceeded)\nNew Patient Office Visit Time Thresholds\n99202:\n15 minutes (met or exceeded)\n99203:\n30 minutes (met or exceeded)\n99204:\n45 minutes (met or exceeded)\n99205:\n60 minutes (met or exceeded) [\n1\n,\n2\n,\n3\n]\nhttps://www.horizonblue.com/providers/news/news-legal-notices/outlier-program-expansion-high-level-e-m-coding\nhttps://www.horizonnjhealth.com/for-providers/news/updates-and-announcements/outlier-program-expansion-high-level-em-coding\nhttps://www.horizonnjhealth.com/for-providers/news/updates-and-announcements/outlier-program-expansion-update-high-level-em-coding\nhttps://www.horizonblue.com/providers/policies-procedures/claim-submission-billing/pre-payment-correct-coding-reviews/high-level-evaluation-management-e-m-prepayment-coding-review\nhttps://www.horizonblue.com/providers/news/news-legal-notices/outlier-program-expansion-update-high-level-e-m-\nClick to expand...\nWhat does your appeal say? When they deny the appeal what are they stating as the denial?"
+      }
+    ]
+  },
+  {
+    "source": "AAPC",
+    "source_item_id": "203155",
+    "title": "UHC Denying all claims as OON but Provider is IN network",
+    "url": "https://www.aapc.com/discuss/threads/uhc-denying-all-claims-as-oon-but-provider-is-in-network.203155/",
+    "published_at": "Wed, 12 Aug 2026 16:36:04 +0000",
+    "post_count": 6,
+    "posts": [
+      {
+        "post_id": "js-post-556615",
+        "author_name": "kpina613",
+        "author_profile_url": "/discuss/members/kpina613.829952/",
+        "location": "Casper, WY",
+        "created_at": "2025-04-23T13:58:11-0600",
+        "text": "I own a small medical billing company. I have providers in all different specialties. Since the beginning of 2025, I have had many UHC claims come back and processed as out of network for multiple clients but these providers are all in network. I have uploaded information show their network status, have spoken with multiple reps with UHC provider relations who all confirm the providers are in network, and every time something comes back it is denied stating they are out of network. I have run into a road block with them and am at a loss for how to proceed to get these claims paid.\nProvider specialties I am seeing it with currently are: BH counseling (LPC and LCSW), Psych Med Management (APRN, NP), and Primary care (NP and MD). Not all of the claims are being denied, some UHC claims process and others don't. I have been told it's the patient's plan but they have the same \"plan\" as others being processed as in network and have been told numerous times by UHC provider relations that the \"plan\" is in network with each of my providers.\nIf anyone else has experienced this and has a solution please reach out! I don't know where to go from here. Thanks!!"
+      },
+      {
+        "post_id": "js-post-556616",
+        "author_name": "dstruve",
+        "author_profile_url": "/discuss/members/dstruve.60309/",
+        "location": "Spencer, IA",
+        "created_at": "2025-04-23T14:02:41-0600",
+        "text": "File a complaint to your state insurance commissioners office. They will contact them and that usually will take care of things."
+      },
+      {
+        "post_id": "js-post-556955",
+        "author_name": "kpina613",
+        "author_profile_url": "/discuss/members/kpina613.829952/",
+        "location": "Casper, WY",
+        "created_at": "2025-05-06T15:22:25-0600",
+        "text": "dstruve said:\nFile a complaint to your state insurance commissioners office. They will contact them and that usually will take care of things.\nClick to expand...\nI will try this! Thanks!"
+      },
+      {
+        "post_id": "js-post-558866",
+        "author_name": "stacidawn",
+        "author_profile_url": "/discuss/members/stacidawn.174704/",
+        "location": "Salina, KS",
+        "created_at": "2025-07-15T16:08:17-0600",
+        "text": "@kpina613\nHave you had any luck with filing your complaint? Our office is also having issues with this insurance company. We have tried calling and using the online chat and nothing gets resolved."
+      },
+      {
+        "post_id": "js-post-558870",
+        "author_name": "kpina613",
+        "author_profile_url": "/discuss/members/kpina613.829952/",
+        "location": "Casper, WY",
+        "created_at": "2025-07-15T17:53:39-0600",
+        "text": "stacidawn said:\n@kpina613\nHave you had any luck with filing your complaint? Our office is also having issues with this insurance company. We have tried calling and using the online chat and nothing gets resolved.\nClick to expand...\nI didn't file a complaint, I was hoping to try and resolve it with them. I was able to successfully get the appeal paid for one of my clients patients. However, all the new claims are still coming back OON. Obviously, appealing every single claim is not manageable. I think I will go ahead and start the process of filing this though. I will come back and update this post when I have more information.\nI am sorry you guys are having issues as well, although it does make me feel better knowing I am not the only one."
+      },
+      {
+        "post_id": "js-post-596724",
+        "author_name": "knissen",
+        "author_profile_url": "/discuss/members/knissen.722026/",
+        "location": "Christopher, IL",
+        "created_at": "2026-08-12T10:36:04-0600",
+        "text": "Hello,\nWe are having this same issue. We have a ton a claims for Medicare advantage UHC where a patients claims are processing completely fine and then those same patients with the same providers are randomly processing out of network. We have been fighting with UHC for a long time now and not getting any resolution. So far we have been in contact with our contract manager and the senior provider Relations advocate. They advised it was a contracting issue, so we recontracted with them and the issue is still not fixed. Now they are telling us that they cant resolve this issue. Have you had any luck with getting this resolved?"
+      }
+    ]
+  }
+]

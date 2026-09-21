@@ -1,0 +1,25 @@
+2026-09-17T13:20:26.267Z ACTOR: Pulling container image of build erwGaTFpcWe8cMtg1 from registry.
+2026-09-17T13:20:26.269Z ACTOR: Creating container.
+2026-09-17T13:20:26.353Z ACTOR: Starting container.
+2026-09-17T13:20:26.354Z ACTOR: Running under "LIMITED_PERMISSIONS".
+2026-09-17T13:20:28.118Z INFO  System info {"apifyVersion":"3.7.2","apifyClientVersion":"2.25.0","crawleeVersion":"3.16.0","osType":"Linux","nodeVersion":"v20.20.2"}
+2026-09-17T13:20:29.497Z 🟠 Retrying failed request:
+2026-09-17T13:20:29.497Z 	- 🏷️ Label: undefined
+2026-09-17T13:20:29.498Z 	- 🔗 URL: https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20UHC%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20AND%20%28%22prior%20authorization%22%20OR%20%22prior%20auth%22%20OR%20precertification%20OR%20denial%20OR%20%22medical%20necessity%22%20OR%20reimbursement%20OR%20%22epidural%20steroid%20injection%22%20OR%20%22radiofrequency%20ablation%22%20OR%20%22spinal%20cord%20stimulator%22%20OR%20%22peripheral%20nerve%20stimulation%22%20OR%20%22sacroiliac%20joint%22%29&origin=FACETED_SEARCH&sortBy=date_posted
+2026-09-17T13:20:29.499Z 	- 🔃 Retries remaining: 2
+2026-09-17T13:20:29.499Z 	- ⚠️ Error: Unknown error when trying to fetch posts. Try changing/removing some filters and try again
+2026-09-17T13:20:30.443Z 🟠 Retrying failed request:
+2026-09-17T13:20:30.444Z 	- 🏷️ Label: undefined
+2026-09-17T13:20:30.444Z 	- 🔗 URL: https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20UHC%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20AND%20%28%22prior%20authorization%22%20OR%20%22prior%20auth%22%20OR%20precertification%20OR%20denial%20OR%20%22medical%20necessity%22%20OR%20reimbursement%20OR%20%22epidural%20steroid%20injection%22%20OR%20%22radiofrequency%20ablation%22%20OR%20%22spinal%20cord%20stimulator%22%20OR%20%22peripheral%20nerve%20stimulation%22%20OR%20%22sacroiliac%20joint%22%29&origin=FACETED_SEARCH&sortBy=date_posted
+2026-09-17T13:20:30.445Z 	- 🔃 Retries remaining: 1
+2026-09-17T13:20:30.445Z 	- ⚠️ Error: Unknown error when trying to fetch posts. Try changing/removing some filters and try again
+2026-09-17T13:20:31.604Z 🟠 Retrying failed request:
+2026-09-17T13:20:31.604Z 	- 🏷️ Label: undefined
+2026-09-17T13:20:31.604Z 	- 🔗 URL: https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20UHC%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20AND%20%28%22prior%20authorization%22%20OR%20%22prior%20auth%22%20OR%20precertification%20OR%20denial%20OR%20%22medical%20necessity%22%20OR%20reimbursement%20OR%20%22epidural%20steroid%20injection%22%20OR%20%22radiofrequency%20ablation%22%20OR%20%22spinal%20cord%20stimulator%22%20OR%20%22peripheral%20nerve%20stimulation%22%20OR%20%22sacroiliac%20joint%22%29&origin=FACETED_SEARCH&sortBy=date_posted
+2026-09-17T13:20:31.605Z 	- 🔃 Retries remaining: 0
+2026-09-17T13:20:31.605Z 	- ⚠️ Error: Unknown error when trying to fetch posts. Try changing/removing some filters and try again
+2026-09-17T13:20:32.727Z ❌ All retries failed for request: 
+2026-09-17T13:20:32.728Z 	- 🏷️ Action Label: undefined
+2026-09-17T13:20:32.729Z 	- 🔗 URL: https://www.linkedin.com/search/results/content/?keywords=%28UnitedHealthcare%20OR%20UHC%20OR%20Aetna%20OR%20Cigna%20OR%20Humana%20OR%20Medicare%29%20AND%20%28%22prior%20authorization%22%20OR%20%22prior%20auth%22%20OR%20precertification%20OR%20denial%20OR%20%22medical%20necessity%22%20OR%20reimbursement%20OR%20%22epidural%20steroid%20injection%22%20OR%20%22radiofrequency%20ablation%22%20OR%20%22spinal%20cord%20stimulator%22%20OR%20%22peripheral%20nerve%20stimulation%22%20OR%20%22sacroiliac%20joint%22%29&origin=FACETED_SEARCH&sortBy=date_posted
+2026-09-17T13:20:32.729Z 	- ⭕️ Error: Unknown error when trying to fetch posts. Try changing/removing some filters and try again
+2026-09-17T13:20:32.731Z INFO  [Status message]: Scraping completed successfully

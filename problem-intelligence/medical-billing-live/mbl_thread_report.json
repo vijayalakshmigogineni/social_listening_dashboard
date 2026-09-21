@@ -1,0 +1,648 @@
+{
+  "source": "Medical Billing Live",
+  "step": "3-thread-posts",
+  "posts_per_page": 15,
+  "threads": [
+    {
+      "topic_id": 6999,
+      "note": "",
+      "url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.0.html",
+      "status": 200,
+      "thread_title": "Working Reports: Open Claims/Patient Responsibility",
+      "category": "Billing",
+      "breadcrumb": "Medical Billing Forum > Billing > Alice Scott > Michele > Working Reports: Open Claims/Patient Responsibility",
+      "pagination": {
+        "in_thread_pagination": false,
+        "raw_label": "Pages: [ 1 ]",
+        "offsets_linked": [],
+        "posts_per_page": 15
+      },
+      "posts_page1": 9,
+      "posts_page2": 0,
+      "posts_total_collected": 9,
+      "field_coverage": {
+        "post_id": 9,
+        "post_url": 9,
+        "author_name": 9,
+        "author_profile_url": 5,
+        "date": 9,
+        "post_text": 9,
+        "category": 9,
+        "location": 0,
+        "_registered_posts": 5,
+        "_guest_posts": 4
+      },
+      "posts": [
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20723",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20723.html#msg20723",
+          "author_name": "rmk123",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "December 07, 2012, 12:07:20 PM",
+          "date_raw": "\u00ab on: December 07, 2012, 12:07:20 PM \u00bb",
+          "post_text": "What steps do you take to efficiently work these reports? How often do you work them?",
+          "post_text_chars": 85,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20755",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20755.html#msg20755",
+          "author_name": "Michele",
+          "author_type": "registered",
+          "author_id": "3",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=3",
+          "date": "December 10, 2012, 10:31:50 AM",
+          "date_raw": "\u00ab Reply #1 on: December 10, 2012, 10:31:50 AM \u00bb",
+          "post_text": "We run aging reports (and work them) on all claims over 30 days every 4-6 wks. We do patient billing every month.",
+          "post_text_chars": 113,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup",
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20784",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20784.html#msg20784",
+          "author_name": "rmk123",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "December 11, 2012, 12:05:21 PM",
+          "date_raw": "\u00ab Reply #2 on: December 11, 2012, 12:05:21 PM \u00bb",
+          "post_text": "Right.....do you sort by largest balance to smallest, by financial class, etc. for time sake or simply go down the list?",
+          "post_text_chars": 120,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20796",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20796.html#msg20796",
+          "author_name": "Michele",
+          "author_type": "registered",
+          "author_id": "3",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=3",
+          "date": "December 12, 2012, 09:58:17 AM",
+          "date_raw": "\u00ab Reply #3 on: December 12, 2012, 09:58:17 AM \u00bb",
+          "post_text": "Our reports sort by insurance carrier, then alphabetically. It also classifies it by age as well. I do not sort by size of balance.",
+          "post_text_chars": 131,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup",
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20798",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20798.html#msg20798",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_id": "488",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "December 12, 2012, 10:24:45 AM",
+          "date_raw": "\u00ab Reply #4 on: December 12, 2012, 10:24:45 AM \u00bb",
+          "post_text": "Quote Our reports sort by insurance carrier, then alphabetically. It also classifies it by age as well. I do not sort by size of balance. I do it the same way (GMTA) After 90 days I produce a report with an internal classification that shows the doctors which accounts should be sent for further collection to a collection agency or service. I have three different classification codes I use to report to my clients and they review and make final determination and then I change the classification according to their decision. Very organized and I know where every balance is.",
+          "post_text_chars": 576,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20825",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20825.html#msg20825",
+          "author_name": "rmk123",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "December 13, 2012, 05:56:22 PM",
+          "date_raw": "\u00ab Reply #5 on: December 13, 2012, 05:56:22 PM \u00bb",
+          "post_text": "Thanks for your replies.",
+          "post_text_chars": 24,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20828",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20828.html#msg20828",
+          "author_name": "Christy",
+          "author_type": "registered",
+          "author_id": "30102",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=30102",
+          "date": "December 13, 2012, 07:28:08 PM",
+          "date_raw": "\u00ab Reply #6 on: December 13, 2012, 07:28:08 PM \u00bb",
+          "post_text": "it's good to work the reports by payor, this way when you call an ins carrier to follow up, you can call on several patients at the same time.",
+          "post_text_chars": 142,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "20834",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg20834.html#msg20834",
+          "author_name": "DMK",
+          "author_type": "registered",
+          "author_id": "5441",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=5441",
+          "date": "December 14, 2012, 01:26:48 PM",
+          "date_raw": "\u00ab Reply #7 on: December 14, 2012, 01:26:48 PM \u00bb",
+          "post_text": "By working by payer you can also see who the slow payers are, so you're not so worried about those accounts.",
+          "post_text_chars": 108,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "6999",
+          "category": "Billing",
+          "post_id": "21005",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,6999.msg21005.html#msg21005",
+          "author_name": "rmk123",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "January 07, 2013, 11:28:14 PM",
+          "date_raw": "\u00ab Reply #8 on: January 07, 2013, 11:28:14 PM \u00bb",
+          "post_text": "Good points -- thank you!",
+          "post_text_chars": 25,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        }
+      ]
+    },
+    {
+      "topic_id": 1706,
+      "note": "",
+      "url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.0.html",
+      "status": 200,
+      "thread_title": "DMERC",
+      "category": "Billing",
+      "breadcrumb": "Medical Billing Forum > Billing > Alice Scott > Michele > DMERC",
+      "pagination": {
+        "in_thread_pagination": true,
+        "raw_label": "Pages: [ 1 ] 2",
+        "offsets_linked": [
+          15
+        ],
+        "posts_per_page": 15
+      },
+      "posts_page1": 15,
+      "posts_page2": 6,
+      "posts_total_collected": 21,
+      "field_coverage": {
+        "post_id": 21,
+        "post_url": 21,
+        "author_name": 21,
+        "author_profile_url": 15,
+        "date": 21,
+        "post_text": 21,
+        "category": 21,
+        "location": 0,
+        "_registered_posts": 15,
+        "_guest_posts": 6
+      },
+      "posts": [
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4114",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4114.html#msg4114",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 16, 2009, 06:38:41 PM",
+          "date_raw": "\u00ab on: June 16, 2009, 06:38:41 PM \u00bb",
+          "post_text": "Hi Michele, I was wondering I know now that when you bill for a optometrist you had said you bill the office visit to Medicare and the glasses to DMERC, but in my software there is not a option to choose this type of billing center. When you set up the patient you have to enter primary, secondary and ter. and then when you create a claim you choose from a drop down list of their ins co, I do not see a way to choose DMERC, do you have any tips on what you do in your software. margemib",
+          "post_text_chars": 488,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4115",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4115.html#msg4115",
+          "author_name": "Pay_My_Claims",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "June 16, 2009, 06:59:42 PM",
+          "date_raw": "\u00ab Reply #1 on: June 16, 2009, 06:59:42 PM \u00bb",
+          "post_text": "its going to be 2 separate claims.",
+          "post_text_chars": 34,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4117",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4117.html#msg4117",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 16, 2009, 08:36:02 PM",
+          "date_raw": "\u00ab Reply #2 on: June 16, 2009, 08:36:02 PM \u00bb",
+          "post_text": "I know but in my software when you create a claim and you choose your carrier you choose from only the patient ins. carriers listed in a dropdowm menu that you have to enter when you create a new patient file and the choices are the primary, secondary, and tri. if only it had a option for say (other) where you can enter something like this. How does your software do this. margemib",
+          "post_text_chars": 383,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4119",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4119.html#msg4119",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_id": "488",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "June 16, 2009, 10:03:20 PM",
+          "date_raw": "\u00ab Reply #3 on: June 16, 2009, 10:03:20 PM \u00bb",
+          "post_text": "You should be able to load the carrier and then choose it.",
+          "post_text_chars": 58,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4128",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4128.html#msg4128",
+          "author_name": "Michele",
+          "author_type": "registered",
+          "author_id": "3",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=3",
+          "date": "June 17, 2009, 08:30:33 AM",
+          "date_raw": "\u00ab Reply #4 on: June 17, 2009, 08:30:33 AM \u00bb",
+          "post_text": "We load the patient file with Medicare and the appropriate secondary info. Then we enter the claim for the exam. Then we start a new claim for the glasses and then just manually change the primary carrier from Medicare to DMERC just on that claim. You should be able to access the insurance info and change it for just the one claim. If that doesn't work, and you are submitting the claim on paper, you can leave it set up as Medicare and place a white mailing label with the correct info over the Medicare address. Michele",
+          "post_text_chars": 523,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup",
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4134",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4134.html#msg4134",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 17, 2009, 09:08:05 AM",
+          "date_raw": "\u00ab Reply #5 on: June 17, 2009, 09:08:05 AM \u00bb",
+          "post_text": "Thanks everyone for all the advice, I guess your right Michele if I have no other option I'll have to send paper, I was thinking what about entering the patient a duplicate time and using DMERC as primary to send out this type of claim what do you think? margemib",
+          "post_text_chars": 263,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4136",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4136.html#msg4136",
+          "author_name": "Pay_My_Claims",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "June 17, 2009, 09:29:36 AM",
+          "date_raw": "\u00ab Reply #6 on: June 17, 2009, 09:29:36 AM \u00bb",
+          "post_text": "You should be able to load the insurance (Medicare-Dmerc) in the patient's account. This insurance should be listed under self pay so that it won't file in other cases. You shouldn't just \"edit\" the insurance for that one claim. When you send the claim for the glasses, you will move Dmerc to the primary position, and put Medicare under self pay. You should always be able to change the COB's on your accounts because insurance changes often.",
+          "post_text_chars": 443,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4141",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4141.html#msg4141",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 17, 2009, 10:14:29 AM",
+          "date_raw": "\u00ab Reply #7 on: June 17, 2009, 10:14:29 AM \u00bb",
+          "post_text": "Charlene let me ask you what software are you using, because I cannot find this option in mine it only lists primay, secondary and ter. the only way I can see is if I change the patients primary for this type of claim and then change it back after I generate the claim. This is crazy but I cannot find another way. margemib",
+          "post_text_chars": 323,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4147",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4147.html#msg4147",
+          "author_name": "Pay_My_Claims",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "June 17, 2009, 01:23:12 PM",
+          "date_raw": "\u00ab Reply #8 on: June 17, 2009, 01:23:12 PM \u00bb",
+          "post_text": "I use TDME and we can load multiple insurances. I also use Office Ally, and Misys. I can understand your dilema. Are you saying your system only allows you to load 3 payors??? Since you have to create a separate claim for the glasses, I would guess that you can only do as what Michelle stated. Edit the primary on the 2nd claim and load Medicare Dmerc into your system as primary. When you have to bill another visit, you will have to change it. I have also used IDX, and you can load multiple payors, and change the COB depending on the situation.",
+          "post_text_chars": 549,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4150",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4150.html#msg4150",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 17, 2009, 02:34:46 PM",
+          "date_raw": "\u00ab Reply #9 on: June 17, 2009, 02:34:46 PM \u00bb",
+          "post_text": "Thanks Charlene for the info! margemib",
+          "post_text_chars": 38,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4151",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4151.html#msg4151",
+          "author_name": "Pay_My_Claims",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "June 17, 2009, 02:41:38 PM",
+          "date_raw": "\u00ab Reply #10 on: June 17, 2009, 02:41:38 PM \u00bb",
+          "post_text": "You are very welcome!! What system are you using BTW?",
+          "post_text_chars": 53,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4153",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4153.html#msg4153",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 17, 2009, 05:53:14 PM",
+          "date_raw": "\u00ab Reply #11 on: June 17, 2009, 05:53:14 PM \u00bb",
+          "post_text": "I am using Medlook, I like it because the service is good. Thanks margemib",
+          "post_text_chars": 74,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4157",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4157.html#msg4157",
+          "author_name": "Pay_My_Claims",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "June 17, 2009, 08:58:44 PM",
+          "date_raw": "\u00ab Reply #12 on: June 17, 2009, 08:58:44 PM \u00bb",
+          "post_text": "OK, never heard of them, so I wouldn't know my way around their system. I hope you can maneuver the claim the other way so you can send it electronic.",
+          "post_text_chars": 150,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4160",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4160.html#msg4160",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 17, 2009, 10:07:21 PM",
+          "date_raw": "\u00ab Reply #13 on: June 17, 2009, 10:07:21 PM \u00bb",
+          "post_text": "I guess all I can do is change the primary and send out the claim and then change it back. It's really crazy! Thanks for your help. margemib",
+          "post_text_chars": 140,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4162",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4162.html#msg4162",
+          "author_name": "Michele",
+          "author_type": "registered",
+          "author_id": "3",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=3",
+          "date": "June 17, 2009, 11:27:41 PM",
+          "date_raw": "\u00ab Reply #14 on: June 17, 2009, 11:27:41 PM \u00bb",
+          "post_text": "You could do that, but I'd really be surprised if your software doesn't allow you to switch the carrier at a claim level. Michele",
+          "post_text_chars": 129,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup",
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4184",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4184.html#msg4184",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_id": "488",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "June 18, 2009, 10:21:02 AM",
+          "date_raw": "\u00ab Reply #15 on: June 18, 2009, 10:21:02 AM \u00bb",
+          "post_text": "I have to agree with Michelle, the ability to change the carrier on a claim level is a rather needed function in today's world due to all the changes.. I don't think I have worked on a PM software that you couldn't make that change on a claim by claim basis.",
+          "post_text_chars": 258,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4190",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4190.html#msg4190",
+          "author_name": "Pay_My_Claims",
+          "author_type": "guest",
+          "author_id": null,
+          "author_profile_url": null,
+          "date": "June 18, 2009, 11:04:22 AM",
+          "date_raw": "\u00ab Reply #16 on: June 18, 2009, 11:04:22 AM \u00bb",
+          "post_text": "That would be difficult for me too Linda, I just don't know her system to help her see if its possible. Customer service should be able to assist.",
+          "post_text_chars": 146,
+          "location": null,
+          "poster_fields_present": [
+            "membergroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4194",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4194.html#msg4194",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 18, 2009, 11:39:59 AM",
+          "date_raw": "\u00ab Reply #17 on: June 18, 2009, 11:39:59 AM \u00bb",
+          "post_text": "I emailed to customer service and he was not sure what the other billers where doing in this case. He did not say that there was a option, I think I will try to call him later today because I am wondering if he understands what I am asking. margemib",
+          "post_text_chars": 249,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4195",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4195.html#msg4195",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_id": "488",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "June 18, 2009, 11:44:27 AM",
+          "date_raw": "\u00ab Reply #18 on: June 18, 2009, 11:44:27 AM \u00bb",
+          "post_text": "If it were my software I would want to know if it's an \"option\" or a \"work-around\" and also look at what the standard is and find out why that feature is not standard in your software. There were many instances I needed to switch carriers on a claim by claim basis! the only work around I can see for a software that doesn't allow this is to delete one carrier, add the other and re-add it later on ..but that surely isn't productive or efficient.",
+          "post_text_chars": 447,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "4196",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg4196.html#msg4196",
+          "author_name": "margemib",
+          "author_type": "registered",
+          "author_id": "373",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=373",
+          "date": "June 18, 2009, 11:47:09 AM",
+          "date_raw": "\u00ab Reply #19 on: June 18, 2009, 11:47:09 AM \u00bb",
+          "post_text": "your right Linda, I will contact customer service and explain this to him. margemib",
+          "post_text_chars": 83,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        },
+        {
+          "thread_id": "1706",
+          "category": "Billing",
+          "post_id": "20788",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,1706.msg20788.html#msg20788",
+          "author_name": "Ryan",
+          "author_type": "registered",
+          "author_id": "10974",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=10974",
+          "date": "December 11, 2012, 06:06:01 PM",
+          "date_raw": "\u00ab Reply #20 on: December 11, 2012, 06:06:01 PM \u00bb",
+          "post_text": "Hi. I'm wondering if you ever heard back from Medlook support on this issue? If you did, what was the solution? Thanks",
+          "post_text_chars": 118,
+          "location": null,
+          "poster_fields_present": [
+            "postcount",
+            "postgroup"
+          ]
+        }
+      ]
+    }
+  ],
+  "location_probe": {
+    "posts_examined": 30,
+    "posts_with_location": 0,
+    "distinct_values": [],
+    "poster_field_classes_seen": [
+      "membergroup",
+      "postcount",
+      "postgroup"
+    ],
+    "conclusion": "location not displayed on posts in this install"
+  }
+}

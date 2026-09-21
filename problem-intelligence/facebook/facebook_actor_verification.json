@@ -1,0 +1,722 @@
+{
+  "verified_at": "2026-09-21T11:13:04.276539+00:00",
+  "budget_after": {
+    "used_usd": 0.3436195737368941,
+    "cap_usd": 5,
+    "remaining_usd": 4.656380426263106
+  },
+  "results": [
+    {
+      "capability": "comments",
+      "actor": "apify/facebook-comments-scraper",
+      "why": "Task 2 showed top_comments empty in 10/10 search results. Comment bodies are where practitioner follow-up detail lives, so this is the single most important unverified capability.",
+      "input": {
+        "startUrls": [
+          {
+            "url": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/"
+          }
+        ],
+        "resultsLimit": 5,
+        "includeNestedComments": false,
+        "viewOption": "RANKED_UNFILTERED"
+      },
+      "pass_if": "returns >=1 record containing comment TEXT and an author",
+      "verdict": "PASS",
+      "reason": "4/4 records carry comment text",
+      "returned": 4,
+      "record_kinds": {
+        "post": 4,
+        "group": 0,
+        "page": 0,
+        "error": 0,
+        "unknown": 0
+      },
+      "fields_present": [
+        "author",
+        "commentId",
+        "commentUrl",
+        "date",
+        "facebookId",
+        "facebookUrl",
+        "feedbackId",
+        "groupTitle",
+        "id",
+        "inputUrl",
+        "likesCount",
+        "postTitle",
+        "profileId",
+        "profileName",
+        "profilePicture",
+        "profileUrl",
+        "text",
+        "threadingDepth"
+      ],
+      "apify": {
+        "actor_id": "us5srxAYnsrkgUv2v",
+        "actor_name": "apify/facebook-comments-scraper",
+        "run_id": "euBgsTZJXPX7kLSSM",
+        "status": "SUCCEEDED",
+        "started_at": "2026-09-21T11:12:32.743Z",
+        "finished_at": "2026-09-21T11:12:37.727Z",
+        "dataset_id": "gYK3BVAQYhn25Nwn9",
+        "usage_total_usd": 0,
+        "run_input": {
+          "startUrls": [
+            {
+              "url": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/"
+            }
+          ],
+          "resultsLimit": 5,
+          "includeNestedComments": false,
+          "viewOption": "RANKED_UNFILTERED"
+        }
+      },
+      "items_raw": [
+        {
+          "facebookUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/",
+          "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619623016563863/?comment_id=1620356356490529",
+          "commentId": "1620356356490529",
+          "id": "Y29tbWVudDoxNjE5NjIzMDE2NTYzODYzXzE2MjAzNTYzNTY0OTA1Mjk=",
+          "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2M18xNjIwMzU2MzU2NDkwNTI5",
+          "date": "2026-09-16T22:54:35.000Z",
+          "text": "TON billed as 64490. Did you do other levels as well?",
+          "author": {
+            "__typename": "User",
+            "id": "pfbid02Qc2LA5JasSRsxyrQVidQTsicGyyhgR6gUqLszVw6kDnK6A6u56XUnsDuRVw3GmXil",
+            "name": "Peggy Jones",
+            "__isActor": "User",
+            "profile_picture_depth_0": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwFwdT0J&_nc_oc=AdrxFZXQ0EIocJnMcp9nTHm9M7O5hk0j0Hn7FV5esNdydSk4mDKwJQCsi31XCHD-4IGUwL3G-1U9l3Psuv_jY-kg&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQKqoGOum71jSUiwFJ-nRdZBXMjx0srtmDYOv5AyTeISKQ&oe=6AB6DCCE"
+            },
+            "profile_picture_depth_0_increased": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwFwdT0J&_nc_oc=AdrxFZXQ0EIocJnMcp9nTHm9M7O5hk0j0Hn7FV5esNdydSk4mDKwJQCsi31XCHD-4IGUwL3G-1U9l3Psuv_jY-kg&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQKqoGOum71jSUiwFJ-nRdZBXMjx0srtmDYOv5AyTeISKQ&oe=6AB6DCCE"
+            },
+            "profile_picture_depth_1": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwFwdT0J&_nc_oc=AdrxFZXQ0EIocJnMcp9nTHm9M7O5hk0j0Hn7FV5esNdydSk4mDKwJQCsi31XCHD-4IGUwL3G-1U9l3Psuv_jY-kg&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQKqoGOum71jSUiwFJ-nRdZBXMjx0srtmDYOv5AyTeISKQ&oe=6AB6DCCE"
+            },
+            "gender": "FEMALE",
+            "is_verified": false,
+            "short_name": "Peggy",
+            "subscribe_status": "CANNOT_SUBSCRIBE",
+            "__isEntity": "User",
+            "url": null,
+            "work_info": null
+          },
+          "profilePicture": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwFwdT0J&_nc_oc=AdrxFZXQ0EIocJnMcp9nTHm9M7O5hk0j0Hn7FV5esNdydSk4mDKwJQCsi31XCHD-4IGUwL3G-1U9l3Psuv_jY-kg&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQKqoGOum71jSUiwFJ-nRdZBXMjx0srtmDYOv5AyTeISKQ&oe=6AB6DCCE",
+          "profileId": "pfbid02Qc2LA5JasSRsxyrQVidQTsicGyyhgR6gUqLszVw6kDnK6A6u56XUnsDuRVw3GmXil",
+          "profileName": "Peggy Jones",
+          "likesCount": "0",
+          "threadingDepth": 0,
+          "facebookId": "1619623016563863",
+          "postTitle": "64492 denying for TON\nHello! I was doing some research on some denials, and thought that if we queried the provider to clarify the facet joint for TON that we could have that additional unit billed....",
+          "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+          "inputUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/",
+          "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619623016563863/?comment_id=1620425893150242",
+          "commentId": "1620425893150242",
+          "id": "Y29tbWVudDoxNjE5NjIzMDE2NTYzODYzXzE2MjA0MjU4OTMxNTAyNDI=",
+          "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2M18xNjIwNDI1ODkzMTUwMjQy",
+          "date": "2026-09-17T01:17:17.000Z",
+          "text": "64492 is just the third facet level of treatment in the cervical to thoracic spine :)",
+          "author": {
+            "__typename": "User",
+            "id": "100001249039524",
+            "name": "Jacqueline Garduño",
+            "__isActor": "User",
+            "profile_picture_depth_0": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=p32x32&_nc_cat=104&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwG7QvGV&_nc_oc=AdoiAcSl8YvzmGITlvq3pMfxA2DRJelurLmudO4Ci7g4PW5giEdng9wZHBdPm503w4Io3q7tS0XlyiBZozy8-tl2&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQLsj8kNKDfbdzKvk9ivXRLZzA70NgMR_seRAleN5fTSVw&oe=6AB6EF30"
+            },
+            "profile_picture_depth_0_increased": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=p40x40&_nc_cat=104&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwG7QvGV&_nc_oc=AdoiAcSl8YvzmGITlvq3pMfxA2DRJelurLmudO4Ci7g4PW5giEdng9wZHBdPm503w4Io3q7tS0XlyiBZozy8-tl2&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQLsj8kNKDfbdzKvk9ivXRLZzA70NgMR_seRAleN5fTSVw&oe=6AB6EF30"
+            },
+            "profile_picture_depth_1": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=s24x24&_nc_cat=104&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwG7QvGV&_nc_oc=AdoiAcSl8YvzmGITlvq3pMfxA2DRJelurLmudO4Ci7g4PW5giEdng9wZHBdPm503w4Io3q7tS0XlyiBZozy8-tl2&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQLsj8kNKDfbdzKvk9ivXRLZzA70NgMR_seRAleN5fTSVw&oe=6AB6EF30"
+            },
+            "gender": "FEMALE",
+            "is_verified": false,
+            "short_name": "Jacqueline",
+            "subscribe_status": "CANNOT_SUBSCRIBE",
+            "__isEntity": "User",
+            "url": null,
+            "work_info": null
+          },
+          "profilePicture": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=p32x32&_nc_cat=104&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwG7QvGV&_nc_oc=AdoiAcSl8YvzmGITlvq3pMfxA2DRJelurLmudO4Ci7g4PW5giEdng9wZHBdPm503w4Io3q7tS0XlyiBZozy8-tl2&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQLsj8kNKDfbdzKvk9ivXRLZzA70NgMR_seRAleN5fTSVw&oe=6AB6EF30",
+          "profileId": "100001249039524",
+          "profileName": "Jacqueline Garduño",
+          "likesCount": "0",
+          "threadingDepth": 0,
+          "facebookId": "1619623016563863",
+          "postTitle": "64492 denying for TON\nHello! I was doing some research on some denials, and thought that if we queried the provider to clarify the facet joint for TON that we could have that additional unit billed....",
+          "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+          "inputUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/",
+          "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619623016563863/?comment_id=1620440466482118",
+          "commentId": "1620440466482118",
+          "id": "Y29tbWVudDoxNjE5NjIzMDE2NTYzODYzXzE2MjA0NDA0NjY0ODIxMTg=",
+          "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2M18xNjIwNDQwNDY2NDgyMTE4",
+          "date": "2026-09-17T01:44:06.000Z",
+          "text": "Third levels never get paid as they only allow 64490 and 64491.",
+          "author": {
+            "__typename": "User",
+            "id": "pfbid09hxJsnju3QPL4YBca47Nuhu9Z8hs5vN9cJj9bjvZTMCzsSNffuXnXDgpTcoBD6oEl",
+            "name": "Stacey Loftis",
+            "__isActor": "User",
+            "profile_picture_depth_0": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D"
+            },
+            "profile_picture_depth_0_increased": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s40x40&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D"
+            },
+            "profile_picture_depth_1": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s24x24&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D"
+            },
+            "gender": "FEMALE",
+            "is_verified": false,
+            "short_name": "Stacey",
+            "subscribe_status": "CANNOT_SUBSCRIBE",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/stacey.clemens.5",
+            "work_info": null
+          },
+          "profileUrl": "https://www.facebook.com/stacey.clemens.5",
+          "profilePicture": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D",
+          "profileId": "pfbid09hxJsnju3QPL4YBca47Nuhu9Z8hs5vN9cJj9bjvZTMCzsSNffuXnXDgpTcoBD6oEl",
+          "profileName": "Stacey Loftis",
+          "likesCount": "0",
+          "threadingDepth": 0,
+          "facebookId": "1619623016563863",
+          "postTitle": "64492 denying for TON\nHello! I was doing some research on some denials, and thought that if we queried the provider to clarify the facet joint for TON that we could have that additional unit billed....",
+          "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+          "inputUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/",
+          "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619623016563863/?comment_id=1620442089815289",
+          "commentId": "1620442089815289",
+          "id": "Y29tbWVudDoxNjE5NjIzMDE2NTYzODYzXzE2MjA0NDIwODk4MTUyODk=",
+          "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2M18xNjIwNDQyMDg5ODE1Mjg5",
+          "date": "2026-09-17T01:47:12.000Z",
+          "text": "You should bill 64490 as primary code and 64491 as an add on code. 64492 will always deny because they only pay 2 levels",
+          "author": {
+            "__typename": "User",
+            "id": "pfbid09hxJsnju3QPL4YBca47Nuhu9Z8hs5vN9cJj9bjvZTMCzsSNffuXnXDgpTcoBD6oEl",
+            "name": "Stacey Loftis",
+            "__isActor": "User",
+            "profile_picture_depth_0": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D"
+            },
+            "profile_picture_depth_0_increased": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s40x40&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D"
+            },
+            "profile_picture_depth_1": {
+              "uri": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s24x24&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D"
+            },
+            "gender": "FEMALE",
+            "is_verified": false,
+            "short_name": "Stacey",
+            "subscribe_status": "CANNOT_SUBSCRIBE",
+            "__isEntity": "User",
+            "url": "https://www.facebook.com/stacey.clemens.5",
+            "work_info": null
+          },
+          "profileUrl": "https://www.facebook.com/stacey.clemens.5",
+          "profilePicture": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/808823231_10227577886427692_451335186924151279_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PrAESakKla8Q7kNvwGbtPHe&_nc_oc=Adrk7Y1PeHL2GXIw89wEF7GVty4F1QemvSOvOZtgd-666EWm3XXeQtBsz_elrZnrWea6sRraAX-ao5YYv-OacjYd&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=NdFtLm3DwUohFNEB3qD_Ng&_nc_ss=73289&oh=00_AQJFCiGlacshHS_4mCKlQh-nlDZ6lbOcpABBxkBtfnPCMQ&oe=6AB6E88D",
+          "profileId": "pfbid09hxJsnju3QPL4YBca47Nuhu9Z8hs5vN9cJj9bjvZTMCzsSNffuXnXDgpTcoBD6oEl",
+          "profileName": "Stacey Loftis",
+          "likesCount": "0",
+          "threadingDepth": 0,
+          "facebookId": "1619623016563863",
+          "postTitle": "64492 denying for TON\nHello! I was doing some research on some denials, and thought that if we queried the provider to clarify the facet joint for TON that we could have that additional unit billed....",
+          "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+          "inputUrl": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/"
+        }
+      ]
+    },
+    {
+      "capability": "page_posts",
+      "actor": "apify/facebook-posts-scraper",
+      "why": "Discovery surfaced page/profile posts as well as group posts. If pages can be harvested directly, discovered pages become standing sources the same way groups do.",
+      "input": {
+        "startUrls": [
+          {
+            "url": "https://www.facebook.com/GoodFinancialCents"
+          }
+        ],
+        "resultsLimit": 5
+      },
+      "pass_if": "returns >=1 record containing post text, a post URL and a timestamp",
+      "verdict": "PASS",
+      "reason": "5/5 records carry post text",
+      "returned": 5,
+      "record_kinds": {
+        "post": 5,
+        "group": 0,
+        "page": 0,
+        "error": 0,
+        "unknown": 0
+      },
+      "fields_present": [
+        "collaborators",
+        "comments",
+        "facebookId",
+        "facebookUrl",
+        "feedbackId",
+        "inputUrl",
+        "likes",
+        "media",
+        "pageAdLibrary",
+        "pageName",
+        "paidPartnership",
+        "postId",
+        "reactionAngryCount",
+        "reactionCareCount",
+        "reactionHahaCount",
+        "reactionLikeCount",
+        "reactionLoveCount",
+        "reactionSadCount",
+        "reactionWowCount",
+        "shares",
+        "text",
+        "time",
+        "timestamp",
+        "topComments",
+        "topLevelUrl",
+        "topReactionsCount",
+        "url",
+        "user"
+      ],
+      "apify": {
+        "actor_id": "KoJrdxJCTtpon81KY",
+        "actor_name": "apify/facebook-posts-scraper",
+        "run_id": "jAPjKPsE9y3Ivh2Od",
+        "status": "SUCCEEDED",
+        "started_at": "2026-09-21T11:12:42.027Z",
+        "finished_at": "2026-09-21T11:12:56.625Z",
+        "dataset_id": "sKgPWHTnwx2fFZ9Ic",
+        "usage_total_usd": 0.001,
+        "run_input": {
+          "startUrls": [
+            {
+              "url": "https://www.facebook.com/GoodFinancialCents"
+            }
+          ],
+          "resultsLimit": 5
+        }
+      },
+      "items_raw": [
+        {
+          "facebookUrl": "https://www.facebook.com/GoodFinancialCents",
+          "postId": "1903962547596122",
+          "pageName": "GoodFinancialCents",
+          "url": "https://www.facebook.com/GoodFinancialCents/posts/pfbid02ZtKY12PiodmegNB8RdZf6SCdQetcgcMjtwZJi4iU2B91kr15qvAuKxqELWBC2WF7l",
+          "time": "2026-09-21T10:19:30.000Z",
+          "timestamp": 1789985970,
+          "user": {
+            "id": "100039471860412",
+            "name": "Good Financial Cents",
+            "profileUrl": "https://www.facebook.com/100039471860412",
+            "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwHJWwVS&_nc_oc=Adql3Ze4Dd3JwFA6_ijyOclMtkWShPPHvcgSEkFUyxMaOqDajV9Lj199Po9cZjRG2DvSF_gCYjXxKYr8bjt3jPzc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJLfIclXSGmOerp7JkcQ-BU6lX0t4pzorkZnfQHD-kpkw&oe=6AB6ED6D"
+          },
+          "collaborators": [],
+          "text": "What’s something your parents or grandparents did that you now realize was LEGIT genius parenting?",
+          "likes": 9,
+          "comments": 12,
+          "shares": 0,
+          "topReactionsCount": 1,
+          "feedbackId": "ZmVlZGJhY2s6MTkwMzk2MjU0NzU5NjEyMg==",
+          "reactionLikeCount": 9,
+          "paidPartnership": false,
+          "topComments": [
+            {
+              "commentUrl": "https://www.facebook.com/GoodFinancialCents/posts/pfbid02ZtKY12PiodmegNB8RdZf6SCdQetcgcMjtwZJi4iU2B91kr15qvAuKxqELWBC2WF7l?comment_id=1413546227380018",
+              "commentId": "1413546227380018",
+              "id": "Y29tbWVudDoxOTAzOTYyNTQ3NTk2MTIyXzE0MTM1NDYyMjczODAwMTg=",
+              "feedbackId": "ZmVlZGJhY2s6MTkwMzk2MjU0NzU5NjEyMl8xNDEzNTQ2MjI3MzgwMDE4",
+              "date": "2026-09-21T10:22:16.000Z",
+              "text": "“You wouldn’t like it… It’s too spicy”.  Said about only the best/expensive foodstuffs, of course ;)",
+              "author": {
+                "__typename": "User",
+                "id": "61580024616468",
+                "name": "FIRE 2.0  Financial Independence - Redirect Energy",
+                "__isActor": "User",
+                "profile_picture_depth_0": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/544903138_122104297431000820_2207463426243926278_n.jpg?stp=c55.0.1078.1078a_cp0_dst-jpg_tt6&cstp=mx1078x1078&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_aid=0&_nc_ohc=OsiLdzZ5hU8Q7kNvwEEHcuP&_nc_oc=AdpZ9jeFP3eQScCYU_PuzwN1cgtNnwXCTA0GRskno8RcspXOrYsdLcFtjD3DYz4vfDhJNcAvlEJLlllqrfXjMGmJ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQKB4GGAUK1FxZrphv-ZoQjfu5BEq7E3f9Wu07KH2bmGtg&oe=6AB6DBD0"
+                },
+                "profile_picture_depth_1": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/544903138_122104297431000820_2207463426243926278_n.jpg?stp=c55.0.1078.1078a_cp0_dst-jpg_tt6&cstp=mx1078x1078&ctp=s24x24&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_aid=0&_nc_ohc=OsiLdzZ5hU8Q7kNvwEEHcuP&_nc_oc=AdpZ9jeFP3eQScCYU_PuzwN1cgtNnwXCTA0GRskno8RcspXOrYsdLcFtjD3DYz4vfDhJNcAvlEJLlllqrfXjMGmJ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQKB4GGAUK1FxZrphv-ZoQjfu5BEq7E3f9Wu07KH2bmGtg&oe=6AB6DBD0"
+                },
+                "gender": "UNKNOWN",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/PursuingFIRE2.0",
+                "work_info": null,
+                "is_verified": false,
+                "short_name": "FIRE 2.0  Financial Independence - Redirect Energy",
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+              },
+              "profileUrl": "https://www.facebook.com/PursuingFIRE2.0",
+              "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/544903138_122104297431000820_2207463426243926278_n.jpg?stp=c55.0.1078.1078a_cp0_dst-jpg_tt6&cstp=mx1078x1078&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_aid=0&_nc_ohc=OsiLdzZ5hU8Q7kNvwEEHcuP&_nc_oc=AdpZ9jeFP3eQScCYU_PuzwN1cgtNnwXCTA0GRskno8RcspXOrYsdLcFtjD3DYz4vfDhJNcAvlEJLlllqrfXjMGmJ&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQKB4GGAUK1FxZrphv-ZoQjfu5BEq7E3f9Wu07KH2bmGtg&oe=6AB6DBD0",
+              "profileId": "61580024616468",
+              "profileName": "FIRE 2.0  Financial Independence - Redirect Energy",
+              "likesCount": "5",
+              "threadingDepth": 0
+            }
+          ],
+          "topLevelUrl": "https://www.facebook.com/100039471860412/posts/1903962547596122",
+          "facebookId": "100039471860412",
+          "pageAdLibrary": {
+            "id": "68312650259",
+            "pamv_comms_data": null
+          },
+          "inputUrl": "https://www.facebook.com/GoodFinancialCents"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/GoodFinancialCents",
+          "postId": "1903717477620629",
+          "pageName": "GoodFinancialCents",
+          "url": "https://www.facebook.com/GoodFinancialCents/posts/pfbid07wxBLVpPwiD6P86vZPQhSxeebE2WGFj3NVeMdVutPR441SKiTHELUV5JcUrWZD2ml",
+          "time": "2026-09-21T08:00:01.000Z",
+          "timestamp": 1789977601,
+          "user": {
+            "id": "100039471860412",
+            "name": "Good Financial Cents",
+            "profileUrl": "https://www.facebook.com/100039471860412",
+            "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwHJWwVS&_nc_oc=Adql3Ze4Dd3JwFA6_ijyOclMtkWShPPHvcgSEkFUyxMaOqDajV9Lj199Po9cZjRG2DvSF_gCYjXxKYr8bjt3jPzc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJLfIclXSGmOerp7JkcQ-BU6lX0t4pzorkZnfQHD-kpkw&oe=6AB6ED6D"
+          },
+          "collaborators": [],
+          "text": "The scariest part of this list is how many of these don’t even sound ridiculous anymore.\n\nA $25 fast food meal used to sound like something you’d joke about.\n\nNow you can hit that number without trying very hard.\n\nSame with daycare, housing, property taxes, insurance, and everything else that quietly eats away at a paycheck.\n\nPeople love to say “just budget better,” and sure, bad spending habits absolutely matter.\n\nBut sometimes the math really did get worse.\n\nThat’s the part people shouldn’t pretend isn’t happening.",
+          "likes": 344,
+          "comments": 34,
+          "shares": 95,
+          "topReactionsCount": 7,
+          "media": [
+            {
+              "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/796444883_1633882221596149_7898034581675923052_n.png?stp=dst-jpg_tt6&cstp=mx1798x1798&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dR3Ngu35oQIQ7kNvwGJCBHK&_nc_oc=Adr0NyzWT8do4P2gQa3mhD0k__VYYmI28DM-L4vBiWZA6lPwjkajwyeiYeVBcgH6Hp2leNtvksQFHC9DEPG3Cq-n&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJvEojqEz2pXQbkvGlpqp1ybD0_oi_HEzEBFqdTxuyReg&oe=6AB6D050",
+              "__typename": "Photo",
+              "__isMedia": "Photo",
+              "accent_color": "FF18222C",
+              "photo_product_tags": [],
+              "photo_image": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/796444883_1633882221596149_7898034581675923052_n.png?stp=dst-jpg_tt6&cstp=mx1798x1798&ctp=p526x296&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dR3Ngu35oQIQ7kNvwGJCBHK&_nc_oc=Adr0NyzWT8do4P2gQa3mhD0k__VYYmI28DM-L4vBiWZA6lPwjkajwyeiYeVBcgH6Hp2leNtvksQFHC9DEPG3Cq-n&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJvEojqEz2pXQbkvGlpqp1ybD0_oi_HEzEBFqdTxuyReg&oe=6AB6D050",
+                "height": 526,
+                "width": 526
+              },
+              "url": "https://www.facebook.com/photo/?fbid=1903717190953991&set=a.782814696377585",
+              "id": "1903717190953991",
+              "feedback": {
+                "can_viewer_comment": false,
+                "id": "ZmVlZGJhY2s6MTkwMzcxNzQ3NzYyMDYyOQ=="
+              },
+              "ocrText": "May be an image of text that says 'Brennan Schlagbaum, CPA @Budgetdog_ Jokes that are going too far: -$25 fast food meals -Paying property taxes -$400k \"starter homes\" -3% raises with 4% inflation -Daycare costing more than rent -Working your whole life to \"enjoy\" 10 years of retirement Hilarious. Truly.'"
+            }
+          ],
+          "feedbackId": "ZmVlZGJhY2s6MTkwMzcxNzQ3NzYyMDYyOQ==",
+          "reactionLikeCount": 310,
+          "reactionSadCount": 21,
+          "reactionLoveCount": 5,
+          "reactionAngryCount": 3,
+          "reactionCareCount": 2,
+          "reactionHahaCount": 2,
+          "reactionWowCount": 1,
+          "paidPartnership": false,
+          "topComments": [
+            {
+              "commentUrl": "https://www.facebook.com/GoodFinancialCents/posts/pfbid07wxBLVpPwiD6P86vZPQhSxeebE2WGFj3NVeMdVutPR441SKiTHELUV5JcUrWZD2ml?comment_id=2541262623047730",
+              "commentId": "2541262623047730",
+              "id": "Y29tbWVudDoxOTAzNzE3NDc3NjIwNjI5XzI1NDEyNjI2MjMwNDc3MzA=",
+              "feedbackId": "ZmVlZGJhY2s6MTkwMzcxNzQ3NzYyMDYyOV8yNTQxMjYyNjIzMDQ3NzMw",
+              "date": "2026-09-21T10:38:14.000Z",
+              "text": "The toughest financial conversations are the ones where both things are true. Managing money wisely matters, but so does acknowledging that many essentials have gotten dramatically more expensive. When housing, childcare, insurance, healthcare, and food consume a growing share of income, even disciplined people can feel like they're running harder just to stay in the same place.",
+              "author": {
+                "__typename": "User",
+                "id": "61587024991451",
+                "name": "Here We Finance",
+                "__isActor": "User",
+                "profile_picture_depth_0": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/617377761_10163968222080928_9118257325902286035_n.jpg?stp=c0.0.992.992a_cp0_dst-jpg_tt6&cstp=mx992x992&ctp=s32x32&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XiEdjxvGTjkQ7kNvwGrB0Tr&_nc_oc=AdrIowc5Ljrvzm5pAWO4H-4WQn8VTPS0gBVGt-mfJ0WXlBqHfSnFP3WIjW9wwMqttR_5um6alevVA7KIdl5gt1JD&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQL5RggFJkhQhfBKrVBUxae02bv0DL9doB-nFz966akqWA&oe=6AB6D846"
+                },
+                "profile_picture_depth_1": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/617377761_10163968222080928_9118257325902286035_n.jpg?stp=c0.0.992.992a_cp0_dst-jpg_tt6&cstp=mx992x992&ctp=s24x24&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XiEdjxvGTjkQ7kNvwGrB0Tr&_nc_oc=AdrIowc5Ljrvzm5pAWO4H-4WQn8VTPS0gBVGt-mfJ0WXlBqHfSnFP3WIjW9wwMqttR_5um6alevVA7KIdl5gt1JD&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQL5RggFJkhQhfBKrVBUxae02bv0DL9doB-nFz966akqWA&oe=6AB6D846"
+                },
+                "gender": "UNKNOWN",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/people/Here-We-Finance/61587024991451/",
+                "work_info": null,
+                "is_verified": false,
+                "short_name": "Here We Finance",
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+              },
+              "profileUrl": "https://www.facebook.com/people/Here-We-Finance/61587024991451/",
+              "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/617377761_10163968222080928_9118257325902286035_n.jpg?stp=c0.0.992.992a_cp0_dst-jpg_tt6&cstp=mx992x992&ctp=s32x32&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XiEdjxvGTjkQ7kNvwGrB0Tr&_nc_oc=AdrIowc5Ljrvzm5pAWO4H-4WQn8VTPS0gBVGt-mfJ0WXlBqHfSnFP3WIjW9wwMqttR_5um6alevVA7KIdl5gt1JD&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQL5RggFJkhQhfBKrVBUxae02bv0DL9doB-nFz966akqWA&oe=6AB6D846",
+              "profileId": "61587024991451",
+              "profileName": "Here We Finance",
+              "likesCount": "1",
+              "threadingDepth": 0
+            }
+          ],
+          "topLevelUrl": "https://www.facebook.com/100039471860412/posts/1903717477620629",
+          "facebookId": "100039471860412",
+          "pageAdLibrary": {
+            "id": "68312650259",
+            "pamv_comms_data": null
+          },
+          "inputUrl": "https://www.facebook.com/GoodFinancialCents"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/GoodFinancialCents",
+          "postId": "1903807157611661",
+          "pageName": "GoodFinancialCents",
+          "url": "https://www.facebook.com/GoodFinancialCents/posts/pfbid02AynBcogV2fKXK7Bev9crdFgi4PRM9JDpsZ7hF8Fq37VjfxWBXHsQL8tYRUoWGxLAl",
+          "time": "2026-09-21T06:19:40.000Z",
+          "timestamp": 1789971580,
+          "user": {
+            "id": "100039471860412",
+            "name": "Good Financial Cents",
+            "profileUrl": "https://www.facebook.com/100039471860412",
+            "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwHJWwVS&_nc_oc=Adql3Ze4Dd3JwFA6_ijyOclMtkWShPPHvcgSEkFUyxMaOqDajV9Lj199Po9cZjRG2DvSF_gCYjXxKYr8bjt3jPzc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJLfIclXSGmOerp7JkcQ-BU6lX0t4pzorkZnfQHD-kpkw&oe=6AB6ED6D"
+          },
+          "collaborators": [],
+          "text": "Apparently buying the gas is the cheap part now.\n\nThat $13.06 supply charge almost looks reasonable until the rest of the bill shows up.\n\nThen you get $96.12 for maintenance and infrastructure plus another $18.91 in public benefit charges.\n\nUtility bills are starting to feel like airline tickets. The thing you actually wanted is only part of what you end up paying for.",
+          "likes": 137,
+          "comments": 59,
+          "shares": 14,
+          "topReactionsCount": 6,
+          "media": [
+            {
+              "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/795248050_1461435856078383_5377149864525333164_n.png?stp=dst-jpg_tt6&cstp=mx1129x1850&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GPekMw6UNxAQ7kNvwFKccqK&_nc_oc=AdrshOtAUCcNaLEONmr9yyspBhj1CAEnmngypz9ilhjpKiw5P2w2kc5t1ozQsa8ptvpKI-NjkCLa9Z4gGFsnLqIH&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJnMbsNrjy04rH55Bn3pRDMDaZIiPKyOgJoY055JpHOzw&oe=6AB6D3A1",
+              "__typename": "Photo",
+              "__isMedia": "Photo",
+              "accent_color": "FFFFFFFF",
+              "photo_product_tags": [],
+              "photo_image": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/795248050_1461435856078383_5377149864525333164_n.png?stp=dst-jpg_tt6&cstp=mx1129x1850&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GPekMw6UNxAQ7kNvwFKccqK&_nc_oc=AdrshOtAUCcNaLEONmr9yyspBhj1CAEnmngypz9ilhjpKiw5P2w2kc5t1ozQsa8ptvpKI-NjkCLa9Z4gGFsnLqIH&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJnMbsNrjy04rH55Bn3pRDMDaZIiPKyOgJoY055JpHOzw&oe=6AB6D3A1",
+                "height": 862,
+                "width": 526
+              },
+              "url": "https://www.facebook.com/photo/?fbid=1903807117611665&set=a.782814696377585",
+              "id": "1903807117611665",
+              "feedback": {
+                "can_viewer_comment": false,
+                "id": "ZmVlZGJhY2s6MTkwMzgwNzE1NzYxMTY2MQ=="
+              },
+              "ocrText": "May be an image of ticket stub, money and text that says 'M # In ። S in in a bl H m u b K ht h Or M k On h h i M h h of b ht & M M h Ht M h H M h n n M W M ht M # h M'"
+            }
+          ],
+          "feedbackId": "ZmVlZGJhY2s6MTkwMzgwNzE1NzYxMTY2MQ==",
+          "reactionLikeCount": 62,
+          "reactionAngryCount": 42,
+          "reactionWowCount": 21,
+          "reactionHahaCount": 8,
+          "reactionLoveCount": 2,
+          "reactionSadCount": 2,
+          "paidPartnership": false,
+          "topComments": [
+            {
+              "commentUrl": "https://www.facebook.com/GoodFinancialCents/posts/pfbid02AynBcogV2fKXK7Bev9crdFgi4PRM9JDpsZ7hF8Fq37VjfxWBXHsQL8tYRUoWGxLAl?comment_id=985165231268739",
+              "commentId": "985165231268739",
+              "id": "Y29tbWVudDoxOTAzODA3MTU3NjExNjYxXzk4NTE2NTIzMTI2ODczOQ==",
+              "feedbackId": "ZmVlZGJhY2s6MTkwMzgwNzE1NzYxMTY2MV85ODUxNjUyMzEyNjg3Mzk=",
+              "date": "2026-09-21T06:30:56.000Z",
+              "text": "$13 for gas and $115 for everything surrounding the gas.",
+              "author": {
+                "__typename": "User",
+                "id": "100039471860412",
+                "name": "Good Financial Cents",
+                "__isActor": "User",
+                "profile_picture_depth_0": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s32x32&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwHJWwVS&_nc_oc=Adql3Ze4Dd3JwFA6_ijyOclMtkWShPPHvcgSEkFUyxMaOqDajV9Lj199Po9cZjRG2DvSF_gCYjXxKYr8bjt3jPzc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJLfIclXSGmOerp7JkcQ-BU6lX0t4pzorkZnfQHD-kpkw&oe=6AB6ED6D"
+                },
+                "profile_picture_depth_1": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s24x24&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwHJWwVS&_nc_oc=Adql3Ze4Dd3JwFA6_ijyOclMtkWShPPHvcgSEkFUyxMaOqDajV9Lj199Po9cZjRG2DvSF_gCYjXxKYr8bjt3jPzc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJLfIclXSGmOerp7JkcQ-BU6lX0t4pzorkZnfQHD-kpkw&oe=6AB6ED6D"
+                },
+                "gender": "MALE",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/GoodFinancialCents",
+                "work_info": null,
+                "is_verified": true,
+                "short_name": "Good Financial Cents",
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+              },
+              "profileUrl": "https://www.facebook.com/GoodFinancialCents",
+              "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s32x32&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwHJWwVS&_nc_oc=Adql3Ze4Dd3JwFA6_ijyOclMtkWShPPHvcgSEkFUyxMaOqDajV9Lj199Po9cZjRG2DvSF_gCYjXxKYr8bjt3jPzc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=r23g8NrPjyMPRFagrjlsHA&_nc_ss=73289&oh=00_AQJLfIclXSGmOerp7JkcQ-BU6lX0t4pzorkZnfQHD-kpkw&oe=6AB6ED6D",
+              "profileId": "100039471860412",
+              "profileName": "Good Financial Cents",
+              "likesCount": "6",
+              "threadingDepth": 0
+            }
+          ],
+          "topLevelUrl": "https://www.facebook.com/100039471860412/posts/1903807157611661",
+          "facebookId": "100039471860412",
+          "pageAdLibrary": {
+            "id": "68312650259",
+            "pamv_comms_data": null
+          },
+          "inputUrl": "https://www.facebook.com/GoodFinancialCents"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/GoodFinancialCents",
+          "postId": "1903761024282941",
+          "pageName": "GoodFinancialCents",
+          "url": "https://www.facebook.com/GoodFinancialCents/posts/pfbid05JWeVkR3b2BEYMDpnczFAufYAbmpGCYztp53Po6aWHexhrJoPHzSk1zo2996UJ6dl",
+          "time": "2026-09-21T05:00:18.000Z",
+          "timestamp": 1789966818,
+          "user": {
+            "id": "100039471860412",
+            "name": "Good Financial Cents",
+            "profileUrl": "https://www.facebook.com/100039471860412",
+            "profilePic": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwGKFpoJ&_nc_oc=Ado6lKpt7b7zE9cthT44uHkYmoBY5ofDRpA6Q4F-Sr9OCrafRqyo8FqJKIeR7_uqO4dpMJzH1Em4SdjtBjMGjduy&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQKe4H9kVESeBJyZXyJQQrVBX-hWK9Dsg4jlNUj_NhJdyw&oe=6AB6ED6D"
+          },
+          "collaborators": [],
+          "text": "A box of cereal is $7 now... and somehow there’s LESS cereal in the box.\n\nI compared the SAME grocery order:\n\n2020: $181.42\nToday: $273.17\n\nThat’s $91.75 MORE.\n\nA 50.6% increase for the same damn groceries.\n\nSomehow we’re paying more while getting LESS.\n\nOur paychecks sure as hell didn’t go up 50%.\n\nPLEASE tell me I’m not the only one seeing this.",
+          "likes": 149,
+          "comments": 48,
+          "shares": 23,
+          "topReactionsCount": 6,
+          "feedbackId": "ZmVlZGJhY2s6MTkwMzc2MTAyNDI4Mjk0MQ==",
+          "reactionLikeCount": 140,
+          "reactionHahaCount": 2,
+          "reactionWowCount": 2,
+          "reactionSadCount": 2,
+          "reactionAngryCount": 2,
+          "reactionLoveCount": 1,
+          "paidPartnership": false,
+          "topComments": [
+            {
+              "commentUrl": "https://www.facebook.com/GoodFinancialCents/posts/pfbid05JWeVkR3b2BEYMDpnczFAufYAbmpGCYztp53Po6aWHexhrJoPHzSk1zo2996UJ6dl?comment_id=2280540599412890",
+              "commentId": "2280540599412890",
+              "id": "Y29tbWVudDoxOTAzNzYxMDI0MjgyOTQxXzIyODA1NDA1OTk0MTI4OTA=",
+              "feedbackId": "ZmVlZGJhY2s6MTkwMzc2MTAyNDI4Mjk0MV8yMjgwNTQwNTk5NDEyODkw",
+              "date": "2026-09-21T10:17:07.000Z",
+              "text": "Must be California 🤣 cereal here is $4",
+              "author": {
+                "__typename": "User",
+                "id": "pfbid02qqYm82WMx4N5CXZVerEh55u9vHvqMW2YvxERTymY2YzGjAHCkh9jFwqEVj5YefDwl",
+                "name": "Chris Hall",
+                "__isActor": "User",
+                "profile_picture_depth_0": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/762332018_2669281856922466_5719942093133815316_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1024x1031&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Br0tpxBZGtQQ7kNvwFGsk5L&_nc_oc=AdoGQRawXgjaGlCxTG_1CXQ_uyLqef9FmFtOdks0s7h2qj0MXjmxCU-b3cvhEC03rQHbVRoYQ1xI49ldwzLIs4_8&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQITMHV_NDhuDdwOj84yRcjeWxY3YcqnVDeDGKqobApQ2A&oe=6AB6D5C2"
+                },
+                "profile_picture_depth_1": {
+                  "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/762332018_2669281856922466_5719942093133815316_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1024x1031&ctp=s24x24&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Br0tpxBZGtQQ7kNvwFGsk5L&_nc_oc=AdoGQRawXgjaGlCxTG_1CXQ_uyLqef9FmFtOdks0s7h2qj0MXjmxCU-b3cvhEC03rQHbVRoYQ1xI49ldwzLIs4_8&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQITMHV_NDhuDdwOj84yRcjeWxY3YcqnVDeDGKqobApQ2A&oe=6AB6D5C2"
+                },
+                "gender": "MALE",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/chris.hall.531892",
+                "work_info": null,
+                "is_verified": false,
+                "short_name": "Chris",
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+              },
+              "profileUrl": "https://www.facebook.com/chris.hall.531892",
+              "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/762332018_2669281856922466_5719942093133815316_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1024x1031&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Br0tpxBZGtQQ7kNvwFGsk5L&_nc_oc=AdoGQRawXgjaGlCxTG_1CXQ_uyLqef9FmFtOdks0s7h2qj0MXjmxCU-b3cvhEC03rQHbVRoYQ1xI49ldwzLIs4_8&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQITMHV_NDhuDdwOj84yRcjeWxY3YcqnVDeDGKqobApQ2A&oe=6AB6D5C2",
+              "profileId": "pfbid02qqYm82WMx4N5CXZVerEh55u9vHvqMW2YvxERTymY2YzGjAHCkh9jFwqEVj5YefDwl",
+              "profileName": "Chris Hall",
+              "likesCount": "0",
+              "threadingDepth": 0
+            }
+          ],
+          "topLevelUrl": "https://www.facebook.com/100039471860412/posts/1903761024282941",
+          "facebookId": "100039471860412",
+          "pageAdLibrary": {
+            "id": "68312650259",
+            "pamv_comms_data": null
+          },
+          "inputUrl": "https://www.facebook.com/GoodFinancialCents"
+        },
+        {
+          "facebookUrl": "https://www.facebook.com/GoodFinancialCents",
+          "postId": "1903723274286716",
+          "pageName": "GoodFinancialCents",
+          "url": "https://www.facebook.com/GoodFinancialCents/posts/pfbid02XY4F1wFAhRVjs3mMrUbpxbkoYKMoV3nvpEPhWgeZNMuNntiBBwB6DSLJRnf6h8Hl",
+          "time": "2026-09-21T04:00:13.000Z",
+          "timestamp": 1789963213,
+          "user": {
+            "id": "100039471860412",
+            "name": "Good Financial Cents",
+            "profileUrl": "https://www.facebook.com/100039471860412",
+            "profilePic": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwGKFpoJ&_nc_oc=Ado6lKpt7b7zE9cthT44uHkYmoBY5ofDRpA6Q4F-Sr9OCrafRqyo8FqJKIeR7_uqO4dpMJzH1Em4SdjtBjMGjduy&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQKe4H9kVESeBJyZXyJQQrVBX-hWK9Dsg4jlNUj_NhJdyw&oe=6AB6ED6D"
+          },
+          "collaborators": [],
+          "text": "Can’t overspend if you refuse to participate in society.\n\nHonestly, this feels less like a budgeting strategy and more like self-defense.\n\nPayday hits and suddenly Target, Amazon, DoorDash, and every restaurant within 10 miles start calling your name.\n\nSometimes staying home really is the cheapest hobby.",
+          "likes": 424,
+          "comments": 19,
+          "shares": 40,
+          "topReactionsCount": 5,
+          "media": [
+            {
+              "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/790562677_28315631168063721_3631700400265418004_n.png?stp=dst-jpg_tt6&cstp=mx1206x1163&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k-Wz79Be4tIQ7kNvwHyvY6D&_nc_oc=AdoD-sTiUPeaNIK6I7yU8ev0JAoPF2D5bQnEy1mZEKmfhGZSKWvbucDqqW_iL0CA-lOAHeeE_3W2LWADXne8qVOK&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQLvyv7E2NniCHYhrDL7tCHGeNdL0oWWmIL1IxGjyaGyKQ&oe=6AB6F2CD",
+              "__typename": "Photo",
+              "__isMedia": "Photo",
+              "accent_color": "FFFFFFFF",
+              "photo_product_tags": [],
+              "photo_image": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/790562677_28315631168063721_3631700400265418004_n.png?stp=dst-jpg_tt6&cstp=mx1206x1163&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=k-Wz79Be4tIQ7kNvwHyvY6D&_nc_oc=AdoD-sTiUPeaNIK6I7yU8ev0JAoPF2D5bQnEy1mZEKmfhGZSKWvbucDqqW_iL0CA-lOAHeeE_3W2LWADXne8qVOK&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQLvyv7E2NniCHYhrDL7tCHGeNdL0oWWmIL1IxGjyaGyKQ&oe=6AB6F2CD",
+                "height": 507,
+                "width": 526
+              },
+              "url": "https://www.facebook.com/photo/?fbid=1903723250953385&set=a.782814696377585",
+              "id": "1903723250953385",
+              "feedback": {
+                "can_viewer_comment": false,
+                "id": "ZmVlZGJhY2s6MTkwMzcyMzI3NDI4NjcxNg=="
+              },
+              "ocrText": "May be an image of money and text that says 'stefonique Got paid today. So I locked myself in my apt and refused to leave. That's my budgeting strategy. Hit me up for more financial tips 15.3K 229 888 258 humor:'"
+            }
+          ],
+          "feedbackId": "ZmVlZGJhY2s6MTkwMzcyMzI3NDI4NjcxNg==",
+          "reactionLikeCount": 251,
+          "reactionHahaCount": 155,
+          "reactionLoveCount": 14,
+          "reactionCareCount": 3,
+          "reactionWowCount": 1,
+          "paidPartnership": false,
+          "topComments": [
+            {
+              "commentUrl": "https://www.facebook.com/GoodFinancialCents/posts/pfbid02XY4F1wFAhRVjs3mMrUbpxbkoYKMoV3nvpEPhWgeZNMuNntiBBwB6DSLJRnf6h8Hl?comment_id=2641318573053317",
+              "commentId": "2641318573053317",
+              "id": "Y29tbWVudDoxOTAzNzIzMjc0Mjg2NzE2XzI2NDEzMTg1NzMwNTMzMTc=",
+              "feedbackId": "ZmVlZGJhY2s6MTkwMzcyMzI3NDI4NjcxNl8yNjQxMzE4NTczMDUzMzE3",
+              "date": "2026-09-21T04:14:22.000Z",
+              "text": "My bank account is safest when I’m asleep.",
+              "author": {
+                "__typename": "User",
+                "id": "100039471860412",
+                "name": "Good Financial Cents",
+                "__isActor": "User",
+                "profile_picture_depth_0": {
+                  "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s32x32&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwGKFpoJ&_nc_oc=Ado6lKpt7b7zE9cthT44uHkYmoBY5ofDRpA6Q4F-Sr9OCrafRqyo8FqJKIeR7_uqO4dpMJzH1Em4SdjtBjMGjduy&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQKe4H9kVESeBJyZXyJQQrVBX-hWK9Dsg4jlNUj_NhJdyw&oe=6AB6ED6D"
+                },
+                "profile_picture_depth_1": {
+                  "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s24x24&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwGKFpoJ&_nc_oc=Ado6lKpt7b7zE9cthT44uHkYmoBY5ofDRpA6Q4F-Sr9OCrafRqyo8FqJKIeR7_uqO4dpMJzH1Em4SdjtBjMGjduy&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQKe4H9kVESeBJyZXyJQQrVBX-hWK9Dsg4jlNUj_NhJdyw&oe=6AB6ED6D"
+                },
+                "gender": "MALE",
+                "__isEntity": "User",
+                "url": "https://www.facebook.com/GoodFinancialCents",
+                "work_info": null,
+                "is_verified": true,
+                "short_name": "Good Financial Cents",
+                "subscribe_status": "CANNOT_SUBSCRIBE"
+              },
+              "profileUrl": "https://www.facebook.com/GoodFinancialCents",
+              "profilePicture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_tt6&cstp=mx1000x1000&ctp=s32x32&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwGKFpoJ&_nc_oc=Ado6lKpt7b7zE9cthT44uHkYmoBY5ofDRpA6Q4F-Sr9OCrafRqyo8FqJKIeR7_uqO4dpMJzH1Em4SdjtBjMGjduy&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=yDTS9NVecIksFBkjPC3YBg&_nc_ss=73289&oh=00_AQKe4H9kVESeBJyZXyJQQrVBX-hWK9Dsg4jlNUj_NhJdyw&oe=6AB6ED6D",
+              "profileId": "100039471860412",
+              "profileName": "Good Financial Cents",
+              "likesCount": "12",
+              "threadingDepth": 0
+            }
+          ],
+          "topLevelUrl": "https://www.facebook.com/100039471860412/posts/1903723274286716",
+          "facebookId": "100039471860412",
+          "pageAdLibrary": {
+            "id": "68312650259",
+            "pamv_comms_data": null
+          },
+          "inputUrl": "https://www.facebook.com/GoodFinancialCents"
+        }
+      ]
+    }
+  ]
+}

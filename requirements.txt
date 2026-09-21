@@ -1,0 +1,11 @@
+# Install:  pip install -r requirements.txt
+# Playwright also needs its browsers:  playwright install chromium
+
+requests>=2.32.5
+beautifulsoup4>=4.15.0
+python-dotenv>=1.2.2
+pypdf>=6.19.0
+python-dateutil>=2.9.0
+
+# Used only by the Aetna network-capture / widget-inspect tests.
+playwright>=1.63.0

@@ -1,0 +1,48 @@
+{
+  "retrieval_timestamp_utc": "2026-09-17T12:23:37.919411+00:00",
+  "mechanism": "requests GET of individual CPB detail HTML pages (test_aetna_cpb_detail.py), parsing <meta name=\"aet.cpbNumber\">, <meta name=\"aet.cpbType\">, <meta name=\"aet.lastReviewDate\">, <meta name=\"aet.anticipatedReviewDate\">",
+  "purpose": "Spot-check / cross-validation sample only (4 hardcoded pain-management-relevant CPBs) -- NOT the top-100 activities dataset. Used to independently confirm mcpb-changes.xml dates are genuine (see cross_check on CPB 0863).",
+  "records": [
+    {
+      "cpb_number": "0016",
+      "cpb_name": "Back Pain - Invasive Procedures",
+      "url": "https://www.aetna.com/cpb/medical/data/1_99/0016.html",
+      "cpb_type": "Medical",
+      "last_review_date": "2026-02-11",
+      "next_review_date": "2026-01-08",
+      "http_last_modified_header": "Wed, 11 Feb 2026 23:54:05 GMT",
+      "source": "meta[name=aet.lastReviewDate] / meta[name=aet.anticipatedReviewDate] on live CPB detail page"
+    },
+    {
+      "cpb_number": "0722",
+      "cpb_name": "Transforaminal Epidural Injections",
+      "url": "https://www.aetna.com/cpb/medical/data/700_799/0722.html",
+      "cpb_type": "Medical",
+      "last_review_date": "2025-10-20",
+      "next_review_date": "2026-08-13",
+      "http_last_modified_header": "Tue, 21 Oct 2025 02:00:47 GMT",
+      "source": "meta[name=aet.lastReviewDate] / meta[name=aet.anticipatedReviewDate] on live CPB detail page"
+    },
+    {
+      "cpb_number": "0863",
+      "cpb_name": "Nerve Blocks",
+      "url": "https://www.aetna.com/cpb/medical/data/800_899/0863.html",
+      "cpb_type": "Medical",
+      "last_review_date": "2026-07-23",
+      "next_review_date": "2026-10-08",
+      "http_last_modified_header": "Fri, 24 Jul 2026 05:41:57 GMT",
+      "source": "meta[name=aet.lastReviewDate] / meta[name=aet.anticipatedReviewDate] on live CPB detail page",
+      "cross_check": "Matches mcpb-changes.xml row-index=145: date 07/23/2026, status 02-Revised -- exact date match confirms feed accuracy."
+    },
+    {
+      "cpb_number": "0934",
+      "cpb_name": "Epidural Injection Technologies",
+      "url": "https://www.aetna.com/cpb/medical/data/900_999/0934.html",
+      "cpb_type": "Medical",
+      "last_review_date": "2025-04-08",
+      "next_review_date": "2026-10-08",
+      "http_last_modified_header": "Wed, 09 Apr 2025 05:35:17 GMT",
+      "source": "meta[name=aet.lastReviewDate] / meta[name=aet.anticipatedReviewDate] on live CPB detail page"
+    }
+  ]
+}

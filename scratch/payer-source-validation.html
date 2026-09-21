@@ -1,0 +1,753 @@
+<title>Payer Source Validation</title>
+<style>
+  :root{
+    --bg:#F3F4F7;
+    --surface:#FFFFFF;
+    --surface-2:#EBEDF3;
+    --border:#DCDFE8;
+    --border-strong:#C6CAD8;
+    --text:#1A1D29;
+    --text-muted:#5B6072;
+    --text-faint:#868C9E;
+    --accent:#3B4590;
+    --accent-strong:#2B3270;
+    --accent-soft:#E7E9F7;
+    --good:#187A4E;
+    --good-soft:#DFF3E9;
+    --good-border:#B7E2CB;
+    --warn:#9C6208;
+    --warn-soft:#FBEED9;
+    --warn-border:#F0D6A0;
+    --bad:#B23434;
+    --bad-soft:#FBE4E4;
+    --bad-border:#F0BEBE;
+    --code-bg:#EEF0F6;
+    --shadow: 0 1px 2px rgba(20,22,40,0.04), 0 8px 24px -12px rgba(20,22,40,0.12);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#13151F;
+      --surface:#1A1D2B;
+      --surface-2:#20233333;
+      --surface-2:#232635;
+      --border:#333750;
+      --border-strong:#454A6B;
+      --text:#E9EAF2;
+      --text-muted:#A3A8C0;
+      --text-faint:#767C99;
+      --accent:#9BA3F0;
+      --accent-strong:#B7BDF5;
+      --accent-soft:#282C55;
+      --good:#57D6A0;
+      --good-soft:#153A2C;
+      --good-border:#1F5A41;
+      --warn:#F0BB5C;
+      --warn-soft:#3C2E10;
+      --warn-border:#5C471A;
+      --bad:#F08585;
+      --bad-soft:#3E1F20;
+      --bad-border:#5C2C2C;
+      --code-bg:#1E2133;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#13151F;
+    --surface:#1A1D2B;
+    --surface-2:#232635;
+    --border:#333750;
+    --border-strong:#454A6B;
+    --text:#E9EAF2;
+    --text-muted:#A3A8C0;
+    --text-faint:#767C99;
+    --accent:#9BA3F0;
+    --accent-strong:#B7BDF5;
+    --accent-soft:#282C55;
+    --good:#57D6A0;
+    --good-soft:#153A2C;
+    --good-border:#1F5A41;
+    --warn:#F0BB5C;
+    --warn-soft:#3C2E10;
+    --warn-border:#5C471A;
+    --bad:#F08585;
+    --bad-soft:#3E1F20;
+    --bad-border:#5C2C2C;
+    --code-bg:#1E2133;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px -12px rgba(0,0,0,0.5);
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:"IBM Plex Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height:1.5;
+    padding-inline:20px;
+    max-width:100%;
+    overflow-x:hidden;
+  }
+  h1,h2,h3,h4{
+    font-family:"Source Serif 4", Georgia, serif;
+    font-weight:600;
+    text-wrap:balance;
+    color:var(--text);
+    margin:0;
+  }
+  code, .mono, .mono-num{
+    font-family:"IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  .mono-num{ font-variant-numeric:tabular-nums; }
+  a{ color:var(--accent); }
+  p{ margin:0; }
+
+  .wrap{ max-width:920px; margin:0 auto; padding-block:40px 80px; }
+
+  /* ---------- header ---------- */
+  header.hero{ display:flex; flex-direction:column; gap:14px; margin-bottom:36px; }
+  .eyebrow{
+    font-family:"IBM Plex Mono", monospace;
+    font-size:12.5px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--accent);
+    font-weight:600;
+  }
+  header.hero h1{ font-size:clamp(28px,5vw,40px); line-height:1.15; }
+  header.hero .sub{ font-size:16px; color:var(--text-muted); max-width:62ch; }
+  .meta-row{
+    display:flex; flex-wrap:wrap; gap:8px 20px; margin-top:6px;
+    font-size:13px; color:var(--text-faint);
+  }
+  .meta-row span{ display:flex; align-items:center; gap:6px; }
+  .meta-row b{ color:var(--text-muted); font-weight:600; }
+
+  nav.jump{
+    display:flex; flex-wrap:wrap; gap:8px;
+    margin:28px 0 8px;
+    padding:10px 12px;
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:10px;
+  }
+  nav.jump a{
+    font-size:13px; font-weight:600; text-decoration:none;
+    color:var(--text-muted);
+    padding:4px 10px; border-radius:6px;
+  }
+  nav.jump a:hover{ background:var(--accent-soft); color:var(--accent); }
+
+  /* ---------- section scaffolding ---------- */
+  section{ margin-top:56px; scroll-margin-top:16px; }
+  section > .section-head{ margin-bottom:18px; }
+  section > .section-head .num{
+    font-family:"IBM Plex Mono",monospace; font-size:12.5px; color:var(--text-faint);
+    letter-spacing:0.06em; text-transform:uppercase; display:block; margin-bottom:4px;
+  }
+  section > .section-head h2{ font-size:clamp(21px,3.4vw,27px); }
+  section > .section-head .desc{ color:var(--text-muted); font-size:14.5px; margin-top:6px; max-width:68ch; }
+
+  /* ---------- verdict pill ---------- */
+  .pill{
+    display:inline-flex; align-items:center; gap:5px;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:11.5px; font-weight:600; letter-spacing:0.02em;
+    padding:3px 9px; border-radius:100px; border:1px solid transparent;
+    white-space:nowrap;
+  }
+  .pill.good{ background:var(--good-soft); color:var(--good); border-color:var(--good-border); }
+  .pill.warn{ background:var(--warn-soft); color:var(--warn); border-color:var(--warn-border); }
+  .pill.bad{ background:var(--bad-soft); color:var(--bad); border-color:var(--bad-border); }
+  .pill::before{ content:""; width:6px; height:6px; border-radius:50%; background:currentColor; flex:none; }
+
+  .legend{ display:flex; flex-wrap:wrap; gap:16px; font-size:13px; color:var(--text-muted); margin-top:14px; }
+  .legend span{ display:flex; align-items:center; gap:7px; }
+
+  /* ---------- scoreboard ---------- */
+  .scoreboard{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:14px;
+  }
+  .score-card{
+    background:var(--surface); border:1px solid var(--border); border-radius:12px;
+    padding:16px 18px; box-shadow:var(--shadow);
+    display:flex; flex-direction:column; gap:10px;
+  }
+  .score-card h3{ font-family:"IBM Plex Sans",sans-serif; font-size:14.5px; font-weight:700; }
+  .score-list{ display:flex; flex-direction:column; gap:8px; }
+  .score-row{ display:flex; align-items:center; justify-content:space-between; gap:10px; font-size:13px; }
+  .score-row .label{ color:var(--text-muted); }
+
+  /* ---------- methodology strip ---------- */
+  .method-grid{
+    display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px;
+  }
+  .method-card{
+    border:1px dashed var(--border-strong); border-radius:10px; padding:14px 16px;
+    background:var(--surface-2);
+  }
+  .method-card .tag{ font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--accent); text-transform:uppercase; letter-spacing:.06em; }
+  .method-card p{ font-size:13.5px; color:var(--text-muted); margin-top:6px; }
+
+  /* ---------- source cards ---------- */
+  .source-grid{ display:grid; grid-template-columns:1fr; gap:16px; }
+  .source-card{
+    background:var(--surface); border:1px solid var(--border); border-radius:14px;
+    box-shadow:var(--shadow); overflow:hidden;
+  }
+  .source-card .head{
+    padding:16px 20px; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:10px;
+    border-bottom:1px solid var(--border);
+  }
+  .source-card .head h3{ font-size:16.5px; }
+  .source-card .body{ padding:16px 20px 18px; display:flex; flex-direction:column; gap:12px; }
+  .source-url{
+    font-size:12px; color:var(--text-faint); word-break:break-all;
+    background:var(--code-bg); padding:6px 10px; border-radius:6px; display:block;
+  }
+  .fact{ font-size:14px; color:var(--text-muted); }
+  .fact b{ color:var(--text); font-weight:600; }
+  .chiprow{ display:flex; flex-wrap:wrap; gap:6px; }
+  .chip{
+    font-size:11.5px; font-family:"IBM Plex Mono",monospace;
+    background:var(--surface-2); color:var(--text-muted);
+    padding:3px 8px; border-radius:6px; border:1px solid var(--border);
+  }
+  .evidence{
+    font-family:"IBM Plex Mono",monospace; font-size:12.5px;
+    background:var(--code-bg); border-left:3px solid var(--accent);
+    padding:10px 12px; border-radius:0 8px 8px 0; color:var(--text);
+    white-space:pre-wrap; word-break:break-word;
+  }
+  .caveat{
+    font-size:13px; color:var(--warn); background:var(--warn-soft);
+    border:1px solid var(--warn-border); border-radius:8px; padding:8px 12px;
+  }
+
+  details.sheet{ border-top:1px solid var(--border); }
+  details.sheet summary{
+    cursor:pointer; list-style:none; padding:12px 20px;
+    font-size:13px; font-weight:600; color:var(--accent);
+    display:flex; align-items:center; gap:6px;
+    background:var(--surface-2);
+  }
+  details.sheet summary::-webkit-details-marker{ display:none; }
+  details.sheet summary::before{ content:"▸"; font-size:11px; transition:transform .15s ease; }
+  details.sheet[open] summary::before{ transform:rotate(90deg); }
+  .sheet-table{ padding:14px 20px 18px; overflow-x:auto; }
+  table.fields{ width:100%; border-collapse:collapse; font-size:13px; min-width:480px; }
+  table.fields tr{ border-top:1px solid var(--border); }
+  table.fields tr:first-child{ border-top:none; }
+  table.fields td{ padding:9px 6px; vertical-align:top; }
+  table.fields td:first-child{
+    width:150px; font-weight:600; color:var(--text-muted); white-space:nowrap;
+    font-family:"IBM Plex Mono",monospace; font-size:11.5px; text-transform:uppercase; letter-spacing:.03em;
+  }
+
+  /* ---------- mapping table ---------- */
+  .table-wrap{ overflow-x:auto; border:1px solid var(--border); border-radius:12px; background:var(--surface); box-shadow:var(--shadow); }
+  table.data{ width:100%; border-collapse:collapse; min-width:720px; font-size:13.5px; }
+  table.data th{
+    text-align:left; font-family:"IBM Plex Mono",monospace; font-size:11px; text-transform:uppercase;
+    letter-spacing:.04em; color:var(--text-faint); font-weight:600;
+    padding:12px 14px; border-bottom:1px solid var(--border-strong); background:var(--surface-2);
+  }
+  table.data td{ padding:12px 14px; border-bottom:1px solid var(--border); vertical-align:top; color:var(--text-muted); }
+  table.data tr:last-child td{ border-bottom:none; }
+  table.data td.strong{ color:var(--text); font-weight:600; }
+  table.data td code{ background:var(--code-bg); padding:1px 5px; border-radius:4px; font-size:12px; }
+  .concept-badges{ display:flex; gap:5px; flex-wrap:wrap; }
+  .badge{
+    font-family:"IBM Plex Mono",monospace; font-size:10.5px; font-weight:700;
+    color:var(--accent); background:var(--accent-soft); border-radius:5px; padding:2px 6px;
+  }
+
+  /* ---------- calc blocks ---------- */
+  .calc-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; }
+  .calc-card{ background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px 18px; box-shadow:var(--shadow); }
+  .calc-card h4{ font-family:"IBM Plex Sans",sans-serif; font-size:14px; margin-bottom:8px; }
+  .calc-card pre{
+    margin:0; font-family:"IBM Plex Mono",monospace; font-size:12px; line-height:1.6;
+    background:var(--code-bg); padding:10px 12px; border-radius:8px; overflow-x:auto; color:var(--text);
+  }
+
+  /* ---------- comparison table cell marks ---------- */
+  .yes{ color:var(--good); font-weight:700; }
+  .no{ color:var(--bad); font-weight:700; }
+  .mid{ color:var(--warn); font-weight:700; }
+
+  /* ---------- footer ---------- */
+  footer{ margin-top:60px; padding-top:24px; border-top:1px solid var(--border); }
+  footer h4{ font-family:"IBM Plex Sans",sans-serif; font-size:13px; text-transform:uppercase; letter-spacing:.05em; color:var(--text-faint); margin-bottom:10px; }
+  .script-list{ display:flex; flex-wrap:wrap; gap:7px; margin-bottom:20px; }
+  .script-list code{ background:var(--code-bg); padding:4px 8px; border-radius:6px; font-size:12px; }
+  footer .closing{ font-size:14px; color:var(--text-muted); max-width:70ch; }
+
+  @media (max-width:600px){
+    .wrap{ padding-block:28px 60px; }
+    .source-card .head{ flex-direction:column; align-items:flex-start; }
+  }
+</style>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap">
+
+<div class="wrap">
+
+  <header class="hero">
+    <span class="eyebrow">SLD · Social Listening Dashboard — Week 1</span>
+    <h1>Payer Source Validation: Aetna &amp; Cigna</h1>
+    <p class="sub">Nine public sources were requested, parsed, and cross-checked before any verdict was assigned — including a browser network capture that uncovered Aetna's undocumented "What's New" data feed. Nothing below is a projection of what a source <em>should</em> provide.</p>
+    <div class="meta-row">
+      <span><b>9</b> sources tested</span>
+      <span><b>13</b> test scripts written</span>
+      <span><b>2</b> payers (Aetna, Cigna)</span>
+      <span><b>2</b> benchmarks (CMS, UHC)</span>
+      <span>Updated 2026-09-17</span>
+    </div>
+  </header>
+
+  <nav class="jump">
+    <a href="#scoreboard">Scoreboard</a>
+    <a href="#method">Methodology</a>
+    <a href="#aetna">Aetna</a>
+    <a href="#cigna">Cigna</a>
+    <a href="#mapping">Dashboard mapping</a>
+    <a href="#calc">Calculation logic</a>
+    <a href="#comparison">Comparison</a>
+  </nav>
+
+  <section id="scoreboard">
+    <div class="section-head">
+      <span class="num">01 — At a glance</span>
+      <h2>Verdict scoreboard</h2>
+      <p class="desc">Every verdict below traces back to an actual HTTP response, PDF extraction, or captured network request in the source sheets further down the page.</p>
+    </div>
+
+    <div class="scoreboard">
+      <div class="score-card">
+        <h3>Aetna</h3>
+        <div class="score-list">
+          <div class="score-row"><span class="label">CPB detail pages</span><span class="pill good">green</span></div>
+          <div class="score-row"><span class="label">What's New data feed</span><span class="pill warn">yellow</span></div>
+          <div class="score-row"><span class="label">Precertification PDF</span><span class="pill good">green</span></div>
+          <div class="score-row"><span class="label">Reimbursement policies</span><span class="pill bad">red</span></div>
+        </div>
+      </div>
+      <div class="score-card">
+        <h3>Cigna</h3>
+        <div class="score-list">
+          <div class="score-row"><span class="label">Medical A–Z index</span><span class="pill good">green</span></div>
+          <div class="score-row"><span class="label">Coverage policy PDFs</span><span class="pill good">green</span></div>
+          <div class="score-row"><span class="label">Monthly update bulletin</span><span class="pill good">green</span></div>
+          <div class="score-row"><span class="label">eviCore delegated UM</span><span class="pill warn">yellow</span></div>
+          <div class="score-row"><span class="label">Reimbursement policies</span><span class="pill bad">red</span></div>
+        </div>
+      </div>
+      <div class="score-card">
+        <h3>Benchmarks <span style="font-weight:400;color:var(--text-faint)">(prior weeks)</span></h3>
+        <div class="score-list">
+          <div class="score-row"><span class="label">CMS Coverage API</span><span class="pill good">green</span></div>
+          <div class="score-row"><span class="label">UHC policy + bulletins</span><span class="pill good">green</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="legend">
+      <span class="pill good">good</span> use as-is
+      <span class="pill warn">warn</span> usable with a stated caveat
+      <span class="pill bad">bad</span> not accessible without auth — not pursued
+    </div>
+  </section>
+
+  <section id="method">
+    <div class="section-head">
+      <span class="num">02 — How this was tested</span>
+      <h2>Methodology</h2>
+      <p class="desc">No source was marked usable from a search snippet or a vendor's description of itself. Every claim below is backed by one of these four techniques.</p>
+    </div>
+    <div class="method-grid">
+      <div class="method-card">
+        <span class="tag">requests</span>
+        <p>Direct HTTP calls to index pages, HTML listings, and PDF endpoints — status code, content-type, and size logged for every hit.</p>
+      </div>
+      <div class="method-card">
+        <span class="tag">BeautifulSoup</span>
+        <p>Parsed HTML link structures, meta tags, and page text to find discovery indexes and per-policy structured metadata.</p>
+      </div>
+      <div class="method-card">
+        <span class="tag">pypdf</span>
+        <p>Extracted full text from coverage-policy and bulletin PDFs to confirm sections, dates, and CPT/ICD-10 code tables actually exist.</p>
+      </div>
+      <div class="method-card">
+        <span class="tag">Playwright</span>
+        <p>Loaded pages in headless Chromium and captured real network traffic — the DevTools equivalent — to find data feeds hidden behind JS widgets.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="aetna">
+    <div class="section-head">
+      <span class="num">03 — Payer 1</span>
+      <h2>Aetna</h2>
+      <p class="desc">Public clinical policy bulletins gave clean structured metadata but no visible changelog — until a captured network request exposed the JSON feed behind Aetna's own "What's New" widget.</p>
+    </div>
+
+    <div class="source-grid">
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Individual CPB detail pages</h3>
+          <span class="pill good">green</span>
+        </div>
+        <div class="body">
+          <span class="source-url">aetna.com/cpb/medical/data/{range}/{number}.html</span>
+          <p class="fact">Clinical coverage criteria per procedure — medical necessity rules, exclusions, and applicable CPT/ICD-10 codes. Every meta tag below was confirmed on 9 tested CPBs (0011, 0016, 0194, 0232, 0722, 0735, 0805, 0863, 0934).</p>
+          <div class="chiprow">
+            <span class="chip">aet.cpbNumber</span>
+            <span class="chip">aet.cpbType</span>
+            <span class="chip">aet.lastReviewDate</span>
+            <span class="chip">aet.anticipatedReviewDate</span>
+            <span class="chip">HTTP Last-Modified</span>
+          </div>
+          <div class="evidence">CPB 0863 "Nerve Blocks" → lastReviewDate: 2026-07-23
+Last-Modified header: Fri, 24 Jul 2026 05:41:57 GMT</div>
+        </div>
+        <details class="sheet">
+          <summary>Full source sheet</summary>
+          <div class="sheet-table">
+            <table class="fields">
+              <tr><td>Auth</td><td>None</td></tr>
+              <tr><td>Query by</td><td>CPB number only — one page per request</td></tr>
+              <tr><td>History</td><td>No inline changelog on the page itself; only a "last reviewed" snapshot date</td></tr>
+              <tr><td>Limits</td><td>Not documented; no throttling observed across 9 test pulls</td></tr>
+              <tr><td>Reliability</td><td>High — consistent structure across every CPB tested</td></tr>
+              <tr><td>Dashboard use</td><td>Guideline Changes; Payer × Procedure detail drill-in</td></tr>
+            </table>
+          </div>
+        </details>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>"What's New" data feed <span style="font-weight:400;color:var(--text-faint);font-size:13px;">(found via network capture)</span></h3>
+          <span class="pill warn">yellow</span>
+        </div>
+        <div class="body">
+          <span class="source-url">aetna.com/content/services/aetna/xmlfilter?source=…mcpb-changes.xml…</span>
+          <p class="fact">Not visible in a plain HTML fetch — only surfaced by loading the page in headless Chromium and reading real network requests. Public JSON, no auth: the same endpoint the page's own dropdown widgets call. Cascading filter: <b>status → month → date → results</b>.</p>
+          <div class="chiprow">
+            <span class="chip">status: New/Revised/Updated/Deleted</span>
+            <span class="chip">date</span>
+            <span class="chip">url</span>
+          </div>
+          <div class="evidence">filterValues=02-Revised → 217 entries
+Cross-check: CPB 0863 listed as Revised on 07/23/2026
+— exactly matches its lastReviewDate meta tag above.</div>
+          <p class="caveat">Undocumented internal endpoint, not a published API — no SLA, could change without notice. Window observed was a rolling ~4 months (Apr–Aug 2026), not full history.</p>
+        </div>
+        <details class="sheet">
+          <summary>Full source sheet</summary>
+          <div class="sheet-table">
+            <table class="fields">
+              <tr><td>Auth</td><td>None — same public endpoint the page's JS calls; no bypass involved</td></tr>
+              <tr><td>Query by</td><td>Status, or month + date; a second chain (listing → letter) returns the full alphabetical CPB index</td></tr>
+              <tr><td>History</td><td>Yes — this is the actual changelog. 5 New / 217 Revised / 134 Updated / 2 Deleted at time of test</td></tr>
+              <tr><td>Reliability</td><td>Verified and cross-validated against a second source (CPB meta tag)</td></tr>
+              <tr><td>Dashboard use</td><td>Changes Since Last Check; Guideline Changes; Signal Trend; Weekly Overview</td></tr>
+            </table>
+          </div>
+        </details>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Precertification list (PDF)</h3>
+          <span class="pill good">green</span>
+        </div>
+        <div class="body">
+          <span class="source-url">aetna.com/.../2026_Precert_List.pdf</span>
+          <p class="fact">45-page PDF, updated September 1, 2026, with an explicit "Pain management" section. Every pain-related CPT code checked was present.</p>
+          <div class="chiprow">
+            <span class="chip">64483/64484 ESI</span>
+            <span class="chip">64635/64636 facet RFA</span>
+            <span class="chip">63650/63685 SCS</span>
+            <span class="chip">22513/22514 kyphoplasty</span>
+            <span class="chip">64553–64561 PNS</span>
+          </div>
+          <p class="caveat">Current snapshot confirmed only — whether older monthly versions exist at predictable URLs (like Cigna's bulletin archive) is not yet verified.</p>
+        </div>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Reimbursement / payment policies</h3>
+          <span class="pill bad">red</span>
+        </div>
+        <div class="body">
+          <span class="source-url">aetna.com/health-care-professionals/claims-payment-reimbursement.html</span>
+          <p class="fact">Page loads fine but is a navigation hub with only 2 unrelated PDFs — no public coding/reimbursement library like UHC's. Actual policies sit behind the Availity provider-portal login. Not pursued, per instruction not to bypass authentication.</p>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <section id="cigna">
+    <div class="section-head">
+      <span class="num">04 — Payer 2</span>
+      <h2>Cigna</h2>
+      <p class="desc">The strongest source set found so far: public medical policies each carry a genuine dated changelog, and a monthly cross-policy bulletin archives back to January 2023.</p>
+    </div>
+
+    <div class="source-grid">
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Medical A–Z coverage index</h3>
+          <span class="pill good">green</span>
+        </div>
+        <div class="body">
+          <span class="source-url">static.cigna.com/.../coveragePolicies/medical_a-z.html</span>
+          <p class="fact">Static HTML discovery index — 292 links total, 26 matched pain-management keywords directly, each with a policy number and a direct PDF link.</p>
+        </div>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Coverage policy PDFs</h3>
+          <span class="pill good">green</span>
+        </div>
+        <div class="body">
+          <span class="source-url">static.cigna.com/.../medical/mm_XXXX_....pdf</span>
+          <p class="fact">Confirmed on 4 policies (0525 Peripheral Nerve Destruction/RFA, 0539 Peripheral Nerve Stimulation, 0551 Anesthesia for Interventional Pain Mgmt, 0139 Back Pain/Trigger Point Injections). Each carries a real <b>Revision Details</b> table — not just a snapshot date.</p>
+          <div class="chiprow">
+            <span class="chip">Effective Date</span>
+            <span class="chip">Next Review Date</span>
+            <span class="chip">Coverage Policy Number</span>
+            <span class="chip">Revision Details table</span>
+          </div>
+          <div class="evidence">CPB 0139 Revision Details:
+"Focused Review 11/1/2024 — Removed policy statements
+for... intraosseous basivertebral nerve ablation (Intracept)
+... Title change."</div>
+        </div>
+        <details class="sheet">
+          <summary>Full source sheet</summary>
+          <div class="sheet-table">
+            <table class="fields">
+              <tr><td>Auth</td><td>None</td></tr>
+              <tr><td>History</td><td>Yes — Type of Revision / Summary of Changes / Date, back to 2023–2024 per policy</td></tr>
+              <tr><td>Reliability</td><td>High — 4/4 tested policies returned 200 OK with identical structure</td></tr>
+              <tr><td>Dashboard use</td><td>Guideline Changes; Payer × Procedure; Client Intelligence evidence links</td></tr>
+              <tr><td>Verdict rationale</td><td>Strongest single source across all four payers evaluated so far</td></tr>
+            </table>
+          </div>
+        </details>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Monthly policy update bulletin</h3>
+          <span class="pill good">green</span>
+        </div>
+        <div class="body">
+          <span class="source-url">static.cigna.com/.../policy_updates/{month}_{year}_policy_updates.pdf</span>
+          <p class="fact">Predictable URL pattern, archived publicly back to January 2023. September 2026 edition (36 pages) tested directly.</p>
+          <div class="evidence">Live example found: "Added policy statement for
+diagnostic nerve block for suspected LFCN involvement."</div>
+          <p class="caveat">The bulletin itself states asterisked reimbursement/payment sections require CignaforHCP.com login — the medical-policy portion tested here is not gated.</p>
+        </div>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>eviCore delegated UM guidelines</h3>
+          <span class="pill warn">yellow</span>
+        </div>
+        <div class="body">
+          <span class="source-url">evicore.com/sites/default/files/clinical-guidelines/...</span>
+          <p class="fact">Cigna's own cover PDF names the delegated modules (CMM-200 ESI, CMM-201 Facet/MBB, CMM-203 SI Joint, CMM-208 RF Ablation, CMM-211 SCS/PNS); the CMM-200 guideline itself confirmed live on evicore.com. Filenames encode version + effective + publish dates.</p>
+          <p class="caveat">The source document itself states this applies only "in certain markets" — must not be presented as universal Cigna policy.</p>
+        </div>
+      </article>
+
+      <article class="source-card">
+        <div class="head">
+          <h3>Reimbursement policies &amp; delegated PA list</h3>
+          <span class="pill bad">red</span>
+        </div>
+        <div class="body">
+          <span class="source-url">static.cigna.com/.../clinicalReimbursementPayment/...</span>
+          <p class="fact">Hub pages return 200 but only link to navigation pages — the actual PDF listing 404'd. Cigna's own MSK/spine precert page confirms the CPT prior-auth list lives on evicore.com/Cigna, not cigna.com; that list itself was not yet fetched.</p>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <section id="mapping">
+    <div class="section-head">
+      <span class="num">05 — Wiring it up</span>
+      <h2>Dashboard mapping</h2>
+      <p class="desc">How each tested source turns into a normalized field set, then a signal, then a specific panel on one of the three dashboard concepts.</p>
+    </div>
+    <div class="table-wrap">
+      <table class="data">
+        <tr>
+          <th>Source</th><th>Normalized fields</th><th>Signal produced</th><th>Used by</th>
+        </tr>
+        <tr>
+          <td class="strong">Aetna CPB page</td>
+          <td><code>payer</code>, <code>policy_number</code>, <code>procedure</code>, <code>change_date</code></td>
+          <td>"Guideline last reviewed on X"</td>
+          <td><div class="concept-badges"><span class="badge">C1</span><span class="badge">C2</span></div></td>
+        </tr>
+        <tr>
+          <td class="strong">Aetna What's New feed</td>
+          <td>+ <code>change_type</code> (New/Revised/Updated/Deleted), <code>source_url</code></td>
+          <td>"Policy revised/updated" event</td>
+          <td><div class="concept-badges"><span class="badge">C1</span><span class="badge">C2</span></div></td>
+        </tr>
+        <tr>
+          <td class="strong">Aetna precert PDF</td>
+          <td><code>procedure</code>, <code>pa_required</code>, <code>effective_date</code></td>
+          <td>Prior-auth requirement flag</td>
+          <td><div class="concept-badges"><span class="badge">C2</span></div></td>
+        </tr>
+        <tr>
+          <td class="strong">Cigna policy PDF</td>
+          <td>+ <code>change_type</code> (Annual/Focused Review), <code>change_summary</code></td>
+          <td>"Policy X changed: &lt;summary&gt;"</td>
+          <td><div class="concept-badges"><span class="badge">C1</span><span class="badge">C2</span><span class="badge">C3</span></div></td>
+        </tr>
+        <tr>
+          <td class="strong">Cigna monthly bulletin</td>
+          <td>+ <code>status</code>, <code>posted_date</code>, <code>effective_date</code></td>
+          <td>"N policies changed this month"</td>
+          <td><div class="concept-badges"><span class="badge">C1</span><span class="badge">C2</span></div></td>
+        </tr>
+        <tr>
+          <td class="strong">Cigna / eviCore guideline</td>
+          <td>+ <code>delegated=true</code>, <code>market_scope=limited</code></td>
+          <td>"Guideline updated (delegated UM)"</td>
+          <td><div class="concept-badges"><span class="badge">C1</span><span class="badge">C2</span></div></td>
+        </tr>
+      </table>
+    </div>
+    <p class="fact" style="margin-top:10px;font-size:13px;">C1 = Executive Risk Radar · C2 = RCM Change Center · C3 = Client Intelligence</p>
+  </section>
+
+  <section id="calc">
+    <div class="section-head">
+      <span class="num">06 — No LLM required</span>
+      <h2>Calculation logic</h2>
+      <p class="desc">Plain Python/SQL against the normalized fields above — nothing here needs a model call.</p>
+    </div>
+    <div class="calc-grid">
+      <div class="calc-card">
+        <h4>Guideline Changes count</h4>
+        <pre>COUNT(DISTINCT policy_number)
+WHERE source IN ('Aetna','Cigna')
+  AND change_date >= period_start</pre>
+      </div>
+      <div class="calc-card">
+        <h4>Changes since last check</h4>
+        <pre>new_signal =
+  change_date > last_successful_check
+
+-- Aetna: from the What's New feed
+-- Cigna: from Revision Details or
+--        bulletin posted_date</pre>
+      </div>
+      <div class="calc-card">
+        <h4>Payer × Procedure trend</h4>
+        <pre>GROUP BY payer, procedure
+pct_change = (curr - prev) / prev * 100
+IF prev == 0: label = "New Activity"</pre>
+      </div>
+      <div class="calc-card">
+        <h4>Payer-specific notes</h4>
+        <pre>Aetna feed window: ~4 months rolling
+  -> fall back to per-CPB lastReviewDate
+     for longer trends
+
+Cigna bulletin archive: Jan 2023-present
+  -> multi-year trends need no extra work</pre>
+      </div>
+    </div>
+  </section>
+
+  <section id="comparison">
+    <div class="section-head">
+      <span class="num">07 — Where things stand</span>
+      <h2>Comparison across all four payers</h2>
+    </div>
+    <div class="table-wrap">
+      <table class="data">
+        <tr>
+          <th>Dimension</th><th>CMS</th><th>UHC</th><th>Aetna</th><th>Cigna</th>
+        </tr>
+        <tr>
+          <td class="strong">Auth needed</td>
+          <td><span class="yes">No</span></td><td><span class="yes">No</span></td><td><span class="yes">No</span></td>
+          <td><span class="mid">Medical: no · Reimb: yes</span></td>
+        </tr>
+        <tr>
+          <td class="strong">Format</td>
+          <td>JSON API</td><td>HTML + PDF</td><td>HTML + undocumented JSON</td><td>HTML + PDF</td>
+        </tr>
+        <tr>
+          <td class="strong">Native changelog</td>
+          <td><span class="yes">Yes</span> (whats-new API)</td>
+          <td><span class="mid">Partial</span> (status only)</td>
+          <td><span class="yes">Yes</span> (~4mo window)</td>
+          <td><span class="yes">Yes — richest</span></td>
+        </tr>
+        <tr>
+          <td class="strong">PA / CPT list public</td>
+          <td>—</td><td class="mid">Not confirmed</td>
+          <td><span class="yes">Yes</span> (precert PDF)</td>
+          <td><span class="mid">Delegated, unfetched</span></td>
+        </tr>
+        <tr>
+          <td class="strong">Reimbursement policy public</td>
+          <td>—</td><td><span class="yes">Yes</span></td>
+          <td><span class="no">No</span> (Availity login)</td>
+          <td><span class="no">No</span> (CignaforHCP login)</td>
+        </tr>
+        <tr>
+          <td class="strong">Stability risk</td>
+          <td>Low</td><td>Low</td>
+          <td><span class="mid">Medium</span> (internal endpoint)</td>
+          <td>Low</td>
+        </tr>
+        <tr>
+          <td class="strong">Overall</td>
+          <td><span class="pill good">green</span></td>
+          <td><span class="pill good">green</span></td>
+          <td><span class="pill good">green</span>/<span class="pill warn">yellow</span> mixed</td>
+          <td><span class="pill good">green</span> strongest</td>
+        </tr>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <h4>Scripts written this session</h4>
+    <div class="script-list">
+      <code>test_aetna.py</code>
+      <code>test_aetna_cpb_detail.py</code>
+      <code>test_aetna_precert.py</code>
+      <code>test_aetna_precert_pdf.py</code>
+      <code>test_aetna_network_capture.py</code>
+      <code>test_aetna_widget_inspect.py</code>
+      <code>test_aetna_xmlfilter.py</code>
+      <code>test_cigna.py</code>
+      <code>test_cigna_policy_detail.py</code>
+      <code>test_cigna_monthly_update.py</code>
+      <code>test_cigna_evicore_msk.py</code>
+    </div>
+    <p class="closing">Next candidates: verify whether Aetna's precert list has a predictable monthly archive like Cigna's bulletin, and fetch the actual CPT list Cigna delegates to evicore.com/Cigna. Neither is required to start wiring Aetna and Cigna signals into the normalized schema already validated for CMS and UHC.</p>
+  </footer>
+
+</div>

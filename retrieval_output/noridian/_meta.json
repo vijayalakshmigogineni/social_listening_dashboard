@@ -1,0 +1,139 @@
+{
+  "source": "noridian",
+  "scripts_used": [
+    "test_cms_noridian_lcd.py (pattern)",
+    "test_cms_noridian_final_lcds.py (pattern)",
+    "noridian_billing.py (pattern + token)",
+    "noridian_esi_policy.py (token pattern)"
+  ],
+  "endpoints_and_params": [
+    {
+      "endpoint": "/v1/reports/whats-new/local/",
+      "params": {
+        "page": 1,
+        "size": 20,
+        "contractor_id": 357
+      },
+      "http_status": 200,
+      "api_meta": {
+        "status": {
+          "id": 200,
+          "message": "OK"
+        },
+        "notes": "",
+        "fields": [
+          "document_id",
+          "document_version",
+          "document_display_id",
+          "document_type",
+          "note",
+          "title",
+          "contractor_name_type",
+          "updated_on",
+          "updated_on_sort",
+          "effective_date",
+          "retirement_date",
+          "url"
+        ],
+        "children": [],
+        "next_token": ""
+      }
+    },
+    {
+      "endpoint": "/v1/reports/local-coverage-final-lcds/",
+      "params": {
+        "contractor_id": 357
+      },
+      "http_status": 200,
+      "api_meta": {
+        "status": {
+          "id": 200,
+          "message": "OK"
+        },
+        "notes": "",
+        "fields": [
+          "document_id",
+          "document_version",
+          "document_display_id",
+          "document_type",
+          "note",
+          "title",
+          "contractor_name_type",
+          "updated_on",
+          "updated_on_sort",
+          "effective_date",
+          "retirement_date",
+          "url"
+        ],
+        "children": [],
+        "next_token": ""
+      }
+    },
+    {
+      "endpoint": "/v1/reports/local-coverage-articles/",
+      "params": {
+        "contractor_id": 357
+      },
+      "http_status": 200,
+      "api_meta": {
+        "status": {
+          "id": 200,
+          "message": "OK"
+        },
+        "notes": "",
+        "fields": [
+          "document_id",
+          "document_version",
+          "document_display_id",
+          "document_type",
+          "note",
+          "title",
+          "contractor_name_type",
+          "updated_on",
+          "updated_on_sort",
+          "effective_date",
+          "retirement_date",
+          "url"
+        ],
+        "children": [],
+        "next_token": ""
+      }
+    }
+  ],
+  "retrieval_timestamp_local": "2026-09-17T17:55:03.299180",
+  "http_status_summary": [
+    200,
+    200,
+    200
+  ],
+  "total_distinct_records_found_across_all_endpoints_for_this_source": 675,
+  "records_collected_in_json_file": 100,
+  "fields_available": [
+    "_record_scope",
+    "contractor_name_type",
+    "document_display_id",
+    "document_id",
+    "document_type",
+    "document_version",
+    "effective_date",
+    "note",
+    "retirement_date",
+    "title",
+    "updated_on",
+    "updated_on_sort",
+    "url"
+  ],
+  "date_range": {
+    "newest_sort": "20260909140218",
+    "oldest_sort": "20260227073506",
+    "newest_display": "09/09/2026",
+    "oldest_display": "02/27/2026"
+  },
+  "limitations": [
+    "The whats-new/local and whats-new/national endpoints ignore the page and size query parameters (verified: identical results for page=1..5, size=5..500); they return a small fixed 'recent changes' list only, so no true pagination exists on those endpoints.",
+    "local-coverage-final-lcds and local-coverage-articles return their entire result set in a single call with no page/size controls either; 'up to 100' was achieved by combining all real records from all 3-4 relevant endpoints for the source, de-duplicating by (document_type, document_id, document_version), and taking the 100 most recently updated by the API's own updated_on_sort/last_updated_sort field.",
+    "For 'cms', contractor_id was omitted, which per empirical testing returns an aggregate feed across ALL Medicare Administrative Contractors nationwide (Palmetto GBA, CGS, WPS, First Coast, Wellpoint, Noridian, Novitas, etc.), not a Noridian/Novitas-exclusive record, plus the genuinely contractor-independent NCA feed from whats-new/national/.",
+    "For 'novitas', the whats-new/local recent-changes feed returned 0 records for every real Novitas contractor_id found in /v1/data/contractor/ (331,332,333,334,335,336,337) at retrieval time -- Novitas simply had no local-coverage document change logged in that endpoint's short recent-activity window on 2026-09-17. Novitas activity data therefore comes entirely from local-coverage-final-lcds (71 total) and local-coverage-articles (117 total).",
+    "No authentication was ever required for whats-new/local, whats-new/national, or local-coverage-final-lcds. local-coverage-articles required a Bearer token, but that token is issued instantly and without credentials by the public, no-login /v1/metadata/license-agreement/ endpoint -- this is not a real access barrier."
+  ]
+}

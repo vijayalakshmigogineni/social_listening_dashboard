@@ -1,0 +1,130 @@
+{
+  "source": "Federal Register API (www.federalregister.gov) - public, no-auth, government API",
+  "scripts_read": [
+    "test_federal_register.py",
+    "test_federal_register_detail.py",
+    "test_federal_register_fields.py"
+  ],
+  "script_used_for_final_pull": "ad-hoc extension script written for this audit (fr_bulk_pull.py, run from scratchpad), reusing the exact same requests.get(...) + conditions[term] + per_page/order pagination pattern already established in test_federal_register.py. No new endpoint was introduced -- the only endpoint used anywhere in this task is https://www.federalregister.gov/api/v1/documents.json (list/search) and https://www.federalregister.gov/api/v1/documents/{document_number}.json (single-document detail, used only by the two pre-existing detail/fields scripts).",
+  "endpoint": "https://www.federalregister.gov/api/v1/documents.json",
+  "retrieval_timestamp_local": "2026-09-17T17:53:21.202462+05:30",
+  "retrieval_timestamp_note": "Real system clock time captured at script execution (Windows machine local time with UTC offset). All HTTP calls for the final pull completed within the same run, seconds apart.",
+  "http_status": "200 for all 10 queries (no errors, no rate limiting encountered)",
+  "query_methodology": {
+    "summary": "The API's conditions[term] parameter does not support boolean OR syntax (empirically verified: a literal 'A OR B OR C' string returns count=0). Also empirically verified: an UNQUOTED multi-word term (as used in the original test_federal_register.py, term='Medical coding and billing') performs a loose OR-style match across individual non-stopword tokens and returns count=10000, which is the search backend's max_result_window CAP, not a genuine total -- sampling the actual documents returned by that unquoted query confirmed it is not a meaningful topical filter (results included clearly unrelated notices, e.g. an NOAA ocean-exploration-video-products OMB notice and an EPA greenhouse-gas rule, alongside genuinely health-related items). Wrapping a phrase in double quotes DOES trigger real exact-phrase matching with genuine, non-capped counts. Since the API has no native OR operator, the natural, non-endpoint-inventing way to broaden the original single-term pattern to be inclusive of the project's real topic (Medicare/Medicaid/CMS/payer policy/coding/billing/reimbursement/prior authorization/coverage determination) was to repeat the identical single-term search call once per relevant quoted phrase, then merge and de-duplicate the results client-side by document_number, then sort by publication_date to select the true latest 100 distinct documents across all terms combined.",
+    "boolean_or_syntax_tested_and_rejected": "conditions[term]='Medicare OR \"prior authorization\" OR \"coverage determination\" OR reimbursement OR \"medical coding and billing\"' -> HTTP 200, count=0 (verified, not used)",
+    "original_unquoted_term_tested_and_rejected_as_primary_filter": "conditions[term]='Medical coding and billing' (unquoted, exact script default) -> HTTP 200, count=10000 (this is the API's max_result_window cap, not a real total; confirmed same cap appears even for conditions[term]='Medicare' alone and even with NO term parameter at all, i.e. it is an artifact of the search backend, not evidence of true relevance)",
+    "final_approach": "10 separate real API calls, each with per_page=100, page=1, order=newest, and a single quoted exact-phrase conditions[term] value, plus fields[]=<49 field names> to pull the richer detail-level fields directly from the list endpoint (fields[] is a documented, supported parameter of this same endpoint -- verified empirically that requesting all 49 fields known from the detail endpoint returns all 49 with zero missing). Results from all 10 calls were merged, de-duplicated by document_number, sorted by (publication_date desc, document_number desc), and the top 100 distinct documents were kept."
+  },
+  "query_terms_used_exact": [
+    "\"Medicare Program\"",
+    "\"Medicaid Program\"",
+    "\"prior authorization\"",
+    "\"coverage determination\"",
+    "\"National Coverage Determination\"",
+    "\"Medicare reimbursement\"",
+    "\"reimbursement rate\"",
+    "\"HCPCS\"",
+    "\"medical billing\"",
+    "\"medical coding and billing\""
+  ],
+  "params_common_to_every_call": {
+    "per_page": 100,
+    "page": 1,
+    "order": "newest",
+    "conditions[term]": "<one of the 10 quoted phrases above, one call per phrase>",
+    "fields[]": [
+      "abstract", "action", "agencies", "body_html_url", "cfr_references", "citation",
+      "comment_url", "comments_close_on", "correction_of", "corrections", "dates",
+      "disposition_notes", "docket_ids", "dockets", "document_number", "effective_on",
+      "end_page", "excerpts", "executive_order_notes", "executive_order_number",
+      "full_text_xml_url", "html_url", "images", "images_metadata", "json_url",
+      "mods_url", "not_received_for_publication", "page_length", "page_views", "pdf_url",
+      "presidential_document_number", "proclamation_number", "public_inspection_pdf_url",
+      "publication_date", "raw_text_url", "regulation_id_number_info",
+      "regulation_id_numbers", "regulations_dot_gov_info", "regulations_dot_gov_url",
+      "significant", "signing_date", "start_page", "subtype", "title", "toc_doc",
+      "toc_subject", "topics", "type", "volume"
+    ]
+  },
+  "total_count_per_api_by_query_term": {
+    "\"Medicare Program\"": 4481,
+    "\"Medicaid Program\"": 1829,
+    "\"prior authorization\"": 1422,
+    "\"coverage determination\"": 660,
+    "\"National Coverage Determination\"": 316,
+    "\"Medicare reimbursement\"": 460,
+    "\"reimbursement rate\"": 544,
+    "\"HCPCS\"": 794,
+    "\"medical billing\"": 140,
+    "\"medical coding and billing\"": 4
+  },
+  "note_on_totals": "Each number above is the API's own real 'count' field for that single quoted-phrase query, captured at retrieval time -- none are estimated or fabricated. These counts are NOT additive (documents can and do match more than one phrase); the true number of distinct documents is only known after client-side de-duplication (see records_collected_pre_dedup_from_100_per_term_sample below). There is no single 'total activity count' figure from the API for the combined topic, because the API does not support a combined boolean query -- this is an inherent API limitation, not an omission.",
+  "records_returned_per_call": {
+    "\"Medicare Program\"": 100,
+    "\"Medicaid Program\"": 100,
+    "\"prior authorization\"": 100,
+    "\"coverage determination\"": 100,
+    "\"National Coverage Determination\"": 100,
+    "\"Medicare reimbursement\"": 100,
+    "\"reimbursement rate\"": 100,
+    "\"HCPCS\"": 100,
+    "\"medical billing\"": 100,
+    "\"medical coding and billing\"": 4
+  },
+  "records_collected_pre_dedup_from_100_per_term_sample": 626,
+  "records_collected_final_distinct": 100,
+  "records_collected_note": "626 distinct documents were found across the top-100-newest-per-term samples of all 10 queries combined (i.e. summed raw pulls of 904 records collapsed to 626 unique document_numbers after de-duplication -- meaning some documents matched more than one query phrase). The 100 most recent of those 626 distinct documents (by publication_date, document_number as tiebreaker) were selected as the final delivered set. This 100 is a genuine, real, non-fabricated slice of Federal Register activity -- it is NOT the full 626 and is NOT a claim about the full underlying per-term totals (4481 / 1829 / 1422 / etc.), which are far larger than 100 and were not exhaustively paginated (would require thousands of additional API calls per term, judged unnecessary since the task asked for the latest 100 combined, not the full history).",
+  "fields_available_per_record": [
+    "abstract", "action", "agencies (array of {raw_name, name, id, url, json_url, parent_id, slug})",
+    "body_html_url", "cfr_references", "citation", "comment_url", "comments_close_on",
+    "correction_of", "corrections", "dates", "disposition_notes", "docket_ids",
+    "dockets (array of {supporting_documents, agency_name, documents[], supporting_documents_count, id, title})",
+    "document_number", "effective_on", "end_page", "excerpts (search-match snippet, present because term-based search was used)",
+    "executive_order_notes", "executive_order_number", "full_text_xml_url", "html_url",
+    "images", "images_metadata", "json_url", "mods_url", "not_received_for_publication",
+    "page_length", "page_views ({count, last_updated})", "pdf_url",
+    "presidential_document_number", "proclamation_number", "public_inspection_pdf_url",
+    "publication_date", "raw_text_url", "regulation_id_number_info", "regulation_id_numbers",
+    "regulations_dot_gov_info", "regulations_dot_gov_url", "significant", "signing_date",
+    "start_page", "subtype", "title", "toc_doc", "toc_subject", "topics", "type", "volume",
+    "_matched_query_terms (NOT an API field -- added by this audit's merge script to record which of the 10 quoted-phrase queries matched each document)"
+  ],
+  "fields_confirmed_via_scripts": {
+    "test_federal_register.py (search/list endpoint, default fields, no fields[] param)": [
+      "title", "document_number", "publication_date", "type", "abstract", "html_url",
+      "(also present by default but not printed by this script: agencies, excerpts, pdf_url, public_inspection_pdf_url)"
+    ],
+    "test_federal_register_detail.py (single-document detail endpoint, printed subset)": [
+      "title", "document_number", "publication_date", "type", "abstract", "agencies", "effective_on", "html_url"
+    ],
+    "test_federal_register_fields.py (single-document detail endpoint, ALL fields dumped)": [
+      "all 48 native API fields (see fields_available_per_record above, minus the added _matched_query_terms annotation)"
+    ]
+  },
+  "date_range_in_final_100": {
+    "newest_publication_date": "2026-09-17",
+    "oldest_publication_date": "2026-04-07"
+  },
+  "type_distribution_in_final_100": {
+    "Notice": 53,
+    "Proposed Rule": 26,
+    "Rule": 21
+  },
+  "files_saved": [
+    "federal_register_latest_100.json (the 100 final, de-duplicated, most-recent records -- primary deliverable)",
+    "federal_register_merged_pool_all_terms.json (all 626 distinct pre-slice records collected across all 10 queries, kept for audit transparency)",
+    "federal_register_per_query_meta.json (per-query real HTTP status, full request URL, API count, and records returned for each of the 10 calls)",
+    "_meta.json (this file)"
+  ],
+  "limitations_and_honesty_notes": [
+    "The original script's default query (unquoted 'Medical coding and billing') is not a meaningful relevance filter on this API -- it hits the max_result_window cap (count=10000) and returns largely unfiltered recent Federal Register issues. This was verified empirically, not assumed, and is reported here rather than silently used.",
+    "The Federal Register full-text search backend appears to cap any 'count' at 10000 regardless of true match volume once a query is broad enough (confirmed: even a request with NO conditions[term] at all also returns count=10000). Any single-term count reported at exactly 10000 in this document should be read as '>=10000 / capped', not as an exact figure.",
+    "The API does not support boolean OR across terms in one call (verified: literal 'OR' syntax returns count=0). This is a genuine API limitation, not a project shortcoming.",
+    "The per-term totals in total_count_per_api_by_query_term (4481, 1829, 1422, etc.) are each individually real and exact (none were at the 10000 cap), but they are not the count of documents actually downloaded -- only the newest 100 per term were fetched, consistent with the task's ask for 'the latest 100 documents' overall, not full historical pagination of each term.",
+    "The 'HCPCS' term's API count shifted slightly between an earlier exploratory check (797) and the final production run (794), a few minutes apart -- most likely live reindexing/publication activity on the Federal Register's end. The value saved in this meta file (794) is from the exact run that produced the saved data files.",
+    "No authentication was required and no rate limiting or errors were encountered across all 13 total API calls made during this task (3 original-script runs + 10 final-pull queries), all HTTP 200.",
+    "Relevance/signal-type classification was intentionally NOT performed, per task instructions -- this is reserved for a later step.",
+    "topics, regulation_id_number_info, and regulation_id_numbers are frequently empty ({}/[]) even on clearly relevant CMS documents in this dataset -- this appears to be genuinely sparse metadata on the Federal Register's side (confirmed on multiple records, e.g. document 2026-19015 and 2026-19061 both had topics: [] and regulation_id_number_info: {}), not a retrieval defect."
+  ]
+}

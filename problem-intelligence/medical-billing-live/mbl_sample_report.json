@@ -1,0 +1,627 @@
+{
+  "source": "Medical Billing Live",
+  "entry_point": "https://www.medicalbillinglive.com/members/index.php",
+  "investigated": "2026-09-21",
+  "scope": "data-collection feasibility only; no classification, no collector",
+  "platform": {
+    "software": "SMF 2.0.19",
+    "url_scheme": {
+      "board": "/members/index.php/board,<board_id>.<offset>.html",
+      "thread": "/members/index.php/topic,<topic_id>.<offset>.html",
+      "post": "/members/index.php/topic,<topic_id>.msg<msg_id>.html#msg<msg_id>",
+      "profile": "/members/index.php?action=profile;u=<user_id>"
+    },
+    "encoding": "declares ISO-8859-1, actually serves cp1252",
+    "session_ids": "guest URLs carry a rotating PHPSESSID; strip before storing",
+    "reliability": "intermittent 503 under sequential access; retry clears it"
+  },
+  "access": {
+    "login_required": false,
+    "boards_total": 13,
+    "boards_public": 13,
+    "robots_disallows_forum": false,
+    "robots_rules": [
+      "/wp-admin/",
+      "/wp-admin/"
+    ],
+    "forum_totals": {
+      "posts": 45781,
+      "topics": 13127,
+      "members": 62716
+    }
+  },
+  "categories": {
+    "all": [
+      {
+        "board_id": 13,
+        "name": "New!",
+        "rcm_relevant": false
+      },
+      {
+        "board_id": 6,
+        "name": "General Questions",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 5,
+        "name": "NPI Numbers",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 8,
+        "name": "Coding",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 7,
+        "name": "Billing",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 4,
+        "name": "Facility Billing",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 2,
+        "name": "Insurance Payments",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 3,
+        "name": "Patient Billing",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 9,
+        "name": "HIPAA",
+        "rcm_relevant": true
+      },
+      {
+        "board_id": 10,
+        "name": "Starting Your Own Medical Billing Business",
+        "rcm_relevant": false
+      },
+      {
+        "board_id": 14,
+        "name": "Online Medical Billing Courses - Student Section",
+        "rcm_relevant": false
+      },
+      {
+        "board_id": 11,
+        "name": "Medical Billing Software Reviews",
+        "rcm_relevant": false
+      },
+      {
+        "board_id": 12,
+        "name": "Medical Billing Software Questions",
+        "rcm_relevant": false
+      }
+    ],
+    "rcm_relevant": [
+      "General Questions",
+      "NPI Numbers",
+      "Coding",
+      "Billing",
+      "Facility Billing",
+      "Insurance Payments",
+      "Patient Billing",
+      "HIPAA"
+    ],
+    "recency": [
+      {
+        "board_id": 6,
+        "board_name": "General Questions",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 222,
+        "topics_estimated": 4440,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 17
+        }
+      },
+      {
+        "board_id": 5,
+        "board_name": "NPI Numbers",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 9,
+        "topics_estimated": 180,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 20
+        }
+      },
+      {
+        "board_id": 8,
+        "board_name": "Coding",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 49,
+        "topics_estimated": 980,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 19,
+          "2019": 1
+        }
+      },
+      {
+        "board_id": 7,
+        "board_name": "Billing",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 97,
+        "topics_estimated": 1940,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 20
+        }
+      },
+      {
+        "board_id": 4,
+        "board_name": "Facility Billing",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 15,
+        "topics_estimated": 300,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 20
+        }
+      },
+      {
+        "board_id": 2,
+        "board_name": "Insurance Payments",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 14,
+        "topics_estimated": 280,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 8,
+          "2025": 11,
+          "2024": 1
+        }
+      },
+      {
+        "board_id": 3,
+        "board_name": "Patient Billing",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 9,
+        "topics_estimated": 180,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 12,
+          "2025": 7,
+          "2024": 1
+        }
+      },
+      {
+        "board_id": 9,
+        "board_name": "HIPAA",
+        "status": 200,
+        "topics_on_page1": 20,
+        "last_page": 4,
+        "topics_estimated": 80,
+        "newest_activity_year": 2026,
+        "page1_year_spread": {
+          "2026": 1,
+          "2024": 6,
+          "2023": 3,
+          "2022": 1,
+          "2021": 4,
+          "2019": 3,
+          "2018": 1,
+          "2017": 1
+        }
+      }
+    ]
+  },
+  "pagination": {
+    "exists": true,
+    "tested_on": "Billing",
+    "scheme": "item offset in the URL, 20 topics per board page",
+    "last_page_tested": 97,
+    "pages_distinct": true,
+    "archive_reachable": true,
+    "oldest_seen": "March 01, 2008, 09:51:51 PM",
+    "in_thread_pagination": "15 posts per thread page"
+  },
+  "post_level_access": {
+    "individual_posts_public": true,
+    "each_post_has_stable_permalink": true,
+    "verified_on_threads": [
+      6999,
+      1706
+    ],
+    "posts_examined": 30,
+    "permalink_checks": [
+      {
+        "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,7982.msg26287.html#msg26287",
+        "post_id": "26287",
+        "status": 200,
+        "post_present_in_response": true,
+        "resolves_standalone": true
+      },
+      {
+        "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,19857.msg54750.html#msg54750",
+        "post_id": "54750",
+        "status": 200,
+        "post_present_in_response": true,
+        "resolves_standalone": true
+      },
+      {
+        "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,8019.msg26528.html#msg26528",
+        "post_id": "26528",
+        "status": 200,
+        "post_present_in_response": true,
+        "resolves_standalone": true
+      }
+    ],
+    "permalinks_resolve_standalone": true
+  },
+  "field_availability": {
+    "thread_title": {
+      "available": true,
+      "coverage": "all threads",
+      "source": "board listing td.subject anchor + thread <title>"
+    },
+    "thread_url": {
+      "available": true,
+      "coverage": "all threads",
+      "source": "board listing anchor href",
+      "note": "strip the rotating PHPSESSID to get a stable identifier"
+    },
+    "post_url_and_id": {
+      "available": true,
+      "coverage": "30/30 posts",
+      "source": "thread page h5 anchor (topic,<id>.msg<msgid>.html)"
+    },
+    "author_name": {
+      "available": true,
+      "coverage": "30/30 posts",
+      "source": "poster column h4"
+    },
+    "author_profile_url": {
+      "available": true,
+      "coverage": "20/20 registered posts; guests have no profile by definition",
+      "source": "poster column h4 anchor (action=profile;u=<id>)"
+    },
+    "date_time": {
+      "available": true,
+      "coverage": "30/30 posts",
+      "source": "thread page .keyinfo .smalltext",
+      "format": "Month DD, YYYY, HH:MM:SS AM/PM (forum local time)"
+    },
+    "post_text": {
+      "available": true,
+      "coverage": "30/30 posts",
+      "source": "thread page .post .inner",
+      "note": "full body, not truncated (unlike the feed)"
+    },
+    "category": {
+      "available": true,
+      "coverage": "all threads",
+      "source": "board listing context + thread breadcrumb board link"
+    },
+    "reply_count": {
+      "available": true,
+      "coverage": "all threads",
+      "source": "board listing td.stats ('N Replies', 'N Views')"
+    },
+    "location": {
+      "available": false,
+      "coverage": "0/30 posts",
+      "source": null,
+      "note": "this install renders only membergroup, postgroup and postcount in the poster column; no location field is shown"
+    }
+  },
+  "requested_field_map": [
+    {
+      "field": "thread_title",
+      "obtained_from": "board listing + thread page"
+    },
+    {
+      "field": "thread_url",
+      "obtained_from": "board listing"
+    },
+    {
+      "field": "post_url_or_id",
+      "obtained_from": "thread page"
+    },
+    {
+      "field": "author_name",
+      "obtained_from": "board listing + thread page"
+    },
+    {
+      "field": "author_profile_url",
+      "obtained_from": "thread page (registered posters only)"
+    },
+    {
+      "field": "date_time",
+      "obtained_from": "board listing (last post) + thread page (per post)"
+    },
+    {
+      "field": "post_text",
+      "obtained_from": "thread page"
+    },
+    {
+      "field": "category",
+      "obtained_from": "board listing + thread breadcrumb"
+    },
+    {
+      "field": "reply_count",
+      "obtained_from": "board listing"
+    },
+    {
+      "field": "location",
+      "obtained_from": "not rendered by this install"
+    }
+  ],
+  "feed_api": {
+    "feed_exists": true,
+    "endpoint": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=rss|rss2|atom",
+    "board_scoping": true,
+    "max_items": 200,
+    "bodies_truncated": true,
+    "author_only_in": [
+      "recent posts, atom"
+    ],
+    "real_forum_api": false,
+    "api_note": "/wp-json/ answers because the marketing site runs WordPress, but it returns no posts and no forum content; the SMF install exposes no api.php. The XML feed is the only machine-readable forum surface.",
+    "usable_as_sole_collector": false,
+    "reason": "Feed bodies are truncated and carry no author field, and the feed only exposes the newest items, so it cannot reach the archive. Usable for change detection, not for collection."
+  },
+  "observations": {
+    "archive_depth": "Billing alone pages back to March 2008 across 97 pages; the full board index reports 45781 posts in 13127 topics.",
+    "recency": "8 of 8 RCM boards carry a 2025-or-later timestamp on page 1. That measures last activity, not new discussion: of the 6 sampled threads, 4 were opened five or more years before their most recent reply.",
+    "thread_age_gaps": [
+      {
+        "thread_title": "Test your knowledge, feedback appreciated!",
+        "opened": 2014,
+        "last_post": 2026,
+        "gap_years": 12
+      },
+      {
+        "thread_title": "90853 Group via Telehealth",
+        "opened": 2026,
+        "last_post": 2026,
+        "gap_years": 0
+      },
+      {
+        "thread_title": "Medicare Reimbursement for 64555-SG, Surgical procedure",
+        "opened": 2014,
+        "last_post": 2019,
+        "gap_years": 5
+      },
+      {
+        "thread_title": "Looking for a quick way to fax signed onboarding documents from home.",
+        "opened": 2026,
+        "last_post": 2026,
+        "gap_years": 0
+      },
+      {
+        "thread_title": "92612 FEES",
+        "opened": 2014,
+        "last_post": 2026,
+        "gap_years": 12
+      },
+      {
+        "thread_title": "Cigna and 3rd party processing (Data iSight)",
+        "opened": 2016,
+        "last_post": 2026,
+        "gap_years": 10
+      }
+    ],
+    "content_quality_flag": "Page 1 of several boards carries off-topic link-spam threads (casino and sports posts) alongside genuine RCM questions, and some appear as replies inside real threads. Flagged as an observation for your review - nothing here is classified or filtered.",
+    "guest_posts": "A meaningful share of posts are authored by guests, which display a name but have no profile URL and no stable author id."
+  },
+  "sample_records": [
+    {
+      "thread_title": "Test your knowledge, feedback appreciated!",
+      "thread_url": "https://www.medicalbillinglive.com/members/index.php/topic,7982.0.html",
+      "category": "Billing",
+      "reply_count": 8,
+      "view_count": 53345,
+      "thread_author_name": "PMRNC",
+      "thread_author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+      "last_post_date": "March 12, 2026, 11:36:08 PM",
+      "breadcrumb": "Medical Billing Forum > Billing > Alice Scott > Michele > Test your knowledge, feedback appreciated!",
+      "posts_on_page1": 9,
+      "posts": [
+        {
+          "post_id": "26287",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,7982.msg26287.html#msg26287",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "September 04, 2014, 05:22:50 PM",
+          "location": null,
+          "post_text": "We are working on a series of \"Test your Knowledge\" quizzes for medical billers. We will be offering a free quiz free and our members only will have access to several quizzes to \"Test their Knowledge\" within each area of our members only area. These are NOT courses, they are more for those who want to challenge themselves and TEST what they already know, learned, or experienced. The first available quiz is on payments and adjustments, and is available free at: http://www.billerswebsite.com/how_much_do_you_know_about_medical_billing.html It's not required, but it sure would help us if you could email us feedback at the completion of your quiz. This will better help us produce much more efficient and challenging quizzes which we hope will test the knowledge of individuals looking to get into this business, supplement their education or just get a quick refresher! To date of this posting, the quiz was taken a total of 73 times. The quiz has 10 questions at 10 points per question. The AVERAGE score has been 72%.. I'd like to see if possibly it was too challenging/difficult. You do NOT have to give me your name, you can just simply email me or PM me here with your feedback. Please tell me if you felt the quiz was too hard, too easy, or maybe you would like to challenge some of the questions/answers. I'm all for honest and fresh feedback!! Thank you to Alice and Michele for letting me post this in the forum with advanced request for permission of course"
+        },
+        {
+          "post_id": "26370",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,7982.msg26370.html#msg26370",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "September 17, 2014, 05:27:20 PM",
+          "location": null,
+          "post_text": "OUR HIPAA Test your knowledge quiz is available! Let's see how much you know! http://www.billerswebsite.com/how_much_do_you_know_about_medical_billing.html"
+        }
+      ]
+    },
+    {
+      "thread_title": "90853 Group via Telehealth",
+      "thread_url": "https://www.medicalbillinglive.com/members/index.php/topic,19857.0.html",
+      "category": "Billing",
+      "reply_count": 1,
+      "view_count": 846,
+      "thread_author_name": "EBurleyStill",
+      "thread_author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=43487",
+      "last_post_date": "September 20, 2026, 07:17:35 PM",
+      "breadcrumb": "Medical Billing Forum > Billing > Alice Scott > Michele > 90853 Group via Telehealth",
+      "posts_on_page1": 2,
+      "posts": [
+        {
+          "post_id": "54750",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,19857.msg54750.html#msg54750",
+          "author_name": "EBurleyStill",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=43487",
+          "date": "June 08, 2026, 12:17:52 PM",
+          "location": null,
+          "post_text": "I bill for a Behavioral health agency in GA. We have twice weekly group therapy sessions. Since the participants are youths or parents of clients (2 different sessions), some attend via a telecommunication platform. I have not been billing these since the DBHDD manual does not show the group codes using a telehealth modifier. Does anyone have experience billing group via TH? Thank you!"
+        },
+        {
+          "post_id": "55284",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,19857.msg55284.html#msg55284",
+          "author_name": "DE_LUX",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=174071",
+          "date": "September 20, 2026, 07:17:35 PM",
+          "location": null,
+          "post_text": "I love taking a break with some casual online gaming, but I hate complicated platforms. A buddy who recently moved to Australia told me Need for Slots Casino had some of the best weekend perks he's seen. I registered on Friday, grabbed a sweet starter bonus, and jumped straight into the action. I was honestly blown away by how fast everything loaded on my mobile browser. I didn't even need to download an app. It was pure, stress-free entertainment, and I even scored a nice small win before logging off."
+        }
+      ]
+    },
+    {
+      "thread_title": "Medicare Reimbursement for 64555-SG, Surgical procedure",
+      "thread_url": "https://www.medicalbillinglive.com/members/index.php/topic,8019.0.html",
+      "category": "Coding",
+      "reply_count": 7,
+      "view_count": 52683,
+      "thread_author_name": "stacykelley",
+      "thread_author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=40702",
+      "last_post_date": "July 27, 2019, 05:37:16 PM",
+      "breadcrumb": "Medical Billing Forum > Coding > Alice Scott > Michele > Medicare Reimbursement for 64555-SG, Surgical procedure",
+      "posts_on_page1": 8,
+      "posts": [
+        {
+          "post_id": "26528",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,8019.msg26528.html#msg26528",
+          "author_name": "stacykelley",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=40702",
+          "date": "October 09, 2014, 01:32:09 PM",
+          "location": null,
+          "post_text": "I have been charged with a mission from a prospective employer to solve this problem contingent on his hiring me. I have little info other than this: The code 64555-SG has been billed to Medicare by a prospective client of theirs, and although the standard of reimbursement by Medicare is in the $700-$800 range, this client presented an EOB showing that 64555-SG being paid at $3800. It was billed under Medicare part B, I am told it was only billed as 1 unit. I don't know if it was billed under the provider or the facility. Our location is Southern California, and this EOB allegedly is from the same jurisdiction. The Noridian website indicates that this code reimbursement is in the $700-$800 range, so I can't figure out how this client was paid $3800 (multiple payments for multiple patients on the same EOB). If anyone has any information to help me, I would be so very grateful. It may land me a job!"
+        },
+        {
+          "post_id": "26529",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,8019.msg26529.html#msg26529",
+          "author_name": "Merry",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=682",
+          "date": "October 09, 2014, 01:40:10 PM",
+          "location": null,
+          "post_text": "Seems to me after doing a Google search that it is a facility fee for the ASC. Some of my searches showed that it is not used anymore and other searches contradicted this."
+        }
+      ]
+    },
+    {
+      "thread_title": "Looking for a quick way to fax signed onboarding documents from home.",
+      "thread_url": "https://www.medicalbillinglive.com/members/index.php/topic,20181.0.html",
+      "category": "Coding",
+      "reply_count": 1,
+      "view_count": 120,
+      "thread_author_name": "Hill Jorge",
+      "thread_author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=169104",
+      "last_post_date": "September 10, 2026, 12:01:16 PM",
+      "breadcrumb": "Medical Billing Forum > Coding > Alice Scott > Michele > Looking for a quick way to fax signed onboarding documents from home.",
+      "posts_on_page1": 2,
+      "posts": [
+        {
+          "post_id": "55252",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,20181.msg55252.html#msg55252",
+          "author_name": "Hill Jorge",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=169104",
+          "date": "September 10, 2026, 11:52:25 AM",
+          "location": null,
+          "post_text": "Hello everyone! I recently accepted a remote job offer and the HR department requested that I sign and fax back several background check forms and direct deposit agreements. Since I don't own an office printer or a physical fax machine, I need a simple online solution to handle this from my laptop. What software or web tool do you recommend for sending secure digital faxes?"
+        },
+        {
+          "post_id": "55253",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,20181.msg55253.html#msg55253",
+          "author_name": "JonesJameson",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=169103",
+          "date": "September 10, 2026, 12:01:16 PM",
+          "location": null,
+          "post_text": "Hi! Running into HR departments that still require faxes for official onboarding paperwork can be a real headache when you work from home. I ran into this exact situation last month when submitting my tax and payroll sheets. I spent some time researching web-based workarounds and found a very useful guide at https://scan-and-fax-from-computer.com/ that detailed how to send digital files straight from a desktop setup. After reading through the article, I chose Municorn Fax App for myself. It allowed me to upload my PDF scans, confirm the recipient's number, and transmit everything in just a few clicks. I've been keeping Municorn Fax App on my computer for all official paperwork ever since."
+        }
+      ]
+    },
+    {
+      "thread_title": "92612 FEES",
+      "thread_url": "https://www.medicalbillinglive.com/members/index.php/topic,7821.0.html",
+      "category": "Insurance Payments",
+      "reply_count": 6,
+      "view_count": 11347,
+      "thread_author_name": "bv7668",
+      "thread_author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=40942",
+      "last_post_date": "May 07, 2026, 04:20:20 AM",
+      "breadcrumb": "Medical Billing Forum > Payments > Insurance Payments > Alice Scott > Michele > 92612 FEES",
+      "posts_on_page1": 7,
+      "posts": [
+        {
+          "post_id": "25466",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,7821.msg25466.html#msg25466",
+          "author_name": "bv7668",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=40942",
+          "date": "April 23, 2014, 10:57:17 AM",
+          "location": null,
+          "post_text": "I'm having issues getting my provider paid for 92612 in Kansas for Medicare. The Medicare guide states FEES can be performed by an SLP but every appeal I have sent they send back with just a definition of what a physician is. Has anybody else had this issue or can you give me some pointers to get these paid? Thanks."
+        },
+        {
+          "post_id": "25467",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,7821.msg25467.html#msg25467",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "April 23, 2014, 11:21:46 AM",
+          "location": null,
+          "post_text": "GN Modifier ? http://www.asha.org/practice/reimbursement/medicare/slp_coding_rules/"
+        }
+      ]
+    },
+    {
+      "thread_title": "Cigna and 3rd party processing (Data iSight)",
+      "thread_url": "https://www.medicalbillinglive.com/members/index.php/topic,8824.0.html",
+      "category": "Insurance Payments",
+      "reply_count": 56,
+      "view_count": 211035,
+      "thread_author_name": "gmcfnyc",
+      "thread_author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=42594",
+      "last_post_date": "March 13, 2026, 10:22:33 AM",
+      "breadcrumb": "Medical Billing Forum > Payments > Insurance Payments > Alice Scott > Michele > Cigna and 3rd party processing (Data iSight)",
+      "posts_on_page1": 15,
+      "posts": [
+        {
+          "post_id": "29503",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,8824.msg29503.html#msg29503",
+          "author_name": "gmcfnyc",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=42594",
+          "date": "August 08, 2016, 01:40:48 PM",
+          "location": null,
+          "post_text": "Hi there- We're a chiropractic provider out of network with Cigna. We've never had a problem with payments in our 20+ years of submitting and receiving with Cigna until this past June when- all of the sudden- we started to receive EOBs with claims being processed by Data iSight at a much lower payment rate. Select Cigna patients were going from usual and customary to significantly less with the explanation: \"Health Care Professional: patient is not liable if you accept the allowable amount. Contact Data iSight at 877-489-5984 before billing the patient.\" Since we received them I have called Data iSight to appeal each patients payment. I was told Data iSight would follow up in 3-5 days. A supervisor called asking if we accept that payment- we said no and would like to send it back for reprocessing directly by Cigna. They said allow 30-45 business days. 45 business days later I call back and they said that all of our claims were NEVER sent back to Cigna and that each of these claims are closed with no further adjustments to be made. I have been back and forth with Cigna and Data iSight- which of course neither one wants to deal with or help with. I'm just being bounced from one to the other. Not sure how this is even legal. Anybody else dealing with this? What do we need to do to solve this frustrating issue? Thanks much for any help."
+        },
+        {
+          "post_id": "29506",
+          "post_url": "https://www.medicalbillinglive.com/members/index.php/topic,8824.msg29506.html#msg29506",
+          "author_name": "PMRNC",
+          "author_type": "registered",
+          "author_profile_url": "https://www.medicalbillinglive.com/members/index.php?action=profile;u=488",
+          "date": "August 08, 2016, 05:23:32 PM",
+          "location": null,
+          "post_text": "If these are group health plans I'd get the patient involved using ERISA. Sounds like they are using a Re-pricing company and somehow have you as \"participating\". Again, get the patient involved if these are ERISA claims. If you want to appeal I suggest getting the patient to sign an Authorization form for you, and a copy of their summary plan information and then APPEAL USING ERISA (DOL)"
+        }
+      ]
+    }
+  ]
+}

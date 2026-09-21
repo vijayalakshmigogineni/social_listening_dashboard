@@ -1,0 +1,587 @@
+{
+  "tested_at": "2026-09-21T11:18:53.604075+00:00",
+  "query": "medical billing",
+  "limit_per_candidate": 5,
+  "results": [
+    {
+      "actor": "scraper_one/facebook-posts-search",
+      "actor_id": "TMBawM4LZpKN15DZX",
+      "total_runs": 2239994,
+      "price_per_result_usd": 0.00259,
+      "input": {
+        "query": "medical billing",
+        "resultsCount": 5,
+        "searchType": "latest"
+      },
+      "note": "2.2M runs; searchType enum is top|latest (recency control, not content type)",
+      "verdict": "PASS",
+      "reason": "5/5 records are posts",
+      "returned": 5,
+      "record_kinds": {
+        "post": 5
+      },
+      "gate_messages": [],
+      "fields_present": [
+        "attachments",
+        "author",
+        "commentsCount",
+        "postId",
+        "postText",
+        "reactions",
+        "reactionsCount",
+        "sharesCount",
+        "timestamp",
+        "url"
+      ],
+      "run_id": "BMLlac5yyKsktgha6",
+      "status": "SUCCEEDED",
+      "cost_usd": 0.020050000000000002,
+      "items_raw": [
+        {
+          "url": "https://www.facebook.com/govinda.tripati.2025/posts/pfbid02VoLNkUFt5j6cJSviaHiYwKVsRYBBwfBr6jgiZtiC4Mt4JVDGuenVKdCHY6KVruYdl",
+          "timestamp": 1789988984000,
+          "postText": "🏥 MEDICAL BILLING COURSE\nInterested candidates can apply using this link\nhttps://forms.gle/nU7GYRS9xsnhtWMp8\nBuild Your Career in the Healthcare Industry\n\n🔹 What is Medical Billing?\nMedical Billing is the process of submitting and managing healthcare claims to insurance companies to ensure healthcare providers receive proper reimbursement.\n\n📚 Key Topics Covered\n\n✅ Insurance & Claims Processing\n✅ Patient Registration & Demographics\n✅ Medical Billing Cycle\n✅ CPT, ICD-10-CM & HCPCS Basics\n✅ Claim Submission & Follow-up\n✅ Denials & Rejections Management\n✅ Payment Posting & AR Management\n✅ EOB/ERA & Insurance Verification\n✅ HIPAA & Healthcare Compliance\n\n🎯 Career Opportunities\n\nMedical Billing Executive | AR Caller | Claims Analyst | Payment Posting Executive | Denial Management Executive\n\n💻 Online & Offline Training\n🎓 Training + Certification + Placement Assistance\n📢 Limited Seats | Enroll Now\n\nERENDIZ ACADEMY®\n\n#MedicalBilling #MedicalCoding #HealthcareJobs #RCM #HealthcareBPO #MedicalBillingCourse #FreeDemo #PlacementAssistance #ErendizAcademy #HyderabadJobs",
+          "reactionsCount": 0,
+          "reactions": {},
+          "commentsCount": 0,
+          "sharesCount": 1,
+          "postId": "1081068444928986",
+          "author": {
+            "id": "100090775218534",
+            "name": "Govinda Tripati",
+            "profilePicture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/474626091_578032998565869_5728755842378364499_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1916x1916&ctp=s40x40&_nc_cat=101&ccb=1-7&_nc_sid=1d2534&_nc_ohc=PWkJaX6LAu8Q7kNvwFK44tS&_nc_oc=Ado36i-awDstrL_fkndZQoUMVLE8GQWogisvrtDd7xhgGbt39AtqeUb3vkzD53-ZyZ8&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQL9a9KHioGDcgfwUqc1h0PD55m8Io8TNnLzR0Iqdcq_2A&oe=6AB6D1AF",
+            "profileUrl": "https://www.facebook.com/govinda.tripati.2025"
+          },
+          "attachments": [
+            {
+              "type": "photo",
+              "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/800780365_1081068398262324_8940008463476697109_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=p526x296&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=a2mwsWajjjsQ7kNvwGK0721&_nc_oc=Adoj08-HmuzBEuK8IQEo4utHLt-pSZGQeLD3szyPl0pUQKtH3ljK_nSnm08DxVDSHuc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIhGw-kFPnHwMrMG7SHddK_c4rG8n8iZJdh2c2o9nQNvA&oe=6AB6E731",
+              "id": "1081068394928991",
+              "accessibilityCaption": "May be a graphic of hospital and text"
+            }
+          ]
+        },
+        {
+          "url": "https://www.facebook.com/groups/930914163611451/permalink/28378796838396480/",
+          "timestamp": 1789984961000,
+          "postText": "🎉 CONGRATULATIONS, DEBBIE! 🎉\n\nToday we are celebrating an incredible milestone — 30 years with Dr. Mary Beth Wiles and Blairsville Internal Medicine! ❤️\n\nWe truly couldn’t ask for a better person, teammate, or biller. We are so incredibly thankful to have you as part of our team! 🩺\n\nThe world of insurance and medical billing changes constantly, and navigating those waters is no small task. Your knowledge, dedication, and expertise have been invaluable to our practice over the past 30 years. Because of you, we can focus on what matters most — taking care of our patients — while you work tirelessly behind the scenes to help us navigate the ever-changing world of insurance. 💙\n\nAnd as if that weren’t enough… Debbie also serves as a paramedic with Union General Hospital, proving that her dedication to healthcare goes far beyond our office doors. 🚑❤️\n\n30 years of dedication, knowledge, hard work, and compassion — and we are so lucky to have you!\n\nPlease join us in congratulating Debbie on 30 amazing years! 🥳👏\n\nWe appreciate you more than words can say! ❤️\n\n#BlairsvilleInternalMedicine #30Years #WorkAnniversary #HealthcareHeroes #MedicalBilling #Teamwork #PatientCare #CongratulationsDebbie #UnionGeneralHospital",
+          "reactionsCount": 1,
+          "reactions": {
+            "like": 1
+          },
+          "commentsCount": 0,
+          "sharesCount": 0,
+          "postId": "28378796838396480",
+          "author": {
+            "id": "61578177540635",
+            "name": "Blairsville Internal Medicine",
+            "profilePicture": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/518011316_122099419994939251_7033991985292899698_n.jpg?stp=c84.0.1698.1698a_cp0_dst-jpg_tt6&cstp=mx1698x1698&ctp=s24x24&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=onh3-94PZQwQ7kNvwGoOBh7&_nc_oc=Adpc-SVzaMN3-BGXSUaFDAnCva1euAIIw_ZpSRVhmDalKecsq2kXAkQV9GhdTTxW06w&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQLwfRoTM1ovvRB3r5_l-RDtTA8Q8eAg5AM0wozSjjlidw&oe=6AB6F7C1",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61578177540635"
+          },
+          "attachments": [
+            {
+              "type": "photo",
+              "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/796568982_122200351820939251_185647904264250641_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1056x1056&ctp=s1056x1056&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=m398S3l25qIQ7kNvwGA3ykf&_nc_oc=Adq7KIcJS_NZAGeRJkia8dyf1PRnJnMSQ1L8TchKJWS0RhJH0d8E8mK4caFDL8aLffI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIS_8nDL1ijy3g4bQb5ENSB8UNHt3ixlIc6I7yBlQGY-Q&oe=6AB6E462",
+              "id": "122200351898939251",
+              "accessibilityCaption": "May be an image of text"
+            },
+            {
+              "type": "photo",
+              "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/799958505_122200351814939251_783808923893300315_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx939x933&ctp=s939x933&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mLYFadPtMnQQ7kNvwGEazsN&_nc_oc=AdqjuC43nyqI0fMGYCyfSp8EjDyK27MgklXvJCtGODC8z6j-pxjV_-enG3uwoZYgeUs&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIHH7JJy60sEDAd61uFULpeJyItqx-WCtazTrgPok4NrA&oe=6AB6EBF0",
+              "id": "122200351880939251",
+              "accessibilityCaption": "May be an image of smiling and text that says 'Congratulations 30years! 30 years! Alnire CLEAM ocToBHиR'"
+            }
+          ]
+        },
+        {
+          "url": "https://www.facebook.com/mu.pleven.bg/posts/pfbid0xDfNv6CjdPJb7kHY4JQ18FV64KERA3ZBhWbE15ANguyHu1KQz25NpbZUZW32rdBBl",
+          "timestamp": 1789988761000,
+          "postText": "🚑 Над 200 чуждестранни студенти преминаха тридневно симулационно обучение за действия при бедствия с масови жертви\n\nНад 200 чуждестранни студенти по медицина от III курс преминаха интензивно тридневно изнесено обучение на тема „Симулационно обучение за бедствия с масови жертви“ в периода 15–17 септември 2026 г.\n\nОбучението се организира ежегодно по инициатива на ректора на МУ–Плевен проф. д-р Добромир Димитров в партньорство с екип на Обучителния и образователен център за симулация на здравеопазването към Тексаския технически университет – Ел Пасо, САЩ, с ръководител доц. Радосвета Уелс.\n\nВ подготовката на студентите се включиха екипите на Ресусцитационния център на МУ–Плевен, ръководен от доц. д-р Полина Маринова, и на сектор „Медицина на бедствените ситуации“ – доц. д-р Росица Василева и ас. д-р Валери Георгиев.\n\n📍 Практическите занятия се проведоха в Учебна база „Среброструй“, превърната за целите на обучението в реалистична полева тренировъчна среда.\n\nВ рамките на симулиран сценарий с масови жертви, атентат и пожар студентите извършиха първоначална оценка и триаж на пострадалите, определиха приоритетите за оказване на медицинска помощ и организираха действията си в динамично развиваща се извънредна ситуация.\n\nВ обучението активно участваха представители на Центъра за спешна медицинска помощ, пожарната и полицията, което даде възможност на бъдещите лекари да се запознаят с принципите на взаимодействие между различните служби при бедствия и инциденти с множество пострадали.\n\nЗа реалистичното протичане на сценариите допринесоха и стажант-лекари, които влязоха в ролите на обучители.\n\n🎓 Тридневното обучение е важна част от практическата подготовка на студентите по медицина и развива ключови умения за бърза оценка на състоянието на пострадалите, правилен триаж, работа в екип и ефективна комуникация при бедствия с масови жертви.",
+          "reactionsCount": 16,
+          "reactions": {
+            "like": 16
+          },
+          "commentsCount": 1,
+          "sharesCount": 2,
+          "postId": "1699097702223304",
+          "author": {
+            "id": "100063692704709",
+            "name": "Medical University Pleven / Медицински Университет Плевен / Official",
+            "profilePicture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/608248314_1451476736985403_7903419692519496371_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx363x361&ctp=s40x40&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=ukcp7BTCNcQQ7kNvwFkWpbj&_nc_oc=AdrTMrQUvIKNXJ-cFeddpwsF4u_reUjbHSbSEGCsZA6XPcocXG513zgPYOZpplJRpPQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQKKxkAb7yEG790VdErLFVzUusXQ5Tot6aKnda78lbtVFw&oe=6AB6E552",
+            "profileUrl": "https://www.facebook.com/mu.pleven.bg"
+          },
+          "attachments": [
+            {
+              "type": "photo",
+              "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/819012180_1685494736553574_1597197494362356234_n.png?stp=dst-jpg_tt6&cstp=mx2023x986&ctp=s2023x986&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VuPxf6KdKyoQ7kNvwEYJmWQ&_nc_oc=Adq46VGz0RENUZrsje9LIyWXokeYezA1q2hv7X2fQ_hg-mbRShbEnKLjRulCfrdE76o&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQL8jPof-ovLqWb-jKM_RC9zP53KBTESDUb1VqxX4XL1Ig&oe=6AB6F891",
+              "id": "1699096828890058",
+              "accessibilityCaption": "May be an image of ambulance"
+            },
+            {
+              "type": "photo",
+              "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/819175809_1428682212554876_5858448907391498254_n.png?stp=dst-jpg_tt6&cstp=mx1600x1200&ctp=s1600x1200&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6LhI9sF_wJIQ7kNvwEaqrXa&_nc_oc=AdrLGa3ZUzz4l3CD35nGWLoXh_9OXjn-qvWExhHIX-2AB_56WUTm37ADq1SS1Ns1LSw&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIX6iKN8B_lj7K3yN0S8pN4uEx9f92AH9_P_Tt0mVsfQQ&oe=6AB6D258",
+              "id": "1699095288890212",
+              "accessibilityCaption": "May be an image of one or more people, ambulance and text"
+            },
+            {
+              "type": "photo",
+              "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/817543318_2165927270624495_7127320517142998446_n.png?stp=dst-jpg_tt6&cstp=mx1547x1256&ctp=s1547x1256&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ApzMKv3-ApsQ7kNvwGCPYcR&_nc_oc=AdqVjUS6HU4KLZ_csJR3zKRbEX1-54f_pdw63UvJ_UfuRJDaPv-sm64nfqIfDdJ7n8s&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQLzq2V-WG9mF-fEBgFlAqirh8YiL28-Kb9Q-kufw-raZA&oe=6AB6DD8E",
+              "id": "1699095748890166",
+              "accessibilityCaption": "May be an image of one or more people, ambulance and text that says 'ግችንጣን 45B0 =법 10 UИR መ3ዞ'"
+            },
+            {
+              "type": "photo",
+              "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/817552031_961378823052970_3234467430569324597_n.png?stp=dst-jpg_tt6&cstp=mx2048x1152&ctp=s2048x1152&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=F803RxmMzXwQ7kNvwG2fQIt&_nc_oc=Ado08zq_fUFrsan_N1TvAtMh42Wd1Bt8XM6XU_MVk8gabpZVzQCIgxIs2mbNSCvw0rA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQLnmmvBMe-1rJaV2o9igL_NHoT3ue0vPJyCO6Ue2QB5Xg&oe=6AB6EB03",
+              "id": "1699095155556892",
+              "accessibilityCaption": "May be an image of studying"
+            },
+            {
+              "type": "photo",
+              "url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/794524614_2182785098948610_9098725000577920065_n.png?stp=dst-jpg_tt6&cstp=mx2048x1152&ctp=s2048x1152&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NcjzjHEC2VwQ7kNvwGMs9SU&_nc_oc=AdobJBnARAOSobUd5YbGMdhIbZn_i_nMs1etgce_6i03_A9829SQEX79VjTJTMJTQu4&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQJvq9UlIUgW5MJCmP7B1w8JbSV5mI712bpKVWVps8tO-A&oe=6AB6CB5A",
+              "id": "1699095162223558",
+              "accessibilityCaption": "May be an image of one or more people and people studying"
+            }
+          ]
+        },
+        {
+          "url": "https://www.facebook.com/groups/463378034720654/permalink/1578273483231098/",
+          "timestamp": 1789983890000,
+          "postText": "💚 Let Infinity Care Services help lighten the load! 💛\n\nWhether you need a trusted caregiver to provide respite care for your loved one or professional support with your healthcare business, I’m here to assist with:\n\n✨ Respite Care\n📅 Scheduling Support\n🧾 Billing Support\n🏡 Home Health Agency Setup\n\n💡 Caregiver Tip of the Day: Plan short breaks before you feel overwhelmed. Respite care gives you time to rest, recharge, and return refreshed. Taking care of yourself helps you continue providing quality care for the person you love.\n\nContact me today to learn more!\n\n📞 (757) 470-6474\n📧 InfinityCareServicesllc@gmail.com\n\nInfinity Care Services, LLC\n“Compassion Without Limits”\n\n#InfinityCareServices #RespiteCare #CaregiverSupport #HomeHealthCare #MedicalBilling #SchedulingSupport #HomeHealthAgency",
+          "reactionsCount": 0,
+          "reactions": {},
+          "commentsCount": 0,
+          "sharesCount": 0,
+          "postId": "1578273483231098",
+          "author": {
+            "id": "100029452630703",
+            "name": "Jameica Evans",
+            "profilePicture": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/531596576_1566488044342935_7610385465496868250_n.jpg?stp=c0.18.540.540a_cp0_dst-jpg_tt6&cstp=mx540x540&ctp=s24x24&_nc_cat=104&ccb=1-7&_nc_sid=1d2534&_nc_ohc=Li1L3iKVF_sQ7kNvwHgG5l0&_nc_oc=Adpbd9H3Q8Ny-b_ZZARVgkH9M8WWw77eE4FWqNHGnD4UtwY90yGby8bECtgKJ80eoiQ&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIvcqWtnId-e5WtB8yVNlwWiqEGQ9VPlHnDjFLOcdo36A&oe=6AB6E573",
+            "profileUrl": "https://www.facebook.com/jmoneylippz"
+          },
+          "attachments": [
+            {
+              "type": "photo",
+              "url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/818562007_1892902661701470_7788347061101591309_n.jpg?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=p526x296&_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=mnWazb9jDHsQ7kNvwFXgVsN&_nc_oc=Adq1kn2THD1kodVcxD0hOfBDQXWH3E2UNglbKY4_KI2ifVvWCJ5tmdUK2qxj_iqEcCI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIHJRpsFxSwfFwGUeNdgTil4foI4WfrQ2SsFIW2hTI9EQ&oe=6AB6D5D9",
+              "id": "1892904858367917",
+              "accessibilityCaption": "May be a graphic of text that says 'INFINITY CARE SERVICES, LLC Compassion Without Limits Caring People Stronger Days Brighter Tomorrow at Home ۲ KIND CARE BRIGHTER LIVES YOU ARE NOT ALONE HOW I CAN HELP Respite Care 福 Scheduling Support Billing Support Home Health Agency Setup CAREGIVER TIP OF THE DAY Plan short breaks before you feel overwhelmed. Respite care gives you time to rest, recharge, and return refreshed. O ME TODAY (757) (757)470-6474 470-6474 Ca Changes Lives InfnityCareServiceslc@gmail.com'"
+            }
+          ]
+        },
+        {
+          "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid032VnZk6RRcXiBqa84k1LcxD3AYruP2qsAairzqJGAiWm4RWvSg2rxi96yek4AjaAvl&id=61590590044342",
+          "timestamp": 1789984051000,
+          "postText": "Backup team lead",
+          "reactionsCount": 0,
+          "reactions": {},
+          "commentsCount": 0,
+          "sharesCount": 0,
+          "postId": "122140843611353001",
+          "author": {
+            "id": "61590590044342",
+            "name": "Medical Billing Jobs",
+            "profilePicture": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/717236787_122103239439353001_9104000384759766834_n.jpg?stp=c0.24.816.816a_cp0_dst-jpg_tt6&cstp=mx816x816&ctp=s40x40&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=_GRz5_67z_gQ7kNvwGRo7gx&_nc_oc=AdofxdKTv-wQNGxHgHhFZRnalRgcrX6YDIVfB6iU5ISds7ti1thQuts695gFuRu_9Do&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQIlPe_4lLNFGHrojzd4mIXo1fWyXdVuy9dT2AhG5xHYCg&oe=6AB6E686",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61590590044342"
+          },
+          "attachments": [
+            {
+              "type": "photo",
+              "url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/817519826_122140843539353001_7303933907246984449_n.jpg?stp=dst-jpg_tt6&cstp=mx917x1381&ctp=p526x296&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1env5v0FmMsQ7kNvwEyIxpG&_nc_oc=Adr_VYm91begYqha-taLySh4wr6Zm7npENwHw0p_nLcNmVUmdjNJTbzy1cH9x_GEpm4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=z9oej3FyE-5wGj8_H2-NZA&_nc_ss=7c2a8&oh=00_AQKwkAWNnO486skI-HIqEE1P9Or0iVvCCoqDujxlRIYfuQ&oe=6AB6CB9C",
+              "id": "122140843533353001",
+              "accessibilityCaption": "May be a graphic of text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "actor": "powerai/facebook-post-search-scraper",
+      "actor_id": "Ew2lyICEnHMcqRo6T",
+      "total_runs": 218486,
+      "price_per_result_usd": 0.003,
+      "input": {
+        "query": "medical billing",
+        "maxResults": 5
+      },
+      "note": "has start_date/end_date, relevant to the historical-coverage question",
+      "verdict": "FAIL",
+      "reason": "START FAILED 400: {\n  \"error\": {\n    \"type\": \"invalid-input\",\n    \"message\": \"Input is not valid: Field input.maxResults must be >= 10\"\n  }\n}",
+      "returned": 0,
+      "record_kinds": {},
+      "gate_messages": [],
+      "fields_present": [],
+      "run_id": null,
+      "status": null,
+      "cost_usd": null,
+      "items_raw": []
+    },
+    {
+      "actor": "danek/facebook-search-rental",
+      "actor_id": "xSewLChDcAk1hNhga",
+      "total_runs": 2971199,
+      "price_per_result_usd": 0.005,
+      "input": {
+        "query": "medical billing",
+        "search_type": "posts",
+        "max_posts": 5,
+        "max_retries": 3
+      },
+      "note": "3M runs; 'rental' pricing may gate it the way facebook-search-ppr did",
+      "verdict": "PASS",
+      "reason": "5/5 records are posts",
+      "returned": 5,
+      "record_kinds": {
+        "post": 5
+      },
+      "gate_messages": [],
+      "fields_present": [
+        "album_preview",
+        "associated_group",
+        "associated_group_id",
+        "attached_event",
+        "attached_group",
+        "attached_post",
+        "attached_post_url",
+        "author",
+        "author_title",
+        "authors",
+        "comments_count",
+        "comments_id",
+        "external_url",
+        "image",
+        "images_count",
+        "message",
+        "message_rich",
+        "post_id",
+        "reactions",
+        "reactions_count",
+        "reshare_count",
+        "shares_id",
+        "text_format_metadata",
+        "timestamp",
+        "top_comments",
+        "type",
+        "url",
+        "video",
+        "video_files",
+        "video_thumbnail",
+        "video_view_count"
+      ],
+      "run_id": "RFMMSG4pUbXh5hCZb",
+      "status": "SUCCEEDED",
+      "cost_usd": 0.025050000000000003,
+      "items_raw": [
+        {
+          "post_id": "10174355973310257",
+          "type": "post",
+          "url": "https://www.facebook.com/tracey.g.dunn.3/posts/pfbid0VxWWNiZ7VmuGwMaggXpWtNjy3dTiJpb7jtDSX9nqC5fT3rUKBpqTLEtHzem5ceEpl",
+          "message": "#ProudofMediAccounts#\n\nWe received an email this week from Global Health & Pharma (GHP) letting us know we’d been named Best Medical Billing Firm in their 2026 Global Excellence Awards.\n\nIt’s a small piece of recognition from an industry publication, but it made me stop and reflect about the MediAccounts journey.\n\n2012… a shed, three laptops, and a very clear idea that there had to be a better way.\n\nWe had the perfect mix from the start — me, Tracey Gelding Dunn with industry experience, financial expertise EleanorBlacher NeeHearn and for Martine Reuben, a personal, consultant-side perspective from growing up in a family of doctors.\n\nComing from corporate backgrounds, we were genuinely shocked that bad debt in private practice was almost accepted as the norm. Hospitals, insurers, embassies and patients often didn’t pay, and insurers would frequently push back on fees in an effort to control costs — leaving gaps that weren’t always followed through.\n\nDoctors, understandably focused on clinical work, didn’t always have the time or visibility to stay on top of it — but those small missed payments quickly add up.\n\nThere wasn’t a truly joined-up, end-to-end accounts solution that combined technology with a consistent, personal approach.\n\nSo we built one.\n\nThe three of us have been described as having “the power of a wind tunnel” — and honestly, that probably sums us up quite well. That same drive has carried through the business and into our team, who are the backbone of MediAccounts.\n\nNot a big award — but a good reminder of the journey",
+          "message_rich": "#ProudofMediAccounts#\n\nWe received an email this week from Global Health & Pharma (GHP) letting us know we’d been named Best Medical Billing Firm in their 2026 Global Excellence Awards.\n\nIt’s a small piece of recognition from an industry publication, but it made me stop and reflect about the MediAccounts journey.\n\n2012… a shed, three laptops, and a very clear idea that there had to be a better way.\n\nWe had the perfect mix from the start — me, Tracey Gelding Dunn with industry experience, financial expertise EleanorBlacher NeeHearn and for Martine Reuben, a personal, consultant-side perspective from growing up in a family of doctors.\n\nComing from corporate backgrounds, we were genuinely shocked that bad debt in private practice was almost accepted as the norm. Hospitals, insurers, embassies and patients often didn’t pay, and insurers would frequently push back on fees in an effort to control costs — leaving gaps that weren’t always followed through.\n\nDoctors, understandably focused on clinical work, didn’t always have the time or visibility to stay on top of it — but those small missed payments quickly add up.\n\nThere wasn’t a truly joined-up, end-to-end accounts solution that combined technology with a consistent, personal approach.\n\nSo we built one.\n\nThe three of us have been described as having “the power of a wind tunnel” — and honestly, that probably sums us up quite well. That same drive has carried through the business and into our team, who are the backbone of MediAccounts.\n\nNot a big award — but a good reminder of the journey",
+          "timestamp": 1780659746,
+          "comments_count": 36,
+          "reactions_count": 69,
+          "reshare_count": 0,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 45,
+            "love": 24,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "pfbid02kns9CspMvMNrjAFXyitSnqoE2zo1Ri41Cwfb2ZjuvrkiXxUYActvkaTgt4F2e4Ccl",
+            "name": "Tracey Gelding Dunn",
+            "url": "https://www.facebook.com/tracey.g.dunn.3",
+            "profile_picture_url": "https://scontent.flca1-1.fna.fbcdn.net/v/t1.6435-1/90355483_10163071778795257_4923302092073861120_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=kjtXhuqz5XkQ7kNvwEVP3yz&_nc_oc=Adr_hurD9RiVMCEjsaDgAp1K2P-2mOnrw5DvQiFmSkTbSyVnDfdUZ1YoKCseSI4CYOc&_nc_zt=24&_nc_ht=scontent.flca1-1.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQKchraAB2AKfS0m5TgVn8hCWArD4rNZQYPSRHOJuDHTlw&oe=6AD87D75",
+            "delegate_page_id": null
+          },
+          "authors": [
+            {
+              "id": "pfbid02kns9CspMvMNrjAFXyitSnqoE2zo1Ri41Cwfb2ZjuvrkiXxUYActvkaTgt4F2e4Ccl",
+              "name": "Tracey Gelding Dunn",
+              "url": "https://www.facebook.com/tracey.g.dunn.3",
+              "profile_picture_url": "https://scontent.flca1-1.fna.fbcdn.net/v/t1.6435-1/90355483_10163071778795257_4923302092073861120_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=kjtXhuqz5XkQ7kNvwEVP3yz&_nc_oc=Adr_hurD9RiVMCEjsaDgAp1K2P-2mOnrw5DvQiFmSkTbSyVnDfdUZ1YoKCseSI4CYOc&_nc_zt=24&_nc_ht=scontent.flca1-1.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQKchraAB2AKfS0m5TgVn8hCWArD4rNZQYPSRHOJuDHTlw&oe=6AD87D75",
+              "delegate_page_id": null
+            }
+          ],
+          "author_title": null,
+          "image": {
+            "uri": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-6/718151321_10174355935025257_7651813192499888456_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GlRYULOcojAQ7kNvwGogHlw&_nc_oc=AdoP2IT_vzGEoglrsyWSk35eGjY0I6ZHf6avd4S7qvywg72OSyZ6RUiXAoIwBV1-a_8&_nc_zt=23&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQIlCbTtBpCd34Wm2e2SDt-TQnBZrAdxDzGSpIpqc1Gmrg&oe=6AB6D824",
+            "height": 1010,
+            "width": 1080,
+            "id": "10174355935015257"
+          },
+          "video": null,
+          "video_view_count": null,
+          "album_preview": null,
+          "video_files": null,
+          "video_thumbnail": null,
+          "external_url": null,
+          "attached_event": null,
+          "attached_group": null,
+          "attached_post": null,
+          "attached_post_url": null,
+          "text_format_metadata": null,
+          "comments_id": "10174355973310257",
+          "shares_id": "10174355973310257",
+          "associated_group_id": null,
+          "associated_group": null,
+          "images_count": null,
+          "top_comments": []
+        },
+        {
+          "post_id": "122113917752398412",
+          "type": "post",
+          "url": "https://www.facebook.com/NastraCareLearning/posts/pfbid0vQAZ8K8Spis4Z7wokwMw92pcpthkoWGwzfj2cJksvfrCMz45iGTvLbpHsEmrARPDl",
+          "message": "Ready to take your career to the next level? \n\nJoin Nastra Care Learning’s Certificate in Medical Billing and gain hands-on experience with industry-leading medical billing software. Whether you're just starting or looking to advance your career, this course will equip you with the essential skills for success! \n\n✅ Learn from industry experts\n✅ 3-month course + 1 month of practice\n✅ FREE demo class included!\n✅ Affordable fees: $300 for the full course, or $100 per month\n✅ Online classes for flexible learning\n\nKickstart your career today and get certified in a field with endless opportunities. Don’t miss out on this chance to learn from the best! \n\n👉 Apply Now!\n📞 Contact us: +966 59 64 7412\n🌐 Visit: www.nastracarelearning.com\n📧 Email: info@nastracarelearning.com\n\n#MedicalBilling #CareerGrowth #HealthcareCareers #NastraCareLearning #OnlineLearning #ProfessionalDevelopment #CertificateProgram",
+          "message_rich": "Ready to take your career to the next level? \n\nJoin Nastra Care Learning’s Certificate in Medical Billing and gain hands-on experience with industry-leading medical billing software. Whether you're just starting or looking to advance your career, this course will equip you with the essential skills for success! \n\n✅ Learn from industry experts\n✅ 3-month course + 1 month of practice\n✅ FREE demo class included!\n✅ Affordable fees: $300 for the full course, or $100 per month\n✅ Online classes for flexible learning\n\nKickstart your career today and get certified in a field with endless opportunities. Don’t miss out on this chance to learn from the best! \n\n👉 Apply Now!\n📞 Contact us: +966 59 64 7412\n🌐 Visit: www.nastracarelearning.com\n📧 Email: info@nastracarelearning.com\n\n#MedicalBilling #CareerGrowth #HealthcareCareers #NastraCareLearning #OnlineLearning #ProfessionalDevelopment #CertificateProgram",
+          "timestamp": 1726740902,
+          "comments_count": 9,
+          "reactions_count": 88,
+          "reshare_count": 1,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 83,
+            "love": 5,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "61561952384239",
+            "name": "NastraCare Learning",
+            "url": "https://www.facebook.com/NastraCareLearning",
+            "profile_picture_url": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-1/452052490_122182212086033864_779543786282313232_n.jpg?stp=c236.0.1575.1575a_cp0_dst-jpg_s80x80_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=DmjJ4byxn_sQ7kNvwGfkLWR&_nc_oc=AdoFaCJGzYicUenEpF7ti3wmImB8htGAXxWIF5-dtFfvhBay-C5lLGAcwJn5QIyVcRQ&_nc_zt=24&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQKqUYXhl2-hFZynx6TFusXxCvJJ5sw1Wpsxqmqt9z8rNQ&oe=6AB6D014",
+            "delegate_page_id": "378416128685550"
+          },
+          "authors": [
+            {
+              "id": "61561952384239",
+              "name": "NastraCare Learning",
+              "url": "https://www.facebook.com/NastraCareLearning",
+              "profile_picture_url": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-1/452052490_122182212086033864_779543786282313232_n.jpg?stp=c236.0.1575.1575a_cp0_dst-jpg_s80x80_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=DmjJ4byxn_sQ7kNvwGfkLWR&_nc_oc=AdoFaCJGzYicUenEpF7ti3wmImB8htGAXxWIF5-dtFfvhBay-C5lLGAcwJn5QIyVcRQ&_nc_zt=24&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQKqUYXhl2-hFZynx6TFusXxCvJJ5sw1Wpsxqmqt9z8rNQ&oe=6AB6D014",
+              "delegate_page_id": "378416128685550"
+            }
+          ],
+          "author_title": null,
+          "image": {
+            "uri": "https://scontent.flca1-2.fna.fbcdn.net/v/t39.30808-6/467182950_122121450116398412_4851709143064441864_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4CV55uJnQHwQ7kNvwFjkDZC&_nc_oc=Adqj1Hks7lEBlOnKkt9Se4I7OmDAjnh-SrKJyJSs_A3A_QTCke1T3jtcWnddVikD8zM&_nc_zt=23&_nc_ht=scontent.flca1-2.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQJAbKtCpfHTU1cwMspTmR1N654pH42r_k54pEhyKSKRtA&oe=6AB6E5CA",
+            "height": 1080,
+            "width": 1080,
+            "id": "122113917698398412"
+          },
+          "video": null,
+          "video_view_count": null,
+          "album_preview": null,
+          "video_files": null,
+          "video_thumbnail": null,
+          "external_url": null,
+          "attached_event": null,
+          "attached_group": null,
+          "attached_post": null,
+          "attached_post_url": null,
+          "text_format_metadata": null,
+          "comments_id": "122113917752398412",
+          "shares_id": "122113917752398412",
+          "associated_group_id": null,
+          "associated_group": null,
+          "images_count": null,
+          "top_comments": []
+        },
+        {
+          "post_id": "1035404214140256",
+          "type": "post",
+          "url": "https://www.facebook.com/shanelle.price.5205/posts/pfbid02m1eEzb7zYGve2MucW1t7WXitoixoUi6iEB6cXRuQMHdZPHHyfQ1hZ4n7ePxzaNACl",
+          "message": "I FUCKIN DID IT ‼️ Next step getting my certification ❤️ I’m so proud of myself, I got distracted, discouraged, and wanted to quit but I kept goin 💪🏻 Thank you Lord for giving me the strength and determination to finish 🙏🙏 \n#keepgoing\n#medicalbilling\n#medicalstudent",
+          "message_rich": "I FUCKIN DID IT ‼️ Next step getting my certification ❤️ I’m so proud of myself, I got distracted, discouraged, and wanted to quit but I kept goin 💪🏻 Thank you Lord for giving me the strength and determination to finish 🙏🙏 \n#keepgoing\n#medicalbilling\n#medicalstudent",
+          "timestamp": 1695356816,
+          "comments_count": 83,
+          "reactions_count": 212,
+          "reshare_count": 0,
+          "reactions": {
+            "angry": 0,
+            "care": 3,
+            "haha": 0,
+            "like": 46,
+            "love": 163,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "100030120608379",
+            "name": "Shanelle Price",
+            "url": "https://www.facebook.com/shanelle.price.5205",
+            "profile_picture_url": "https://scontent.flca1-4.fna.fbcdn.net/v/t39.30808-1/474049549_1321845212162820_8329508209062231183_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_ohc=jF895umsI1UQ7kNvwGduIQJ&_nc_oc=AdrH7K0B4Kzd5bvEgy-lpLETVISACmjSK9pIFJ7D3aZeQWe2BZc7MqSnyxNbQk2_iN4&_nc_zt=24&_nc_ht=scontent.flca1-4.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQJnMAmnL9oAExQVQDtVxoRRn0z2mjILTA096oXar7f5LA&oe=6AB6D4B1",
+            "delegate_page_id": "104553412460312"
+          },
+          "authors": [
+            {
+              "id": "100030120608379",
+              "name": "Shanelle Price",
+              "url": "https://www.facebook.com/shanelle.price.5205",
+              "profile_picture_url": "https://scontent.flca1-4.fna.fbcdn.net/v/t39.30808-1/474049549_1321845212162820_8329508209062231183_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_ohc=jF895umsI1UQ7kNvwGduIQJ&_nc_oc=AdrH7K0B4Kzd5bvEgy-lpLETVISACmjSK9pIFJ7D3aZeQWe2BZc7MqSnyxNbQk2_iN4&_nc_zt=24&_nc_ht=scontent.flca1-4.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQJnMAmnL9oAExQVQDtVxoRRn0z2mjILTA096oXar7f5LA&oe=6AB6D4B1",
+              "delegate_page_id": "104553412460312"
+            }
+          ],
+          "author_title": null,
+          "image": {
+            "uri": "https://scontent.flca1-4.fna.fbcdn.net/v/t39.30808-6/473365755_1318506209163387_5229591636941914862_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bBAwJjk3b0MQ7kNvwHloroL&_nc_oc=Adp7fe8NthF5IDL08ISfAsvk7iTL8Sd2yaA-kbnZEQ9JfR4FupIPj7DaAJuwDfqkAFc&_nc_zt=23&_nc_ht=scontent.flca1-4.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQIC9PkjrD62oOUmlsIKMW9t75J21aUrB5KcQO_lFDbBZg&oe=6AB700F6",
+            "height": 1440,
+            "width": 1080,
+            "id": "1035402544140423"
+          },
+          "video": null,
+          "video_view_count": null,
+          "album_preview": null,
+          "video_files": null,
+          "video_thumbnail": null,
+          "external_url": null,
+          "attached_event": null,
+          "attached_group": null,
+          "attached_post": null,
+          "attached_post_url": null,
+          "text_format_metadata": null,
+          "comments_id": "1035404214140256",
+          "shares_id": "1035404214140256",
+          "associated_group_id": null,
+          "associated_group": null,
+          "images_count": null,
+          "top_comments": []
+        },
+        {
+          "post_id": "1364889145111922",
+          "type": "post",
+          "url": "https://www.facebook.com/groups/1194787192122119/posts/1364889145111922/",
+          "message": "No Phones WFH \n\n1-2 years of medical billing experience preferred.",
+          "message_rich": "No Phones WFH \n\n1-2 years of medical billing experience preferred.",
+          "timestamp": 1785794013,
+          "comments_count": 16,
+          "reactions_count": 62,
+          "reshare_count": 13,
+          "reactions": {
+            "angry": 0,
+            "care": 0,
+            "haha": 0,
+            "like": 60,
+            "love": 2,
+            "sad": 0,
+            "wow": 0
+          },
+          "author": {
+            "id": "61590739507642",
+            "name": "WFH Leads Daily",
+            "url": "https://www.facebook.com/people/WFH-Leads-Daily/61590739507642/",
+            "profile_picture_url": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-1/723792584_122105229501357983_1220809631228833035_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=2aZVEN5mIhIQ7kNvwHazcE6&_nc_oc=Adra_i3R8SSvKZzIuAJTzOfz5mnm5A-kFud97ZC8tF84PDb02xajemF62_R5d83HQv0&_nc_zt=24&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQKIjjnOI_wKf2xTqp4DcDB_yQeqLUAg6J5qC8kcBEQbvA&oe=6AB6D30E",
+            "delegate_page_id": "1253349487853402"
+          },
+          "authors": [
+            {
+              "id": "61590739507642",
+              "name": "WFH Leads Daily",
+              "url": "https://www.facebook.com/people/WFH-Leads-Daily/61590739507642/",
+              "profile_picture_url": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-1/723792584_122105229501357983_1220809631228833035_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=2aZVEN5mIhIQ7kNvwHazcE6&_nc_oc=Adra_i3R8SSvKZzIuAJTzOfz5mnm5A-kFud97ZC8tF84PDb02xajemF62_R5d83HQv0&_nc_zt=24&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQKIjjnOI_wKf2xTqp4DcDB_yQeqLUAg6J5qC8kcBEQbvA&oe=6AB6D30E",
+              "delegate_page_id": "1253349487853402"
+            }
+          ],
+          "author_title": null,
+          "image": {
+            "uri": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-6/763895016_122124532941357983_966581556448268966_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1-MryKzU-uEQ7kNvwECvnEF&_nc_oc=Adp16SLx7cI34zq8FTPTHn6cXodhNPbVRIJZLY6fSS6yScS_nLUJPV8K5RJqal34KEY&_nc_zt=23&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQJF5F-0IA74zpDYC-bBEAmkUKoK-brz7X_rCa_mo6VRqA&oe=6AB6DF74",
+            "height": 565,
+            "width": 1080,
+            "id": "122124532935357983"
+          },
+          "video": null,
+          "video_view_count": null,
+          "album_preview": null,
+          "video_files": null,
+          "video_thumbnail": null,
+          "external_url": null,
+          "attached_event": null,
+          "attached_group": null,
+          "attached_post": null,
+          "attached_post_url": null,
+          "text_format_metadata": null,
+          "comments_id": "1364889145111922",
+          "shares_id": "1364889145111922",
+          "associated_group_id": "1194787192122119",
+          "associated_group": {
+            "group_id": "1194787192122119",
+            "name": "WFH Insider Access",
+            "url": "https://www.facebook.com/groups/1194787192122119/",
+            "work_foreign_entity_info": null,
+            "is_multi_company_group": false,
+            "work_official_status": "UNOFFICIAL"
+          },
+          "images_count": null,
+          "top_comments": []
+        },
+        {
+          "post_id": "1901875027804874",
+          "type": "post",
+          "url": "https://www.facebook.com/GoodFinancialCents/posts/pfbid03sWfZipL2UMmw1kNjA3T6yDbS2WPwDpHzy6MWDAqF3REeD1tgdtHFGa2TVEkieufl",
+          "message": "Before you blindly pay a medical bill, READ THE BILL.\n\nMedical billing is one of those areas where a lot of people assume the number printed at the bottom is just the number they owe.\n\nSometimes it is.\n\nSometimes there are duplicate charges, coding mistakes, services you don’t recognize, or discounts that were never applied.\n\nThat’s why asking for an itemized bill is such a basic move, but a surprisingly important one. You want to know exactly what you’re being charged for before handing over thousands of dollars.\n\nAnd if the bill is still crushing you, call the billing department. Ask questions. Ask if there’s a cash-pay discount. Ask about financial assistance. Ask if there’s any adjustment available.\n\nWorst case, they say no.\n\nBest case, one phone call saves you hundreds or even thousands.\n\nMedical bills are expensive enough without paying for stuff you shouldn’t be paying for in the first place.",
+          "message_rich": "Before you blindly pay a medical bill, READ THE BILL.\n\nMedical billing is one of those areas where a lot of people assume the number printed at the bottom is just the number they owe.\n\nSometimes it is.\n\nSometimes there are duplicate charges, coding mistakes, services you don’t recognize, or discounts that were never applied.\n\nThat’s why asking for an itemized bill is such a basic move, but a surprisingly important one. You want to know exactly what you’re being charged for before handing over thousands of dollars.\n\nAnd if the bill is still crushing you, call the billing department. Ask questions. Ask if there’s a cash-pay discount. Ask about financial assistance. Ask if there’s any adjustment available.\n\nWorst case, they say no.\n\nBest case, one phone call saves you hundreds or even thousands.\n\nMedical bills are expensive enough without paying for stuff you shouldn’t be paying for in the first place.",
+          "timestamp": 1789798121,
+          "comments_count": 192,
+          "reactions_count": 2817,
+          "reshare_count": 485,
+          "reactions": {
+            "angry": 36,
+            "care": 4,
+            "haha": 11,
+            "like": 2668,
+            "love": 43,
+            "sad": 8,
+            "wow": 47
+          },
+          "author": {
+            "id": "100039471860412",
+            "name": "Good Financial Cents",
+            "url": "https://www.facebook.com/GoodFinancialCents",
+            "profile_picture_url": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_s80x80_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwEzC0an&_nc_oc=AdqEABHE7hrHx4OmIdI4m1UuiEvi5es6xVEbjmpueK2MsE81qbvj0B2hn1KsGj6k0qo&_nc_zt=24&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQLvp9wM9MWRMLxKnWrDoh8ZksuO9rHAOtzMjL4xkfR-8A&oe=6AB6ED6D",
+            "delegate_page_id": "68312650259"
+          },
+          "authors": [
+            {
+              "id": "100039471860412",
+              "name": "Good Financial Cents",
+              "url": "https://www.facebook.com/GoodFinancialCents",
+              "profile_picture_url": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-1/509606259_1497674928224888_11569114718732179_n.jpg?stp=c520.425.1000.1000a_cp0_dst-jpg_s80x80_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1BfUScKl6AcQ7kNvwEzC0an&_nc_oc=AdqEABHE7hrHx4OmIdI4m1UuiEvi5es6xVEbjmpueK2MsE81qbvj0B2hn1KsGj6k0qo&_nc_zt=24&_nc_ht=scontent.flca1-3.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQLvp9wM9MWRMLxKnWrDoh8ZksuO9rHAOtzMjL4xkfR-8A&oe=6AB6ED6D",
+              "delegate_page_id": "68312650259"
+            }
+          ],
+          "author_title": null,
+          "image": {
+            "uri": "https://scontent.flca1-4.fna.fbcdn.net/v/t39.30808-6/816614275_1901874994471544_6975433431181981060_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=t5A1caHb_bYQ7kNvwFpqeFY&_nc_oc=AdodX8Q_SxqGKY6KUnAVRrbBs07RAfZOmZkWMh6Goaow_FwQAQmaOAFn4xf2zGuneyA&_nc_zt=23&_nc_ht=scontent.flca1-4.fna&_nc_gid=ok1kCFlrg6MPh2YpDbYpYA&_nc_ss=73289&oh=00_AQIzxL_aWh_NiPnNVaqmsHgmtww1fYkz4UkM13w7qtxuhQ&oe=6AB6FBFC",
+            "height": 1347,
+            "width": 1080,
+            "id": "1901874991138211"
+          },
+          "video": null,
+          "video_view_count": null,
+          "album_preview": null,
+          "video_files": null,
+          "video_thumbnail": null,
+          "external_url": null,
+          "attached_event": null,
+          "attached_group": null,
+          "attached_post": null,
+          "attached_post_url": null,
+          "text_format_metadata": null,
+          "comments_id": "1901875027804874",
+          "shares_id": "1901875027804874",
+          "associated_group_id": null,
+          "associated_group": null,
+          "images_count": null,
+          "top_comments": []
+        }
+      ]
+    }
+  ],
+  "budget_after": {
+    "used_usd": 0.4239778129134059,
+    "remaining_usd": 4.576022187086594
+  }
+}

@@ -1,0 +1,2404 @@
+[
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0565-2026-08-26",
+    "record_date": "2026-08-26",
+    "title": "CPB 0565 - Ankle Orthoses, Ankle-Foot Orthoses (AFOs), and Knee-Ankle-Foot Orthoses (KAFOs) (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0565 'Ankle Orthoses, Ankle-Foot Orthoses (AFOs), and Knee-Ankle-Foot Orthoses (KAFOs)' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0565.html",
+    "payer": "Aetna",
+    "procedure": "Ankle Orthoses, Ankle-Foot Orthoses (AFOs), and Knee-Ankle-Foot Orthoses (KAFOs)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-26. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0565 - Ankle Orthoses, Ankle-Foot Orthoses (AFOs), and Knee-Ankle-Foot Orthoses (KAFOs); date=2026-08-26"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0560-2026-08-26",
+    "record_date": "2026-08-26",
+    "title": "CPB 0560 - Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0560 'Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0560.html",
+    "payer": "Aetna",
+    "procedure": "Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-26. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0560 - Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy; date=2026-08-26"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0541-2026-08-26",
+    "record_date": "2026-08-26",
+    "title": "CPB 0541 - Dialysis (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0541 'Dialysis' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0541.html",
+    "payer": "Aetna",
+    "procedure": "Dialysis",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-26. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0541 - Dialysis; date=2026-08-26"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0538-2026-08-26",
+    "record_date": "2026-08-26",
+    "title": "CPB 0538 - Endothelial Cell Photography (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0538 'Endothelial Cell Photography' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0538.html",
+    "payer": "Aetna",
+    "procedure": "Endothelial Cell Photography",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-26. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0538 - Endothelial Cell Photography; date=2026-08-26"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0526-2026-08-26",
+    "record_date": "2026-08-26",
+    "title": "CPB 0526 - Surgical Devices, Dressings, and Wound Care Supplies (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0526 'Surgical Devices, Dressings, and Wound Care Supplies' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0526.html",
+    "payer": "Aetna",
+    "procedure": "Surgical Devices, Dressings, and Wound Care Supplies",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-26. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0526 - Surgical Devices, Dressings, and Wound Care Supplies; date=2026-08-26"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0925-2026-08-25",
+    "record_date": "2026-08-25",
+    "title": "CPB 0925 - Benralizumab (Fasenra) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0925 'Benralizumab (Fasenra)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0925.html",
+    "payer": "Aetna",
+    "procedure": "Benralizumab (Fasenra)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-25. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0925 - Benralizumab (Fasenra); date=2026-08-25"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0880-2026-08-25",
+    "record_date": "2026-08-25",
+    "title": "CPB 0880 - Percutaneous Mitral Valve and Tricuspid Valve Repair (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0880 'Percutaneous Mitral Valve and Tricuspid Valve Repair' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/800_899/0880.html",
+    "payer": "Aetna",
+    "procedure": "Percutaneous Mitral Valve and Tricuspid Valve Repair",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-25. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0880 - Percutaneous Mitral Valve and Tricuspid Valve Repair; date=2026-08-25"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0352-2026-08-25",
+    "record_date": "2026-08-25",
+    "title": "CPB 0352 - Tumor Markers (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0352 'Tumor Markers' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/300_399/0352.html",
+    "payer": "Aetna",
+    "procedure": "Tumor Markers",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-25. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0352 - Tumor Markers; date=2026-08-25"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0435-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0435 - Viscocanalostomy and Canaloplasty (Deleted/retired CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0435 'Viscocanalostomy and Canaloplasty' -- status: 04-Deleted. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/ (CPB 0435, page removed -- deleted CPB)",
+    "payer": "Aetna",
+    "procedure": "Viscocanalostomy and Canaloplasty",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Coverage change",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '04-Deleted' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('deleted/retired cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=04-Deleted; cpb=0435 - Viscocanalostomy and Canaloplasty; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0318-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0318 - Palivizumab (Synagis) (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0318 'Palivizumab (Synagis)' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/300_399/0318.html",
+    "payer": "Aetna",
+    "procedure": "Palivizumab (Synagis)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0318 - Palivizumab (Synagis); date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0968-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0968 - Peanut Immunotherapy (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0968 'Peanut Immunotherapy' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0968.html",
+    "payer": "Aetna",
+    "procedure": "Peanut Immunotherapy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0968 - Peanut Immunotherapy; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0804-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0804 - Denosumab (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0804 'Denosumab' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/800_899/0804.html",
+    "payer": "Aetna",
+    "procedure": "Denosumab",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0804 - Denosumab; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0670-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0670 - Omalizumab (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0670 'Omalizumab' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/600_699/0670.html",
+    "payer": "Aetna",
+    "procedure": "Omalizumab",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0670 - Omalizumab; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0567-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0567 - Actinic Keratoses Treatments (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0567 'Actinic Keratoses Treatments' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0567.html",
+    "payer": "Aetna",
+    "procedure": "Actinic Keratoses Treatments",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0567 - Actinic Keratoses Treatments; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0562-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0562 - Biochemical Markers of Bone Remodeling (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0562 'Biochemical Markers of Bone Remodeling' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0562.html",
+    "payer": "Aetna",
+    "procedure": "Biochemical Markers of Bone Remodeling",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0562 - Biochemical Markers of Bone Remodeling; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0558-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0558 - Percutaneous Transluminal Septal Myocardial Ablation (PTSMA) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0558 'Percutaneous Transluminal Septal Myocardial Ablation (PTSMA)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0558.html",
+    "payer": "Aetna",
+    "procedure": "Percutaneous Transluminal Septal Myocardial Ablation (PTSMA)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0558 - Percutaneous Transluminal Septal Myocardial Ablation (PTSMA); date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0548-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0548 - Cardiovascular Monitoring Equipment for Home Use: Pulse, Blood Pressure, Telemonitors, and Pacemaker Monitors (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0548 'Cardiovascular Monitoring Equipment for Home Use: Pulse, Blood Pressure, Telemonitors, and Pacemaker Monitors' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0548.html",
+    "payer": "Aetna",
+    "procedure": "Cardiovascular Monitoring Equipment for Home Use: Pulse, Blood Pressure, Telemonitors, and Pacemaker Monitors",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0548 - Cardiovascular Monitoring Equipment for Home Use: Pulse, Blood Pressure, Telemonitors, and Pacemaker Monitors; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0547-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0547 - Rosacea (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0547 'Rosacea' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0547.html",
+    "payer": "Aetna",
+    "procedure": "Rosacea",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0547 - Rosacea; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0539-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0539 - Fundus Photography (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0539 'Fundus Photography' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0539.html",
+    "payer": "Aetna",
+    "procedure": "Fundus Photography",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0539 - Fundus Photography; date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0271-2026-08-21",
+    "record_date": "2026-08-21",
+    "title": "CPB 0271 - Wheelchairs and Power Operated Vehicles (Scooters) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0271 'Wheelchairs and Power Operated Vehicles (Scooters)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/200_299/0271.html",
+    "payer": "Aetna",
+    "procedure": "Wheelchairs and Power Operated Vehicles (Scooters)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-21. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0271 - Wheelchairs and Power Operated Vehicles (Scooters); date=2026-08-21"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0536-2026-08-20",
+    "record_date": "2026-08-20",
+    "title": "CPB 0536 - Vitamin B-12 Therapy (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0536 'Vitamin B-12 Therapy' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0536.html",
+    "payer": "Aetna",
+    "procedure": "Vitamin B-12 Therapy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-20. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0536 - Vitamin B-12 Therapy; date=2026-08-20"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0530-2026-08-20",
+    "record_date": "2026-08-20",
+    "title": "CPB 0530 - Transvaginal Ultrasonography (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0530 'Transvaginal Ultrasonography' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0530.html",
+    "payer": "Aetna",
+    "procedure": "Transvaginal Ultrasonography",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-20. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0530 - Transvaginal Ultrasonography; date=2026-08-20"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0520-2026-08-20",
+    "record_date": "2026-08-20",
+    "title": "CPB 0520 - Magnetic Resonance Imaging of the Cardiovascular System - Cardiac MRI (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0520 'Magnetic Resonance Imaging of the Cardiovascular System - Cardiac MRI' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0520.html",
+    "payer": "Aetna",
+    "procedure": "Magnetic Resonance Imaging of the Cardiovascular System - Cardiac MRI",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-20. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0520 - Magnetic Resonance Imaging of the Cardiovascular System - Cardiac MRI; date=2026-08-20"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0516-2026-08-20",
+    "record_date": "2026-08-20",
+    "title": "CPB 0516 - Colonoscopy, Colorectal Cancer Screening, and Related Procedures (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0516 'Colonoscopy, Colorectal Cancer Screening, and Related Procedures' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0516.html",
+    "payer": "Aetna",
+    "procedure": "Colonoscopy, Colorectal Cancer Screening, and Related Procedures",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-20. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0516 - Colonoscopy, Colorectal Cancer Screening, and Related Procedures; date=2026-08-20"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0525-2026-08-18",
+    "record_date": "2026-08-18",
+    "title": "CPB 0525 - Screening for Lipid Disorders (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0525 'Screening for Lipid Disorders' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0525.html",
+    "payer": "Aetna",
+    "procedure": "Screening for Lipid Disorders",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-18. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0525 - Screening for Lipid Disorders; date=2026-08-18"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0522-2026-08-18",
+    "record_date": "2026-08-18",
+    "title": "CPB 0522 - Bowel Management Devices (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0522 'Bowel Management Devices' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0522.html",
+    "payer": "Aetna",
+    "procedure": "Bowel Management Devices",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-18. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0522 - Bowel Management Devices; date=2026-08-18"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0411-2026-08-18",
+    "record_date": "2026-08-18",
+    "title": "CPB 0411 - Bone and Tendon Graft Substitutes and Adjuncts (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0411 'Bone and Tendon Graft Substitutes and Adjuncts' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0411.html",
+    "payer": "Aetna",
+    "procedure": "Bone and Tendon Graft Substitutes and Adjuncts",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-18. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0411 - Bone and Tendon Graft Substitutes and Adjuncts; date=2026-08-18"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0211-2026-08-18",
+    "record_date": "2026-08-18",
+    "title": "CPB 0211 - Abdominoplasty, Suction Lipectomy, and Ventral Hernia Repair (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0211 'Abdominoplasty, Suction Lipectomy, and Ventral Hernia Repair' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/200_299/0211.html",
+    "payer": "Aetna",
+    "procedure": "Abdominoplasty, Suction Lipectomy, and Ventral Hernia Repair",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-18. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0211 - Abdominoplasty, Suction Lipectomy, and Ventral Hernia Repair; date=2026-08-18"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0140-2026-08-18",
+    "record_date": "2026-08-18",
+    "title": "CPB 0140 - Genetic Testing (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0140 'Genetic Testing' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/100_199/0140.html",
+    "payer": "Aetna",
+    "procedure": "Genetic Testing",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-18. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0140 - Genetic Testing; date=2026-08-18"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0013-2026-08-18",
+    "record_date": "2026-08-18",
+    "title": "CPB 0013 - Cochlear Implants and Auditory Brainstem Implants (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0013 'Cochlear Implants and Auditory Brainstem Implants' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1_99/0013.html",
+    "payer": "Aetna",
+    "procedure": "Cochlear Implants and Auditory Brainstem Implants",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-18. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0013 - Cochlear Implants and Auditory Brainstem Implants; date=2026-08-18"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1104-2026-08-12",
+    "record_date": "2026-08-12",
+    "title": "CPB 1104 - Medication-Assisted Treatment for Opioid Use Disorder (New CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1104 'Medication-Assisted Treatment for Opioid Use Disorder' -- status: 01-New. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1100_1199/1104.html",
+    "payer": "Aetna",
+    "procedure": "Medication-Assisted Treatment for Opioid Use Disorder",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Coverage change",
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '01-New' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-12. This is the project's defined Aetna activity type ('new cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=01-New; cpb=1104 - Medication-Assisted Treatment for Opioid Use Disorder; date=2026-08-12"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1103-2026-08-12",
+    "record_date": "2026-08-12",
+    "title": "CPB 1103 - Lunsotogene Parvec-cwha (Otarmeni) (New CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1103 'Lunsotogene Parvec-cwha (Otarmeni)' -- status: 01-New. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1100_1199/1103.html",
+    "payer": "Aetna",
+    "procedure": "Lunsotogene Parvec-cwha (Otarmeni)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Coverage change",
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '01-New' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-12. This is the project's defined Aetna activity type ('new cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=01-New; cpb=1103 - Lunsotogene Parvec-cwha (Otarmeni); date=2026-08-12"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1083-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 1083 - Nipocalimab-aahu (Imaavy) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1083 'Nipocalimab-aahu (Imaavy)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1083.html",
+    "payer": "Aetna",
+    "procedure": "Nipocalimab-aahu (Imaavy)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1083 - Nipocalimab-aahu (Imaavy); date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1035-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 1035 - Rozanolixizumab-noli (Rystiggo) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1035 'Rozanolixizumab-noli (Rystiggo)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1035.html",
+    "payer": "Aetna",
+    "procedure": "Rozanolixizumab-noli (Rystiggo)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1035 - Rozanolixizumab-noli (Rystiggo); date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1002-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 1002 - Efgartigimod Alfa-fcab (Vyvgart) and Efgartigimod Alfa and Hyaluronidase-qvfc (Vyvgart Hytrulo) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1002 'Efgartigimod Alfa-fcab (Vyvgart) and Efgartigimod Alfa and Hyaluronidase-qvfc (Vyvgart Hytrulo)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1002.html",
+    "payer": "Aetna",
+    "procedure": "Efgartigimod Alfa-fcab (Vyvgart) and Efgartigimod Alfa and Hyaluronidase-qvfc (Vyvgart Hytrulo)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1002 - Efgartigimod Alfa-fcab (Vyvgart) and Efgartigimod Alfa and Hyaluronidase-qvfc (Vyvgart Hytrulo); date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0975-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 0975 - Inebilizumab-cdon (Uplizna) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0975 'Inebilizumab-cdon (Uplizna)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0975.html",
+    "payer": "Aetna",
+    "procedure": "Inebilizumab-cdon (Uplizna)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0975 - Inebilizumab-cdon (Uplizna); date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0946-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 0946 - Ravulizumab-cwvz (Ultomiris) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0946 'Ravulizumab-cwvz (Ultomiris)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0946.html",
+    "payer": "Aetna",
+    "procedure": "Ravulizumab-cwvz (Ultomiris)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0946 - Ravulizumab-cwvz (Ultomiris); date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0905-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 0905 - Secukinumab (Cosentyx) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0905 'Secukinumab (Cosentyx)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0905.html",
+    "payer": "Aetna",
+    "procedure": "Secukinumab (Cosentyx)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0905 - Secukinumab (Cosentyx); date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0807-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 0807 - Eculizumab (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0807 'Eculizumab' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/800_899/0807.html",
+    "payer": "Aetna",
+    "procedure": "Eculizumab",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0807 - Eculizumab; date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0504-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 0504 - Hyperhidrosis (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0504 'Hyperhidrosis' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0504.html",
+    "payer": "Aetna",
+    "procedure": "Hyperhidrosis",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0504 - Hyperhidrosis; date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0485-2026-08-11",
+    "record_date": "2026-08-11",
+    "title": "CPB 0485 - Autonomic Testing/Sudomotor Tests (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0485 'Autonomic Testing/Sudomotor Tests' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0485.html",
+    "payer": "Aetna",
+    "procedure": "Autonomic Testing/Sudomotor Tests",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-11. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0485 - Autonomic Testing/Sudomotor Tests; date=2026-08-11"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1098-2026-08-10",
+    "record_date": "2026-08-10",
+    "title": "CPB 1098 - Depemokimab-ulaa (Exdensur) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1098 'Depemokimab-ulaa (Exdensur)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1098.html",
+    "payer": "Aetna",
+    "procedure": "Depemokimab-ulaa (Exdensur)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-10. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1098 - Depemokimab-ulaa (Exdensur); date=2026-08-10"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1049-2026-08-10",
+    "record_date": "2026-08-10",
+    "title": "CPB 1049 - Toripalimab-tpzi (Loqtorzi) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1049 'Toripalimab-tpzi (Loqtorzi)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1049.html",
+    "payer": "Aetna",
+    "procedure": "Toripalimab-tpzi (Loqtorzi)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-10. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1049 - Toripalimab-tpzi (Loqtorzi); date=2026-08-10"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1031-2026-08-10",
+    "record_date": "2026-08-10",
+    "title": "CPB 1031 - Tofersen (Qalsody) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1031 'Tofersen (Qalsody)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1031.html",
+    "payer": "Aetna",
+    "procedure": "Tofersen (Qalsody)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-10. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1031 - Tofersen (Qalsody); date=2026-08-10"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0953-2026-08-10",
+    "record_date": "2026-08-10",
+    "title": "CPB 0953 - Onasemnogene Abeparvovec (Zolgensma and Itvisma) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0953 'Onasemnogene Abeparvovec (Zolgensma and Itvisma)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0953.html",
+    "payer": "Aetna",
+    "procedure": "Onasemnogene Abeparvovec (Zolgensma and Itvisma)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-10. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0953 - Onasemnogene Abeparvovec (Zolgensma and Itvisma); date=2026-08-10"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0939-2026-08-10",
+    "record_date": "2026-08-10",
+    "title": "CPB 0939 - Transthyretin-Mediated (ATTR) Amyloidosis (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0939 'Transthyretin-Mediated (ATTR) Amyloidosis' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0939.html",
+    "payer": "Aetna",
+    "procedure": "Transthyretin-Mediated (ATTR) Amyloidosis",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-10. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0939 - Transthyretin-Mediated (ATTR) Amyloidosis; date=2026-08-10"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0907-2026-08-10",
+    "record_date": "2026-08-10",
+    "title": "CPB 0907 - Reslizumab (Cinqair) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0907 'Reslizumab (Cinqair)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0907.html",
+    "payer": "Aetna",
+    "procedure": "Reslizumab (Cinqair)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-10. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0907 - Reslizumab (Cinqair); date=2026-08-10"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1020-2026-08-07",
+    "record_date": "2026-08-07",
+    "title": "CPB 1020 - Sodium Thiosulfate (Pedmark) (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1020 'Sodium Thiosulfate (Pedmark)' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1020.html",
+    "payer": "Aetna",
+    "procedure": "Sodium Thiosulfate (Pedmark)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-07. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=1020 - Sodium Thiosulfate (Pedmark); date=2026-08-07"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1085-2026-08-07",
+    "record_date": "2026-08-07",
+    "title": "CPB 1085 - Telisotuzumab Vedotin-tllv (Emrelis) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1085 'Telisotuzumab Vedotin-tllv (Emrelis)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1085.html",
+    "payer": "Aetna",
+    "procedure": "Telisotuzumab Vedotin-tllv (Emrelis)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-07. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1085 - Telisotuzumab Vedotin-tllv (Emrelis); date=2026-08-07"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1062-2026-08-07",
+    "record_date": "2026-08-07",
+    "title": "CPB 1062 - Tarlatamab-dlle (Imdelltra) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1062 'Tarlatamab-dlle (Imdelltra)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1062.html",
+    "payer": "Aetna",
+    "procedure": "Tarlatamab-dlle (Imdelltra)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-07. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1062 - Tarlatamab-dlle (Imdelltra); date=2026-08-07"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0569-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0569 - Lumbar Traction Devices (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0569 'Lumbar Traction Devices' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0569.html",
+    "payer": "Aetna",
+    "procedure": "Lumbar Traction Devices",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0569 - Lumbar Traction Devices; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0566-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0566 - Strabismus Repair (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0566 'Strabismus Repair' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0566.html",
+    "payer": "Aetna",
+    "procedure": "Strabismus Repair",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0566 - Strabismus Repair; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0563-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0563 - Retinopathy Telescreening Systems (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0563 'Retinopathy Telescreening Systems' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0563.html",
+    "payer": "Aetna",
+    "procedure": "Retinopathy Telescreening Systems",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0563 - Retinopathy Telescreening Systems; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0509-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0509 - Contact Dissolution for Gallstones (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0509 'Contact Dissolution for Gallstones' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0509.html",
+    "payer": "Aetna",
+    "procedure": "Contact Dissolution for Gallstones",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0509 - Contact Dissolution for Gallstones; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0507-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0507 - Hematopoietic Cell Transplantation for Breast Cancer (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0507 'Hematopoietic Cell Transplantation for Breast Cancer' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0507.html",
+    "payer": "Aetna",
+    "procedure": "Hematopoietic Cell Transplantation for Breast Cancer",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0507 - Hematopoietic Cell Transplantation for Breast Cancer; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0105-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0105 - Magnetic Resonance imaging (MRI) of the Breast (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0105 'Magnetic Resonance imaging (MRI) of the Breast' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/100_199/0105.html",
+    "payer": "Aetna",
+    "procedure": "Magnetic Resonance imaging (MRI) of the Breast",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0105 - Magnetic Resonance imaging (MRI) of the Breast; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1003-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 1003 - Tezepelumab-ekko (Tezspire) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1003 'Tezepelumab-ekko (Tezspire)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1003.html",
+    "payer": "Aetna",
+    "procedure": "Tezepelumab-ekko (Tezspire)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1003 - Tezepelumab-ekko (Tezspire); date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0496-2026-08-06",
+    "record_date": "2026-08-06",
+    "title": "CPB 0496 - Hematopoietic Cell Transplantation for Selected Childhood Solid Tumors (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0496 'Hematopoietic Cell Transplantation for Selected Childhood Solid Tumors' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0496.html",
+    "payer": "Aetna",
+    "procedure": "Hematopoietic Cell Transplantation for Selected Childhood Solid Tumors",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-06. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0496 - Hematopoietic Cell Transplantation for Selected Childhood Solid Tumors; date=2026-08-06"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0995-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0995 - Amivantamab-vmjw (Rybrevant) and Amivantamab and Hyaluronidase-lpuj (Rybrevant Faspro) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0995 'Amivantamab-vmjw (Rybrevant) and Amivantamab and Hyaluronidase-lpuj (Rybrevant Faspro)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0995.html",
+    "payer": "Aetna",
+    "procedure": "Amivantamab-vmjw (Rybrevant) and Amivantamab and Hyaluronidase-lpuj (Rybrevant Faspro)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0995 - Amivantamab-vmjw (Rybrevant) and Amivantamab and Hyaluronidase-lpuj (Rybrevant Faspro); date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0911-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0911 - Gene-Based Therapy for Duchenne Muscular Dystrophy (DMD) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0911 'Gene-Based Therapy for Duchenne Muscular Dystrophy (DMD)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0911.html",
+    "payer": "Aetna",
+    "procedure": "Gene-Based Therapy for Duchenne Muscular Dystrophy (DMD)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0911 - Gene-Based Therapy for Duchenne Muscular Dystrophy (DMD); date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0897-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0897 - Mepolizumab (Nucala) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0897 'Mepolizumab (Nucala)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/800_899/0897.html",
+    "payer": "Aetna",
+    "procedure": "Mepolizumab (Nucala)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0897 - Mepolizumab (Nucala); date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0517-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0517 - Breast Ductal Lavage and Fiberoptic Ductoscopy (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0517 'Breast Ductal Lavage and Fiberoptic Ductoscopy' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0517.html",
+    "payer": "Aetna",
+    "procedure": "Breast Ductal Lavage and Fiberoptic Ductoscopy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0517 - Breast Ductal Lavage and Fiberoptic Ductoscopy; date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0515-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0515 - Thyrogen (Thyrotropin Alfa) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0515 'Thyrogen (Thyrotropin Alfa)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0515.html",
+    "payer": "Aetna",
+    "procedure": "Thyrogen (Thyrotropin Alfa)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0515 - Thyrogen (Thyrotropin Alfa); date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0512-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0512 - Premenstrual Syndrome and Premenstrual Dysphoric Disorder (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0512 'Premenstrual Syndrome and Premenstrual Dysphoric Disorder' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0512.html",
+    "payer": "Aetna",
+    "procedure": "Premenstrual Syndrome and Premenstrual Dysphoric Disorder",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0512 - Premenstrual Syndrome and Premenstrual Dysphoric Disorder; date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0497-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0497 - Hematopoietic Cell Transplantation for Multiple Myeloma (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0497 'Hematopoietic Cell Transplantation for Multiple Myeloma' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0497.html",
+    "payer": "Aetna",
+    "procedure": "Hematopoietic Cell Transplantation for Multiple Myeloma",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0497 - Hematopoietic Cell Transplantation for Multiple Myeloma; date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0264-2026-08-05",
+    "record_date": "2026-08-05",
+    "title": "CPB 0264 - Multiple Sclerosis (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0264 'Multiple Sclerosis' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/200_299/0264.html",
+    "payer": "Aetna",
+    "procedure": "Multiple Sclerosis",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-05. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0264 - Multiple Sclerosis; date=2026-08-05"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0511-2026-08-04",
+    "record_date": "2026-08-04",
+    "title": "CPB 0511 - Eating Disorders (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0511 'Eating Disorders' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0511.html",
+    "payer": "Aetna",
+    "procedure": "Eating Disorders",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-04. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0511 - Eating Disorders; date=2026-08-04"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0349-2026-08-04",
+    "record_date": "2026-08-04",
+    "title": "CPB 0349 - Alzheimer's Disease Tests (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0349 'Alzheimer's Disease Tests' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/300_399/0349.html",
+    "payer": "Aetna",
+    "procedure": "Alzheimer's Disease Tests",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-04. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0349 - Alzheimer's Disease Tests; date=2026-08-04"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0292-2026-08-04",
+    "record_date": "2026-08-04",
+    "title": "CPB 0292 - Catheter-Directed Cardiac Procedures (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0292 'Catheter-Directed Cardiac Procedures' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/200_299/0292.html",
+    "payer": "Aetna",
+    "procedure": "Catheter-Directed Cardiac Procedures",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-04. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0292 - Catheter-Directed Cardiac Procedures; date=2026-08-04"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0188-2026-08-04",
+    "record_date": "2026-08-04",
+    "title": "CPB 0188 - Total Body Photography, Dermoscopy and Other Selected Noninvasive Dermatologic Tests (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0188 'Total Body Photography, Dermoscopy and Other Selected Noninvasive Dermatologic Tests' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/100_199/0188.html",
+    "payer": "Aetna",
+    "procedure": "Total Body Photography, Dermoscopy and Other Selected Noninvasive Dermatologic Tests",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-04. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0188 - Total Body Photography, Dermoscopy and Other Selected Noninvasive Dermatologic Tests; date=2026-08-04"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0165-2026-08-04",
+    "record_date": "2026-08-04",
+    "title": "CPB 0165 - Cardiac Catheter Ablation (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0165 'Cardiac Catheter Ablation' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/100_199/0165.html",
+    "payer": "Aetna",
+    "procedure": "Cardiac Catheter Ablation",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-04. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0165 - Cardiac Catheter Ablation; date=2026-08-04"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0100-2026-08-04",
+    "record_date": "2026-08-04",
+    "title": "CPB 0100 - Cryoablation (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0100 'Cryoablation' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/100_199/0100.html",
+    "payer": "Aetna",
+    "procedure": "Cryoablation",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-04. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0100 - Cryoablation; date=2026-08-04"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0881-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0881 - Canakinumab (Ilaris) (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0881 'Canakinumab (Ilaris)' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/800_899/0881.html",
+    "payer": "Aetna",
+    "procedure": "Canakinumab (Ilaris)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0881 - Canakinumab (Ilaris); date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0561-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0561 - Celiac Disease Laboratory Testing (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0561 'Celiac Disease Laboratory Testing' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0561.html",
+    "payer": "Aetna",
+    "procedure": "Celiac Disease Laboratory Testing",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0561 - Celiac Disease Laboratory Testing; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0552-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0552 - Laser Neurolysis (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0552 'Laser Neurolysis' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0552.html",
+    "payer": "Aetna",
+    "procedure": "Laser Neurolysis",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0552 - Laser Neurolysis; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0505-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0505 - Ambulatory Assist Devices: Canes, Crutches, and Walkers (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0505 'Ambulatory Assist Devices: Canes, Crutches, and Walkers' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0505.html",
+    "payer": "Aetna",
+    "procedure": "Ambulatory Assist Devices: Canes, Crutches, and Walkers",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0505 - Ambulatory Assist Devices: Canes, Crutches, and Walkers; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0499-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0499 - Nonstandard Laboratory Test Panels (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0499 'Nonstandard Laboratory Test Panels' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0499.html",
+    "payer": "Aetna",
+    "procedure": "Nonstandard Laboratory Test Panels",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0499 - Nonstandard Laboratory Test Panels; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0494-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0494 - Hematopoietic Cell Transplantation for Non-Hodgkin's Lymphoma (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0494 'Hematopoietic Cell Transplantation for Non-Hodgkin's Lymphoma' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0494.html",
+    "payer": "Aetna",
+    "procedure": "Hematopoietic Cell Transplantation for Non-Hodgkin's Lymphoma",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0494 - Hematopoietic Cell Transplantation for Non-Hodgkin's Lymphoma; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0490-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0490 - Transpupillary Thermal Therapy (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0490 'Transpupillary Thermal Therapy' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0490.html",
+    "payer": "Aetna",
+    "procedure": "Transpupillary Thermal Therapy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0490 - Transpupillary Thermal Therapy; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0467-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0467 - Vestibular Autorotation Test (VAT) (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0467 'Vestibular Autorotation Test (VAT)' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0467.html",
+    "payer": "Aetna",
+    "procedure": "Vestibular Autorotation Test (VAT)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0467 - Vestibular Autorotation Test (VAT); date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0434-2026-08-03",
+    "record_date": "2026-08-03",
+    "title": "CPB 0434 - Therapeutic Chairs (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0434 'Therapeutic Chairs' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0434.html",
+    "payer": "Aetna",
+    "procedure": "Therapeutic Chairs",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-08-03. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0434 - Therapeutic Chairs; date=2026-08-03"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0790-2026-07-31",
+    "record_date": "2026-07-31",
+    "title": "CPB 0790 - Golimumab (Simponi and Simponi Aria) (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0790 'Golimumab (Simponi and Simponi Aria)' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/700_799/0790.html",
+    "payer": "Aetna",
+    "procedure": "Golimumab (Simponi and Simponi Aria)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-31. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0790 - Golimumab (Simponi and Simponi Aria); date=2026-07-31"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0545-2026-07-31",
+    "record_date": "2026-07-31",
+    "title": "CPB 0545 - Electrothermal Arthroscopy (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0545 'Electrothermal Arthroscopy' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0545.html",
+    "payer": "Aetna",
+    "procedure": "Electrothermal Arthroscopy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-31. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0545 - Electrothermal Arthroscopy; date=2026-07-31"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0540-2026-07-31",
+    "record_date": "2026-07-31",
+    "title": "CPB 0540 - Heating Devices (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0540 'Heating Devices' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0540.html",
+    "payer": "Aetna",
+    "procedure": "Heating Devices",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-31. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0540 - Heating Devices; date=2026-07-31"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0915-2026-07-31",
+    "record_date": "2026-07-31",
+    "title": "CPB 0915 - Nusinersen (Spinraza) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0915 'Nusinersen (Spinraza)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/900_999/0915.html",
+    "payer": "Aetna",
+    "procedure": "Nusinersen (Spinraza)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-31. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0915 - Nusinersen (Spinraza); date=2026-07-31"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0775-2026-07-31",
+    "record_date": "2026-07-31",
+    "title": "CPB 0775 - Selected Renal Function Tests (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0775 'Selected Renal Function Tests' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/700_799/0775.html",
+    "payer": "Aetna",
+    "procedure": "Selected Renal Function Tests",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-31. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0775 - Selected Renal Function Tests; date=2026-07-31"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0736-2026-07-31",
+    "record_date": "2026-07-31",
+    "title": "CPB 0736 - Hip Preservation Surgery (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0736 'Hip Preservation Surgery' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/700_799/0736.html",
+    "payer": "Aetna",
+    "procedure": "Hip Preservation Surgery",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-31. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0736 - Hip Preservation Surgery; date=2026-07-31"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0564-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0564 - Electrocochleogram and Perilymphatic Pressure Measurement (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0564 'Electrocochleogram and Perilymphatic Pressure Measurement' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0564.html",
+    "payer": "Aetna",
+    "procedure": "Electrocochleogram and Perilymphatic Pressure Measurement",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0564 - Electrocochleogram and Perilymphatic Pressure Measurement; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0551-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0551 - Radiation Treatment for Selected Nononcologic Indications (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0551 'Radiation Treatment for Selected Nononcologic Indications' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0551.html",
+    "payer": "Aetna",
+    "procedure": "Radiation Treatment for Selected Nononcologic Indications",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0551 - Radiation Treatment for Selected Nononcologic Indications; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0549-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0549 - Distraction Osteogenesis for Craniofacial Defects (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0549 'Distraction Osteogenesis for Craniofacial Defects' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0549.html",
+    "payer": "Aetna",
+    "procedure": "Distraction Osteogenesis for Craniofacial Defects",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0549 - Distraction Osteogenesis for Craniofacial Defects; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0535-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0535 - Virtual Gastrointestinal Endoscopy (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0535 'Virtual Gastrointestinal Endoscopy' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0535.html",
+    "payer": "Aetna",
+    "procedure": "Virtual Gastrointestinal Endoscopy",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0535 - Virtual Gastrointestinal Endoscopy; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0534-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0534 - Vesicoureteral Reflux Treatment by Endoscopic Injection of Bulking Agents (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0534 'Vesicoureteral Reflux Treatment by Endoscopic Injection of Bulking Agents' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0534.html",
+    "payer": "Aetna",
+    "procedure": "Vesicoureteral Reflux Treatment by Endoscopic Injection of Bulking Agents",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0534 - Vesicoureteral Reflux Treatment by Endoscopic Injection of Bulking Agents; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0527-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0527 - Intragastric Hypothermia (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0527 'Intragastric Hypothermia' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0527.html",
+    "payer": "Aetna",
+    "procedure": "Intragastric Hypothermia",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0527 - Intragastric Hypothermia; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0523-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0523 - Car-Ride Simulators for Infantile Colic (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0523 'Car-Ride Simulators for Infantile Colic' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0523.html",
+    "payer": "Aetna",
+    "procedure": "Car-Ride Simulators for Infantile Colic",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Device coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a physical device/DME/equipment, so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0523 - Car-Ride Simulators for Infantile Colic; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0533-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0533 - Urological Supplies (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0533 'Urological Supplies' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0533.html",
+    "payer": "Aetna",
+    "procedure": "Urological Supplies",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0533 - Urological Supplies; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0493-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0493 - Kidney Transplantation (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0493 'Kidney Transplantation' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0493.html",
+    "payer": "Aetna",
+    "procedure": "Kidney Transplantation",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0493 - Kidney Transplantation; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0491-2026-07-30",
+    "record_date": "2026-07-30",
+    "title": "CPB 0491 - Coronary Artery Brachytherapy and Other Adjuncts to Coronary Interventions (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0491 'Coronary Artery Brachytherapy and Other Adjuncts to Coronary Interventions' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/400_499/0491.html",
+    "payer": "Aetna",
+    "procedure": "Coronary Artery Brachytherapy and Other Adjuncts to Coronary Interventions",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-30. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0491 - Coronary Artery Brachytherapy and Other Adjuncts to Coronary Interventions; date=2026-07-30"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0532-2026-07-29",
+    "record_date": "2026-07-29",
+    "title": "CPB 0532 - Scrotal Ultrasonography (Updated CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0532 'Scrotal Ultrasonography' -- status: 03-Updated. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0532.html",
+    "payer": "Aetna",
+    "procedure": "Scrotal Ultrasonography",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '03-Updated' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-29. This is the project's defined Aetna activity type ('updated cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=03-Updated; cpb=0532 - Scrotal Ultrasonography; date=2026-07-29"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-1034-2026-07-29",
+    "record_date": "2026-07-29",
+    "title": "CPB 1034 - Epcoritamab-bysp (Epkinly) (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 1034 'Epcoritamab-bysp (Epkinly)' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/1000_1099/1034.html",
+    "payer": "Aetna",
+    "procedure": "Epcoritamab-bysp (Epkinly)",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-29. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=1034 - Epcoritamab-bysp (Epkinly); date=2026-07-29"
+  },
+  {
+    "source": "Aetna",
+    "source_type": "Payer public policy feed (aetna.com CPB 'what's new' XML)",
+    "record_id": "CPB-0502-2026-07-29",
+    "record_date": "2026-07-29",
+    "title": "CPB 0502 - Electrodiagnostic Testing (Revised CPB)",
+    "text_or_description": "Aetna Clinical Policy Bulletin (CPB) 0502 'Electrodiagnostic Testing' -- status: 02-Revised. (Only the official change-log status/date/title are available; the full CPB body text was not fetched, so no criteria-level detail beyond the CPB subject is claimed.)",
+    "url": "https://www.aetna.com/cpb/medical/data/500_599/0502.html",
+    "payer": "Aetna",
+    "procedure": "Electrodiagnostic Testing",
+    "topic": "Clinical Policy Bulletin change log",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Procedure coverage"
+    ],
+    "classification_reason": "Aetna's own official CPB change-log entry with explicit status code '02-Revised' -- this is a first-party, authoritative record that this specific coverage policy was itself changed on 2026-07-29. This is the project's defined Aetna activity type ('revised cpb'). No claim is made about *what* clinical criteria changed inside the CPB (body text not retrieved), only that Aetna's own log confirms a policy-change event occurred for this named CPB. CPB subject names a specific procedure/drug/service, so a procedure-coverage signal is also assigned.",
+    "evidence_quote_or_field": "status=02-Revised; cpb=0502 - Electrodiagnostic Testing; date=2026-07-29"
+  }
+]

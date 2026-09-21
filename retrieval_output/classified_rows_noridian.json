@@ -1,0 +1,2600 @@
+[
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40265",
+    "record_date": "2026-09-09",
+    "title": "Peripheral Nerve Injections and Procedures for Chronic Pain",
+    "text_or_description": "Future(Notice Ends 10/31/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40265&ver=5",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Peripheral Nerve Injections and Procedures for Chronic Pain",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40265; updated=09/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60300",
+    "record_date": "2026-09-09",
+    "title": "Billing and Coding: Peripheral Nerve Injections and Procedures for Chronic Pain",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60300&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Peripheral Nerve Injections and Procedures for Chronic Pain",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60300; updated=09/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60465",
+    "record_date": "2026-09-09",
+    "title": "Response to Comments: Peripheral Nerve Injections and Procedures for Chronic Pain",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60465&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Peripheral Nerve Injections and Procedures for Chronic Pain",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60465; updated=09/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58403",
+    "record_date": "2026-09-09",
+    "title": "Billing and Coding: Facet Joint Interventions for Pain Management",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58403&ver=29",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Facet Joint Interventions for Pain Management",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58403; updated=09/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58120",
+    "record_date": "2026-09-09",
+    "title": "Billing and Coding: MolDX: Testing of Multiple Genes",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58120&ver=21",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Testing of Multiple Genes",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58120; updated=09/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58133",
+    "record_date": "2026-09-01",
+    "title": "Billing and Coding: Implantable Continuous Glucose Monitors (I-CGM)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58133&ver=25",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Implantable Continuous Glucose Monitors (I-CGM)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Device coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58133; updated=09/01/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58170",
+    "record_date": "2026-08-29",
+    "title": "Billing and Coding: MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58170&ver=34",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58170; updated=08/29/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38671",
+    "record_date": "2026-08-29",
+    "title": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38671&ver=7",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38671; updated=08/29/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40242",
+    "record_date": "2026-08-21",
+    "title": "MolDX: Genetic Testing for Hereditary Thrombophilia",
+    "text_or_description": "Future(Notice Ends 10/11/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40242&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Genetic Testing for Hereditary Thrombophilia",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40242; updated=08/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60272",
+    "record_date": "2026-08-21",
+    "title": "Billing and Coding: MolDX: Genetic Testing for Hereditary Thrombophilia",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60272&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Genetic Testing for Hereditary Thrombophilia",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60272; updated=08/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60468",
+    "record_date": "2026-08-21",
+    "title": "Response to Comments: MolDX: Genetic Testing for Hereditary Thrombophilia A60468",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60468&ver=2",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Genetic Testing for Hereditary Thrombophilia A60468",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60468; updated=08/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40222",
+    "record_date": "2026-08-21",
+    "title": "MolDX: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer",
+    "text_or_description": "Future(Notice Ends 10/11/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40222&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40222; updated=08/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60239",
+    "record_date": "2026-08-21",
+    "title": "Billing and Coding: MolDX: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60239&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60239; updated=08/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60509",
+    "record_date": "2026-08-21",
+    "title": "Response to Comments: MolDX: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer A60509 Article",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60509&ver=5",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer A60509 Article",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60509; updated=08/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57186",
+    "record_date": "2026-08-10",
+    "title": "Billing and Coding: Botulinum Toxin Injections",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57186&ver=45",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Botulinum Toxin Injections",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57186; updated=08/10/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58679",
+    "record_date": "2026-08-07",
+    "title": "Billing and Coding: MolDX: Lab-Developed Tests for Inherited Cancer Syndromes in Patients with Cancer",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58679&ver=38",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Lab-Developed Tests for Inherited Cancer Syndromes in Patients with Cancer",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58679; updated=08/07/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40324",
+    "record_date": "2026-08-05",
+    "title": "Allergy Diagnostic Testing",
+    "text_or_description": "Future(Notice Ends 09/26/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40324&ver=6",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Allergy Diagnostic Testing",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40324; updated=08/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60510",
+    "record_date": "2026-08-05",
+    "title": "Response to Comments: Allergy Diagnostic Testing",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60510&ver=4",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Allergy Diagnostic Testing",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60510; updated=08/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60361",
+    "record_date": "2026-08-05",
+    "title": "Billing and Coding: Allergy Diagnostic Testing",
+    "text_or_description": "Future",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60361&ver=7",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Allergy Diagnostic Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60361; updated=08/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40255",
+    "record_date": "2026-08-05",
+    "title": "Temporary Nontherapeutic Ambulatory Cardiac Monitoring Devices",
+    "text_or_description": "(Notice Ended 06/20/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40255&ver=8",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Temporary Nontherapeutic Ambulatory Cardiac Monitoring Devices",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Device coverage"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40255; updated=08/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58565",
+    "record_date": "2026-08-04",
+    "title": "Billing and Coding: Wound and Ulcer Care",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58565&ver=52",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Wound and Ulcer Care",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58565; updated=08/04/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60155",
+    "record_date": "2026-07-31",
+    "title": "Billing and Coding: MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60155&ver=6",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60155; updated=07/31/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57326",
+    "record_date": "2026-07-31",
+    "title": "Billing and Coding: Electrocardiograms",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57326&ver=42",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Electrocardiograms",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57326; updated=07/31/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58720",
+    "record_date": "2026-07-28",
+    "title": "Billing and Coding: MolDX: Molecular Syndromic Panels for Infectious Disease Pathogen Identification Testing",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58720&ver=90",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Syndromic Panels for Infectious Disease Pathogen Identification Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58720; updated=07/28/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58454",
+    "record_date": "2026-07-28",
+    "title": "Billing and Coding: MolDX: Minimal Residual Disease Testing for Solid Tumor Cancers",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58454&ver=50",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Minimal Residual Disease Testing for Solid Tumor Cancers",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58454; updated=07/28/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57331",
+    "record_date": "2026-07-24",
+    "title": "Billing and Coding: MolDX: Repeat Germline Testing",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57331&ver=61",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Repeat Germline Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57331; updated=07/24/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57384",
+    "record_date": "2026-07-24",
+    "title": "Billing and Coding: MolDX: Pharmacogenomics Testing",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57384&ver=53",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Pharmacogenomics Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57384; updated=07/24/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58788",
+    "record_date": "2026-07-23",
+    "title": "Billing and Coding: Platelet Rich Plasma Injections for Non-Wound Injections",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58788&ver=18",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Platelet Rich Plasma Injections for Non-Wound Injections",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58788; updated=07/23/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59641",
+    "record_date": "2026-07-21",
+    "title": "Billing and Coding: MolDX: Proteomics Testing",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59641&ver=35",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Proteomics Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59641; updated=07/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57526",
+    "record_date": "2026-07-21",
+    "title": "Billing and Coding: MolDX: Molecular Diagnostic Tests (MDT)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57526&ver=93",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Diagnostic Tests (MDT)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57526; updated=07/21/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40062",
+    "record_date": "2026-07-09",
+    "title": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "text_or_description": "(Notice Ended 08/29/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40062&ver=6",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40062; updated=07/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60447",
+    "record_date": "2026-07-08",
+    "title": "Response to Comments: MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60447&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Testing for Solid Organ Allograft Rejection",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60447; updated=07/08/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A53033",
+    "record_date": "2026-07-08",
+    "title": "Self-Administered Drug Exclusion List:",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=53033&ver=141",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Self-Administered Drug Exclusion List:",
+    "topic": "Coverage Article (other)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Procedure/device coverage"
+    ],
+    "classification_reason": "MCD coverage Article associated with a local coverage record; classified conservatively on Coverage/Policy only since title does not match the standard Billing-and-Coding or Response-to-Comments patterns.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A53033; updated=07/08/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A55239",
+    "record_date": "2026-06-24",
+    "title": "Billing and Coding: Implantable Infusion Pumps for Chronic Pain",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55239&ver=65",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Implantable Infusion Pumps for Chronic Pain",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Device coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A55239; updated=06/24/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57187",
+    "record_date": "2026-06-24",
+    "title": "Billing and Coding: Immune Globulin Intravenous (IVIg)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57187&ver=39",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Immune Globulin Intravenous (IVIg)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57187; updated=06/24/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60217",
+    "record_date": "2026-06-19",
+    "title": "Billing and Coding: MolDX: Biomarker Testing in Metabolic Dysfunction-Associated Steatotic Liver Disease and Metabolic Dysfunction-Associated Steatohepatitis",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60217&ver=4",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Biomarker Testing in Metabolic Dysfunction-Associated Steatotic Liver Disease and Metabolic Dysfunction-Associated Steatohepatitis",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60217; updated=06/19/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40197",
+    "record_date": "2026-06-19",
+    "title": "MolDX: Biomarker Testing in Metabolic Dysfunction-Associated Steatotic Liver Disease and Metabolic Dysfunction-Associated Steatohepatitis",
+    "text_or_description": "(Notice Ended 08/09/2026)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40197&ver=4",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Biomarker Testing in Metabolic Dysfunction-Associated Steatotic Liver Disease and Metabolic Dysfunction-Associated Steatohepatitis",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40197; updated=06/19/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60450",
+    "record_date": "2026-06-19",
+    "title": "Response to Comments: MolDX: Biomarker Testing in Metabolic Dysfunction-Associated Steatotic Liver Disease and Metabolic Dysfunction-Associated Steatohepatitis",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60450&ver=2",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Biomarker Testing in Metabolic Dysfunction-Associated Steatotic Liver Disease and Metabolic Dysfunction-Associated Steatohepatitis",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60450; updated=06/19/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A53359",
+    "record_date": "2026-06-17",
+    "title": "Billing and Coding: Sacral Nerve Stimulation for Urinary and Fecal Incontinence",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=53359&ver=40",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Sacral Nerve Stimulation for Urinary and Fecal Incontinence",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A53359; updated=06/17/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A55061",
+    "record_date": "2026-06-16",
+    "title": "Billing and Coding: IUD (Hormone-Eluting) for Endometrial Hyperplasia - CPT 58999",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55061&ver=13",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "IUD (Hormone-Eluting) for Endometrial Hyperplasia - CPT 58999",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A55061; updated=06/16/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58718",
+    "record_date": "2026-06-16",
+    "title": "Billing and Coding: MolDX: Molecular Biomarkers to Risk-Stratify Patients at Increased Risk for Prostate Cancer",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58718&ver=16",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Biomarkers to Risk-Stratify Patients at Increased Risk for Prostate Cancer",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58718; updated=06/16/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57948",
+    "record_date": "2026-06-09",
+    "title": "Billing and Coding: Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57948&ver=38",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57948; updated=06/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57863",
+    "record_date": "2026-06-04",
+    "title": "Billing and Coding: Micro-Invasive Glaucoma Surgery (MIGS)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57863&ver=41",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Micro-Invasive Glaucoma Surgery (MIGS)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57863; updated=06/04/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57224",
+    "record_date": "2026-06-03",
+    "title": "Billing and Coding: Respiratory Care",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57224&ver=68",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Respiratory Care",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57224; updated=06/03/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57901",
+    "record_date": "2026-05-26",
+    "title": "Billing and Coding: MolDX: Next-Generation Sequencing for Solid Tumors",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57901&ver=27",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Next-Generation Sequencing for Solid Tumors",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57901; updated=05/26/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59882",
+    "record_date": "2026-05-26",
+    "title": "Billing and Coding: Intervertebral Disc Repair",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59882&ver=9",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Intervertebral Disc Repair",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59882; updated=05/26/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L39240",
+    "record_date": "2026-05-07",
+    "title": "Epidural Steroid Injections for Pain Management",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39240&ver=15",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Epidural Steroid Injections for Pain Management",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L39240; updated=05/07/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L34209",
+    "record_date": "2026-05-05",
+    "title": "Treatment of Varicose Veins of the Lower Extremities",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=34209&ver=43",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Treatment of Varicose Veins of the Lower Extremities",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L34209; updated=05/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57891",
+    "record_date": "2026-05-05",
+    "title": "Billing and Coding: MolDX: Next-Generation Sequencing Lab-Developed Tests for Myeloid Malignancies and Suspected Myeloid Malignancies",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57891&ver=39",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Next-Generation Sequencing Lab-Developed Tests for Myeloid Malignancies and Suspected Myeloid Malignancies",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57891; updated=05/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A55115",
+    "record_date": "2026-05-05",
+    "title": "Billing and Coding: MolDX: BluePrint® Test",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55115&ver=18",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: BluePrint® Test",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A55115; updated=05/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57204",
+    "record_date": "2026-05-05",
+    "title": "Billing and Coding: MRI and CT Scans of the Head and Neck",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57204&ver=45",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MRI and CT Scans of the Head and Neck",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57204; updated=05/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A55001",
+    "record_date": "2026-04-30",
+    "title": "Billing and Coding: Urine Drug Testing",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55001&ver=69",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Urine Drug Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A55001; updated=04/30/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60428",
+    "record_date": "2026-04-29",
+    "title": "Response to Comments: Temporary Nontherapeutic Ambulatory Cardiac Monitoring Devices",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60428&ver=3",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Temporary Nontherapeutic Ambulatory Cardiac Monitoring Devices",
+    "topic": "Response to Comments (LCD finalization record)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision"
+    ],
+    "classification_reason": "A 'Response to Comments' article is CMS's formal record of the notice-and-comment process finalizing or revising the associated LCD -- direct evidence of a coverage-policy governance action, per CMS MCD's own document taxonomy.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60428; updated=04/29/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60279",
+    "record_date": "2026-04-29",
+    "title": "Billing and Coding: Temporary Nontherapeutic Ambulatory Cardiac Monitoring Devices",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60279&ver=4",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Temporary Nontherapeutic Ambulatory Cardiac Monitoring Devices",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Device coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60279; updated=04/29/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58405",
+    "record_date": "2026-04-16",
+    "title": "Billing and Coding: Facet Joint Interventions for Pain Management",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58405&ver=22",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Facet Joint Interventions for Pain Management",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58405; updated=04/16/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38803",
+    "record_date": "2026-04-16",
+    "title": "Facet Joint Interventions for Pain Management",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38803&ver=17",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Facet Joint Interventions for Pain Management",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38803; updated=04/16/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38647",
+    "record_date": "2026-04-07",
+    "title": "MolDX: Prognostic and Predictive Molecular Classifiers for Bladder Cancer",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38647&ver=14",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Prognostic and Predictive Molecular Classifiers for Bladder Cancer",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38647; updated=04/07/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A60181",
+    "record_date": "2026-04-06",
+    "title": "Billing and Coding: Superficial Radiation Therapy (SRT) for the Treatment of Nonmelanoma Skin Cancers (NMSC)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=60181&ver=12",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Superficial Radiation Therapy (SRT) for the Treatment of Nonmelanoma Skin Cancers (NMSC)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A60181; updated=04/06/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59055",
+    "record_date": "2026-04-06",
+    "title": "Billing and Coding: Influenza Diagnostic Tests",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59055&ver=15",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Influenza Diagnostic Tests",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59055; updated=04/06/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38801",
+    "record_date": "2026-04-06",
+    "title": "Facet Joint Interventions for Pain Management",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38801&ver=23",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Facet Joint Interventions for Pain Management",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38801; updated=04/06/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A56340",
+    "record_date": "2026-04-06",
+    "title": "Billing and Coding: Implantable Automatic Defibrillators",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56340&ver=32",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Implantable Automatic Defibrillators",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Device coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A56340; updated=04/06/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59624",
+    "record_date": "2026-03-30",
+    "title": "Billing and Coding: Cervical Fusion",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59624&ver=19",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Cervical Fusion",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59624; updated=03/30/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57079",
+    "record_date": "2026-03-24",
+    "title": "Billing and Coding: Injections - Tendon, Ligament, Ganglion Cyst, Tunnel Syndromes and Morton's Neuroma",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57079&ver=15",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Injections - Tendon, Ligament, Ganglion Cyst, Tunnel Syndromes and Morton's Neuroma",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57079; updated=03/24/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58223",
+    "record_date": "2026-03-18",
+    "title": "Billing and Coding: Computed Tomography Cerebral Perfusion Analysis (CTP)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58223&ver=22",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Computed Tomography Cerebral Perfusion Analysis (CTP)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58223; updated=03/18/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A52725",
+    "record_date": "2026-03-12",
+    "title": "Billing and Coding: Nerve Blockade for Treatment of Chronic Pain and Neuropathy",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=52725&ver=38",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Nerve Blockade for Treatment of Chronic Pain and Neuropathy",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A52725; updated=03/12/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L40176",
+    "record_date": "2026-03-10",
+    "title": "Superficial Radiation Therapy (SRT) for the Treatment of Nonmelanoma Skin Cancers (NMSC)",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=40176&ver=7",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Superficial Radiation Therapy (SRT) for the Treatment of Nonmelanoma Skin Cancers (NMSC)",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L40176; updated=03/10/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59507",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: MolDX: Molecular Biomarkers for Risk Stratification of Indeterminate Pulmonary Nodules Following Bronchoscopy",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59507&ver=6",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Biomarkers for Risk Stratification of Indeterminate Pulmonary Nodules Following Bronchoscopy",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59507; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59401",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: MolDX: Molecular Biomarker Testing for Risk Stratification of Cutaneous Squamous Cell Carcinoma",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59401&ver=5",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Molecular Biomarker Testing for Risk Stratification of Cutaneous Squamous Cell Carcinoma",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59401; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57433",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: MolDX: MGMT Promoter Methylation Analysis",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57433&ver=14",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: MGMT Promoter Methylation Analysis",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57433; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59515",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: MolDX: Gene Expression Profile Tests for Decision-Making in Castration Resistant and Metastatic Prostate Cancers",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59515&ver=5",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Gene Expression Profile Tests for Decision-Making in Castration Resistant and Metastatic Prostate Cancers",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59515; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57420",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: MolDX: Envisia™, Veracyte™, Idiopathic Pulmonary Fibrosis Diagnostic Test",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57420&ver=15",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Envisia™, Veracyte™, Idiopathic Pulmonary Fibrosis Diagnostic Test",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57420; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57622",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: MolDX: DecisionDx-UM (Uveal Melanoma)",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57622&ver=17",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: DecisionDx-UM (Uveal Melanoma)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57622; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58578",
+    "record_date": "2026-03-09",
+    "title": "Billing and Coding: Spinraza® (nusinersen)",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58578&ver=12",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Spinraza® (nusinersen)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58578; updated=03/09/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57905",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: MolDX: Next-Generation Sequencing for Solid Tumors",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57905&ver=28",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Next-Generation Sequencing for Solid Tumors",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57905; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A53046",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Wound Care and Debridement - Provided by a Therapist, Physician, NPP, or as Incident-to Services",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=53046&ver=22",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Wound Care and Debridement - Provided by a Therapist, Physician, NPP, or as Incident-to Services",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A53046; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A54662",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Coverage of Intravenous Immune Globulin for Treatment of Primary Immune Deficiency Diseases in the Home – Medicare Benefit Policy Manual, Chapter 15, 50.6",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=54662&ver=14",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Coverage of Intravenous Immune Globulin for Treatment of Primary Immune Deficiency Diseases in the Home – Medicare Benefit Policy Manual, Chapter 15, 50.6",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A54662; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57084",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: B-type Natriuretic Peptide (BNP) Testing",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57084&ver=15",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "B-type Natriuretic Peptide (BNP) Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57084; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57194",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Immune Globulin Intravenous (IVIg)",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57194&ver=36",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Immune Globulin Intravenous (IVIg)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57194; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57385",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: MolDX: Pharmacogenomics Testing",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57385&ver=46",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Pharmacogenomics Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57385; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58097",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Non-Invasive Fractional Flow Reserve (FFR) for Ischemic Heart Disease",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58097&ver=17",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Non-Invasive Fractional Flow Reserve (FFR) for Ischemic Heart Disease",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58097; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58229",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Transurethral Waterjet Ablation of the Prostate",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58229&ver=18",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Transurethral Waterjet Ablation of the Prostate",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58229; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59177",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Allogeneic Hematopoietic Cell Transplantation for Primary Refractory or Relapsed Hodgkin's and Non-Hodgkin's Lymphoma with B-cell or T-cell Origin",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59177&ver=12",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Allogeneic Hematopoietic Cell Transplantation for Primary Refractory or Relapsed Hodgkin's and Non-Hodgkin's Lymphoma with B-cell or T-cell Origin",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59177; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59246",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Sacroiliac Joint Injections and Procedures",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59246&ver=18",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Sacroiliac Joint Injections and Procedures",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59246; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A59468",
+    "record_date": "2026-03-05",
+    "title": "Billing and Coding: Intraosseous Basivertebral Nerve Ablation",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59468&ver=6",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Intraosseous Basivertebral Nerve Ablation",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A59468; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L39644",
+    "record_date": "2026-03-05",
+    "title": "Intraosseous Basivertebral Nerve Ablation",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39644&ver=12",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Intraosseous Basivertebral Nerve Ablation",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L39644; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L39464",
+    "record_date": "2026-03-05",
+    "title": "Sacroiliac Joint Injections and Procedures",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39464&ver=8",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Sacroiliac Joint Injections and Procedures",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L39464; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L39398",
+    "record_date": "2026-03-05",
+    "title": "Allogeneic Hematopoietic Cell Transplantation for Primary Refractory or Relapsed Hodgkin's and Non-Hodgkin's Lymphoma with B-cell or T-cell Origin",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39398&ver=6",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Allogeneic Hematopoietic Cell Transplantation for Primary Refractory or Relapsed Hodgkin's and Non-Hodgkin's Lymphoma with B-cell or T-cell Origin",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L39398; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38707",
+    "record_date": "2026-03-05",
+    "title": "Transurethral Waterjet Ablation of the Prostate",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38707&ver=13",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Transurethral Waterjet Ablation of the Prostate",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38707; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38615",
+    "record_date": "2026-03-05",
+    "title": "Non-Invasive Fractional Flow Reserve (FFR) for Ischemic Heart Disease",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38615&ver=14",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Non-Invasive Fractional Flow Reserve (FFR) for Ischemic Heart Disease",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38615; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L38337",
+    "record_date": "2026-03-05",
+    "title": "MolDX: Pharmacogenomics Testing",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38337&ver=16",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Pharmacogenomics Testing",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L38337; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L34074",
+    "record_date": "2026-03-05",
+    "title": "Immune Globulin Intravenous (IVIg)",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=34074&ver=39",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Immune Globulin Intravenous (IVIg)",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L34074; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L35457",
+    "record_date": "2026-03-05",
+    "title": "Nerve Blockade for Treatment of Chronic Pain and Neuropathy",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=35457&ver=64",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Nerve Blockade for Treatment of Chronic Pain and Neuropathy",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L35457; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "L34038",
+    "record_date": "2026-03-05",
+    "title": "B-type Natriuretic Peptide (BNP) Testing",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=34038&ver=32",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "B-type Natriuretic Peptide (BNP) Testing",
+    "topic": "Local Coverage Determination (LCD)",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "LCD/NCD change",
+      "Policy revision",
+      "Clinical criteria",
+      "Procedure medical necessity"
+    ],
+    "classification_reason": "An LCD is, by CMS's own regulatory definition (42 CFR 400.202), a contractor-wide determination of whether an item/service is 'reasonable and necessary' -- i.e. an LCD's substantive content IS coverage criteria + medical-necessity criteria by definition, not an inference from title keywords. Appearing in the MAC's own 'recently updated' LCD list is direct, authoritative evidence of an active local coverage record.",
+    "evidence_quote_or_field": "document_type=LCD; document_display_id=L34038; updated=03/05/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A56034",
+    "record_date": "2026-03-04",
+    "title": "Billing and Coding: Nerve Blockade for Treatment of Chronic Pain and Neuropathy",
+    "text_or_description": "(no free-text description field returned by this endpoint beyond title)",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56034&ver=42",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "Nerve Blockade for Treatment of Chronic Pain and Neuropathy",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A56034; updated=03/04/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A58121",
+    "record_date": "2026-02-27",
+    "title": "Billing and Coding: MolDX: Testing of Multiple Genes",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=58121&ver=17",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Testing of Multiple Genes",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A58121; updated=02/27/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A56518",
+    "record_date": "2026-02-27",
+    "title": "Billing and Coding: MolDX: Targeted and Comprehensive Genomic Profile Testing in Cancer",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56518&ver=28",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Targeted and Comprehensive Genomic Profile Testing in Cancer",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A56518; updated=02/27/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A55601",
+    "record_date": "2026-02-27",
+    "title": "Billing and Coding: MolDX: SULT4A1 Genetic Testing",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55601&ver=14",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: SULT4A1 Genetic Testing",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A55601; updated=02/27/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57843",
+    "record_date": "2026-02-27",
+    "title": "Billing and Coding: MolDX: Short Tandem Repeat (STR) Markers and Chimerism (CPT® codes 81265-81268)",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57843&ver=12",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Short Tandem Repeat (STR) Markers and Chimerism (CPT® codes 81265-81268)",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57843; updated=02/27/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A56104",
+    "record_date": "2026-02-27",
+    "title": "Billing and Coding: MolDX: Microsatellite Instability-High (MSI-H) and Mismatch Repair Deficient (dMMR) Biomarker for Patients with Unresectable or Metastatic Solid Tumors",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=56104&ver=17",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: Microsatellite Instability-High (MSI-H) and Mismatch Repair Deficient (dMMR) Biomarker for Patients with Unresectable or Metastatic Solid Tumors",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A56104; updated=02/27/2026"
+  },
+  {
+    "source": "Noridian",
+    "source_type": "CMS Medicare Coverage Database API (api.coverage.cms.gov) -- official government coverage-policy records",
+    "record_id": "A57972",
+    "record_date": "2026-02-27",
+    "title": "Billing and Coding: MolDX: HLA Testing for Transplant Histocompatibility",
+    "text_or_description": "Retired",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=57972&ver=12",
+    "payer": "Noridian Healthcare Solutions, LLC (MAC - Part A, MAC - Part B)",
+    "procedure": "MolDX: HLA Testing for Transplant Histocompatibility",
+    "topic": "Billing & Coding Article",
+    "duplicate_or_repost": "No",
+    "direct_or_supporting": "D",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Documentation / Medical Necessity",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Documentation requirement",
+      "Procedure coverage"
+    ],
+    "classification_reason": "CMS 'Billing and Coding' articles operationalize an associated LCD: they specify covered HCPCS/CPT codes, ICD-10 support, and required documentation elements for the named procedure/service. This is the article's defined, standard function per CMS's own MCD documentation -- not an inference from incidental wording.",
+    "evidence_quote_or_field": "document_type=Article; document_display_id=A57972; updated=02/27/2026"
+  }
+]

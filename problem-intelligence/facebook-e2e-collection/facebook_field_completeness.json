@@ -1,0 +1,628 @@
+{
+  "produced_at": "2026-09-21T12:39:56.038448+00:00",
+  "total_records": 154,
+  "overall": [
+    {
+      "field": "source",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "source_item_id",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "url",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "title",
+      "available": 139,
+      "missing": 15,
+      "percentage": 90.3
+    },
+    {
+      "field": "text",
+      "available": 153,
+      "missing": 1,
+      "percentage": 99.4
+    },
+    {
+      "field": "author_id",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "author_name",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "author_profile_url",
+      "available": 87,
+      "missing": 67,
+      "percentage": 56.5
+    },
+    {
+      "field": "author_role",
+      "available": 0,
+      "missing": 154,
+      "percentage": 0.0
+    },
+    {
+      "field": "organization_name",
+      "available": 16,
+      "missing": 138,
+      "percentage": 10.4
+    },
+    {
+      "field": "organization_url",
+      "available": 16,
+      "missing": 138,
+      "percentage": 10.4
+    },
+    {
+      "field": "location",
+      "available": 0,
+      "missing": 154,
+      "percentage": 0.0
+    },
+    {
+      "field": "created_at",
+      "available": 134,
+      "missing": 20,
+      "percentage": 87.0
+    },
+    {
+      "field": "collected_at",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "engagement",
+      "available": 134,
+      "missing": 20,
+      "percentage": 87.0
+    },
+    {
+      "field": "parent_id",
+      "available": 119,
+      "missing": 35,
+      "percentage": 77.3
+    },
+    {
+      "field": "conversation_id",
+      "available": 134,
+      "missing": 20,
+      "percentage": 87.0
+    },
+    {
+      "field": "media_type",
+      "available": 134,
+      "missing": 20,
+      "percentage": 87.0
+    },
+    {
+      "field": "raw_data",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    },
+    {
+      "field": "source_metadata",
+      "available": 154,
+      "missing": 0,
+      "percentage": 100.0
+    }
+  ],
+  "by_content_type": {
+    "comment": {
+      "record_count": 119,
+      "fields": [
+        {
+          "field": "source",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_item_id",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "url",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "title",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "text",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_id",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_name",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_profile_url",
+          "available": 52,
+          "missing": 67,
+          "percentage": 43.7
+        },
+        {
+          "field": "author_role",
+          "available": 0,
+          "missing": 119,
+          "percentage": 0.0
+        },
+        {
+          "field": "organization_name",
+          "available": 0,
+          "missing": 119,
+          "percentage": 0.0
+        },
+        {
+          "field": "organization_url",
+          "available": 0,
+          "missing": 119,
+          "percentage": 0.0
+        },
+        {
+          "field": "location",
+          "available": 0,
+          "missing": 119,
+          "percentage": 0.0
+        },
+        {
+          "field": "created_at",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "collected_at",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "engagement",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "parent_id",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "conversation_id",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "media_type",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "raw_data",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_metadata",
+          "available": 119,
+          "missing": 0,
+          "percentage": 100.0
+        }
+      ]
+    },
+    "group": {
+      "record_count": 14,
+      "fields": [
+        {
+          "field": "source",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_item_id",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "url",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "title",
+          "available": 10,
+          "missing": 4,
+          "percentage": 71.4
+        },
+        {
+          "field": "text",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_id",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_name",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_profile_url",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_role",
+          "available": 0,
+          "missing": 14,
+          "percentage": 0.0
+        },
+        {
+          "field": "organization_name",
+          "available": 0,
+          "missing": 14,
+          "percentage": 0.0
+        },
+        {
+          "field": "organization_url",
+          "available": 0,
+          "missing": 14,
+          "percentage": 0.0
+        },
+        {
+          "field": "location",
+          "available": 0,
+          "missing": 14,
+          "percentage": 0.0
+        },
+        {
+          "field": "created_at",
+          "available": 4,
+          "missing": 10,
+          "percentage": 28.6
+        },
+        {
+          "field": "collected_at",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "engagement",
+          "available": 4,
+          "missing": 10,
+          "percentage": 28.6
+        },
+        {
+          "field": "parent_id",
+          "available": 0,
+          "missing": 14,
+          "percentage": 0.0
+        },
+        {
+          "field": "conversation_id",
+          "available": 4,
+          "missing": 10,
+          "percentage": 28.6
+        },
+        {
+          "field": "media_type",
+          "available": 4,
+          "missing": 10,
+          "percentage": 28.6
+        },
+        {
+          "field": "raw_data",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_metadata",
+          "available": 14,
+          "missing": 0,
+          "percentage": 100.0
+        }
+      ]
+    },
+    "page": {
+      "record_count": 10,
+      "fields": [
+        {
+          "field": "source",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_item_id",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "url",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "title",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "text",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_id",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_name",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_profile_url",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_role",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "organization_name",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "organization_url",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "location",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "created_at",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "collected_at",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "engagement",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "parent_id",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "conversation_id",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "media_type",
+          "available": 0,
+          "missing": 10,
+          "percentage": 0.0
+        },
+        {
+          "field": "raw_data",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_metadata",
+          "available": 10,
+          "missing": 0,
+          "percentage": 100.0
+        }
+      ]
+    },
+    "post": {
+      "record_count": 11,
+      "fields": [
+        {
+          "field": "source",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_item_id",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "url",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "title",
+          "available": 0,
+          "missing": 11,
+          "percentage": 0.0
+        },
+        {
+          "field": "text",
+          "available": 10,
+          "missing": 1,
+          "percentage": 90.9
+        },
+        {
+          "field": "author_id",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_name",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_profile_url",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "author_role",
+          "available": 0,
+          "missing": 11,
+          "percentage": 0.0
+        },
+        {
+          "field": "organization_name",
+          "available": 6,
+          "missing": 5,
+          "percentage": 54.5
+        },
+        {
+          "field": "organization_url",
+          "available": 6,
+          "missing": 5,
+          "percentage": 54.5
+        },
+        {
+          "field": "location",
+          "available": 0,
+          "missing": 11,
+          "percentage": 0.0
+        },
+        {
+          "field": "created_at",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "collected_at",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "engagement",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "parent_id",
+          "available": 0,
+          "missing": 11,
+          "percentage": 0.0
+        },
+        {
+          "field": "conversation_id",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "media_type",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "raw_data",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        },
+        {
+          "field": "source_metadata",
+          "available": 11,
+          "missing": 0,
+          "percentage": 100.0
+        }
+      ]
+    }
+  }
+}

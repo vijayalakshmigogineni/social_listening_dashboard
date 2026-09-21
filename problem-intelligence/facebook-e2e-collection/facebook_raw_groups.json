@@ -1,0 +1,223 @@
+{
+  "step": "1 - discovery (groups)",
+  "produced_at": "2026-09-21T12:27:56.488872+00:00",
+  "search_queries": [
+    "medical claim denial",
+    "insurance denial",
+    "prior authorization",
+    "denied claim",
+    "reimbursement problem",
+    "medical billing problem",
+    "revenue cycle management",
+    "payer denial",
+    "insurance verification",
+    "delayed payment"
+  ],
+  "requested": {
+    "max_results_per_query": 2,
+    "run_item_cap": 12,
+    "target_records": 10
+  },
+  "returned": {
+    "raw_from_actor": 10,
+    "dropped_non_content": 0,
+    "duplicates_removed": 0,
+    "kept": 10
+  },
+  "id_key_used_counts": {
+    "facebookId": 10
+  },
+  "duplicates": [],
+  "dropped_records": [],
+  "run": {
+    "actor_slug": "scrapesmith/facebook-search-scraper",
+    "actor_id": "2BZSEQfgrOqtoCTib",
+    "run_id": "X8PYgtAEe4peNjNO8",
+    "status": "SUCCEEDED",
+    "started_at": "2026-09-21T12:27:41.654Z",
+    "finished_at": "2026-09-21T12:27:50.646Z",
+    "dataset_id": "QpTMRTNaajLRbru7f",
+    "usage_total_usd": 0.005,
+    "http_status": null,
+    "error_body": null,
+    "run_input": {
+      "queries": [
+        "medical claim denial",
+        "insurance denial",
+        "prior authorization",
+        "denied claim",
+        "reimbursement problem",
+        "medical billing problem",
+        "revenue cycle management",
+        "payer denial",
+        "insurance verification",
+        "delayed payment"
+      ],
+      "searchType": "groups",
+      "maxResultsPerQuery": 2
+    }
+  },
+  "actor_log_tail": "2026-09-21T12:27:41.809Z ACTOR: Pulling container image of build e0MMd1An5Mru8OMUQ from registry.\n2026-09-21T12:27:41.814Z ACTOR: Creating container.\n2026-09-21T12:27:41.962Z ACTOR: Starting container.\n2026-09-21T12:27:41.964Z ACTOR: Running under \"LIMITED_PERMISSIONS\".\n2026-09-21T12:27:43.842Z 2026-09-21 12:27:43,841 - WARNING - Actor is running on the Apify platform, `disable_browser_sandbox` was changed to True.\n2026-09-21T12:27:43.846Z [apify] INFO  Initializing Actor ({\"apify_sdk_version\": \"4.0.2\", \"apify_client_version\": \"3.2.0\", \"crawlee_version\": \"1.10.0\", \"python_version\": \"3.12.13\", \"os\": \"linux\", \"is_running_in_ipython\": false})\n2026-09-21T12:27:43.851Z [apify] INFO  ✓ Actor initialized\n2026-09-21T12:27:43.852Z [apify] INFO  🆓 Free plan — 10 results limit\n2026-09-21T12:27:44.233Z [apify] INFO  📡 Monitor: 3 FB sessions (3 with proxy pool)\n2026-09-21T12:27:46.945Z [apify] INFO  📦 Session: 5\n2026-09-21T12:27:48.111Z [apify] INFO  ✅ 'medical claim denial': ~7 results\n2026-09-21T12:27:49.247Z [apify] INFO  ✅ 'insurance denial': ~7 results\n2026-09-21T12:27:49.331Z [apify] INFO  📤 10 results (251/min)\n2026-09-21T12:27:50.256Z [apify] INFO  ✅ 'prior authorization': ~6 results\n2026-09-21T12:27:50.259Z [apify] INFO  ==================================================\n2026-09-21T12:27:50.260Z [apify] INFO  📊 Total: 10 results in 3s\n2026-09-21T12:27:50.261Z [apify] INFO  ⚡ 181/min\n2026-09-21T12:27:50.261Z [apify] INFO  ==================================================\n2026-09-21T12:27:50.317Z [apify] INFO  Exiting Actor ({\"exit_code\": 0})\n",
+  "records": [
+    {
+      "type": "group",
+      "name": "Medical claims tasks",
+      "facebookId": "1409194587419208",
+      "url": "https://www.facebook.com/groups/1409194587419208/",
+      "profileUrl": "https://www.facebook.com/groups/1409194587419208/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.30497-1/116687302_959241714549285_318408173653384421_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx384x384&ctp=s60x60&_nc_cat=1&ccb=1-7&_nc_sid=100df4&_nc_eui2=AeFqIE6talNPFTxZFK1GPG6OU2VttAho9CNTZW20CGj0I4Zi5VUPZjLLTicSjN9Xar50ODDZtkGzTupDbaWKUHSn&_nc_ohc=IHs07pWTYAsQ7kNvwENz4oW&_nc_oc=Adpz1WCaqeaV0qVbjB3wWQIOqwRMkG7GkxP6TNaoOD1Jdr4IA7s7-gEsJfcn4bYBwUk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_ss=702a8&oh=00_AQKzhp66DrYUUOQummx4JaPmKTblzF6-YReGrLL4k5GawA&oe=6AD89443",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Public · 1.4K members",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "AI Medical Billing 🤖 Coding RCM Claims Denials CPAs Automation Software",
+      "facebookId": "2235603060616724",
+      "url": "https://www.facebook.com/groups/ai.billing/",
+      "profileUrl": "https://www.facebook.com/groups/ai.billing/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.30497-1/116687302_959241714549285_318408173653384421_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx384x384&ctp=s60x60&_nc_cat=1&ccb=1-7&_nc_sid=100df4&_nc_eui2=AeFqIE6talNPFTxZFK1GPG6OU2VttAho9CNTZW20CGj0I4Zi5VUPZjLLTicSjN9Xar50ODDZtkGzTupDbaWKUHSn&_nc_ohc=IHs07pWTYAsQ7kNvwENz4oW&_nc_oc=Adpz1WCaqeaV0qVbjB3wWQIOqwRMkG7GkxP6TNaoOD1Jdr4IA7s7-gEsJfcn4bYBwUk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_ss=702a8&oh=00_AQKzhp66DrYUUOQummx4JaPmKTblzF6-YReGrLL4k5GawA&oe=6AD89443",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Public · 1K members",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "AI Medical Billing 🤖 Coding RCM Claims Denials CPAs Automation Software",
+      "facebookId": "1580456466924920",
+      "url": "https://www.facebook.com/groups/ai.med.billing/",
+      "profileUrl": "https://www.facebook.com/groups/ai.med.billing/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.30497-1/116687302_959241714549285_318408173653384421_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx384x384&ctp=s60x60&_nc_cat=1&ccb=1-7&_nc_sid=100df4&_nc_eui2=AeFqIE6talNPFTxZFK1GPG6OU2VttAho9CNTZW20CGj0I4Zi5VUPZjLLTicSjN9Xar50ODDZtkGzTupDbaWKUHSn&_nc_ohc=IHs07pWTYAsQ7kNvwENz4oW&_nc_oc=Adpz1WCaqeaV0qVbjB3wWQIOqwRMkG7GkxP6TNaoOD1Jdr4IA7s7-gEsJfcn4bYBwUk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_ss=702a8&oh=00_AQKzhp66DrYUUOQummx4JaPmKTblzF6-YReGrLL4k5GawA&oe=6AD89443",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Public · 2 members",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "NEMT Claims, Denials & Remittances",
+      "facebookId": "1071047149038089",
+      "url": "https://www.facebook.com/groups/1071047149038089/",
+      "profileUrl": "https://www.facebook.com/groups/1071047149038089/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.30497-1/116687302_959241714549285_318408173653384421_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx384x384&ctp=s60x60&_nc_cat=1&ccb=1-7&_nc_sid=100df4&_nc_eui2=AeFqIE6talNPFTxZFK1GPG6OU2VttAho9CNTZW20CGj0I4Zi5VUPZjLLTicSjN9Xar50ODDZtkGzTupDbaWKUHSn&_nc_ohc=IHs07pWTYAsQ7kNvwENz4oW&_nc_oc=Adpz1WCaqeaV0qVbjB3wWQIOqwRMkG7GkxP6TNaoOD1Jdr4IA7s7-gEsJfcn4bYBwUk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_ss=702a8&oh=00_AQKzhp66DrYUUOQummx4JaPmKTblzF6-YReGrLL4k5GawA&oe=6AD89443",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Public · 5 members",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "AI Medical Billing 🤖 Coding RCM Claims Denials CPAs Automation Software",
+      "facebookId": "4580889252157566",
+      "url": "https://www.facebook.com/groups/ai.med.bill/",
+      "profileUrl": "https://www.facebook.com/groups/ai.med.bill/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.30497-1/116687302_959241714549285_318408173653384421_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx384x384&ctp=s60x60&_nc_cat=1&ccb=1-7&_nc_sid=100df4&_nc_eui2=AeFqIE6talNPFTxZFK1GPG6OU2VttAho9CNTZW20CGj0I4Zi5VUPZjLLTicSjN9Xar50ODDZtkGzTupDbaWKUHSn&_nc_ohc=IHs07pWTYAsQ7kNvwENz4oW&_nc_oc=Adpz1WCaqeaV0qVbjB3wWQIOqwRMkG7GkxP6TNaoOD1Jdr4IA7s7-gEsJfcn4bYBwUk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_ss=702a8&oh=00_AQKzhp66DrYUUOQummx4JaPmKTblzF6-YReGrLL4k5GawA&oe=6AD89443",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Public · 2 members",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "Medical Assistant of California",
+      "facebookId": "139990206037576",
+      "url": "https://www.facebook.com/groups/139990206037576/",
+      "profileUrl": "https://www.facebook.com/groups/139990206037576/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.30497-1/116687302_959241714549285_318408173653384421_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx384x384&ctp=s60x60&_nc_cat=1&ccb=1-7&_nc_sid=100df4&_nc_eui2=AeFqIE6talNPFTxZFK1GPG6OU2VttAho9CNTZW20CGj0I4Zi5VUPZjLLTicSjN9Xar50ODDZtkGzTupDbaWKUHSn&_nc_ohc=IHs07pWTYAsQ7kNvwENz4oW&_nc_oc=Adpz1WCaqeaV0qVbjB3wWQIOqwRMkG7GkxP6TNaoOD1Jdr4IA7s7-gEsJfcn4bYBwUk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_ss=702a8&oh=00_AQKzhp66DrYUUOQummx4JaPmKTblzF6-YReGrLL4k5GawA&oe=6AD89443",
+        "width": 60,
+        "height": 60,
+        "scale": 1
+      },
+      "snippet": "Public · 3.7K members · 7 posts a day",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "USA Medical Health Group MD and Medical Billing",
+      "facebookId": "350382725467096",
+      "url": "https://www.facebook.com/groups/350382725467096/",
+      "profileUrl": "https://www.facebook.com/groups/350382725467096/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/31230464_133880330800567_4223773999705882624_n.jpg?stp=c173.0.955.955a_cp0_dst-jpg_tt6&cstp=mx955x955&ctp=s64x64&_nc_cat=108&ccb=1-7&_nc_sid=33e84f&_nc_eui2=AeG-Ypx5IR8_5aM52EIQordA2-myPsRMPHDb6bI-xEw8cNaZLrPKmI1t-AS9gdn3o6s1Gv1nk6KwwxYUMQnYv0LS&_nc_ohc=9h9Ls9ifblAQ7kNvwHuz9om&_nc_oc=Adpoy-U_ohxWzy7LN4CvazBFZv4J0wUE7iu978so2-B8War4uIaOFHg7eRHA4cnw6bI&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=vrmoGthMJUmOpjyUIlvs8A&_nc_ss=702a8&oh=00_AQJRJuE2q0B4zBPThmndW0yTtWuG9xQADCeaR2Y5bvfHbg&oe=6AD88668",
+        "width": 64,
+        "height": 64,
+        "scale": 1
+      },
+      "snippet": "Public · 33K members · 90+ posts a day",
+      "query": "medical claim denial"
+    },
+    {
+      "type": "group",
+      "name": "Licensed Life And Health Insurance Agents USA",
+      "facebookId": "1044908954318416",
+      "url": "https://www.facebook.com/groups/1044908954318416/",
+      "profileUrl": "https://www.facebook.com/groups/1044908954318416/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/810423747_122188843796671333_5545447660382419287_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1254x1254&ctp=s64x64&_nc_cat=109&ccb=1-7&_nc_sid=33e84f&_nc_eui2=AeE-l0ieJgTIFkzECqZbbHru4FKDCAYcDmrgUoMIBhwOam40hzH9MEDw5wHw-yTugewdY07pNM2Zud4F-d9QZj8W&_nc_ohc=ajn9ZMdAa2kQ7kNvwHoBm_x&_nc_oc=Adplthdo6CChGwGniXeY8cd7BtuBuMa6-fPjUGHlARsDONTzmU0RWlh3Z2m1SUQiscs&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=T4ua0UTVfcMbPT-nlOSNYA&_nc_ss=702a8&oh=00_AQLtjhg6wXJ1B8aDiBtEwoXW8lZomVOZCD_-Gu7P8NdZ0w&oe=6AB6F05E",
+        "width": 64,
+        "height": 64,
+        "scale": 1
+      },
+      "snippet": "Public · 8.7K members · 80 posts a day",
+      "query": "insurance denial"
+    },
+    {
+      "type": "group",
+      "name": "People Looking for Life insurance",
+      "facebookId": "273498442314660",
+      "url": "https://www.facebook.com/groups/273498442314660/",
+      "profileUrl": "https://www.facebook.com/groups/273498442314660/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/385091344_218300414591823_7492962364114970964_n.jpg?stp=c204.0.552.552a_cp0_dst-jpg_tt6&cstp=mx552x552&ctp=s64x64&_nc_cat=106&ccb=1-7&_nc_sid=33e84f&_nc_eui2=AeH-hrJjjGSQa6rFN9Mg-CyWk6MRcM-NQKyToxFwz41ArJ0Tm-z2HVkz98jJ6J1ns34n35m8Sc8dX5LgCkVZUoGh&_nc_ohc=EiOJHWdedYkQ7kNvwHJxhok&_nc_oc=AdqqOBDMiVmWpiS4TK07UqCDtLkKo_S-xb5_tdVCg-cKFGLua3GXP-VC45c7OGeGRnc&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=T4ua0UTVfcMbPT-nlOSNYA&_nc_ss=702a8&oh=00_AQKiFIG5pHWkbMxk3eo32W6ylEySFoeMpIsi_qPhkj1ltA&oe=6AB6FE8A",
+        "width": 64,
+        "height": 64,
+        "scale": 1
+      },
+      "snippet": "Public · 41K members · 90+ posts a day",
+      "query": "insurance denial"
+    },
+    {
+      "type": "group",
+      "name": "I NEED LIFE INSURANCE ! Help",
+      "facebookId": "319205110760402",
+      "url": "https://www.facebook.com/groups/319205110760402/",
+      "profileUrl": "https://www.facebook.com/groups/319205110760402/",
+      "isVerified": false,
+      "image": {
+        "uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/386075911_299375176185176_5957193683351290738_n.jpg?stp=c210.0.540.540a_cp0_dst-jpg_tt6&cstp=mx540x540&ctp=s64x64&_nc_cat=102&ccb=1-7&_nc_sid=33e84f&_nc_eui2=AeGQs-IoAzS089XVzQrzXd5wdL_zXlk_PAN0v_NeWT88A-ZY6seCdXJeUM6JQ_GsmY2NDYjLEWTUtLhJ09QBNWbN&_nc_ohc=sA2cTbfRzzAQ7kNvwEZ3RdO&_nc_oc=AdoBldSs55-hOFAPHRCh8PgBCHv0aWcQXSgah8hrsMDgkbrAoelI2mCRF0KgeSOTsfg&_nc_zt=23&_nc_ht=scontent-lax3-1.xx&_nc_gid=T4ua0UTVfcMbPT-nlOSNYA&_nc_ss=702a8&oh=00_AQJ05xZGLuJzd_JVETdfAtX5oT667bjDHhnsI_9bwgciBA&oe=6AB709F3",
+        "width": 64,
+        "height": 64,
+        "scale": 1
+      },
+      "snippet": "Public · 18K members · 30 posts a day",
+      "query": "insurance denial"
+    }
+  ]
+}

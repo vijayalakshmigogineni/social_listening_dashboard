@@ -1,0 +1,2359 @@
+[
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Global-Days-Policy.pdf",
+    "record_date": "2026-09-16",
+    "title": "Global Days Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Global-Days-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Global Days Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-DME-Orthotics-Prosthetics-Multiple-Frequency-Policy.pdf",
+    "record_date": "2026-09-15",
+    "title": "Durable Medical Equipment, Orthotics and Prosthetics Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-DME-Orthotics-Prosthetics-Multiple-Frequency-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Durable Medical Equipment, Orthotics and Prosthetics Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/epidural-steroid-injections-spinal-pain.pdf",
+    "record_date": "2026-09-10",
+    "title": "Epidural Steroid Injections for Spinal Pain – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses epidural steroid injections for spinal pain. Applicable Procedure Codes: 62320, 62321, 62322, 62323, 64479, 64480, 64483, 64484.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/epidural-steroid-injections-spinal-pain.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "ESI",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses epidural steroid injections for spinal pain. Applicable Procedure Codes: 62320, 62321, 62322, 62323, 64479, 64480, 64483, 64484."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/facet-joint-injections-spinal-pain.pdf",
+    "record_date": "2026-09-10",
+    "title": "Facet Joint and Medial Branch Block Injections for Spinal Pain – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses facet joint injections/medial branch blocks for spinal pain. Applicable Procedure Codes: 0213T, 0214T, 0215T, 0216T, 0217T, 0218T, 64490, 64491, 64492, 64493, 64494, 64495.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/facet-joint-injections-spinal-pain.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Facet Joint Injection",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses facet joint injections/medial branch blocks for spinal pain. Applicable Procedure Codes: 0213T, 0214T, 0215T, 0216T, 0217T, 0218T, 64490, 64491, 64492, 64493, 64494, 64495."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/implanted-spinal-drug-delivery-systems.pdf",
+    "record_date": "2026-09-10",
+    "title": "Implanted Spinal Drug Delivery Systems – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses implanted spinal drug delivery systems for the treatment of cancer-related pain, severe spasticity, and chronic non-malignant pain. Applicable Procedure Codes: 62320, 62321, 62322, 62323, 62324, 62325, 62326, 62327, 62350, 62351, 62360, 62361, 62362.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/implanted-spinal-drug-delivery-systems.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Intrathecal Pump",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Device coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description concerns an implanted/durable medical device (not just a procedure), so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses implanted spinal drug delivery systems for the treatment of cancer-related pain, severe spasticity, and chronic non-malignant pain. Applicable Procedure Codes: 62320, 62321, 62322, 62323, 62324, 62325, 62326, 62327, 62350, 62351, 62360, 62361, 62362."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/occipital-neuralgia-headache-treatment.pdf",
+    "record_date": "2026-09-10",
+    "title": "Occipital Nerve Injections and Ablation (Including Occipital Neuralgia and Headache) – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses occipital neuralgia and headache treatments, including occipital nerve blocks and occipital nerve ablation. Applicable Procedure Codes: 63185, 63190, 64405, 64553, 64555, 64568, 64570, 64575, 64590, 64596, 64597, 64598, 64633, 64634, 64722, 64744, 64771, 64999, A4540, L8679, L8680, L8685.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/occipital-neuralgia-headache-treatment.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Occipital Nerve Block/Ablation",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses occipital neuralgia and headache treatments, including occipital nerve blocks and occipital nerve ablation. Applicable Procedure Codes: 63185, 63190, 64405, 64553, 64555, 64568, 64570, 64575, 64590, 64596, 64597, 64598, 64633, 64634, 64722, 64744, 64771, 64999, A4540, L8679, L8680, L8685."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/percutaneous-neuroablation-cancer-pain-trigeminal-neuralgia.pdf",
+    "record_date": "2026-09-10",
+    "title": "Percutaneous Neuroablation for Pancreatic Cancer Pain, Severe Cancer Pain, and Trigeminal Neuralgia – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 01.01.2026 – This policy addresses percutaneous neuroablation for the treatment of severe cancer pain and trigeminal neuralgia. Applicable Procedure Codes: 64600, 64605, 64610, 64620, 64640.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/percutaneous-neuroablation-cancer-pain-trigeminal-neuralgia.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Neuroablation",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 01.01.2026 – This policy addresses percutaneous neuroablation for the treatment of severe cancer pain and trigeminal neuralgia. Applicable Procedure Codes: 64600, 64605, 64610, 64620, 64640."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/sacroiliac-joint-interventions.pdf",
+    "record_date": "2026-09-10",
+    "title": "Sacroiliac Joint Interventions – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses sacroiliac joint interventions, including sacroiliac joint injections and sacroiliac joint fusion. Applicable Procedure Codes: 27278, 27279, 27280, 64451.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/sacroiliac-joint-interventions.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "SI Joint",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses sacroiliac joint interventions, including sacroiliac joint injections and sacroiliac joint fusion. Applicable Procedure Codes: 27278, 27279, 27280, 64451."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-hip.pdf",
+    "record_date": "2026-09-10",
+    "title": "Surgery of the Hip – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses surgery of the hip and femoroacetabular impingement (FAI) syndrome. Applicable Procedure Codes: 27120, 27125, 27130, 27132, 27134, 27137, 27138, 27299, 29861, 29862, 29863, 29914, 29915, 29916, 29999, S2118.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-hip.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses surgery of the hip and femoroacetabular impingement (FAI) syndrome. Applicable Procedure Codes: 27120, 27125, 27130, 27132, 27134, 27137, 27138, 27299, 29861, 29862, 29863, 29914, 29915, 29916, 29999, S2118."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-knee.pdf",
+    "record_date": "2026-09-10",
+    "title": "Surgery of the Knee – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses surgery of the knee. Applicable Procedure Codes: 0737T, 27412, 27415, 27416, 27418, 27437, 27438, 27440, 27441, 27442, 27443, 27446, 27447, 27486, 27487, 27568, 27569, 27664, 27665, 29866, 29867, 29868, 29870, 29871, 29873, 29874, 29875, 29876, 29877, 29879, 29880, 29881, 29882, 29883, 29884, 29885, 29886, 29887, 29888, 29889, G0428, J7330, S2112.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-knee.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses surgery of the knee. Applicable Procedure Codes: 0737T, 27412, 27415, 27416, 27418, 27437, 27438, 27440, 27441, 27442, 27443, 27446, 27447, 27486, 27487, 27568, 27569, 27664, 27665, 29866, 29867, 29868, 29870, 29871, 29873, 29874, 29875, 29876, 29877, 29879, 29880, 29881, 29882, 29883, 29884, 29885, 29886, 29887, 29888, 29889, G0428, J7330, S2112."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/sympathetic-blockade.pdf",
+    "record_date": "2026-09-10",
+    "title": "Sympathetic Blockade – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.10.2026 – This policy addresses the use of a sympathetic blockade using a local anesthetic. Applicable Procedure Codes: 64510, 64517, 64520, 64530.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/sympathetic-blockade.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Sympathetic Blockade",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.10.2026 – This policy addresses the use of a sympathetic blockade using a local anesthetic. Applicable Procedure Codes: 64510, 64517, 64520, 64530."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Maximum-Frequency-Per-Day-Policy.pdf",
+    "record_date": "2026-09-06",
+    "title": "Maximum Frequency Per Day Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Maximum-Frequency-Per-Day-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment",
+      "Procedure / Device Access",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Payment rule",
+      "Frequency restriction",
+      "Frequency restriction (UM)"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category. Title explicitly names a per-day/multiple-service 'Frequency' limit, which is both a payment rule and a utilization/frequency restriction.",
+    "evidence_quote_or_field": "Maximum Frequency Per Day Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/oncology-medication-clinical-coverage-policy.pdf",
+    "record_date": "2026-09-03",
+    "title": "Oncology Medication Clinical Coverage – Commercial and Individual Exchange Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses parameters for coverage of injectable oncology medications. Applicable Procedure Codes: A9513, A9590, A9606, A9607, A9699, J0185, J0640, J0641, J0642, J0897, J1323, J1453, J1454, J1456, J1626, J1627, J1950, J1954, J2405, J2468, J2469, J3263, J8501, J8655, J8670, J9022, J9024, J9035, J9119, J9201, J9202, J9205, J9206, J9217, J9228, J9271, J9275, J9289, J9299, J9311, J9312, J9316, J9329, J9355, J9356, J9380, Q0162, Q0166, Q5107, Q5112, Q5113, Q5114, Q5115, Q5116, Q5117, Q5118, Q5119, Q5123, Q5126, Q5129, Q5136, Q5146, Q5160.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/oncology-medication-clinical-coverage-policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses parameters for coverage of injectable oncology medications. Applicable Procedure Codes: A9513, A9590, A9606, A9607, A9699, J0185, J0640, J0641, J0642, J0897, J1323, J1453, J1454, J1456, J1626, J1627, J1950, J1954, J2405, J2468, J2469, J3263, J8501, J8655, J8670, J9022, J9024, J9035, J9119, J9201, J9202, J9205, J9206, J9217, J9228, J9271, J9275, J9289, J9299, J9311, J9312, J9316, J9329, J9355, J9356, J9380, Q0162, Q0166, Q5107, Q5112, Q5113, Q5114, Q5115, Q5116, Q5117, Q5118, Q5119, Q5123, Q5126, Q5129, Q5136, Q5146, Q5160."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/medical-policy-update-bulletin-september-2026.pdf",
+    "record_date": "2026-09-01",
+    "title": "09/01/2026 – UnitedHealthcare Commercial Medical Policy Update Bulletin: September 2026",
+    "text_or_description": "This bulletin provides complete details on recently approved, revised, and/or retired UnitedHealthcare Commercial Medical Policies and/or Medical Benefit Drug Policies.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/medical-policy-update-bulletin-september-2026.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Monthly policy update bulletin",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Effective-date change"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "UHC's own monthly bulletin explicitly stating it documents 'recently approved, revised, and/or retired' policies -- this is the project's own defined UHC activity type ('monthly policy update') and is a direct, authoritative record of policy change, though it is a roll-up notice rather than a single-procedure change so no procedure-specific signal is assigned.",
+    "evidence_quote_or_field": "This bulletin provides complete details on recently approved, revised, and/or retired UnitedHealthcare Commercial Medical Policies and/or Medical Benefit Drug Policies."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/mpub-archive-uhc.pdf",
+    "record_date": "2026-09-01",
+    "title": "UnitedHealthcare Commercial Medical Policy Update Bulletin Archive",
+    "text_or_description": "A listing of the Medical Policy Update Bulletins for the past two rolling years.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/mpub-archive-uhc.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": null,
+    "duplicate_or_repost": "No",
+    "signal_categories": [],
+    "signal_types": [],
+    "direct_or_supporting": "Irrelevant",
+    "classification_reason": "This is a static index/archive pointer document ('a listing of the Medical Policy Update Bulletins for the past two rolling years'), not itself a policy or a description of any specific change -- no coverage/authorization/reimbursement content to classify.",
+    "evidence_quote_or_field": "item_type=bulletin_archive_index; description='A listing of the Medical Policy Update Bulletins for the past two rolling years.'"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/autologous-cellular-therapy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Autologous Cellular Therapy – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses autologous cellular therapy. Applicable Procedures Codes: 0263T, 0264T, 0265T, 0489T, 0490T, 0565T, 0566T, 0717T, 0718T, 0999T, 1000T, 1001T.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/autologous-cellular-therapy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses autologous cellular therapy. Applicable Procedures Codes: 0263T, 0264T, 0265T, 0489T, 0490T, 0565T, 0566T, 0717T, 0718T, 0999T, 1000T, 1001T."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/clinical-trials.pdf",
+    "record_date": "2026-09-01",
+    "title": "Clinical Trials – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses clinical trials. Applicable Procedure Codes: G0276, G0293, G0294, G2000, S9988, S9990, S9991, S9992, S9994, S9996.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/clinical-trials.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses clinical trials. Applicable Procedure Codes: G0276, G0293, G0294, G2000, S9988, S9990, S9991, S9992, S9994, S9996."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/clotting-factors-coagulant-blood-products.pdf",
+    "record_date": "2026-09-01",
+    "title": "Clotting Factors, Coagulant Blood Products, & Other Hemostatics – Commercial Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses clotting factors and coagulant blood products. Applicable Procedure Codes: J7170, J7172, J7173, J7174, J7175, J7176, J7177, J7178, J7179, J7180, J7181, J7182, J7183, J7185, J7186, J7187, J7188, J7189, J7190, J7192, J7193, J7194, J7195, J7198, J7199, J7200, J7201, J7202, J7203, J7204, J7205, J7207, J7208, J7209, J7210, J7211, J7212, J7213, J7214.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/clotting-factors-coagulant-blood-products.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses clotting factors and coagulant blood products. Applicable Procedure Codes: J7170, J7172, J7173, J7174, J7175, J7176, J7177, J7178, J7179, J7180, J7181, J7182, J7183, J7185, J7186, J7187, J7188, J7189, J7190, J7192, J7193, J7194, J7195, J7198, J7199, J7200, J7201, J7202, J7203, J7204, J7205, J7207, J7208, J7209, J7210, J7211, J7212, J7213, J7214."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/electric-tumor-treatment-field-therapy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Electric Tumor Treatment Field Therapy – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses the use of devices to generate electric tumor treatment fields (TTF). Applicable Procedure Codes: A4555, E0766, E0767.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/electric-tumor-treatment-field-therapy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses the use of devices to generate electric tumor treatment fields (TTF). Applicable Procedure Codes: A4555, E0766, E0767."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/genetic-testing-cardiac-disease.pdf",
+    "record_date": "2026-09-01",
+    "title": "Genetic Testing for Cardiac Disease – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses genetic testing for cardiac disease. Applicable Procedure Codes: 0237U, 0401U, 0439U, 0440U, 0466U, 0617U, 81410, 81411, 81413, 81414, 81439, 81479, 81493, S3865.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/genetic-testing-cardiac-disease.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses genetic testing for cardiac disease. Applicable Procedure Codes: 0237U, 0401U, 0439U, 0440U, 0466U, 0617U, 81410, 81411, 81413, 81414, 81439, 81479, 81493, S3865."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/genetic-testing-neuromuscular-disorders.pdf",
+    "record_date": "2026-09-01",
+    "title": "Genetic Testing for Neurological Disorders – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses multi-gene targeted panel and comprehensive panel testing for the diagnosis of neurological disorders. Applicable Procedure Codes: 0216U, 0217U, 81448, 81479.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/genetic-testing-neuromuscular-disorders.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses multi-gene targeted panel and comprehensive panel testing for the diagnosis of neurological disorders. Applicable Procedure Codes: 0216U, 0217U, 81448, 81479."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/glaucoma-surgical-treatments.pdf",
+    "record_date": "2026-09-01",
+    "title": "Glaucoma Surgical Treatments – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses glaucoma drainage devices/stents, canaloplasty, and gonioscopy-assisted transluminal trabeculotomy. Applicable Procedure Codes: 0253T, 0449T, 0450T, 0474T, 0621T, 0622T, 0671T, 0730T, 1012T, 65820, 65855, 66174, 66175, 66179, 66180, 66183, 66710, 66711, 66761, 66762, 66989, 66991, L8612.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/glaucoma-surgical-treatments.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses glaucoma drainage devices/stents, canaloplasty, and gonioscopy-assisted transluminal trabeculotomy. Applicable Procedure Codes: 0253T, 0449T, 0450T, 0474T, 0621T, 0622T, 0671T, 0730T, 1012T, 65820, 65855, 66174, 66175, 66179, 66180, 66183, 66710, 66711, 66761, 66762, 66989, 66991, L8612."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/inhaled-nitric-oxide-therapy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Inhaled Nitric Oxide Therapy – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses the use of inhaled nitric oxide (iNO) for treating term or near-term infants with hypoxic respiratory failure or echocardiographic evidence of persistent pulmonary hypertension of the newborn (PPHN). Applicable Procedure Code: 94799.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/inhaled-nitric-oxide-therapy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses the use of inhaled nitric oxide (iNO) for treating term or near-term infants with hypoxic respiratory failure or echocardiographic evidence of persistent pulmonary hypertension of the newborn (PPHN). Applicable Procedure Code: 94799."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/iv-iron-replacement-therapy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Intravenous Iron Replacement Therapy (Injectafer® & Monoferric®) – Commercial and Individual Exchange Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses the use of intravenous iron replacement therapy with Injectafer® (ferric carboxymaltose), and Monoferric® (ferric derisomaltose) for the treatment of iron deficiency anemia (IDA) with and without chronic kidney disease (CKD). Applicable Procedure Codes: J1437, J1439.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/iv-iron-replacement-therapy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses the use of intravenous iron replacement therapy with Injectafer® (ferric carboxymaltose), and Monoferric® (ferric derisomaltose) for the treatment of iron deficiency anemia (IDA) with and without chronic kidney disease (CKD). Applicable Procedure Codes: J1437, J1439."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/mri-ct-scan-site-of-service.pdf",
+    "record_date": "2026-09-01",
+    "title": "Magnetic Resonance Imaging (MRI) and Computed Tomography (CT) Scan – Site of Service – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses advanced radiologic imaging procedures performed in a hospital outpatient department.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/mri-ct-scan-site-of-service.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses advanced radiologic imaging procedures performed in a hospital outpatient department."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/cardiology-procedures-evicore-ohp.pdf",
+    "record_date": "2026-09-01",
+    "title": "Outpatient Cardiology Procedures for EviCore Arrangement (for Oxford Only) – Oxford Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses cardiology procedures requiring precertification with initial review performed by eviCore healthcare.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/cardiology-procedures-evicore-ohp.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "PA requirement"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description explicitly states the service 'requires precertification' via eviCore, a direct utilization-management/prior-authorization signal.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses cardiology procedures requiring precertification with initial review performed by eviCore healthcare."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/radiology-procedures-evicore-ohp.pdf",
+    "record_date": "2026-09-01",
+    "title": "Outpatient Radiology Procedures for EviCore Arrangement (for Oxford Only) – Oxford Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses radiology procedures which require precertification by eviCore healthcare, including computerized axial tomography (CAT) scan, CT colonography/virtual colonoscopy (for diagnostic purposes), magnetic resonance imaging (MRI), magnetic resonance angiography (MRA), nuclear medicine imaging, positron emission tomography (PET) scans, and obstetrical ultrasound.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/radiology-procedures-evicore-ohp.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "PA requirement"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description explicitly states the service 'requires precertification' via eviCore, a direct utilization-management/prior-authorization signal.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses radiology procedures which require precertification by eviCore healthcare, including computerized axial tomography (CAT) scan, CT colonography/virtual colonoscopy (for diagnostic purposes), magnetic resonance imaging (MRI), magnetic resonance angiography (MRA), nuclear medicine imaging, positron emission tomography (PET) scans, and obstetrical ultrasound."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/provider-administered-drugs-soc.pdf",
+    "record_date": "2026-09-01",
+    "title": "Provider Administered Drugs – Site of Care – Commercial Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses outpatient hospital facility-based intravenous medication infusion and intravenous immune globulin and subcutaneous immune globulin therapy.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/provider-administered-drugs-soc.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses outpatient hospital facility-based intravenous medication infusion and intravenous immune globulin and subcutaneous immune globulin therapy."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/review-at-launch-new-to-market-medications.pdf",
+    "record_date": "2026-09-01",
+    "title": "Review at Launch for New to Market Medications – Commercial Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 12.01.2025 – This policy addresses review of certain new to market medications that are healthcare provider administered. Applicable Procedure Codes: C9399, J3490, J3590.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/review-at-launch-new-to-market-medications.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Utilization restriction"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Policy requires utilization review of new-to-market provider-administered drugs before use/coverage.",
+    "evidence_quote_or_field": "Effective Date: 12.01.2025 – This policy addresses review of certain new to market medications that are healthcare provider administered. Applicable Procedure Codes: C9399, J3490, J3590."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/spinal-fusion-decompression.pdf",
+    "record_date": "2026-09-01",
+    "title": "Spinal Fusion and Decompression – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses spinal fusion and decompression procedures, laminectomy, isolated facet fusion, dynamic stabilization systems, and total facet joint arthroplasty.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/spinal-fusion-decompression.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Facet Joint Injection",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses spinal fusion and decompression procedures, laminectomy, isolated facet fusion, dynamic stabilization systems, and total facet joint arthroplasty."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/spinraza-nusinersen.pdf",
+    "record_date": "2026-09-01",
+    "title": "Spinraza® (Nusinersen) – Commercial Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses the use of Spinraza® (nusinersen) for the treatment of spinal muscular atrophy (SMA). Applicable Procedure Code: J2326.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/spinraza-nusinersen.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses the use of Spinraza® (nusinersen) for the treatment of spinal muscular atrophy (SMA). Applicable Procedure Code: J2326."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-shoulder.pdf",
+    "record_date": "2026-09-01",
+    "title": "Surgery of the Shoulder – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses surgery of the shoulder. Applicable Procedure Codes: 23470, 23472, 23473, 23474, 29806, 29807, 29819, 29820, 29821, 29822, 29823, 29824, 29825, 29826, 29827, 29828, 29999.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-shoulder.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses surgery of the shoulder. Applicable Procedure Codes: 23470, 23472, 23473, 23474, 29806, 29807, 29819, 29820, 29821, 29822, 29823, 29824, 29825, 29826, 29827, 29828, 29999."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-hand-wrist.pdf",
+    "record_date": "2026-09-01",
+    "title": "Surgery of the Wrist or Thumb – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 08.01.2026 – This policy addresses surgery of the hand or wrist. Applicable Procedure Codes: 25441, 25442, 25443, 25444, 25445, 25446, 25449, 26530, 26531, 26535, 26536, 29840, 29843, 29844, 29845, 29846, 29847.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/surgery-hand-wrist.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 08.01.2026 – This policy addresses surgery of the hand or wrist. Applicable Procedure Codes: 25441, 25442, 25443, 25444, 25445, 25446, 25449, 26530, 26531, 26535, 26536, 29840, 29843, 29844, 29845, 29846, 29847."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/total-artificial-disc-replacement-spine.pdf",
+    "record_date": "2026-09-01",
+    "title": "Total Artificial Disc Replacement for the Spine – Commercial and Individual Exchange Medical Policy",
+    "text_or_description": "Effective Date: 02.01.2026 – This policy addresses cervical and lumbar artificial total disc replacement. Applicable Procedure Codes: 0098T, 0165T, 22856, 22857, 22858, 22860, 22861, 22862, 22899.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/total-artificial-disc-replacement-spine.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Disc Replacement",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 02.01.2026 – This policy addresses cervical and lumbar artificial total disc replacement. Applicable Procedure Codes: 0098T, 0165T, 22856, 22857, 22858, 22860, 22861, 22862, 22899."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/vyepti.pdf",
+    "record_date": "2026-09-01",
+    "title": "Vyepti® (Eptinezumab-Jjmr) – Commercial and Individual Exchange Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses the use of Vyepti® (Eptinezumab) for the treatment of chronic and episodic migraine. Applicable Procedure Code: J3032.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/vyepti.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses the use of Vyepti® (Eptinezumab) for the treatment of chronic and episodic migraine. Applicable Procedure Code: J3032."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/white-blood-cell-colony-stimulating-factors.pdf",
+    "record_date": "2026-09-01",
+    "title": "White Blood Cell Colony Stimulating Factors – Commercial and Individual Exchange Medical Benefit Drug Policy",
+    "text_or_description": "Effective Date: 09.01.2026 – This policy addresses the use of white blood cell colony stimulating factors (CSFs), including the drug products Fulphila, Fylnetra, Granix, Leukine, Neulasta, Neupogen, Nivestym, Nyvepria, Releuko, Rolvedon, Stimufend, Udenyca, Zarxio, and Ziextenzo. Applicable Procedure Codes: J1442, J1447, J1449, J2506, J2820, J3490, J3590, J9361, J9999, Q5101, Q5108, Q5110, Q5111, Q5120, Q5122, Q5125, Q5127, Q5130, Q5148, Q5169.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-medical-drug/white-blood-cell-colony-stimulating-factors.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "Effective Date: 09.01.2026 – This policy addresses the use of white blood cell colony stimulating factors (CSFs), including the drug products Fulphila, Fylnetra, Granix, Leukine, Neulasta, Neupogen, Nivestym, Nyvepria, Releuko, Rolvedon, Stimufend, Udenyca, Zarxio, and Ziextenzo. Applicable Procedure Codes: J1442, J1447, J1449, J2506, J2820, J3490, J3590, J9361, J9999, Q5101, Q5108, Q5110, Q5111, Q5120, Q5122, Q5125, Q5127, Q5130, Q5148, Q5169."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/rpub/UHC-COMM-RPUB-September-2026.pdf",
+    "record_date": "2026-09-01",
+    "title": "9/1/2026 – UnitedHealthcare Commercial Reimbursement Policy Update Bulletin: September 2026",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/rpub/UHC-COMM-RPUB-September-2026.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Monthly policy update bulletin",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Effective-date change"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "UHC's own monthly bulletin explicitly stating it documents 'recently approved, revised, and/or retired' policies -- this is the project's own defined UHC activity type ('monthly policy update') and is a direct, authoritative record of policy change, though it is a roll-up notice rather than a single-procedure change so no procedure-specific signal is assigned.",
+    "evidence_quote_or_field": "9/1/2026 – UnitedHealthcare Commercial Reimbursement Policy Update Bulletin: September 2026"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Advanced-Practice-Providers-EM-Procedures-Policy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Advanced Practice Health Care Provider Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Advanced-Practice-Providers-EM-Procedures-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Advanced Practice Health Care Provider Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Emergency-Department-Facility-Evaluation-Mgmt-Policy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Emergency Department (ED) Facility Evaluation and Management (E&M) Coding Policy - Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Emergency-Department-Facility-Evaluation-Mgmt-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Emergency Department (ED) Facility Evaluation and Management (E&M) Coding Policy - Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-In-Vitro-Chemotherapy-Assays-Policy.pdf",
+    "record_date": "2026-09-01",
+    "title": "In Vitro Chemotherapy Assays Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-In-Vitro-Chemotherapy-Assays-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "In Vitro Chemotherapy Assays Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Preventive-Medicine-and-Screening-Policy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Preventive Medicine and Screening Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Preventive-Medicine-and-Screening-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Preventive Medicine and Screening Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Services-by-Residents-Interns-Medical-Students-Policy-Professional.pdf",
+    "record_date": "2026-09-01",
+    "title": "Services by Residents, Interns and Medical Students Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Services-by-Residents-Interns-Medical-Students-Policy-Professional.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Services by Residents, Interns and Medical Students Policy, Professional - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Testosterone-Policy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Testosterone Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Community Plan",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Testosterone-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Testosterone Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Community Plan"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/medicare-advantage-medical-policy-update-bulletin-september-2026.pdf",
+    "record_date": "2026-09-01",
+    "title": "09/01/2026 – Medicare Advantage Medical Policy Update Bulletin: September 2026",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/medicare-advantage-medical-policy-update-bulletin-september-2026.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Monthly policy update bulletin",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy"
+    ],
+    "signal_types": [
+      "Policy revision",
+      "Effective-date change"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "UHC's own monthly bulletin explicitly stating it documents 'recently approved, revised, and/or retired' policies -- this is the project's own defined UHC activity type ('monthly policy update') and is a direct, authoritative record of policy change, though it is a roll-up notice rather than a single-procedure change so no procedure-specific signal is assigned.",
+    "evidence_quote_or_field": "09/01/2026 – Medicare Advantage Medical Policy Update Bulletin: September 2026"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/mpub-archive-mamp.pdf",
+    "record_date": "2026-09-01",
+    "title": "Medicare Advantage Medical Policy Update Bulletin Archive",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/mpub-archive-mamp.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": null,
+    "duplicate_or_repost": "No",
+    "signal_categories": [],
+    "signal_types": [],
+    "direct_or_supporting": "Irrelevant",
+    "classification_reason": "This is a static index/archive pointer document ('a listing of the Medical Policy Update Bulletins for the past two rolling years'), not itself a policy or a description of any specific change -- no coverage/authorization/reimbursement content to classify.",
+    "evidence_quote_or_field": "item_type=bulletin_archive_index; description=''"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/ambulatory-eeg-monitoring.pdf",
+    "record_date": "2026-09-01",
+    "title": "Ambulatory EEG Monitoring – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses ambulatory electroencephalogram (EEG) monitoring to diagnose neurological conditions. Applicable Procedure Codes: 95700, 95705, 95706, 95707, 95708, 95709, 95710, 95711, 95712, 95713, 95714, 95715, 95716, 95717, 95718, 95719, 95720, 95721, 95722, 95723, 95724, 95725, 95726.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/ambulatory-eeg-monitoring.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses ambulatory electroencephalogram (EEG) monitoring to diagnose neurological conditions. Applicable Procedure Codes: 95700, 95705, 95706, 95707, 95708, 95709, 95710, 95711, 95712, 95713, 95714, 95715, 95716, 95717, 95718, 95719, 95720, 95721, 95722, 95723, 95724, 95725, 95726."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/ambulatory-ecg-monitoring.pdf",
+    "record_date": "2026-09-01",
+    "title": "Ambulatory Electrocardiographic (AECG) Monitoring – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses ambulatory electrocardiographic (AECG) diagnostic procedures. Applicable Procedure Codes: 0937T, 0938T, 0939T, 0940T, 33285, 93224, 93225, 93226, 93227, 93228, 93229, 93241, 93242, 93243, 93244, 93245, 93246, 93247, 93248, 93268, 93270, 93271, 93272, E0616.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/ambulatory-ecg-monitoring.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses ambulatory electrocardiographic (AECG) diagnostic procedures. Applicable Procedure Codes: 0937T, 0938T, 0939T, 0940T, 33285, 93224, 93225, 93226, 93227, 93228, 93229, 93241, 93242, 93243, 93244, 93245, 93246, 93247, 93248, 93268, 93270, 93271, 93272, E0616."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/brow-ptosis-eyelid-repair.pdf",
+    "record_date": "2026-09-01",
+    "title": "Brow Ptosis and Eyelid Repair – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses brow ptosis and eyelid repair. Applicable Procedure Codes: 21280, 21282, 67909, 67911, 67912, 67914, 67915, 67916, 67917, 67921, 67922, 67923, 67924, 67950, 67961, 67966.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/brow-ptosis-eyelid-repair.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses brow ptosis and eyelid repair. Applicable Procedure Codes: 21280, 21282, 67909, 67911, 67912, 67914, 67915, 67916, 67917, 67921, 67922, 67923, 67924, 67950, 67961, 67966."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/capsule-endoscopy.pdf",
+    "record_date": "2026-09-01",
+    "title": "Capsule Endoscopy – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses capsule endoscopy and wireless gastrointestinal motility monitoring systems. Applicable Procedure Codes: 91110, 91111, 91112, 91299.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/capsule-endoscopy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses capsule endoscopy and wireless gastrointestinal motility monitoring systems. Applicable Procedure Codes: 91110, 91111, 91112, 91299."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/cardiovascular-diagnostic-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Cardiovascular Diagnostic and Therapeutic Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses cardiovascular diagnostic and therapeutic procedures. Applicable Procedure Codes: 33289, 33477, 37220, 37221, 37224, 37225, 37226, 37227, 37228, 37229, 37230, 37231, 93050, 93653, 93656, C2624.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/cardiovascular-diagnostic-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses cardiovascular diagnostic and therapeutic procedures. Applicable Procedure Codes: 33289, 33477, 37220, 37221, 37224, 37225, 37226, 37227, 37228, 37229, 37230, 37231, 93050, 93653, 93656, C2624."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/category-iii-cpt-codes.pdf",
+    "record_date": "2026-09-01",
+    "title": "Category III CPT Codes – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses Category III CPT codes used to track the utilization of emerging technologies, services, and procedures.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/category-iii-cpt-codes.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses Category III CPT codes used to track the utilization of emerging technologies, services, and procedures."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/computerized-dynamic-posturography.pdf",
+    "record_date": "2026-09-01",
+    "title": "Computerized Dynamic Posturography – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses computerized dynamic posturography (CDP) for the treatment of neurologic disease and inherited disorders, peripheral vestibular disorders, and disequilibrium in the aging/elderly. Applicable Procedure Codes: 92548, 92549.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/computerized-dynamic-posturography.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses computerized dynamic posturography (CDP) for the treatment of neurologic disease and inherited disorders, peripheral vestibular disorders, and disequilibrium in the aging/elderly. Applicable Procedure Codes: 92548, 92549."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/corneal-topography.pdf",
+    "record_date": "2026-09-01",
+    "title": "Corneal Topography – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses computerized corneal topography. Applicable Procedure Code: 92025.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/corneal-topography.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses computerized corneal topography. Applicable Procedure Code: 92025."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/cosmetic-reconstructive-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Cosmetic and Reconstructive Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses cosmetic and reconstructive surgical services.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/cosmetic-reconstructive-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses cosmetic and reconstructive surgical services."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/deep-brain-responsive-cortical-stimulation.pdf",
+    "record_date": "2026-09-01",
+    "title": "Deep Brain and Responsive Cortical Stimulation – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses deep brain stimulation and responsive cortical stimulation. Applicable Procedure Codes: 61850, 61863, 61864, 61867, 61868, 61885, 61886, 64999, L8680, L8682, L8685, L8686, L8687, L8688.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/deep-brain-responsive-cortical-stimulation.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Device coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description concerns an implanted/durable medical device (not just a procedure), so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "This policy addresses deep brain stimulation and responsive cortical stimulation. Applicable Procedure Codes: 61850, 61863, 61864, 61867, 61868, 61885, 61886, 64999, L8680, L8682, L8685, L8686, L8687, L8688."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/ear-nose-throat-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Ear, Nose, and Throat Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses balloon sinus ostial dilation, functional endoscopic sinus surgery (FESS), radiofrequency treatment of nasal valves for the treatment of nasal airway obstruction, intranasal repair, rhinophyma excision, septoplasty, rhinoplasty, and vestibular stenosis repair. Applicable Procedure Codes: 30120, 30400, 30410, 30420, 30430, 30435, 30450, 30460, 30462, 30465, 30468, 30469, 30520, 30540, 30545, 30620, 31240, 31253, 31254, 31257, 31259, 31287, 31288, 31295, 31296, 31297, 31298, 31299, 42699, 69799.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/ear-nose-throat-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses balloon sinus ostial dilation, functional endoscopic sinus surgery (FESS), radiofrequency treatment of nasal valves for the treatment of nasal airway obstruction, intranasal repair, rhinophyma excision, septoplasty, rhinoplasty, and vestibular stenosis repair. Applicable Procedure Codes: 30120, 30400, 30410, 30420, 30430, 30435, 30450, 30460, 30462, 30465, 30468, 30469, 30520, 30540, 30545, 30620, 31240, 31253, 31254, 31257, 31259, 31287, 31288, 31295, 31296, 31297, 31298, 31299, 42699, 69799."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/electrical-ultrasonic-stimulators.pdf",
+    "record_date": "2026-09-01",
+    "title": "Electrical Stimulators – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses vagus nerve stimulation for treatment of chronic pain syndrome, percutaneous peripheral nerve stimulation (PNS), electrical stimulation for the treatment of dysphagia, percutaneous electrical nerve stimulation (PENS), percutaneous neuromodulation, and occipital nerve stimulation for the treatment of occipital neuralgia or headaches therapy (PNT). Applicable Procedure Codes: 61885, 61886, 63650, 64553, 64555, 64590, 64999, E0745, E0764, E0770.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/electrical-ultrasonic-stimulators.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Occipital Nerve Block/Ablation",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Device coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description concerns an implanted/durable medical device (not just a procedure), so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "This policy addresses vagus nerve stimulation for treatment of chronic pain syndrome, percutaneous peripheral nerve stimulation (PNS), electrical stimulation for the treatment of dysphagia, percutaneous electrical nerve stimulation (PENS), percutaneous neuromodulation, and occipital nerve stimulation for the treatment of occipital neuralgia or headaches therapy (PNT). Applicable Procedure Codes: 61885, 61886, 63650, 64553, 64555, 64590, 64999, E0745, E0764, E0770."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/gender-dysphoria-gender-reassignment-surgery.pdf",
+    "record_date": "2026-09-01",
+    "title": "Gender Dysphoria and Gender Reassignment Surgery – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses gender reassignment surgery for members with gender dysphoria.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/gender-dysphoria-gender-reassignment-surgery.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses gender reassignment surgery for members with gender dysphoria."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/hospital-services.pdf",
+    "record_date": "2026-09-01",
+    "title": "Hospital, Emergency, and Ambulance Services – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses inpatient and outpatient hospital services, outpatient observation services, religious nonmedical health care institutions (RNHCIs), long term care hospitals (LTCH), never events, emergency and urgently needed services, post-stabilization care services, follow-up care services, and ambulance services.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/hospital-services.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses inpatient and outpatient hospital services, outpatient observation services, religious nonmedical health care institutions (RNHCIs), long term care hospitals (LTCH), never events, emergency and urgently needed services, post-stabilization care services, follow-up care services, and ambulance services."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/medications-drugs-outpatient-partb.pdf",
+    "record_date": "2026-09-01",
+    "title": "Medications/Drugs (Outpatient/Part B) – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses outpatient medications/drugs, unlabeled use of Part B drugs, examples of covered and not covered medications/drugs, review at launch (RAL), and step therapy programs. Applicable Procedure Codes: 11980, J3490.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/medications-drugs-outpatient-partb.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access",
+      "Authorization / Utilization Management"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Step therapy",
+      "Utilization restriction"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description explicitly names 'step therapy programs'. Policy requires utilization review of new-to-market provider-administered drugs before use/coverage.",
+    "evidence_quote_or_field": "This policy addresses outpatient medications/drugs, unlabeled use of Part B drugs, examples of covered and not covered medications/drugs, review at launch (RAL), and step therapy programs. Applicable Procedure Codes: 11980, J3490."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/molecular-path-genetic-test-unlisted-codes.pdf",
+    "record_date": "2026-09-01",
+    "title": "Molecular Pathology/Genetic Testing Reported with Unlisted Codes – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses molecular pathology and genetic testing when reported with unlisted codes. Applicable Procedure Codes: 81479, 81599.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/molecular-path-genetic-test-unlisted-codes.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses molecular pathology and genetic testing when reported with unlisted codes. Applicable Procedure Codes: 81479, 81599."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/molecular-pathology-diagnostics-genetic-testing.pdf",
+    "record_date": "2026-09-01",
+    "title": "Molecular Pathology/Molecular Diagnostics/Genetic Testing – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses molecular and genetic tests that have proven efficacy in the diagnosis or treatment of medical conditions.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/molecular-pathology-diagnostics-genetic-testing.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses molecular and genetic tests that have proven efficacy in the diagnosis or treatment of medical conditions."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/neurologic-services-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Neurologic Services and Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses neurologic services and procedures. Applicable Procedure Codes: 64568, 64999, 95965, 95966, C1827.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/neurologic-services-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses neurologic services and procedures. Applicable Procedure Codes: 64568, 64999, 95965, 95966, C1827."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/noninvasive-fractional-flow-reserve-ffr-ischemic-heart-disease.pdf",
+    "record_date": "2026-09-01",
+    "title": "Non-Invasive Fractional Flow Reserve (FFR) for Ischemic Heart Disease – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses noninvasive fractional flow reserve (FFR) derived from coronary computed tomography angiography (CCTA), also known as FFR-ct, for the evaluation of ischemic heart disease/coronary artery disease. Applicable Procedure Codes: 0501T, 0502T, 0503T, 0504T, 75580.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/noninvasive-fractional-flow-reserve-ffr-ischemic-heart-disease.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses noninvasive fractional flow reserve (FFR) derived from coronary computed tomography angiography (CCTA), also known as FFR-ct, for the evaluation of ischemic heart disease/coronary artery disease. Applicable Procedure Codes: 0501T, 0502T, 0503T, 0504T, 75580."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/omnibus-codes-mamp.pdf",
+    "record_date": "2026-09-01",
+    "title": "Omnibus Codes – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses certain items/services that do not have Medicare coverage criteria.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/omnibus-codes-mamp.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses certain items/services that do not have Medicare coverage criteria."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/orthopedic-procedures-devices-products.pdf",
+    "record_date": "2026-09-01",
+    "title": "Orthopedic Procedures, Devices, and Products – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses computer-assisted surgical navigation for musculoskeletal procedures, extracorporeal shock wave therapy (ESWT), and manipulation under anesthesia (MUA). Applicable Procedure Codes: 0054T, 0055T, 0101T, 0102T, 20985, 22505, 28890.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/orthopedic-procedures-devices-products.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses computer-assisted surgical navigation for musculoskeletal procedures, extracorporeal shock wave therapy (ESWT), and manipulation under anesthesia (MUA). Applicable Procedure Codes: 0054T, 0055T, 0101T, 0102T, 20985, 22505, 28890."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/osteopathic-manipulations-omt.pdf",
+    "record_date": "2026-09-01",
+    "title": "Osteopathic Manipulations (OMT) – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses osteopathic manipulative treatments (OMT). Applicable Procedure Codes: 98925, 98926, 98927, 98928, 98929.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/osteopathic-manipulations-omt.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses osteopathic manipulative treatments (OMT). Applicable Procedure Codes: 98925, 98926, 98927, 98928, 98929."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/pain-management-rehabilitation.pdf",
+    "record_date": "2026-09-01",
+    "title": "Pain Management – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses pain management, inpatient and outpatient pain rehabilitation programs, and related services. Applicable Procedure Codes: 0440T, 0441T, 0442T, 22899, 64405, 64454, 64624, 64625, 64628, 64629, 64722, 64744, 64999.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/pain-management-rehabilitation.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "Pain Management (general)",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses pain management, inpatient and outpatient pain rehabilitation programs, and related services. Applicable Procedure Codes: 0440T, 0441T, 0442T, 22899, 64405, 64454, 64624, 64625, 64628, 64629, 64722, 64744, 64999."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/percutaneous-coronary-interventions.pdf",
+    "record_date": "2026-09-01",
+    "title": "Percutaneous Coronary Interventions – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses percutaneous coronary intervention (PCI). Applicable Procedure Codes: 92920, 92924, 92928, 92933, 92937, 92941, 92943, C9600, C9601, C9602, C9603, C9604, C9605, C9606, C9607, C9608.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/percutaneous-coronary-interventions.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses percutaneous coronary intervention (PCI). Applicable Procedure Codes: 92920, 92924, 92928, 92933, 92937, 92941, 92943, C9600, C9601, C9602, C9603, C9604, C9605, C9606, C9607, C9608."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/percutaneous-ventricular-assist-device.pdf",
+    "record_date": "2026-09-01",
+    "title": "Percutaneous Ventricular Assist Device – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses percutaneous insertion of an endovascular cardiac (ventricular) assist device. Applicable Procedure Codes: 33990, 33991, 33995.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/percutaneous-ventricular-assist-device.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Device coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description concerns an implanted/durable medical device (not just a procedure), so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "This policy addresses percutaneous insertion of an endovascular cardiac (ventricular) assist device. Applicable Procedure Codes: 33990, 33991, 33995."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/pharmacogenomics-testing.pdf",
+    "record_date": "2026-09-01",
+    "title": "Pharmacogenomics Testing – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses pharmacogenomics testing (PGx). Applicable Procedure Codes: 0031U, 0032U, 0033U, 0117U, 0173U, 0175U, 81230, 81346, 81355.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/pharmacogenomics-testing.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses pharmacogenomics testing (PGx). Applicable Procedure Codes: 0031U, 0032U, 0033U, 0117U, 0173U, 0175U, 81230, 81346, 81355."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/platelet-rich-plasma-therapies.pdf",
+    "record_date": "2026-09-01",
+    "title": "Platelet Rich Plasma Therapies – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses platelet rich plasma injections/applications for the treatment of musculoskeletal injuries or joint conditions. Applicable Procedure Codes: 0232T, G0460, G0465, P9020.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/platelet-rich-plasma-therapies.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses platelet rich plasma injections/applications for the treatment of musculoskeletal injuries or joint conditions. Applicable Procedure Codes: 0232T, G0460, G0465, P9020."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/pet-scan-myocardial-imaging.pdf",
+    "record_date": "2026-09-01",
+    "title": "Positron Emission Tomography Scan for Myocardial Imaging – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses positron emission tomography (PET) scans for myocardial imaging.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/pet-scan-myocardial-imaging.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses positron emission tomography (PET) scans for myocardial imaging."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/prostate-services-procs-impotence-tx.pdf",
+    "record_date": "2026-09-01",
+    "title": "Prostate Services and Procedures and Impotence Treatment – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses services and procedures for the diagnosis and treatment of prostate conditions and related impotence treatment. Applicable Procedure Codes: 37243, 52441, 52442, 53855, 55874, 55899, 55899, 64999, L8699.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/prostate-services-procs-impotence-tx.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses services and procedures for the diagnosis and treatment of prostate conditions and related impotence treatment. Applicable Procedure Codes: 37243, 52441, 52442, 53855, 55874, 55899, 55899, 64999, L8699."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/radiation-oncologic-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Radiation and Oncologic Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses high-dose rate electronic brachytherapy, implantable beta-emitting microspheres for treatment of malignant tumors, transarterial therapy of the liver, image guided radiation therapy (IGRT), special/associated services, standard radiation therapy (2D/3D), proton beam therapy (PBT), intensity modulated radiation therapy (IMRT), stereotactic radiosurgery/stereotactic body radiation therapy (SBRT), intraoperative hyperthermic intraperitoneal chemotherapy, and intraoperative radiation treatment (IORT) . Applicable Procedure Codes: 37243, 37243, 77301, 77331, 77370, 77371, 77372, 77373, 77387, 77399, 77402, 77407, 77412, 77424, 77470, 77520, 77522, 77523, 77525, 79445, G0339, G0340.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/radiation-oncologic-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses high-dose rate electronic brachytherapy, implantable beta-emitting microspheres for treatment of malignant tumors, transarterial therapy of the liver, image guided radiation therapy (IGRT), special/associated services, standard radiation therapy (2D/3D), proton beam therapy (PBT), intensity modulated radiation therapy (IMRT), stereotactic radiosurgery/stereotactic body radiation therapy (SBRT), intraoperative hyperthermic intraperitoneal chemotherapy, and intraoperative radiation treatment (IORT) . Applicable Procedure Codes: 37243, 37243, 77301, 77331, 77370, 77371, 77372, 77373, 77387, 77399, 77402, 77407, 77412, 77424, 77470, 77520, 77522, 77523, 77525, 79445, G0339, G0340."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/radiologic-diagnostic-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Radiologic Diagnostic Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses diagnostic radiological services. Applicable Procedure Codes: 76376, 76377, 78012, 78013, 78014, 78015, 78016, 78018, 78070, 78071, 78072, 78075, 78099, 78199, 78226, 78227, 78299, 78399, 78499, 78579, 78580, 78582, 78597, 78598, 78599, 78608, 78699, 78799, 78800, 78801, 78802, 78803, 78804, 78811, 78812, 78813, 78814, 78815, 78816, 78830, 78831, 78832, 78999.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/radiologic-diagnostic-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses diagnostic radiological services. Applicable Procedure Codes: 76376, 76377, 78012, 78013, 78014, 78015, 78016, 78018, 78070, 78071, 78072, 78075, 78099, 78199, 78226, 78227, 78299, 78399, 78499, 78579, 78580, 78582, 78597, 78598, 78599, 78608, 78699, 78799, 78800, 78801, 78802, 78803, 78804, 78811, 78812, 78813, 78814, 78815, 78816, 78830, 78831, 78832, 78999."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/snf-rehab-ltc-hospitalization.pdf",
+    "record_date": "2026-09-01",
+    "title": "Skilled Nursing Facility, Rehabilitation, Long-Term Acute Care Hospital, and Private Duty Nursing – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses outpatient rehabilitation therapy (including physical therapy, occupational therapy, and speech-language pathology services), inpatient rehabilitation services, and other rehabilitation therapy services. Applicable Procedure Codes: 92507, 92508, 92526, 97012, 97016, 97018, 97022, 97024, 97026, 97028, 97032, 97035, 97036, 97110, 97039, 97110, 97112, 97113, 97116, 97124, 97139, 97140, 97150, 97164, 97168, 97530, 97533, 97535, 97537, 97542, 97545, 97546, 97550, 97755, 97761, 97799, G0283.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/snf-rehab-ltc-hospitalization.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses outpatient rehabilitation therapy (including physical therapy, occupational therapy, and speech-language pathology services), inpatient rehabilitation services, and other rehabilitation therapy services. Applicable Procedure Codes: 92507, 92508, 92526, 97012, 97016, 97018, 97022, 97024, 97026, 97028, 97032, 97035, 97036, 97110, 97039, 97110, 97112, 97113, 97116, 97124, 97139, 97140, 97150, 97164, 97168, 97530, 97533, 97535, 97537, 97542, 97545, 97546, 97550, 97755, 97761, 97799, G0283."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/skin-substitues-ctp-injection-application.pdf",
+    "record_date": "2026-09-01",
+    "title": "Skin Substitutes Grafts/Cellular and Tissue-Based Products (Injections and/or Applications) – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses skin substitutes grafts/cellular and tissue-based products (CTP) and amniotic/placental derived product injections and/or applications for non-wound musculoskeletal indications.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/skin-substitues-ctp-injection-application.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses skin substitutes grafts/cellular and tissue-based products (CTP) and amniotic/placental derived product injections and/or applications for non-wound musculoskeletal indications."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/sleep-apnea-diagnosis-treatment.pdf",
+    "record_date": "2026-09-01",
+    "title": "Sleep Apnea Surgical Treatments – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses sleep apnea surgical treatments. Applicable Procedure Codes: 21141, 21145, 21196, 21199, 21685, 41512, 41530, 41599, 42145.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/sleep-apnea-diagnosis-treatment.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses sleep apnea surgical treatments. Applicable Procedure Codes: 21141, 21145, 21196, 21199, 21685, 41512, 41530, 41599, 42145."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/spinal-cord-stimulators-chronic-pain.pdf",
+    "record_date": "2026-09-01",
+    "title": "Spinal Cord Stimulators for Chronic Pain – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses the implantation of spinal cord stimulators (SCS) for the relief of chronic intractable pain. Applicable Procedure Codes: 63650, 63655, 63685.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/spinal-cord-stimulators-chronic-pain.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": "SCS",
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage",
+      "Device coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes. Description concerns an implanted/durable medical device (not just a procedure), so a device-coverage signal is also assigned.",
+    "evidence_quote_or_field": "This policy addresses the implantation of spinal cord stimulators (SCS) for the relief of chronic intractable pain. Applicable Procedure Codes: 63650, 63655, 63685."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/surgical-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Surgical Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses multiple surgical procedures that utilize InterQual® coverage guidelines when no Medicare coverage criteria exists.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/surgical-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses multiple surgical procedures that utilize InterQual® coverage guidelines when no Medicare coverage criteria exists."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/tier-2-molecular-pathology-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Tier 2 Molecular Pathology Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses Tier 2 molecular pathology procedures, which are procedures not identified by Tier 1 molecular pathology procedures or other CPT codes. Applicable Procedure Codes: 81400, 81401, 81402, 81403, 81404, 81405, 81406, 81407, 81408.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/tier-2-molecular-pathology-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses Tier 2 molecular pathology procedures, which are procedures not identified by Tier 1 molecular pathology procedures or other CPT codes. Applicable Procedure Codes: 81400, 81401, 81402, 81403, 81404, 81405, 81406, 81407, 81408."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/urinary-fecal-incontinence-diagnosis-treatments.pdf",
+    "record_date": "2026-09-01",
+    "title": "Urinary and Fecal Incontinence: Diagnosis and Treatment – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses diagnosis, treatments, and devices for urinary and fecal incontinence. Applicable Procedure Codes: 0672T, 53860, 53899, 64561, 64581, 64590, E2001.This policy addresses diagnosis, treatments, and devices for urinary and fecal incontinence. Applicable Codes: 0672T, 53860, 53899, 64561, 64581, 64590, E2001.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/urinary-fecal-incontinence-diagnosis-treatments.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses diagnosis, treatments, and devices for urinary and fecal incontinence. Applicable Procedure Codes: 0672T, 53860, 53899, 64561, 64581, 64590, E2001.This policy addresses diagnosis, treatments, and devices for urinary and fecal incontinence. Applicable Codes: 0672T, 53860, 53899, 64561, 64581, 64590, E2001."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/uterine-services-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Uterine Services and Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses uterine services and procedures. Applicable Procedure Codes: 0071T, 0072T, 37243, 58150, 58152, 58180, 58260, 58262, 58263, 58267, 58270, 58290, 58291, 58292, 58294, 58541, 58542, 58543, 58544, 58550, 58552, 58553, 58554, 58570, 58571, 58572, 58573, 58662, 59812, 59840.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/uterine-services-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses uterine services and procedures. Applicable Procedure Codes: 0071T, 0072T, 37243, 58150, 58152, 58180, 58260, 58262, 58263, 58267, 58270, 58290, 58291, 58292, 58294, 58541, 58542, 58543, 58544, 58550, 58552, 58553, 58554, 58570, 58571, 58572, 58573, 58662, 59812, 59840."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/varicose-veins-treatment-other-vein-embolization-procedures.pdf",
+    "record_date": "2026-09-01",
+    "title": "Varicose Veins Treatment and Other Vein Embolization Procedures – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses treatment of varicose veins including stab phlebectomy less than 10 incisions and endomechanical ablation of incompetent extremity veins. Applicable Procedure Codes: 36473, 36474, 37799.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/varicose-veins-treatment-other-vein-embolization-procedures.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses treatment of varicose veins including stab phlebectomy less than 10 incisions and endomechanical ablation of incompetent extremity veins. Applicable Procedure Codes: 36473, 36474, 37799."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/vitamin-d-testing.pdf",
+    "record_date": "2026-09-01",
+    "title": "Vitamin D Testing – Medicare Advantage Medical Policy",
+    "text_or_description": "This policy addresses testing for vitamin D deficiency. Applicable Procedure Code: 82652.",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/medadv-mp/vitamin-d-testing.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Medical/coverage policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Coverage / Policy",
+      "Procedure / Device Access"
+    ],
+    "signal_types": [
+      "Procedure/device coverage",
+      "Procedure coverage"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "Official UHC coverage-policy document defining which CPT/HCPCS codes are covered and under what clinical scope for this service -- description text explicitly states coverage scope and lists applicable procedure codes.",
+    "evidence_quote_or_field": "This policy addresses testing for vitamin D deficiency. Applicable Procedure Code: 82652."
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Autoimmune-Rheumatic-Disease-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Autoimmune Rheumatic Disease Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Autoimmune-Rheumatic-Disease-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Autoimmune Rheumatic Disease Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Chronic-Heart-Failure-Professional-Facility.pdf",
+    "record_date": "2026-08-26",
+    "title": "Chronic Heart Failure Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Chronic-Heart-Failure-Professional-Facility.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Chronic Heart Failure Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Diagnostic-Testing-Inflammatory-Bowel-Disease-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Diagnostic Testing for Inflammatory Bowel Disease Policy Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Diagnostic-Testing-Inflammatory-Bowel-Disease-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Diagnostic Testing for Inflammatory Bowel Disease Policy Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Diagnostic-Testing-Influenza-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Diagnostic Testing for Influenza Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Diagnostic-Testing-Influenza-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Diagnostic Testing for Influenza Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Enzyme-Testing-Acute-Pancreatitis-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Enzyme Testing for Acute Pancreatitis Policy Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Enzyme-Testing-Acute-Pancreatitis-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Enzyme Testing for Acute Pancreatitis Policy Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Epithelial-Cell-Cytology-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Epithelial Cell Cytology Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Epithelial-Cell-Cytology-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Epithelial Cell Cytology Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Fecal-Calprotectin-Professional-Facility.pdf",
+    "record_date": "2026-08-26",
+    "title": "Fecal Calprotectin Testing Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Fecal-Calprotectin-Professional-Facility.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Fecal Calprotectin Testing Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Flow-Cytometry-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Flow Cytometry Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Flow-Cytometry-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Flow Cytometry Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Homocysteine-Testing-Metabolism-Policy-Pro-Facility.pdf",
+    "record_date": "2026-08-26",
+    "title": "Homocysteine Testing for Metabolism Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Homocysteine-Testing-Metabolism-Policy-Pro-Facility.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Homocysteine Testing for Metabolism Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Immune-Cell-Function-Assay-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Immune Cell Function Assay Policy, Professional and Facility- Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Immune-Cell-Function-Assay-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Immune Cell Function Assay Policy, Professional and Facility- Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Intestinal-Dysbiosis-Fecal-Microbiota-Transplant-Testing-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Intestinal Dysbiosis and Fecal Microbiota Transplant Testing Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Intestinal-Dysbiosis-Fecal-Microbiota-Transplant-Testing-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Intestinal Dysbiosis and Fecal Microbiota Transplant Testing Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Intracellular-Micronutrient-Analysis-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Intracellular Micronutrient Analysis Policy, Professional and Facility- Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Intracellular-Micronutrient-Analysis-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Intracellular Micronutrient Analysis Policy, Professional and Facility- Reimbursement Policy - UnitedHealthcare Commercial Plans and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Iron-Homeostasis-Metabolism-Policy.pdf",
+    "record_date": "2026-08-26",
+    "title": "Iron Homeostasis and Metabolism Policy Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-Iron-Homeostasis-Metabolism-Policy.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Iron Homeostasis and Metabolism Policy Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  },
+  {
+    "source": "UHC",
+    "source_type": "Payer public policy site (uhcprovider.com)",
+    "record_id": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Lyme-Disease-Testing-Policy-Professional-Facility.pdf",
+    "record_date": "2026-08-26",
+    "title": "Lyme Disease Testing Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange",
+    "text_or_description": "(no per-item description on listing page; title is the only available text)",
+    "url": "https://www.uhcprovider.com/content/dam/provider/docs/public/policies/comm-reimbursement/COMM-IEX-Lyme-Disease-Testing-Policy-Professional-Facility.pdf",
+    "payer": "UnitedHealthcare",
+    "procedure": null,
+    "topic": "Reimbursement / billing policy",
+    "duplicate_or_repost": "No",
+    "signal_categories": [
+      "Reimbursement / Payment"
+    ],
+    "signal_types": [
+      "Payment rule"
+    ],
+    "direct_or_supporting": "D",
+    "classification_reason": "This is an official, named UnitedHealthcare Reimbursement Policy document title (the formal payer billing-rule document itself, not incidental text) -- by definition it sets a payment/billing rule for the named service category.",
+    "evidence_quote_or_field": "Lyme Disease Testing Policy, Professional and Facility - Reimbursement Policy - UnitedHealthcare Commercial and Individual Exchange"
+  }
+]

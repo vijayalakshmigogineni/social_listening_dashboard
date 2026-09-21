@@ -1,0 +1,120 @@
+{
+  "retrieval_timestamp_utc": "2026-09-17T12:25:40.285750+00:00",
+  "today_per_task_spec": "2026-09-17",
+  "scripts_used": {
+    "primary_data_source": "test_aetna_xmlfilter.py (extended)",
+    "confirmation_scripts": [
+      "test_aetna_network_capture.py",
+      "test_aetna_widget_inspect.py"
+    ],
+    "cross_validation_script": "test_aetna_cpb_detail.py",
+    "other_scripts_read_and_run_but_not_used_for_final_data": [
+      "test_aetna.py",
+      "test_aetna_precert.py",
+      "test_aetna_precert_pdf.py"
+    ],
+    "extension_made": "test_aetna_xmlfilter.py only printed the first 2000 raw characters of the top-level facet JSON/XML response and never drilled into the underlying data file. It was extended (in a new script, extract_aetna_activities.py, kept in the session scratchpad, not overwriting the original test file) to GET the actual XML data file directly at the DAM path already present as the literal `source` query parameter in test_aetna_xmlfilter.py, parse every <row> with lxml, split the combined \"NNNN - Name\" cpb field into cpb_number/cpb_name, parse date MM/DD/YYYY into ISO-8601, and sort all rows by real date descending. No new authentication, endpoint-guessing, or scraping mechanism was introduced."
+  },
+  "endpoints_urls_mechanism": {
+    "primary_activities_feed": {
+      "url": "https://www.aetna.com/content/dam/aetna/xml/aetnacom/health-care-professionals/mcpb-changes.xml/jcr:content/renditions/original",
+      "mechanism": "Plain HTTP GET (requests library), no auth/cookies/tokens required. Returns application/xml.",
+      "discovered_via": "Literal source= path already hardcoded in test_aetna_xmlfilter.py; confirmed as the real backing file for the Aetna medical-CPB page's \"What's New\" widget by live Playwright network capture in test_aetna_network_capture.py and test_aetna_widget_inspect.py (both logged the page itself firing GET requests to https://www.aetna.com/content/services/aetna/xmlfilter?source=%2Fcontent%2Fdam%2Faetna%2Fxml%2Faetnacom%2Fhealth-care-professionals%2Fmcpb-changes.xml%2Fjcr%3Acontent%2Frenditions%2Foriginal&returnBy=status&sortBy=status on page load)."
+    },
+    "secondary_periodic_review_feed": {
+      "url": "https://www.aetna.com/content/dam/aetna/xml/aetnacom/health-care-professionals/mcpb-review.xml/jcr:content/renditions/original",
+      "mechanism": "Plain HTTP GET, no auth required.",
+      "note": "Forward-looking anticipated review due-dates (max date found: 2026-12-10, i.e. in the future relative to 2026-09-17), not a change/revision log. Saved separately, not counted toward the 100 'activities'."
+    },
+    "xmlfilter_facet_service_confirmed_but_not_used_directly": {
+      "url": "https://www.aetna.com/content/services/aetna/xmlfilter",
+      "params_discovered_live": "source, returnBy (repeatable), sortBy, filterBy (repeatable), filterValues (repeatable, plural -- NOT filterValue as guessed in an earlier ad hoc probe, which returned no drill-down), additionalValues (repeatable)",
+      "why_not_used": "This service only returns single-column facet lists at each drill level (e.g. just {\"status\":\"01-New\"} or, fully filtered down to one exact date, just the link HTML for that one date). Fetching the underlying XML file directly (above) returns the complete dataset in one request with every field, so it was used instead -- same underlying data, fewer/simpler requests."
+    },
+    "cpb_detail_pages_for_cross_validation": {
+      "urls": [
+        "https://www.aetna.com/cpb/medical/data/1_99/0016.html",
+        "https://www.aetna.com/cpb/medical/data/700_799/0722.html",
+        "https://www.aetna.com/cpb/medical/data/800_899/0863.html",
+        "https://www.aetna.com/cpb/medical/data/900_999/0934.html"
+      ],
+      "mechanism": "Plain HTTP GET + BeautifulSoup, reading <meta name='aet.lastReviewDate'> / <meta name='aet.anticipatedReviewDate'>."
+    }
+  },
+  "http_status": {
+    "mcpb-changes.xml": 200,
+    "mcpb-review.xml": 200,
+    "mcpb-alpha.xml (facet check only, not saved as activities)": 200,
+    "cpb_detail_pages (4 of 4)": 200,
+    "precertification_lists_html_pages (2 of 2)": 200,
+    "precert_pdf_2026": 200,
+    "aetna_cpb_main_and_medical_index_html": 200,
+    "playwright_network_capture_medical_cpb_page": "page loaded OK (initial + interaction), 33 XHR/fetch requests captured, confirmed same xmlfilter/mcpb-changes.xml call",
+    "playwright_network_capture_precertification_lists_page": "FAILED -- Chromium page crashed on load (Page.goto: Page crashed) in this sandboxed environment; not an auth/access wall, a local browser-automation crash. Not needed since precert data was already obtained via requests-based scripts (test_aetna_precert.py, test_aetna_precert_pdf.py)."
+  },
+  "total_records_found": {
+    "mcpb-changes.xml (primary activities feed) -- total in feed": 358,
+    "mcpb-changes.xml -- returned in aetna_cpb_changes_top100.json": 100,
+    "mcpb-review.xml (secondary periodic-review feed) -- total in feed": 939,
+    "mcpb-review.xml -- returned in aetna_cpb_periodic_reviews_top100.json": 100,
+    "cpb_detail_cross_validation_samples": 4
+  },
+  "fields_available_per_record": {
+    "aetna_cpb_changes_top100.json (PRIMARY)": [
+      "row_index (original feed row-index attribute, not chronological)",
+      "date_raw (as published, MM/DD/YYYY)",
+      "date_iso (parsed ISO-8601)",
+      "month (e.g. '08-August')",
+      "cpb_raw (e.g. '0565 - Ankle Orthoses...')",
+      "cpb_number (4-digit CPB id, parsed)",
+      "cpb_name (parsed policy title)",
+      "status (one of: 01-New, 02-Revised, 03-Updated, 04-Deleted)",
+      "url (link to the live CPB detail page; empty string for deleted CPBs with no live page)",
+      "link_html_raw (original embedded anchor HTML from the feed)",
+      "source_feed (constant: 'mcpb-changes.xml')"
+    ],
+    "aetna_cpb_periodic_reviews_top100.json (SECONDARY)": [
+      "row_index",
+      "date_raw",
+      "date_iso",
+      "month",
+      "cpb_raw",
+      "cpb_number",
+      "cpb_name",
+      "source_feed"
+    ],
+    "aetna_cpb_detail_samples.json (CROSS-VALIDATION, 4 records)": [
+      "cpb_number",
+      "cpb_name",
+      "url",
+      "cpb_type",
+      "last_review_date",
+      "next_review_date",
+      "http_last_modified_header",
+      "source"
+    ]
+  },
+  "date_range": {
+    "mcpb-changes.xml full feed": {
+      "min": "2026-04-20",
+      "max": "2026-08-26"
+    },
+    "aetna_cpb_changes_top100.json (records actually saved)": {
+      "oldest": "2026-07-29",
+      "newest": "2026-08-26"
+    },
+    "mcpb-review.xml full feed": {
+      "min": "2026-01-08",
+      "max": "2026-12-10",
+      "note": "forward-looking scheduled review dates, not past activities"
+    }
+  },
+  "limitations_and_errors": [
+    "The mcpb-changes.xml feed is a rolling recent-changes log (observed span ~4 months: 2026-04-20 to 2026-08-26); it is not a complete historical archive of every CPB change ever made, so 'latest 100' reflects the 100 most recent entries the feed currently exposes.",
+    "CPB numbering/date pairs can repeat in the source feed (a CPB can appear more than once if it was revised on two different dates within the feed window) -- these are kept as separate distinct activity records since each is a distinct dated event, matching the task definition of 'activity'.",
+    "2 of the 358 feed rows are status=04-Deleted with an empty url field (no live page exists post-deletion) -- this is expected/correct, not a scraping failure.",
+    "test_aetna_network_capture.py: the precertification-lists page target caused a real Chromium crash (Page.goto: Page crashed) in this sandboxed VM when run headless -- this is a local browser-automation/environment limitation, not a site-side auth wall or CAPTCHA. No login, token, or CAPTCHA was ever encountered on any Aetna URL in this task; all data was retrieved from fully public, unauthenticated endpoints.",
+    "The xmlfilter AEM service itself (returnBy=status/listing/month) only returns shallow facet-option lists, not row-level data, unless drilled through its filterBy/filterValues/returnBy chain one level at a time (confirmed via Playwright); the direct DAM XML fetch was used instead as the equivalent, more complete, single-request source of the same underlying data.",
+    "No fabrication: every date, CPB number/name, status, and URL in aetna_cpb_changes_top100.json and aetna_cpb_periodic_reviews_top100.json was copied verbatim (after MM/DD/YYYY-to-ISO parsing and 'NNNN - Name' string splitting only) from the live HTTP response bytes captured at retrieval_timestamp_utc above."
+  ]
+}

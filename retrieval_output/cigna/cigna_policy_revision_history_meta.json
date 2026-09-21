@@ -1,0 +1,53 @@
+{
+  "scripts_used": [
+    "test_cigna_policy_detail.py (extended to capture the FULL Revision Details table per policy, not just the first 800 chars)"
+  ],
+  "endpoints": {
+    "Cigna_0525_Peripheral_Nerve_Destruction_RFA": {
+      "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/medical/mm_0525_coveragepositioncriteria_peripheral_nerve_destruction.pdf",
+      "http_status": 200,
+      "pages": 48,
+      "revision_entries_found": 5
+    },
+    "Cigna_0539_Peripheral_Nerve_Stimulation": {
+      "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/medical/mm_0539_coveragepositioncriteria_percut_periph_nerve_stim_field_stim.pdf",
+      "http_status": 200,
+      "pages": 25,
+      "revision_entries_found": 3
+    },
+    "Cigna_0551_Anesthesia_Interventional_Pain_Mgmt": {
+      "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/medical/mm_0551_coveragepositioncriteria_anesthesia_services_for_interventional_pain_management.pdf",
+      "http_status": 200,
+      "pages": 29,
+      "revision_entries_found": 5
+    },
+    "Cigna_0139_Invasive_Treatment_Back_Pain": {
+      "url": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/medical/mm_0139_coveragepositioncriteria_invasive_treatment_for_back_pain.pdf",
+      "http_status": 200,
+      "pages": 7,
+      "revision_entries_found": 5
+    }
+  },
+  "retrieval_timestamp_utc": "2026-09-17T12:37:25Z",
+  "total_records_found": 18,
+  "fields_available": [
+    "policy_name",
+    "policy_code",
+    "revision_type",
+    "summary_of_changes",
+    "revision_date",
+    "revision_date_raw",
+    "source_url",
+    "record_id"
+  ],
+  "date_range": {
+    "oldest": "2023-11-15",
+    "newest": "2026-09-15"
+  },
+  "limitations": [
+    "Covers only the 4 specific named pain-management coverage policies already targeted by test_cigna_policy_detail.py (0525, 0539, 0551, 0139), not a site-wide feed.",
+    "Each policy's own historical revision log only goes back as far as that policy's PDF documents (typically 3-5 dated revisions per policy, 2024-2026); this is the full real history available in the document, not an artificial cutoff.",
+    "revision_type is null where the row's leading label could not be confidently matched (e.g. 'Updated' or unlabeled rows); summary_of_changes is a verbatim excerpt capped at 500 characters.",
+    "This is a supplementary dataset to cigna_policy_updates_latest100.json, not a replacement; it was kept separate to avoid double-counting the same policy/date pairs that may also appear in the September 2026 monthly bulletin."
+  ]
+}

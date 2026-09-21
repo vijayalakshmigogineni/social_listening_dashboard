@@ -1,0 +1,800 @@
+[
+  {
+    "run_id": "1RKFVu7v0UleuM3vI",
+    "actor_id": "2chN8UQcH1CfxLRNE",
+    "status": "SUCCEEDED",
+    "input": {
+      "resultsLimit": 10,
+      "searchGroupKeyword": "prior authoization  and billing",
+      "startUrls": [
+        {
+          "url": "https://www.facebook.com/groups"
+        }
+      ],
+      "viewOption": "CHRONOLOGICAL"
+    },
+    "item_count": 1,
+    "items": [
+      {
+        "url": "https://www.facebook.com/groups",
+        "error": "no_items",
+        "errorDescription": "Empty or private data for provided input"
+      }
+    ]
+  },
+  {
+    "run_id": "lwd1sFYEcsEnAx10X",
+    "actor_id": "2chN8UQcH1CfxLRNE",
+    "status": "SUCCEEDED",
+    "input": {
+      "resultsLimit": 10,
+      "startUrls": [
+        {
+          "url": "https://www.facebook.com/groups/290657479460430"
+        }
+      ],
+      "viewOption": "CHRONOLOGICAL"
+    },
+    "item_count": 10,
+    "items": [
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1622055466320618/",
+        "time": "2026-09-18T23:33:37.000Z",
+        "user": {
+          "id": "1291205309703379",
+          "name": "VibrantSpinach3834",
+          "profilePic": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.35477-6/555509981_24434266139592132_8454193001120739011_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=UgM9XsloglgQ7kNvwE2vqR-&_nc_oc=AdrBTJENxDSC3dZQazqrFg9c3kn5-zY-7LWdpQWafs-sPjG-HhviZ4NcrLCkkEQTVRI&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQKxg2V--Yi7l1xPnKMAwguotkIWjzvGHAft6GhfBMjxPQ&oe=6AB6D297"
+        },
+        "collaborators": [],
+        "text": "Is anyone here doing cryoablation via Iovera for lumbar facets? Are you getting paid? If so what insurances cover it and through what code?",
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYyMjA1NTQ2NjMyMDYxOA==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1622055466320618/?comment_id=1622970799562418",
+            "commentId": "1622970799562418",
+            "id": "Y29tbWVudDoxNjIyMDU1NDY2MzIwNjE4XzE2MjI5NzA3OTk1NjI0MTg=",
+            "feedbackId": "ZmVlZGJhY2s6MTYyMjA1NTQ2NjMyMDYxOF8xNjIyOTcwNzk5NTYyNDE4",
+            "date": "2026-09-19T23:37:06.000Z",
+            "text": "We do for knees: 0441T per nerve both PB and HB and C9600 also on HB (one per session)",
+            "author": {
+              "__typename": "GroupAnonAuthorProfile",
+              "id": "2180120779570299",
+              "name": "GorgeousBee4492",
+              "__isActor": "GroupAnonAuthorProfile",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.35477-6/555663416_24533101659682785_1717710698791739172_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=s655U8arrBUQ7kNvwH09TQF&_nc_oc=Adqw7GW7pyrNPSBHMPKGOtGe9oNffTOMbV5gbQaVBlfuB3AQkRkoBHswVhQHBxT8UPo&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQL8BwAyQYQI0VhZc44IHCFy4-9DQ6Ry4IpYEoXo5cgbLg&oe=6AB6CB5B"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.35477-6/555663416_24533101659682785_1717710698791739172_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=s655U8arrBUQ7kNvwH09TQF&_nc_oc=Adqw7GW7pyrNPSBHMPKGOtGe9oNffTOMbV5gbQaVBlfuB3AQkRkoBHswVhQHBxT8UPo&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQL8BwAyQYQI0VhZc44IHCFy4-9DQ6Ry4IpYEoXo5cgbLg&oe=6AB6CB5B"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.35477-6/555663416_24533101659682785_1717710698791739172_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=s655U8arrBUQ7kNvwH09TQF&_nc_oc=Adqw7GW7pyrNPSBHMPKGOtGe9oNffTOMbV5gbQaVBlfuB3AQkRkoBHswVhQHBxT8UPo&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQL8BwAyQYQI0VhZc44IHCFy4-9DQ6Ry4IpYEoXo5cgbLg&oe=6AB6CB5B"
+              },
+              "is_nickname": true,
+              "__isEntity": "GroupAnonAuthorProfile",
+              "url": null
+            },
+            "profilePicture": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.35477-6/555663416_24533101659682785_1717710698791739172_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=s655U8arrBUQ7kNvwH09TQF&_nc_oc=Adqw7GW7pyrNPSBHMPKGOtGe9oNffTOMbV5gbQaVBlfuB3AQkRkoBHswVhQHBxT8UPo&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQL8BwAyQYQI0VhZc44IHCFy4-9DQ6Ry4IpYEoXo5cgbLg&oe=6AB6CB5B",
+            "profileId": "2180120779570299",
+            "profileName": "GorgeousBee4492",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTEyOTEyMDUzMDk3MDMzNzk6Vks6MTYyMjA1NTQ2NjMyMDYxOA==",
+        "legacyId": "1622055466320618",
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 2,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1622080969651401/",
+        "time": "2026-09-18T23:14:36.000Z",
+        "user": {
+          "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+          "name": "Jessyka Burke",
+          "profilePic": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s50x50&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGto5e4&_nc_oc=Adorfh2xR6TvhMSu360qT6P1TUlk3RJVXjypr8gcqFXqZpC7yQL3AeztU-7SvT2Yq7Q&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQIZ9P9uI5YiS4Jni1gEcsbjiXHRXmc2lV4XeotYZ2Ukqg&oe=6AB6E785"
+        },
+        "collaborators": [],
+        "text": "Let's welcome our new members!\nDavid Webb",
+        "textReferences": [
+          {
+            "id": "198400854",
+            "url": null,
+            "profile_url": null,
+            "short_name": "David",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": false,
+            "mobileUrl": null
+          }
+        ],
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYyMjA4MDk2OTY1MTQwMQ==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1622080969651401/?comment_id=1622080979651400",
+            "commentId": "1622080979651400",
+            "id": "Y29tbWVudDoxNjIyMDgwOTY5NjUxNDAxXzE2MjIwODA5Nzk2NTE0MDA=",
+            "feedbackId": "ZmVlZGJhY2s6MTYyMjA4MDk2OTY1MTQwMV8xNjIyMDgwOTc5NjUxNDAw",
+            "date": "2026-09-18T23:14:36.000Z",
+            "text": "Meet your admin team: Jessyka Burke",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+              "name": "Jessyka Burke",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGto5e4&_nc_oc=Adorfh2xR6TvhMSu360qT6P1TUlk3RJVXjypr8gcqFXqZpC7yQL3AeztU-7SvT2Yq7Q&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQIZ9P9uI5YiS4Jni1gEcsbjiXHRXmc2lV4XeotYZ2Ukqg&oe=6AB6E785"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGto5e4&_nc_oc=Adorfh2xR6TvhMSu360qT6P1TUlk3RJVXjypr8gcqFXqZpC7yQL3AeztU-7SvT2Yq7Q&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQIZ9P9uI5YiS4Jni1gEcsbjiXHRXmc2lV4XeotYZ2Ukqg&oe=6AB6E785"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGto5e4&_nc_oc=Adorfh2xR6TvhMSu360qT6P1TUlk3RJVXjypr8gcqFXqZpC7yQL3AeztU-7SvT2Yq7Q&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQIZ9P9uI5YiS4Jni1gEcsbjiXHRXmc2lV4XeotYZ2Ukqg&oe=6AB6E785"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGto5e4&_nc_oc=Adorfh2xR6TvhMSu360qT6P1TUlk3RJVXjypr8gcqFXqZpC7yQL3AeztU-7SvT2Yq7Q&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQIZ9P9uI5YiS4Jni1gEcsbjiXHRXmc2lV4XeotYZ2Ukqg&oe=6AB6E785",
+            "profileId": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+            "profileName": "Jessyka Burke",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTU1NzQ3ODg0ODpWSzoxNjIyMDgwOTY5NjUxNDAx",
+        "legacyId": "1622080969651401",
+        "attachments": [
+          {
+            "thumbnail": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/814560959_10169013446908849_6328745367201086864_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5RVu0GdV5_oQ7kNvwHh63Qm&_nc_oc=Adp8UlZZZe5xmEPB-d8jE-S1_jST8KLvqCJLXFAWD34DgBnrRnmeui3QaYsOMylGSs8&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQJagccnIieZi54SPT53P2TfdeIBBdHJacyOjxMcHWg0OQ&oe=6AB6E88A",
+            "__typename": "Photo",
+            "__isMedia": "Photo",
+            "accent_color": "FF9A72FC",
+            "photo_product_tags": [],
+            "photo_image": {
+              "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/814560959_10169013446908849_6328745367201086864_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5RVu0GdV5_oQ7kNvwHh63Qm&_nc_oc=Adp8UlZZZe5xmEPB-d8jE-S1_jST8KLvqCJLXFAWD34DgBnrRnmeui3QaYsOMylGSs8&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQJagccnIieZi54SPT53P2TfdeIBBdHJacyOjxMcHWg0OQ&oe=6AB6E88A",
+              "height": 154,
+              "width": 500
+            },
+            "url": "https://www.facebook.com/photo/?fbid=10169013446903849&set=gm.1622080969651401&idorvanity=290657479460430",
+            "id": "10169013446903849",
+            "feedback": {
+              "can_viewer_comment": false,
+              "id": "ZmVlZGJhY2s6MTYyMjA4MDk2OTY1MTQwMQ=="
+            },
+            "ocrText": "May be a doodle of crowd and text"
+          }
+        ],
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1620918836434281/",
+        "time": "2026-09-18T14:40:51.000Z",
+        "user": {
+          "id": "pfbid0BZCUnotahaA6wzXENdHDNKxKMDPumSFGq9jSNoEDfgh79FcxewVfw2vDtiZFfjd9l",
+          "name": "Quilting Kat",
+          "profilePic": "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-1/713804861_2068716047322438_3231563975524606617_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1524x1524&ctp=s50x50&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IF9qwryOxOkQ7kNvwFZqqIC&_nc_oc=AdoT1RPpFpTr4M-etuG0hcj49IDIPwvjtrse8lhZnNQOYVg4iIo2eYX5GZkfWeuCtF8&_nc_zt=24&_nc_ht=scontent-mia3-2.xx&_nc_gid=YevuONKHNkNJDkp41wfX1g&_nc_ss=73289&oh=00_AQIvILpmRCp1590ynQQ6Xnqp5rEESnNqbixVg9F4spDDdQ&oe=6AB6B567"
+        },
+        "collaborators": [],
+        "text": "Hello\n\nOur providers are thinking about offering qEEG Quantitative Electroencephalogram with pain patients.  Has anyone offered this to your patients?  How is reimbursement?  I see Medicare has it on the fee schedule, but any issues with recoupments or no pays?  How about other insurance companies?\n\nThank you!\n\nKat",
+        "textReferences": [
+          {
+            "id": "100044331464480",
+            "url": "https://www.facebook.com/hellokitty",
+            "profile_url": "https://www.facebook.com/hellokitty",
+            "short_name": "Hello Kitty",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": true,
+            "mobileUrl": "https://m.facebook.com/hellokitty/"
+          }
+        ],
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYyMDkxODgzNjQzNDI4MQ==",
+        "paidPartnership": false,
+        "id": "UzpfSTEwMDAyNTUyMTg3Mzg2MTpWSzoxNjIwOTE4ODM2NDM0Mjgx",
+        "legacyId": "1620918836434281",
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 0,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1620501536476011/",
+        "time": "2026-09-17T03:31:10.000Z",
+        "user": {
+          "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+          "name": "Jessyka Burke",
+          "profilePic": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s50x50&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+        },
+        "collaborators": [],
+        "text": "Let's welcome our new members!\nIntraMed,\nApoorva Nyayapathi",
+        "textReferences": [
+          {
+            "id": "61592016025986",
+            "url": "https://www.facebook.com/people/IntraMed/61592016025986/",
+            "profile_url": "https://www.facebook.com/people/IntraMed/61592016025986/",
+            "short_name": "IntraMed",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": false,
+            "mobileUrl": "https://m.facebook.com/61592016025986/"
+          },
+          {
+            "id": "pfbid0km7q7d12fEvdsCDi5EL8vFyPERQ2aoK9aEoAhQi2oP4oHf8cMDGXgAFTgV3QNLmAl",
+            "url": null,
+            "profile_url": null,
+            "short_name": "Apoorva",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": false,
+            "mobileUrl": null
+          }
+        ],
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYyMDUwMTUzNjQ3NjAxMQ==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1620501536476011/?comment_id=1620501616476003",
+            "commentId": "1620501616476003",
+            "id": "Y29tbWVudDoxNjIwNTAxNTM2NDc2MDExXzE2MjA1MDE2MTY0NzYwMDM=",
+            "feedbackId": "ZmVlZGJhY2s6MTYyMDUwMTUzNjQ3NjAxMV8xNjIwNTAxNjE2NDc2MDAz",
+            "date": "2026-09-17T03:31:10.000Z",
+            "text": "Meet your admin team: Jessyka Burke",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+              "name": "Jessyka Burke",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785",
+            "profileId": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+            "profileName": "Jessyka Burke",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTU1NzQ3ODg0ODpWSzoxNjIwNTAxNTM2NDc2MDEx",
+        "legacyId": "1620501536476011",
+        "attachments": [
+          {
+            "thumbnail": "https://scontent.fagc3-2.fna.fbcdn.net/v/t39.30808-6/813467686_10169003162148849_6123646371580558609_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=wnLczv8V-34Q7kNvwEWgjSy&_nc_oc=AdotKvwAbtN84wYU-9fnWH_7-xuPArsMGytJAHYVhrTyjLmrwBB65_ampBHleVbraik&_nc_zt=23&_nc_ht=scontent.fagc3-2.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJGc3WfauUI5vdl9GMCz_4JJbLkmrF_iY99SJ4sZS91bA&oe=6AB6E002",
+            "__typename": "Photo",
+            "__isMedia": "Photo",
+            "accent_color": "FF9A72FC",
+            "photo_product_tags": [],
+            "photo_image": {
+              "uri": "https://scontent.fagc3-2.fna.fbcdn.net/v/t39.30808-6/813467686_10169003162148849_6123646371580558609_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=wnLczv8V-34Q7kNvwEWgjSy&_nc_oc=AdotKvwAbtN84wYU-9fnWH_7-xuPArsMGytJAHYVhrTyjLmrwBB65_ampBHleVbraik&_nc_zt=23&_nc_ht=scontent.fagc3-2.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJGc3WfauUI5vdl9GMCz_4JJbLkmrF_iY99SJ4sZS91bA&oe=6AB6E002",
+              "height": 154,
+              "width": 500
+            },
+            "url": "https://www.facebook.com/photo/?fbid=10169003162133849&set=gm.1620501536476011&idorvanity=290657479460430",
+            "id": "10169003162133849",
+            "feedback": {
+              "can_viewer_comment": false,
+              "id": "ZmVlZGJhY2s6MTYyMDUwMTUzNjQ3NjAxMQ=="
+            },
+            "ocrText": "May be a graphic of crowd and text"
+          }
+        ],
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1620101426516022/",
+        "time": "2026-09-16T15:31:07.000Z",
+        "user": {
+          "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+          "name": "Jessyka Burke",
+          "profilePic": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s50x50&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+        },
+        "collaborators": [],
+        "text": "Let's welcome our new members!\nShannon Kay",
+        "textReferences": [
+          {
+            "id": "pfbid032gGfvnWtaBhRm7Y7ERuZYcCWm7V6aVcxh14diuk4dssQc8CQ2Q2kBPNSaeHkk3v2l",
+            "url": null,
+            "profile_url": null,
+            "short_name": "Shannon",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": false,
+            "mobileUrl": null
+          }
+        ],
+        "topReactionsCount": 1,
+        "feedbackId": "ZmVlZGJhY2s6MTYyMDEwMTQyNjUxNjAyMg==",
+        "reactionLikeCount": 1,
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1620101426516022/?comment_id=1620101463182685",
+            "commentId": "1620101463182685",
+            "id": "Y29tbWVudDoxNjIwMTAxNDI2NTE2MDIyXzE2MjAxMDE0NjMxODI2ODU=",
+            "feedbackId": "ZmVlZGJhY2s6MTYyMDEwMTQyNjUxNjAyMl8xNjIwMTAxNDYzMTgyNjg1",
+            "date": "2026-09-16T15:31:07.000Z",
+            "text": "Meet your admin team: Jessyka Burke",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+              "name": "Jessyka Burke",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwGSMYxd&_nc_oc=Adouzub6SIeLeljJ9J4uH_sTyISdam9ZD-_oVrdpWA9xtGsG7wJnwON5iNSdY1AD3kU&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQL556hDRsoAdFkzVcsajEdzBDWhe3v87Fx87O9BwoSOIA&oe=6AB6E785",
+            "profileId": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+            "profileName": "Jessyka Burke",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTU1NzQ3ODg0ODpWSzoxNjIwMTAxNDI2NTE2MDIy",
+        "legacyId": "1620101426516022",
+        "attachments": [
+          {
+            "thumbnail": "https://scontent.fagc3-2.fna.fbcdn.net/v/t39.30808-6/803101763_10169000354918849_8105350759660274856_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-qPfUDESUx0Q7kNvwHO4WF7&_nc_oc=AdoEdZy_bue5C53SmXji7FavwyJWCxHVBp9qCI53InAkKM6XInpe_fn1pT3JLLB80dc&_nc_zt=23&_nc_ht=scontent.fagc3-2.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJivQB8_Sdu9kgYF3CvM74s1uc7FvIeJVyIYe70KPk1zw&oe=6AB6BC90",
+            "__typename": "Photo",
+            "__isMedia": "Photo",
+            "accent_color": "FF9A72FC",
+            "photo_product_tags": [],
+            "photo_image": {
+              "uri": "https://scontent.fagc3-2.fna.fbcdn.net/v/t39.30808-6/803101763_10169000354918849_8105350759660274856_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-qPfUDESUx0Q7kNvwHO4WF7&_nc_oc=AdoEdZy_bue5C53SmXji7FavwyJWCxHVBp9qCI53InAkKM6XInpe_fn1pT3JLLB80dc&_nc_zt=23&_nc_ht=scontent.fagc3-2.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJivQB8_Sdu9kgYF3CvM74s1uc7FvIeJVyIYe70KPk1zw&oe=6AB6BC90",
+              "height": 154,
+              "width": 500
+            },
+            "url": "https://www.facebook.com/photo/?fbid=10169000354893849&set=gm.1620101426516022&idorvanity=290657479460430",
+            "id": "10169000354893849",
+            "feedback": {
+              "can_viewer_comment": false,
+              "id": "ZmVlZGJhY2s6MTYyMDEwMTQyNjUxNjAyMg=="
+            },
+            "ocrText": "May be a graphic of crowd and text"
+          }
+        ],
+        "likesCount": 1,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1619623016563863/",
+        "time": "2026-09-16T03:22:09.000Z",
+        "user": {
+          "id": "1064464052867181",
+          "name": "Anonymous participant",
+          "profilePic": "https://scontent.fagc3-2.fna.fbcdn.net/v/t39.35477-6/480772267_8870171503091593_8950035799029425225_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=vFMnvAnm3C4Q7kNvwGre5qT&_nc_oc=Adoyjaabs4_N1njIQbeH6QTn6wGmnP9uaHLz-_nHZMwMO1bbET3Cqae75WdXyjj0_rw&_nc_zt=14&_nc_ht=scontent.fagc3-2.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQIQ8eWUp585DeppBFSlJiNwozmnUEvmocASl3rfVtNvsg&oe=6AB6B9FB"
+        },
+        "collaborators": [],
+        "text": "64492 denying for TON\nHello! I was doing some research on some denials, and thought that if we queried the provider to clarify the facet joint for TON that we could have that additional unit billed. Is this something anyone has done successfully?",
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2Mw==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619623016563863/?comment_id=1620356356490529",
+            "commentId": "1620356356490529",
+            "id": "Y29tbWVudDoxNjE5NjIzMDE2NTYzODYzXzE2MjAzNTYzNTY0OTA1Mjk=",
+            "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2M18xNjIwMzU2MzU2NDkwNTI5",
+            "date": "2026-09-16T22:54:35.000Z",
+            "text": "TON billed as 64490. Did you do other levels as well?",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid02Qc2LA5JasSRsxyrQVidQTsicGyyhgR6gUqLszVw6kDnK6A6u56XUnsDuRVw3GmXil",
+              "name": "Peggy Jones",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwHmoD9a&_nc_oc=Adooi95oCv_WoOmY65eqdqScKmweMewQr9xtgjiHTj7a23jZwF7r_r-_BQWiZaqBg1Y&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJuMLkBZQfvp11YFXYgJB85-5wG2Tcz6E57JGC3Tz0gLA&oe=6AB6DCCE"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwHmoD9a&_nc_oc=Adooi95oCv_WoOmY65eqdqScKmweMewQr9xtgjiHTj7a23jZwF7r_r-_BQWiZaqBg1Y&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJuMLkBZQfvp11YFXYgJB85-5wG2Tcz6E57JGC3Tz0gLA&oe=6AB6DCCE"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwHmoD9a&_nc_oc=Adooi95oCv_WoOmY65eqdqScKmweMewQr9xtgjiHTj7a23jZwF7r_r-_BQWiZaqBg1Y&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJuMLkBZQfvp11YFXYgJB85-5wG2Tcz6E57JGC3Tz0gLA&oe=6AB6DCCE"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/808959013_29045399508385658_8738039758190617826_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e99d92&_nc_ohc=mlmKxSrp8bkQ7kNvwHmoD9a&_nc_oc=Adooi95oCv_WoOmY65eqdqScKmweMewQr9xtgjiHTj7a23jZwF7r_r-_BQWiZaqBg1Y&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJuMLkBZQfvp11YFXYgJB85-5wG2Tcz6E57JGC3Tz0gLA&oe=6AB6DCCE",
+            "profileId": "pfbid02Qc2LA5JasSRsxyrQVidQTsicGyyhgR6gUqLszVw6kDnK6A6u56XUnsDuRVw3GmXil",
+            "profileName": "Peggy Jones",
+            "likesCount": "0",
+            "threadingDepth": 0
+          },
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619623016563863/?comment_id=1620425893150242",
+            "commentId": "1620425893150242",
+            "id": "Y29tbWVudDoxNjE5NjIzMDE2NTYzODYzXzE2MjA0MjU4OTMxNTAyNDI=",
+            "feedbackId": "ZmVlZGJhY2s6MTYxOTYyMzAxNjU2Mzg2M18xNjIwNDI1ODkzMTUwMjQy",
+            "date": "2026-09-17T01:17:17.000Z",
+            "text": "64492 is just the third facet level of treatment in the cervical to thoracic spine :)",
+            "author": {
+              "__typename": "User",
+              "id": "100001249039524",
+              "name": "Jacqueline Garduño",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=p32x32&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwEg5bU6&_nc_oc=AdqmaO26Xzk9DoAekDCYJPMWDeCgElNubQLMztC_3-BphmeeLYg9aBugwHmepszesmI&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJjnp2WJrBqUIZ_AxNhcbeFLuNORoIKLZhbXdi2JZO8kw&oe=6AB6B6F0"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=p40x40&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwEg5bU6&_nc_oc=AdqmaO26Xzk9DoAekDCYJPMWDeCgElNubQLMztC_3-BphmeeLYg9aBugwHmepszesmI&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJjnp2WJrBqUIZ_AxNhcbeFLuNORoIKLZhbXdi2JZO8kw&oe=6AB6B6F0"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=s24x24&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwEg5bU6&_nc_oc=AdqmaO26Xzk9DoAekDCYJPMWDeCgElNubQLMztC_3-BphmeeLYg9aBugwHmepszesmI&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJjnp2WJrBqUIZ_AxNhcbeFLuNORoIKLZhbXdi2JZO8kw&oe=6AB6B6F0"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent.fagc3-1.fna.fbcdn.net/v/t39.30808-1/532151502_24689402104018082_1699955139088614866_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx631x640&ctp=p32x32&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=1d2534&_nc_ohc=P29JzmT4UegQ7kNvwEg5bU6&_nc_oc=AdqmaO26Xzk9DoAekDCYJPMWDeCgElNubQLMztC_3-BphmeeLYg9aBugwHmepszesmI&_nc_zt=24&_nc_ht=scontent.fagc3-1.fna&_nc_gid=iOrSJ68l555872cCHR8w3g&_nc_ss=73289&oh=00_AQJjnp2WJrBqUIZ_AxNhcbeFLuNORoIKLZhbXdi2JZO8kw&oe=6AB6B6F0",
+            "profileId": "100001249039524",
+            "profileName": "Jacqueline Garduño",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTEwNjQ0NjQwNTI4NjcxODE6Vks6MTYxOTYyMzAxNjU2Mzg2Mw==",
+        "legacyId": "1619623016563863",
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 4,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1619492153243616/",
+        "time": "2026-09-15T22:44:45.000Z",
+        "user": {
+          "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+          "name": "Jessyka Burke",
+          "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s50x50&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+        },
+        "collaborators": [],
+        "text": "Let's welcome our new members!\nGlowandgolife Chaudhry",
+        "textReferences": [
+          {
+            "id": "100022271444708",
+            "url": "https://www.facebook.com/sidra.chaudhry.391082",
+            "profile_url": "https://www.facebook.com/sidra.chaudhry.391082",
+            "short_name": "Glowandgolife",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": false,
+            "mobileUrl": "https://m.facebook.com/sidra.chaudhry.391082/"
+          }
+        ],
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYxOTQ5MjE1MzI0MzYxNg==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619492153243616/?comment_id=1619492226576942",
+            "commentId": "1619492226576942",
+            "id": "Y29tbWVudDoxNjE5NDkyMTUzMjQzNjE2XzE2MTk0OTIyMjY1NzY5NDI=",
+            "feedbackId": "ZmVlZGJhY2s6MTYxOTQ5MjE1MzI0MzYxNl8xNjE5NDkyMjI2NTc2OTQy",
+            "date": "2026-09-15T22:44:45.000Z",
+            "text": "Meet your admin team: Jessyka Burke",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+              "name": "Jessyka Burke",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785",
+            "profileId": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+            "profileName": "Jessyka Burke",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTU1NzQ3ODg0ODpWSzoxNjE5NDkyMTUzMjQzNjE2",
+        "legacyId": "1619492153243616",
+        "attachments": [
+          {
+            "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/812755552_10168996890648849_6179036627492410754_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=piV9TlJwLaEQ7kNvwHZ6Ynn&_nc_oc=Ado3VIulmjl6ARMpJSnogPjANkq3FQxTyWaXNrAcMEPjTg71cJL8hTbxPZv6BBSStnU&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQIsxXOTxCTj3UKQA8KPuD8_bDrSPZTma7hOKIJ5ZuWhQQ&oe=6AB6B952",
+            "__typename": "Photo",
+            "__isMedia": "Photo",
+            "accent_color": "FF9A72FC",
+            "photo_product_tags": [],
+            "photo_image": {
+              "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/812755552_10168996890648849_6179036627492410754_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=piV9TlJwLaEQ7kNvwHZ6Ynn&_nc_oc=Ado3VIulmjl6ARMpJSnogPjANkq3FQxTyWaXNrAcMEPjTg71cJL8hTbxPZv6BBSStnU&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQIsxXOTxCTj3UKQA8KPuD8_bDrSPZTma7hOKIJ5ZuWhQQ&oe=6AB6B952",
+              "height": 154,
+              "width": 500
+            },
+            "url": "https://www.facebook.com/photo/?fbid=10168996890628849&set=gm.1619492153243616&idorvanity=290657479460430",
+            "id": "10168996890628849",
+            "feedback": {
+              "can_viewer_comment": false,
+              "id": "ZmVlZGJhY2s6MTYxOTQ5MjE1MzI0MzYxNg=="
+            },
+            "ocrText": "May be a doodle of crowd and text"
+          }
+        ],
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1619037083289123/",
+        "time": "2026-09-15T10:44:43.000Z",
+        "user": {
+          "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+          "name": "Jessyka Burke",
+          "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s50x50&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+        },
+        "collaborators": [],
+        "text": "Let's welcome our new members!\nKayla Thompson",
+        "textReferences": [
+          {
+            "id": "pfbid02um2r4wyouZGUuKvjJvVDXaC6qVGCoYctQ8Ynpw18bpbTNUZp8DnvGi7z2zVWZxE2l",
+            "url": null,
+            "profile_url": null,
+            "short_name": "Kayla",
+            "work_info": null,
+            "work_foreign_entity_info": null,
+            "is_verified": false,
+            "mobileUrl": null
+          }
+        ],
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYxOTAzNzA4MzI4OTEyMw==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1619037083289123/?comment_id=1619037113289120",
+            "commentId": "1619037113289120",
+            "id": "Y29tbWVudDoxNjE5MDM3MDgzMjg5MTIzXzE2MTkwMzcxMTMyODkxMjA=",
+            "feedbackId": "ZmVlZGJhY2s6MTYxOTAzNzA4MzI4OTEyM18xNjE5MDM3MTEzMjg5MTIw",
+            "date": "2026-09-15T10:44:43.000Z",
+            "text": "Meet your admin team: Jessyka Burke",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+              "name": "Jessyka Burke",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s40x40&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s24x24&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": null,
+              "work_info": null
+            },
+            "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/700531014_10168309083018849_2943893665512507945_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1080x1080&ctp=s32x32&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_ohc=zWDsMPC-GTYQ7kNvwFdxXaj&_nc_oc=AdpXe1Lsi17vcmndCBmtA0i5n2MkqATT5oqj5wlxb8fuICSWjhhdWvM1ee5SCNpzKVE&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQJz7_lfalmQB_qHyPI6N5GT_eO-5wDZ2EC39BtK8zYu0g&oe=6AB6E785",
+            "profileId": "pfbid0UxjhSGfEYjnzd12y9zVWNjsu444zJdzjkBzq7UyfG4xKjNRCskt7pgk3qG6k7x3Vl",
+            "profileName": "Jessyka Burke",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTU1NzQ3ODg0ODpWSzoxNjE5MDM3MDgzMjg5MTIz",
+        "legacyId": "1619037083289123",
+        "attachments": [
+          {
+            "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/812224499_10168994049873849_3429101181940842247_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ddSRO5bmun0Q7kNvwHKkdI0&_nc_oc=Adrv9CivOEwsskz7G6pwdpaMWMy3oXbd7vKkcGXKOylZQz6K6DpPnJoq5Bn9nVNE8D4&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQLsTCf3Do-Zh91i0BSJEjS6uADoUAURMwGzqeva_P5A-g&oe=6AB6D039",
+            "__typename": "Photo",
+            "__isMedia": "Photo",
+            "accent_color": "FF9A72FC",
+            "photo_product_tags": [],
+            "photo_image": {
+              "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/812224499_10168994049873849_3429101181940842247_n.jpg?stp=dst-jpg_tt6&cstp=mx500x154&ctp=s500x154&_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=ddSRO5bmun0Q7kNvwHKkdI0&_nc_oc=Adrv9CivOEwsskz7G6pwdpaMWMy3oXbd7vKkcGXKOylZQz6K6DpPnJoq5Bn9nVNE8D4&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQLsTCf3Do-Zh91i0BSJEjS6uADoUAURMwGzqeva_P5A-g&oe=6AB6D039",
+              "height": 154,
+              "width": 500
+            },
+            "url": "https://www.facebook.com/photo/?fbid=10168994049858849&set=gm.1619037083289123&idorvanity=290657479460430",
+            "id": "10168994049858849",
+            "feedback": {
+              "can_viewer_comment": false,
+              "id": "ZmVlZGJhY2s6MTYxOTAzNzA4MzI4OTEyMw=="
+            },
+            "ocrText": "May be a doodle of crowd and text"
+          }
+        ],
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1618635949995903/",
+        "time": "2026-09-15T01:07:00.000Z",
+        "user": {
+          "id": "1106676484417250",
+          "name": "Anonymous participant",
+          "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35477-6/480471783_9158392237563761_4042862335136844668_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=7hTo4SeXEbcQ7kNvwEUYuez&_nc_oc=AdqELwS7NOQZzjPY1OZJbhGC_V-z2MwdCDGzMCQ3-fdpgG6LLn8uD8glMa0fuIHH2t8&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQKckHuVE3WY6SF4ZARVNaMdD2XfZnWDbvkfkxpJ7DoyVQ&oe=6AB6BDDF"
+        },
+        "collaborators": [],
+        "text": "Hello! We are having multiple claims denying for incorrect procedure code being billed.  Our patients are being transferred from an acute inpatient hospital to a rehab facility that is in the same building.  We are billing an admission to the inpatient rehab facility.  Should we be billing a subsequent visit instead? Are they being considered the same admission? \n\nWe also have claims denying if a patient is seen by our physiatrist and our internal medicine physician on the same day for different diagnoses.  We have appealed with medical records and have stated two different specialties but our claims are still being upheld.  Any help or insight would be appreciated.  Thank you!",
+        "topReactionsCount": 0,
+        "feedbackId": "ZmVlZGJhY2s6MTYxODYzNTk0OTk5NTkwMw==",
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1618635949995903/?comment_id=1618761433316688",
+            "commentId": "1618761433316688",
+            "id": "Y29tbWVudDoxNjE4NjM1OTQ5OTk1OTAzXzE2MTg3NjE0MzMzMTY2ODg=",
+            "feedbackId": "ZmVlZGJhY2s6MTYxODYzNTk0OTk5NTkwM18xNjE4NzYxNDMzMzE2Njg4",
+            "date": "2026-09-15T02:40:44.000Z",
+            "text": "Who is denying? Which codes/modifiers ?",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid026XXac6ra9JPf1viQJpC44c9foDf1MUZHds7vmFLayEuLk8hnUkJuCANRLaptMr1l",
+              "name": "Susan Montana",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s32x32&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwEfUnla&_nc_oc=Adoy6hjE1WvWK-r6_N3EI29oJn2BGu2VDln_13U1vvW2TElXhBh91mhUW1hIEh0EOew&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQK4_5YfowYTjyBrd2kMzJhM-by0ZKGUGAxqguQK9a84hQ&oe=6AB6E176"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s40x40&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwEfUnla&_nc_oc=Adoy6hjE1WvWK-r6_N3EI29oJn2BGu2VDln_13U1vvW2TElXhBh91mhUW1hIEh0EOew&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQK4_5YfowYTjyBrd2kMzJhM-by0ZKGUGAxqguQK9a84hQ&oe=6AB6E176"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s24x24&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwEfUnla&_nc_oc=Adoy6hjE1WvWK-r6_N3EI29oJn2BGu2VDln_13U1vvW2TElXhBh91mhUW1hIEh0EOew&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQK4_5YfowYTjyBrd2kMzJhM-by0ZKGUGAxqguQK9a84hQ&oe=6AB6E176"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": "https://www.facebook.com/susan.montana.5",
+              "work_info": null
+            },
+            "profileUrl": "https://www.facebook.com/susan.montana.5",
+            "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s32x32&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwEfUnla&_nc_oc=Adoy6hjE1WvWK-r6_N3EI29oJn2BGu2VDln_13U1vvW2TElXhBh91mhUW1hIEh0EOew&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=07IiwSjf_dA7p7rOnVlZEQ&_nc_ss=72289&oh=00_AQK4_5YfowYTjyBrd2kMzJhM-by0ZKGUGAxqguQK9a84hQ&oe=6AB6E176",
+            "profileId": "pfbid026XXac6ra9JPf1viQJpC44c9foDf1MUZHds7vmFLayEuLk8hnUkJuCANRLaptMr1l",
+            "profileName": "Susan Montana",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTExMDY2NzY0ODQ0MTcyNTA6Vks6MTYxODYzNTk0OTk5NTkwMw==",
+        "legacyId": "1618635949995903",
+        "likesCount": 0,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      },
+      {
+        "facebookUrl": "https://www.facebook.com/groups/290657479460430",
+        "url": "https://www.facebook.com/groups/290657479460430/permalink/1618694206656744/",
+        "time": "2026-09-15T00:38:17.000Z",
+        "user": {
+          "id": "pfbid036ZnmRJ3Vf8bLXUd8aikScHS26rnfTiFo2xUSVoZ7s2L6huNJzeU2cRH7tmpr1Svfl",
+          "name": "Bonnie Pegg Bennett",
+          "profilePic": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/345897792_736038188307433_6097809675361746535_n.jpg?stp=c0.100.1364.1364a_cp0_dst-jpg_tt6&cstp=mx1364x1364&ctp=s50x50&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=66TcCZoN6xQQ7kNvwE4JaKN&_nc_oc=AdqlAf7GjCFbrTJ-LKL5upjaJuvwEfIAbG6AoxZ0t8y71oFAulfEDzMH9F5Np3W_P0o&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=c2hc2fGSqMoZ5nXm-yQ__w&_nc_ss=73289&oh=00_AQLev0PXFsbarmkHJMD6Y_B2WssTB-ho_O7lDJWZ4DlSJw&oe=6AB6E5C0"
+        },
+        "collaborators": [],
+        "text": "Any other offices out there billing for cupping?  Our providers would like to start offering this.  I'm seeing mixed advice to use 97140 vs bill as an unlisted code.  Any help would be greatly appreciated.",
+        "topReactionsCount": 1,
+        "feedbackId": "ZmVlZGJhY2s6MTYxODY5NDIwNjY1Njc0NA==",
+        "reactionLikeCount": 1,
+        "paidPartnership": false,
+        "topComments": [
+          {
+            "commentUrl": "https://www.facebook.com/groups/290657479460430/posts/1618694206656744/?comment_id=1620444656481699",
+            "commentId": "1620444656481699",
+            "id": "Y29tbWVudDoxNjE4Njk0MjA2NjU2NzQ0XzE2MjA0NDQ2NTY0ODE2OTk=",
+            "feedbackId": "ZmVlZGJhY2s6MTYxODY5NDIwNjY1Njc0NF8xNjIwNDQ0NjU2NDgxNjk5",
+            "date": "2026-09-17T01:52:04.000Z",
+            "text": "Have you checked your payor policies?",
+            "author": {
+              "__typename": "User",
+              "id": "pfbid026XXac6ra9JPf1viQJpC44c9foDf1MUZHds7vmFLayEuLk8hnUkJuCANRLaptMr1l",
+              "name": "Susan Montana",
+              "__isActor": "User",
+              "profile_picture_depth_0": {
+                "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s32x32&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwFU00Rp&_nc_oc=AdpvclPsUX6xyZx32vA1nYHe_hjXFAgmDDX3qM70M5SZoAqx2txbSjeOXCqsB0oS5KY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=c2hc2fGSqMoZ5nXm-yQ__w&_nc_ss=73289&oh=00_AQK5DG9nVZcet9qx4Wz1Ze3eEQlU7XeURYczV9zf-i4Ylw&oe=6AB6E176"
+              },
+              "profile_picture_depth_0_increased": {
+                "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s40x40&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwFU00Rp&_nc_oc=AdpvclPsUX6xyZx32vA1nYHe_hjXFAgmDDX3qM70M5SZoAqx2txbSjeOXCqsB0oS5KY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=c2hc2fGSqMoZ5nXm-yQ__w&_nc_ss=73289&oh=00_AQK5DG9nVZcet9qx4Wz1Ze3eEQlU7XeURYczV9zf-i4Ylw&oe=6AB6E176"
+              },
+              "profile_picture_depth_1": {
+                "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s24x24&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwFU00Rp&_nc_oc=AdpvclPsUX6xyZx32vA1nYHe_hjXFAgmDDX3qM70M5SZoAqx2txbSjeOXCqsB0oS5KY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=c2hc2fGSqMoZ5nXm-yQ__w&_nc_ss=73289&oh=00_AQK5DG9nVZcet9qx4Wz1Ze3eEQlU7XeURYczV9zf-i4Ylw&oe=6AB6E176"
+              },
+              "gender": "FEMALE",
+              "__isEntity": "User",
+              "url": "https://www.facebook.com/susan.montana.5",
+              "work_info": null
+            },
+            "profileUrl": "https://www.facebook.com/susan.montana.5",
+            "profilePicture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/370268115_6468915323189191_1476509114667306526_n.jpg?stp=c35.0.720.720a_cp0_dst-jpg_tt6&cstp=mx720x720&ctp=s32x32&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=IavkH_K7w2wQ7kNvwFU00Rp&_nc_oc=AdpvclPsUX6xyZx32vA1nYHe_hjXFAgmDDX3qM70M5SZoAqx2txbSjeOXCqsB0oS5KY&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=c2hc2fGSqMoZ5nXm-yQ__w&_nc_ss=73289&oh=00_AQK5DG9nVZcet9qx4Wz1Ze3eEQlU7XeURYczV9zf-i4Ylw&oe=6AB6E176",
+            "profileId": "pfbid026XXac6ra9JPf1viQJpC44c9foDf1MUZHds7vmFLayEuLk8hnUkJuCANRLaptMr1l",
+            "profileName": "Susan Montana",
+            "likesCount": "0",
+            "threadingDepth": 0
+          }
+        ],
+        "id": "UzpfSTE1NTM3NDY5Mjg6Vks6MTYxODY5NDIwNjY1Njc0NA==",
+        "legacyId": "1618694206656744",
+        "likesCount": 1,
+        "sharesCount": 0,
+        "commentsCount": 1,
+        "facebookId": "290657479460430",
+        "groupTitle": "PM&R and Interventional Pain Management Coding and Billing",
+        "inputUrl": "https://www.facebook.com/groups/290657479460430"
+      }
+    ]
+  }
+]

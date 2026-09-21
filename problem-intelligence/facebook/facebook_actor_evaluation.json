@@ -1,0 +1,2946 @@
+{
+  "swept_at": "2026-09-21T11:15:33.855343+00:00",
+  "capabilities_needed": {
+    "discovery": "find RCM content by KEYWORD, with no hand-maintained source list",
+    "group_posts": "retrieve public posts from a known group URL",
+    "page_posts": "retrieve public posts from a known page/profile URL",
+    "comments": "retrieve comment bodies under a post",
+    "page_meta": "retrieve page profile metadata (followers, category, about)"
+  },
+  "note": "Store metadata only. It does NOT reveal free-plan gating -- danek/facebook-search-ppr looks fine here but refuses to run.",
+  "actors": [
+    {
+      "full_name": "apify/facebook-posts-scraper",
+      "actor_id": "KoJrdxJCTtpon81KY",
+      "title": "Facebook Posts Scraper",
+      "total_runs": 45803845,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:37.741Z",
+      "input_fields": [
+        "captionText",
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan",
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-pages-scraper",
+      "actor_id": "4Hv5RhChiaDk6iwad",
+      "title": "Facebook Pages Scraper",
+      "total_runs": 33642593,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.012,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:37.879Z",
+      "input_fields": [
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "curious_coder/facebook-ads-library-scraper",
+      "actor_id": "XtaWFhbtfxyzqrFmd",
+      "title": "Facebook Ad Library Scraper",
+      "total_runs": 19341527,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00075,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-06T07:58:48.134Z",
+      "input_fields": [
+        "count",
+        "limitPerSource",
+        "proxy",
+        "runTag",
+        "scrapeAdDetails",
+        "scrapePageAds.activeStatus",
+        "scrapePageAds.countryCode",
+        "scrapePageAds.period",
+        "scrapePageAds.sortBy",
+        "urls"
+      ],
+      "required": [
+        "urls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-ads-scraper",
+      "actor_id": "JJghSZmShuco4j9gJ",
+      "title": "Facebook Ads Library Scraper",
+      "total_runs": 13954664,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0058,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:41.288Z",
+      "input_fields": [
+        "activeStatus",
+        "enrichWithEcommerceData",
+        "includeAboutPage",
+        "isDetailsPerAd",
+        "onlyAdsNewerThan",
+        "onlyAdsOlderThan",
+        "onlyTotal",
+        "resultsLimit",
+        "sorting",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyAdsNewerThan",
+        "onlyAdsOlderThan"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-comments-scraper",
+      "actor_id": "us5srxAYnsrkgUv2v",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 11122675,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0025,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:37.516Z",
+      "input_fields": [
+        "includeNestedComments",
+        "onlyCommentsNewerThan",
+        "resultsLimit",
+        "startUrls",
+        "viewOption"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyCommentsNewerThan"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-url-to-id",
+      "actor_id": "4BKShLxjpZ7lAYvOA",
+      "title": "Facebook URL to ID",
+      "total_runs": 10869300,
+      "deprecated": false,
+      "pricing_model": null,
+      "flat_monthly_usd": null,
+      "price_per_result_usd": null,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:38.043Z",
+      "input_fields": [
+        "fbUrls"
+      ],
+      "required": [
+        "fbUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-reviews-scraper",
+      "actor_id": "dX3d80hsNMilEwjXG",
+      "title": "Facebook Reviews Scraper",
+      "total_runs": 8551057,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0025,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:38.967Z",
+      "input_fields": [
+        "onlyReviewsNewerThan",
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyReviewsNewerThan"
+      ]
+    },
+    {
+      "full_name": "danek/facebook-search-ppr",
+      "actor_id": "l6CUZt8H0214D3I0N",
+      "title": "Facebook Search Scraper",
+      "total_runs": 7642295,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-13T12:57:32.081Z",
+      "input_fields": [
+        "end_date",
+        "location",
+        "max_posts",
+        "query",
+        "recent_posts",
+        "search_type",
+        "start_date"
+      ],
+      "required": [
+        "query",
+        "search_type",
+        "max_posts"
+      ],
+      "search_type_enum": {
+        "search_type": [
+          "pages",
+          "places",
+          "posts",
+          "global"
+        ]
+      },
+      "has_date_filter": [
+        "start_date",
+        "end_date"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-groups-scraper",
+      "actor_id": "2chN8UQcH1CfxLRNE",
+      "title": "Facebook Groups Scraper",
+      "total_runs": 5920715,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:37.572Z",
+      "input_fields": [
+        "onlyPostsNewerThan",
+        "resultsLimit",
+        "searchGroupKeyword",
+        "searchGroupYear",
+        "startUrls",
+        "viewOption"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan"
+      ]
+    },
+    {
+      "full_name": "curious_coder/facebook-marketplace",
+      "actor_id": "Y0QGH7cuqgKtNbEgt",
+      "title": "Facebook marketplace scraper",
+      "total_runs": 3714094,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.001,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-06T07:59:55.915Z",
+      "input_fields": [
+        "availability",
+        "cacheStorageId",
+        "condition",
+        "cookies",
+        "daysSinceListed",
+        "deliveryMethod",
+        "getAllListingPhotos",
+        "getListingDetails",
+        "latitude",
+        "location",
+        "longitude",
+        "maxPagesPerUrl",
+        "maxPrice",
+        "minPrice",
+        "onlyNewListings",
+        "proxy",
+        "radiusKm",
+        "searchKeyword",
+        "sortBy",
+        "strictFiltering",
+        "untilDate",
+        "urls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "daysSinceListed",
+        "untilDate"
+      ]
+    },
+    {
+      "full_name": "danek/facebook-search-rental",
+      "actor_id": "xSewLChDcAk1hNhga",
+      "title": "Facebook Search - Legacy",
+      "total_runs": 2971199,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-05-28T12:57:20.292Z",
+      "input_fields": [
+        "max_posts",
+        "max_retries",
+        "proxy",
+        "query",
+        "recent_posts",
+        "search_type"
+      ],
+      "required": [
+        "query",
+        "search_type",
+        "max_posts",
+        "max_retries"
+      ],
+      "search_type_enum": {
+        "search_type": [
+          "pages",
+          "places",
+          "posts"
+        ]
+      },
+      "has_date_filter": []
+    },
+    {
+      "full_name": "danek/facebook-pages-details-rental",
+      "actor_id": "bCCGAM6A7tnVCd5WQ",
+      "title": "Facebook Pages Details",
+      "total_runs": 1949295,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-06-10T08:35:00.768Z",
+      "input_fields": [
+        "urls"
+      ],
+      "required": [
+        "urls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-events-scraper",
+      "actor_id": "UZBnerCFBo5FgGouO",
+      "title": "Facebook Events Scraper",
+      "total_runs": 1430987,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.013,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-14T10:31:11.399Z",
+      "input_fields": [
+        "maxEvents",
+        "searchQueries",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-photos-scraper",
+      "actor_id": "sZZXWhobbj7dZpHhg",
+      "title": "Facebook Photos Scraper",
+      "total_runs": 1255997,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.003,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:37.727Z",
+      "input_fields": [
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-reels-scraper",
+      "actor_id": "5CvjfVGyTzrrG3sWx",
+      "title": "Facebook Reels Scraper",
+      "total_runs": 1206237,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:38.174Z",
+      "input_fields": [
+        "onlyPostsNewerThan",
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan"
+      ]
+    },
+    {
+      "full_name": "curious_coder/facebook-post-scraper",
+      "actor_id": "AtBpiepuIUNs2k2ku",
+      "title": "Facebook posts scraper - Group, Page, Search",
+      "total_runs": 1145350,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0015,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-04-13T11:06:37.477Z",
+      "input_fields": [
+        "cookie",
+        "count",
+        "cursors",
+        "maxDelay",
+        "minDelay",
+        "outputFormat",
+        "proxy",
+        "scrapePhotos",
+        "scrapeUntil",
+        "sortType",
+        "urls"
+      ],
+      "required": [
+        "urls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "scrapeUntil"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-marketplace-scraper",
+      "actor_id": "U5DUNxhH3qKt5PnCf",
+      "title": "Facebook Marketplace Scraper",
+      "total_runs": 1096803,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0062,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:37.980Z",
+      "input_fields": [
+        "includeListingDetails",
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "corner_cutter/facebook-ad-library-scraper",
+      "actor_id": "AQ1yCqZf7u2s4Ig0j",
+      "title": "Facebook Ad Library Scraper",
+      "total_runs": 1090597,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00125,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-01-05T10:30:00.092Z",
+      "input_fields": [
+        "url"
+      ],
+      "required": [
+        "url"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "cleansyntax/facebook-pages-scraper",
+      "actor_id": "Catqz8yCm9MEuNd8x",
+      "title": "Facebook Pages Scraper",
+      "total_runs": 958605,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.006,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-02-02T11:30:23.540Z",
+      "input_fields": [
+        "file",
+        "urls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-page-contact-information",
+      "actor_id": "oJ48ceKNY7ueGPGL0",
+      "title": "Facebook Page Contact Info Scraper",
+      "total_runs": 796244,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.013,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:37.713Z",
+      "input_fields": [
+        "language",
+        "pages"
+      ],
+      "required": [
+        "pages"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "danek/facebook-comments-ppr",
+      "actor_id": "dZoIFO1qTxGTq99uR",
+      "title": "Facebook Comments PPR",
+      "total_runs": 722435,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-03T07:25:54.487Z",
+      "input_fields": [
+        "max_comments",
+        "post_id"
+      ],
+      "required": [
+        "post_id"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "danek/facebook-posts-fast",
+      "actor_id": "OkuDbWbIxkgSRhppo",
+      "title": "Facebook Posts Details Scraper",
+      "total_runs": 700105,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.003,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-06T06:30:25.988Z",
+      "input_fields": [
+        "direct_urls"
+      ],
+      "required": [
+        "direct_urls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "danek/facebook-pages-posts-ppr",
+      "actor_id": "vy2ItPAzrTt6pnFOm",
+      "title": "Facebook Pages Posts PPR",
+      "total_runs": 590165,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00299,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-03T07:56:00.174Z",
+      "input_fields": [
+        "end_date",
+        "max_posts",
+        "page_id",
+        "page_url",
+        "start_date"
+      ],
+      "required": [
+        "max_posts"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "start_date",
+        "end_date"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-search-scraper",
+      "actor_id": "Us34x9p7VgjCz99H6",
+      "title": "Facebook Search Scraper",
+      "total_runs": 342392,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.012,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-17T10:26:37.564Z",
+      "input_fields": [
+        "categories",
+        "locations",
+        "resultsLimit"
+      ],
+      "required": [
+        "categories"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "cleansyntax/facebook-profile-posts-scraper",
+      "actor_id": "8BRR4FaIO1IrCi7KM",
+      "title": "Facebook Profile & Posts Scraper",
+      "total_runs": 320229,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.006,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-04-20T20:56:08.756Z",
+      "input_fields": [
+        "end_date",
+        "endpoint",
+        "ids_text",
+        "keywords_text",
+        "max_posts",
+        "start_date",
+        "urls_text"
+      ],
+      "required": [
+        "endpoint"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "start_date",
+        "end_date"
+      ]
+    },
+    {
+      "full_name": "clappi/facebook-posts-reels-scraper",
+      "actor_id": "4MsceBpRNToLYaCfa",
+      "title": "Facebook Posts & Reels Scraper",
+      "total_runs": 313779,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0045,
+      "actor_start_usd": 0.0005,
+      "latest_build_finished_at": "2026-08-20T15:36:00.408Z",
+      "input_fields": [
+        "postUrls",
+        "proxyConfiguration"
+      ],
+      "required": [
+        "postUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alien_force/facebook-scraper-pro",
+      "actor_id": "Lnz4QRVI89bcQAUGQ",
+      "title": "Facebook Scraper Pro",
+      "total_runs": 162780,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.01,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-30T00:41:17.819Z",
+      "input_fields": [
+        "cookies",
+        "extra",
+        "facebook_comments_scraper",
+        "facebook_posts_scraper",
+        "facebook_profiles_scraper_section",
+        "facebook_search_scraper_section",
+        "fetch_reaction_map",
+        "filter_by_recent_posts",
+        "function",
+        "keyword",
+        "max_wait_time_in_sec",
+        "min_wait_time_in_sec",
+        "options",
+        "post_urls",
+        "post_urls_for_comments",
+        "profile_urls",
+        "proxyConfiguration",
+        "proxy_configuration_section",
+        "results_limit",
+        "since"
+      ],
+      "required": [
+        "function"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "since"
+      ]
+    },
+    {
+      "full_name": "automation-lab/facebook-ads-library",
+      "actor_id": "gr7QCXSxFxUdrUsb2",
+      "title": "Facebook Ads Library Scraper",
+      "total_runs": 115311,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.000575,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-18T15:23:06.537Z",
+      "input_fields": [
+        "activeStatus",
+        "adsLibraryUrls",
+        "country",
+        "maxAds",
+        "mediaType",
+        "onlyAdsNewerThan",
+        "onlyAdsOlderThan",
+        "pageUrls",
+        "searchQueries"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyAdsNewerThan",
+        "onlyAdsOlderThan"
+      ]
+    },
+    {
+      "full_name": "cleansyntax/facebook-posts-scraper",
+      "actor_id": "5WFSjgBncmr2hnRGl",
+      "title": "Facebook Posts Scraper",
+      "total_runs": 110163,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.006,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-02-06T14:27:30.252Z",
+      "input_fields": [
+        "end_date",
+        "endpoint",
+        "ids_text",
+        "keywords_text",
+        "max_posts",
+        "start_date",
+        "urls_text"
+      ],
+      "required": [
+        "endpoint"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "start_date",
+        "end_date"
+      ]
+    },
+    {
+      "full_name": "apify/facebook-followers-following-scraper",
+      "actor_id": "hhgonmMEMGmpbDDAN",
+      "title": "Facebook Followers & Following Scraper",
+      "total_runs": 86836,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0082,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:38.263Z",
+      "input_fields": [
+        "followType",
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apivault_labs/facebook-profile-scraper",
+      "actor_id": "NZ2v1fqLfaN2UBYIx",
+      "title": "Facebook Profile & Posts Scraper | No Login | Bulk",
+      "total_runs": 80366,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.004,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-19T20:30:14.805Z",
+      "input_fields": [
+        "businessPagesOnly",
+        "dedupe",
+        "emailDomains",
+        "enrichEmailViaGoogle",
+        "fastMode",
+        "maxConcurrency",
+        "maxFollowers",
+        "maxPostPages",
+        "maxPosts",
+        "maxResults",
+        "maxResultsPerKeyword",
+        "maxRetries",
+        "minActivityScore",
+        "minFollowers",
+        "mode",
+        "notifyWebhookUrl",
+        "onlyChanged",
+        "onlyWithContact",
+        "outputPreset",
+        "postKeyword",
+        "postsSince",
+        "postsUntil",
+        "profileUrls",
+        "scrapePosts",
+        "searchKeywords",
+        "searchLocation",
+        "sinceDays",
+        "timeout",
+        "trackChanges",
+        "verifiedOnly"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "postsSince",
+        "postsUntil",
+        "sinceDays"
+      ]
+    },
+    {
+      "full_name": "danek/facebook-groups-posts-scraper",
+      "actor_id": "mRarvkGGxveKUQppT",
+      "title": "Facebook Groups Posts Scraper",
+      "total_runs": 79085,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-04-02T07:10:16.816Z",
+      "input_fields": [
+        "group_url",
+        "max_posts"
+      ],
+      "required": [
+        "group_url",
+        "max_posts"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "chronometrica/facebook-comments-scraper",
+      "actor_id": "nwRXDwL4EwAsiMcpf",
+      "title": "Facebook Comments Scraper - Replies & Reactions",
+      "total_runs": 72764,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00215,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-08-16T17:54:36.894Z",
+      "input_fields": [
+        "collectAllAvailable",
+        "commentSortMode",
+        "commentsFrom",
+        "commentsUntil",
+        "includeReplies",
+        "maxResultsPerPost",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "commentsUntil"
+      ]
+    },
+    {
+      "full_name": "constructive_calm/facebook-ad-library-pro",
+      "actor_id": "EeK9bTdScJRwzeLPE",
+      "title": "Facebook Ad Library Scraper Pro",
+      "total_runs": 60816,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00049,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-15T09:34:57.404Z",
+      "input_fields": [
+        "activeStatus",
+        "adType",
+        "advertiserName",
+        "count",
+        "country",
+        "customCountryCode",
+        "enableCheckpoint",
+        "keyword",
+        "limitPerSource",
+        "maxConcurrency",
+        "mediaType",
+        "period",
+        "platforms",
+        "proxyConfiguration",
+        "resolveAdvertiser",
+        "runTag",
+        "scrapeAdDetails",
+        "sortBy",
+        "urls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "azzouzana/meta-facebook-instagram-ads-library",
+      "actor_id": "NhPFybfZbHGsFcbuG",
+      "title": "Meta | Facebook Ads Library Scraper",
+      "total_runs": 53570,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0005,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-08-25T12:45:23.186Z",
+      "input_fields": [
+        "extractDetails",
+        "maxAds",
+        "startUrl"
+      ],
+      "required": [
+        "startUrl"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apify/facebook-video-search-scraper",
+      "actor_id": "q8Go3mwy5RbARydIx",
+      "title": "Facebook Video Search Scraper",
+      "total_runs": 47435,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-17T10:26:37.843Z",
+      "input_fields": [
+        "resultsLimit",
+        "searchTerm",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data-slayer/facebook-search-pages",
+      "actor_id": "WGDH2CpXr3qINa3E4",
+      "title": "Facebook Page Search Scraper · No Cookies",
+      "total_runs": 45738,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-29T09:51:24.600Z",
+      "input_fields": [
+        "maxPages",
+        "query"
+      ],
+      "required": [
+        "query"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "codenest/facebook-story-downloader",
+      "actor_id": "Of4W4BioHZO1cehJO",
+      "title": "Facebook Story Downloader",
+      "total_runs": 31385,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.003,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-29T15:46:54.919Z",
+      "input_fields": [
+        "delayBetweenRequests",
+        "language",
+        "maxRetries",
+        "proxy",
+        "story_urls"
+      ],
+      "required": [
+        "story_urls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "chronometrica/facebook-metrics-scraper",
+      "actor_id": "I92O7HOXayugbQ2qm",
+      "title": "Facebook Metrics Scraper",
+      "total_runs": 28381,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.004,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-08-16T17:55:11.498Z",
+      "input_fields": [
+        "includeAuthorProfileMetrics",
+        "includeFailedRows",
+        "includePhotos",
+        "includePosts",
+        "includeReels",
+        "includeVideos",
+        "maxConcurrency",
+        "maxFetchRetries",
+        "maxItems",
+        "mode",
+        "profileUrls",
+        "requestDelayMillis",
+        "requestTimeoutSecs",
+        "startUrls",
+        "urls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "automly/facebook-ad-library-scraper",
+      "actor_id": "XwFkTh2eKZw8Bt5nS",
+      "title": "Meta (Facebook) Ad Library Scraper - Efficient & Fast",
+      "total_runs": 23031,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0007,
+      "actor_start_usd": 0.01,
+      "latest_build_finished_at": "2026-09-05T15:21:31.736Z",
+      "input_fields": [
+        "activeStatus",
+        "adType",
+        "country",
+        "includePageTransparency",
+        "maxAds",
+        "mediaType",
+        "proxyConfiguration",
+        "searchTerms",
+        "searchType",
+        "startDateMax",
+        "startDateMin",
+        "urls"
+      ],
+      "required": [],
+      "search_type_enum": {
+        "searchType": [
+          "keyword_unordered",
+          "keyword_exact_phrase"
+        ]
+      },
+      "has_date_filter": [
+        "startDateMin",
+        "startDateMax"
+      ]
+    },
+    {
+      "full_name": "crowdpull/facebook-marketplace-scraper",
+      "actor_id": "E4OOWTPaCBkHPf8jC",
+      "title": "Facebook Marketplace Scraper — No Login Required",
+      "total_runs": 21399,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-21T05:22:18.031Z",
+      "input_fields": [
+        "enableDedup",
+        "includeDetails",
+        "location",
+        "marketplaceUrls",
+        "maxListings",
+        "maxPrice",
+        "minPrice",
+        "proxyConfig",
+        "radiusKm",
+        "refreshWindowDays",
+        "searchQuery",
+        "strictFiltering",
+        "untilDate"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "untilDate"
+      ]
+    },
+    {
+      "full_name": "calm_builder/facebook-marketplace-scraper",
+      "actor_id": "qFR6mjgdwPouKLDvE",
+      "title": "Facebook Marketplace Scraper",
+      "total_runs": 18326,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0005,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-20T18:33:46.212Z",
+      "input_fields": [
+        "availability",
+        "conditions",
+        "dateListed",
+        "deduplicateListings",
+        "exactMatch",
+        "fetchDetails",
+        "itemUrls",
+        "keywordSearches",
+        "maxListings",
+        "maxPrice",
+        "minPrice",
+        "sortBy",
+        "startUrls",
+        "vehicleBodyStyles",
+        "vehicleMaxMileage",
+        "vehicleMaxYear",
+        "vehicleMinMileage",
+        "vehicleMinYear",
+        "vehicleSearches",
+        "vehicleTransmission"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "dateListed"
+      ]
+    },
+    {
+      "full_name": "blackfalcondata/facebook-marketplace-scraper",
+      "actor_id": "NpEChqaFXdnxtywjD",
+      "title": "Facebook Marketplace [$0.9💰] Scraper",
+      "total_runs": 17521,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0009,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-11T16:14:29.392Z",
+      "input_fields": [
+        "appConnector",
+        "availableOnly",
+        "browseWithoutQuery",
+        "categories",
+        "categoryId",
+        "cityName",
+        "compact",
+        "conditions",
+        "daysSinceListed",
+        "deliveryMethod",
+        "descriptionFormat",
+        "descriptionMaxLength",
+        "discordWebhookUrl",
+        "emitUnchanged",
+        "excludeEmptyFields",
+        "includeDetails",
+        "incrementalMode",
+        "lat",
+        "latitude",
+        "location",
+        "lon",
+        "longitude",
+        "maxPrice",
+        "maxResults",
+        "mcpIssueTeam",
+        "minPrice",
+        "notificationLimit",
+        "notifyOnlyChanges",
+        "proxy",
+        "query",
+        "radiusKm",
+        "slackWebhookUrl",
+        "sortBy",
+        "startUrls",
+        "stateKey",
+        "strictQueryMatch",
+        "strictRadius",
+        "telegramChatId",
+        "telegramToken",
+        "webhookHeaders",
+        "webhookUrl",
+        "whatsappAccessToken",
+        "whatsappPhoneNumberId",
+        "whatsappTo"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "daysSinceListed"
+      ]
+    },
+    {
+      "full_name": "brilliant_gum/facebook-ads-library-scraper",
+      "actor_id": "sB6HRFrXuGguboiQf",
+      "title": "Facebook Ads Library Scraper — Meta & Instagram Ads",
+      "total_runs": 7889,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.015,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-08-22T13:48:20.356Z",
+      "input_fields": [
+        "adActiveStatus",
+        "adType",
+        "countries",
+        "endDate",
+        "maxAds",
+        "resolveSnapshotUrls",
+        "searchTerms",
+        "startDate"
+      ],
+      "required": [
+        "searchTerms"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "full_name": "dami_studio/facebook-groups-scraper",
+      "actor_id": "CfixpU7B4eigpKO4Y",
+      "title": "Facebook Groups Scraper - $0.70 per 1,000 Posts",
+      "total_runs": 6859,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-09-21T04:14:01.049Z",
+      "input_fields": [
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan",
+        "proxyUrls",
+        "resultsLimit",
+        "sessionCookies",
+        "startUrls",
+        "viewOption"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan"
+      ]
+    },
+    {
+      "full_name": "calm_builder/facebook-comments-scraper",
+      "actor_id": "FkYogdcGITSGC2o6D",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 6742,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.001,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-08-24T19:41:48.388Z",
+      "input_fields": [
+        "commentsDateRange",
+        "commentsSortBy",
+        "includeReplies",
+        "maxComments",
+        "maxRepliesPerLevel",
+        "postUrls",
+        "replyDepth"
+      ],
+      "required": [
+        "postUrls",
+        "maxComments",
+        "includeReplies",
+        "replyDepth",
+        "maxRepliesPerLevel",
+        "commentsSortBy"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "commentsDateRange"
+      ]
+    },
+    {
+      "full_name": "dami_studio/facebook-posts-scraper",
+      "actor_id": "EXNh69YkiB1C2C1Fo",
+      "title": "Facebook Posts Scraper",
+      "total_runs": 6490,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00065,
+      "actor_start_usd": 0.0015,
+      "latest_build_finished_at": "2026-09-21T01:43:00.782Z",
+      "input_fields": [
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan",
+        "proxyUrls",
+        "resultsLimit",
+        "sessionCookies",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan"
+      ]
+    },
+    {
+      "full_name": "alpha-scraper/facebook-page-followers-following-count-scraper-pro",
+      "actor_id": "gQJLk0kuaRh8HA9S5",
+      "title": "Facebook Page Followers Following Count Scraper  Pro",
+      "total_runs": 5786,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-04T06:28:37.646Z",
+      "input_fields": [
+        "startUrls",
+        "usernames"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "calm_builder/facebook-posts-scraper",
+      "actor_id": "WriuUW6DaUFdoxxSf",
+      "title": "Facebook Posts Scraper",
+      "total_runs": 3991,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0025,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-08-24T19:43:45.488Z",
+      "input_fields": [
+        "commentsDateRange",
+        "commentsSortBy",
+        "includeComments",
+        "includeReplies",
+        "maxComments",
+        "maxPosts",
+        "maxRepliesPerLevel",
+        "replyDepth",
+        "scrapeAllPhotos",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls",
+        "maxPosts",
+        "includeComments",
+        "maxComments",
+        "includeReplies",
+        "replyDepth",
+        "maxRepliesPerLevel",
+        "commentsSortBy"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "commentsDateRange"
+      ]
+    },
+    {
+      "full_name": "data_direct/facebook-events-scraper",
+      "actor_id": "OTUecePOeuiLrSCNe",
+      "title": "Facebook Search Events Scraper (no cookies)",
+      "total_runs": 2757,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.008,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-22T16:54:46.558Z",
+      "input_fields": [
+        "end_date",
+        "location_id",
+        "pages",
+        "query",
+        "start_date"
+      ],
+      "required": [
+        "query"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "start_date",
+        "end_date"
+      ]
+    },
+    {
+      "full_name": "data-slayer/facebook-group-posts",
+      "actor_id": "3HT9HCdKm8aJU4Jur",
+      "title": "Facebook Group Posts Scraper · No Cookies",
+      "total_runs": 2729,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-29T09:48:26.021Z",
+      "input_fields": [
+        "groupId",
+        "maxPages"
+      ],
+      "required": [
+        "groupId"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "crawlerbros/facebook-marketplace-scraper",
+      "actor_id": "48LBLbieMZ25DEROT",
+      "title": "Facebook Marketplace Scraper",
+      "total_runs": 2722,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 0.05,
+      "latest_build_finished_at": "2026-08-30T14:48:55.500Z",
+      "input_fields": [
+        "categoryId",
+        "condition",
+        "daysSinceListed",
+        "deduplicateAcrossInputs",
+        "deliveryMethod",
+        "includeAllPhotos",
+        "includeListingDetails",
+        "latitude",
+        "location",
+        "longitude",
+        "maxItems",
+        "maxItemsPerUrl",
+        "maxPrice",
+        "minPrice",
+        "proxyConfiguration",
+        "radiusKm",
+        "resultsLimit",
+        "scrapeMode",
+        "searchQuery",
+        "sortBy",
+        "startUrls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "daysSinceListed"
+      ]
+    },
+    {
+      "full_name": "crowdpull/facebook-group-posts-scraper",
+      "actor_id": "TbRkI5wBA2Hs4yiEI",
+      "title": "Facebook Group Posts Scraper — No Login Required",
+      "total_runs": 2257,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0035,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-03-03T14:49:52.196Z",
+      "input_fields": [
+        "enableDedup",
+        "filterAuthor",
+        "includeTopComments",
+        "maxEmptyScrolls",
+        "maxPosts",
+        "minComments",
+        "minReactions",
+        "onlyPostsNewerThan",
+        "proxyConfig",
+        "refreshWindowDays",
+        "scrollDelay",
+        "sortOrder",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan"
+      ]
+    },
+    {
+      "full_name": "api-ninja/facebook-posts-scraper",
+      "actor_id": "Vz7ENMkHJh9h1e2V2",
+      "title": "Facebook Posts Scraper",
+      "total_runs": 2204,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.03,
+      "actor_start_usd": 0.01,
+      "latest_build_finished_at": "2026-05-05T11:15:19.003Z",
+      "input_fields": [
+        "endDate",
+        "maxResults",
+        "parseAllResults",
+        "startDate",
+        "urls"
+      ],
+      "required": [
+        "urls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "full_name": "bhansalisoft/facebook-group-auto-poster",
+      "actor_id": "rIFw3Nb0CJhR85flU",
+      "title": "Facebook Group Auto Poster",
+      "total_runs": 2155,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.01,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-19T12:21:03.285Z",
+      "input_fields": [
+        "Cookies",
+        "Delay",
+        "Facebook_Profile_URL",
+        "Message"
+      ],
+      "required": [
+        "Facebook_Profile_URL",
+        "Message",
+        "Delay",
+        "Cookies"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alfalfa/facebook-posts-scraper",
+      "actor_id": "9fbE1ad5CkBc1hhbu",
+      "title": "Facebook Posts Scraper · No Login · $1.4/1k",
+      "total_runs": 1555,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-21T07:26:11.573Z",
+      "input_fields": [
+        "captionText",
+        "maxConcurrency",
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan",
+        "proxyConfiguration",
+        "resultsLimit",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan",
+        "onlyPostsOlderThan"
+      ]
+    },
+    {
+      "full_name": "bhansalisoft/facebook-group-member-scraper",
+      "actor_id": "JMMRfaFmBG37bf4RC",
+      "title": "Facebook Group Member Scraper & Extractor",
+      "total_runs": 1533,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.01,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-21T08:43:19.356Z",
+      "input_fields": [
+        "Cookies",
+        "Facebook_Group_URL",
+        "Limit"
+      ],
+      "required": [
+        "Facebook_Group_URL"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data-slayer/facebook-page-posts",
+      "actor_id": "7UNvpZSmc3jmGoRES",
+      "title": "Facebook Page Posts Scraper · No Cookies",
+      "total_runs": 1529,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-27T16:57:07.996Z",
+      "input_fields": [
+        "maxPages",
+        "pageId"
+      ],
+      "required": [
+        "pageId"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "danek/facebook-posts-share-scraper",
+      "actor_id": "haDxfPcTWckI9WbdZ",
+      "title": "Facebook Posts Share Scraper",
+      "total_runs": 1404,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-07-03T07:01:17.704Z",
+      "input_fields": [
+        "max_reshares",
+        "max_retries",
+        "post_id",
+        "post_url"
+      ],
+      "required": [
+        "max_retries",
+        "max_reshares"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "automation-lab/facebook-group-posts-scraper",
+      "actor_id": "Qj1Ba9prQDoc2PAme",
+      "title": "Facebook Public Group Posts Scraper",
+      "total_runs": 1335,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00253,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-18T21:06:06.863Z",
+      "input_fields": [
+        "maxItems",
+        "maxPagesPerGroup",
+        "searchTerms",
+        "since",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "since"
+      ]
+    },
+    {
+      "full_name": "crowdpull/facebook-comment-scraper",
+      "actor_id": "YFIsEMsNEyjvnEkPu",
+      "title": "Facebook Comment Scraper — Public Comments & Replies",
+      "total_runs": 1333,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-21T04:25:04.614Z",
+      "input_fields": [
+        "datasetId",
+        "debugMode",
+        "enableDedup",
+        "extractUrls",
+        "failOnEmpty",
+        "fbCookies",
+        "includeReplies",
+        "maxCommentsPerPost",
+        "maxConcurrency",
+        "minComments",
+        "postUrls",
+        "proxyConfig",
+        "refreshWindowDays",
+        "sortOrder"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alizarin_refrigerator-owner/facebook-page-post-scraper",
+      "actor_id": "zq25jK1CFkiaphgBQ",
+      "title": "Facebook Page Post Scraper",
+      "total_runs": 1290,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.1,
+      "latest_build_finished_at": "2026-08-31T17:15:32.617Z",
+      "input_fields": [
+        "contentType",
+        "cookieKvStoreName",
+        "cookieStorageKey",
+        "dateFrom",
+        "dateTo",
+        "demoMode",
+        "includeComments",
+        "maxCommentsPerPost",
+        "maxPostsPerPage",
+        "pageUrls",
+        "pageUsernames",
+        "proxyConfiguration",
+        "sessionCookies",
+        "webhookHeaders",
+        "webhookPlatform",
+        "webhookUrl"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": [
+        "dateFrom",
+        "dateTo"
+      ]
+    },
+    {
+      "full_name": "crowdpull/facebook-page-posts-scraper",
+      "actor_id": "jcwUzlHpK1cB2ORrK",
+      "title": "Facebook Page Posts Scraper — No Login Required",
+      "total_runs": 1227,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0035,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-21T04:25:08.198Z",
+      "input_fields": [
+        "debugMode",
+        "enableDedup",
+        "maxEmptyScrolls",
+        "maxPosts",
+        "onlyPostsNewerThan",
+        "proxyConfig",
+        "refreshWindowDays",
+        "scrollDelay",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan"
+      ]
+    },
+    {
+      "full_name": "corent1robert/facebook-page-contact-scraper",
+      "actor_id": "0eYsD9jdq3gdGMSWe",
+      "title": "Facebook Pages · Email, Phone & Website",
+      "total_runs": 1166,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00399,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-01T11:22:39.159Z",
+      "input_fields": [
+        "pageUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data-slayer/facebook-search-events",
+      "actor_id": "tASPp2gGAP86sfRsy",
+      "title": "Facebook Events Scraper · No Cookies",
+      "total_runs": 1141,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-29T09:49:46.899Z",
+      "input_fields": [
+        "maxPages",
+        "query"
+      ],
+      "required": [
+        "query"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "api-ninja/facebook-pages-scraper",
+      "actor_id": "l79QDKhbdmboYhbTj",
+      "title": "Facebook Pages Scraper",
+      "total_runs": 1062,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.05,
+      "actor_start_usd": 0.01,
+      "latest_build_finished_at": "2026-05-05T11:17:07.651Z",
+      "input_fields": [
+        "endDate",
+        "maxResults",
+        "parseAllResults",
+        "startDate",
+        "type",
+        "urls"
+      ],
+      "required": [
+        "urls"
+      ],
+      "search_type_enum": {
+        "type": [
+          "posts",
+          "photos",
+          "videos",
+          "reels",
+          "reviews",
+          "future_events",
+          "past_events",
+          "page_details"
+        ]
+      },
+      "has_date_filter": [
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "full_name": "dami_studio/facebook-comments-scraper",
+      "actor_id": "jTmbBeGhoZmHU3FFr",
+      "title": "Facebook Comments Scraper - $0.25 per 1,000",
+      "total_runs": 931,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00025,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-21T04:11:42.237Z",
+      "input_fields": [
+        "includeNestedComments",
+        "onlyCommentsNewerThan",
+        "proxyUrls",
+        "resultsLimit",
+        "sessionCookies",
+        "startUrls",
+        "viewOption"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyCommentsNewerThan"
+      ]
+    },
+    {
+      "full_name": "crawlerbros/facebook-comments-scraper",
+      "actor_id": "QSWFgOzYKmVxgRcYf",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 908,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.05,
+      "latest_build_finished_at": "2026-09-01T12:47:02.034Z",
+      "input_fields": [
+        "commentsMode",
+        "includeNestedComments",
+        "maxItems",
+        "maxReplyDepth",
+        "onlyCommentsNewerThan",
+        "proxy",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyCommentsNewerThan"
+      ]
+    },
+    {
+      "full_name": "data-slayer/facebook-search-people",
+      "actor_id": "EtCM7XAaicgG3OJMm",
+      "title": "Facebook People Search Scraper · No Cookies",
+      "total_runs": 805,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-29T09:50:32.291Z",
+      "input_fields": [
+        "maxPages",
+        "query"
+      ],
+      "required": [
+        "query"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "automation-lab/facebook-pages-scraper",
+      "actor_id": "OXjOFpeylKTKAwpdM",
+      "title": "Facebook Pages Scraper",
+      "total_runs": 778,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.15,
+      "actor_start_usd": 0.01,
+      "latest_build_finished_at": "2026-09-12T12:47:58.666Z",
+      "input_fields": [
+        "includeRecentPosts",
+        "maxPages",
+        "pageUrls",
+        "proxyCountry"
+      ],
+      "required": [
+        "pageUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "crawlerbros/facebook-search-scraper",
+      "actor_id": "3nKvalkcvial6cvGj",
+      "title": "Facebook Search Scraper",
+      "total_runs": 721,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-15T05:31:36.534Z",
+      "input_fields": [
+        "addDetail",
+        "cookies",
+        "includePosts",
+        "includeReviews",
+        "maxPosts",
+        "maxResults",
+        "searchQueries",
+        "searchType",
+        "startUrls"
+      ],
+      "required": null,
+      "search_type_enum": {
+        "searchType": [
+          "pages",
+          "people"
+        ]
+      },
+      "has_date_filter": []
+    },
+    {
+      "full_name": "api-ninja/facebook-groups-scraper",
+      "actor_id": "BcWNNMn9jYbu79ave",
+      "title": "Facebook Groups Scraper",
+      "total_runs": 659,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.04,
+      "actor_start_usd": 0.01,
+      "latest_build_finished_at": "2026-05-05T11:14:43.011Z",
+      "input_fields": [
+        "maxResults",
+        "parseAllResults",
+        "sort",
+        "type",
+        "urls"
+      ],
+      "required": [
+        "urls"
+      ],
+      "search_type_enum": {
+        "type": [
+          "posts",
+          "future_events",
+          "group_details"
+        ]
+      },
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data-slayer/facebook-page-details",
+      "actor_id": "sljEfQIHGhbGn5FHT",
+      "title": "Facebook Page Details Scraper · No Cookies",
+      "total_runs": 580,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-29T09:51:45.676Z",
+      "input_fields": [
+        "pageUrl"
+      ],
+      "required": [
+        "pageUrl"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "crawlerbros/facebook-pages-scraper",
+      "actor_id": "Zr3DByKLuUncbBlVX",
+      "title": "Facebook Pages Scraper",
+      "total_runs": 478,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.05,
+      "latest_build_finished_at": "2026-09-13T15:12:45.058Z",
+      "input_fields": [
+        "cookies",
+        "includeReviews",
+        "locations",
+        "maxItems",
+        "searchTerms",
+        "startUrls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "api-ninja/facebook-comments-scraper",
+      "actor_id": "cQFZ5f1UUmToFdFei",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 475,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0125,
+      "actor_start_usd": 0.01,
+      "latest_build_finished_at": "2026-05-23T16:28:16.803Z",
+      "input_fields": [
+        "commentsPerUrl",
+        "parseReplies",
+        "scrapeAll",
+        "searchUrls"
+      ],
+      "required": [
+        "searchUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "calm_builder/facebook-reviews-scraper",
+      "actor_id": "bvRKJzmEEzDbRmVF5",
+      "title": "Facebook Reviews Scraper",
+      "total_runs": 289,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-08-23T06:43:40.383Z",
+      "input_fields": [
+        "maxReviewsPerUrl",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls",
+        "maxReviewsPerUrl"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "blackfalcondata/facebook-group-post-scraper",
+      "actor_id": "udKLMdfOKmXO82ehk",
+      "title": "Facebook Group Posts Scraper — group content & engagement",
+      "total_runs": 285,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00225,
+      "actor_start_usd": 0.0072,
+      "latest_build_finished_at": "2026-08-10T01:31:13.362Z",
+      "input_fields": [
+        "appConnector",
+        "compact",
+        "descriptionFormat",
+        "discordWebhookUrl",
+        "emitUnchanged",
+        "enrichMarketplaceListings",
+        "excludeEmptyFields",
+        "includeComments",
+        "includeDetails",
+        "incrementalMode",
+        "maxItems",
+        "mcpIssueTeam",
+        "mcpSlackChannel",
+        "monitoringMode",
+        "notificationLimit",
+        "notifyOnlyChanges",
+        "onlyPostsNewerThan",
+        "proxy",
+        "query",
+        "search",
+        "slackWebhookUrl",
+        "startUrls",
+        "stateKey",
+        "telegramChatId",
+        "telegramToken",
+        "viewOption",
+        "webhookHeaders",
+        "webhookUrl",
+        "whatsappAccessToken",
+        "whatsappPhoneNumberId",
+        "whatsappTo"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyPostsNewerThan"
+      ]
+    },
+    {
+      "full_name": "data-slayer/facebook-page-reviews",
+      "actor_id": "1Aq39GC5oiaQz0uDg",
+      "title": "Facebook Page Reviews Scraper · No Cookies",
+      "total_runs": 261,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.007,
+      "actor_start_usd": 0.002,
+      "latest_build_finished_at": "2026-04-29T09:52:25.540Z",
+      "input_fields": [
+        "maxPages",
+        "pageId"
+      ],
+      "required": [
+        "pageId"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alfalfa/facebook-pages-scraper",
+      "actor_id": "fIYeB3DNmX4xcYJqp",
+      "title": "Facebook Pages Scraper · No Login · $1.5/1k",
+      "total_runs": 260,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0025,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-21T07:39:08.493Z",
+      "input_fields": [
+        "includeFailedPages",
+        "maxConcurrency",
+        "pages",
+        "proxyConfiguration",
+        "scrapeAbout",
+        "scrapeTransparency",
+        "startUrls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data_direct/facebook-group-scraper",
+      "actor_id": "2pf9reJQwnfFrfDdg",
+      "title": "Facebook Group Details Scraper (no cookies)",
+      "total_runs": 257,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.008,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-22T16:54:42.299Z",
+      "input_fields": [
+        "url"
+      ],
+      "required": [
+        "url"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data_direct/facebook-locations-scraper",
+      "actor_id": "P7ktobgpo0D39LxUx",
+      "title": "Facebook Search Locations Scraper (no cookies)",
+      "total_runs": 219,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.004,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-22T16:54:59.319Z",
+      "input_fields": [
+        "query"
+      ],
+      "required": [
+        "query"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "axesso_data/facebook-post-details-scraper",
+      "actor_id": "EgRRc3P2ZdmONLael",
+      "title": "Facebook Post Details Scraper",
+      "total_runs": 200,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.05,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-28T08:23:15.657Z",
+      "input_fields": [
+        "input"
+      ],
+      "required": [
+        "input"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "clappi/facebook-comments-scraper",
+      "actor_id": "ay9yMCu7TR6Q4NBIJ",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 192,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00199,
+      "actor_start_usd": 0.0005,
+      "latest_build_finished_at": "2026-08-20T15:35:43.946Z",
+      "input_fields": [
+        "maxComments",
+        "postUrls",
+        "proxyConfiguration"
+      ],
+      "required": [
+        "postUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data_direct/facebook-page-posts-scraper",
+      "actor_id": "pW15i6NOuXZwWNNsa",
+      "title": "Facebook Page Posts Scraper (no cookies)",
+      "total_runs": 178,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.008,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-22T16:55:13.107Z",
+      "input_fields": [
+        "end_date",
+        "page_id",
+        "pages",
+        "start_date"
+      ],
+      "required": [
+        "page_id"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "start_date",
+        "end_date"
+      ]
+    },
+    {
+      "full_name": "crawlerbros/facebook-reviews-scraper",
+      "actor_id": "1QUXNmqzxRAvEIRif",
+      "title": "Facebook Reviews Scraper",
+      "total_runs": 169,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-02T16:42:11.814Z",
+      "input_fields": [
+        "cookies",
+        "filterByDateFrom",
+        "filterByDateTo",
+        "filterByKeyword",
+        "filterByRecommendation",
+        "maxReviews",
+        "maxReviewsPerPage",
+        "mode",
+        "pageIds",
+        "proxyCountry",
+        "searchQueries",
+        "sortBy",
+        "startUrls"
+      ],
+      "required": [
+        "mode"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "filterByDateFrom",
+        "filterByDateTo"
+      ]
+    },
+    {
+      "full_name": "convertfleetdotonline/facebook-page-scraper",
+      "actor_id": "xHfNpuF5lZZ6EAdqE",
+      "title": "Facebook Page Scraper - Email, Phone & Website Leads",
+      "total_runs": 155,
+      "deprecated": false,
+      "pricing_model": "FREE",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": null,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-06T11:59:03.179Z",
+      "input_fields": [
+        "pageUrls",
+        "proxyConfiguration"
+      ],
+      "required": [
+        "pageUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "codenest/facebook-page-scraper",
+      "actor_id": "1fqQhAYW6m4YNG9KC",
+      "title": "Facebook Page Scraper",
+      "total_runs": 151,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.003,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-07-05T13:25:16.813Z",
+      "input_fields": [
+        "cookies",
+        "maxConcurrency",
+        "maxDelayMs",
+        "minDelayMs",
+        "pageUrls",
+        "proxyConfiguration"
+      ],
+      "required": [
+        "pageUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alpha-scraper/facebook-posts-scraper-with-all-reactions",
+      "actor_id": "yfxaGSygh9TaubBT3",
+      "title": "Facebook Posts Scraper with All Reactions",
+      "total_runs": 129,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00199,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-23T06:21:29.620Z",
+      "input_fields": [
+        "maxItemsPerUrl",
+        "urls",
+        "usernames"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alfalfa/facebook-comments-scraper",
+      "actor_id": "1ktyriRvS9RUBp419",
+      "title": "Facebook Comments Scraper · No Login · $0.2/1k",
+      "total_runs": 128,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0003,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-21T07:28:52.471Z",
+      "input_fields": [
+        "includeNestedComments",
+        "maxConcurrency",
+        "onlyCommentsNewerThan",
+        "proxyConfiguration",
+        "resultsLimit",
+        "startUrls",
+        "viewOption"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyCommentsNewerThan"
+      ]
+    },
+    {
+      "full_name": "alpha-scraper/facebook-page-profile-details-scraper-pro",
+      "actor_id": "yme2wVL1uoIdjjehf",
+      "title": "Facebook page & Profile Details scraper Pro",
+      "total_runs": 115,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00499,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-23T07:09:45.463Z",
+      "input_fields": [
+        "usernames"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apivault_labs/facebook-reviews-scraper",
+      "actor_id": "I2YiRhMLCqC9Yer8Q",
+      "title": "Facebook Reviews Scraper - Ratings, Sentiment, No Login",
+      "total_runs": 112,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0025,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-12T19:43:48.198Z",
+      "input_fields": [
+        "analyzeSentiment",
+        "dedupe",
+        "enrichPageContacts",
+        "includeMedia",
+        "keywordFilter",
+        "maxConcurrency",
+        "maxCostUsd",
+        "maxResults",
+        "maxRetries",
+        "maxReviewsPerPage",
+        "notifyWebhookUrl",
+        "onlyNewSinceLastRun",
+        "proxyCountry",
+        "searchQueries",
+        "sinceDays",
+        "startUrls",
+        "timeout",
+        "useResidentialProxy"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "sinceDays",
+        "onlyNewSinceLastRun"
+      ]
+    },
+    {
+      "full_name": "chronometrica/facebook-channel-scraper",
+      "actor_id": "PgPZiFqidnSX7R9Yc",
+      "title": "Facebook Page Scraper – Profiles & Stats",
+      "total_runs": 109,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.004,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-08-16T17:55:16.259Z",
+      "input_fields": [
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "dami_studio/facebook-page-contact-info-scraper",
+      "actor_id": "BZt04do3csSbklsdP",
+      "title": "Facebook Page Contact Info Scraper",
+      "total_runs": 103,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0013,
+      "actor_start_usd": 0.001,
+      "latest_build_finished_at": "2026-09-21T01:30:59.057Z",
+      "input_fields": [
+        "maxPages",
+        "proxyUrls",
+        "sessionCookies",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "automation-lab/facebook-people-search-scraper",
+      "actor_id": "pM46FodUFQeYr4xbg",
+      "title": "Facebook People Search Scraper",
+      "total_runs": 101,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0019964,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-16T12:58:57.008Z",
+      "input_fields": [
+        "deduplicateAcrossQueries",
+        "maxItems",
+        "resultsPerQuery",
+        "searchQueries"
+      ],
+      "required": [
+        "searchQueries"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alpha-scraper/facebook-posts-reactions-scraper",
+      "actor_id": "7RsVaVc0LcsSHTi4T",
+      "title": "Facebook Posts Reactions Scraper",
+      "total_runs": 89,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0025,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-29T14:01:00.042Z",
+      "input_fields": [
+        "maxItemsPerUrl",
+        "urls",
+        "usernames"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "dami_studio/facebook-reviews-scraper",
+      "actor_id": "jTg7sDJ9sDggL7yLi",
+      "title": "Facebook Reviews Scraper - $0.35 per 1,000 Reviews",
+      "total_runs": 83,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00035,
+      "actor_start_usd": 0.0005,
+      "latest_build_finished_at": "2026-09-21T01:32:03.150Z",
+      "input_fields": [
+        "onlyReviewsNewerThan",
+        "onlyReviewsOlderThan",
+        "proxyUrls",
+        "recommendationType",
+        "resultsLimit",
+        "sessionCookies",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "onlyReviewsNewerThan",
+        "onlyReviewsOlderThan"
+      ]
+    },
+    {
+      "full_name": "automation-lab/facebook-pages-posts-scraper",
+      "actor_id": "qP8aHaccNf2DoYc0j",
+      "title": "Facebook Page Posts Scraper",
+      "total_runs": 75,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00368,
+      "actor_start_usd": 0.006,
+      "latest_build_finished_at": "2026-08-02T07:08:39.827Z",
+      "input_fields": [
+        "fromDate",
+        "maxItems",
+        "startUrls",
+        "toDate"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": [
+        "fromDate",
+        "toDate"
+      ]
+    },
+    {
+      "full_name": "alpha-scraper/facebook-comment-scraper-pro",
+      "actor_id": "HaWZ1hEcjVjk0tZoK",
+      "title": "Facebook Comment Scraper Pro",
+      "total_runs": 69,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00599,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-23T11:42:45.857Z",
+      "input_fields": [
+        "includeReplies",
+        "maxCommentsPerUrl",
+        "maxRepliesPerComment",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "automation-lab/facebook-page-photos-scraper",
+      "actor_id": "t1ep8QlDDZtDS3S51",
+      "title": "Facebook Page Photos Scraper",
+      "total_runs": 68,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0020016,
+      "actor_start_usd": 0.0035,
+      "latest_build_finished_at": "2026-07-26T04:07:00.357Z",
+      "input_fields": [
+        "maxItems",
+        "maxScrolls",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "alpha-scraper/facebook-comments-scraper-lite",
+      "actor_id": "p6AhJCagO2tLGe4fd",
+      "title": "Facebook Comments Scraper Lite",
+      "total_runs": 67,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.00699,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-23T06:52:02.095Z",
+      "input_fields": [
+        "maxCommentsPerUrl",
+        "startUrls"
+      ],
+      "required": [],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data_direct/facebook-group-posts-scraper",
+      "actor_id": "H9Dr9OZJV1srSU3Fo",
+      "title": "Facebook Group Posts Scraper (no cookies)",
+      "total_runs": 64,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.008,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-22T16:54:47.491Z",
+      "input_fields": [
+        "group_id",
+        "pages",
+        "sort_by"
+      ],
+      "required": [
+        "group_id"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "axesso_data/facebook-video-search-scraper",
+      "actor_id": "to34SuK3ziWeCJHkS",
+      "title": "Facebook Video Search Scraper",
+      "total_runs": 61,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.025,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-28T08:23:54.707Z",
+      "input_fields": [
+        "input"
+      ],
+      "required": [
+        "input"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "data_direct/facebook-page-reviews-scraper",
+      "actor_id": "QgapNLGaxjnnYdbCh",
+      "title": "Facebook Page Reviews Scraper (no cookies)",
+      "total_runs": 61,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.008,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-07-22T16:55:18.076Z",
+      "input_fields": [
+        "page_id",
+        "pages"
+      ],
+      "required": [
+        "page_id"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "axesso_data/facebook-page-info-scraper-v2",
+      "actor_id": "BLZMFzKysyJg4OmF0",
+      "title": "Facebook Page Info Scraper V2",
+      "total_runs": 59,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.05,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-28T08:22:54.270Z",
+      "input_fields": [
+        "input"
+      ],
+      "required": [
+        "input"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "apt_marble/facebook-comments-scraper",
+      "actor_id": "qT6gOf69OQBnk9SX8",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 56,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.004,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-08-02T16:18:35.186Z",
+      "input_fields": [
+        "concurrency",
+        "country",
+        "maxCommentsPerPost",
+        "postUrls"
+      ],
+      "required": [
+        "postUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "axesso_data/facebook-comments-scraper",
+      "actor_id": "vymW03oUW3Rnaha3C",
+      "title": "Facebook Comments Scraper",
+      "total_runs": 46,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.025,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-08-13T18:17:19.853Z",
+      "input_fields": [
+        "input"
+      ],
+      "required": [
+        "input"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "bovi/facebook-comments-scraper",
+      "actor_id": "gJ0MqEhu0oPoeoXhZ",
+      "title": "Facebook Comments Scraper — No Login, No API Key",
+      "total_runs": 42,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-07-22T19:36:42.289Z",
+      "input_fields": [
+        "maxComments",
+        "pageSize",
+        "postUrls",
+        "proxyConfiguration"
+      ],
+      "required": [
+        "postUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "cyrolix/facebook-reel-posts-video-stats-scraper",
+      "actor_id": "oio3skuokraxq4Dul",
+      "title": "Facebook Reel, Post and video stats Scraper",
+      "total_runs": 28,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.002,
+      "actor_start_usd": 5e-05,
+      "latest_build_finished_at": "2026-09-12T21:42:10.435Z",
+      "input_fields": [
+        "url",
+        "urls"
+      ],
+      "required": null,
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "automation-lab/facebook-public-video-search-results",
+      "actor_id": "xv4lOvU988Yq5nCsH",
+      "title": "Facebook Public Video Search Results Scraper",
+      "total_runs": 7,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0046,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-19T05:45:08.722Z",
+      "input_fields": [
+        "maxItems",
+        "maxScrolls",
+        "proxyConfiguration",
+        "searchQueries"
+      ],
+      "required": [
+        "searchQueries"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "cmfapps/facebook-marketplace-search",
+      "actor_id": "yHx5QsWp0r4lbgUQK",
+      "title": "Facebook Marketplace Search & Listing Data",
+      "total_runs": 6,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.0015,
+      "actor_start_usd": null,
+      "latest_build_finished_at": "2026-09-05T23:16:11.863Z",
+      "input_fields": [
+        "collectAdditionalDetails",
+        "maxListingAgeHours",
+        "maxPrice",
+        "maxRadius",
+        "maxResults",
+        "maxScrollSeconds",
+        "maxWaitSeconds",
+        "onlyNewListings",
+        "query",
+        "searchZip",
+        "sortBy"
+      ],
+      "required": [
+        "query"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    },
+    {
+      "full_name": "crawlerbros/facebook-group-posts-scraper",
+      "actor_id": "9KmTcgERJuZrTJwgg",
+      "title": "Facebook Group Posts Scraper",
+      "total_runs": 6,
+      "deprecated": false,
+      "pricing_model": "PAY_PER_EVENT",
+      "flat_monthly_usd": null,
+      "price_per_result_usd": 0.005,
+      "actor_start_usd": 0.005,
+      "latest_build_finished_at": "2026-09-17T09:22:53.906Z",
+      "input_fields": [
+        "enrichGroupInfo",
+        "includeTopComments",
+        "maxItems",
+        "monitoringMode",
+        "sortBy",
+        "startUrls"
+      ],
+      "required": [
+        "startUrls"
+      ],
+      "search_type_enum": null,
+      "has_date_filter": []
+    }
+  ]
+}

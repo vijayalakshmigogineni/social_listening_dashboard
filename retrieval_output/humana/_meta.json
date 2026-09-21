@@ -1,0 +1,83 @@
+{
+  "scripts_used": [
+    "epidural.py (listing GET + BeautifulSoup pattern, extended to parse table date columns)",
+    "actual_policy.py / humana_injections_pain_conditions.py (VIEWSTATE + __doPostBack resolution pattern, extended to loop across top rows)"
+  ],
+  "endpoints": [
+    "https://mcp.humana.com/tad/tad_new/Search.aspx?sortfield=reviewdate&policyType=medical",
+    "https://mcp.humana.com/tad/tad_new/Search.aspx?sortfield=reviewdate&policyType=pharmacy"
+  ],
+  "mechanism": "Public HTTP GET to Humana's Medical and Pharmacy Coverage Policies search listing (ASP.NET WebForms GridView), no authentication required. Each row exposes a javascript:__doPostBack(...) link; POSTing the captured __VIEWSTATE/__VIEWSTATEGENERATOR with __EVENTTARGET/__EVENTARGUMENT for that row returns an HTTP 302 whose Location header is the real document URL on dctm.humana.com (Documentum).",
+  "retrieval_timestamp": "2026-09-17T12:37:05.741566+00:00",
+  "http_status": {
+    "medical": 200,
+    "pharmacy": 200
+  },
+  "total_records_found_in_listings": {
+    "medical": 379,
+    "pharmacy": 1442,
+    "combined": 1821
+  },
+  "total_records_selected_top_n": 100,
+  "total_records_resolved": 93,
+  "postback_failures": [
+    {
+      "policy_name": "Breyanzi® (lisocabtagene maraleucel)",
+      "reason": "HTTPSConnectionPool(host='mcp.humana.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "policy_name": "Carvykti™ (ciltacabtagene autoleucel)",
+      "reason": "HTTPSConnectionPool(host='mcp.humana.com', port=443): Max retries exceeded with url: /tad/tad_new/Search.aspx?sortfield=reviewdate&policyType=pharmacy (Caused by NameResolutionError(\"HTTPSConnection(host='mcp.humana.com', port=443): Failed to resolve 'mcp.humana.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "policy_name": "Carvykti™ (ciltacabtagene autoleucel)",
+      "reason": "HTTPSConnectionPool(host='mcp.humana.com', port=443): Max retries exceeded with url: /tad/tad_new/Search.aspx?sortfield=reviewdate&policyType=pharmacy (Caused by NameResolutionError(\"HTTPSConnection(host='mcp.humana.com', port=443): Failed to resolve 'mcp.humana.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "policy_name": "Neffy® (epinephrine nasal spray)",
+      "reason": "HTTPSConnectionPool(host='mcp.humana.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "policy_name": "Ongentys® (opicapone)",
+      "reason": "HTTPSConnectionPool(host='mcp.humana.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "policy_name": "Ophthalmic Non-Steroidal Anti-Inflammatory Drugs",
+      "reason": "HTTPSConnectionPool(host='mcp.humana.com', port=443): Max retries exceeded with url: /tad/tad_new/Search.aspx?sortfield=reviewdate&policyType=pharmacy (Caused by NameResolutionError(\"HTTPSConnection(host='mcp.humana.com', port=443): Failed to resolve 'mcp.humana.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+      "policy_name": "Oxlumo® (lumasiran)",
+      "reason": "('Connection broken: IncompleteRead(1896816 bytes read, 688872 more expected)', IncompleteRead(1896816 bytes read, 688872 more expected))"
+    }
+  ],
+  "fields_available": [
+    "policy_name",
+    "policy_type",
+    "effective_date",
+    "reviewed_date",
+    "status (New/Revised, from NewHiddenField)",
+    "document_url (dctm.humana.com, resolved via postback redirect)",
+    "object_id",
+    "search_id",
+    "postback_status_code",
+    "source_listing_url"
+  ],
+  "date_range": {
+    "newest_reviewed_date": "9/3/2026",
+    "oldest_reviewed_date": "8/19/2026",
+    "note": "Corrected after review: the original value here was computed by taking the first/last elements of the resolved-records list, which is grouped by source listing URL (pharmacy batch, then medical batch) rather than being a flat date sort, so it understated the true range. True min/max reviewed dates across all 93 resolved records, computed directly, are 8/19/2026 (oldest) and 9/3/2026 (newest)."
+  },
+  "distinct_policy_names_in_resolved_set": 71,
+  "distinct_document_object_ids_in_resolved_set": 93,
+  "status_breakdown": {"Revised": 83, "New": 10},
+  "policy_type_breakdown_in_resolved_set": {"pharmacy": 92, "medical": 1},
+  "limitations": [
+    "Sort applied is by 'Reviewed Date' as extracted and re-sorted in Python; site's own sortfield=reviewdate query param did not appear to fully pre-sort the raw HTML output, so re-sorting client side on the real date string was necessary.",
+    "document_url/object_id/search_id are resolved live per request via session-bound postback; the exttoken embedded in each dctm.humana.com URL is short-lived/session-scoped and will not remain valid indefinitely.",
+    "Only 'medical' and 'pharmacy' policyType values were used (both discovered directly via real navigation links on the site's own home page, not guessed).",
+    "No PDF content was downloaded/parsed for these 100 records (only the listing metadata + resolved document URL) to keep the run fast and avoid unnecessary load on Humana's servers; humana_injections_pain_conditions.py demonstrates the working PDF-download step for a single target if full-text is later needed.",
+    "Because the top-100-by-reviewed-date selection landed almost entirely inside a large tie group of pharmacy policies all dated 8/19/2026, the resolved set is heavily skewed toward pharmacy (92 of 93) with only 1 medical policy; this is an honest artifact of Humana's real review-date distribution (a large pharmacy policy batch was apparently reviewed/republished on 8/19/2026), not a selection error. The medical listing's own newest reviewed dates (e.g. 8/28/2026, 8/11/2026) are older than that pharmacy batch.",
+    "7 of the 100 selected rows failed to resolve to a document URL (5 read-timeouts/DNS blips against mcp.humana.com, 1 incomplete-read on a large response, all transient network errors during a long sequential run) - not access-denied or auth failures. 93 of 100 (93%) resolved successfully.",
+    "93 resolved records represent 93 distinct document object_ids (all unique - verified) but only 71 distinct policy names, because Humana publishes multiple separate document rows under the same policy name (different line-of-business/product versions with different effective dates but the same reviewed date). Each row is a genuinely distinct real document, not a duplicate."
+  ]
+}

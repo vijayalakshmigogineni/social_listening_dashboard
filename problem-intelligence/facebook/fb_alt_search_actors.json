@@ -1,0 +1,324 @@
+{
+  "scraper_one~facebook-posts-search": {
+    "id": "TMBawM4LZpKN15DZX",
+    "pricing": {},
+    "schema": {
+      "title": "Custom Search Input",
+      "description": "Input schema for searching Facebook data using Apify Actor.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "query": {
+          "title": "Search Query",
+          "type": "string",
+          "description": "The search term to look for.",
+          "editor": "textfield",
+          "prefill": "Tesla",
+          "minLength": 1,
+          "maxLength": 100,
+          "pattern": "^[^{}$<>`]*$"
+        },
+        "resultsCount": {
+          "title": "Number of results",
+          "type": "integer",
+          "description": "Number of search results to retrieve. If not set, only a few of the first posts will be returned. Note: Free-plan users can retrieve up to 100 posts per search query.",
+          "editor": "number",
+          "minimum": 1,
+          "prefill": 10
+        },
+        "searchType": {
+          "title": "Search Type",
+          "type": "string",
+          "description": "What kind of posts you'd like to search for. Defaults to platform’s default if not specified.",
+          "editor": "select",
+          "default": "top",
+          "enum": [
+            "top",
+            "latest"
+          ],
+          "enumTitles": [
+            "Most popular",
+            "Latest"
+          ]
+        },
+        "location": {
+          "title": "Location",
+          "type": "string",
+          "description": "Limit posts to a given **pinned** location. Enter a location name or a Facebook Location ID. For names, the first result from the Facebook location dropdown is selected. For example, entering 'Alaska' will result in 'Anchorage, Alaska'.",
+          "editor": "textfield",
+          "maxLength": 20
+        },
+        "startDate": {
+          "title": "Start Date",
+          "type": "string",
+          "description": "Get posts starting from given date (YYYY-MM-DD).",
+          "editor": "datepicker",
+          "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$"
+        },
+        "endDate": {
+          "title": "End Date",
+          "type": "string",
+          "description": "Get posts ending on given date (YYYY-MM-DD).",
+          "editor": "datepicker",
+          "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$"
+        }
+      },
+      "required": [
+        "query"
+      ]
+    }
+  },
+  "powerai~facebook-post-search-scraper": {
+    "id": "Ew2lyICEnHMcqRo6T",
+    "pricing": {},
+    "schema": {
+      "type": "object",
+      "schemaVersion": 1,
+      "title": "Facebook Post Search Input",
+      "properties": {
+        "query": {
+          "title": "Search Query",
+          "type": "string",
+          "description": "Keywords to search for Facebook posts.",
+          "minLength": 1,
+          "default": "ai",
+          "editor": "textfield"
+        },
+        "recent_posts": {
+          "title": "Recent Posts Only",
+          "type": "boolean",
+          "description": "Whether to only search for recent posts.",
+          "editor": "checkbox"
+        },
+        "location_uid": {
+          "title": "Location UID",
+          "type": "string",
+          "description": "Location unique identifier for filtering posts.",
+          "editor": "textfield"
+        },
+        "start_date": {
+          "title": "Start Date",
+          "type": "string",
+          "description": "Start date for filtering posts (format: yyyy-mm-dd).",
+          "editor": "textfield",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "end_date": {
+          "title": "End Date",
+          "type": "string",
+          "description": "End date for filtering posts (format: yyyy-mm-dd).",
+          "editor": "textfield",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "maxResults": {
+          "title": "Max Results",
+          "type": "integer",
+          "description": "Maximum number of posts to fetch.",
+          "default": 10,
+          "minimum": 10,
+          "maximum": 5000,
+          "editor": "number"
+        }
+      },
+      "required": [
+        "query"
+      ]
+    }
+  },
+  "scrapeforge~facebook-search-posts": {
+    "id": "F60Kx7YJNOmKmqQm3",
+    "pricing": {},
+    "schema": {
+      "title": "Facebook Search Input",
+      "description": "Search Facebook by keyword across posts, pages, groups, people, videos, and events.",
+      "type": "object",
+      "schemaVersion": 1,
+      "required": [
+        "query"
+      ],
+      "properties": {
+        "query": {
+          "title": "Search Query",
+          "type": "string",
+          "description": "The keyword or phrase to search for on Facebook.",
+          "editor": "textfield",
+          "prefill": "marketing digital"
+        },
+        "search_type": {
+          "title": "Search Type",
+          "type": "string",
+          "description": "What type of Facebook content to search for.",
+          "editor": "select",
+          "default": "posts",
+          "enum": [
+            "posts",
+            "pages",
+            "groups",
+            "people",
+            "videos",
+            "events"
+          ],
+          "enumTitles": [
+            "Posts",
+            "Pages",
+            "Groups",
+            "People",
+            "Videos",
+            "Events"
+          ]
+        },
+        "max_results": {
+          "title": "Max Results",
+          "type": "integer",
+          "description": "Maximum number of unique results to return. The actor automatically deduplicates results. 5 is a quick sample for testing — for real analysis use 50 to 200. Costs $0.0026 per result. Free Apify plans are capped at 20 results.",
+          "editor": "number",
+          "default": 5,
+          "minimum": 1,
+          "maximum": 1000
+        },
+        "start_date": {
+          "title": "Start Date",
+          "type": "string",
+          "description": "Filter results from this date (format: YYYY-MM-DD). Leave empty for no date filter.",
+          "editor": "datepicker",
+          "nullable": true
+        },
+        "end_date": {
+          "title": "End Date",
+          "type": "string",
+          "description": "Filter results until this date (format: YYYY-MM-DD). Leave empty for no date filter.",
+          "editor": "datepicker",
+          "nullable": true
+        },
+        "recent_posts": {
+          "title": "Recent Posts First",
+          "type": "boolean",
+          "description": "Sort results by most recent instead of relevance. May return less relevant results.",
+          "default": false
+        },
+        "location_uid": {
+          "title": "Location UID",
+          "type": "string",
+          "description": "Facebook location UID to filter results by geographic area. Leave empty for global search.",
+          "editor": "textfield",
+          "nullable": true
+        }
+      }
+    }
+  },
+  "apify~facebook-search-scraper": {
+    "id": "Us34x9p7VgjCz99H6",
+    "pricing": {},
+    "schema": {
+      "title": "Input schema for the apify_project actor.",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "categories": {
+          "title": "🔍 Search terms",
+          "description": "Add one or multiple keywords. You can add the keywords one by one, or use the <b>Bulk edit</b> section to pull them from a prepared list.",
+          "default": [],
+          "prefill": [
+            "Pub"
+          ],
+          "example": [
+            "Pub"
+          ],
+          "type": "array",
+          "editor": "stringList",
+          "uniqueItems": true
+        },
+        "locations": {
+          "title": "📍 Location (applied to each search term)",
+          "description": "Free text location definition. Just add a name of a country, city or province.",
+          "default": [],
+          "type": "array",
+          "editor": "stringList",
+          "uniqueItems": true
+        },
+        "resultsLimit": {
+          "title": "💯 Up to [number] of search results",
+          "type": "integer",
+          "description": "Set the number of results you expect for the entire run (if this limit is not set, as many results as possible are returned).",
+          "editor": "number",
+          "prefill": 20,
+          "minimum": 1
+        }
+      },
+      "required": [
+        "categories"
+      ]
+    }
+  },
+  "danek~facebook-search-rental": {
+    "id": "xSewLChDcAk1hNhga",
+    "pricing": {},
+    "schema": {
+      "title": "Scrape data from a web page",
+      "type": "object",
+      "schemaVersion": 1,
+      "properties": {
+        "query": {
+          "title": "search query",
+          "type": "string",
+          "description": "Facebook urls. Can be page or profile",
+          "editor": "textfield",
+          "prefill": "Mausritter"
+        },
+        "search_type": {
+          "title": "Search type",
+          "type": "string",
+          "description": "Which types of results search for",
+          "editor": "select",
+          "prefill": "posts",
+          "enum": [
+            "pages",
+            "places",
+            "posts"
+          ],
+          "enumTitles": [
+            "pages",
+            "places",
+            "posts"
+          ]
+        },
+        "recent_posts": {
+          "title": "Start with recent posts",
+          "type": "boolean",
+          "description": "Works like 'recent posts' toggle in search ui",
+          "editor": "checkbox",
+          "default": true
+        },
+        "max_posts": {
+          "title": "max results",
+          "type": "integer",
+          "description": "Max results to scrape",
+          "editor": "number",
+          "prefill": 10
+        },
+        "max_retries": {
+          "title": "max retries",
+          "type": "integer",
+          "description": "Number of retries per request",
+          "editor": "number",
+          "prefill": 5
+        },
+        "proxy": {
+          "title": "Proxy configuration",
+          "type": "object",
+          "description": "Select proxies to be used.",
+          "prefill": {
+            "useApifyProxy": false
+          },
+          "editor": "proxy"
+        }
+      },
+      "required": [
+        "query",
+        "search_type",
+        "max_posts",
+        "max_retries"
+      ]
+    }
+  }
+}

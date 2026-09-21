@@ -1,0 +1,178 @@
+{
+  "task": "TASK 1 - existing Apify configuration inspection",
+  "inspected_at": "2026-09-21T10:56:25.187310+00:00",
+  "credentials": {
+    "location": "linkedin/.env (existing repo credential, unchanged, never copied into source)",
+    "APIFY_TOKEN": {
+      "account": "rapturous_juncus",
+      "plan": "FREE",
+      "remaining_usd_at_inspection": 0.473,
+      "cycle_ends": "2026-10-13",
+      "note": "used by the existing Reddit work; nearly at its $5 cap"
+    },
+    "APIFY_TOKEN1": {
+      "account": "bewildered_temperature_xvn",
+      "plan": "FREE",
+      "remaining_usd_at_inspection": 4.705,
+      "cycle_ends": "2026-10-20",
+      "note": "selected for the Facebook work on the user's instruction (budget headroom)"
+    }
+  },
+  "existing_facebook_runs_found_on_account": [
+    {
+      "run_id": "lwd1sFYEcsEnAx10X",
+      "actor": "apify/facebook-groups-scraper",
+      "input": {
+        "startUrls": [
+          {
+            "url": "https://www.facebook.com/groups/290657479460430"
+          }
+        ],
+        "resultsLimit": 10,
+        "viewOption": "CHRONOLOGICAL"
+      },
+      "result": "10 REAL POSTS with text, author, timestamp, likesCount, commentsCount, sharesCount",
+      "significance": "post retrieval from a KNOWN group URL already worked before this investigation"
+    },
+    {
+      "run_id": "1RKFVu7v0UleuM3vI",
+      "actor": "apify/facebook-groups-scraper",
+      "input": {
+        "searchGroupKeyword": "prior authoization  and billing",
+        "startUrls": [
+          {
+            "url": "https://www.facebook.com/groups"
+          }
+        ],
+        "resultsLimit": 10
+      },
+      "result": "1 record: error=no_items, 'Empty or private data for provided input'",
+      "significance": "keyword-based GROUP DISCOVERY via this actor returned nothing"
+    },
+    {
+      "run_id": "K5H4Y7vDSsIawWyUf",
+      "actor": "parseforge/facebook-search-scraper",
+      "input": {
+        "queries": [
+          "medical billing"
+        ],
+        "searchType": "posts",
+        "maxItems": 10
+      },
+      "result": "10 records, all GROUP/PAGE profiles, 9 carrying error 'Facebook returned no page data for this URL (not billed)'",
+      "significance": "THIS IS THE RUN THE USER DESCRIBED. Root cause identified below."
+    },
+    {
+      "run_id": "0nHJo0vgYtcwbYues",
+      "actor": "parseforge/facebook-search-scraper",
+      "input": {
+        "queries": [
+          "medical billing",
+          "claim denial",
+          "prior authorization",
+          "insurance denial",
+          "revenue cycle management",
+          "medical reimbursement"
+        ],
+        "searchType": "posts",
+        "maxItems": 10
+      },
+      "result": "10 records, same shape, same errors"
+    },
+    {
+      "run_id": "dZMbaoJePLiwIYZ0k",
+      "actor": "apify/facebook-search-scraper",
+      "input": {
+        "categories": [
+          "prior authorization billing"
+        ],
+        "resultsLimit": 20
+      },
+      "result": "6 business/place listings - this actor is a PLACES/BUSINESS directory scraper, not a post search"
+    },
+    {
+      "run_id": "xVCAAig117CFu1uwI",
+      "actor": "danek/facebook-search-ppr",
+      "result": "0 items"
+    }
+  ],
+  "root_cause_of_the_reported_problem": {
+    "actor_used": "parseforge/facebook-search-scraper",
+    "finding": "Its searchType='posts' does NOT return posts. The output schema is a PAGE-PROFILE schema (about, address, categories, followers, likes, founded, hours, email). The actor resolves the query to group/page URLs and then tries to fetch page metadata for each. Facebook groups are not pages, so the metadata fetch fails and the actor emits 'Facebook returned no page data for this URL (not billed)'. The records the user saw were therefore search HITS with failed enrichment, not posts. Wrong actor for the job, not a wrong parameter value."
+  },
+  "parameter_question_answered": {
+    "question": "does the actor expect 'type', 'searchType', or something else?",
+    "answer": "It depends entirely on the actor. There is no single convention. Verified from each actor's live input schema (latest build), not guessed:",
+    "per_actor": {
+      "parseforge/facebook-search-scraper": {
+        "query_param": "queries (array)",
+        "type_param": "searchType",
+        "limit_param": "maxItems",
+        "verdict": "returns page-profile records, NOT posts"
+      },
+      "danek/facebook-search-ppr (titled 'Facebook Search Scraper')": {
+        "query_param": "query",
+        "type_param": "search_type",
+        "limit_param": "max_posts",
+        "enum": [
+          "pages",
+          "places",
+          "posts",
+          "global"
+        ],
+        "verdict": "BLOCKED - run log says 'This actor is for paid users only'; exits with 0 results on a FREE plan",
+        "evidence_run": "pHTRz045M0h5ldS8J"
+      },
+      "apify/facebook-search-scraper": {
+        "query_param": "categories (array)",
+        "type_param": null,
+        "limit_param": "resultsLimit",
+        "verdict": "places/business directory search, not post search"
+      },
+      "scrapeforge/facebook-search-posts": {
+        "query_param": "query",
+        "type_param": "search_type",
+        "limit_param": "max_results",
+        "enum": [
+          "posts",
+          "pages",
+          "groups",
+          "people",
+          "videos",
+          "events"
+        ],
+        "extra_params": [
+          "start_date",
+          "end_date",
+          "recent_posts",
+          "location_uid"
+        ],
+        "verdict": "SELECTED - runs on FREE plan, returns real posts, and its enum covers posts+groups+pages"
+      },
+      "apify/facebook-groups-scraper": {
+        "query_param": "startUrls / searchGroupKeyword",
+        "limit_param": "resultsLimit",
+        "verdict": "confirmed working for post retrieval from a known public group URL"
+      },
+      "apify/facebook-posts-scraper": {
+        "query_param": "startUrls",
+        "limit_param": "resultsLimit"
+      },
+      "apify/facebook-comments-scraper": {
+        "query_param": "startUrls",
+        "limit_param": "resultsLimit"
+      }
+    }
+  },
+  "actor_selected_for_discovery": {
+    "name": "scrapeforge/facebook-search-posts",
+    "id": "F60Kx7YJNOmKmqQm3",
+    "pricing": {
+      "per_result_usd": 0.00259,
+      "actor_start_usd": 5e-05,
+      "model": "PAY_PER_EVENT"
+    },
+    "reason": "Only candidate that (a) runs on the FREE plan, (b) returns actual post objects, and (c) exposes posts|groups|pages in one search_type enum, so Tasks 3, 4 and 5 use one mechanism instead of three."
+  },
+  "reuse_note": "Plumbing follows the existing Reddit pattern in problem-intelligence/reddit/fetch_reddit_60.py: token read from linkedin/.env, POST /v2/acts/{id}/runs, poll, then read the default dataset. No new architecture. Added on top: a maxItems + maxTotalChargeUsd billing cap on every run and a check_budget() guard, because both accounts are FREE-tier with a $5 ceiling."
+}

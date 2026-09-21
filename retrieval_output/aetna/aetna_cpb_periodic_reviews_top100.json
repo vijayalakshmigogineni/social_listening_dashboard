@@ -1,0 +1,1014 @@
+{
+  "retrieval_timestamp_utc": "2026-09-17T12:22:32.895801Z",
+  "source_url": "https://www.aetna.com/content/dam/aetna/xml/aetnacom/health-care-professionals/mcpb-review.xml/jcr:content/renditions/original",
+  "http_status": 200,
+  "note": "Aetna scheduled/anticipated PERIODIC REVIEW data (upcoming review due-dates per CPB), not a change/revision log. Kept separate from the primary mcpb-changes.xml activities feed because it does not carry a status (New/Revised/Updated/Deleted).",
+  "total_records_in_feed": 939,
+  "total_records_with_parseable_date": 939,
+  "date_range_full_feed": {
+    "min": "2026-01-08",
+    "max": "2026-12-10"
+  },
+  "records_top_100_by_date": [
+    {
+      "row_index": "920",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0022 - Calcitriol, Etelcalcetide, and Paricalcitol Injections",
+      "cpb_number": "0022",
+      "cpb_name": "Calcitriol, Etelcalcetide, and Paricalcitol Injections",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "921",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0131 - Clotting Factors",
+      "cpb_number": "0131",
+      "cpb_name": "Clotting Factors",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "922",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0234 - Chelation Therapy",
+      "cpb_number": "0234",
+      "cpb_name": "Chelation Therapy",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "923",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0524 - Zoledronic Acid",
+      "cpb_number": "0524",
+      "cpb_name": "Zoledronic Acid",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "924",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0575 - Intravenous Iron Therapy",
+      "cpb_number": "0575",
+      "cpb_name": "Intravenous Iron Therapy",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "925",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0675 - Bortezomib Products",
+      "cpb_number": "0675",
+      "cpb_name": "Bortezomib Products",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "926",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0779 - Plerixafor",
+      "cpb_number": "0779",
+      "cpb_name": "Plerixafor",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "927",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0792 - Human Fibrinogen Concentrate (RiaSTAP and Fibryga)",
+      "cpb_number": "0792",
+      "cpb_name": "Human Fibrinogen Concentrate (RiaSTAP and Fibryga)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "928",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0804 - Denosumab",
+      "cpb_number": "0804",
+      "cpb_name": "Denosumab",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "929",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0845 - Carfilzomib (Kyprolis)",
+      "cpb_number": "0845",
+      "cpb_name": "Carfilzomib (Kyprolis)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "930",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0899 - Elotuzumab (Empliciti)",
+      "cpb_number": "0899",
+      "cpb_name": "Elotuzumab (Empliciti)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "931",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0904 - Daratumumab (Darzalex) and Daratumumab and Hyaluronidase-fihj (Darzalex Faspro)",
+      "cpb_number": "0904",
+      "cpb_name": "Daratumumab (Darzalex) and Daratumumab and Hyaluronidase-fihj (Darzalex Faspro)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "932",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0950 - Esketamine (Spravato)",
+      "cpb_number": "0950",
+      "cpb_name": "Esketamine (Spravato)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "933",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0951 - Brexanolone (Zulresso)",
+      "cpb_number": "0951",
+      "cpb_name": "Brexanolone (Zulresso)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "934",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0954 - Romosozumab-aqqg (Evenity)",
+      "cpb_number": "0954",
+      "cpb_name": "Romosozumab-aqqg (Evenity)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "935",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0969 - Isatuximab-irfc (Sarclisa)",
+      "cpb_number": "0969",
+      "cpb_name": "Isatuximab-irfc (Sarclisa)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "936",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0976 - Plasminogen, Human-tvmh (Ryplazim)",
+      "cpb_number": "0976",
+      "cpb_name": "Plasminogen, Human-tvmh (Ryplazim)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "937",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "0983 - Lumasiran (Oxlumo)",
+      "cpb_number": "0983",
+      "cpb_name": "Lumasiran (Oxlumo)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "938",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "1046 - Motixafortide (Aphexda)",
+      "cpb_number": "1046",
+      "cpb_name": "Motixafortide (Aphexda)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "939",
+      "date_raw": "12/10/2026",
+      "date_iso": "2026-12-10",
+      "month": "12-December",
+      "cpb_raw": "1047 - Nedosiran (Rivfloza)",
+      "cpb_number": "1047",
+      "cpb_name": "Nedosiran (Rivfloza)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "908",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "0156 - Indications, Dosages and Administration of FDA-Approved Drugs",
+      "cpb_number": "0156",
+      "cpb_name": "Indications, Dosages and Administration of FDA-Approved Drugs",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "909",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "0195 - Erythropoiesis Stimulating Agents",
+      "cpb_number": "0195",
+      "cpb_name": "Erythropoiesis Stimulating Agents",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "910",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "0313 - Trastuzumab Products",
+      "cpb_number": "0313",
+      "cpb_name": "Trastuzumab Products",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "911",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "0966 - Fam-trastuzumab Deruxtecan-nxki (Enhertu)",
+      "cpb_number": "0966",
+      "cpb_name": "Fam-trastuzumab Deruxtecan-nxki (Enhertu)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "912",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "0974 - Ado-trastuzumab Emtansine (Kadcyla)",
+      "cpb_number": "0974",
+      "cpb_name": "Ado-trastuzumab Emtansine (Kadcyla)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "913",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "0993 - Dostarlimab-gxly (Jemperli)",
+      "cpb_number": "0993",
+      "cpb_name": "Dostarlimab-gxly (Jemperli)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "914",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "1021 - Mirvetuximab Soravtansine-gynx (Elahere)",
+      "cpb_number": "1021",
+      "cpb_name": "Mirvetuximab Soravtansine-gynx (Elahere)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "915",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "1028 - Difelikefalin (Korsuva) Injection",
+      "cpb_number": "1028",
+      "cpb_name": "Difelikefalin (Korsuva) Injection",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "916",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "1044 - Daprodustat (Jesduvroq)",
+      "cpb_number": "1044",
+      "cpb_name": "Daprodustat (Jesduvroq)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "917",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "1051 - Cantharidin (Ycanth)",
+      "cpb_number": "1051",
+      "cpb_name": "Cantharidin (Ycanth)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "918",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "1055 - Allogeneic Processed Thymus Tissue-agdc (Rethymic)",
+      "cpb_number": "1055",
+      "cpb_name": "Allogeneic Processed Thymus Tissue-agdc (Rethymic)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "919",
+      "date_raw": "11/12/2026",
+      "date_iso": "2026-11-12",
+      "month": "11-November",
+      "cpb_raw": "1087 - Anacaulase-bcdb (Nexobrid)",
+      "cpb_number": "1087",
+      "cpb_name": "Anacaulase-bcdb (Nexobrid)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "876",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0113 - Botulinum Toxin",
+      "cpb_number": "0113",
+      "cpb_name": "Botulinum Toxin",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "877",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0307 - Parkinson's Disease",
+      "cpb_number": "0307",
+      "cpb_name": "Parkinson's Disease",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "878",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0314 - Rituximab",
+      "cpb_number": "0314",
+      "cpb_name": "Rituximab",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "879",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0315 - Etanercept",
+      "cpb_number": "0315",
+      "cpb_name": "Etanercept",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "880",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0341 - Infliximab",
+      "cpb_number": "0341",
+      "cpb_name": "Infliximab",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "881",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0361 - Strontium Chloride Sr-89",
+      "cpb_number": "0361",
+      "cpb_name": "Strontium Chloride Sr-89",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "882",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0404 - Interferons",
+      "cpb_number": "0404",
+      "cpb_name": "Interferons",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "883",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0655 - Adalimumab",
+      "cpb_number": "0655",
+      "cpb_name": "Adalimumab",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "884",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0751 - Natalizumab",
+      "cpb_number": "0751",
+      "cpb_name": "Natalizumab",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "885",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0761 - Certolizumab Pegol (Cimzia)",
+      "cpb_number": "0761",
+      "cpb_name": "Certolizumab Pegol (Cimzia)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "886",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0851 - Palifermin (Kepivance)",
+      "cpb_number": "0851",
+      "cpb_name": "Palifermin (Kepivance)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "887",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0895 - Dinutuximab (Unituxin)",
+      "cpb_number": "0895",
+      "cpb_name": "Dinutuximab (Unituxin)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "888",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0901 - Asfotase alfa (Strensiq)",
+      "cpb_number": "0901",
+      "cpb_name": "Asfotase alfa (Strensiq)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "889",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0903 - Trabectedin (Yondelis)",
+      "cpb_number": "0903",
+      "cpb_name": "Trabectedin (Yondelis)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "890",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0932 - Burosumab-twza (Crysvita)",
+      "cpb_number": "0932",
+      "cpb_name": "Burosumab-twza (Crysvita)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "891",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0961 - Givosiran (Givlaari)",
+      "cpb_number": "0961",
+      "cpb_name": "Givosiran (Givlaari)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "892",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0982 - Remdesivir (Veklury)",
+      "cpb_number": "0982",
+      "cpb_name": "Remdesivir (Veklury)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "893",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0984 - Naxitamab-gqgk (Danyelza)",
+      "cpb_number": "0984",
+      "cpb_name": "Naxitamab-gqgk (Danyelza)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "894",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "0998 - Tisotumab Vedotin-tftv (Tivdak)",
+      "cpb_number": "0998",
+      "cpb_name": "Tisotumab Vedotin-tftv (Tivdak)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "895",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1008 - Infectious Diseases: Selected Tests",
+      "cpb_number": "1008",
+      "cpb_name": "Infectious Diseases: Selected Tests",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "896",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1010 - Dengue Vaccine",
+      "cpb_number": "1010",
+      "cpb_name": "Dengue Vaccine",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "897",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1039 - Venous Stenting for the Treatment of Idiopathic Intracranial Hypertension",
+      "cpb_number": "1039",
+      "cpb_name": "Venous Stenting for the Treatment of Idiopathic Intracranial Hypertension",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "898",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1045 - Osseointegration for Lower and Upper Limbs",
+      "cpb_number": "1045",
+      "cpb_name": "Osseointegration for Lower and Upper Limbs",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "899",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1054 - Wound Care: Home or Outpatient Setting",
+      "cpb_number": "1054",
+      "cpb_name": "Wound Care: Home or Outpatient Setting",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "900",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1065 - Intracameral Implants",
+      "cpb_number": "1065",
+      "cpb_name": "Intracameral Implants",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "901",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1067 - Toxicology: Per- and Polyfluoroalkyl Substances (PFAS) Testing",
+      "cpb_number": "1067",
+      "cpb_name": "Toxicology: Per- and Polyfluoroalkyl Substances (PFAS) Testing",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "902",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1068 - Afamitresgene Autoleucel (Tecelra)",
+      "cpb_number": "1068",
+      "cpb_name": "Afamitresgene Autoleucel (Tecelra)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "903",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1090 - Zopapogene Imadenovec-drba (Papzimeos)",
+      "cpb_number": "1090",
+      "cpb_name": "Zopapogene Imadenovec-drba (Papzimeos)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "904",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1091 - Therapeutic Drug Monitoring of Anti-Tumor Necrosis Factor Blocking Agents",
+      "cpb_number": "1091",
+      "cpb_name": "Therapeutic Drug Monitoring of Anti-Tumor Necrosis Factor Blocking Agents",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "905",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1092 - Median Arcuate Ligament Syndrome: Treatment",
+      "cpb_number": "1092",
+      "cpb_name": "Median Arcuate Ligament Syndrome: Treatment",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "906",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1093 - Remote Physiologic Monitoring (RPM)",
+      "cpb_number": "1093",
+      "cpb_name": "Remote Physiologic Monitoring (RPM)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "907",
+      "date_raw": "10/22/2026",
+      "date_iso": "2026-10-22",
+      "month": "10-October",
+      "cpb_raw": "1094 - Knee Braces",
+      "cpb_number": "1094",
+      "cpb_name": "Knee Braces",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "836",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0847 - Renal Sympathetic Nerve Ablation",
+      "cpb_number": "0847",
+      "cpb_name": "Renal Sympathetic Nerve Ablation",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "837",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0850 - Brachial Plexus Surgery",
+      "cpb_number": "0850",
+      "cpb_name": "Brachial Plexus Surgery",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "838",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0852 - Neurogenic Bladder: Selected Treatments",
+      "cpb_number": "0852",
+      "cpb_name": "Neurogenic Bladder: Selected Treatments",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "839",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0853 - Wrist Arthroplasty",
+      "cpb_number": "0853",
+      "cpb_name": "Wrist Arthroplasty",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "840",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0854 – Electroretinography",
+      "cpb_number": null,
+      "cpb_name": "0854 – Electroretinography",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "841",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0856 - Embolization: Selected Procedures",
+      "cpb_number": "0856",
+      "cpb_name": "Embolization: Selected Procedures",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "842",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0857 - Elbow Arthroplasty",
+      "cpb_number": "0857",
+      "cpb_name": "Elbow Arthroplasty",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "843",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0858 - Organ Prolapse: Selected Procedures",
+      "cpb_number": "0858",
+      "cpb_name": "Organ Prolapse: Selected Procedures",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "844",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0859 - Winged Scapula",
+      "cpb_number": "0859",
+      "cpb_name": "Winged Scapula",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "845",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0860 - Critical Flicker Fusion",
+      "cpb_number": "0860",
+      "cpb_name": "Critical Flicker Fusion",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "846",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0862 - Myopathy: Selected Tests",
+      "cpb_number": "0862",
+      "cpb_name": "Myopathy: Selected Tests",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "847",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0863 - Nerve Blocks",
+      "cpb_number": "0863",
+      "cpb_name": "Nerve Blocks",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "848",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0866 - Rheumatic Diseases: Selected Tests",
+      "cpb_number": "0866",
+      "cpb_name": "Rheumatic Diseases: Selected Tests",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "849",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0867 - Clofarabine",
+      "cpb_number": "0867",
+      "cpb_name": "Clofarabine",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "850",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0870 - Automated Audiometry",
+      "cpb_number": "0870",
+      "cpb_name": "Automated Audiometry",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "851",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0871 - Hematopoietic Cell Transplantation for Inherited Metabolic Disorders and Genetic Diseases",
+      "cpb_number": "0871",
+      "cpb_name": "Hematopoietic Cell Transplantation for Inherited Metabolic Disorders and Genetic Diseases",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "852",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0878 - Naltrexone Implants",
+      "cpb_number": "0878",
+      "cpb_name": "Naltrexone Implants",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "853",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0879 - Quantitative Pupillometry/Pupillography",
+      "cpb_number": "0879",
+      "cpb_name": "Quantitative Pupillometry/Pupillography",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "854",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0880 - Percutaneous Mitral Valve and Tricuspid Valve Repair",
+      "cpb_number": "0880",
+      "cpb_name": "Percutaneous Mitral Valve and Tricuspid Valve Repair",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "855",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0886 - Optical Coherence Tomography and Microelastography for Solid Tumors and Other Selected Indications",
+      "cpb_number": "0886",
+      "cpb_name": "Optical Coherence Tomography and Microelastography for Solid Tumors and Other Selected Indications",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "856",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0888 - Orthopedic Implant Movement Analysis",
+      "cpb_number": "0888",
+      "cpb_name": "Orthopedic Implant Movement Analysis",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "857",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0893 - Leadless Cardiac Pacemaker",
+      "cpb_number": "0893",
+      "cpb_name": "Leadless Cardiac Pacemaker",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "858",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0896 - Chemical Aversive Conditioning for Alcoholism",
+      "cpb_number": "0896",
+      "cpb_name": "Chemical Aversive Conditioning for Alcoholism",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "859",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0906 - Ostomy Supplies",
+      "cpb_number": "0906",
+      "cpb_name": "Ostomy Supplies",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "860",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0910 - Extended-Release Buprenorphine Injectables",
+      "cpb_number": "0910",
+      "cpb_name": "Extended-Release Buprenorphine Injectables",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "861",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0914 - Bezlotoxumab (Zinplava)",
+      "cpb_number": "0914",
+      "cpb_name": "Bezlotoxumab (Zinplava)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "862",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0926 - Transperineal Placement of Biodegradable Material for Prostate Cancer",
+      "cpb_number": "0926",
+      "cpb_name": "Transperineal Placement of Biodegradable Material for Prostate Cancer",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "863",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0928 - Optical Coherence Tomography of the Head and Neck",
+      "cpb_number": "0928",
+      "cpb_name": "Optical Coherence Tomography of the Head and Neck",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "864",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0930 - Cardiac Contractility Modulation (CCM) Therapy",
+      "cpb_number": "0930",
+      "cpb_name": "Cardiac Contractility Modulation (CCM) Therapy",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "865",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0931 - Chiari Malformation Decompression Surgery",
+      "cpb_number": "0931",
+      "cpb_name": "Chiari Malformation Decompression Surgery",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "866",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0934 - Epidural Injection Technologies",
+      "cpb_number": "0934",
+      "cpb_name": "Epidural Injection Technologies",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "867",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0935 - Mometasone Furoate Sinus Implant (Sinuva)",
+      "cpb_number": "0935",
+      "cpb_name": "Mometasone Furoate Sinus Implant (Sinuva)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "868",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0936 - Ibalizumab-uiyk (Trogarzo)",
+      "cpb_number": "0936",
+      "cpb_name": "Ibalizumab-uiyk (Trogarzo)",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "869",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0937 - Sinus Surgeries",
+      "cpb_number": "0937",
+      "cpb_name": "Sinus Surgeries",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "870",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0938 - Ketamine for the Treatment of Depression and Other Selected Indications",
+      "cpb_number": "0938",
+      "cpb_name": "Ketamine for the Treatment of Depression and Other Selected Indications",
+      "source_feed": "mcpb-review.xml"
+    },
+    {
+      "row_index": "871",
+      "date_raw": "10/08/2026",
+      "date_iso": "2026-10-08",
+      "month": "10-October",
+      "cpb_raw": "0941 - Bupivacaine Liposome (Exparel)",
+      "cpb_number": "0941",
+      "cpb_name": "Bupivacaine Liposome (Exparel)",
+      "source_feed": "mcpb-review.xml"
+    }
+  ]
+}

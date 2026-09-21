@@ -1,0 +1,53 @@
+{
+  "scripts_used": [
+    "test_cigna_monthly_update.py (extended)",
+    "test_cigna.py (used only to discover the real latestUpdatesListing.html index of monthly PDFs; not used for records)"
+  ],
+  "scripts_read_but_not_used_for_final_data": [
+    "test_cigna_evicore_msk.py (static eviCore MSK guideline reference PDF - no per-item dates, not an 'activity' feed)",
+    "test_cigna_policy_detail.py (per-policy Revision Details history for 4 named policies - real dated revisions, kept as a separate supplementary source, not merged into this file to avoid double-counting policies also present in the monthly update)"
+  ],
+  "endpoints": {
+    "primary_data_source": "https://static.cigna.com/assets/chcp/pdf/coveragePolicies/policy_updates/september_2026_policy_updates.pdf",
+    "index_page_used_to_verify_url_authenticity": "https://static.cigna.com/assets/chcp/resourceLibrary/coveragePolicies/latestUpdatesListing.html"
+  },
+  "retrieval_timestamp_utc": "2026-09-17T12:36:08Z",
+  "http_status": 200,
+  "pdf_pages": 36,
+  "pdf_extracted_characters": 65443,
+  "total_records_found_in_source_document": 169,
+  "total_records_saved_in_this_file": 100,
+  "selection_rule": "all valid parsed entries from the September 2026 Cigna Policy Updates PDF, sorted by effective_date descending, ties broken by policy_code descending, top 100 retained",
+  "fields_available": [
+    "section",
+    "policy_name",
+    "policy_code",
+    "status",
+    "posted_date",
+    "posted_date_raw",
+    "effective_date",
+    "effective_date_raw",
+    "date_source",
+    "comment_summary",
+    "source_document",
+    "source_url",
+    "record_id"
+  ],
+  "date_range_of_saved_100": {
+    "oldest_effective_date": "2026-09-15",
+    "newest_effective_date": "2026-12-15"
+  },
+  "date_range_of_all_parsed_records": {
+    "oldest": "2026-09-01",
+    "newest": "2026-12-15"
+  },
+  "limitations": [
+    "Data covers only the single most-recently-published monthly bulletin (September 2026); it is NOT a rolling 'latest 100 across all time' feed. The real site publishes 45 monthly PDFs (Jan 2023-Sep 2026, confirmed live at latestUpdatesListing.html) that could be parsed with the same method for a longer time series if needed later.",
+    "This September 2026 bulletin alone already contained 169 valid, distinctly-parsed real activity entries (more than the 100 requested), so no other month was fetched for this deliverable.",
+    "31 of the 169 parsed entries had no explicit per-item date in their own comment text; for those, the document's own stated default ('Effective September 15, 2026, unless otherwise noted') was applied and is flagged via date_source='document_default_unless_noted'. This is verbatim text from the source document, not an estimate.",
+    "The PDF's table structure is flattened to plain text by pypdf with no column delimiters, so policy_name/comment boundaries were recovered heuristically (regex anchored on the New/Updated/Retired status token, scanning backward for a title-shaped phrase). Roughly 92/100 saved records have a clean parenthetical policy code; a handful of names may still include a stray trailing word or an internal duplicate title (e.g. two similarly-named consecutive drug policies) due to this heuristic - no numeric/date fields were fabricated to compensate.",
+    "comment_summary is truncated to 400 characters (marked with '...' when cut) and is a verbatim excerpt of the source PDF text, not a rewritten summary.",
+    "test_cigna_evicore_msk.py and test_cigna_policy_detail.py were run successfully against real, live Cigna URLs but excluded from this dataset because they are not 'latest activity' feeds (static guideline PDF; per-policy long-run revision history for only 4 named policies) - see report for their standalone real output.",
+    "No authentication or paywall was encountered on any of the 4 scripts' targets; all URLs are public static.cigna.com assets."
+  ]
+}

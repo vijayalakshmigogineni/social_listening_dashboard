@@ -1,0 +1,420 @@
+{
+  "step": "1 - discovery (posts)",
+  "produced_at": "2026-09-21T12:27:15.719029+00:00",
+  "search_queries": [
+    "medical claim denial",
+    "insurance denial",
+    "prior authorization",
+    "denied claim",
+    "reimbursement problem",
+    "medical billing problem",
+    "revenue cycle management",
+    "payer denial",
+    "insurance verification",
+    "delayed payment"
+  ],
+  "requested": {
+    "max_results_per_query": 2,
+    "run_item_cap": 12,
+    "target_records": 10
+  },
+  "returned": {
+    "raw_from_actor": 10,
+    "dropped_non_content": 0,
+    "duplicates_removed": 1,
+    "kept": 9
+  },
+  "id_key_used_counts": {
+    "postId": 10
+  },
+  "duplicates": [
+    {
+      "duplicate_key": "postId=1038480118950379",
+      "first_index": 2
+    }
+  ],
+  "dropped_records": [],
+  "run": {
+    "actor_slug": "scrapesmith/facebook-search-scraper",
+    "actor_id": "2BZSEQfgrOqtoCTib",
+    "run_id": "PioaGZZlLAfbMdi7V",
+    "status": "SUCCEEDED",
+    "started_at": "2026-09-21T12:26:53.776Z",
+    "finished_at": "2026-09-21T12:27:09.059Z",
+    "dataset_id": "lMq6ioUHKggqJ1BOe",
+    "usage_total_usd": 0.01,
+    "http_status": null,
+    "error_body": null,
+    "run_input": {
+      "queries": [
+        "medical claim denial",
+        "insurance denial",
+        "prior authorization",
+        "denied claim",
+        "reimbursement problem",
+        "medical billing problem",
+        "revenue cycle management",
+        "payer denial",
+        "insurance verification",
+        "delayed payment"
+      ],
+      "searchType": "posts",
+      "maxResultsPerQuery": 2
+    }
+  },
+  "actor_log_tail": "2026-09-21T12:26:53.956Z ACTOR: Pulling container image of build e0MMd1An5Mru8OMUQ from registry.\n2026-09-21T12:26:53.960Z ACTOR: Creating container.\n2026-09-21T12:26:54.047Z ACTOR: Starting container.\n2026-09-21T12:26:54.048Z ACTOR: Running under \"LIMITED_PERMISSIONS\".\n2026-09-21T12:26:56.579Z 2026-09-21 12:26:56,578 - WARNING - Actor is running on the Apify platform, `disable_browser_sandbox` was changed to True.\n2026-09-21T12:26:56.585Z [apify] INFO  Initializing Actor ({\"apify_sdk_version\": \"4.0.2\", \"apify_client_version\": \"3.2.0\", \"crawlee_version\": \"1.10.0\", \"python_version\": \"3.12.13\", \"os\": \"linux\", \"is_running_in_ipython\": false})\n2026-09-21T12:26:56.612Z [apify] INFO  ✓ Actor initialized\n2026-09-21T12:26:56.614Z [apify] INFO  🆓 Free plan — 10 results limit\n2026-09-21T12:26:56.968Z [apify] INFO  📡 Monitor: 3 FB sessions (3 with proxy pool)\n2026-09-21T12:27:00.377Z [apify] INFO  📦 Session: 5\n2026-09-21T12:27:02.275Z [apify] INFO  ✅ 'medical claim denial': ~5 results\n2026-09-21T12:27:04.001Z [apify] INFO  ✅ 'insurance denial': ~5 results\n2026-09-21T12:27:04.163Z [apify] INFO  📤 10 results (159/min)\n2026-09-21T12:27:06.354Z [apify] INFO  ✅ 'prior authorization': ~6 results\n2026-09-21T12:27:07.832Z [apify] INFO  ✅ 'denied claim': ~5 results\n2026-09-21T12:27:07.849Z [apify] INFO  ==================================================\n2026-09-21T12:27:07.850Z [apify] INFO  📊 Total: 10 results in 7s\n2026-09-21T12:27:07.850Z [apify] INFO  ⚡ 80/min\n2026-09-21T12:27:07.851Z [apify] INFO  ==================================================\n2026-09-21T12:27:07.947Z [apify] INFO  Exiting Actor ({\"exit_code\": 0})\n",
+  "records": [
+    {
+      "type": "post",
+      "postId": "4595325750699650",
+      "name": "Abihaabbasi Abihaabbasi Abihaabbasi",
+      "authorName": "Abihaabbasi Abihaabbasi Abihaabbasi",
+      "facebookId": "100093245076419",
+      "text": "Assalamualaikum\nI am Zummar Chanazaib Abbasi, a Remote Medical Biller from Rawalpindi.\nSkills: Claim Submission, AR Calling, Denial Management, Data Entry\nAvailable: US Night Shift 9pm-5am PKT\nFresher but fast learner and dedicated. CV attached.\nJazakAllah",
+      "url": "https://www.facebook.com/groups/3805049843060582/permalink/4595325750699650/",
+      "timestamp": 1789113270000,
+      "reactionsCount": 8,
+      "commentsCount": 17,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 7,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100093245076419",
+        "name": "Abihaabbasi Abihaabbasi Abihaabbasi",
+        "url": "https://www.facebook.com/profile.php?id=100093245076419",
+        "profile_picture_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-1/700096649_881906774927484_5437109148459403110_n.jpg?stp=c0.0.1004.1004a_cp0_dst-jpg_tt6&cstp=mx1004x1004&ctp=s50x50&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGeJQxPVZXU7e1TC5Oh8ie8xD0QLo8hKcrEPRAujyEpyokXEEIXqtiMCYKU6NuiQVJXY_akY5rGoDIyDEn0MAtl&_nc_ohc=LMALolKThBwQ7kNvwEs43qC&_nc_oc=Adpt3hudmaa9A3XrWTjP0rnAR8cbuWnkI27M_3wgp_ONDKxpffR-eqiWK6j1jaMuLHg&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQLb0jW-xTwqitlIjrxiA7gPOoD4mdvHgQnrgFsUqdKLaw&oe=6AB710A0",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "38669009166046196",
+      "name": "LowkeyKiwi1099",
+      "authorName": "LowkeyKiwi1099",
+      "facebookId": "1058226426951407",
+      "text": "Help please 🙏 \nI filed a VA claim for my mental health condition and it got denied. The reason they gave was that there was \"no qualifying in-service event\" — no complaints, treatment, or diagnosis in my service records.\n\nHere's the problem: that's flat-out wrong.\n\nI requested my C&P exam DBQs, and when I read them, the C&P examiner had directly documented my in-service mental health treatment — a diagnosis and medications from during my service — right there in the exam. So the VA's own examiner found the exact evidence the rater claimed didn't exist. The denial contradicts their own paperwork.\n\nI've got a current diagnosis confirmed, and now I've got proof the in-service treatment is documented. From what I understand, the piece I'm still missing is a nexus opinion tying the two together — so I've got an appointment lined up with a psych provider to get a nexus letter.\n\nMy questions for anyone who's been through this:\n\nHave any of you dealt with a denial where the C&P examiner's own DBQ contradicted the rater's decision? How'd you attack it? HLR for the error, or Supplemental with a nexus letter?\n\nAny recommendations on getting a strong nexus letter, or providers who know how to write them for the VA?\n\nAnything you wish you'd known before you appealed?\n\nNot looking for anyone to do it for me, just trying to learn from folks who've fought this fight. Appreciate any wisdom. 🇺🇸",
+      "url": "https://www.facebook.com/groups/4425387990835085/permalink/38669009166046196/",
+      "timestamp": 1788902378000,
+      "reactionsCount": 10,
+      "commentsCount": 92,
+      "sharesCount": 1,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 10,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "1058226426951407",
+        "name": "LowkeyKiwi1099",
+        "url": "https://www.facebook.com/groups/4425387990835085/user/1058226426951407/",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.35477-6/553566971_24439269395766954_8056268434669181463_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_eui2=AeGjzIKtuAexmcN7VUKOPY-T7JO-zveUOaXsk77O95Q5pWGBpjT8f_Cq97eXyBm4UdjdD0MyMV6RmOFaswIGwCT6&_nc_ohc=QCq-FN7W4KYQ7kNvwFmH6XV&_nc_oc=AdraxKRz-ctpdifXRI_0qf2VBeaECvpZcGwAHTGW5445siL-S3_uC777PbYOG6ME4mg&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQKlcZYqdFecF2Sq1Me7rAy_OmE5oSUsEWyaSMGtQcHnTg&oe=6AB6E859",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "1038480118950379",
+      "name": "Josh Rincon",
+      "authorName": "Josh Rincon",
+      "facebookId": "100083652004540",
+      "text": "Your doctor spent more than a decade in medical school and training. \n\nThe person reviewing and denying the claim often has a few weeks of insurance-company training.\n\nOne of them decides what treatment you actually need. The other decides whether the insurance company will pay for it. \n\nThat imbalance is baked into the system, and it is one of the reasons so many people feel the American healthcare setup stops making sense the moment a real bill shows up.",
+      "url": "https://www.facebook.com/joshrinconofficial/posts/pfbid032dKg2Yn5MD5gFddHkDCHVma6VvCVmVsgTAvWJN52h1pNJU5vgLVtk4nJVgdE3sH4l",
+      "timestamp": 1788354069000,
+      "reactionsCount": 30907,
+      "commentsCount": 1850,
+      "sharesCount": 10316,
+      "reactions": {
+        "angry": 0,
+        "care": 96,
+        "haha": 3707,
+        "like": 26028,
+        "love": 74,
+        "sad": 648,
+        "wow": 89
+      },
+      "author": {
+        "id": "100083652004540",
+        "name": "Josh Rincon",
+        "url": "https://www.facebook.com/joshrinconofficial",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/359317572_238495422282190_3547286398374047253_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx959x960&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeE3V2Pf_NbGyuNGtTzSHc6X3CzH76vklczcLMfvq-SVzMhsvAGERcXqulfahESdqzgbqUnUL31rp3ecvDrSzq3N&_nc_ohc=Xpo6GihERrwQ7kNvwHxFami&_nc_oc=Adrnf0hy6L-7eoFcuI-AMtOiEEg9yWseKuY344FUV66XsD5MlgrZztyowO72EVmN4A8&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQLRCIY5nUeh8s3DbDlhL7uaUBjekP7ASPcvKAG7iq_crA&oe=6AB6E7BD",
+        "delegate_page_id": null
+      },
+      "image": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.99422-6/790059848_1750060872969050_5351808290675603915_n.png?stp=dst-jpg_tt6&cstp=mx1152x1440&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGlc-7O3bDIkmBH_sYYfUHctOFyANp4Ky-04XIA2ngrL-OcxAlANhxdGoKC06OP3ybiZhZCy8dlQRJCgjopUKpP&_nc_ohc=Jg5V_9qQJ2sQ7kNvwGdJ1lQ&_nc_oc=Adrb_KFbx4_mxdEwJr4FH9pXmwosToRyDAxJU5i0tWYwgC8uadjS1RUCSyG_ajIGCTo&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQI7butBJByEfQrdiZD1luaeKmjMgvz3iZiiA7LYTYKVuw&oe=6AB6FC62",
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [
+        {
+          "type": "photo",
+          "image_file_uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.99422-6/790059848_1750060872969050_5351808290675603915_n.png?stp=dst-jpg_tt6&cstp=mx1152x1440&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGlc-7O3bDIkmBH_sYYfUHctOFyANp4Ky-04XIA2ngrL-OcxAlANhxdGoKC06OP3ybiZhZCy8dlQRJCgjopUKpP&_nc_ohc=Jg5V_9qQJ2sQ7kNvwGdJ1lQ&_nc_oc=Adrb_KFbx4_mxdEwJr4FH9pXmwosToRyDAxJU5i0tWYwgC8uadjS1RUCSyG_ajIGCTo&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQI7butBJByEfQrdiZD1luaeKmjMgvz3iZiiA7LYTYKVuw&oe=6AB6FC62",
+          "url": "",
+          "id": ""
+        }
+      ],
+      "imagesCount": 1,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "2470556703442057",
+      "name": "Abdullah Qureshi",
+      "authorName": "Abdullah Qureshi",
+      "facebookId": "100034862491845",
+      "text": "I recently completed my Medical billing course and looking for internship to gain more practical knowledge.During my medical billing internship, I aim to gain practical experience in healthcare billing processes, including patient registration, insurance verification, medical coding, claim submission, payment posting, and denial management. This internship will help me develop a strong understanding of medical billing procedures, improve my accuracy and attention to detail, and learn how to work with healthcare providers and insurance companies professionally. I look forward to applying my knowledge in a practical environment while developing the skills needed for a successful career in medical billing.",
+      "url": "https://www.facebook.com/groups/usamedicalbillingcodingservices/permalink/2470556703442057/",
+      "timestamp": 1787104439000,
+      "reactionsCount": 1,
+      "commentsCount": 2,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 1,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100034862491845",
+        "name": "Abdullah Qureshi",
+        "url": "https://www.facebook.com/abdullah.qureshi.607675",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/449263207_1189136378925101_7949322411105459664_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx594x590&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFJ1DNl1FSLGBQ56X9eysjz-Ynq4HSynVT5iergdLKdVGwPUjS6jR-RI32ebAwRhaM1pz_7a8119uioqJkqk9Z4&_nc_ohc=mecpa6xP8v0Q7kNvwFyml5B&_nc_oc=AdqXBYKQW6yK6nA8FVoBXvClH6SSw3PSZw67haphaqXkcWOgZhH6zwDgTXqb9WFslHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQJap5dqcF7CPwfUtyrBYYR3_pR02LAElBCbqGMHBiyyTQ&oe=6AB7032A",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "28605702425714108",
+      "name": "Abdullah Qureshi",
+      "authorName": "Abdullah Qureshi",
+      "facebookId": "100034862491845",
+      "text": "I recently completed my Medical billing course and looking for internship to gain more practical knowledge.During my medical billing internship, I aim to gain practical experience in healthcare billing processes, including patient registration, insurance verification, medical coding, claim submission, payment posting, and denial management. This internship will help me develop a strong understanding of medical billing procedures, improve my accuracy and attention to detail, and learn how to work with healthcare providers and insurance companies professionally. I look forward to applying my knowledge in a practical environment while developing the skills needed for a successful career in medical billing.",
+      "url": "https://www.facebook.com/groups/431822400195488/permalink/28605702425714108/",
+      "timestamp": 1787103707000,
+      "reactionsCount": 0,
+      "commentsCount": 0,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 0,
+        "like": 0,
+        "love": 0,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100034862491845",
+        "name": "Abdullah Qureshi",
+        "url": "https://www.facebook.com/abdullah.qureshi.607675",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/449263207_1189136378925101_7949322411105459664_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx594x590&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFJ1DNl1FSLGBQ56X9eysjz-Ynq4HSynVT5iergdLKdVGwPUjS6jR-RI32ebAwRhaM1pz_7a8119uioqJkqk9Z4&_nc_ohc=mecpa6xP8v0Q7kNvwFyml5B&_nc_oc=AdqXBYKQW6yK6nA8FVoBXvClH6SSw3PSZw67haphaqXkcWOgZhH6zwDgTXqb9WFslHk&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=mCkoAe7j5N8OKqs6lFi-3Q&_nc_ss=702a8&oh=00_AQJap5dqcF7CPwfUtyrBYYR3_pR02LAElBCbqGMHBiyyTQ&oe=6AB7032A",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "medical claim denial"
+    },
+    {
+      "type": "post",
+      "postId": "10165077705496830",
+      "name": "Stephanie Puza Lueras",
+      "authorName": "Stephanie Puza Lueras",
+      "facebookId": "543436829",
+      "text": "Prayers, thoughts, good vibes, whatever you got:\n\nI received a letter from my insurance company that the hospital I was transferred to from Havasu is appealing the denial for coverage (I don’t have out of network benefits). I am super encouraged by this action on their part because 1–I didn’t have the choice in care (I was unconscious); 2–I don’t have $126,000 to foot the bill; 3–I don’t have the capacity to argue the insurance company alone. \n\n🙏🤞🙏🤞🙏🤞 Praying the insurance company reconsiders 🤞🙏🤞🙏🤞🙏",
+      "url": "https://www.facebook.com/stephanieluerastri/posts/pfbid0EDjMTaqgLwYUQwcArzv5G5CuerSV4u1R8LneCTvLh6aRXH7gcd8PGEa3QywRuWFil",
+      "timestamp": 1789238367000,
+      "reactionsCount": 72,
+      "commentsCount": 41,
+      "sharesCount": 0,
+      "reactions": {
+        "angry": 0,
+        "care": 55,
+        "haha": 0,
+        "like": 11,
+        "love": 0,
+        "sad": 1,
+        "wow": 0
+      },
+      "author": {
+        "id": "543436829",
+        "name": "Stephanie Puza Lueras",
+        "url": "https://www.facebook.com/stephanieluerastri",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/528040882_10163170626336830_3457950194542227782_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s50x50&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeG1qBmZbeAQBIZkgv0k93_pWrgxrq7bPglauDGurts-CS50QK9hS2R35WftOkxrrrkxQKWFItI8hFexOKmVdTWP&_nc_ohc=GcCI2pHJkv4Q7kNvwH3mw-x&_nc_oc=AdoxVk8TVrhsGjuVY-9agDXtUdLMLQfLXsFZQd9o1_fYqeDy5mE-f0fS5clNNVYFGKY&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQIZKaK6gzh3XVObl_qJIx1YXMXJsAr07ipoTy6dkbQbtw&oe=6AB6F97E",
+        "delegate_page_id": null
+      },
+      "image": null,
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [],
+      "imagesCount": 0,
+      "externalUrl": null,
+      "query": "insurance denial"
+    },
+    {
+      "type": "post",
+      "postId": "1065122846419168",
+      "name": "Dane Jones",
+      "authorName": "Dane Jones",
+      "facebookId": "100087643876668",
+      "text": "ENOUGH with pretending this is what “coverage” is supposed to feel like.\n\nYou can pay premiums for years.\n\nFollow every rule.\n\nStay in network.\n\nGet referrals.\n\nSubmit paperwork.\n\nDo everything exactly the way the system tells you to.\n\nThen the moment your family actually needs expensive care, suddenly you are introduced to a whole new vocabulary:\n\nDenied.\n\nNot medically necessary.\n\nPrior authorization.\n\nAppeal.\n\nOut of network.\n\nExcluded benefit.\n\nAnd now, on top of worrying about your child, you are expected to become a part time insurance expert just to figure out why the thing you have been paying for is not paying.\n\nThat is the part that makes people furious.\n\nInsurance is supposed to protect you from catastrophic costs.\n\nIt should not become another obstacle course you have to survive while already dealing with a medical problem.\n\nAnd I know every denial has its own contract language, medical criteria, appeals process, and specifics.\n\nBut from the patient side, that nuance does not make the experience feel any less insane.\n\nYou are already scared.\n\nAlready tired.\n\nAlready trying to make the right medical decisions.\n\nThen a company you have been sending money to for years tells you the care is not covered.\n\nAt some point people are allowed to ask a very basic question:\n\nWhat exactly have I been paying for?",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02Zfymk87Bu4HuQPvSZYmXXhATYXcCUzJKhbszAYugGjF11MPa8jq3WniugF7dwz9zl&id=100087643876668",
+      "timestamp": 1789970429000,
+      "reactionsCount": 22,
+      "commentsCount": 17,
+      "sharesCount": 4,
+      "reactions": {
+        "angry": 0,
+        "care": 0,
+        "haha": 4,
+        "like": 17,
+        "love": 1,
+        "sad": 0,
+        "wow": 0
+      },
+      "author": {
+        "id": "100087643876668",
+        "name": "Dane Jones",
+        "url": "https://www.facebook.com/profile.php?id=100087643876668",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/627143303_874994955431959_6179440765000461386_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1792x1792&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeHY0gf7N49Uexoe0Je9vlj17mcEcPIccwzuZwRw8hxzDLG2wbrlQRMbh0qTyITqXfbdrGCMefT5bNHU7peEt3WL&_nc_ohc=eLkp3MsVtwgQ7kNvwEINPh0&_nc_oc=AdqsElbFo3MgelOd87QUtG4Ep_vQlE8aG7kDVDnvmpWK9RgdQs-riG4uIUySXfQVefI&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQK9-0_ohnxvcN_wqfFdJinQo9iDCyj6BW_TBSkX_PsYTQ&oe=6AB6F772",
+        "delegate_page_id": null
+      },
+      "image": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.99422-6/818662384_946328295213196_5569665597576534203_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEkjD9fq-fAQhUF17n_PXyUlZatxkMGIhaVlq3GQwYiFnKQUwJSBaBR3chdf52bn7G9cgZwDWUBZrJRt8SHMsSw&_nc_ohc=c-Zohx1rc_QQ7kNvwE3HVon&_nc_oc=Adohmf8QXr1weRp09DOGSil-dJRIPWJdA6BWX-WpEwpe2sLamRqPs5XljiT53ION8Cs&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQJBcmlnsUlnyeLYMpFmNcB6x5LAvQD-6GXcmsM-drqx6w&oe=6AB6FBA4",
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [
+        {
+          "type": "photo",
+          "image_file_uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.99422-6/818662384_946328295213196_5569665597576534203_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEkjD9fq-fAQhUF17n_PXyUlZatxkMGIhaVlq3GQwYiFnKQUwJSBaBR3chdf52bn7G9cgZwDWUBZrJRt8SHMsSw&_nc_ohc=c-Zohx1rc_QQ7kNvwE3HVon&_nc_oc=Adohmf8QXr1weRp09DOGSil-dJRIPWJdA6BWX-WpEwpe2sLamRqPs5XljiT53ION8Cs&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQJBcmlnsUlnyeLYMpFmNcB6x5LAvQD-6GXcmsM-drqx6w&oe=6AB6FBA4",
+          "url": "",
+          "id": ""
+        }
+      ],
+      "imagesCount": 1,
+      "externalUrl": null,
+      "query": "insurance denial"
+    },
+    {
+      "type": "post",
+      "postId": "10174661528745203",
+      "name": "Hooman Melamed",
+      "authorName": "Hooman Melamed",
+      "facebookId": "646320202",
+      "text": "Have you ever had a necessary surgery denied by your health insurance? Listen to this secret recording. 🛑\nToday, I am pulling back the curtain on exactly what happens behind closed doors when your insurance company denies your medical care.\nI recently had a \"peer-to-peer\" review call with a doctor representing Aetna. They denied a life-changing surgery for one of my patients suffering from Bertolotti's Syndrome. During the call, the insurance doctor actually admitted that even if he agrees with the clinical evidence, and even if my patients have excellent outcomes... he is not allowed to go against the insurance company's \"policy.\"\nInsurance companies are shackling physicians. They are prioritizing corporate policy over evidence-based medicine and patient suffering. It shouldn't matter if I am talking to an insurance doctor, a nurse, or a medical student—if their only job is to read from a corporate script, the system is broken.\nWe have to fight back. We need to flood our legislators and demand that doctor-to-doctor clinical evidence matters more than an insurance company's bottom line.\nShare this video to expose what is really happening in the American healthcare system. Has your insurance ever denied you necessary care? Let everyone know below. 👇\n#HealthcareSystem #InsuranceDenial #Aetna #PatientAdvocacy #PeerToPeerReview #DrMelamed #SpineSurgery #HealthInsurance #MedicalEthics #Whistleblower #ChronicPain",
+      "url": "https://www.facebook.com/reel/1076549864702010/",
+      "timestamp": 1783647866000,
+      "reactionsCount": 59,
+      "commentsCount": 8,
+      "sharesCount": 7,
+      "reactions": {
+        "angry": 0,
+        "care": 1,
+        "haha": 2,
+        "like": 47,
+        "love": 0,
+        "sad": 4,
+        "wow": 2
+      },
+      "author": {
+        "id": "646320202",
+        "name": "Hooman Melamed",
+        "url": "https://www.facebook.com/hooman.melamed",
+        "profile_picture_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-1/44521408_10160943266175203_8213111650555789312_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s50x50&_nc_cat=106&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeGWm4JbRHi2Q8khKpEpRiFI0cDfbYNA_t7RwN9tg0D-3hVbsWH6PiLdQo11DWG_wIE3VxPfAnPXJVeIwirPfd-d&_nc_ohc=3CgD91r8U6QQ7kNvwGm8HIZ&_nc_oc=AdoAT_YGmShXE6Pg7E81YvrVnKlAYRj5xiYVN-aBtIDp_qnx1wmHmFVQPAzVkxpJSXk&_nc_zt=24&_nc_ht=scontent-lax3-2.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQL2AFCY-Eln6xTI_V2wzubeyl-sjeGg63w_Jjso-awpOA&oe=6AD8AA10",
+        "delegate_page_id": null
+      },
+      "image": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/742144962_1501430895358457_1983040624640636058_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=50ce42&_nc_eui2=AeELai7j72KuYIa7hYeoZ3KURHdfvRRfiK5Ed1-9FF-Irg95ZfE0KmQg_Y3czVJtWjEWaL131c8TcyIkB-KEOlE9&_nc_ohc=YQ5Y6_4pAlsQ7kNvwGoKcau&_nc_oc=Adrq8h481nKvz9igF_Ol9m3oBIPlTDKLRP9fQuuIAbpnWLY1VfnZz7_jhoKOS1gKXcI&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQK0JfgjXA4DQC5tIiuKxBh3yYtzy-dH1l5vzzUmGaLdrg&oe=6AB6DC11",
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [
+        {
+          "type": "photo",
+          "image_file_uri": "https://scontent-lax3-2.xx.fbcdn.net/v/t15.5256-10/742144962_1501430895358457_1983040624640636058_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=50ce42&_nc_eui2=AeELai7j72KuYIa7hYeoZ3KURHdfvRRfiK5Ed1-9FF-Irg95ZfE0KmQg_Y3czVJtWjEWaL131c8TcyIkB-KEOlE9&_nc_ohc=YQ5Y6_4pAlsQ7kNvwGoKcau&_nc_oc=Adrq8h481nKvz9igF_Ol9m3oBIPlTDKLRP9fQuuIAbpnWLY1VfnZz7_jhoKOS1gKXcI&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQK0JfgjXA4DQC5tIiuKxBh3yYtzy-dH1l5vzzUmGaLdrg&oe=6AB6DC11",
+          "url": "",
+          "id": ""
+        }
+      ],
+      "imagesCount": 1,
+      "externalUrl": null,
+      "query": "insurance denial"
+    },
+    {
+      "type": "post",
+      "postId": "1034411759357215",
+      "name": "Josh Rincon",
+      "authorName": "Josh Rincon",
+      "facebookId": "100083652004540",
+      "text": "UnitedHealth Group reported roughly $5.5 billion in net income last quarter. \n\nAt the same time, a KFF analysis of 2025 data found the company denied about 17% of standard prior-authorization requests in its Medicare Advantage plans — roughly 1 in 6\n\nPatients pay premiums every single month, yet the insurer still decides whether many treatments, tests, or procedures get approved through the prior-authorization process. \n\nThe contrast between the profit number and the denial rate is hard to ignore. \n\nIt captures one of the central frustrations of American healthcare: you pay in, but coverage is never fully guaranteed until someone else signs off.",
+      "url": "https://www.facebook.com/joshrinconofficial/posts/pfbid02zyYZsaEdL5FNCenmZnftmBxCSew23Kik2ywYrqCsC5bzPoZ5gerjDjmedKFYDuxvl",
+      "timestamp": 1787950824000,
+      "reactionsCount": 5518,
+      "commentsCount": 634,
+      "sharesCount": 1528,
+      "reactions": {
+        "angry": 0,
+        "care": 9,
+        "haha": 2856,
+        "like": 2328,
+        "love": 11,
+        "sad": 219,
+        "wow": 85
+      },
+      "author": {
+        "id": "100083652004540",
+        "name": "Josh Rincon",
+        "url": "https://www.facebook.com/joshrinconofficial",
+        "profile_picture_url": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/359317572_238495422282190_3547286398374047253_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx959x960&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeE3V2Pf_NbGyuNGtTzSHc6X3CzH76vklczcLMfvq-SVzMhsvAGERcXqulfahESdqzgbqUnUL31rp3ecvDrSzq3N&_nc_ohc=Xpo6GihERrwQ7kNvwHxFami&_nc_oc=Adrnf0hy6L-7eoFcuI-AMtOiEEg9yWseKuY344FUV66XsD5MlgrZztyowO72EVmN4A8&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQKY_zOXaz2q6CNO-w8QUGeqezeqQj05Mci_P98lOaiHpQ&oe=6AB6E7BD",
+        "delegate_page_id": null
+      },
+      "image": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.99422-6/786036972_921310204363262_6492175092359965389_n.png?stp=dst-jpg_tt6&cstp=mx1152x1440&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH60TfJHUj_deajEnM5a2Bv1kaRSAFptFLWRpFIAWm0UsFKdzWA3XzGq0Cf9dNmCwjGmHDQxgqFeB97Kr6T6aXJ&_nc_ohc=aJQ6y6L6z3AQ7kNvwELgxdD&_nc_oc=Adqtk7SXmpJ3qkAceAPsgh-o4-n4w7A1bPrc_kzPOphNjEg8dotxh7_DRrLQdpi4SsE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQK4Un1XFwuu1JS0vWsZ5XsU6LBfsKz-6vYzTgELMMM0dQ&oe=6AB6F166",
+      "video": null,
+      "videoViewCount": null,
+      "albumPreview": [
+        {
+          "type": "photo",
+          "image_file_uri": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.99422-6/786036972_921310204363262_6492175092359965389_n.png?stp=dst-jpg_tt6&cstp=mx1152x1440&ctp=s640x640&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH60TfJHUj_deajEnM5a2Bv1kaRSAFptFLWRpFIAWm0UsFKdzWA3XzGq0Cf9dNmCwjGmHDQxgqFeB97Kr6T6aXJ&_nc_ohc=aJQ6y6L6z3AQ7kNvwELgxdD&_nc_oc=Adqtk7SXmpJ3qkAceAPsgh-o4-n4w7A1bPrc_kzPOphNjEg8dotxh7_DRrLQdpi4SsE&_nc_zt=14&_nc_ht=scontent-lax3-1.xx&_nc_gid=GyV1ydZQiH92P_1wv5N82Q&_nc_ss=702a8&oh=00_AQK4Un1XFwuu1JS0vWsZ5XsU6LBfsKz-6vYzTgELMMM0dQ&oe=6AB6F166",
+          "url": "",
+          "id": ""
+        }
+      ],
+      "imagesCount": 1,
+      "externalUrl": null,
+      "query": "insurance denial"
+    }
+  ]
+}

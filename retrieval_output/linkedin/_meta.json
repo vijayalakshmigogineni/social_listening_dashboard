@@ -1,0 +1,34 @@
+{
+  "source": "LinkedIn",
+  "status": "SUPERSEDED - see linkedin_posts_latest100_meta.json for the current 95-post dataset",
+  "history": {
+    "original_pinned_run": {
+      "note": "The first retrieval reused the .env-pinned APIFY_RUN_ID, which was a single already-completed Apify actor run limited to 10 posts (limitPerSource=10, query='UnitedHealthcare RFA', datePosted=past-24h, deepScrape=true, cost $4.98). Only 1 of those 10 posts was classified S; 9 were Irrelevant generic content.",
+      "superseded_reason": "User explicitly asked to fetch the real latest 100 LinkedIn activities. The pinned run could not be re-parameterized (it just re-reads a fixed completed run's dataset), so a new Apify run was launched instead, reusing the same actor/credentials already in .env."
+    }
+  },
+  "current_retrieval": {
+    "script_used": "linkedin/fetch_linkedin_batch.py (new script, extends the existing Apify REST mechanism from fetch_linkedin.py/test_apify_connection.py by adding actor-run launch + poll, using the same actor and token already in this codebase)",
+    "actor_id": "Wpp1BZ6yGWjySadk3 (supreme_coder/linkedin-post)",
+    "mechanism": "POST https://api.apify.com/v2/acts/{actorId}/runs to launch a new run, poll GET .../actor-runs/{runId} until SUCCEEDED, then GET https://api.apify.com/v2/datasets/{datasetId}/items",
+    "search_query": "(UnitedHealthcare OR Aetna OR Cigna OR Humana OR Medicare) prior authorization denial reimbursement -- broadened from the original single-payer/single-procedure query to cover the multi-payer/multi-topic taxonomy already present in linkedin/process_linkedin.py. A more complex nested-boolean query with quoted procedure phrases (ESI, RFA, SCS, PNS, etc.) was tried first and rejected by LinkedIn's own search backend (confirmed via the run log: 'Unknown error when trying to fetch posts'); this flatter query is the confirmed-working version.",
+    "run_id": "1Vrh47WQiiJDXudbp",
+    "retrieval_timestamp_utc": "2026-09-17T13:2x (see linkedin_posts_latest100_meta.json for exact startedAt/finishedAt)",
+    "real_cost_usd": 0.00005,
+    "records_requested": 100,
+    "records_returned_by_linkedin_search": 95,
+    "records_analyzed": 95,
+    "shortfall_reason": "LinkedIn's own search for this query genuinely only had 95 matching results at retrieval time within the actor's crawl -- not padded, not an error.",
+    "date_range": {"oldest": "2026-08-18T21:11:11.326Z", "newest": "2026-09-17T13:03:31.360Z"},
+    "cost_note": "deepScrape was turned OFF (vs. the original pinned run's deepScrape=true) after a live test showed deepScrape drives ~$0.50/item in cost for comment-thread/reaction detail we don't need for classification; with it off, cost was negligible ($0.00005 total for 95 posts) while text/date/author/likes/comment-count/share-count are still included.",
+    "fields_available": [
+      "urn","text","url","postedAtTimestamp","postedAtISO","timeSincePosted","isRepost",
+      "authorType","authorProfileUrl","authorProfileId","authorHeadline","authorName","type",
+      "shareUrn","attributes","comments","reactions","numShares","numLikes","numComments",
+      "canReact","canPostComments","canShare","commentingDisabled","allowedCommentersScope",
+      "rootShare","shareAudience","author","authorProfilePicture","authorUrn","inputUrl"
+    ],
+    "raw_file": "linkedin_posts_latest100_raw.json",
+    "classified_file": "../classified_rows_linkedin_100.json (used by consolidate.py in place of the old 10-item classified_rows_linkedin.json)"
+  }
+}

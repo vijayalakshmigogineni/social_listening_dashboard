@@ -1,0 +1,597 @@
+{
+  "source": "Medical Billing Live",
+  "step": "4-feed-api",
+  "feeds": [
+    {
+      "name": "recent posts, rss 0.92",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=rss",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4411,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55289.html#msg55289",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:40:44 GMT",
+          "description_chars": 215,
+          "description_preview": "This kind of bad weather is really draining, so a cozy evening at home with a good game is a great solution. I\u0092ve personally tested MonacoJack Casino , and for "
+        },
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55288.html#msg55288",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:26:21 GMT",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Re: Is it worth signing up for new gaming platforms in Australia?",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20200.msg55287.html#msg55287",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 04:04:58 GMT",
+          "description_chars": 208,
+          "description_preview": "Hi! Perth is a wonderful place, and Turbowinz Casino is the perfect fit for this kind of getaway because it brings everything together on a single platform. You"
+        }
+      ]
+    },
+    {
+      "name": "recent posts, rss 2.0",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=rss2",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4410,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55289.html#msg55289",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:40:44 GMT",
+          "description_chars": 215,
+          "description_preview": "This kind of bad weather is really draining, so a cozy evening at home with a good game is a great solution. I\u0092ve personally tested MonacoJack Casino , and for "
+        },
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55288.html#msg55288",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:26:21 GMT",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Re: Is it worth signing up for new gaming platforms in Australia?",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20200.msg55287.html#msg55287",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 04:04:58 GMT",
+          "description_chars": 208,
+          "description_preview": "Hi! Perth is a wonderful place, and Turbowinz Casino is the perfect fit for this kind of getaway because it brings everything together on a single platform. You"
+        }
+      ]
+    },
+    {
+      "name": "recent posts, atom",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=atom",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/atom+xml; charset=ISO-8859-1",
+      "bytes": 5852,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "author",
+        "category",
+        "icon",
+        "id",
+        "link",
+        "published",
+        "summary",
+        "title",
+        "updated"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": true,
+      "samples": [
+        {
+          "title": "Re: Features of Live Casinos and Entertainment Options in Canada",
+          "link": null,
+          "category": "",
+          "pubDate": "2026-09-21T08:40:44Z",
+          "description_chars": 215,
+          "description_preview": "This kind of bad weather is really draining, so a cozy evening at home with a good game is a great solution. I\u0092ve personally tested MonacoJack Casino , and for "
+        },
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": null,
+          "category": "",
+          "pubDate": "2026-09-21T08:26:21Z",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Re: Is it worth signing up for new gaming platforms in Australia?",
+          "link": null,
+          "category": "",
+          "pubDate": "2026-09-21T04:04:58Z",
+          "description_chars": 208,
+          "description_preview": "Hi! Perth is a wonderful place, and Turbowinz Casino is the perfect fit for this kind of getaway because it brings everything together on a single platform. You"
+        }
+      ]
+    },
+    {
+      "name": "recent topics (sa=news)",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&sa=news&type=rss",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4238,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.0.html",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:26:21 GMT",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Hero Siege Prophet's Wisdom Guide by U4gm Experts",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20201.0.html",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 02:09:44 GMT",
+          "description_chars": 259,
+          "description_preview": "Hero Siege Season 10 has introduced a fresh reason to revisit Chaos Pillars, especially for players hunting Prophet&#39;s Wisdom. The September 4 patch added a "
+        },
+        {
+          "title": "Is it worth signing up for new gaming platforms in Australia?",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20200.0.html",
+          "category": "General Questions",
+          "pubDate": "Sun, 20 Sep 2026 23:51:25 GMT",
+          "description_chars": 255,
+          "description_preview": "Hi! I recently moved to Perth, and after long workweeks, I\u0092m trying to find a reliable entertainment site where I can play poker and place sports bets. I often "
+        }
+      ]
+    },
+    {
+      "name": "board-scoped (Billing)",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=rss&board=7",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4515,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: 90853 Group via Telehealth",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,19857.msg55284.html#msg55284",
+          "category": "Billing",
+          "pubDate": "Sun, 20 Sep 2026 21:17:35 GMT",
+          "description_chars": 216,
+          "description_preview": "I love taking a break with some casual online gaming, but I hate complicated platforms. A buddy who recently moved to Australia told me Need for Slots Casino ha"
+        },
+        {
+          "title": "australia online casino tournaments m34sla",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,7593.msg55213.html#msg55213",
+          "category": "Billing",
+          "pubDate": "Wed, 26 Aug 2026 08:20:46 GMT",
+          "description_chars": 194,
+          "description_preview": "&nbsp; Innovation enables players to experience the real gambling vibe remotely, top online casinos australia includes mobile compatibility accessible via all s"
+        },
+        {
+          "title": "Online casino app canada h13lpp",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,7593.msg55212.html#msg55212",
+          "category": "Billing",
+          "pubDate": "Wed, 26 Aug 2026 08:00:47 GMT",
+          "description_chars": 200,
+          "description_preview": "&nbsp; Innovation enables players to access the real gambling vibe on the go, casino en ligne canada l\u00d0\u0093\u00c2\u00a9gal features a responsive design compatible with all m"
+        }
+      ]
+    },
+    {
+      "name": "board-scoped, sa=posts",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&sa=posts&type=rss&board=7",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4515,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: 90853 Group via Telehealth",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,19857.msg55284.html#msg55284",
+          "category": "Billing",
+          "pubDate": "Sun, 20 Sep 2026 21:17:35 GMT",
+          "description_chars": 216,
+          "description_preview": "I love taking a break with some casual online gaming, but I hate complicated platforms. A buddy who recently moved to Australia told me Need for Slots Casino ha"
+        },
+        {
+          "title": "australia online casino tournaments m34sla",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,7593.msg55213.html#msg55213",
+          "category": "Billing",
+          "pubDate": "Wed, 26 Aug 2026 08:20:46 GMT",
+          "description_chars": 194,
+          "description_preview": "&nbsp; Innovation enables players to experience the real gambling vibe remotely, top online casinos australia includes mobile compatibility accessible via all s"
+        },
+        {
+          "title": "Online casino app canada h13lpp",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,7593.msg55212.html#msg55212",
+          "category": "Billing",
+          "pubDate": "Wed, 26 Aug 2026 08:00:47 GMT",
+          "description_chars": 200,
+          "description_preview": "&nbsp; Innovation enables players to access the real gambling vibe on the go, casino en ligne canada l\u00d0\u0093\u00c2\u00a9gal features a responsive design compatible with all m"
+        }
+      ]
+    },
+    {
+      "name": "limit=50",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=rss&limit=50",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 42210,
+      "ok": true,
+      "item_count": 50,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 49,
+      "truncation_rate": 0.98,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55289.html#msg55289",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:40:44 GMT",
+          "description_chars": 215,
+          "description_preview": "This kind of bad weather is really draining, so a cozy evening at home with a good game is a great solution. I\u0092ve personally tested MonacoJack Casino , and for "
+        },
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55288.html#msg55288",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:26:21 GMT",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Re: Is it worth signing up for new gaming platforms in Australia?",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20200.msg55287.html#msg55287",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 04:04:58 GMT",
+          "description_chars": 208,
+          "description_preview": "Hi! Perth is a wonderful place, and Turbowinz Casino is the perfect fit for this kind of getaway because it brings everything together on a single platform. You"
+        }
+      ]
+    },
+    {
+      "name": "limit=200",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml&type=rss&limit=200",
+      "separator": "&",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 166061,
+      "ok": true,
+      "item_count": 200,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 197,
+      "truncation_rate": 0.98,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55289.html#msg55289",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:40:44 GMT",
+          "description_chars": 215,
+          "description_preview": "This kind of bad weather is really draining, so a cozy evening at home with a good game is a great solution. I\u0092ve personally tested MonacoJack Casino , and for "
+        },
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55288.html#msg55288",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:26:21 GMT",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Re: Is it worth signing up for new gaming platforms in Australia?",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20200.msg55287.html#msg55287",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 04:04:58 GMT",
+          "description_chars": 208,
+          "description_preview": "Hi! Perth is a wonderful place, and Turbowinz Casino is the perfect fit for this kind of getaway because it brings everything together on a single platform. You"
+        }
+      ]
+    },
+    {
+      "name": "semicolon separators",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml;type=rss",
+      "separator": ";",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4411,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55289.html#msg55289",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:40:44 GMT",
+          "description_chars": 215,
+          "description_preview": "This kind of bad weather is really draining, so a cozy evening at home with a good game is a great solution. I\u0092ve personally tested MonacoJack Casino , and for "
+        },
+        {
+          "title": "Features of Live Casinos and Entertainment Options in Canada",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20202.msg55288.html#msg55288",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 08:26:21 GMT",
+          "description_chars": 255,
+          "description_preview": "Hello from Edmonton! After endless traffic delays due to bad weather and a tough week, we\u0092re completely exhausted\u0097we\u0092re just looking forward to some quality dow"
+        },
+        {
+          "title": "Re: Is it worth signing up for new gaming platforms in Australia?",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,20200.msg55287.html#msg55287",
+          "category": "General Questions",
+          "pubDate": "Mon, 21 Sep 2026 04:04:58 GMT",
+          "description_chars": 208,
+          "description_preview": "Hi! Perth is a wonderful place, and Turbowinz Casino is the perfect fit for this kind of getaway because it brings everything together on a single platform. You"
+        }
+      ]
+    },
+    {
+      "name": "semicolon, board-scoped",
+      "url": "https://www.medicalbillinglive.com/members/index.php?action=.xml;type=rss;board=7",
+      "separator": ";",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=ISO-8859-1",
+      "bytes": 4515,
+      "ok": true,
+      "item_count": 5,
+      "item_fields": [
+        "category",
+        "comments",
+        "description",
+        "guid",
+        "link",
+        "pubDate",
+        "title"
+      ],
+      "items_truncated": 5,
+      "truncation_rate": 1.0,
+      "has_author_field": false,
+      "samples": [
+        {
+          "title": "Re: 90853 Group via Telehealth",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,19857.msg55284.html#msg55284",
+          "category": "Billing",
+          "pubDate": "Sun, 20 Sep 2026 21:17:35 GMT",
+          "description_chars": 216,
+          "description_preview": "I love taking a break with some casual online gaming, but I hate complicated platforms. A buddy who recently moved to Australia told me Need for Slots Casino ha"
+        },
+        {
+          "title": "australia online casino tournaments m34sla",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,7593.msg55213.html#msg55213",
+          "category": "Billing",
+          "pubDate": "Wed, 26 Aug 2026 08:20:46 GMT",
+          "description_chars": 194,
+          "description_preview": "&nbsp; Innovation enables players to experience the real gambling vibe remotely, top online casinos australia includes mobile compatibility accessible via all s"
+        },
+        {
+          "title": "Online casino app canada h13lpp",
+          "link": "https://www.medicalbillinglive.com/members/index.php/topic,7593.msg55212.html#msg55212",
+          "category": "Billing",
+          "pubDate": "Wed, 26 Aug 2026 08:00:47 GMT",
+          "description_chars": 200,
+          "description_preview": "&nbsp; Innovation enables players to access the real gambling vibe on the go, casino en ligne canada l\u00d0\u0093\u00c2\u00a9gal features a responsive design compatible with all m"
+        }
+      ]
+    }
+  ],
+  "board_scoping": [
+    {
+      "board_id": 6,
+      "board_name": "General Questions",
+      "status": 200,
+      "channel_title": "Medical Billing Forum - General Questions",
+      "categories_in_items": [
+        "General Questions"
+      ],
+      "scoped_correctly": true
+    },
+    {
+      "board_id": 5,
+      "board_name": "NPI Numbers",
+      "status": 200,
+      "channel_title": "Medical Billing Forum - NPI Numbers",
+      "categories_in_items": [
+        "NPI Numbers"
+      ],
+      "scoped_correctly": true
+    },
+    {
+      "board_id": 8,
+      "board_name": "Coding",
+      "status": 200,
+      "channel_title": "Medical Billing Forum - Coding",
+      "categories_in_items": [
+        "Coding"
+      ],
+      "scoped_correctly": true
+    }
+  ],
+  "api_surfaces": [
+    {
+      "name": "wp-json (site runs WordPress)",
+      "url": "https://www.medicalbillinglive.com/wp-json/",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "bytes": 164894,
+      "exists": true,
+      "items_returned": null,
+      "serves_forum_content": false,
+      "preview": "{\"name\":\"The Premiere Medical Billing Website!\",\"description\":\"Everything You Need to Grow Your Medical Billing Business or Service\",\"url\":\"https:\\/\\/www.medica"
+    },
+    {
+      "name": "wp-json posts",
+      "url": "https://www.medicalbillinglive.com/wp-json/wp/v2/posts",
+      "status": 503,
+      "content_type": "text/html; charset=iso-8859-1",
+      "bytes": 23,
+      "exists": false,
+      "items_returned": null,
+      "serves_forum_content": false,
+      "preview": "503 Service Unavailable"
+    },
+    {
+      "name": "SMF api.php",
+      "url": "https://www.medicalbillinglive.com/members/api.php",
+      "status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 34998,
+      "exists": false,
+      "items_returned": null,
+      "serves_forum_content": false,
+      "preview": "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"> <title>Page not found &#8211; The Premiere Medical Billing Website!</title> <meta name='robots'"
+    },
+    {
+      "name": "sitemap",
+      "url": "https://www.medicalbillinglive.com/sitemap.xml",
+      "status": 200,
+      "content_type": "application/xml",
+      "bytes": 6194,
+      "exists": true,
+      "items_returned": null,
+      "serves_forum_content": false,
+      "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:sch"
+    }
+  ],
+  "verdict": {
+    "feed_exists": true,
+    "formats_available": [
+      "atom",
+      "board-scoped",
+      "board-scoped (Billing)",
+      "limit=200",
+      "limit=50",
+      "recent topics (sa=news)",
+      "rss 0.92",
+      "rss 2.0",
+      "sa=posts",
+      "semicolon separators"
+    ],
+    "board_scoping_supported": true,
+    "max_items_returned": 200,
+    "bodies_truncated": true,
+    "feed_carries_author": true,
+    "formats_carrying_author": [
+      "recent posts, atom"
+    ],
+    "separator_note": "';' and '&' both returned 200 on 6/6 trials; the occasional 503 is load-related, not separator-related",
+    "endpoints_responding": [
+      "wp-json (site runs WordPress)",
+      "sitemap"
+    ],
+    "real_api_found": false,
+    "api_note": "/wp-json/ answers because the marketing site runs WordPress, but it returns no posts and no forum content; the SMF install exposes no api.php. The XML feed is the only machine-readable forum surface.",
+    "usable_as_sole_collector": false,
+    "reason": "Feed bodies are truncated and carry no author field, and the feed only exposes the newest items, so it cannot reach the archive. Usable for change detection, not for collection."
+  }
+}
