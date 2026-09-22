@@ -1,0 +1,92 @@
+[
+  {
+    "source": "X",
+    "source_item_id": "1181538675701768193",
+    "url": "https://x.com/mrchrisgeorges/status/1181538675701768193",
+    "title": null,
+    "text": "I’m beginning to realize more and more the price that is to be paid to be great. What we see in public is often a result of private pain, practice, and perfection. It's seasons of denial, and discipline when no one is watching. Great and lazy are not friends.",
+    "author_id": "57417773",
+    "author_name": "Christopher Georges",
+    "author_profile_url": "https://x.com/mrchrisgeorges",
+    "author_role": null,
+    "organization_name": null,
+    "organization_url": null,
+    "location": null,
+    "created_at": "2019-10-08T11:55:46.000Z",
+    "collected_at": "2026-09-21T11:12:46.958265+00:00",
+    "engagement": {
+      "likes": 7,
+      "comments": 2,
+      "reposts": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 0
+    },
+    "parent_id": null,
+    "conversation_id": "1181538675701768193",
+    "media_type": "text",
+    "raw_data": {
+      "schemaVersion": "tweet-result-v1",
+      "recordType": "tweet",
+      "recordId": "tweet:1:1181538675701768193",
+      "workflow": "search",
+      "source": {
+        "mode": "Latest",
+        "page": 1
+      },
+      "id": "1181538675701768193",
+      "url": "https://x.com/mrchrisgeorges/status/1181538675701768193",
+      "conversationId": "1181538675701768193",
+      "text": "I’m beginning to realize more and more the price that is to be paid to be great. What we see in public is often a result of private pain, practice, and perfection. It's seasons of denial, and discipline when no one is watching. Great and lazy are not friends.",
+      "lang": "en",
+      "createdAt": "2019-10-08T11:55:46.000Z",
+      "type": "tweet",
+      "author": {
+        "id": "57417773",
+        "username": "mrchrisgeorges",
+        "name": "Christopher Georges",
+        "url": "https://x.com/mrchrisgeorges",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1471201054276689927/4Qcv9oH5_normal.jpg",
+        "verified": false,
+        "isBlueVerified": false
+      },
+      "metrics": {
+        "replies": 2,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 7,
+        "bookmarks": 0,
+        "views": 0
+      },
+      "replyTo": null,
+      "quotedTweetId": null,
+      "retweetedTweetId": null,
+      "media": [],
+      "entities": {
+        "hashtags": [],
+        "mentions": [],
+        "urls": [],
+        "symbols": []
+      },
+      "possiblySensitive": false
+    },
+    "source_metadata": {
+      "lang": "en",
+      "type": "tweet",
+      "entities": {
+        "hashtags": [],
+        "mentions": [],
+        "urls": [],
+        "symbols": []
+      },
+      "media": [],
+      "possibly_sensitive": false,
+      "quoted_tweet_id": null,
+      "retweeted_tweet_id": null,
+      "author_username": "mrchrisgeorges",
+      "author_avatar_url": "https://pbs.twimg.com/profile_images/1471201054276689927/4Qcv9oH5_normal.jpg",
+      "author_verified": false,
+      "author_blue_verified": false
+    }
+  }
+]

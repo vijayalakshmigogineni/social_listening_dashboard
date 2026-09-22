@@ -1,0 +1,168 @@
+"""
+Analysis/classification schema -- kept strictly separate from the canonical
+normalized record (backend/app/schemas/normalized.py). One AnalysisResult
+row is produced per (source_item_id, analysis_version).
+
+This module defines:
+  - one pydantic model per pipeline stage (Step 1-5), documenting exactly
+    what each stage outputs and nothing more
+  - the combined AnalysisResult that a full pipeline run persists
+  - the enums/allowed-value sets the spec fixes (problem categories,
+    speaker types, stance, seeking level)
+
+Steps are never re-derived by later stages: Step 6/7 scoring reads the
+structured fields Steps 1-5 already produced and must not re-classify text.
+"""
+
+from __future__ import annotations
+
+from datetime import datetime
+from typing import Any, Literal, Optional
+
+from pydantic import BaseModel, ConfigDict
+
+ANALYSIS_VERSION = "sld-analysis-v1"
+SCORING_VERSION = "sld-score-v1"
+
+# ---------------------------------------------------------------------------
+# Step 3 taxonomy -- fixed category set. Multi-label: a record can carry
+# several of these at once.
+# ---------------------------------------------------------------------------
+ProblemCategory = Literal[
+    "authorization_utilization_management",
+    "denials_claims_friction",
+    "coverage_policy",
+    "documentation_medical_necessity",
+    "reimbursement_payment",
+    "procedure_device_access",
+]
+
+# ---------------------------------------------------------------------------
+# Step 4 -- speaker / stance / seeking allowed values
+# ---------------------------------------------------------------------------
+SpeakerType = Literal[
+    "practice_side",
+    "patient",
+    "payer_side",
+    "vendor",
+    "educator_media",
+    "unknown",
+]
+
+ContentStance = Literal["seeking", "supplying", "neutral", "mixed"]
+
+SeekingLevel = Literal["L0", "L1", "L2", "L3"]
+
+
+class Step1Relevance(BaseModel):
+    """Is this RCM/healthcare-business-operations relevant at all?"""
+
+    rcm_relevant: bool
+    rcm_relevance_confidence: float
+
+
+class Step2ProblemEvidence(BaseModel):
+    """Does the text contain evidence of an actual operational problem?"""
+
+    problem_evidence: bool
+    first_person: bool
+    problem_confidence: float
+    evidence_candidate: Optional[str] = None
+
+
+class Step3Taxonomy(BaseModel):
+    """What exactly is being discussed?"""
+
+    problem_category: list[ProblemCategory] = []
+    procedure_tags: list[str] = []
+    payer_tags: list[str] = []
+    denial_reason_tags: list[str] = []
+    specialty: Optional[str] = None
+    mentioned_organization: Optional[str] = None
+    cpt_hcpcs_codes: list[str] = []
+    category_confidence: Optional[float] = None
+    payer_confidence: Optional[float] = None
+    procedure_confidence: Optional[float] = None
+    denial_reason_confidence: Optional[float] = None
+
+
+class Step4Context(BaseModel):
+    """Who is speaking, what is their stance, and what are they seeking?"""
+
+    speaker_type: SpeakerType = "unknown"
+    content_stance: ContentStance
+    seeking_level: Optional[SeekingLevel] = None
+    speaker_confidence: Optional[float] = None
+    seeking_confidence: Optional[float] = None
+
+
+class Step5Evidence(BaseModel):
+    """Supporting evidence quote plus an overall, non-calibrated confidence."""
+
+    evidence_quote: str
+    confidence: float
+    rcm_confidence: Optional[float] = None
+    problem_confidence: Optional[float] = None
+    category_confidence: Optional[float] = None
+    payer_confidence: Optional[float] = None
+    procedure_confidence: Optional[float] = None
+    speaker_confidence: Optional[float] = None
+    seeking_confidence: Optional[float] = None
+
+
+class ScoreBreakdown(BaseModel):
+    """Step 6/7 scoring, fully explainable -- never store only final_score."""
+
+    problem_strength: float
+    market_relevance: float
+    intent_strength: float
+    specificity: float
+    severity: float
+    base_score: float
+    confidence: float
+    recency_factor: float
+    final_score: float
+
+
+class AnalysisResult(BaseModel):
+    """The full row persisted to the analysis table for one pipeline run."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    source_item_id: str
+    analysis_version: str = ANALYSIS_VERSION
+    scoring_version: str = SCORING_VERSION
+
+    # Step 1
+    rcm_relevant: bool
+    rcm_relevance_confidence: float
+
+    # Step 2
+    problem_evidence: bool
+    first_person: bool
+    problem_confidence: float
+
+    # Step 3
+    problem_category: list[str] = []
+    procedure_tags: list[str] = []
+    payer_tags: list[str] = []
+    denial_reason_tags: list[str] = []
+    specialty: Optional[str] = None
+    mentioned_organization: Optional[str] = None
+    cpt_hcpcs_codes: list[str] = []
+
+    # Step 4
+    speaker_type: SpeakerType = "unknown"
+    content_stance: ContentStance
+    seeking_level: Optional[SeekingLevel] = None
+
+    # Step 5
+    evidence_quote: str
+    confidence: float
+
+    # Step 6/7
+    score_breakdown: dict[str, Any]
+    final_score: float
+
+    created_at: Optional[datetime] = None
+    updated_at: Optional[datetime] = None

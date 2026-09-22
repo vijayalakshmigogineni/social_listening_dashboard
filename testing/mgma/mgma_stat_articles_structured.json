@@ -1,0 +1,856 @@
+[
+  {
+    "source": "MGMA",
+    "source_type": "MGMA Stat",
+    "title": "Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026",
+    "url": "https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster",
+    "published_date": "9/2/2026",
+    "author": "MGMA Revenue Cycle Insights",
+    "description": "Despite federal mandates aiming to expedite prior authorization decisions, fewer than 1 in 10 practices reported faster turnaround times in 2026. Many still face delays due to payer-specific processes and documentation burdens, highlighting persistent challenges in the healthcare authorization landscape.",
+    "poll": {
+      "detected": true,
+      "poll_date": null,
+      "respondents": 178,
+      "results": [
+        {
+          "percentage": 44,
+          "answer": "of medical group leaders said payer prior authorization turnaround became slower"
+        },
+        {
+          "percentage": 40,
+          "answer": "said turnaround is about the same, while 7% reported faster turnaround, and 9% w"
+        },
+        {
+          "percentage": 90,
+          "answer": "of practices said PA burden increased during the previous 12 months"
+        },
+        {
+          "percentage": 45,
+          "answer": "of practice leaders said eligibility and prior authorization were their staffs’"
+        },
+        {
+          "percentage": 61,
+          "answer": "of practices had staff accessing seven or more payer portals each week"
+        }
+      ]
+    },
+    "payer_mentions": [
+      "Medicare",
+      "Medicaid",
+      "Medicare Advantage"
+    ],
+    "operational_topics": [
+      "prior_authorization",
+      "denials",
+      "appeals",
+      "documentation",
+      "peer_to_peer",
+      "payer_portals",
+      "eligibility",
+      "reimbursement",
+      "accounts_receivable",
+      "coding",
+      "workflow",
+      "staff_workload"
+    ],
+    "headings": [
+      "Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026",
+      "Where the wait accumulates",
+      "Two kinds of faster turnaround",
+      "Tracking more than the final decision",
+      "Explore Related Content",
+      "MGMA Stat",
+      "Where medical groups are putting new dollars in 2026 budgets",
+      "MGMA Stat",
+      "Finance, staffing projects top medical group leaders’ list of 2024 resolutions",
+      "Insight Article",
+      "When patient volume softens: Diagnose before you cut",
+      "MGMA Stat",
+      "Automation, process fixes top list of cost-cutting moves for medical practices in 2026",
+      "MGMA Stat",
+      "5 big challenges for medical practices (and why they all tie back to staffing)",
+      "MGMA Stat",
+      "Document, schedule, communicate: Where ambulatory care has added or expanded AI in 2025",
+      "Sponsored Solution",
+      "Achieve Claim Management Clarity with These 4 Strategies",
+      "MGMA Stat",
+      "EHR usability, patient communications and billing outrank AI as top tech priorities at some medical groups",
+      "MGMA Stat",
+      "Operating costs keep climbing for medical practices in 2026",
+      "Insight Article",
+      "Enterprise portfolio management for medical group practices: Converting strategy into outcomes",
+      "Insight Article",
+      "Population health's strategic value for health centers",
+      "MGMA Stat",
+      "Is your digital fax automated or just less paper?",
+      "Insight Article",
+      "How physicians and practices can confront cost of care, one decision at a time",
+      "MGMA Stat",
+      "Using TiC negotiated-rate data to negotiate smarter payer contracts",
+      "Insight Article",
+      "Beyond the hype: Practical AI applications that improve access, capacity, and revenue",
+      "2025 MGMA Financials and Operations Data Report",
+      "Insight Article",
+      "Conversational AI for addressing claim denials",
+      "MGMA Stat",
+      "Steps toward revenue cycle automation vary across medical groups",
+      "Insight Article",
+      "The impact of automated administrative processes",
+      "More MGMA Stats",
+      "MGMA Stat",
+      "Most medical groups have gone years without a commercial payer rate increase",
+      "MGMA Stat",
+      "Beyond backfills: More than half of practices adding net-new APP roles",
+      "MGMA Stat",
+      "About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs",
+      "MGMA Stat",
+      "As AI use expands, medical practice leaders shift attention to measurement",
+      "MGMA Stat",
+      "Days in A/R holds steady for most practices, but payer pressure persists in 2026",
+      "MGMA Stat",
+      "EHR and PM workarounds reveal the hidden cost of broken workflows",
+      "MGMA Stat",
+      "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+      "MGMA Stat",
+      "Stable staff-to-physician ratios might conceal real strain in your practice",
+      "MGMA Stat",
+      "Revenue growth narrows as costs climb: the 2026 squeeze on medical practices",
+      "MGMA Stat",
+      "Operating costs keep climbing for medical practices in 2026",
+      "MGMA Stat",
+      "Can AI find your practice when patients ask?",
+      "MGMA Stat",
+      "Medical practice worker benefits: Where retention tools meet cost pressure",
+      "MGMA Stat",
+      "AI is slowly redesigning work in medical practices rather than replacing workers",
+      "MGMA Stat",
+      "Stabilized but not solved: Staff turnover in medical practices looking no better, no worse in 2026",
+      "MGMA Stat",
+      "Medical assistants: Tackling practices’ worst hiring problem before it gets worse",
+      "MGMA Stat",
+      "Are AI tools making clinicians more productive? It’s complicated",
+      "MGMA Stat",
+      "Is it time for your practice to rethink how it pays APPs?",
+      "MGMA Stat",
+      "Physician burnout and early retirement: The pressure medical groups can't afford to ignore",
+      "MGMA Stat",
+      "Falling behind on physician compensation plan review carries real risk",
+      "MGMA Stat",
+      "Does the quality element of your provider compensation effectively drive behavior change?",
+      "Explore Related Topics"
+    ],
+    "article_text": "Prior authorization entered 2026 with new federal turnaround requirements. Beginning Jan. 1, Medicare Advantage organizations and several Medicaid and CHIP payers generally must send decisions for non-drug medical items and services within 72 hours for expedited requests and seven calendar days for standard requests. Payers also must give providers a specific reason when denying an authorization request.\nThose changes were intended to shorten waits and give practices clearer information when a request is denied. But the question for medical groups is simpler: Has prior authorization actually gotten faster?\nFor most practices, the answer is “no.” In a Sept. 1, 2026, MGMA Stat poll, 44% of medical group leaders said payer prior authorization turnaround became slower in 2026 compared with 2025. Another 40% said turnaround is about the same, while 7% reported faster turnaround, and 9% were unsure. The poll had 178 applicable responses.\nFollow-up responses from this week’s practice leaders showed that a few key commercial payers continue to be major sources of delay. Among respondents reporting slower turnaround, the most common bottlenecks involved status checks, peer-to-peer reviews and increasingly burdensome documentation requirements. Practices reporting faster turnaround most often pointed to payer reductions in authorization requirements, broader use of electronic submission tools and internal workflow improvements that streamlined the authorization process.\nThe share reporting slower turnaround is particularly notable because a shorter regulatory decision deadline does not necessarily mean the entire authorization process is taking less time for the practice.\nPrior authorization burden was already heading in the wrong direction entering this poll. MGMA Government Affairs' 2026 Regulatory Burden Report found that 90% of practices said PA burden increased during the previous 12 months. Respondents ranked Medicare Advantage as the most burdensome payer type for obtaining authorization, followed by commercial plans, Medicaid and Traditional Medicare.\nThis week’s follow-up responses show where slower turnaround is concentrated — and, just as importantly, where the delays occur.\nFor practices, the authorization process can extend well beyond the payer’s formal decision period. Staff first may need to determine whether PA is required, identify the right submission channel and assemble supporting documentation. After submission, staff may face requests for more information, status checks, peer-to-peer reviews, denials and appeals.\nRecent MGMA Stat polling shows how much staff work remains tied up in those steps. In March, 45% of practice leaders said eligibility and prior authorization were their staffs’ most time-consuming phone tasks. Respondents specifically pointed to submitting requests, tracking status and handling denials and appeals as sources of workload.\nAnother March MGMA Stat poll found 61% of practices had staff accessing seven or more payer portals each week. Eligibility and prior authorization were among the main reasons, with respondents describing repeated logins, data entry, payer-specific requirements and tasks that could not be completed through their EHR or other systems.\nThat makes the location of the delay important. A practice waiting days for a payer decision faces a different problem from one whose staff lose hours getting a complete request submitted or repeatedly checking its status.\nFollow-up answers from practices reporting improvement point to two distinct sources of faster turnaround: changes made by payers — such as reduced PA requirements, electronic submission or gold-carding — and changes practices made themselves, including adding staff, redesigning workflows or adopting new PA technology.\nIf a practice reduced turnaround by adding another authorization specialist or increasing manual follow-up, patients may receive answers sooner while the cost and administrative burden on the practice still increase. Faster electronic submission, fewer authorization requirements or more responsive payer processes would represent a more meaningful reduction in administrative burden.\nOur 2025 review of the prior authorization landscape anticipated faster decisions and clearer denials across 2026 and 2027, along with a larger shift toward electronic exchange. The next major federal deadline comes Jan. 1, 2027, when affected payers must implement Prior Authorization APIs designed to enable more direct electronic exchange of PA information.\nPractices that answered “unsure” have another question to consider: Do you have enough information to know which payers are actually getting better or worse?\nAt minimum, practices should consider tracking payer and plan, submission and decision dates, whether the request was standard or expedited, requests for additional information, status checks, peer-to-peer reviews, denials, appeals, and the final resolution date.\nCMS now requires impacted payers to publicly report aggregate PA metrics annually, including approval and denial rates, approvals after appeal and average time between submission and decision. Practice-level tracking can add the detail leaders need to compare their actual experience across payers and identify whether delays occur before submission, during payer review or after the initial decision.\nThat baseline will become more valuable as electronic PA requirements expand. MGMA Government Affairs recently released a resource on the new payer API technical requirements and steps practices can take to prepare for 2027.\nTechnology may eliminate some portal logins, repeated data entry and manual handoffs. It will not automatically fix every PA delay. Practices that know where their authorizations stall today will be better equipped to tell whether payer changes are actually saving time tomorrow.\nWritten By\nMGMA Revenue Cycle Insights\nMGMA Revenue Cycle Insights is developed by MGMA’s in-house team of editors and subject-matter experts who understand the full lifecycle of getting paid — from patient access and insurance verification to coding, claims submission, denial management, and collections. This work is grounded in how revenue actually moves through a practice. MGMA draws on member insights and benchmarking data to address front-end accuracy, charge capture, first-pass denial rates, payer behavior, and patient payment trends. The content focuses on reducing friction across the revenue cycle — improving clean claim rates, shortening days in A/R, and strengthening financial performance. Whether addressing prior authorization workflows, documentation gaps, payer underpayment, or patient responsibility collection, MGMA’s guidance is built for leaders responsible for ensuring the practice gets paid accurately and on time.\nChris Harrop\nMGMA Staff Members\nMGMA HR Insights\nMGMA Operations Management Insights\nMGMA Financial Insights",
+    "related_articles": [
+      {
+        "title": "Skip To Navigation",
+        "url": "https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster#mainNav"
+      },
+      {
+        "title": "Skip To Content",
+        "url": "https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster#content"
+      },
+      {
+        "title": "Skip To Footer",
+        "url": "https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster#footer"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/intent/tweet?text=https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster"
+      },
+      {
+        "title": "Linked In",
+        "url": "https://www.linkedin.com/shareArticle?mini=1&url=https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster&source=https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/share.php?u=https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster"
+      },
+      {
+        "title": "Email",
+        "url": "mailto:?subject= Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026&body=Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026%0D%0A%0A%0A https://www.mgma.com/mgma-stat/fewer-than-1-in-10-see-prior-auth-turnarounds-faster"
+      },
+      {
+        "title": "eligibility and prior authorization",
+        "url": "https://www.mgma.com/mgma-stat/phones-are-still-a-backlog-costing-medical-practices-time"
+      },
+      {
+        "title": "March MGMA Stat poll",
+        "url": "https://www.mgma.com/mgma-stat/how-many-payer-portals-is-too-many-most-practices-already-know-their-answer"
+      }
+    ]
+  },
+  {
+    "source": "MGMA",
+    "source_type": "MGMA Stat",
+    "title": "Most medical groups have gone years without a commercial payer rate increase",
+    "url": "https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase",
+    "published_date": "8/26/2026",
+    "author": "Chris Harrop",
+    "description": "Despite rising operating costs and stagnant commercial payer rates for many years, medical groups can leverage strategic negotiations, robust data, and market positioning to secure better contracts and ensure financial sustainability.",
+    "poll": {
+      "detected": true,
+      "poll_date": null,
+      "respondents": 203,
+      "results": [
+        {
+          "percentage": 29,
+          "answer": "of medical group leaders say their practice received its most recent commercial"
+        },
+        {
+          "percentage": 17,
+          "answer": "said their last increase came one to two years ago, while half (50%) said it had"
+        },
+        {
+          "percentage": 4,
+          "answer": "selected N/A"
+        },
+        {
+          "percentage": 58,
+          "answer": "of medical groups reviewed payer contracts annually, while 17% did not review th"
+        },
+        {
+          "percentage": 18,
+          "answer": "of medical groups used Transparency in Coverage data in payer negotiations"
+        },
+        {
+          "percentage": 46,
+          "answer": "did not, and 36% were unsure"
+        },
+        {
+          "percentage": 80,
+          "answer": "of revenue"
+        },
+        {
+          "percentage": 47,
+          "answer": "of practices audited payer contracted rates annually and 28% did so more often"
+        }
+      ]
+    },
+    "payer_mentions": [
+      "Medicare"
+    ],
+    "operational_topics": [
+      "reimbursement",
+      "coding",
+      "staff_workload"
+    ],
+    "headings": [
+      "Most medical groups have gone years without a commercial payer rate increase",
+      "Our Aug. 25 poll looks at when medical groups last secured higher commercial rates, what helped and what is holding others back",
+      "Why commercial rates can stay unchanged for years",
+      "What leaders told MGMA",
+      "Start with the contracts you already have",
+      "Check that the new rates are being paid",
+      "Notes",
+      "Explore Related Content",
+      "Podcast",
+      "The Hidden Cost of Winning the Rate: What Health Systems Get Wrong in Payer Contracting",
+      "Insight Article",
+      "Financial optimization for physician practices: Assessment and improvement opportunities",
+      "Podcast",
+      "The Spreadsheet Problem Hiding Inside Physician Compensation",
+      "Insight Article",
+      "We signed a two-sided contract. Now what?",
+      "Insight Article",
+      "Evaluating ACO participation in an independent practice",
+      "MGMA Stat",
+      "Falling behind on physician compensation plan review carries real risk",
+      "Webinar",
+      "Scale Smarter: 7 High-Impact Ways to Automate RCM - on demand",
+      "Webinar",
+      "Where Referrals Leak: Measuring and Automating the Patient Access Pipeline",
+      "MGMA Stat",
+      "About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs",
+      "Webinar",
+      "Denial Trends Decoded: Turning Data Into Dollars (With Half the Staff) - on demand",
+      "MGMA Stat",
+      "Revenue growth narrows as costs climb: the 2026 squeeze on medical practices",
+      "Podcast",
+      "MGMA Data Dive, Done Right: Understanding Provider Compensation with Data Experts Jennifer Sanchez and Liz Gurley",
+      "Webinar",
+      "Negotiation Mastery and Fair Market Value: Building Data-Driven Agreements in a Changing Healthcare Economy - on demand",
+      "Insight Article",
+      "When patient volume softens: Diagnose before you cut",
+      "Webinar",
+      "Reimagining Revenue: Data, AI, and the Future of Denial Management - on demand",
+      "Insight Article",
+      "Enterprise portfolio management for medical group practices: Converting strategy into outcomes",
+      "MGMA Stat",
+      "Does the quality element of your provider compensation effectively drive behavior change?",
+      "Webinar",
+      "Where Revenue Gets Stuck: Front-end to Back-end Fixes for Faster Payment - on demand",
+      "Webinar",
+      "Streamlining Financial Reporting in Medical Practices: ERP Strategies That Work - on demand",
+      "Online Course",
+      "Financial Management Certificate",
+      "More MGMA Stats",
+      "MGMA Stat",
+      "Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026",
+      "MGMA Stat",
+      "Beyond backfills: More than half of practices adding net-new APP roles",
+      "MGMA Stat",
+      "About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs",
+      "MGMA Stat",
+      "As AI use expands, medical practice leaders shift attention to measurement",
+      "MGMA Stat",
+      "Days in A/R holds steady for most practices, but payer pressure persists in 2026",
+      "MGMA Stat",
+      "EHR and PM workarounds reveal the hidden cost of broken workflows",
+      "MGMA Stat",
+      "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+      "MGMA Stat",
+      "Stable staff-to-physician ratios might conceal real strain in your practice",
+      "MGMA Stat",
+      "Revenue growth narrows as costs climb: the 2026 squeeze on medical practices",
+      "MGMA Stat",
+      "Operating costs keep climbing for medical practices in 2026",
+      "MGMA Stat",
+      "Can AI find your practice when patients ask?",
+      "MGMA Stat",
+      "Medical practice worker benefits: Where retention tools meet cost pressure",
+      "MGMA Stat",
+      "AI is slowly redesigning work in medical practices rather than replacing workers",
+      "MGMA Stat",
+      "Stabilized but not solved: Staff turnover in medical practices looking no better, no worse in 2026",
+      "MGMA Stat",
+      "Medical assistants: Tackling practices’ worst hiring problem before it gets worse",
+      "MGMA Stat",
+      "Are AI tools making clinicians more productive? It’s complicated",
+      "MGMA Stat",
+      "Is it time for your practice to rethink how it pays APPs?",
+      "MGMA Stat",
+      "Physician burnout and early retirement: The pressure medical groups can't afford to ignore",
+      "MGMA Stat",
+      "Falling behind on physician compensation plan review carries real risk",
+      "MGMA Stat",
+      "Does the quality element of your provider compensation effectively drive behavior change?",
+      "Explore Related Topics"
+    ],
+    "article_text": "Only 29% of medical group leaders say their practice received its most recent commercial payer rate increase within the past year, according to an Aug. 25, 2026, MGMA Stat poll. Another 17% said their last increase came one to two years ago, while half (50%) said it had been three years or longer. Another 4% selected N/A. The poll had 203 applicable responses.\nMeanwhile, practice expenses continue to rise. More than 8 in 10 groups report higher year-to-date operating costs this year, while less than half (47%) report increased revenue to help keep pace.\nFor the two-thirds of respondents who said their most recent commercial rate increase came more than a year ago, working from an older fee schedule is a clear imbalance: today's wages, supply costs and rent are being supported by reimbursement rates set years earlier.\nOne reason is simple: many commercial contracts renew automatically. If no one tracks the dates and starts the process, another contract year can begin with the same rates.\nAn Aug. 15, 2023, MGMA Stat poll found that 58% of medical groups reviewed payer contracts annually, while 17% did not review them on any regular schedule. Reviewing an agreement also does not mean reopening it for negotiation. In smaller organizations, that work may compete with billing problems, credentialing, staffing and other daily responsibilities.\nPractices also need data to show how their current rates compare with the market. Transparency in Coverage rules have made payer-negotiated rate information publicly available, but using those files remains difficult for many groups. A Dec. 30, 2025, MGMA Stat poll found that only 18% of medical groups used Transparency in Coverage data in payer negotiations. Another 46% did not, and 36% were unsure.\nLeaders who were not using the data cited several reasons, including limited awareness, uncertainty about its value and the time or technology needed to turn large public files into useful CPT-level comparisons.\nComments from groups that secured an increase within the past year point to several recurring ingredients: a strong market position, benchmarking or other market data, quality metrics and a willingness to push negotiations further when needed. Threatening to terminate the contract was one of the most frequently cited tactics, while several respondents paired market position with benchmarking data rather than relying on a single argument.\nPersistence mattered, too. One respondent said it took six months to get a payer to respond after years without an increase, followed by another two months of negotiations. Others said simply asking produced an increase, while some practices relied on contract consultants or built-in contractual rate adjustments.\nThe comments were markedly different among practices that had gone longer without an increase. For respondents whose last increase was one to two years ago, contract terms, payer refusal and lack of leverage were the most common barriers. Among the three-years-or-longer group, payer refusal and lack of leverage dominated, with staff bandwidth a clear secondary problem. Several respondents described payers that would not discuss rates or lacked an accessible representative.\nOne private pediatric practice said payers were “flat out refusing to entertain requests for increases.” Another respondent pointed to a different structural problem: its health system accepted lower medical group rates in pursuit of more favorable rates on the acute-care side.\nMGMA consultant Doral Davis-Jacobsen's payer contracting checklist starts with a basic inventory: every executed payer agreement, the products covered by each contract, and the date it was last negotiated.\nFor practices that cannot readily answer when their largest commercial contracts were last renegotiated, that inventory is the place to begin.\nThe next step is assembling the information needed to decide where an increase would matter most:\nPayer mix and gross collections by payer, using a full year of data.\nCPT-level fee schedules for the codes that generate at least 80% of revenue.\nCost per visit or procedure for those services.\nAn assessment of the administrative burden created by each major payer.\nPractices also need a business case for the request. Davis-Jacobsen has described a North Carolina ophthalmology practice that compared its total cost for cataract surgery with the highest-cost provider in its market. The analysis showed savings of more than $6,200 per case, giving the practice a specific value argument to take to the payer.\nFrom there, practices can prioritize the commercial payers with the greatest financial impact and set a specific rate target for each one. Starting several months before renewal gives the group time to gather CPT-level data, model the effect of different rates and get negotiation calls scheduled.\nThis poll’s responses add an important point: data alone may not be enough. Practices that recently won increases frequently paired their evidence with something that strengthened their negotiating position — market importance, quality performance, persistence or a credible willingness to walk away.\nThe work continues after an agreement is signed.\nA January 2021 MGMA Stat poll found that 47% of practices audited payer contracted rates annually and 28% did so more often. Once new rates take effect, practices should load the updated fee schedule, spot-check high-volume codes within 60 days and track underpayments by payer.\nMGMA's Physician Fee Schedule Tool can help practices compare fee schedule versions by year and locality with non-Medicare rates, making it useful both when preparing for negotiations and when checking payments afterward.\nFor practices with Jan. 1 renewals, late summer is already part of the contracting calendar. The immediate work is straightforward: identify when major commercial agreements were last negotiated, decide which payers deserve attention and begin assembling the data behind the request.\nFor the half of respondents who have gone three years or longer without an increase, the comments suggest starting even more basically: find the contract, identify who owns the payer relationship, determine what leverage the practice can bring to the discussion and put the next renewal date on the calendar.\nHarrop C. \"Is it time to review your medical group's payer contracts?\" MGMA. Aug. 16, 2023. https://www.mgma.com/mgma-stat/is-it-time-to-review-your-groups-payer-contracts\nHarrop C. \"Using TiC negotiated-rate data to negotiate smarter payer contracts.\" MGMA. Dec. 31, 2025. https://www.mgma.com/mgma-stat/using-tic-negotiated-rate-data-to-negotiate-payer-contrac\nHarrop C. \"Operating costs keep climbing for medical practices in 2026.\" MGMA. June 24, 2026. https://www.mgma.com/mgma-stat/operating-costs-keep-climbing-for-medical-practices-in-2026\nHarrop C. \"Revenue growth narrows as costs climb: the 2026 squeeze on medical practices.\" MGMA. July 2, 2026. https://www.mgma.com/mgma-stat/revenue-growth-narrows-as-costs-climb-2026-squeeze\nDavis-Jacobsen D. \"Payer Contracting Checklist: 10 action items to optimize your negotiations.\" MGMA member tool. https://www.mgma.com/member-tools/payer-contracting-checklist-10-action-items-to-optimize-your-negotiations\nMGMA Staff Members. \"Developing your medical group's value proposition to support payer contract negotiation strategy.\" MGMA. Jan. 16, 2022. https://www.mgma.com/articles/developing-your-medical-group-s-value-proposition-to-support-payer-contract-negotiation-strategy\nMGMA. Payer Contracting Playbook. April 23, 2025. https://www.mgma.com/playbooks/payer-contracting\nMGMA. Analyzing Payer Contracts Playbook. May 8, 2025. https://www.mgma.com/playbooks/payer-contract-analysis\nMGMA. Physician Fee Schedule Tool. https://www.mgma.com/content-tools/physician-fee-schedule-tool\nMGMA Stat. \"New year's resolution: Optimizing audits of your practice's payer contracted rates.\" Jan. 5, 2021. https://www.mgma.com/mgma-stats/new-year-s-resolution-optimizing-audits-of-your-medical-practice-s-payer-contracted-rates\nWritten By\nChris Harrop\nChris Harrop is a Senior Editor on MGMA's Training and Development team, helping turn data complexity, the steady flow of news headlines and frontline feedback into practical tools and advice for medical group leaders. He previously led MGMA's publications as Senior Editorial Manager, managing MGMA Connection magazine, the MGMA Insights newsletter, and MGMA Stat , and MGMA summary data reports. Before joining MGMA, he was a journalist and newsroom leader in many Denver-area news organizations.\nMGMA Revenue Cycle Insights\nMGMA Staff Members\nMGMA HR Insights\nMGMA Operations Management Insights\nMGMA Financial Insights",
+    "related_articles": [
+      {
+        "title": "Skip To Navigation",
+        "url": "https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase#mainNav"
+      },
+      {
+        "title": "Skip To Content",
+        "url": "https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase#content"
+      },
+      {
+        "title": "Skip To Footer",
+        "url": "https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase#footer"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/intent/tweet?text=https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase"
+      },
+      {
+        "title": "Linked In",
+        "url": "https://www.linkedin.com/shareArticle?mini=1&url=https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase&source=https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/share.php?u=https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase"
+      },
+      {
+        "title": "Email",
+        "url": "mailto:?subject= Most medical groups have gone years without a commercial payer rate increase&body=Most medical groups have gone years without a commercial payer rate increase%0D%0A%0A%0A https://www.mgma.com/mgma-stat/most-medical-groups-have-gone-years-without-a-commercial-payer-rate-increase"
+      },
+      {
+        "title": "Aug. 15, 2023, MGMA Stat poll",
+        "url": "https://www.mgma.com/mgma-stat/is-it-time-to-review-your-groups-payer-contracts"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/is-it-time-to-review-your-groups-payer-contracts",
+        "url": "https://www.mgma.com/mgma-stat/is-it-time-to-review-your-groups-payer-contracts"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/using-tic-negotiated-rate-data-to-negotiate-payer-contrac",
+        "url": "https://www.mgma.com/mgma-stat/using-tic-negotiated-rate-data-to-negotiate-payer-contrac"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/operating-costs-keep-climbing-for-medical-practices-in-2026",
+        "url": "https://www.mgma.com/mgma-stat/operating-costs-keep-climbing-for-medical-practices-in-2026"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/revenue-growth-narrows-as-costs-climb-2026-squeeze",
+        "url": "https://www.mgma.com/mgma-stat/revenue-growth-narrows-as-costs-climb-2026-squeeze"
+      }
+    ]
+  },
+  {
+    "source": "MGMA",
+    "source_type": "MGMA Stat",
+    "title": "Beyond backfills: More than half of practices adding net-new APP roles",
+    "url": "https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles",
+    "published_date": "8/19/2026",
+    "author": "Chris Harrop",
+    "description": "More than half of medical practices have expanded their advanced practice provider (APP) workforce in the past year, driven by growth, evolving care models, and the need to address physician shortages and operational challenges.",
+    "poll": {
+      "detected": true,
+      "poll_date": null,
+      "respondents": 288,
+      "results": [
+        {
+          "percentage": 45,
+          "answer": "said no, 1% were unsure and 2% said the question did not apply because they do n"
+        },
+        {
+          "percentage": 48,
+          "answer": "of practices shifted their APP-to-physician ratio toward APPs during 2025, 40% h"
+        },
+        {
+          "percentage": 11,
+          "answer": "moved toward physicians"
+        },
+        {
+          "percentage": 7,
+          "answer": "rise in consumer prices in every grouping except primary care physician assistan"
+        },
+        {
+          "percentage": 22,
+          "answer": "and primary care physician assistant pay about 27%, compared with about 15% for"
+        },
+        {
+          "percentage": 46,
+          "answer": "and 7"
+        },
+        {
+          "percentage": 15,
+          "answer": "to 21% more total compensation than peers without them — 18"
+        },
+        {
+          "percentage": 7,
+          "answer": "in primary care, 15"
+        },
+        {
+          "percentage": 2,
+          "answer": "among surgical specialists and 20"
+        },
+        {
+          "percentage": 7,
+          "answer": "among nonsurgical specialists"
+        },
+        {
+          "percentage": 8,
+          "answer": "in 2025 and PA work RVUs rose about 8"
+        },
+        {
+          "percentage": 34,
+          "answer": "to 55%"
+        },
+        {
+          "percentage": 66,
+          "answer": "and physician associate supply 37% between 2024 and 2034"
+        },
+        {
+          "percentage": 90,
+          "answer": "of NPs are certified to work in primary care, but only about a third choose it,"
+        }
+      ]
+    },
+    "payer_mentions": [],
+    "operational_topics": [
+      "documentation",
+      "staff_workload"
+    ],
+    "headings": [
+      "Beyond backfills: More than half of practices adding net-new APP roles",
+      "What you told us",
+      "What changed since last November",
+      "What the 2026 benchmarks show",
+      "A growing workforce will not solve every local hiring problem",
+      "Three things to check in your own numbers",
+      "Join MGMA Stat",
+      "Additional reading",
+      "Notes",
+      "Explore Related Content",
+      "Insight Article",
+      "When patient volume softens: Diagnose before you cut",
+      "MGMA Stat",
+      "5 big challenges for medical practices (and why they all tie back to staffing)",
+      "MGMA Stat",
+      "Where medical groups are putting new dollars in 2026 budgets",
+      "MGMA Stat",
+      "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+      "Press Release",
+      "Medical Practice Pay Cools, But Hiring Pressure Holds Firm, New MGMA Report Finds",
+      "Podcast",
+      "Transition Management: Protecting Continuity of Care During Staffing Change with LocumsTenens.com",
+      "Webinar",
+      "Reimagining Healthcare Travel Savings Through Intelligent Marketplace Technology - on demand",
+      "2025 MGMA Financials and Operations Data Report",
+      "Podcast",
+      "MGMA Insights: Navigating the Future of Physician Recruitment with Liz Mahan",
+      "Insight Article",
+      "Osage Strong: Kirk Shaw on how WahZhaZhe Health Center works to transform access and wellness",
+      "Webinar",
+      "2026 Practice Management and Staff Compensation Benchmarks and Trends - on demand",
+      "MGMA Stat",
+      "Stable staff-to-physician ratios might conceal real strain in your practice",
+      "Online Course",
+      "Human Resources Management Certificate",
+      "Podcast",
+      "Building Resilient Teams in Rural Healthcare: Lessons from Anthony Schirer, Cheyenne OBGYN",
+      "Podcast",
+      "Finding Hidden Revenue and Building Human Connection: A Conversation with Jimmie Richmond of Banner Health",
+      "Webinar",
+      "Expanding Capacity Through Strategic Recruitment and Provider Performance Optimization - on demand",
+      "MGMA Stat",
+      "Budgeting competitive, sustainable 2026 staff pay for your medical practice",
+      "Insight Article",
+      "Smart growth isn’t about hiring, it’s about structure",
+      "Playbook",
+      "Physician Hiring Playbooks",
+      "More MGMA Stats",
+      "MGMA Stat",
+      "Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026",
+      "MGMA Stat",
+      "Most medical groups have gone years without a commercial payer rate increase",
+      "MGMA Stat",
+      "About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs",
+      "MGMA Stat",
+      "As AI use expands, medical practice leaders shift attention to measurement",
+      "MGMA Stat",
+      "Days in A/R holds steady for most practices, but payer pressure persists in 2026",
+      "MGMA Stat",
+      "EHR and PM workarounds reveal the hidden cost of broken workflows",
+      "MGMA Stat",
+      "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+      "MGMA Stat",
+      "Stable staff-to-physician ratios might conceal real strain in your practice",
+      "MGMA Stat",
+      "Revenue growth narrows as costs climb: the 2026 squeeze on medical practices",
+      "MGMA Stat",
+      "Operating costs keep climbing for medical practices in 2026",
+      "MGMA Stat",
+      "Can AI find your practice when patients ask?",
+      "MGMA Stat",
+      "Medical practice worker benefits: Where retention tools meet cost pressure",
+      "MGMA Stat",
+      "AI is slowly redesigning work in medical practices rather than replacing workers",
+      "MGMA Stat",
+      "Stabilized but not solved: Staff turnover in medical practices looking no better, no worse in 2026",
+      "MGMA Stat",
+      "Medical assistants: Tackling practices’ worst hiring problem before it gets worse",
+      "MGMA Stat",
+      "Are AI tools making clinicians more productive? It’s complicated",
+      "MGMA Stat",
+      "Is it time for your practice to rethink how it pays APPs?",
+      "MGMA Stat",
+      "Physician burnout and early retirement: The pressure medical groups can't afford to ignore",
+      "MGMA Stat",
+      "Falling behind on physician compensation plan review carries real risk",
+      "MGMA Stat",
+      "Does the quality element of your provider compensation effectively drive behavior change?",
+      "Explore Related Topics"
+    ],
+    "article_text": "Our Aug. 18, 2026, MGMA Stat poll asked medical practice leaders whether their practice has added advanced practice provider (APP) positions beyond backfills in the past 12 months. More than half (51%) said yes, 45% said no, 1% were unsure and 2% said the question did not apply because they do not employ APPs. The poll had 288 applicable responses.\nThe distinction matters. A practice can hire two nurse practitioners and end the year with the same APP headcount if both hires replaced people who left. A net-new position is different. Leaders approved a new salary and benefits line, found room on the schedule and in the clinic, assigned physician oversight where required, and decided the added access or service capacity justified the cost.\nAmong respondents reporting net-new APP positions , the primary driver was practice growth . Leaders linked additions to service-line expansion, increased patient volumes, new locations, extended hours, growing referrals, and efforts to improve patient access. Many also described APPs as central to expanding team-based care models , helping extend physician capacity and reduce wait times.\nA separate theme was physician substitution rather than pure growth . Respondents cited physician retirements, departures, recruitment challenges, loss of physician resources, and difficulty hiring family medicine physicians. In these cases, APPs were added to maintain access or replace hard-to-fill physician capacity. A smaller group pointed to operational and coverage needs, including hospital coverage, discharge planning, regulatory changes, or profitability initiatives.\nAmong practices that did not add net-new APP positions , the most common explanation was no current need . Respondents reported stable demand, adequate APP staffing, sufficient coverage for existing volumes, or patient counts that did not justify expansion.\nFinancial constraints were the next most common factor, including budget pressures, hiring freezes, productivity concerns, and decisions to optimize existing resources before adding staff. Others cited space limitations , recruitment difficulties, or a focus on filling existing vacancies rather than creating new positions.\nSeveral comments reflected physician or ownership preferences , particularly in specialty settings where groups prioritize physician-only care or believe patients and referring providers prefer physicians. A small number also pointed to scope-of-practice or specialty restrictions that limit APP use.\nLooking ahead, some organizations expect to add APPs to meet future volume growth, while others anticipate maintaining current staffing levels because demand, budget, or facility capacity does not support expansion. Practices without APPs generally indicated they do not see a need for them or operate in settings where APP utilization remains limited.\nOur Nov. 11, 2025, poll asked a slightly different question and found that 48% of practices shifted their APP-to-physician ratio toward APPs during 2025, 40% held it steady and 11% moved toward physicians.² It’s important to not trend this week’s results against the earlier poll as the 2025 poll measured a ratio, which can change because a practice adds APPs, loses physicians without replacing them, or both. With a majority answering “yes” this week, it points to a similar trend that signals stronger APP demand rather than just reflecting physician attrition.\nThe 2026 MGMA DataDive Provider Compensation and Productivity data report, based on 2025 data from more than 245,900 physicians and APPs, helps explain the budget and staffing pressures behind the poll results.¹\nOld salary assumptions can understate the cost. One-year APP compensation growth exceeded the 2.7% rise in consumer prices in every grouping except primary care physician assistants, at 2.10%. Over five years, primary care nurse practitioner pay rose about 22% and primary care physician assistant pay about 27%, compared with about 15% for primary care physicians. Nonsurgical/nonprimary care NPs and PAs posted the largest one-year gains, at 8.46% and 7.43%.¹\nAPPs may still cost less than physicians in absolute dollars, but practices should not carry old salary ratios into a 2027 budget.\nPhysician oversight has to be priced. Physicians with supervisory duties reported 15% to 21% more total compensation than peers without them — 18.7% in primary care, 15.2% among surgical specialists and 20.7% among nonsurgical specialists.¹ The benchmark does not isolate APP oversight or prove that supervision caused the pay difference. It does show why a new APP role should not treat physician time as free.\nMeasure APP output separately. The 2026 report documents a broad physician productivity reset: Work RVUs fell in 16 of 23 common specialties, and total physician encounters fell in all 23.¹ MGMA polling also found fewer groups meeting or exceeding clinician productivity goals than a year earlier.¹\nAPP work RVUs increased while physician productivity softened. In primary care, NP work RVUs rose about 8.8% in 2025 and PA work RVUs rose about 8.7%, with five-year APP gains ranging from roughly 34% to 55%. That supports the idea that some clinical work is shifting across the care team. However, it does not prove that APPs replaced every physician visit that disappeared from the benchmarks.\nNational APP supply is growing quickly. Federal projections cited by the AAMC have nurse practitioner supply increasing 66% and physician associate supply 37% between 2024 and 2034.³\nSupply also does not guarantee a candidate in the specialty or market where you need one. KFF Health News reported that nearly 90% of NPs are certified to work in primary care, but only about a third choose it, as more move into better-paying specialties. 4 A growing national pipeline does not mean the primary care opening you posted in March will be easy to fill.\nPatient communication and state rules still matter. Scope rules are state-specific. The AMA reported that 2026 bills to remove physician supervision or collaboration for PAs were defeated in Idaho, New Mexico, Tennessee, Wisconsin and West Virginia, while similar NP independence efforts faced resistance. 5\nBefore posting a role, confirm the rules that apply to the license and specialty, define who reviews or signs what.\nReport APP productivity separately from physician productivity. Track the measures that match the job: visits, wRVUs, panel growth, access, procedures or work taken out of the physician inbox.\nPrice physician oversight and the ramp-up period. Include physician onboarding and supervision time, and any compensation tied to it. Also model how long it will take the APP to reach the expected visit mix and volume.\nCheck for role drift at 90 and 180 days. Compare the APP's actual template, visit types, refill and inbox work, and panel growth with what leaders approved. A role hired to expand same-day access can quietly become general coverage unless someone checks.\nOur ability at MGMA to provide useful resources, education and advocacy depends on a strong feedback loop with healthcare leaders. To take part, sign up for MGMA Stat and make your voice heard in our weekly polls. Text \"STAT\" to 33550 or visit mgma.com/mgma-stat . Polls will be sent to your phone by text message.\nAPP utilization and how care team redesign continues into 2026 — MGMA Stat , Nov. 12, 2025\nIs it time for your practice to rethink how it pays APPs? — MGMA Stat , May 6, 2026\nHas the trend toward incentives in advanced practice provider compensation lost steam? — MGMA Stat , March 2025\nStable staff-to-physician ratios might conceal real strain in your practice — MGMA Stat , July 8, 2026\nNew-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand — MGMA Stat , July 15, 2026\nKeeping your clinician productivity on track throughout 2026 — MGMA Stat , March 4, 2026\nClawbacks on clinician sign-on bonuses are more common — and not a retention strategy — MGMA Stat , Feb. 5, 2026\nRebuilding APP compensation in the shift toward quality incentives — member-exclusive Leaders Conference recap\nFinding hidden capacity and optimizing recruitment for your next physician hire — Dec. 29, 2025\nAdvanced Practice Provider (APP) Compensation Model Contract Outline — member tool\nProvider Compensation and Productivity 2026: Benchmarks, Shifts and Strategic Takeaways — member-exclusive webinar, on demand\n1. Medical Group Management Association. 2026 Provider Compensation and Productivity Data Report. Englewood, CO: MGMA; 2026.\n2. Harrop C. APP utilization and how care team redesign continues into 2026. MGMA Stat. November 12, 2025. https://www.mgma.com/mgma-stat/app-utilization-and-care-team-redesign-in-2026\n3. Forte G. How improved health workforce projection models could support policy. Association of American Medical Colleges. July 9, 2024. Accessed August 2026. https://www.aamc.org/data-reports/workforce/how-improved-health-workforce-projection-models-could-support-policy\n4. Andrews M. Like doctors, more nurse practitioners are heading into specialty care. KFF Health News. June 17, 2024. https://kffhealthnews.org/health-industry/health-brief-nurse-practitioners-leaving-primary-care/\n5. American Medical Association. April 24, 2026 state advocacy update. April 24, 2026. https://www.ama-assn.org/health-care-advocacy/advocacy-update/april-24-2026-state-advocacy-update\nWritten By\nChris Harrop\nChris Harrop is a Senior Editor on MGMA's Training and Development team, helping turn data complexity, the steady flow of news headlines and frontline feedback into practical tools and advice for medical group leaders. He previously led MGMA's publications as Senior Editorial Manager, managing MGMA Connection magazine, the MGMA Insights newsletter, and MGMA Stat , and MGMA summary data reports. Before joining MGMA, he was a journalist and newsroom leader in many Denver-area news organizations.\nMGMA Revenue Cycle Insights\nMGMA Staff Members\nMGMA HR Insights\nMGMA Operations Management Insights\nMGMA Financial Insights",
+    "related_articles": [
+      {
+        "title": "Skip To Navigation",
+        "url": "https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles#mainNav"
+      },
+      {
+        "title": "Skip To Content",
+        "url": "https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles#content"
+      },
+      {
+        "title": "Skip To Footer",
+        "url": "https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles#footer"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/intent/tweet?text=https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles"
+      },
+      {
+        "title": "Linked In",
+        "url": "https://www.linkedin.com/shareArticle?mini=1&url=https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles&source=https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/share.php?u=https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles"
+      },
+      {
+        "title": "Email",
+        "url": "mailto:?subject= Beyond backfills: More than half of practices adding net-new APP roles&body=Beyond backfills: More than half of practices adding net-new APP roles%0D%0A%0A%0A https://www.mgma.com/mgma-stat/beyond-backfills-more-than-half-of-practices-adding-net-new-app-roles"
+      },
+      {
+        "title": "Nov. 11, 2025, poll",
+        "url": "https://www.mgma.com/mgma-stat/app-utilization-and-care-team-redesign-in-2026"
+      },
+      {
+        "title": "APP utilization and how care team redesign continues into 2026",
+        "url": "https://www.mgma.com/mgma-stat/app-utilization-and-care-team-redesign-in-2026"
+      },
+      {
+        "title": "Is it time for your practice to rethink how it pays APPs?",
+        "url": "https://www.mgma.com/mgma-stat/app-compensation-methodology-2026"
+      },
+      {
+        "title": "Has the trend toward incentives in advanced practice provider compensation lost steam?",
+        "url": "https://www.mgma.com/mgma-stat/has-the-trend-toward-incentives-in-advanced-practice-provider-compensation-lost-steam"
+      },
+      {
+        "title": "Stable staff-to-physician ratios might conceal real strain in your practice",
+        "url": "https://www.mgma.com/mgma-stat/stable-staff-to-physician-ratios-might-conceal-real-strain-in-your-practice"
+      },
+      {
+        "title": "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+        "url": "https://www.mgma.com/mgma-stat/new-patient-wait-times-largely-hold-flat-in-2026-as-some-groups-add-providers-in-bid-to-meet-demand"
+      },
+      {
+        "title": "Keeping your clinician productivity on track throughout 2026",
+        "url": "https://www.mgma.com/mgma-stat/keeping-your-clinician-productivity-on-track-throughout-2026"
+      },
+      {
+        "title": "Clawbacks on clinician sign-on bonuses are more common — and not a retention strategy",
+        "url": "https://www.mgma.com/mgma-stat/clawbacks-on-clinician-sign-on-bonuses-more-common"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/app-utilization-and-care-team-redesign-in-2026",
+        "url": "https://www.mgma.com/mgma-stat/app-utilization-and-care-team-redesign-in-2026"
+      }
+    ]
+  },
+  {
+    "source": "MGMA",
+    "source_type": "MGMA Stat",
+    "title": "About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs",
+    "url": "https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs",
+    "published_date": "8/12/2026",
+    "author": "Chris Harrop",
+    "description": "Rising patient costs and economic pressures have driven higher no-show rates in 2026, with medical groups struggling to adapt through enhanced reminders, cost conversations, and scheduling strategies to maintain patient access and financial stability.",
+    "poll": {
+      "detected": true,
+      "poll_date": null,
+      "respondents": 190,
+      "results": [
+        {
+          "percentage": 32,
+          "answer": "of medical groups reported higher patient no-show rates year to date compared wi"
+        },
+        {
+          "percentage": 58,
+          "answer": "reported about the same and 10% reported lower rates"
+        },
+        {
+          "percentage": 100,
+          "answer": "due to rounding"
+        },
+        {
+          "percentage": 27,
+          "answer": "chose no-shows, narrowly ahead of online scheduling (24%), phone access (22%) an"
+        },
+        {
+          "percentage": 37,
+          "answer": "to a record $3,786, up from $2,759 in 2025"
+        },
+        {
+          "percentage": 17,
+          "answer": "of adults delayed or went without medical care, mental health care or prescripti"
+        },
+        {
+          "percentage": 95,
+          "answer": "appointment cancellation rate in its 2024 single-specialty aggregate, and only 2"
+        },
+        {
+          "percentage": 40,
+          "answer": "of canceled visits were rescheduled within 30 days"
+        },
+        {
+          "percentage": 95,
+          "answer": "as a universal target: The measure includes patient- and practice-initiated canc"
+        },
+        {
+          "percentage": 72,
+          "answer": "of copayments at the time of service but only 26"
+        },
+        {
+          "percentage": 83,
+          "answer": "of patient-due balances"
+        },
+        {
+          "percentage": 81,
+          "answer": "of providers viewed forgetting as the leading cause, while patients more often c"
+        },
+        {
+          "percentage": 69,
+          "answer": "of patients wanted to reschedule online without calling"
+        },
+        {
+          "percentage": 42,
+          "answer": "of practices reported using a no-show fee, and practices with a fee were more li"
+        },
+        {
+          "percentage": 25,
+          "answer": "versus 16%)"
+        }
+      ]
+    },
+    "payer_mentions": [],
+    "operational_topics": [
+      "reimbursement",
+      "staff_workload"
+    ],
+    "headings": [
+      "About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs",
+      "Compared with last year",
+      "What changed around the schedule this year",
+      "Add rebooking to the no-show scorecard",
+      "Start with your own baseline",
+      "Where to look next",
+      "Join MGMA Stat",
+      "Additional reading",
+      "Notes",
+      "Explore Related Content",
+      "Podcast",
+      "From Fire Hose to Field Guide — A Conversation with MGMA's Cristy Good on Turning Questions into Solutions",
+      "Webinar",
+      "Where Referrals Leak: Measuring and Automating the Patient Access Pipeline",
+      "MGMA Stat",
+      "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+      "Podcast",
+      "Stop Sending More Reminders! What Behavioral Science Can Teach Healthcare About Patient Follow-Through",
+      "Insight Article",
+      "Enterprise portfolio management for medical group practices: Converting strategy into outcomes",
+      "Podcast",
+      "Leveraging AI Solutions to Modernize Prior Authorization: A Conversation with Paola Ballester, MD",
+      "MGMA Stat",
+      "Patient no-shows in 2025: What’s changing and what to do about it",
+      "Podcast",
+      "Optimize patient panels without burning out your providers",
+      "Restoring Balance to Patient Access and Medical Practice Operations",
+      "Webinar",
+      "Rethinking Patient Access: From Call Center to Strategic Function - on demand",
+      "Webinar",
+      "Beyond the Calendar: 5 Scheduling Bottlenecks That Limit Practice Efficiency",
+      "2026 MGMA Financials and Operations Data Report",
+      "MGMA Stat",
+      "Most medical groups have gone years without a commercial payer rate increase",
+      "MGMA Stat",
+      "EHR and PM workarounds reveal the hidden cost of broken workflows",
+      "Insight Article",
+      "Fill the right slot: Designing backfill and overbooking by specialty",
+      "Podcast",
+      "MGMA Data Dive, Done Right: Understanding Provider Compensation with Data Experts Jennifer Sanchez and Liz Gurley",
+      "Insight Article",
+      "When patient volume softens: Diagnose before you cut",
+      "Podcast",
+      "Leading Through Change, Staying Grounded in Purpose — A Conversation with Melanie Stohl, Chair of Minnesota MGMA Board",
+      "Webinar",
+      "Rethinking Practice Growth for 2026: Expanding Administrative Capacity Without Adding Headcount - on demand",
+      "Podcast",
+      "Transition Management: Protecting Continuity of Care During Staffing Change with LocumsTenens.com",
+      "More MGMA Stats",
+      "MGMA Stat",
+      "Fewer than 1 in 10 practices see faster prior auth turnarounds in 2026",
+      "MGMA Stat",
+      "Most medical groups have gone years without a commercial payer rate increase",
+      "MGMA Stat",
+      "Beyond backfills: More than half of practices adding net-new APP roles",
+      "MGMA Stat",
+      "As AI use expands, medical practice leaders shift attention to measurement",
+      "MGMA Stat",
+      "Days in A/R holds steady for most practices, but payer pressure persists in 2026",
+      "MGMA Stat",
+      "EHR and PM workarounds reveal the hidden cost of broken workflows",
+      "MGMA Stat",
+      "New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand",
+      "MGMA Stat",
+      "Stable staff-to-physician ratios might conceal real strain in your practice",
+      "MGMA Stat",
+      "Revenue growth narrows as costs climb: the 2026 squeeze on medical practices",
+      "MGMA Stat",
+      "Operating costs keep climbing for medical practices in 2026",
+      "MGMA Stat",
+      "Can AI find your practice when patients ask?",
+      "MGMA Stat",
+      "Medical practice worker benefits: Where retention tools meet cost pressure",
+      "MGMA Stat",
+      "AI is slowly redesigning work in medical practices rather than replacing workers",
+      "MGMA Stat",
+      "Stabilized but not solved: Staff turnover in medical practices looking no better, no worse in 2026",
+      "MGMA Stat",
+      "Medical assistants: Tackling practices’ worst hiring problem before it gets worse",
+      "MGMA Stat",
+      "Are AI tools making clinicians more productive? It’s complicated",
+      "MGMA Stat",
+      "Is it time for your practice to rethink how it pays APPs?",
+      "MGMA Stat",
+      "Physician burnout and early retirement: The pressure medical groups can't afford to ignore",
+      "MGMA Stat",
+      "Falling behind on physician compensation plan review carries real risk",
+      "MGMA Stat",
+      "Does the quality element of your provider compensation effectively drive behavior change?",
+      "Explore Related Topics"
+    ],
+    "article_text": "An Aug. 11, 2026, MGMA Stat poll found that 32% of medical groups reported higher patient no-show rates year to date compared with 2025, while 58% reported about the same and 10% reported lower rates. The poll had 190 applicable responses. [Note: Percentages don't total 100% due to rounding.]\nMedical practices made no-shows their top patient access priority before 2026 began. In our December 2025 poll , 27% chose no-shows, narrowly ahead of online scheduling (24%), phone access (22%) and wait times (21%). 1 This week’s results provide a year-to-date check on whether responding practices are gaining ground as many patients face higher coverage and out-of-pocket costs.\nThe results shifted modestly in the wrong direction from a year ago: The share of groups reporting higher no-show rates rose 5 percentage points from our Aug. 12, 2025, poll , 2 while “about the same” declined 2 points and “decreased” fell 3 points.\nThe open-ended comments reinforce how difficult the problem can be to diagnose. Practices reporting higher no-show rates described many of the same tactics used by those whose rates held steady or improved: text and phone reminders, automated messages, confirmation calls, no-show fees and pre-check-in outreach.\nAmong respondents seeing increases, comments pointed to patient costs and broader economic pressure, transportation and gas expenses, work conflicts, weather and seasonal factors. Several leaders simply said they did not know what was pushing their rate higher despite adding more reminders or outreach. Others said they were double-booking or overbooking to absorb expected misses.\nRespondents reporting lower rates cited automated and text reminders, no-show fees, transportation support and more same-day appointment availability, among other changes. Because these are unstructured comments from a limited number of respondents, they cannot establish which interventions caused rates to rise or fall. They do suggest that no-shows rarely have a single cause — and that adding another reminder may not solve the problem if cost, transportation, work or long scheduling lead times are what keep the patient away.\nFor some patients, the cost of keeping an appointment rose in 2026 even when the practice did not change its reminder process. Enhanced premium tax credits for Affordable Care Act Marketplace coverage expired at the end of 2025. The number of people who paid their premiums and had active Marketplace coverage fell 13%, from 22.1 million in 2025 to 19.2 million in February 2026, according to KFF. 4 Among 2026 Marketplace plan selections, the average deductible rose 37% to a record $3,786, up from $2,759 in 2025. 5\nThat deductible increase can affect whether a patient keeps, postpones or cancels a visit after learning the expected cost. KFF’s January 2026 tracking poll found that healthcare was the household expense adults worried about most, ahead of housing, food, utilities and transportation. Separately, 2024 federal survey data show that 17% of adults delayed or went without medical care, mental health care or prescription drugs because of cost. 6\nThe practical response is to move the cost conversation earlier. Several days before the visit, staff should verify coverage, provide an estimate when possible and explain whom the patient can contact about payment options. Waiting until check-in leaves less time to resolve a cost concern or refill the slot.\nBetter attendance also creates a capacity trade-off. In MGMA’s July 14 poll on new-patient wait times, one leader reporting longer waits said established patients were returning at higher rates, with fewer no-shows and cancellations. 7 When more established-patient slots stay full, new-patient access can tighten unless the practice also adds capacity or adjusts its templates.\nTrack cancellations and no-shows separately. A cancellation gives the practice notice and a chance to refill the slot. A no-show usually does not. For both, the next question is whether staff rebooked the patient and whether the visit was eventually completed.\nThe 2025 MGMA DataDive Financials and Operations data report found a 19.95% appointment cancellation rate in its 2024 single-specialty aggregate, and only 27.40% of canceled visits were rescheduled within 30 days. 8 Do not treat 19.95% as a universal target: The measure includes patient- and practice-initiated cancellations, and the one-year change was unusually large. Use it as a prompt to check your own data. When a slot opens, how often is it refilled, and how often does the patient complete a visit within 30 days?\nThe same data set shows why access and patient collections should be reviewed together. Practices collected about 72% of copayments at the time of service but only 26.83% of patient-due balances. 8 When staff rebook a visit, they can also recheck coverage, update the estimate and offer payment options. That step matters more when higher deductibles leave patients responsible for a larger share of the bill.\nPublished no-show estimates vary widely by definition, specialty, patient population and setting. Rather than chase a blended national figure, find where your own missed visits concentrate — new-patient visits, procedures, behavioral health, one location or one provider template.\nCompare each clinic with its own 2025 baseline using the same definition and time period. Start by breaking the rate out by visit type and lead time; add payer, provider, location or referral source if the first cut does not explain the pattern.\nMore reminders are unlikely to help if forgetting is not the main reason patients miss. Tebra’s 2026 survey of 473 providers and 3,196 patients found that 81% of providers viewed forgetting as the leading cause, while patients more often cited work conflicts (31%), weather (30%) and emergencies (27%). The same survey found that 69% of patients wanted to reschedule online without calling. 9 Ask patients why they missed and check whether they can cancel or reschedule directly from the reminder.\nFees can still be one part of the approach. In January 2025, 42% of practices reported using a no-show fee, and practices with a fee were more likely to report improvement in their no-show rates than those without one (25% versus 16%). 3 The finding is self-reported and does not prove the fee caused the improvement. Treat fees as one option, not a stand-alone no-show strategy.\nSeparate no-shows from cancellations. A combined “missed visit” rate hides which problem is growing. For each event, calculate the share rebooked within 30 days and the share that ultimately results in a completed visit.\nCheck lead time before adding reminders. Use waitlists to pull patients into earlier openings, release held slots on a set schedule and protect same-day or next-day capacity where demand supports it. Measure what changes before adding another message or vendor feature.\nMove cost conversations earlier. Verify coverage, provide an estimate when possible and give the patient a contact for payment questions or options. If cost is the barrier, earlier notice gives the patient and the practice more time to find a workable next step.\nMake cancellation and rebooking easy — and assign an owner. Let patients cancel or choose a new slot from the reminder or portal when the visit type allows it. Define which staff member or team contacts high-priority no-shows, how quickly they act and when the issue is escalated.\nStart with the last six months of no-shows and cancellations. Sort them by visit type and lead time, then calculate how many were rebooked within 30 days and completed. Let the weakest segment determine the next change — whether that is an earlier cost estimate, a shorter lead time, a different reminder or clearer staff follow-up. For a deeper look at matching interventions to different kinds of missed visits, see “Beyond reminders: A segmented playbook for the no-shows you still can't fix.”\nOur ability at MGMA to provide great resources, education and advocacy depends on a strong feedback loop with healthcare leaders. To be part of this effort, sign up for MGMA Stat and make your voice heard in our weekly polls. Sign up by texting “STAT” to 33550 or visit mgma.com/mgma-stat . Polls will be sent to your phone via text message.\n“Stable staff-to-physician ratios might conceal real strain in your practice” (MGMA Stat , July 8, 2026)\n“Phones are still a bottleneck costing medical practices time they can’t afford” (MGMA Stat , March 11, 2026)\n“Automatic for the people: AI moves for medical practices to boost the front office and access” (MGMA Stat , Feb. 11, 2026)\n1. Harrop C. “Patient access priorities for 2026: Tackling wait times, phones, no-shows and more.” MGMA. Dec. 10, 2025. https://www.mgma.com/mgma-stat/patient-access-priorities-for-2026\n2. Harrop C. “Patient no-shows in 2025: What’s changing and what to do about it.” MGMA. Aug. 14, 2025. https://www.mgma.com/mgma-stat/patient-no-shows-in-2025\n3. MGMA Staff Members. “No-show fees in medical practices on the rise to balance bumpy attendance rates.” MGMA. Jan. 8, 2025. https://www.mgma.com/mgma-stat/no-show-fees-in-medical-practices-on-the-rise-to-balance-bumpy-attendance-rates\n4. Cox C. “ACA Marketplace enrollment is down by 3 million after big jump in premium payments.” KFF . June 29, 2026. https://www.kff.org/quick-insights/aca-marketplace-enrollment-is-down-by-3-million-after-big-jump-in-premium-payments/\n5. McGough M, Ortaliza J, Lo J, Cox C. “What we know so far about 2026 ACA Marketplace enrollment, premiums, and deductibles.” KFF . May 19, 2026. https://www.kff.org/affordable-care-act/what-we-know-so-far-about-2026-aca-marketplace-enrollment-premiums-and-deductibles/\n6. Rakshit S, Cotter L, McGough M, Claxton G. “How does cost affect access to healthcare?” Peterson-KFF Health System Tracker . March 10, 2026. https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/\n7. Harrop C. “New-patient wait times largely hold flat in 2026 as some groups add providers in bid to meet demand.” MGMA. July 15, 2026. https://www.mgma.com/mgma-stat/new-patient-wait-times-largely-hold-flat-in-2026-as-some-groups-add-providers-in-bid-to-meet-demand\n8. MGMA Staff. Margin in motion: Revenue-cost realities and staffing for yield . 2025 MGMA DataDive Financials and Operations data report. September 2025. https://www.mgma.com/2025-financials-and-operations\n9. Tebra. The state of patient no-shows and cancellations in 2026 . https://www.tebra.com/ebook/pe-gpid-the-state-of-no-shows-cancellations-2026\nWritten By\nChris Harrop\nChris Harrop is a Senior Editor on MGMA's Training and Development team, helping turn data complexity, the steady flow of news headlines and frontline feedback into practical tools and advice for medical group leaders. He previously led MGMA's publications as Senior Editorial Manager, managing MGMA Connection magazine, the MGMA Insights newsletter, and MGMA Stat , and MGMA summary data reports. Before joining MGMA, he was a journalist and newsroom leader in many Denver-area news organizations.\nMGMA Revenue Cycle Insights\nMGMA Staff Members\nMGMA HR Insights\nMGMA Operations Management Insights\nMGMA Financial Insights",
+    "related_articles": [
+      {
+        "title": "Skip To Navigation",
+        "url": "https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs#mainNav"
+      },
+      {
+        "title": "Skip To Content",
+        "url": "https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs#content"
+      },
+      {
+        "title": "Skip To Footer",
+        "url": "https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs#footer"
+      },
+      {
+        "title": "Twitter",
+        "url": "https://twitter.com/intent/tweet?text=https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs"
+      },
+      {
+        "title": "Linked In",
+        "url": "https://www.linkedin.com/shareArticle?mini=1&url=https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs&source=https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs"
+      },
+      {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/share.php?u=https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs"
+      },
+      {
+        "title": "Email",
+        "url": "mailto:?subject= About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs&body=About 1 in 3 medical groups see higher no-shows in 2026 as patients face higher costs%0D%0A%0A%0A https://www.mgma.com/mgma-stat/about-1-in-3-medical-groups-see-higher-no-shows-in-2026-as-patients-face-higher-costs"
+      },
+      {
+        "title": "December 2025 poll",
+        "url": "https://www.mgma.com/mgma-stat/patient-access-priorities-for-2026"
+      },
+      {
+        "title": "our Aug. 12, 2025, poll",
+        "url": "https://www.mgma.com/mgma-stat/patient-no-shows-in-2025"
+      },
+      {
+        "title": "“Stable staff-to-physician ratios might conceal real strain in your practice”",
+        "url": "https://www.mgma.com/mgma-stat/stable-staff-to-physician-ratios-might-conceal-real-strain-in-your-practice"
+      },
+      {
+        "title": "“Phones are still a bottleneck costing medical practices time they can’t afford”",
+        "url": "https://www.mgma.com/mgma-stat/phones-are-still-a-backlog-costing-medical-practices-time"
+      },
+      {
+        "title": "“Automatic for the people: AI moves for medical practices to boost the front office and access”",
+        "url": "https://www.mgma.com/mgma-stat/automatic-for-the-people-ai-for-front-office-access"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/patient-access-priorities-for-2026",
+        "url": "https://www.mgma.com/mgma-stat/patient-access-priorities-for-2026"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/patient-no-shows-in-2025",
+        "url": "https://www.mgma.com/mgma-stat/patient-no-shows-in-2025"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/no-show-fees-in-medical-practices-on-the-rise-to-balance-bumpy-attendance-rates",
+        "url": "https://www.mgma.com/mgma-stat/no-show-fees-in-medical-practices-on-the-rise-to-balance-bumpy-attendance-rates"
+      },
+      {
+        "title": "https://www.mgma.com/mgma-stat/new-patient-wait-times-largely-hold-flat-in-2026-as-some-groups-add-providers-in-bid-to-meet-demand",
+        "url": "https://www.mgma.com/mgma-stat/new-patient-wait-times-largely-hold-flat-in-2026-as-some-groups-add-providers-in-bid-to-meet-demand"
+      }
+    ]
+  }
+]

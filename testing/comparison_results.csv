@@ -1,0 +1,19 @@
+expected_category,text,OLD_label,OLD_score,NEW_content_type,NEW_intent_level,NEW_sld_candidate,NEW_confidence_tier,NEW_needs_review
+career,MD from Dominican Republic transitioning to remote Medical Billing.,NONE,0.98,general_discussion,,False,low,True
+job_search,Any coders work for Carle Health ?,L1,0.785,general_discussion,,False,low,True
+education/certification,Healthcare accounting: would a billing and coding cert help me get into it?,L1,0.793,certification_training,,False,medium,True
+career,I am a medical coder in India. I have recently joined access healthcare trivandrum. Is the work there stressful? How is the work atmosphere?,L1,0.501,career,,False,high,False
+career/job_search,First CPC-a job,NONE,0.938,general_discussion,,False,low,True
+certification_training,NHA CBCS exam questions: Nothing on it is what I studied,NONE,0.887,off_topic,,False,high,False
+job_search,Does anyone know of places that will hire and train vs taking billing/coding classes?,L1,0.803,solution_request,L2,True,low,True
+job_search,"Hiring an Integrative Medicine Biller & Revenue Cycle Management [part-time, remote]",NONE,0.944,vendor_request,L3,True,medium,True
+job_search/vendor-ish (ambiguous),Anyone here do QA/audit work for medical coding? Looking to connect for a paid project,L3,0.862,certification_training,,False,low,True
+problem_experience (L0),Our claims keep getting denied by UHC.,NONE,0.924,problem_experience,L0,True,high,False
+information_request (L1),How do you actually rework a CO-16 corrected claim — what's your process?,L1,0.961,information_request,L1,True,medium,True
+solution_request (L2),Is there a better way to manage our denials?,L2,0.901,solution_request,L2,True,medium,True
+vendor_request (L3),Can anyone recommend an RCM company?,NONE,0.427,general_discussion,,False,low,True
+vendor_request / opportunity-without-problem,I am looking for a medical billing company that handles Medicare claims.,L3,0.851,vendor_request,L3,True,high,False
+education/certification,I am studying for the CPC exam.,NONE,0.996,off_topic,,False,high,False
+general_discussion,"Newbies and potentials, this is what you are up against. We've all seen the complaints that the market is flooded. Nobody can get a job, etc.",NONE,0.763,general_discussion,,False,high,False
+news/general_discussion,Working on a project about the CMS LEAD model and want to make sure I'm covering what people want to know. Feels like there is a lot of confusion out there.,L1,0.896,off_topic,,False,high,False
+problem_experience (L0),"SUTTER CHARGED ME HOSPITAL BILLING AS AN OUTPATIENT. Sutter billed me $1,789.00 for nine labs for my yearly health exam. This was a nasty billing surprise as I was out nearly $400 out of pocket for what my insurance did not cover.",NONE,0.974,problem_experience,L0,True,high,False

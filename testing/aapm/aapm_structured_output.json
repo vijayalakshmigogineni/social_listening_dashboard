@@ -1,0 +1,358 @@
+{
+  "source": "AAPM",
+  "source_url": "https://painmed.org",
+  "scraped_at": "2026-09-17T04:09:59.367088",
+  "pages_checked": 1,
+  "pages_fetched": 1,
+  "total_unique_links": 49,
+  "records": [
+    {
+      "source": "AAPM",
+      "source_type": "pain_medicine_professional_organization",
+      "content_type": "pain_management",
+      "title": "American Academy of Pain Medicine | AAPM",
+      "url": "https://painmed.org/",
+      "published_date": null,
+      "topics": [
+        "pain_management",
+        "medicare",
+        "advocacy",
+        "research",
+        "education"
+      ],
+      "payer_mentions": [
+        "CMS"
+      ],
+      "procedure_mentions": [
+        "Radiofrequency Ablation"
+      ],
+      "headings": [
+        {
+          "level": "h3",
+          "text": "Welcome to the New AAPM Website!"
+        },
+        {
+          "level": "h1",
+          "text": "Welcome to the New AAPM Website"
+        },
+        {
+          "level": "h3",
+          "text": "Advancing Excellence in Pain Medicine"
+        },
+        {
+          "level": "h2",
+          "text": "Our Mission"
+        },
+        {
+          "level": "h3",
+          "text": "Membership & Account Access"
+        },
+        {
+          "level": "h4",
+          "text": "Need To Create An Account?"
+        },
+        {
+          "level": "h4",
+          "text": "Applying for Membership?"
+        }
+      ],
+      "content": "Skip to content\n️\nPardon Our Dust!\nWe’re putting the finishing touches on our new website. Thank you for your patience as we get everything settled.\nWelcome to the New AAPM Website!\nWe’ve refreshed our website to make it easier to manage your membership and access AAPM resources.\nExisting users will need to reset their password before logging in for the first time.\nClick\nLogin\nat the top of the page.\nEnter the\nemail address associated with your AAPM account\n.\nFollow the prompts to\nreset your password\n.\nOnce logged in, visit\nMy Profile\nto review your information and access your member resources.\nNeed help? Contact\ninfo@painmed.org\n.\nACKNOWLEDGE\nin your cart\nView Cart\nCart\nJoin\nLogin\nPainConnect\nJournal\nDonate\nContact\nNews\nWelcome to the New AAPM Website\nRead More\nEducation\nMembership\nEvents\nGuidelines\nAdvancing Excellence in Pain Medicine\nThe American Academy of Pain Medicine (AAPM) is the leading multidisciplinary organization dedicated to advancing pain care through education, advocacy, research, and collaboration. Whether you're a practicing clinician, trainee, researcher, or advanced practice provider, AAPM offers the resources, community, and expertise to support your professional growth and improve patient outcomes.\nLearn More\nSeptember 2026 President's Message\nNews\nRead More\nSeptember Member Focus: Sam Ko\nNews\nRead More\nWelcome to Your New AAPM Member Experience\nNews\nRead More\nAsk the Experts: Is Your Practice Ready for Value-Based Care\nNews\nRead More\nEvents Calendar\nOur Mission\nThe American Academy of Pain Medicine is dedicated to advancing and promoting the full spectrum of multidisciplinary pain care, education, advocacy, and research to improve function and quality of life for people in pain.\nValue-Based Care\nPrepare your pain practice for value-based care and the CMS Ambulatory Specialty Model with AAPM education, practical guidance, and expert insights located in our Value-Based Care in Pain Medicine Resource Center\nLearn More\nAdvocacy\nFollow AAPM’s advocacy work to stay informed about policy developments affecting pain medicine, patient access, and the future of multidisciplinary pain care, and our evidence-based approach to access advocacy.\nLearn More\nGuidelines\nThe American Academy of Pain Medicine Consensus Guidelines on Neuromodulation Technologies and Neurocomputer Interfaces for Pain Management and Functional Recovery is now available in\nPain Medicine\nJournal\nLearn More\n×\nMembership & Account Access\nNeed To Create An Account?\nIf you are already a member, please set up and log in to your member account by clicking \"Create an Account\" below. This option is also for current individual members and staff of company members who need to login, but do not have a user account set up.\nOnce logged in, you can:\nUpdate Your Profile\nRegister for Events\nView & Pay Invoices\nCreate an Account\nApplying for Membership?\nWe invite and encourage you to join! By working together, we can achieve our mission to maintain and enhance our industry as a whole.\nBecoming a member offers access to a network of professionals, fostering valuable connections and collaboration opportunities. Additionally, it often provides resources, such as training programs or industry insights, enhancing members' professional development.\nView Membership Information"
+    }
+  ],
+  "link_inventory": [
+    {
+      "title": "Skip to content",
+      "url": "https://painmed.org/#content",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Cart",
+      "url": "https://painmed.org/products/checkout",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Join",
+      "url": "https://painmed.org/#join-modal",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Login",
+      "url": "https://painmed.org/login",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Donate",
+      "url": "https://painmed.org/products/12100-due-from-aapmf",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://painmed.org/contact-us",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "About AAPM",
+      "url": "https://painmed.org/about-aapm",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Leadership",
+      "url": "https://painmed.org/leadership",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Foundation",
+      "url": "https://painmed.org/the-aapm-foundation",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "AAPM Corporate Relations Council",
+      "url": "https://painmed.org/aapm-corporate-relations-council",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "AAPM Policies",
+      "url": "https://painmed.org/aapm-policies",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "International Community",
+      "url": "https://painmed.org/aapm-network",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Learn More",
+      "url": "https://painmed.org/advocacy",
+      "content_type": "policy_advocacy",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "What Is Pain Medicine?",
+      "url": "https://painmed.org/what-is-pain-medicine",
+      "content_type": "pain_management",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Staff",
+      "url": "https://painmed.org/aapm-staff",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "View Membership Information",
+      "url": "https://painmed.org/membership-information",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Membership",
+      "url": "https://painmed.org/member-benefits",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Get Involved",
+      "url": "https://painmed.org/volunteer-with-aapm",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "AAPM Resident Ambassadors Program",
+      "url": "https://painmed.org/ambassadorprogram",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Committees & Task Forces",
+      "url": "https://painmed.org/volunteer-committees-taskforces",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Shared Interest Groups",
+      "url": "https://painmed.org/shared-interest-groups",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "AAPM Awards",
+      "url": "https://painmed.org/awards",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Pain Fellowship Excellence Award",
+      "url": "https://painmed.org/pain-fellowship-excellence-award",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Education",
+      "url": "https://painmed.org/education-and-events",
+      "content_type": "education_event",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Innovation",
+      "url": "https://painmed.org/innovation",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Courses",
+      "url": "https://painmed.org/courses",
+      "content_type": "education_event",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Behavioral Medicine of Pain Certificate Course",
+      "url": "https://painmed.org/behavioral-medicine-of-pain-certificate-course",
+      "content_type": "education_event",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Pain Perspectives: Understanding and Managing Pain Across Specialties",
+      "url": "https://painmed.org/pain-perspectives-cme-course",
+      "content_type": "education_event",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Pain Rounds",
+      "url": "https://painmed.org/pain-rounds",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Learn More",
+      "url": "https://painmed.org/value-based-care-pain-in-medicine",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Pain Medicine Journal",
+      "url": "https://painmed.org/pain-medicine-journal",
+      "content_type": "research",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Pain Matters Podcast",
+      "url": "https://painmed.org/pain-matters-podcast",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Weekly News Brief",
+      "url": "https://painmed.org/weekly-news-brief",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Research & Guidelines",
+      "url": "https://painmed.org/research-and-guidelines",
+      "content_type": "guideline",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://painmed.org/clinical-guidelines",
+      "content_type": "guideline",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Learn More",
+      "url": "https://painmed.org/neuormodulation-pain-fucntional-recovery",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Sacroiliac Joint Complex Pain Guideline",
+      "url": "https://painmed.org/sacroiliac-joint-complex-pain-guideline",
+      "content_type": "guideline",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Topical Analgesics for Neuropathic Pain",
+      "url": "https://painmed.org/topical-analgesics-for-neuropathic-pain",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Job Board",
+      "url": "https://painmed.org/news/job-board",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Read More",
+      "url": "https://painmed.org/news/welcome-to-the-new-cxsample-website",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Events",
+      "url": "https://painmed.org/###",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Learn More",
+      "url": "https://painmed.org/",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Read More",
+      "url": "https://painmed.org/news/sept-2026-president's-message",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Read More",
+      "url": "https://painmed.org/news/sept-member-focus-sam-ko",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Read More",
+      "url": "https://painmed.org/news/your-new-member-experience",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Read More",
+      "url": "https://painmed.org/news/prepare-your-pain-practice-for-value-based-care",
+      "content_type": "news",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Events Calendar",
+      "url": "https://painmed.org/events/?CalendarView=1",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Legal",
+      "url": "https://painmed.org/legal",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    },
+    {
+      "title": "Create an Account",
+      "url": "https://painmed.org/register?memberTypeID=null",
+      "content_type": "other",
+      "source_page": "https://painmed.org/"
+    }
+  ]
+}

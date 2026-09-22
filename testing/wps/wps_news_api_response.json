@@ -1,0 +1,1342 @@
+{
+  "data": [
+    {
+      "id": 1490,
+      "Title": "New Webinars",
+      "Subtitle": "New webinars open for registration on our Live Events webpage.",
+      "Summary": "New webinars open for registration on our Live Events webpage",
+      "Content": "<p>The following webinars are open for registration. Visit our <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a> webpage to learn more and register. You can submit questions prior to all our events as part of the registration process. We use <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/training-indicators\">Training Indicators</a> to help you determine which webinars apply to you.&nbsp;</p><p><strong>Journey to Medicare Success</strong><br>10/22/2026 11:00 am – 12:00 pm CT (12:00 – 1:00 pm ET)</p><p>We are here to help get you started by offering an educational event for providers and credentialing staff who work with those new to Medicare.</p><p>During this session we will provide the basics you need to get started, including:</p><ul><li data-list-item-id=\"e3ff851fe32129cadd7918c609d80f9ce\">Tips for maintaining your enrollment record</li><li data-list-item-id=\"e4e200e07d2e6004fd1c2db21ad85b26e\">Tools and resources</li><li data-list-item-id=\"e4b40e1e0d0b6b6380c5c963de47dce34\">Educational opportunities</li><li data-list-item-id=\"e71633d5a0664b2b391652453d1aefb5e\">Contact information</li></ul><p>Training Indicators: NTM</p>",
+      "Featured": false,
+      "createdAt": "2026-09-16T14:23:18.246Z",
+      "updatedAt": "2026-09-16T14:23:18.246Z",
+      "publishedAt": "2026-09-16T14:23:18.334Z",
+      "ExpirationDate": "2026-09-22",
+      "NewsPublishedDate": "2026-09-16",
+      "documentId": "ude1jscxe5qs306pywlksq6j",
+      "slug": "new-webinars-137",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 44,
+          "Display": "Provider Enrollment",
+          "TopicCenterId": "provider-enrollment",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:40.681Z",
+          "publishedAt": "2026-06-01T23:22:40.722Z",
+          "documentId": "m3nazprrfzgpziobs81tobph",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 47,
+          "Display": "Training",
+          "TopicCenterId": "training",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-16T00:07:57.287Z",
+          "publishedAt": "2026-06-16T00:07:57.330Z",
+          "documentId": "ywqb97gh1gdm6x1f236h6611",
+          "ShowInNavigation": false
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1484,
+      "Title": "Website Updates for the Week of September 7, 2026",
+      "Subtitle": "Updates made to wpsgha.com during the week of September 7, 2026",
+      "Summary": "Updates made to wpsgha.com during the week of September 7, 2026",
+      "Content": "<p>We made the following updates to our website during the week of September 7, 2026. This list is not all-inclusive. Please continue to check our website and read Medicare eNews regularly for the latest information.<br>%%J5A%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1032\">CMS/External Links</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/modifier-kx-fact-sheet\">Modifier KX Fact Sheet</a>%%/J5A%%%%J8A%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1032\">CMS/External Links</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/modifier-kx-fact-sheet\">Modifier KX Fact Sheet</a>%%/J8A%%%%J5B%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/alerts/add-on-hcpcs-codes-erroneously-rejecting\">Add-On HCPCS Codes Erroneously Rejecting</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1032\">CMS/External Links</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/modifier-kx-fact-sheet\">Modifier KX Fact Sheet</a>%%/J5B%%%%J8B%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/alerts/add-on-hcpcs-codes-erroneously-rejecting\">Add-On HCPCS Codes Erroneously Rejecting</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1032\">CMS/External Links</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/modifier-kx-fact-sheet\">Modifier KX Fact Sheet</a>%%/J8B%%</p>",
+      "Featured": false,
+      "createdAt": "2026-09-14T14:34:39.832Z",
+      "updatedAt": "2026-09-14T14:35:14.494Z",
+      "publishedAt": "2026-09-14T14:35:14.541Z",
+      "ExpirationDate": "2026-10-11",
+      "NewsPublishedDate": "2026-09-14",
+      "documentId": "uf46ikpgfzzvljb3lmz0xqmn",
+      "slug": "website-updates-for-the-week-of-september-7-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1487,
+      "Title": "Upcoming System Maintenance Affecting Self-Service Tools",
+      "Subtitle": "Upcoming system maintenance",
+      "Summary": "Upcoming system maintenance ",
+      "Content": "<p>On Friday, October 2, 2026, the WPS Secure Net Access Portal (SNAP) and IVR will be available for all functionality except claim overlap information, as the CWF will be unavailable. Beginning Friday evening and continuing through the weekend of October 2, 2026, our IVR and portal will have limited functionality as both CWF and the claims processing systems undergo quarterly maintenance. Both the IVR and SNAP will resume normal functionality on Monday, October 5, 2026.</p>",
+      "Featured": true,
+      "createdAt": "2026-09-14T14:59:08.085Z",
+      "updatedAt": "2026-09-14T15:03:28.619Z",
+      "publishedAt": "2026-09-14T15:03:28.668Z",
+      "ExpirationDate": "2026-10-05",
+      "NewsPublishedDate": "2026-09-14",
+      "documentId": "crfwwcdy3glm8oskbbxujgsd",
+      "slug": "upcoming-system-maintenance-affecting-self-service-tools-1",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 35,
+          "Display": "Appeals",
+          "TopicCenterId": "appeals",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:21:43.701Z",
+          "publishedAt": "2026-06-01T23:21:43.826Z",
+          "documentId": "ejm7surp4nkqyfzyf7pwopxl",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 43,
+          "Display": "Policies",
+          "TopicCenterId": "policies",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:35.711Z",
+          "publishedAt": "2026-06-01T23:22:35.767Z",
+          "documentId": "zlw22agvh6jzp9xacm2dmxoh",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 45,
+          "Display": "Self Service",
+          "TopicCenterId": "self-service",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:47.193Z",
+          "publishedAt": "2026-06-01T23:22:47.245Z",
+          "documentId": "wqhla7e9t4j1027kehtau7hr",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 37,
+          "Display": "Claims",
+          "TopicCenterId": "claims",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:21:54.761Z",
+          "publishedAt": "2026-06-01T23:21:54.817Z",
+          "documentId": "bkluvui3ahda9d0i9f80jsbt",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 42,
+          "Display": "Overpayments",
+          "TopicCenterId": "overpayments",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:31.269Z",
+          "publishedAt": "2026-06-01T23:22:31.332Z",
+          "documentId": "ee700evsf3hkjfv5gbleuagk",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1474,
+      "Title": "MLN Connects Newsletter for Thursday, September 10, 2026",
+      "Subtitle": "New CMS Provider Education Message",
+      "Summary": "New CMS provider education message",
+      "Content": "<p style=\"text-align:center;\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cms.gov%2Ftraining-education%2Fmedicare-learning-network%2Fnewsletter%2Fmln-connects-newsletter-september-10-2026/1/010101a08ba099c9-29dbb2a3-1956-4a0c-a407-1125a32bb86b-000000/8-aSL82fmOTyom8pX2VyGX6bayXliCpt8_dIXG5MgFU=452\">MLN Connects<sup>®</sup> Newsletter for Thursday, September 10, 2026</a></p><p><strong>News</strong></p><ul><li data-list-item-id=\"e4a7af4cfa5c360079b8227000c949b70\">Indiana: $120M to Expand Maternal and Infant Health Services, Increase Primary Care Access &amp; Grow the Health Care Workforce</li><li data-list-item-id=\"ec5b0a2dc2fb153f4928a950a64a525b8\">Michigan: $25M to Modernize Health Care Technology, Expand Telehealth &amp; Improve High-Speed Internet Connectivity</li><li data-list-item-id=\"ed9df7506e8bf607c54102e2ad5798a67\">New York: $76M to Strengthen Regional Coordination &amp; Modernize Health Care Technology</li><li data-list-item-id=\"eff3a7d9b246a82c139d26539a8dc7002\">Rhode Island: $5.48M to Strengthen Health Care Workforce Pipeline</li><li data-list-item-id=\"ec6f40d76bf526fe4ebead717a0d473e1\">DMEPOS: Probationary Prior Authorization Starts October 15</li><li data-list-item-id=\"e474274d99f69faac6ffc99eba2a92216\">Partial Hospitalization Program: Download Your 2025 PEPPER</li><li data-list-item-id=\"e4a34d511ffe5e732ddd8f335359316a4\">Electronic Health Records: Use Assistive Technology Correctly</li></ul><p><strong>Fraud, Waste &amp; Abuse</strong></p><ul><li data-list-item-id=\"e8fa8eb2e3233a0a82bb997af42910553\">CMS Cracks Down on Massive $3.4B Medical Equipment Supplier Fraud Scheme</li></ul><p><strong>Compliance</strong></p><ul><li data-list-item-id=\"eaec542e0aad6a34af26bdd70237a26fa\">DMEPOS: Bill Correctly for Continuous Positive Airway Pressure Devices</li></ul><p><strong>Claims, Pricers &amp; Codes</strong></p><ul><li data-list-item-id=\"eb2351f16cc9418cc831f11ea4bfe1219\">COVID-19 Vaccine: Updated Pricing for 2026–2027 Season</li><li data-list-item-id=\"edbdfacf303a1bd2fa584ff4b60822303\">Rural Health Clinics &amp; Federally Qualified Health Centers: Billing Distant Site Telehealth Services</li></ul><p><strong>MLN Matters<sup>®</sup> Articles</strong></p><ul><li data-list-item-id=\"e2fb7ce0ee7500df28ac46d8f1f3cee35\">Medicare Secondary Payer Claim Processing for Certain Claim Adjustment Reason Codes</li></ul><p><strong>Publications &amp; Multimedia</strong></p><ul><li data-list-item-id=\"edb87b3bbce05b0c6898ee5f8101b0f60\">Guidelines for Teaching Physicians, Interns &amp; Residents – Revised</li></ul><p style=\"text-align:center;\"><br>The Medicare Learning Network<sup>®</sup>, MLN Connects<sup>®</sup>, and MLN Matters<sup>®</sup> are registered trademarks of the U.S. Department of Health and Human Services (HHS).</p>",
+      "Featured": false,
+      "createdAt": "2026-09-10T15:48:17.703Z",
+      "updatedAt": "2026-09-10T15:48:20.050Z",
+      "publishedAt": "2026-09-10T15:48:20.081Z",
+      "ExpirationDate": "2027-01-10",
+      "NewsPublishedDate": "2026-09-10",
+      "documentId": "gv17lkvpauk1bt89g7hfg9o6",
+      "slug": "mln-connects-newsletter-for-thursday-september-10-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1458,
+      "Title": "Website Updates for the Week of August 31, 2026",
+      "Subtitle": "Updates made to wpsgha.com during the week of August 31, 2026",
+      "Summary": "Updates made to wpsgha.com during the week of August 31, 2026",
+      "Content": "<p>We made the following updates to our website during the week of August 31, 2026. This list is not all-inclusive. Please continue to check our website and read Medicare eNews regularly for the latest information.%%J5A%%</p><p>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/inpatient-psychiatric-facility-ipf-1\">Inpatient Psychiatric Facility (IPF)</a>&nbsp;</p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/critical-access-hospital-cah\">Critical Access Hospital (CAH)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/critical-access-hospital-cah-payment\">Critical Access Hospital (CAH) Payment</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore and Short Videos</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/wound-care-in-a-critical-access-hospital-cah\">Wound Care in a Critical Access Hospital (CAH)</a>%%/J5A%%<br>%%J8A%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/critical-access-hospital-cah\">Critical Access Hospital (CAH)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/critical-access-hospital-cah-payment\">Critical Access Hospital (CAH) Payment</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore and Short Videos</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a>%%/J8A%%%%J5B%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/pfs-updates-a2046-a2047-a2049-q4207-q4223-q4243\">Physician Fee Schedule (PFS) Updates for Procedure Codes A2046, A2047, A2049, Q4207, Q4223 &amp; Q4243 effective October 1, 2026 – December 31, 2026</a></p><p>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/qpp-updates-a2046-a2047-a2049-q4207-q4223-and-q4243\">Quality Payment Program (QPP) Updates for Procedure Codes A2046, A2047, A2049, Q4207, Q4223 &amp; Q4243 Effective October 1, 2026 – December 31, 2026</a></p><p>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/total-knee-arthroplasty-tka\">Total Knee Arthroplasty (TKA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/2026-physician-fee-schedules-pfs\">2026 Physician Fee Schedules (PFS)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/2026-quality-payment-program-qpp-fee-schedule\">2026 Quality Payment Program (QPP) Fee Schedule</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore and Short Videos</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/modifier-76-fact-sheet\">Modifier 76 Fact Sheet</a>%%/J5B%%%%J8B%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/pfs-updates-a2046-a2047-a2049-q4207-q4223-q4243\">Physician Fee Schedule (PFS) Updates for Procedure Codes A2046, A2047, A2049, Q4207, Q4223 &amp; Q4243 effective October 1, 2026 – December 31, 2026</a></p><p>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/qpp-updates-a2046-a2047-a2049-q4207-q4223-and-q4243\">Quality Payment Program (QPP) Updates for Procedure Codes A2046, A2047, A2049, Q4207, Q4223 &amp; Q4243 Effective October 1, 2026 – December 31, 2026</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/2026-physician-fee-schedules-pfs\">2026 Physician Fee Schedules (PFS)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/2026-quality-payment-program-qpp-fee-schedule\">2026 Quality Payment Program (QPP) Fee Schedule</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore and Short Videos</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/live-events\">Live Events</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/modifier-76-fact-sheet\">Modifier 76 Fact Sheet</a>%%/J8B%%</p>",
+      "Featured": false,
+      "createdAt": "2026-09-08T14:22:52.843Z",
+      "updatedAt": "2026-09-08T14:23:45.551Z",
+      "publishedAt": "2026-09-08T14:23:45.585Z",
+      "ExpirationDate": "2026-10-04",
+      "NewsPublishedDate": "2026-09-08",
+      "documentId": "nom31vtyd22e8mjiql7bgo6r",
+      "slug": "website-updates-for-the-week-of-august-31-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1479,
+      "Title": "PEPPER is now available for PHPs!",
+      "Subtitle": "PEPPER is now available for Partial Hospitalization Programs",
+      "Summary": "PEPPER is now available for Partial Hospitalization Programs",
+      "Content": "<p>The Centers for Medicare &amp; Medicaid Services (CMS) is pleased to announce the release of the Program for Evaluating Payment Patterns Electronic Report (PEPPER) for Partial Hospitalization Programs (PHPs), along with the supporting User Guide.</p><p>PEPPER is a valuable resource designed to support providers in evaluating their billing practices. By analyzing PEPPER data, facilities can:</p><ul><li data-list-item-id=\"ec798d0725682fd1ba6de2c68e83f8e81\">Identify where billing practices may need adjustment</li><li data-list-item-id=\"eac63ddd68f9cb71426dc1c44cdf2f527\">Detect areas that require auditing or monitoring</li><li data-list-item-id=\"ead0a0b190c5a2c91477f4092b367801a\">Recognize Diagnosis-Related Groups (DRGs) that may be at risk for under-coding or over-coding</li><li data-list-item-id=\"ec35fa45ddd05a727c1556644e24de64b\">Monitor trends in length of stay across target areas</li></ul><p><strong>Accessing PEPPER</strong></p><p>Authorized Officials (AOs), Access Managers (AMs), and Staff End Users (SEUs) can now download their organization’s PEPPER from the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://pepper.cbrpepper.org/index.html\">PEPPER Portal</a>.</p><p>To become an SEU and access your organization’s PEPPER:</p><ul><li data-list-item-id=\"e2e1831b0a61d74d278a335274e95944d\">Sign in to the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nppes.cms.hhs.gov/IAWeb/login.do\">CMS I&amp;A System</a> using your existing National Plan and Provider Enumeration System (NPPES) or Provider Enrollment, Chain, and Ownership (PECOS) credentials.</li><li data-list-item-id=\"e7ec6f673bcddb24ae73f493d9897ac29\">Request the PEPPER business function for your organization. The Comparative Billing Report (CBR) business function is also available and can be requested at the same time.</li><li data-list-item-id=\"ed317431aa65729ae6266818af740580d\">Your AO or AM must approve your request.</li></ul><p>AOs and AMs can find step-by-step instructions in the Identity &amp; Access (I&amp;A) Management System <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nppes.cms.hhs.gov/IAWebContent/Quick_Reference_Guide.pdf\">Quick Reference Guide</a> and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://nppes.cms.hhs.gov/IAWebContent/FAQs.pdf\">Frequently Asked Questions (FAQs)</a>.</p><p><strong>User Guide</strong></p><p>Visit the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://pepper.cbrpepper.org/training.html\">CBR/PEPPER website</a> for more information about the release and the PHP PEPPER User Guide.</p><p><strong>Webinar</strong></p><p>CMS will host a webinar on Thursday, September 24, 2026, at 12:00 pm CT (1:00 pm ET) to provide an overview of the relaunched PHP PEPPER. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://pepper.cbrpepper.org/training.html\">Register</a> for the webinar today.</p>",
+      "Featured": false,
+      "createdAt": "2026-09-08T14:45:15.492Z",
+      "updatedAt": "2026-09-14T13:45:05.931Z",
+      "publishedAt": "2026-09-14T13:45:05.968Z",
+      "ExpirationDate": "2026-09-20",
+      "NewsPublishedDate": "2026-09-08",
+      "documentId": "vj0jlripot4hbgw7tj4tihl2",
+      "slug": "pepper-is-now-available-for-ph-ps",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 48,
+          "Display": "Fee Schedules and Reimbursement",
+          "TopicCenterId": "fee-schedules-and-reimbursement",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-07-28T12:55:48.946Z",
+          "publishedAt": "2026-07-28T12:55:49.056Z",
+          "documentId": "js5m4ivb2es66g229gmrmecs",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 38,
+          "Display": "Cost Report Audit",
+          "TopicCenterId": "cost-report-audit",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:21:59.406Z",
+          "publishedAt": "2026-06-01T23:21:59.456Z",
+          "documentId": "z9wij5fdcrskt7bojkt3p55f",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 42,
+          "Display": "Overpayments",
+          "TopicCenterId": "overpayments",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:31.269Z",
+          "publishedAt": "2026-06-01T23:22:31.332Z",
+          "documentId": "ee700evsf3hkjfv5gbleuagk",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1453,
+      "Title": "MLN Connects Newsletter for Thursday, September 3, 2026",
+      "Subtitle": "New CMS provider education message",
+      "Summary": "New CMS Provider Education Message",
+      "Content": "<p style=\"text-align:center;\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cms.gov%2Ftraining-education%2Fmedicare-learning-network%2Fnewsletter%2Fmln-connects-newsletter-september-3-2026/1/010101a0679399fc-379cea66-ddbf-462c-bb51-b0bdc09ed917-000000/sNhUgkmToUpGqRFgPgHUCVrkhXCuhMYIplJ559vO3-o=452\">MLN Connects<sup>®</sup> Newsletter for Thursday, September 3, 2026</a></p><p><strong>News</strong></p><ul><li data-list-item-id=\"e346eded82410708a32b5c01650ac5781\">Arkansas: $149.3M to Expand Telehealth &amp; Increase Access to Specialty Care and Preventive Screenings</li><li data-list-item-id=\"e3d427250f122321684703a1604d65cee\">Georgia: $93.3M to Expand Telehealth Services, Advance Surgical Robotics &amp; Transform Rural Health Care Access</li><li data-list-item-id=\"ee4e0e7bef8a76dfcdf45a5eca5f32b51\">Hawaii: $58M to Deliver New Ambulances &amp; Upgrade Emergency Communications Systems</li><li data-list-item-id=\"eb57d6a3d41f8c4606ecdd9dac031563a\">Virginia: $122M to Expand Health Care Access, Workforce &amp; Innovation</li><li data-list-item-id=\"e6985be53b7d45bb8ec55f5732c6c2171\">ColoSense™ Colorectal Cancer Screening Test: HETS Update Coming in January</li><li data-list-item-id=\"ea04dd7fa472835e6bcf4cfa8e8c94902\">DMEPOS Benefit Category Determinations</li></ul><p><strong>Fraud, Waste &amp; Abuse</strong></p><ul><li data-list-item-id=\"eea9e962df4e7853badda7833a945cc59\">CMS Prevents $1.6B in Fraudulent Medicare Laboratory Payments</li></ul><p><strong>Compliance</strong></p><ul><li data-list-item-id=\"edce59083bd816c580ad1708ff255aa7c\">Oral Anticancer &amp; Antiemetic Drugs Prevent Claim Denials</li></ul><p><strong>Claims, Pricers &amp; Codes</strong></p><ul><li data-list-item-id=\"e05dbad9f4bb3a64b5c8294e230ecfebd\">Medicare Physician Fee Schedule Database: October Update</li><li data-list-item-id=\"ee4d60df22b3e41ccda57c2a2c3c5ee3f\">National Correct Coding Initiative: October Update</li></ul><p><strong>Events</strong></p><ul><li data-list-item-id=\"e12fa95c5178a1e79d807500491da139d\">PEPPER Updates for Home Health Agencies &amp; Partial Hospitalization Programs Webinar – September 24</li></ul><p><strong>MLN Matters® Articles</strong></p><ul><li data-list-item-id=\"e5abd7410e692d2225ba179a9eda4f117\">HCPCS Codes Used for Skilled Nursing Facilities Consolidated Billing Enforcement: October 2026 Quarterly Update</li><li data-list-item-id=\"ea2d0fc9b86b6bd89b9485d354d7d0c80\">National Coverage Determination 210.3: Colorectal Cancer Screening Tests – Non-Invasive Biomarker Testing</li></ul><p><strong>Publications &amp; Multimedia</strong></p><ul><li data-list-item-id=\"e08400779b6093ca9f4b2a1f5e4d0faac\">Original Medicare vs. Medicare Advantage – Revised</li></ul><p style=\"text-align:center;\">The Medicare Learning Network<sup>®</sup>, MLN Connects<sup>®</sup>, and MLN Matters<sup>®</sup> are registered trademarks of the U.S. Department of Health and Human Services (HHS).</p>",
+      "Featured": false,
+      "createdAt": "2026-09-03T14:37:38.175Z",
+      "updatedAt": "2026-09-03T14:37:41.060Z",
+      "publishedAt": "2026-09-03T14:37:41.122Z",
+      "ExpirationDate": "2027-01-03",
+      "NewsPublishedDate": "2026-09-03",
+      "documentId": "gtnrkdq9s7bwwrzxyyxhgmd7",
+      "slug": "mln-connects-newsletter-for-thursday-september-3-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1481,
+      "Title": "Delayed Level Payments and Periodic Interim Payments due to the Labor Day Holiday 2026",
+      "Subtitle": "Delayed PIP and LP payments",
+      "Summary": "Delayed PIP and LP payments",
+      "Content": "<p>Due to the Labor Day holiday, the bi-weekly pass-through payments and periodic interim payments (PIP) scheduled to be issued on September 9, 2026, will not be released until Thursday, September 10, 2026. For those providers who receive their payments via electronic funds transfer (EFT), your payment will be available on September 11, 2026.</p>",
+      "Featured": false,
+      "createdAt": "2026-09-03T13:25:25.576Z",
+      "updatedAt": "2026-09-14T13:46:47.780Z",
+      "publishedAt": "2026-09-14T13:46:47.820Z",
+      "ExpirationDate": "2026-09-18",
+      "NewsPublishedDate": "2026-09-03",
+      "documentId": "ujbsyqzg3q03iknmx1zdtyhn",
+      "slug": "delayed-pass-through-and-periodic-interim-payments",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 48,
+          "Display": "Fee Schedules and Reimbursement",
+          "TopicCenterId": "fee-schedules-and-reimbursement",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-07-28T12:55:48.946Z",
+          "publishedAt": "2026-07-28T12:55:49.056Z",
+          "documentId": "js5m4ivb2es66g229gmrmecs",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 42,
+          "Display": "Overpayments",
+          "TopicCenterId": "overpayments",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:31.269Z",
+          "publishedAt": "2026-06-01T23:22:31.332Z",
+          "documentId": "ee700evsf3hkjfv5gbleuagk",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 38,
+          "Display": "Cost Report Audit",
+          "TopicCenterId": "cost-report-audit",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:21:59.406Z",
+          "publishedAt": "2026-06-01T23:21:59.456Z",
+          "documentId": "z9wij5fdcrskt7bojkt3p55f",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1440,
+      "Title": "Website Updates for the Week of August 24, 2026",
+      "Subtitle": "Updates made to wpsgha.com during the week of August 24, 2026",
+      "Summary": "Updates made to wpsgha.com during the week of August 24, 2026",
+      "Content": "<p>We made the following updates to our website during the week of August 24, 2026. This list is not all-inclusive. Please continue to check our website and read Medicare eNews regularly for the latest information.<br>%%J5A%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/calendar-year-2026-medicaid-swing-bed-nursing-facility-\">Calendar Year 2026 Medicaid Swing-Bed Nursing Facility (NF) Rates</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/contractor-advisory-committee-cac-meetings\">Contractor Advisory Committee (CAC) Meetings</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore Presentations</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/chimeric-antigen-receptor-car-t-cell-therapy-billing-in\">Chimeric Antigen Receptor (CAR) T-Cell Therapy Billing Instructions</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/skilled-nursing-facility-documentation-cert-errors\">Skilled Nursing Facility Documentation – CERT Errors</a> %%/J5A%%%%J8A%%<br>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/calendar-year-2026-medicaid-swing-bed-nursing-facility-\">Calendar Year 2026 Medicaid Swing-Bed Nursing Facility (NF) Rates</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/contractor-advisory-committee-cac-meetings\">Contractor Advisory Committee (CAC) Meetings</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore Presentations</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/chimeric-antigen-receptor-car-t-cell-therapy-billing-in\">Chimeric Antigen Receptor (CAR) T-Cell Therapy Billing Instructions</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/skilled-nursing-facility-documentation-cert-errors\">Skilled Nursing Facility Documentation – CERT Errors</a>%%/J8A%%%%J5B%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/alerts/january-2026-pricing-update-for-hcpcs-codes-99454-and-99445\">January 2026 Pricing Update for HCPCS Codes 99454 and 99445</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/chimeric-antigen-receptor-car-t-cell-therapy-billing-in\">Chimeric Antigen Receptor (CAR) T-Cell Therapy Billing Instructions</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/contractor-advisory-committee-cac-meetings\">Contractor Advisory Committee (CAC) Meetings</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore Presentations</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/327\">POE Advisory Group Members</a>%%/J5B%%%%J8B%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/alerts/january-2026-pricing-update-for-hcpcs-codes-99454-and-99445\">January 2026 Pricing Update for HCPCS Codes 99454 and 99445</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/chimeric-antigen-receptor-car-t-cell-therapy-billing-in\">Chimeric Antigen Receptor (CAR) T-Cell Therapy Billing Instructions</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/contractor-advisory-committee-cac-meetings\">Contractor Advisory Committee (CAC) Meetings</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/training/encore-presentations\">Encore Presentations</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/327\">POE Advisory Group Member</a>s%%/J8B%%</p>",
+      "Featured": false,
+      "createdAt": "2026-08-31T13:30:11.165Z",
+      "updatedAt": "2026-08-31T13:31:49.489Z",
+      "publishedAt": "2026-08-31T13:31:49.551Z",
+      "ExpirationDate": "2026-09-28",
+      "NewsPublishedDate": "2026-08-31",
+      "documentId": "t1mhk8c1enx206v4k31f29j8",
+      "slug": "website-updates-for-the-week-of-august-24-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1444,
+      "Title": "Claims Processing Instructions for the Gene Therapy Drug, Encelto ™, Used in Ambulatory Surgical Centers (ASCs) and the Hospital Outpatient Departments (HOPDs)",
+      "Subtitle": "Reminder to Bill Encelto on Multiple Claim Lines When Necessary",
+      "Summary": "Reminder to Bill Encelto on Multiple Claim Lines When Necessary",
+      "Content": "<p>Encelto<sup>™</sup> is billable and payable, when reasonable and necessary, by hospital outpatient departments under the Outpatient Prospective Payment System (OPPS) and by Ambulatory Surgical Centers (ASCs) under normal billing rules.</p><p>Practitioners must split charges to multiple claims and append modifiers LU (fractionated payment) and 76 (repeat service or payment by the same physician or other qualified healthcare professional) to their claims to facilitate proper payment. For more information, refer to our <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/chimeric-antigen-receptor-car-t-cell-therapy-billing-in\">Chimeric Antigen Receptor (CAR) T-Cell Therapy Billing Instructions</a> resource.</p>",
+      "Featured": false,
+      "createdAt": "2026-08-31T14:08:05.371Z",
+      "updatedAt": "2026-08-31T14:08:15.065Z",
+      "publishedAt": "2026-08-31T14:08:15.103Z",
+      "ExpirationDate": "2026-12-31",
+      "NewsPublishedDate": "2026-08-31",
+      "documentId": "kcix9ugx8jujt449kx032gvl",
+      "slug": "claims-processing-instructions-for-encelto",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 37,
+          "Display": "Claims",
+          "TopicCenterId": "claims",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:21:54.761Z",
+          "publishedAt": "2026-06-01T23:21:54.817Z",
+          "documentId": "bkluvui3ahda9d0i9f80jsbt",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1478,
+      "Title": "CMS IRF Provider Education Webinar: FY 2027 IRF Final Rule Updates",
+      "Subtitle": "CMS Invites Inpatient Rehabilitation Facility (IRF) Providers to Join this Educational Event",
+      "Summary": "CMS Invites Inpatient Rehabilitation Facility (IRF) Providers to Join this Educational Event",
+      "Content": "<p>CMS will host a national provider education webinar for inpatient rehabilitation facility (IRF) providers on <strong>Tuesday, September 29, 2026</strong>, from <strong>1 – 2 pm ET</strong>.</p><p>The webinar will review FY 2027 IRF Prospective Payment System (PPS) final rule policies and related Medicare coverage requirements, including revisions related to:</p><ul><li data-list-item-id=\"e49ca13b05d9b6e6531b4536b291824f9\">The 36-hour requirement&nbsp;</li><li data-list-item-id=\"e6526cfb4a413445f954c2f5f404dc168\">Initial interdisciplinary team meeting requirements&nbsp;</li><li data-list-item-id=\"e64362ba285aa445a2e8a517dad6db62a\">Documentation expectations related to these requirements</li></ul><p>This webinar is intended to help IRF providers understand finalized rule revisions, support consistent application of Medicare coverage requirements, and reduce the risk of documentation and billing errors.</p><p><strong>Who should attend:</strong><br>IRF administrators, rehabilitation physicians, therapy directors, clinicians, compliance staff, billing staff, and other staff involved in IRF coverage, documentation, or billing requirements.</p><p><strong>Webinar details:</strong><br><strong>Date:</strong> Tuesday, September 29, 2026<br><strong>Time: </strong>1 – 2 pm ET<br><strong>Registration link: </strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://cms.zoomgov.com/webinar/register/WN_fShdGivpTUW48qog-fFM0g\">https://cms.zoomgov.com/webinar/register/WN_fShdGivpTUW48qog-fFM0g</a>&nbsp;<br><strong>Materials:</strong> Will be available prior to the event</p><p>Providers may submit questions about webinar logistics, webinar materials, or webinar content to <a href=\"mailto:IRFCoverage@cms.hhs.gov\">IRFCoverage@cms.hhs.gov</a>.&nbsp;</p>",
+      "Featured": true,
+      "createdAt": "2026-08-31T13:49:32.381Z",
+      "updatedAt": "2026-09-14T13:42:37.079Z",
+      "publishedAt": "2026-09-14T13:42:37.111Z",
+      "ExpirationDate": "2026-09-30",
+      "NewsPublishedDate": "2026-08-31",
+      "documentId": "gtbu882p6o3c5tshb1axcxwg",
+      "slug": "cms-irf-provider-education-webinar-fy-2027",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 36,
+          "Display": "Benefits & Eligibility ",
+          "TopicCenterId": "benefits-eligibility",
+          "createdAt": "2023-05-30T19:11:09.284Z",
+          "updatedAt": "2026-06-01T23:21:49.516Z",
+          "publishedAt": "2026-06-01T23:21:49.559Z",
+          "documentId": "hf39awd4p6ixu75himtlllok",
+          "ShowInNavigation": true
+        },
+        {
+          "id": 39,
+          "Display": "Documentation",
+          "TopicCenterId": "documentation",
+          "createdAt": "2023-05-30T19:13:14.934Z",
+          "updatedAt": "2026-06-01T23:22:04.058Z",
+          "publishedAt": "2026-06-01T23:22:04.097Z",
+          "documentId": "lyw2bg7sbxpjtxoicbvnqrts",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1465,
+      "Title": "MolDX: Biomarker Testing for Risk Stratification in DCIS: October 13, 2026",
+      "Subtitle": "Join WPS and Other MACs for this Evidentiary CAC Meeting",
+      "Summary": "Join WPS and other MACs for this Evidentiary CAC meeting.",
+      "Content": "<p>Palmetto GBA, along with CGS Administrators, Noridian Healthcare Solutions, and WPS, will host a Multi-MAC Evidentiary Contractor Advisory Committee (CAC) Meeting via Microsoft Teams Webinar on October 13, 2026, from 1:00–3:00 pm CT (2:00–4:00 pm ET). Discussions will focus on Molecular Diagnostics (MolDX): Biomarker Testing for Risk Stratification in Ductal Carcinoma In Situ (DCIS).</p><p>Palmetto GBA previously held an Evidentiary CAC for this LCD on July 15, 2024. To ensure the most accurate information and balanced subject matter expert discussion, we are holding another Evidentiary CAC according to the following notice.</p><p>CMS assigned Medicare Administrative Contractors (MACs) the task of developing Local Coverage Determinations (LCDs). The purpose of the CAC meeting is to provide a formal mechanism for healthcare professionals to be informed of the evidence used in developing an LCD and promote communication between the MACs and the healthcare community. The CAC panel will discuss the clinical literature related to MolDX: Biomarker Testing for Risk Stratification in DCIS and rate their confidence in a series of key questions. Discussions will occur between Subject Matter Expert (SME) panelists and Contractor Medical Directors. The public may attend, but questions from the public will not be entertained.&nbsp;</p><p>We invite interested stakeholders to listen via Microsoft Teams webinar, but advance registration is required.&nbsp;</p><p><strong>Register here:</strong> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://events.gov.teams.microsoft.us/event/96e20949-b5ea-4373-8080-dedfe1601d98@48a9054c-74c7-4586-8fdc-67a42b9877e7\">MoIDX CAC Meeting</a><br>You will receive your confirmation email once you complete registration.<br><strong>Note:</strong> Registration deadline is October 12, 2026, 10:59 pm CT (11:59 pm ET).</p><p>Lines will remain muted throughout the conference except for the invited CAC panelists and the MAC hosts.&nbsp;</p><p><strong>Microsoft Teams Webinar</strong></p><p><strong>Conference Title: </strong>Multi-Jurisdictional Contractor Advisory Committee (CAC)-MolDX: Biomarker Testing for Risk Stratification in DCIS (L40142)<br><strong>Conference Date:</strong> 10/13/2026<br><strong>Conference Time:</strong> 1:00–3:00 pm CT (2:00–4:00 pm ET)<br><strong>Meeting ID:</strong> 992 938 293 360<br><strong>Passcode:</strong> C5SK6jc2<br><strong>Link:</strong> On the day of the meeting, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://gov.teams.microsoft.us/meet/992938293360?p=oPPQAM5LkHf5ABeGAV\">join here</a>.&nbsp;<br><strong>Conference Dial-In Number:</strong> 1-843-581-8888<br><strong>Phone Conference ID:</strong> 345 368 191#</p><p>For more information, including links to the agenda and key questions, please visit our <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/contractor-advisory-committee-cac-meetings\">CAC Meetings</a> web page.</p>",
+      "Featured": false,
+      "createdAt": "2026-08-28T15:03:46.454Z",
+      "updatedAt": "2026-09-08T18:20:25.450Z",
+      "publishedAt": "2026-09-08T18:20:25.480Z",
+      "ExpirationDate": "2026-10-24",
+      "NewsPublishedDate": "2026-08-28",
+      "documentId": "fwzxdky9s63nzcktqj1of8q3",
+      "slug": "biomarker-testing-risk-stratification-in-dcis-10-13-26",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 43,
+          "Display": "Policies",
+          "TopicCenterId": "policies",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:35.711Z",
+          "publishedAt": "2026-06-01T23:22:35.767Z",
+          "documentId": "zlw22agvh6jzp9xacm2dmxoh",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1430,
+      "Title": "MLN Connects Newsletter for Thursday, August 27, 2026",
+      "Subtitle": "New CMS Provider Education Message",
+      "Summary": "New CMS provider education message",
+      "Content": "<p style=\"text-align:center;\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cms.gov%2Ftraining-education%2Fmedicare-learning-network%2Fnewsletter%2Fmln-connects-newsletter-august-27-2026/1/010101a043872311-14bb9958-8e15-4a56-86fb-ff9c72c80541-000000/bhQWpnkN3R86L4dhxWDIbq-lVFVvUEmtgCoyabmj_HA=452\">MLN Connects<sup>®</sup> Newsletter for Thursday, August 27, 2026</a></p><p><strong>News</strong></p><ul><li data-list-item-id=\"e527e8a7bff0711de60b87f698891de79\">Alabama: $144M to Improve Mental Health, Substance Abuse, Emergency, and Maternal Care &amp; Expand the Health Care Workforce</li><li data-list-item-id=\"e720f13d24cd53cd75a06a5cea8f18437\">Alaska: $160M to Bring Cutting-Edge Technology, Drones Prescription Deliveries, Surgical Robotics &amp; More</li><li data-list-item-id=\"ec8181bf8259b3c1a7e5d53b8efde73f9\">North Dakota: Critical Funding to Launch the Coordinating &amp; Connecting Care Initiative</li><li data-list-item-id=\"e301630e3b5463e2663bb42335ed355b2\">Ohio: $3.15M to Expand Pharmacy Connectivity Throughout Rural Communities</li><li data-list-item-id=\"e0133f6829548a00396ee086b2b83621a\">Pennsylvania: $35M to Advance Screening Technology, Secure Additional Operating Rooms &amp; Modernize Rural Health Care</li><li data-list-item-id=\"e1fa7190b86e0dc23cfdfc7dcc58bd596\">South Dakota: $90M to Modernize &amp; Improve IT and Interoperability</li><li data-list-item-id=\"ee31e9f2c930aae7258a10213786f1f38\">West Virginia: $4.2M to Expand Medical Transportation &amp; Improve Patient Access to Care</li></ul><p><strong>Compliance</strong></p><ul><li data-list-item-id=\"e8402e5a398e337297b4a1c0d7d0aacfd\">Dermatologists: Bill Correctly for Evaluation and Management Services &amp; Minor Surgical Procedures</li></ul><p><strong>Claims, Pricers &amp; Codes</strong></p><ul><li data-list-item-id=\"eee17efaa333c18e9c35f9774a4d38e37\">Home Health Prospective Payment System Grouper: October Update</li></ul><p><strong>MLN Matters<sup>®</sup> Articles</strong></p><ul><li data-list-item-id=\"ef1a8129808acb58e5a027d4cfb5dd8e9\">Clinical Laboratory Fee Schedule &amp; Clinical Laboratory Improvement Amendments HCPCS Codes, Waived Tests &amp; Reasonable Charge Payments: October 2026 Quarterly Update</li><li data-list-item-id=\"e44363f53c5355551653311468c1cbc94\">Hospice Payments: FY 2027 Update</li><li data-list-item-id=\"e7e4e72e73d6a74a4b7c4feaf8ff31809\">ICD-10 &amp; Other Coding Revisions to National Coverage Determinations: January 2027 Update (2 of 2)</li></ul><p style=\"text-align:center;\"><br>The Medicare Learning Network<sup>®</sup>, MLN Connects<sup>®</sup>, and MLN Matters<sup>®</sup> are registered trademarks of the U.S. Department of Health and Human Services (HHS).</p>",
+      "Featured": false,
+      "createdAt": "2026-08-27T14:35:57.754Z",
+      "updatedAt": "2026-08-27T14:36:01.641Z",
+      "publishedAt": "2026-08-27T14:36:01.679Z",
+      "ExpirationDate": "2026-12-27",
+      "NewsPublishedDate": "2026-08-27",
+      "documentId": "yizveo2hm310cyopm7zjjzl6",
+      "slug": "mln-connects-newsletter-for-thursday-august-27-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1422,
+      "Title": "Website Updates for the Week of August 17, 2026",
+      "Subtitle": "Updates made to wpsgha.com during the week of August 17, 2026",
+      "Summary": "Updates made to wpsgha.com during the week of August 17, 2026",
+      "Content": "<p>We made the following updates to our website during the week of August 17, 2026. This list is not all-inclusive. Please continue to check our website and read Medicare eNews regularly for the latest information.<br>%%J5A%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/recovery-audit-contractor-rac-letters\">Recovery Audit Contractor (RAC) Letters</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/administrative-simplification-compliance-act-asca\">Administrative Simplification Compliance Act (ASCA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/determining-when-to-bill-medicare-versus-the-veterans-a\">Billing the Veterans Administration (VA) or Medicare: Quick Reference</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1251\">Calendar Year 2024 Medicaid Swing-Bed Nursing Facility (NF) Rates</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1288\">Calendar Year 2025 Medicaid Swing-Bed Nursing Facility (NF) Rates</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/health-professional-shortage-areas-hpsa\">Health Professional Shortage Areas (HPSA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/swing-bed-rates\">Swing-Bed Rates</a> %%/J5A%%<br>%%J8A%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/recovery-audit-contractor-rac-letters\">Recovery Audit Contractor (RAC) Letters</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/administrative-simplification-compliance-act-asca\">Administrative Simplification Compliance Act (ASCA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/determining-when-to-bill-medicare-versus-the-veterans-a\">Billing the Veterans Administration (VA) or Medicare: Quick Reference</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1251\">Calendar Year 2024 Medicaid Swing-Bed Nursing Facility (NF) Rates</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/1288\">Calendar Year 2025 Medicaid Swing-Bed Nursing Facility (NF) Rates</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/health-professional-shortage-areas-hpsa\">Health Professional Shortage Areas (HPSA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/swing-bed-rates\">Swing-Bed Rates</a>%%/J8A%%<br>%%J5B%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/recovery-audit-contractor-rac-letters\">Recovery Audit Contractor (RAC) Letters</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/administrative-simplification-compliance-act-asca\">Administrative Simplification Compliance Act (ASCA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/determining-when-to-bill-medicare-versus-the-veterans-a\">Billing the Veterans Administration (VA) or Medicare: Quick Reference</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/health-professional-shortage-areas-hpsa\">Health Professional Shortage Areas (HPSA)</a>%%/J5B%%<br>%%J8B%%<br>Posted <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/recovery-audit-contractor-rac-letters\">Recovery Audit Contractor (RAC) Letters</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/administrative-simplification-compliance-act-asca\">Administrative Simplification Compliance Act (ASCA)</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/determining-when-to-bill-medicare-versus-the-veterans-a\">Billing the Veterans Administration (VA) or Medicare: Quick Reference</a></p><p>Updated <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/health-professional-shortage-areas-hpsa\">Health Professional Shortage Areas (HPSA)</a>%%/J8B%%</p>",
+      "Featured": false,
+      "createdAt": "2026-08-24T18:32:53.972Z",
+      "updatedAt": "2026-08-24T18:32:56.973Z",
+      "publishedAt": "2026-08-24T18:32:57.008Z",
+      "ExpirationDate": "2026-09-21",
+      "NewsPublishedDate": "2026-08-24",
+      "documentId": "opvztv5wxl9dsqckghxmudwn",
+      "slug": "website-updates-for-the-week-of-august-17-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1431,
+      "Title": "September 2026 Local Coverage Determination (LCD) and Billing and Coding Article Updates",
+      "Subtitle": "New, revised, and retired Local Coverage Determinations and Billing and Coding/Policy Articles for September 2026",
+      "Summary": "New, revised, and retired Local Coverage Determinations and Billing and Coding/Policy Articles for September 2026",
+      "Content": "<p>WPS policy staff review Local Coverage Determinations (LCDs) and Billing and Coding Articles to ensure accuracy. When we create, retire, or revise LCDs and Billing and Coding Articles, we summarize the changes and publish them in a news article.</p><p><strong>Please note: Our LCDs and Billing and Coding/Coverage articles will reflect these changes on August 27, 2026.</strong></p><p><strong>New Policies/Articles</strong></p><figure class=\"table\" style=\"width:642px;\"><table style=\"border-collapse:collapse;border-style:none;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"642\"><tbody><tr><td style=\"background-color:#AEAAAA;border-color:windowtext;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Policy/Article Title</strong></span></td><td style=\"background-color:#AEAAAA;border-bottom-style:solid;border-color:windowtext;border-left-style:none;border-right-style:solid;border-top-style:solid;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>MCD</strong><span><strong># of LCD/Article</strong></span></span></td><td style=\"background-color:#AEAAAA;border-bottom-style:solid;border-color:windowtext;border-left-style:none;border-right-style:solid;border-top-style:solid;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Effective Date</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><p style=\"text-autospace:none;\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Allergy Diagnostic Testing</strong></span></p></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>L40341</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>09/27/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: Allergy Diagnostic Testing</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A60391</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>09/27/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: MolDx: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A60310</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>10/12/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>MolDx: Genetic Testing for Hereditary Thrombophilia</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>L40274, A60308, A60532</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>10/12/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>MolDx: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>L40278</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>10/12/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Peripheral Nerve Injections and Procedures for Chronic Pain</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>L40300, A60322</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>10/25/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Response to Comments: Allergy Diagnostic Testing</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A60524</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>08/13/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Response to Comments MolDx: Non-Next Generation Sequencing Targeted Molecular Panel Tests for Targeted Therapy in Cancer</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A60530</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>08/27/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Response to Comments: Peripheral Nerve Injections and Procedures for Chronic Pain</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A60522</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>09/10/2026</strong></span></td></tr></tbody></table></figure><p><strong>Retired Policies/Articles</strong></p><figure class=\"table\" style=\"width:642px;\"><table style=\"border-collapse:collapse;border-style:none;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"642\"><tbody><tr><td style=\"background-color:#AEAAAA;border-color:windowtext;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Policy/Article Title</strong></span></td><td style=\"background-color:#AEAAAA;border-bottom-style:solid;border-color:windowtext;border-left-style:none;border-right-style:solid;border-top-style:solid;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>MCD</strong><span><strong># of LCD/Article</strong></span></span></td><td style=\"background-color:#AEAAAA;border-bottom-style:solid;border-color:windowtext;border-left-style:none;border-right-style:solid;border-top-style:solid;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Effective Date</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><p style=\"text-autospace:none;\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Allergy Testing</strong></span></p></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>L36402</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>09/26/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:642px;\" colspan=\"3\" width=\"642\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Allergy Testing L36402 is being retired on 09/26/2026. This LCD is being retired because it is being superseded by Allergy Diagnostic Testing L40341 LCD.</span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: Allergy Testing</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A57473</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>09/26/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:642px;\" colspan=\"3\" width=\"642\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Billing and Coding: Allergy Testing A57473 is being retired on 09/26/2026. This article is being retired because it is being superseded by Billing and Coding Allergy Diagnostic Testing A60391.</span></td></tr></tbody></table></figure><p><strong>Revised Policies/Articles</strong></p><figure class=\"table\" style=\"width:642px;\"><table style=\"border-collapse:collapse;border-style:none;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"642\"><tbody><tr><td style=\"background-color:#AEAAAA;border-color:windowtext;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Policy/Article Title</strong></span></td><td style=\"background-color:#AEAAAA;border-bottom-style:solid;border-color:windowtext;border-left-style:none;border-right-style:solid;border-top-style:solid;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>MCD</strong><span><strong># of LCD/Article</strong></span></span></td><td style=\"background-color:#AEAAAA;border-bottom-style:solid;border-color:windowtext;border-left-style:none;border-right-style:solid;border-top-style:solid;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Effective Date</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><p style=\"text-autospace:none;\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: MolDx: BCR-ABL</strong></span></p></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A55233</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>08/27/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:642px;\" colspan=\"3\" width=\"642\"><p><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Biennial review completed 08/06/2026. Updated Article Text. Formatting changes made throughout.</span></p><p><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Under Article Text revised hyperlink.</span></p></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"color:#333333;font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: MolDx: Biotheranostics Cancer Type ID<sup>®</sup> Update</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A55147</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>08/27/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:642px;\" colspan=\"3\" width=\"642\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Biennial review completed 08/03/2026. Updated Article Text. Under Article Text deleted the third bullet. Formatting changes made throughout.</span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: MolDx: Lab-Developed Tests for Inherited Cancer Syndromes in Patients with Cancer</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A58756</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>08/06/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:642px;\" colspan=\"3\" width=\"642\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Under Article Text added “Specific tests that have been evaluated for compliance with coverage criteria set in policy (and are thus covered or not covered) can be found in the DEX® registry located at www.dexzcodes.com”. Under CPT/HCPCS Codes Group 1: Paragraph added “Single genes and solid tumor panels”. Under CPT/HCPCS Codes Group 2: Paragraph added “Hematologic neoplasm panels”. Under ICD-10 Codes that Support Medical Necessity Group 1: Paragraph added “Solid tumors”. Under ICD-10 Codes that Support Medical Necessity Group 2: Paragraph added “Hematologic neoplasms”. This revision is effective 8/6/2026</span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:336px;\" width=\"336\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>Billing and Coding: Non-Invasive Abdominal/Visceral Vascular Studies</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:216px;\" width=\"216\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>A57591</strong></span></td><td style=\"border-bottom:1px solid windowtext;border-left-style:none;border-right:1px solid windowtext;border-top-style:none;height:50px;padding:0px 7px;width:90px;\" width=\"90\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\"><strong>08/01/2026</strong></span></td></tr><tr style=\"height:37.75pt;\"><td style=\"border-bottom-style:solid;border-color:windowtext;border-left-style:solid;border-right-style:solid;border-top-style:none;height:50px;padding:0px 7px;width:642px;\" colspan=\"3\" width=\"642\"><span style=\"font-family:&quot;Arial&quot;,sans-serif;font-size:9.5pt;\">Under ICD-10-CM Codes that Support Medical Necessity, Group 1 codes, added R10.A1, R10.A2, and R10.A3. These changes are effective for dates of service on or after 08/01/2026.</span></td></tr></tbody></table></figure><p>To access Local Coverage Determinations (LCDs) and Billing and Coding Articles from our website, use the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/tools/code-lookup\">Code Lookup</a> tool. You can also access LCDs and Billing and Coding Articles in the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.cms.gov/medicare-coverage-database/\">CMS Medicare Coverage Database</a>.</p><p>&nbsp;</p><p><i>Editor's Note: This article was updated on August 27, 2026, to correct the titles of two new policies.</i></p>",
+      "Featured": false,
+      "createdAt": "2026-08-24T15:26:53.425Z",
+      "updatedAt": "2026-08-27T20:45:23.617Z",
+      "publishedAt": "2026-08-27T20:45:23.664Z",
+      "ExpirationDate": "2027-08-24",
+      "NewsPublishedDate": "2026-08-24",
+      "documentId": "i2za56wnfp2jzr8nzrc92t61",
+      "slug": "september-2026-lcd-and-billing-and-coding-article-updates",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 43,
+          "Display": "Policies",
+          "TopicCenterId": "policies",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:35.711Z",
+          "publishedAt": "2026-06-01T23:22:35.767Z",
+          "documentId": "zlw22agvh6jzp9xacm2dmxoh",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1445,
+      "Title": "Skilled Nursing Facility (SNF) Documentation Errors",
+      "Subtitle": "New SNF documentation CERT errors have been found",
+      "Summary": "New SNF documentation CERT errors have been found",
+      "Content": "<p>Additional CERT errors have been found with SNF documentation. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.wpsgha.com/guides-resources/view/832\">Our Skilled Nursing Facility Documentation – CERT Errors</a> resource has been updated with the additional errors.</p>",
+      "Featured": false,
+      "createdAt": "2026-08-24T17:11:51.363Z",
+      "updatedAt": "2026-08-31T17:36:04.102Z",
+      "publishedAt": "2026-08-31T17:36:04.139Z",
+      "ExpirationDate": "2026-09-27",
+      "NewsPublishedDate": "2026-08-24",
+      "documentId": "yt7kig8xnjo5c95p1bl0h4xw",
+      "slug": "skilled-nursing-facility-snf-documentation-errors",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1401,
+      "Title": "MLN Connects® Newsletter for Thursday, August 20, 2026",
+      "Subtitle": "New CMS Provider Education Message",
+      "Summary": "New CMS provider education message",
+      "Content": "<p style=\"text-align:center;\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cms.gov%2Ftraining-education%2Fmedicare-learning-network%2Fnewsletter%2Fmln-connects-newsletter-august-20-2026/1/010101a01f7abd51-5e3f01ea-a568-4144-8996-18d799b32d29-000000/JadWLs49FA8AJHr6DgBv5dqQveuDJQ4iVTKXnoptczw=452\">MLN Connects® Newsletter for Thursday, August 20, 2026</a></p><p><strong>News</strong></p><ul><li data-list-item-id=\"e71f31ebfa1f5bb700c9b8af572d47235\">DMEPOS Competitive Bidding Program: Get Ready for Round 2028</li></ul><p><strong>Compliance</strong></p><ul><li data-list-item-id=\"ed24efabcfbe6a50dbcc7b3f3bea59de9\">Comprehensive Outpatient Rehabilitation Facility Services: Prevent Claim Denials</li></ul><p><strong>Claims, Pricers &amp; Codes</strong></p><ul><li data-list-item-id=\"ed32eb7ab43f5cf9c623801a0e106bfef\">Encelto™ Cell Gene Therapy Drug: Get Billing Guidance</li><li data-list-item-id=\"eca81ccc3ce4748d4503bd5eb82c9d99d\">HCPCS Application Summaries &amp; Coding Decisions: Non-Drug &amp; Non-Biological Items &amp; Services</li></ul><p><strong>Events</strong></p><ul><li data-list-item-id=\"e1583708ced95fbd3fb78f6c2c63d224f\">CCSQ Quarterly Stakeholder Webinar – August 26</li><li data-list-item-id=\"e0c4fb6ef9b7556a88ec91c5ffeb95134\">CMS National Provider Enrollment Conference — November 18 &amp; 19</li></ul><p><strong>MLN Matters® Articles</strong></p><ul><li data-list-item-id=\"e811dbd10d51d7d9cb22c88ebbfe90b5c\">ICD-10 &amp; Other Coding Revisions to National Coverage Determinations: January 2027 Update (1 of 2)</li></ul><p><strong>Publications &amp; Multimedia</strong></p><ul><li data-list-item-id=\"e026d08d7b238a61ec8cbf8d65d9832f6\">Understanding Telehealth &amp; Teleradiology Enrollment</li></ul><p><strong>From Our Federal Partners</strong></p><ul><li data-list-item-id=\"eaf754941fe9190d78b84997ebcec0472\">Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications</li></ul><p style=\"text-align:center;\">&nbsp;</p><p style=\"text-align:center;\">The Medicare Learning Network®, MLN Connects®, and MLN Matters® are registered trademarks of the U.S. Department of Health and Human Services (HHS).</p>",
+      "Featured": false,
+      "createdAt": "2026-08-20T14:47:28.306Z",
+      "updatedAt": "2026-08-20T14:48:51.912Z",
+      "publishedAt": "2026-08-20T14:48:51.948Z",
+      "ExpirationDate": "2026-12-20",
+      "NewsPublishedDate": "2026-08-20",
+      "documentId": "o2h35a7pw52w12bw5rheqa04",
+      "slug": "mln-connects-newsletter-for-thursday-august-20-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1392,
+      "Title": "New Medicare Enrollment Application - Clinics/Group Practices and Certain Other Suppliers (CMS-855B)",
+      "Subtitle": "New CMS-855B",
+      "Summary": "Updated Medicare Enrollment Application - Clinics/Group Practices and Certain Other Suppliers (CMS-855B)",
+      "Content": "<p>CMS released the new <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.cms.gov/medicare/cms-forms/cms-forms/cms-forms-items/cms019476\">Medicare Enrollment Application - Clinics/Group Practices and Certain Other Suppliers (CMS-855B)</a>. Updates were also made to the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://pecos.cms.hhs.gov/pecos/login.do#headingLv1\">Provider Enrollment, Chain, and Ownership System (PECOS) </a>to mirror the paper application.</p><p>MACs began accepting the new application on June 1, 2026, and stopped accepting the old version on August 3, 2026.</p><p>Updates to the application include:</p><ul><li data-list-item-id=\"ed9577de2b50ceaf3560509379f8ae0e3\">Section verbiage and layout changes for improved clarity</li><li data-list-item-id=\"e2892f73b1b86b7ab1f8f5fccf3f32416\">New section 4H <i>Reassignment of Benefit Information</i></li><li data-list-item-id=\"e8d51d999ae38a98715db56bb6b147b5a\">Updated list of reportable adverse legal actions&nbsp;</li><li data-list-item-id=\"e0c0114fd638f4dce34e9598a79aa0520\">New submission reason of “You are solely enrolling in Medicare to participate in Medicaid or another health care program and will not bill Medicare”</li></ul>",
+      "Featured": false,
+      "createdAt": "2026-08-17T15:21:02.422Z",
+      "updatedAt": "2026-08-18T17:11:43.367Z",
+      "publishedAt": "2026-08-18T17:11:43.417Z",
+      "ExpirationDate": "2026-09-18",
+      "NewsPublishedDate": "2026-08-17",
+      "documentId": "nljg5ng2m7o51p3pqnzgkkaj",
+      "slug": "new-cms-855-b",
+      "Jurisdictions": [
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 44,
+          "Display": "Provider Enrollment",
+          "TopicCenterId": "provider-enrollment",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:40.681Z",
+          "publishedAt": "2026-06-01T23:22:40.722Z",
+          "documentId": "m3nazprrfzgpziobs81tobph",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1488,
+      "Title": "2026 National Provider Enrollment Conference (NPEC) – Registration is now open!",
+      "Subtitle": "Join CMS and Medicare contractors for this free event",
+      "Summary": "Join CMS and Medicare contractors for this free event.",
+      "Content": "<p>Join us at the National Provider Enrollment Conference (NPEC), a free, two-day event offering unparalleled access to the experts who shape and administer the Medicare provider enrollment program. Don’t miss this opportunity to gain valuable insights, share best practices, and network with peers from across the industry. Seating is limited, so <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.novitas-solutions.com/webcenter/portal/DMEPOS/NPEC\">register</a> today to secure your place.</p><p>Event Dates: November 18 – 19, 2026</p><p>Location: Gaylord Palm Resort and Convention Center – Marriott (6000 Osceola Pkwy, Kissimmee, FL 34746)</p><p>&nbsp;</p><p><i>Editor's Note: This article was updated on September 14, 2026, to indicate registration is now open.</i></p>",
+      "Featured": true,
+      "createdAt": "2026-08-14T20:35:01.259Z",
+      "updatedAt": "2026-09-14T18:20:43.074Z",
+      "publishedAt": "2026-09-14T18:20:43.187Z",
+      "ExpirationDate": "2026-11-20",
+      "NewsPublishedDate": "2026-08-17",
+      "documentId": "u6n8q6mrjrlojo2plhot9gae",
+      "slug": "2026-national-provider-enrollment-conference",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [
+        {
+          "id": 44,
+          "Display": "Provider Enrollment",
+          "TopicCenterId": "provider-enrollment",
+          "createdAt": "2022-09-23T18:26:34.274Z",
+          "updatedAt": "2026-06-01T23:22:40.681Z",
+          "publishedAt": "2026-06-01T23:22:40.722Z",
+          "documentId": "m3nazprrfzgpziobs81tobph",
+          "ShowInNavigation": true
+        }
+      ],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    },
+    {
+      "id": 1376,
+      "Title": "MLN Connects Newsletter for Thursday, August 13, 2026",
+      "Subtitle": "New CMS Provider Education Message",
+      "Summary": "New CMS provider education message",
+      "Content": "<p style=\"text-align:center;\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cms.gov%2Ftraining-education%2Fmedicare-learning-network%2Fnewsletter%2Fmln-connects-newsletter-august-13-2026/1/0101019ffb6df99c-ffabfbe0-ac70-4d4c-9821-fc1f32a2015d-000000/8nwLLwmAORicFfONmIScMyHUb5vF7HYr2Uj5uIuO6k8=452\">MLN Connects<sup>®</sup> Newsletter for Thursday, August 13, 2026</a></p><p><strong>News</strong></p><ul><li data-list-item-id=\"e60e492c9a032c55eb3838ecc013ed616\">CMS Announces Resources, Flexibilities to Assist with Public Health Emergency in State of Washington</li><li data-list-item-id=\"efc7ca5273ede3acb4650a7579ac6a90e\">CMS Proposes New Requirements for Off-Campus Outpatient Departments of a Provider – Submit Comments by August 31</li><li data-list-item-id=\"e436aed17ef9aabdfbefc973520a5f2e0\">Regulatory Alignment for Predictable &amp; Immediate Device Coverage Pathway Procedural Notice – Inviting Comment by October 13</li><li data-list-item-id=\"e56bfc6cbcb47c995c7f6add0b4131c26\">Inpatient Psychiatric Facilities: Download Your 2025 PEPPER</li></ul><p><strong>Claims, Pricers &amp; Codes</strong></p><ul><li data-list-item-id=\"e1b1b1c4662382ea8ec4872a770496afd\">Skilled Nursing Facility Prospective Payment System: FY 2027 Pricer Update</li></ul><p><strong>MLN Matters<sup>®</sup> Articles</strong></p><ul><li data-list-item-id=\"e49a7cec6aff173cffe581bf338144f74\">Inpatient Rehabilitation Facility Prospective Payment System: FY 2027 Web Pricer Update</li><li data-list-item-id=\"e09e124c1e1b04eae5fa76bf7214bc1a3\">Medicare Part A Cost Report Overpayments: Default Recoupment Date Extension</li><li data-list-item-id=\"ebe28a8f7be70663eec1f0542522ec787\">Medicare Severity Diagnosis-Related Groups Subject to Inpatient Prospective Payment System Replaced Devices Policy: FY 2027 Update</li></ul><p><strong>Publications &amp; Multimedia</strong></p><ul><li data-list-item-id=\"eb2914af807a095e517b566206894c24c\">Power Mobility Devices</li></ul><p style=\"text-align:center;\"><br>The Medicare Learning Network<sup>®</sup>, MLN Connects<sup>®</sup>, and MLN Matters<sup>®</sup> are registered trademarks of the U.S. Department of Health and Human Services (HHS).</p>",
+      "Featured": false,
+      "createdAt": "2026-08-13T14:52:50.693Z",
+      "updatedAt": "2026-08-13T14:52:52.764Z",
+      "publishedAt": "2026-08-13T14:52:52.795Z",
+      "ExpirationDate": "2026-12-13",
+      "NewsPublishedDate": "2026-08-13",
+      "documentId": "x28q647pi8rll6mtckfa718u",
+      "slug": "mln-connects-newsletter-for-thursday-august-13-2026",
+      "Jurisdictions": [
+        {
+          "id": 1,
+          "Name": "J5 MAC Part A",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5A",
+          "createdAt": "2022-09-23T18:30:05.375Z",
+          "updatedAt": "2023-10-28T04:11:22.244Z",
+          "publishedAt": "2022-09-23T18:30:07.248Z",
+          "documentId": "k14n46zokdro2wd0dk4zn3ff"
+        },
+        {
+          "id": 2,
+          "Name": "J5 MAC Part B",
+          "Description": "IA, KS, MO, NE Providers",
+          "Code": "J5B",
+          "createdAt": "2022-09-23T18:30:35.852Z",
+          "updatedAt": "2023-10-28T04:11:22.255Z",
+          "publishedAt": "2022-09-23T18:30:36.630Z",
+          "documentId": "kwl2iptk7b1gqvuu7vfdjkhz"
+        },
+        {
+          "id": 3,
+          "Name": "J8 MAC Part A",
+          "Description": "IN, MI Providers",
+          "Code": "J8A",
+          "createdAt": "2022-09-23T18:30:56.318Z",
+          "updatedAt": "2023-10-28T04:11:22.266Z",
+          "publishedAt": "2022-09-23T18:30:57.179Z",
+          "documentId": "idjm62vs9ecbrslm6b5z011w"
+        },
+        {
+          "id": 4,
+          "Name": "J8 MAC Part B",
+          "Description": "IN, MI Providers",
+          "Code": "J8B",
+          "createdAt": "2022-09-23T18:31:26.241Z",
+          "updatedAt": "2023-10-28T04:11:22.278Z",
+          "publishedAt": "2022-09-23T18:31:26.946Z",
+          "documentId": "mpx8u3v30y1c2fg57j5e4c80"
+        }
+      ],
+      "Topic_Centers": [],
+      "Attachments": null,
+      "Specialties": [],
+      "Topics": []
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 20,
+      "pageCount": 3,
+      "total": 60
+    }
+  }
+}

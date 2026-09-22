@@ -1,0 +1,18 @@
+# Core
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+sqlalchemy>=2.0.35
+pydantic>=2.9.0
+python-dotenv>=1.2.2
+python-dateutil>=2.9.0
+
+# Collection
+requests>=2.32.5
+
+# Analysis / NLP (hybrid: rules first, models for ambiguous cases)
+transformers>=4.45.0
+torch>=2.4.0
+spacy>=3.8.0
+
+# Utility
+pandas>=2.2.0

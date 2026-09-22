@@ -1,0 +1,1798 @@
+{
+  "source": "AMA",
+  "source_url": "https://www.ama-assn.org",
+  "scraped_at": "2026-09-17T04:06:03.791478",
+  "pages_checked": 2,
+  "pages_fetched": 2,
+  "total_unique_links": 213,
+  "records": [
+    {
+      "source": "AMA",
+      "source_type": "medical_professional_organization",
+      "content_type": "news",
+      "title": "American Medical Association | Medical News | News for Doctors",
+      "url": "https://www.ama-assn.org/",
+      "published_date": "2026-09-16 00:00:00",
+      "topics": [
+        "prior_authorization",
+        "reimbursement",
+        "coding",
+        "medicare"
+      ],
+      "payer_mentions": [
+        "Medicare"
+      ],
+      "procedure_mentions": [],
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What doctors want patients to know about atrial fibrillation"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Beachgem: Are your child’s sleep habits normal?"
+        },
+        {
+          "level": "h2",
+          "text": "Peer support is a team sport—and starts with the right training"
+        },
+        {
+          "level": "h2",
+          "text": "Overlooked well-being factors that could affect your next job"
+        },
+        {
+          "level": "h2",
+          "text": "Academic coaching in medical education"
+        },
+        {
+          "level": "h2",
+          "text": "Medical education and workforce development"
+        },
+        {
+          "level": "h2",
+          "text": "Why some medical student research gets published—and some doesn’t"
+        },
+        {
+          "level": "h2",
+          "text": "How to use AI in residency applications? Learn the rules of the road"
+        },
+        {
+          "level": "h2",
+          "text": "Follow this contract playbook for a great transition to practice"
+        },
+        {
+          "level": "h2",
+          "text": "How the culture of residency backup is changing—for better"
+        },
+        {
+          "level": "h2",
+          "text": "Addressing and managing drug shortages"
+        },
+        {
+          "level": "h2",
+          "text": "Ways to get involved with AMA advocacy"
+        },
+        {
+          "level": "h2",
+          "text": "Sexual Health and STI Prevention in Primary Care"
+        },
+        {
+          "level": "h2",
+          "text": "Coding, Billing, and Beyond: Revenue Cycle Management in the Era of Value-Based Care"
+        },
+        {
+          "level": "h2",
+          "text": "Federation of Medicine"
+        },
+        {
+          "level": "h2",
+          "text": "2026 Interim Meeting of the HOD: Speakers' updates overview"
+        },
+        {
+          "level": "h2",
+          "text": "Council on Long Range Planning & Development (CLRPD) Projects"
+        },
+        {
+          "level": "h2",
+          "text": "Council on Ethical & Judicial Affairs (CEJA) reports"
+        },
+        {
+          "level": "h2",
+          "text": "Women Physicians Section Inspiration Award"
+        },
+        {
+          "level": "h2",
+          "text": "Inspiration Award honorees"
+        },
+        {
+          "level": "h2",
+          "text": "AMA upcoming appearances"
+        },
+        {
+          "level": "h2",
+          "text": "Medical Justice in Advocacy Fellowship"
+        },
+        {
+          "level": "h4",
+          "text": "Popular Searches"
+        },
+        {
+          "level": "h2",
+          "text": "Organizational Nav"
+        },
+        {
+          "level": "h1",
+          "text": "American Medical Association"
+        },
+        {
+          "level": "h2",
+          "text": "Get respiratory virus season immunization recommendations"
+        },
+        {
+          "level": "h3",
+          "text": "Nominate an extraordinary individual shaping the future of healthcare"
+        },
+        {
+          "level": "h3",
+          "text": "Peer support is a team sport—and starts with the right training"
+        },
+        {
+          "level": "h3",
+          "text": "Ethical questions about health AI? The AMA has guidance"
+        },
+        {
+          "level": "h3",
+          "text": "What doctors want patients to know about atrial fibrillation"
+        },
+        {
+          "level": "h3",
+          "text": "Why some medical student research gets published—and some doesn’t"
+        },
+        {
+          "level": "h3",
+          "text": "Overlooked well-being factors that could affect your next job"
+        },
+        {
+          "level": "h3",
+          "text": "CV tips for IMGs: How to stand out with residency program directors"
+        },
+        {
+          "level": "h2",
+          "text": "Physician compensation"
+        },
+        {
+          "level": "h3",
+          "text": "Free CME for members"
+        },
+        {
+          "level": "h2",
+          "text": "AMA Interim Meeting"
+        },
+        {
+          "level": "h3",
+          "text": "Interim Meeting of the House of Delegates"
+        },
+        {
+          "level": "h3",
+          "text": "Member Groups (Sections) Meetings"
+        },
+        {
+          "level": "h4",
+          "text": "Future HOD Meeting Dates"
+        },
+        {
+          "level": "h2",
+          "text": "During uncertain times, one thing is certain—the AMA is fighting for you."
+        },
+        {
+          "level": "h3",
+          "text": "Fixing prior authorization"
+        },
+        {
+          "level": "h3",
+          "text": "Reforming Medicare payment"
+        },
+        {
+          "level": "h3",
+          "text": "Promoting physician-led care"
+        },
+        {
+          "level": "h3",
+          "text": "Reducing physician burnout"
+        },
+        {
+          "level": "h3",
+          "text": "Making technology work for physicians"
+        },
+        {
+          "level": "h3",
+          "text": "Progress Report"
+        },
+        {
+          "level": "h2",
+          "text": "Member benefits: Exclusive savings & resources"
+        },
+        {
+          "level": "h3",
+          "text": "6 reasons to join the AMA"
+        },
+        {
+          "level": "h3",
+          "text": "Auto & transportation"
+        },
+        {
+          "level": "h3",
+          "text": "Home & lifestyle offers"
+        },
+        {
+          "level": "h3",
+          "text": "Med student membership"
+        },
+        {
+          "level": "h3",
+          "text": "Loans & financial services"
+        },
+        {
+          "level": "h3",
+          "text": "Member dues"
+        },
+        {
+          "level": "h2",
+          "text": "Upcoming Events"
+        },
+        {
+          "level": "h3",
+          "text": "Get your daily dose of medical news"
+        },
+        {
+          "level": "h2",
+          "text": "Essential Tools & Resources"
+        },
+        {
+          "level": "h2",
+          "text": "FREIDA™, the AMA Residency and Fellowship Database®"
+        },
+        {
+          "level": "h2",
+          "text": "FREIDA™, the AMA Residency and Fellowship Database®"
+        },
+        {
+          "level": "h2",
+          "text": "Your Membership Moves Medicine™"
+        },
+        {
+          "level": "h2",
+          "text": "Raising the Voice of Our Members"
+        },
+        {
+          "level": "h4",
+          "text": "Amber Shirley, DO"
+        },
+        {
+          "level": "h4",
+          "text": "Steve Lee, MD"
+        },
+        {
+          "level": "h2",
+          "text": "Stay updated with AMA"
+        },
+        {
+          "level": "h2",
+          "text": "Our Work Our Work"
+        },
+        {
+          "level": "h2",
+          "text": "Career Resources Career Resources"
+        },
+        {
+          "level": "h2",
+          "text": "About About"
+        },
+        {
+          "level": "h2",
+          "text": "Affiliates & Subsidiaries Affiliates & Subsidiaries"
+        },
+        {
+          "level": "h2",
+          "text": "Follow Us"
+        },
+        {
+          "level": "h2",
+          "text": "Follow Us"
+        }
+      ],
+      "content": "Member Benefits\nFighting for Physicians\nAbout\nAdvocacy\nEducation\nPractice Management\nResidents\nStudents\nPublic Health\nAmerican Medical Association\nGet respiratory virus season immunization recommendations\nFollowing extensive evidence review, leading physician organizations offer their advice to help stop influenza, RSV and COVID-19 this respiratory virus season.\nLearn More\nAMA Members Start Here\nManage Account\nBenefits & Savings\nMember-Exclusive CME\nNominate an extraordinary individual shaping the future of healthcare\nSep 16, 2026\nPeer support is a team sport—and starts with the right training\nSep 16, 2026\nEthical questions about health AI? The AMA has guidance\nSep 14, 2026\nWhat doctors want patients to know about atrial fibrillation\nSep 16, 2026\nWhy some medical student research gets published—and some doesn’t\nSep 14, 2026\nOverlooked well-being factors that could affect your next job\nSep 15, 2026\nCV tips for IMGs: How to stand out with residency program directors\nSep 16, 2026\nAMA Research\nPhysician compensation\nThe AMA analyzed trends in physician compensation methods from 2014 to 2024, which revealed a shift toward blended compensation models.\nLearn More\nFree CME for members\nJoin the AMA\nAMA Interim Meeting\nEvent Information\nWalt Disney World Swan and Dolphin Resort\nOrlando, Florida\nTravel Information\nInterim Meeting of the House of Delegates\nNov. 6–10, 2026\nRegistration\nSpeakers' Updates\nAgenda\nSubmit a resolution\nChild care\nMember Groups (Sections) Meetings\nNov. 5–6, 2026\nRegistration\nSection agendas & meeting resources\nChild care\nFuture HOD Meeting Dates\nMore Info\nDuring uncertain times, one thing is certain—the AMA is fighting for you.\nWhy We Fight\nFixing prior authorization\nPhysicians decide what’s best for their patients—not insurance companies.\nLearn more\nReforming Medicare payment\nProtecting access to care.\nLearn more\nPromoting physician-led care\nFighting scope creep with physician-led, team-based care.\nLearn more\nReducing physician burnout\nAddressing burnout at the organizational level.\nLearn more\nMaking technology work for physicians\nEnsuring technology is an asset, not a burden.\nLearn more\nProgress Report\nThe AMA is your powerful ally in patient care, focused on addressing the issues important to you, so you can focus on what matters most—your patients.\nLearn more\nMember benefits: Exclusive savings & resources\nBeing an AMA member has its advantages\n6 reasons to join the AMA\nBy becoming a member, you can play a role in shaping the future of medicine while growing professionally, no matter where you are in your training and career.\nLearn more\nAuto & transportation\nAMA membership makes you eligible for exceptional savings on a host of impressive Mercedes-Benz and Volvo vehicles.\nLearn more\nHome & lifestyle offers\nFind and purchase a new home, refinance an existing mortgage or protect your home with professional monitoring.\nLearn more\nMed student membership\nFind leadership and advocacy opportunities, get test prep, showcase your research, and take advantage of discounts and benefits designed just for you.\nLearn more\nLoans & financial services\nWhether it's a home, student, resident or personal loan or insurance, AMA provides the information to align your finances, and prepare for your future.\nLearn more\nMember dues\nBrowse AMA membership dues by your role and experience level.\nLearn more\nUpcoming Events\nView All Events\nCPT® Editorial Panel Meeting\nSep 17 - 19, 2026\nHybrid\nJourney to Joy in Medicine®—Support\nSep 22, 2026\nVirtual\nImproving Women's Health Outcomes: Addressing Disparities Across Clinical Care\nSep 23, 2026\nVirtual\nView All Events\nAMA Morning Rounds\nGet your daily dose of medical news\nThe biggest stories in medicine and public health delivered right to your inbox.\nEmail\nI verify that I’m in the U.S. and agree to receive communication from the AMA or third parties on behalf of AMA.\nEssential Tools & Resources\nCME from AMA Ed Hub™\nFree CME for members\nDEA training requirement\nState CME requirements\nView All Topics\nCME from AMA Ed Hub™\nFree CME for members\nDEA training requirement\nState CME requirements\nView All Topics\nAdvocating for Physicians\nAMA PolicyFinder\nFederal & State Correspondence\nAMA Press Center\nView All Topics\nAdvocating for Physicians\nAMA PolicyFinder\nFederal & State Correspondence\nAMA Press Center\nView All Topics\nGuides\nPrivate Practice Playbook\nCPT® Codes\nSaving Time Playbook\nGuides\nPrivate Practice Playbook\nCPT® Codes\nSaving Time Playbook\nMember Benefits\nPhysician Benefits & Discounts\nPractice Benefits & Discounts\nMember Dues\nView All Topics\nMember Benefits\nPhysician Benefits & Discounts\nPractice Benefits & Discounts\nMember Dues\nView All Topics\nFREIDA™, the AMA Residency and Fellowship Database®\nSave, rank, take notes, download and compare programs.\nAccess FREIDA. Find your Match.\nYour Membership Moves Medicine™\nJoin the AMA today\nRaising the Voice of Our Members\nAmber Shirley, DO\n\"And with that, your 24-25 Region 4 Chair of the American Medical Association Medical Student Section has retired ...\nSee y’all in RFS!\"\nVisit Dr. Shirley on Instagram\nSteve Lee, MD\n\"What a joy it was to see 91-year-old oncologist Jack Evjy, MD, my mentor and oncology fellowship letter writer, back representing\n@massmedicalsociety\nat the\n@amermedicalassn\nHouse of Delegates\n#amamtg\nto discuss an important resolution on patient-centered decision-making.\"\nVisit Dr. Lee on Instagram"
+    },
+    {
+      "source": "AMA",
+      "source_type": "medical_professional_organization",
+      "content_type": "prior_authorization",
+      "title": "Prior Authorization | American Medical Association",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization",
+      "published_date": "2026-07-29 07:00:00",
+      "topics": [
+        "prior_authorization",
+        "denials",
+        "reimbursement",
+        "medicare"
+      ],
+      "payer_mentions": [
+        "CMS",
+        "Medicare",
+        "Medicare Advantage"
+      ],
+      "procedure_mentions": [],
+      "headings": [
+        {
+          "level": "h2",
+          "text": "What doctors want patients to know about atrial fibrillation"
+        },
+        {
+          "level": "h2",
+          "text": "Dr. Beachgem: Are your child’s sleep habits normal?"
+        },
+        {
+          "level": "h2",
+          "text": "Peer support is a team sport—and starts with the right training"
+        },
+        {
+          "level": "h2",
+          "text": "Overlooked well-being factors that could affect your next job"
+        },
+        {
+          "level": "h2",
+          "text": "Academic coaching in medical education"
+        },
+        {
+          "level": "h2",
+          "text": "Medical education and workforce development"
+        },
+        {
+          "level": "h2",
+          "text": "Why some medical student research gets published—and some doesn’t"
+        },
+        {
+          "level": "h2",
+          "text": "How to use AI in residency applications? Learn the rules of the road"
+        },
+        {
+          "level": "h2",
+          "text": "Follow this contract playbook for a great transition to practice"
+        },
+        {
+          "level": "h2",
+          "text": "How the culture of residency backup is changing—for better"
+        },
+        {
+          "level": "h2",
+          "text": "Addressing and managing drug shortages"
+        },
+        {
+          "level": "h2",
+          "text": "Ways to get involved with AMA advocacy"
+        },
+        {
+          "level": "h2",
+          "text": "Sexual Health and STI Prevention in Primary Care"
+        },
+        {
+          "level": "h2",
+          "text": "Coding, Billing, and Beyond: Revenue Cycle Management in the Era of Value-Based Care"
+        },
+        {
+          "level": "h2",
+          "text": "Federation of Medicine"
+        },
+        {
+          "level": "h2",
+          "text": "2026 Interim Meeting of the HOD: Speakers' updates overview"
+        },
+        {
+          "level": "h2",
+          "text": "Council on Long Range Planning & Development (CLRPD) Projects"
+        },
+        {
+          "level": "h2",
+          "text": "Council on Ethical & Judicial Affairs (CEJA) reports"
+        },
+        {
+          "level": "h2",
+          "text": "Women Physicians Section Inspiration Award"
+        },
+        {
+          "level": "h2",
+          "text": "Inspiration Award honorees"
+        },
+        {
+          "level": "h2",
+          "text": "AMA upcoming appearances"
+        },
+        {
+          "level": "h2",
+          "text": "Medical Justice in Advocacy Fellowship"
+        },
+        {
+          "level": "h4",
+          "text": "Popular Searches"
+        },
+        {
+          "level": "h1",
+          "text": "Prior Authorization"
+        },
+        {
+          "level": "h3",
+          "text": "AMA reform initiatives"
+        },
+        {
+          "level": "h3",
+          "text": "Reform resources"
+        },
+        {
+          "level": "h3",
+          "text": "Practice resources"
+        },
+        {
+          "level": "h3",
+          "text": "Research & reports"
+        },
+        {
+          "level": "h2",
+          "text": "Featured"
+        },
+        {
+          "level": "h3",
+          "text": "OIG reports blast prior authorization use in Medicare Advantage"
+        },
+        {
+          "level": "h3",
+          "text": "AMA Advocacy Impact Report"
+        },
+        {
+          "level": "h3",
+          "text": "Advocacy in action: Fixing prior authorization"
+        },
+        {
+          "level": "h3",
+          "text": "Read how the AMA drove state-level change in 2025"
+        },
+        {
+          "level": "h2",
+          "text": "The AMA is fighting to fix prior authorization"
+        },
+        {
+          "level": "h2",
+          "text": "Delays in reforming Medicare, prior auth harm patients"
+        },
+        {
+          "level": "h2",
+          "text": "Aug. 21, 2026: National Advocacy Update"
+        },
+        {
+          "level": "h2",
+          "text": "On prior auth, CMS responds to AMA concerns"
+        },
+        {
+          "level": "h2",
+          "text": "OIG reports blast prior authorization use in Medicare Advantage"
+        },
+        {
+          "level": "h2",
+          "text": "Prior authorization reform is on the march. Next stop: House floor"
+        },
+        {
+          "level": "h3",
+          "text": "Membership Moves Medicine™"
+        },
+        {
+          "level": "h2",
+          "text": "Stay updated with AMA"
+        },
+        {
+          "level": "h2",
+          "text": "Our Work Our Work"
+        },
+        {
+          "level": "h2",
+          "text": "Career Resources Career Resources"
+        },
+        {
+          "level": "h2",
+          "text": "About About"
+        },
+        {
+          "level": "h2",
+          "text": "Affiliates & Subsidiaries Affiliates & Subsidiaries"
+        },
+        {
+          "level": "h2",
+          "text": "Follow Us"
+        },
+        {
+          "level": "h2",
+          "text": "Follow Us"
+        }
+      ],
+      "content": "Practice Management\nPrior Authorization\nPrior authorization requirements can lead to negative clinical outcomes. Get the latest resources and information and learn more about how the AMA is leading reforms around prior authorization.\nExplore Topics:\nPrior Authorization\nAMA reform initiatives\nReform resources\nPractice resources\nResearch & reports\nFeatured\nOIG reports blast prior authorization use in Medicare Advantage\nJul 29, 2026\n|\n5 Min Read\nAMA Advocacy Impact Report\nUpdated\nJun 2, 2026\n|\n1 Min Read\nAdvocacy in action: Fixing prior authorization\nUpdated\nMar 5, 2025\n|\n3 Min Read\nRead how the AMA drove state-level change in 2025\nThe AMA is fighting to fix prior authorization\nThe AMA is challenging insurance companies to eliminate care delays, patient harms and practice hassles.\nLearn More\nSearch:\nClear Search\nAll\nPrior Authorization\nLeadership\nSep 4, 2026\n·\n4 Min Read\nDelays in reforming Medicare, prior auth harm patients\nPatients need Congress to work across party lines to fix Medicare payment and prior authorization so physicians can provide timely, accessible care.\nAdvocacy Update\nAug 21, 2026\n·\n6 Min Read\nAug. 21, 2026: National Advocacy Update\nCMS updates prior authorization transparency guidance, AMA responds to NIH request for information on biomedical research and more in the latest National Advocacy Update.\nPress Releases\nAug 17, 2026\n·\n4 Min Read\nOn prior auth, CMS responds to AMA concerns\nUpdated CMS guidelines promise greater transparency for patients.\nPrior Authorization\nJul 29, 2026\n·\n5 Min Read\nOIG reports blast prior authorization use in Medicare Advantage\nIn some cases, denials were overturned 95% of the time. OIG calls for more scrutiny as reports indicate patients are wrongly denied necessary care.\nPress Releases\nJul 21, 2026\n·\n1 Min Read\nPrior authorization reform is on the march. Next stop: House floor\nHouse Energy and Commerce Committee advances legislation to reform prior authorization and reduce barriers to care.\nLoad More\nMembership Moves Medicine™\nFree access to JAMA Network™ and CME\nSave hundreds on insurance\nFight for physicians and patient rights\nJoin the AMA\nGet Advocacy Update\nThe newsletter includes exclusive news on key national and state issues, a cutting-edge guide to physician advocacy and discounts on state and federal conferences.\nSubscribe Now"
+    }
+  ],
+  "link_inventory": [
+    {
+      "title": "Skip to main content",
+      "url": "https://www.ama-assn.org/#main-content",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Register Today",
+      "url": "https://www.ama-assn.org/amaone/ama-peer-support-workshop",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "close",
+      "url": "https://www.ama-assn.org/",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Career Advancement Collective",
+      "url": "https://www.ama-assn.org/amaone/ama-career-advancement-collective",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Organizational well-being",
+      "url": "https://www.ama-assn.org/amaone/organizational-well-being",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Store",
+      "url": "https://www.ama-assn.org/practice-management/ama-store",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "CPT®",
+      "url": "https://www.ama-assn.org/practice-management/cpt",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Podcasts",
+      "url": "https://www.ama-assn.org/about/publications-newsletters/ama-podcasts",
+      "content_type": "news",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Newsletters",
+      "url": "https://www.ama-assn.org/membership/benefits-discounts/ama-morning-rounds-your-daily-dose-health-care-news",
+      "content_type": "news",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Video",
+      "url": "https://www.ama-assn.org/amaone/videos",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Public Health",
+      "url": "https://www.ama-assn.org/public-health",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Infectious Diseases",
+      "url": "https://www.ama-assn.org/public-health/infectious-diseases",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Chronic Diseases",
+      "url": "https://www.ama-assn.org/public-health/chronic-diseases",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Injury & Violence",
+      "url": "https://www.ama-assn.org/public-health/injury-violence-prevention",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Environmental Health",
+      "url": "https://www.ama-assn.org/public-health/environmental-health",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Optimal Health",
+      "url": "https://www.ama-assn.org/public-health/optimal-health",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prevention & Wellness",
+      "url": "https://www.ama-assn.org/public-health/prevention-wellness",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Population Health",
+      "url": "https://www.ama-assn.org/public-health/population-health",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Behavioral Health",
+      "url": "https://www.ama-assn.org/public-health/behavioral-health",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "What doctors want patients to know about atrial fibrillation",
+      "url": "https://www.ama-assn.org/public-health/chronic-diseases/what-doctors-want-patients-know-about-atrial-fibrillation",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Dr. Beachgem: Are your child’s sleep habits normal?",
+      "url": "https://www.ama-assn.org/public-health/prevention-wellness/dr-beachgem-are-your-child-s-sleep-habits-normal",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Practice Management",
+      "url": "https://www.ama-assn.org/practice-management",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Credentialing Solutions",
+      "url": "https://www.ama-assn.org/practice-management/ama-credentialing-solutions",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA STEPS Forward®",
+      "url": "https://www.ama-assn.org/practice-management/ama-steps-forward-program",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Guides®",
+      "url": "https://www.ama-assn.org/practice-management/ama-guides",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prior Authorization",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Reducing Administrative Burden",
+      "url": "https://www.ama-assn.org/practice-management/reducing-administrative-burden",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Scope of Practice",
+      "url": "https://www.ama-assn.org/practice-management/scope-practice",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Sustainability",
+      "url": "https://www.ama-assn.org/practice-management/sustainability",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Physician Health",
+      "url": "https://www.ama-assn.org/practice-management/physician-health",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Claims Processing",
+      "url": "https://www.ama-assn.org/practice-management/claims-processing",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Private Practices",
+      "url": "https://www.ama-assn.org/practice-management/private-practices",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Payment & Delivery Models",
+      "url": "https://www.ama-assn.org/practice-management/payment-delivery-models",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medicare & Medicaid",
+      "url": "https://www.ama-assn.org/practice-management/medicare-medicaid",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Digital",
+      "url": "https://www.ama-assn.org/practice-management/digital-health",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "HIPAA",
+      "url": "https://www.ama-assn.org/practice-management/hipaa",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Career Development",
+      "url": "https://www.ama-assn.org/practice-management/career-development",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Peer support is a team sport—and starts with the right training",
+      "url": "https://www.ama-assn.org/practice-management/physician-health/peer-support-team-sport-and-starts-right-training",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Overlooked well-being factors that could affect your next job",
+      "url": "https://www.ama-assn.org/practice-management/physician-health/overlooked-well-being-factors-could-affect-your-next-job",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Education",
+      "url": "https://www.ama-assn.org/education",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA PRA Credit System",
+      "url": "https://www.ama-assn.org/education/ama-pra-credit-system",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Improve GME",
+      "url": "https://www.ama-assn.org/education/improve-gme",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "GME Funding",
+      "url": "https://www.ama-assn.org/education/gme-funding",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical School Diversity",
+      "url": "https://www.ama-assn.org/education/medical-school-diversity",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "ChangeMedEd Initiative",
+      "url": "https://www.ama-assn.org/education/changemeded-initiative",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "International Med Ed",
+      "url": "https://www.ama-assn.org/education/international-medical-education",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Academic coaching in medical education",
+      "url": "https://www.ama-assn.org/education/changemeded-initiative/academic-coaching-medical-education",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical education and workforce development",
+      "url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-and-workforce-development",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Students",
+      "url": "https://www.ama-assn.org/medical-students",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prep for Med School",
+      "url": "https://www.ama-assn.org/medical-students/preparing-medical-school",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Succeed in Med School",
+      "url": "https://www.ama-assn.org/medical-students/succeed-medical-school",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prep for Residency",
+      "url": "https://www.ama-assn.org/medical-students/preparing-residency",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Med Student Advocacy",
+      "url": "https://www.ama-assn.org/medical-students/medical-student-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Student Members",
+      "url": "https://www.ama-assn.org/medical-students/medical-student-members",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Why some medical student research gets published—and some doesn’t",
+      "url": "https://www.ama-assn.org/medical-students/succeed-medical-school/why-some-medical-student-research-gets-published-and-some",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "How to use AI in residency applications? Learn the rules of the road",
+      "url": "https://www.ama-assn.org/medical-students/preparing-residency/how-use-ai-residency-applications-learn-rules-road",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Residents",
+      "url": "https://www.ama-assn.org/medical-residents",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Residency Life",
+      "url": "https://www.ama-assn.org/medical-residents/residency-life",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Research in Residency",
+      "url": "https://www.ama-assn.org/medical-residents/research-during-residency",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical Fellowships",
+      "url": "https://www.ama-assn.org/medical-residents/medical-fellowships",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Resident Wellness",
+      "url": "https://www.ama-assn.org/medical-residents/medical-resident-wellness",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Resident Advocacy",
+      "url": "https://www.ama-assn.org/medical-residents/medical-resident-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Residency Finance",
+      "url": "https://www.ama-assn.org/medical-residents/medical-residency-personal-finance",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "USMLE® Step 3",
+      "url": "https://www.ama-assn.org/medical-residents/usmle-step-3",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Transition to Attending",
+      "url": "https://www.ama-assn.org/medical-residents/transition-resident-attending",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Follow this contract playbook for a great transition to practice",
+      "url": "https://www.ama-assn.org/medical-residents/transition-resident-attending/follow-contract-playbook-great-transition-practice",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "How the culture of residency backup is changing—for better",
+      "url": "https://www.ama-assn.org/medical-residents/medical-resident-wellness/how-culture-residency-backup-changing-better",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Advocacy",
+      "url": "https://www.ama-assn.org/health-care-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Public Health Advocacy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocating-public-health",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Access to Care",
+      "url": "https://www.ama-assn.org/health-care-advocacy/access-care",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Administrative Burdens",
+      "url": "https://www.ama-assn.org/health-care-advocacy/administrative-burdens",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Payment Reform",
+      "url": "https://www.ama-assn.org/health-care-advocacy/payment-reform",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Advocacy Update",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Federal Advocacy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/federal-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "State Advocacy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/state-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Judicial Advocacy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/judicial-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Addressing and managing drug shortages",
+      "url": "https://www.ama-assn.org/health-care-advocacy/federal-advocacy/addressing-and-managing-drug-shortages",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Ways to get involved with AMA advocacy",
+      "url": "https://www.ama-assn.org/health-care-advocacy/federal-advocacy/ways-get-involved-ama-advocacy",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.ama-assn.org/membership",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Physician Membership",
+      "url": "https://www.ama-assn.org/amaone/physicians-membership",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Resident & Fellow Membership",
+      "url": "https://www.ama-assn.org/amaone/ama-resident-fellow-membership-discounts-and-benefits",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Student Membership",
+      "url": "https://www.ama-assn.org/amaone/ama-medical-student-membership-discounts-and-benefits",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Benefits & Discounts",
+      "url": "https://www.ama-assn.org/membership/benefits-discounts",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Become a Member",
+      "url": "https://www.ama-assn.org/membership/become-member",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Events",
+      "url": "https://www.ama-assn.org/membership/events",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Online CME",
+      "url": "https://www.ama-assn.org/member-benefits/free-cme",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Sexual Health and STI Prevention in Primary Care",
+      "url": "https://www.ama-assn.org/membership/events/sexual-health-and-sti-prevention-primary-care",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Coding, Billing, and Beyond: Revenue Cycle Management in the Era of Value-Based Care",
+      "url": "https://www.ama-assn.org/membership/events/coding-billing-and-beyond-revenue-cycle-management-era-value-based-care",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Board of Trustees",
+      "url": "https://www.ama-assn.org/about/board-trustees",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "House of Delegates",
+      "url": "https://www.ama-assn.org/house-delegates",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "HOD Organization",
+      "url": "https://www.ama-assn.org/house-delegates/hod-organization",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Policies",
+      "url": "https://www.ama-assn.org/house-delegates/ama-policies",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Annual Meeting",
+      "url": "https://www.ama-assn.org/house-delegates/annual-meeting",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Interim Meeting",
+      "url": "https://www.ama-assn.org/house-delegates/interim-meeting",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Elections",
+      "url": "https://www.ama-assn.org/house-delegates/ama-elections",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Federation of Medicine",
+      "url": "https://www.ama-assn.org/house-delegates/hod-organization/federation-medicine",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "2026 Interim Meeting of the HOD: Speakers' updates overview",
+      "url": "https://www.ama-assn.org/house-delegates/interim-meeting/2026-interim-meeting-hod-speakers-updates-overview",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Councils",
+      "url": "https://www.ama-assn.org/councils",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Constitution & Bylaws",
+      "url": "https://www.ama-assn.org/councils/council-constitution-bylaws-ccb",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Ethical & Judicial Affairs",
+      "url": "https://www.ama-assn.org/councils/council-ethical-judicial-affairs-ceja",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Legislation",
+      "url": "https://www.ama-assn.org/councils/council-legislation-col",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Long Range Planning & Development",
+      "url": "https://www.ama-assn.org/councils/council-long-range-planning-development-clrpd",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical Education",
+      "url": "https://www.ama-assn.org/councils/council-medical-education",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical Service",
+      "url": "https://www.ama-assn.org/councils/council-medical-service",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Science & Public Health",
+      "url": "https://www.ama-assn.org/councils/council-science-public-health-csaph",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Council on Long Range Planning & Development (CLRPD) Projects",
+      "url": "https://www.ama-assn.org/councils/council-long-range-planning-development-clrpd/council-long-range-planning-development",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Council on Ethical & Judicial Affairs (CEJA) reports",
+      "url": "https://www.ama-assn.org/councils/council-ethical-judicial-affairs-ceja/council-ethical-judicial-affairs-ceja-reports",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Member Groups (Sections)",
+      "url": "https://www.ama-assn.org/member-groups-sections",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Section Meetings",
+      "url": "https://www.ama-assn.org/member-groups-sections/section-meetings",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Academic Physicians",
+      "url": "https://www.ama-assn.org/member-groups-sections/academic-physicians-section-aps",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AI/AN Affairs",
+      "url": "https://www.ama-assn.org/member-groups-sections/advisory-committee-aian-affairs",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Integrated Physician Practices",
+      "url": "https://www.ama-assn.org/member-groups-sections/integrated-physician-practice-section-ipps",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "International Medical Graduates",
+      "url": "https://www.ama-assn.org/member-groups-sections/international-medical-graduates-section-imgs",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "LGBTQ+ Section",
+      "url": "https://www.ama-assn.org/member-groups-sections/lgbtq-section",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical Students",
+      "url": "https://www.ama-assn.org/member-groups-sections/medical-student-section-mss",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Organized Medical Staff",
+      "url": "https://www.ama-assn.org/member-groups-sections/organized-medical-staff-section-omss",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Private Practice Physicians",
+      "url": "https://www.ama-assn.org/member-groups-sections/private-practice-physicians-section-ppps",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Residents & Fellows",
+      "url": "https://www.ama-assn.org/member-groups-sections/resident-fellow-section-rfs",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Senior Physicians",
+      "url": "https://www.ama-assn.org/member-groups-sections/senior-physicians-section-sps",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Underrepresented in Medicine",
+      "url": "https://www.ama-assn.org/member-groups-sections/underrepresented-medicine-advocacy-section-umas",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Women Physicians",
+      "url": "https://www.ama-assn.org/member-groups-sections/women-physicians-section-wps",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Young Physicians",
+      "url": "https://www.ama-assn.org/member-groups-sections/young-physicians-section-yps",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Women Physicians Section Inspiration Award",
+      "url": "https://www.ama-assn.org/member-groups-sections/women-physicians-section-wps/women-physicians-section-inspiration-award",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Inspiration Award honorees",
+      "url": "https://www.ama-assn.org/member-groups-sections/women-physicians-section-wps/inspiration-award-honorees",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "About",
+      "url": "https://www.ama-assn.org/about",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Center for Digital Health and AI",
+      "url": "https://www.ama-assn.org/about/ama-center-digital-health-and-ai",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Center for Optimal Health Outcomes",
+      "url": "https://www.ama-assn.org/about/ama-center-optimal-health-outcomes",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Leadership",
+      "url": "https://www.ama-assn.org/about/leadership",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Foundation",
+      "url": "https://www.ama-assn.org/about/foundation",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Office of International Relations",
+      "url": "https://www.ama-assn.org/about/office-international-relations",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "CPT® Editorial Panel",
+      "url": "https://www.ama-assn.org/about/cpt-editorial-panel",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "RVS Update Committee (RUC)",
+      "url": "https://www.ama-assn.org/about/rvs-update-committee-ruc",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "United States Adopted Names",
+      "url": "https://www.ama-assn.org/about/united-states-adopted-names-usan",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Publications & Newsletters",
+      "url": "https://www.ama-assn.org/about/publications-newsletters",
+      "content_type": "news",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Research",
+      "url": "https://www.ama-assn.org/about/ama-research",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA History",
+      "url": "https://www.ama-assn.org/about/ama-history",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Awards",
+      "url": "https://www.ama-assn.org/about/awards",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Career Opportunities",
+      "url": "https://www.ama-assn.org/about/ama-career-opportunities",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Physician Professional Data™",
+      "url": "https://www.ama-assn.org/about/ama-physician-professional-data",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Authors of News & Leadership Viewpoints",
+      "url": "https://www.ama-assn.org/about/authors-news-leadership-viewpoints",
+      "content_type": "news",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Ethics",
+      "url": "https://www.ama-assn.org/about/ethics",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA upcoming appearances",
+      "url": "https://www.ama-assn.org/about/leadership/ama-upcoming-appearances",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medical Justice in Advocacy Fellowship",
+      "url": "https://www.ama-assn.org/about/ama-center-optimal-health-outcomes/medical-justice-advocacy-fellowship",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "vaccine recommendations",
+      "url": "https://www.ama-assn.org/search?search=vaccine+recommendations",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "membership",
+      "url": "https://www.ama-assn.org/search?search=membership",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "cme",
+      "url": "https://www.ama-assn.org/search?search=cme",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "cpt",
+      "url": "https://www.ama-assn.org/search?search=cpt",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "career advancement collective",
+      "url": "https://www.ama-assn.org/search?search=career+advancement+collective",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Member Benefits",
+      "url": "https://www.ama-assn.org/amaone/ama-member-benefits",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Sign In",
+      "url": "https://www.ama-assn.org/saml/login?destination=/",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/system/files/ama-advocacy-efforts.pdf",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Board of Trustees",
+      "url": "https://www.ama-assn.org/about-ama/board-trustees",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn More",
+      "url": "https://www.ama-assn.org/amaone/vaccine-recommendations",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Nominate an extraordinary individual shaping the future of healthcare Sep 16, 2026",
+      "url": "https://www.ama-assn.org/amaone/ama-honors",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Ethical questions about health AI? The AMA has guidance Sep 14, 2026",
+      "url": "https://www.ama-assn.org/practice-management/digital-health/ethical-questions-about-health-ai-ama-has-guidance",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "CV tips for IMGs: How to stand out with residency program directors Sep 16, 2026",
+      "url": "https://www.ama-assn.org/education/international-medical-education/cv-tips-imgs-how-stand-out-residency-program-directors",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "AMA Research Physician compensation The AMA analyzed trends in physician compensation methods from 2014 to 2024, which revealed a shift toward blended compensation models. Learn More",
+      "url": "https://www.ama-assn.org/about/ama-research/physician-practice-benchmark-survey-2024-physician-compensation",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Child care",
+      "url": "https://www.ama-assn.org/house-delegates/interim-meeting/interim-meeting-travel-hotel-and-child-care",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Agenda",
+      "url": "https://www.ama-assn.org/house-delegates/interim-meeting/hod-interim-meeting-agenda-schedule",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Submit a resolution",
+      "url": "https://www.ama-assn.org/house-delegates/ama-policies/ama-house-delegates-process-submitting-resolution",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "More Info",
+      "url": "https://www.ama-assn.org/house-delegates/hod-organization/future-meetings-ama-house-delegates",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Why We Fight",
+      "url": "https://www.ama-assn.org/amaone/fighting-for-physicians",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Prior authorization",
+      "url": "https://www.ama-assn.org/amaone/why-we-fight-fixing-prior-authorization",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Medicare payment reform",
+      "url": "https://www.ama-assn.org/amaone/why-we-fight-reforming-medicare-payment",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Physician-led care",
+      "url": "https://www.ama-assn.org/amaone/why-we-fight-fighting-scope-creep",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/amaone/why-we-fight-reducing-physician-burnout",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/amaone/why-we-fight-making-technology-work-physicians",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "View All Topics",
+      "url": "https://www.ama-assn.org/member-benefits",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/membership/benefits-discounts/6-reasons-join-ama",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/membership/benefits-discounts/auto-transportation-discounts",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/membership/benefits-discounts/home-lifestyle-offers",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/member-benefits/personal-member-benefits-discounts/ama-medical-student-membership-discounts-and",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Learn more",
+      "url": "https://www.ama-assn.org/membership/benefits-discounts/loans-financial-services",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.ama-assn.org/member-benefits/member-eligibility-dues/ama-membership-dues",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "View All Events",
+      "url": "https://www.ama-assn.org/about/events",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "baseline-insert_invitation-24px Created with Sketch. CPT® Editorial Panel Meeting",
+      "url": "https://www.ama-assn.org/membership/events/cpt-editorial-panel-meeting",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "baseline-insert_invitation-24px Created with Sketch. Journey to Joy in Medicine®—Support",
+      "url": "https://www.ama-assn.org/membership/events/journey-joy-medicine-support",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "baseline-insert_invitation-24px Created with Sketch. Improving Women's Health Outcomes: Addressing Disparities Across Clinical Care",
+      "url": "https://www.ama-assn.org/membership/events/improving-womens-health-outcomes-addressing-disparities-across-clinical-care",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Press Center",
+      "url": "https://www.ama-assn.org/press-center",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Private Practice Playbook",
+      "url": "https://www.ama-assn.org/practice-management/ama-steps-forward/private-practice-playbook",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Saving Time Playbook",
+      "url": "https://www.ama-assn.org/practice-management/ama-steps-forward/practice-innovation-strategies-time-saving-practices",
+      "content_type": "practice_management",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Physician Benefits & Discounts",
+      "url": "https://www.ama-assn.org/member-benefits/personal-member-benefits-discounts",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Practice Benefits & Discounts",
+      "url": "https://www.ama-assn.org/member-benefits/practice-benefits-discounts",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "What is ivermectin?",
+      "url": "https://www.ama-assn.org/public-health/infectious-diseases/what-ivermectin",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "What doctors want patients to know about the...",
+      "url": "https://www.ama-assn.org/public-health/infectious-diseases/what-doctors-want-patients-know-about-johnson-johnson-vaccine",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/"
+    },
+    {
+      "title": "Digital health & AI",
+      "url": "https://www.ama-assn.org/amaone/ama-center-digital-health-and-ai",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Explore all topics",
+      "url": "https://www.ama-assn.org/about/topic-catalog",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Newsletters",
+      "url": "https://www.ama-assn.org/newsletters",
+      "content_type": "news",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Events",
+      "url": "https://www.ama-assn.org/events",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.ama-assn.org/about-ama/ama-career-opportunities",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.ama-assn.org/form/contact-us",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Code of Conduct",
+      "url": "https://www.ama-assn.org/about/code-conduct",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Terms of Use",
+      "url": "https://www.ama-assn.org/about/terms-use",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "https://www.ama-assn.org/about/privacy-policy",
+      "content_type": "policy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Website Accessibility",
+      "url": "https://www.ama-assn.org/about/accessibility-statement",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Skip to main content",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization#main-content",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Sign In",
+      "url": "https://www.ama-assn.org/saml/login?destination=/practice-management/prior-authorization",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prior Authorization",
+      "url": "https://www.ama-assn.org/topics/prior-authorization",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA reform initiatives",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/prior-authorization-reform-initiatives",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Reform resources",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/prior-authorization-reform-resources",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Practice resources",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/prior-authorization-practice-resources",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prior authorization research & reports",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/prior-authorization-research-reports",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Prior Authorization Jul 29, 2026 · 5 Min Read OIG reports blast prior authorization use in Medicare Advantage In some cases, denials were overturned 95% of the time. OIG calls for more scrutiny as reports indicate patients are wrongly denied necessary care.",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/oig-reports-blast-prior-authorization-use-medicare",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA Advocacy Impact Report Updated Jun 2, 2026 | 1 Min Read",
+      "url": "https://www.ama-assn.org/health-care-advocacy/access-care/ama-advocacy-impact-report",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Advocacy in action: Fixing prior authorization Updated Mar 5, 2025 | 3 Min Read",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/advocacy-action-fixing-prior-authorization",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Read how the AMA drove state-level change in 2025",
+      "url": "https://www.ama-assn.org/health-care-advocacy/state-advocacy/ama-state-advocacy-impact-report",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Leadership Sep 4, 2026 · 4 Min Read Delays in reforming Medicare, prior auth harm patients Patients need Congress to work across party lines to fix Medicare payment and prior authorization so physicians can provide timely, accessible care.",
+      "url": "https://www.ama-assn.org/about/leadership/delays-reforming-medicare-prior-auth-harm-patients",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Advocacy Update Aug 21, 2026 · 6 Min Read Aug. 21, 2026: National Advocacy Update CMS updates prior authorization transparency guidance, AMA responds to NIH request for information on biomedical research and more in the latest National Advocacy Update.",
+      "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/aug-21-2026-national-advocacy-update",
+      "content_type": "advocacy",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Press Releases Aug 17, 2026 · 4 Min Read On prior auth, CMS responds to AMA concerns Updated CMS guidelines promise greater transparency for patients.",
+      "url": "https://www.ama-assn.org/press-center/ama-press-releases/prior-auth-cms-responds-ama-concerns",
+      "content_type": "other",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Press Releases Jul 21, 2026 · 1 Min Read Prior authorization reform is on the march. Next stop: House floor House Energy and Commerce Committee advances legislation to reform prior authorization and reduce barriers to care.",
+      "url": "https://www.ama-assn.org/press-center/ama-press-releases/prior-authorization-reform-march-next-stop-house-floor",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Load More",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization?block_config_key=block_with_filters_block_1%3ANWEYP_xR0-NalsFB06cC_Z3VlIXtdtyxmz63eCarEWM&page=1",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "Exhausted by prior auth, many patients abandon...",
+      "url": "https://www.ama-assn.org/practice-management/prior-authorization/exhausted-prior-auth-many-patients-abandon-care-ama-survey",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    },
+    {
+      "title": "AMA survey indicates prior authorization...",
+      "url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-survey-indicates-prior-authorization-wreaks-havoc-patient-care",
+      "content_type": "prior_authorization",
+      "source_page": "https://www.ama-assn.org/practice-management/prior-authorization"
+    }
+  ]
+}
