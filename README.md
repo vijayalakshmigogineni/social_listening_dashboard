@@ -132,6 +132,22 @@ cd backend; ..\.venv\Scripts\python.exe -m uvicorn app.main:app --reload --port 
 # Terminal 2
 npm run dev --prefix frontend
 ```
+From Backend
+
+DATABASE CLEAR :
+python -c "from app.db.base import engine; from sqlalchemy import text; conn = engine.connect(); conn.execute(text('DELETE FROM analysis_results')); conn.execute(text('DELETE FROM normalized_items')); conn.commit(); conn.close()"
+
+ From scripts
+
+Collecting Posts :
+python collect_reddit.py --max-items 30
+python collect_linkedin.py --limit 5
+python collect_aapc.py --max-threads 15
+
+
+
+Run pipeline :
+python run_pipeline.py
 
 When you want fresh data: collect → `run_pipeline.py` → refresh the browser.
 There is no button in the UI to trigger collection; it is script-only by

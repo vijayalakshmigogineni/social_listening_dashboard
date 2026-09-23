@@ -16,9 +16,12 @@ from app.analysis.step3_taxonomy import classify_taxonomy
 from app.analysis.step4_speaker_stance_seeking import classify_context
 from app.analysis.step5_evidence_confidence import build_evidence
 from app.analysis.step6_scoring import score_record
+from app.analysis.step6_scoring_v2 import score_record_v2
 from app.schemas.analysis import (
     ANALYSIS_VERSION,
+    ANALYSIS_VERSION_V2,
     SCORING_VERSION,
+    SCORING_VERSION_V2,
     AnalysisResult,
     Step1Relevance,
     Step2ProblemEvidence,
@@ -26,6 +29,7 @@ from app.schemas.analysis import (
     Step4Context,
     Step5Evidence,
     ScoreBreakdown,
+    ScoreBreakdownV2,
 )
 
 
@@ -44,12 +48,16 @@ def _assemble(
     step3: Step3Taxonomy,
     step4: Step4Context,
     step5: Step5Evidence,
-    score: ScoreBreakdown,
+    score: ScoreBreakdown | ScoreBreakdownV2,
+    analysis_version: str = ANALYSIS_VERSION,
+    scoring_version: str = SCORING_VERSION,
 ) -> AnalysisResult:
+    """Steps 1-5 are shared between scoring versions; only the score and the
+    two version strings differ, which is why the scorer is a parameter."""
     return AnalysisResult(
         source_item_id=source_item_id,
-        analysis_version=ANALYSIS_VERSION,
-        scoring_version=SCORING_VERSION,
+        analysis_version=analysis_version,
+        scoring_version=scoring_version,
         rcm_relevant=step1.rcm_relevant,
         rcm_relevance_confidence=step1.rcm_relevance_confidence,
         problem_evidence=step2.problem_evidence,
@@ -76,7 +84,10 @@ def _run_stages(
     full_text: str,
     created_at: datetime | None,
     matched_keywords: list[str] | None,
-) -> tuple[Step1Relevance, Step2ProblemEvidence, Step3Taxonomy, Step4Context, Step5Evidence, ScoreBreakdown]:
+) -> tuple[
+    Step1Relevance, Step2ProblemEvidence, Step3Taxonomy, Step4Context, Step5Evidence,
+    ScoreBreakdown, ScoreBreakdownV2,
+]:
     step1 = classify_rcm_relevance(
         full_text, matched_keywords if matched_keywords is not None else scan_keywords(full_text)
     )
@@ -100,8 +111,13 @@ def _run_stages(
 
     step5 = build_evidence(full_text, step1, step2, step3, step4)
     score = score_record(full_text, created_at, step1, step2, step3, step4, step5)
+    # v2 scores every record, including non-relevant ones: its relevance floor
+    # is graded rather than a gate, so the short-circuit above must not skip it.
+    # It reads seeking_level from Step 4 (None for short-circuited records,
+    # which maps to the default intent tier) plus the text itself.
+    score_v2 = score_record_v2(full_text, step4.seeking_level)
 
-    return step1, step2, step3, step4, step5, score
+    return step1, step2, step3, step4, step5, score, score_v2
 
 
 def run_pipeline(
@@ -111,9 +127,38 @@ def run_pipeline(
     created_at: datetime | None,
     matched_keywords: list[str] | None = None,
 ) -> AnalysisResult:
+    """The v1 row. Unchanged behaviour -- existing callers are unaffected."""
     full_text = build_text(title, text)
-    step1, step2, step3, step4, step5, score = _run_stages(full_text, created_at, matched_keywords)
+    stages = _run_stages(full_text, created_at, matched_keywords)
+    step1, step2, step3, step4, step5, score, _ = stages
     return _assemble(source_item_id, step1, step2, step3, step4, step5, score)
+
+
+def run_pipeline_all_versions(
+    source_item_id: str,
+    title: str | None,
+    text: str | None,
+    created_at: datetime | None,
+    matched_keywords: list[str] | None = None,
+) -> list[AnalysisResult]:
+    """Both scoring versions from a single pass over Steps 1-5.
+
+    Steps 1-5 are by far the expensive part (two zero-shot classifications per
+    relevant record), so scoring twice off one pass is what makes storing v1
+    and v2 side by side affordable.
+    """
+    full_text = build_text(title, text)
+    step1, step2, step3, step4, step5, score, score_v2 = _run_stages(
+        full_text, created_at, matched_keywords
+    )
+    return [
+        _assemble(source_item_id, step1, step2, step3, step4, step5, score),
+        _assemble(
+            source_item_id, step1, step2, step3, step4, step5, score_v2,
+            analysis_version=ANALYSIS_VERSION_V2,
+            scoring_version=SCORING_VERSION_V2,
+        ),
+    ]
 
 
 def explain_pipeline(
@@ -125,7 +170,9 @@ def explain_pipeline(
     """For the Pipeline/Debug tab: every stage's raw input/output, not just
     the merged final row."""
     full_text = build_text(title, text)
-    step1, step2, step3, step4, step5, score = _run_stages(full_text, created_at, matched_keywords)
+    step1, step2, step3, step4, step5, score, score_v2 = _run_stages(
+        full_text, created_at, matched_keywords
+    )
 
     return {
         "input_text": full_text,
@@ -135,6 +182,9 @@ def explain_pipeline(
         "step4_context": step4.model_dump(),
         "step5_evidence_confidence": step5.model_dump(),
         "step6_7_scoring": score.model_dump(),
+        "step6_7_scoring_v2": score_v2.model_dump(),
         "analysis_version": ANALYSIS_VERSION,
         "scoring_version": SCORING_VERSION,
+        "analysis_version_v2": ANALYSIS_VERSION_V2,
+        "scoring_version_v2": SCORING_VERSION_V2,
     }

@@ -33,6 +33,13 @@ DEFAULT_FORUMS = {
     "billing_reimbursement": "https://www.aapc.com/discuss/forums/billing-reimbursement.583/index.rss",
     "payer_health_plan": "https://www.aapc.com/discuss/forums/payer-health-plan.661/index.rss",
     "modifiers": "https://www.aapc.com/discuss/forums/modifiers.483/index.rss",
+    # RSS-accessibility-validated in testing/problem-intelligence/aapc/
+    # (aapc_pagination_report.json) but not yet collected in production.
+    "anesthesia": "https://www.aapc.com/discuss/forums/anesthesia.440/index.rss",
+    "interventional_radiology": "https://www.aapc.com/discuss/forums/interventional-radiology.480/index.rss",
+    "medicare_regulations": "https://www.aapc.com/discuss/forums/medicare-regulations.479/index.rss",
+    "orthopaedics": "https://www.aapc.com/discuss/forums/orthopaedics.427/index.rss",
+    "general_discussion": "https://www.aapc.com/discuss/forums/general-discussion.582/index.rss",
 }
 
 REQUEST_DELAY_S = 1.5

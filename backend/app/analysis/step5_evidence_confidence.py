@@ -45,6 +45,7 @@ def build_evidence(
         "payer_confidence": step3.payer_confidence,
         "procedure_confidence": step3.procedure_confidence,
         "speaker_confidence": step4.speaker_confidence,
+        "stance_confidence": step4.stance_confidence,
         "seeking_confidence": step4.seeking_confidence,
     }
     used = {k: v for k, v in components.items() if v is not None}

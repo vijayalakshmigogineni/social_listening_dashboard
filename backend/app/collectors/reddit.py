@@ -19,12 +19,21 @@ from app.analysis.lexicons import RCM_KEYWORDS
 from app.collectors.apify_client import run_actor_sync
 from app.collectors.common import parse_datetime
 
-ACTOR_ID = "clearpath~reddit-subreddit-posts-scraper"
+ACTOR_ID = "fatihtahta/reddit-scraper-search-fast"
 
 DEFAULT_SUBREDDITS = [
     "CodingandBilling",
     "MedicalCoding",
     "Medicalbillingandcoding",
+    # Phase 1b additions (testing/problem-intelligence/reddit/fetch_phase1b.py):
+    # chosen from measured weekly-activity data, then filtered to practice-side
+    # voice only. Patient-voice communities (ChronicPain, PainManagement,
+    # HealthInsurance) were explicitly probed and dropped there -- do not add them.
+    "therapists",
+    "medicine",
+    "FamilyMedicine",
+    "MedicalAssistant",
+    "PrivatePractice",
 ]
 
 
@@ -89,7 +98,7 @@ def normalize_post(post: dict[str, Any], subreddit: str) -> dict[str, Any]:
 def collect_subreddit(subreddit: str, max_items: int = 100) -> list[dict[str, Any]]:
     raw_posts = run_actor_sync(
         ACTOR_ID,
-        {"subreddit": subreddit, "maxPostsPerSubreddit": max_items, "sort": "new"},
+        {"subredditName": subreddit, "maxPosts": max_items, "subredditSort": "new"},
     )
     return [normalize_post(p, subreddit) for p in raw_posts]
 

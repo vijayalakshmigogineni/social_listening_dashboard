@@ -35,10 +35,19 @@ def upsert_normalized_items(db: Session, records: list[dict[str, Any]]) -> dict[
     """
     Validate each record against the canonical schema, then insert or update
     it keyed on (source, source_item_id). Returns counts for a run summary.
+
+    A single call's `records` can itself contain duplicates on that key --
+    e.g. the same LinkedIn post matched by two query families in one
+    collect_families() run. `seen_in_batch` tracks rows already added in
+    this call (the DB query below cannot see them until a flush/commit), so
+    a same-batch duplicate updates that pending row instead of trying to
+    INSERT the same (source, source_item_id) twice and violating the unique
+    constraint.
     """
     inserted = 0
     updated = 0
     skipped = 0
+    seen_in_batch: dict[tuple[str, str], NormalizedItemRow] = {}
 
     for raw_record in records:
         validate_no_analysis_fields(raw_record)
@@ -49,20 +58,31 @@ def upsert_normalized_items(db: Session, records: list[dict[str, Any]]) -> dict[
             skipped += 1
             continue
 
+        key = (item.source, item.source_item_id)
+        payload = item.model_dump()
+
+        pending = seen_in_batch.get(key)
+        if pending is not None:
+            for field, value in payload.items():
+                setattr(pending, field, value)
+            updated += 1
+            continue
+
         existing = (
             db.query(NormalizedItemRow)
             .filter_by(source=item.source, source_item_id=item.source_item_id)
             .one_or_none()
         )
 
-        payload = item.model_dump()
-
         if existing is None:
-            db.add(NormalizedItemRow(**payload))
+            row = NormalizedItemRow(**payload)
+            db.add(row)
+            seen_in_batch[key] = row
             inserted += 1
         else:
             for field, value in payload.items():
                 setattr(existing, field, value)
+            seen_in_batch[key] = existing
             updated += 1
 
     db.commit()

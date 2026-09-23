@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { api } from '../api/client'
+import { isV2Breakdown } from '../api/types'
 import type { Post } from '../api/types'
 import { ScoreBadge } from '../components/ScoreBadge'
 
@@ -82,30 +83,94 @@ export function PostDetail() {
         {breakdown && (
           <div className="detail-section">
             <h3>Score breakdown</h3>
-            <dl>
-              <dt>Problem strength</dt>
-              <dd>{breakdown.problem_strength} / 20</dd>
-              <dt>Market relevance</dt>
-              <dd>{breakdown.market_relevance} / 20</dd>
-              <dt>Intent strength</dt>
-              <dd>{breakdown.intent_strength} / 30</dd>
-              <dt>Specificity</dt>
-              <dd>{breakdown.specificity} / 15</dd>
-              <dt>Severity</dt>
-              <dd>{breakdown.severity} / 10</dd>
-              <dt>Base score</dt>
-              <dd>{breakdown.base_score}</dd>
-              <dt>Confidence adjustment</dt>
-              <dd>× {breakdown.confidence}</dd>
-              <dt>Recency adjustment</dt>
-              <dd>× {breakdown.recency_factor}</dd>
-              <dt>
-                <strong>Final score</strong>
-              </dt>
-              <dd>
-                <strong>{breakdown.final_score}</strong>
-              </dd>
-            </dl>
+            {isV2Breakdown(breakdown) ? (
+              <dl>
+                <dt>Problem strength</dt>
+                <dd>{breakdown.problem_strength}</dd>
+                <dt>Practice identity</dt>
+                <dd>{breakdown.identity}</dd>
+                <dt>Specificity</dt>
+                <dd>{breakdown.specificity}</dd>
+                <dt>Intent</dt>
+                <dd>{breakdown.intent_strength}</dd>
+                {breakdown.interaction_bonus > 0 && (
+                  <>
+                    <dt>Denial × first-person bonus</dt>
+                    <dd>+{breakdown.interaction_bonus}</dd>
+                  </>
+                )}
+                <dt>Base score</dt>
+                <dd>{breakdown.base_score}</dd>
+                {/* Only show factors that actually applied -- a wall of "× 1" is noise. */}
+                {breakdown.relevance_factor !== 1 && (
+                  <>
+                    <dt>Relevance floor</dt>
+                    <dd>× {breakdown.relevance_factor}</dd>
+                  </>
+                )}
+                {breakdown.domain_factor !== 1 && (
+                  <>
+                    <dt>No RCM domain terms</dt>
+                    <dd>× {breakdown.domain_factor}</dd>
+                  </>
+                )}
+                {breakdown.commentary_factor !== 1 && (
+                  <>
+                    <dt>Commentary, not ownership</dt>
+                    <dd>× {breakdown.commentary_factor}</dd>
+                  </>
+                )}
+                {breakdown.noise_factor !== 1 && (
+                  <>
+                    <dt>Vendor / self-promotion</dt>
+                    <dd>× {breakdown.noise_factor}</dd>
+                  </>
+                )}
+                {breakdown.offdomain_factor !== 1 && (
+                  <>
+                    <dt>Off-domain</dt>
+                    <dd>× {breakdown.offdomain_factor}</dd>
+                  </>
+                )}
+                <dt>
+                  <strong>Final score</strong>
+                </dt>
+                <dd>
+                  <strong>{breakdown.final_score}</strong>
+                </dd>
+                {breakdown.signals?.length > 0 && (
+                  <>
+                    <dt>Signals detected</dt>
+                    <dd>{breakdown.signals.join(', ')}</dd>
+                  </>
+                )}
+              </dl>
+            ) : (
+              <dl>
+                <dt>Problem strength</dt>
+                <dd>{breakdown.problem_strength} / 20</dd>
+                <dt>Market relevance</dt>
+                <dd>{breakdown.market_relevance} / 20</dd>
+                <dt>Intent strength</dt>
+                <dd>{breakdown.intent_strength} / 30</dd>
+                <dt>Specificity</dt>
+                <dd>{breakdown.specificity} / 15</dd>
+                <dt>Severity</dt>
+                <dd>{breakdown.severity} / 10</dd>
+                <dt>Base score</dt>
+                <dd>{breakdown.base_score}</dd>
+                <dt>Confidence adjustment</dt>
+                <dd>× {breakdown.confidence}</dd>
+                <dt>Recency adjustment</dt>
+                <dd>× {breakdown.recency_factor}</dd>
+                <dt>
+                  <strong>Final score</strong>
+                </dt>
+                <dd>
+                  <strong>{breakdown.final_score}</strong>
+                </dd>
+              </dl>
+            )}
           </div>
         )}
       </div>

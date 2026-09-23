@@ -24,6 +24,13 @@ from pydantic import BaseModel, ConfigDict
 ANALYSIS_VERSION = "sld-analysis-v1"
 SCORING_VERSION = "sld-score-v1"
 
+# v2 scoring is stored as its own row rather than replacing v1, so the two can
+# be diffed per post. The unique key is (source_item_id, analysis_version) --
+# scoring_version is NOT part of it -- so a second scorer needs its own
+# analysis_version even though Steps 1-5 are identical for both.
+ANALYSIS_VERSION_V2 = "sld-analysis-v2"
+SCORING_VERSION_V2 = "sld-score-v2"
+
 # ---------------------------------------------------------------------------
 # Step 3 taxonomy -- fixed category set. Multi-label: a record can carry
 # several of these at once.
@@ -93,7 +100,15 @@ class Step4Context(BaseModel):
     content_stance: ContentStance
     seeking_level: Optional[SeekingLevel] = None
     speaker_confidence: Optional[float] = None
+    stance_confidence: Optional[float] = None
     seeking_confidence: Optional[float] = None
+    # Which mechanism produced the final stance/seeking value: "rule", "nli",
+    # or "llm" (fallback, only when NLI was ambiguous). Not persisted to the
+    # DB/API today -- see backend/app/db/models.py, which only stores the
+    # aggregate Step5 confidence -- but kept on the schema for debugging via
+    # /pipeline/explain and for future traceability.
+    stance_source: Optional[str] = None
+    seeking_source: Optional[str] = None
 
 
 class Step5Evidence(BaseModel):
@@ -107,6 +122,7 @@ class Step5Evidence(BaseModel):
     payer_confidence: Optional[float] = None
     procedure_confidence: Optional[float] = None
     speaker_confidence: Optional[float] = None
+    stance_confidence: Optional[float] = None
     seeking_confidence: Optional[float] = None
 
 
@@ -122,6 +138,33 @@ class ScoreBreakdown(BaseModel):
     confidence: float
     recency_factor: float
     final_score: float
+
+
+class ScoreBreakdownV2(BaseModel):
+    """Step 6/7 scoring, v2 -- additive components, then multiplicative factors.
+
+    Every factor is stored even when it is 1.0, so a score can be reconstructed
+    from the row without re-running the scorer. `signals` lists which detectors
+    fired, which is the evidence trail for a given score.
+    """
+
+    # Additive
+    problem_strength: float
+    identity: float
+    specificity: float
+    intent_strength: float
+    interaction_bonus: float
+    base_score: float
+
+    # Multiplicative -- 1.0 means "did not apply"
+    relevance_factor: float
+    domain_factor: float
+    commentary_factor: float
+    noise_factor: float
+    offdomain_factor: float
+
+    final_score: float
+    signals: list[str] = []
 
 
 class AnalysisResult(BaseModel):

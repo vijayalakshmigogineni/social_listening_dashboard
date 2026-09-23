@@ -16,7 +16,7 @@ from sqlalchemy.orm import Session
 
 from app.db.base import get_db
 from app.db.models import AnalysisResult, NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION
+from app.schemas.analysis import ANALYSIS_VERSION, ANALYSIS_VERSION_V2
 
 router = APIRouter()
 
@@ -93,11 +93,21 @@ def _row_to_dict(item: NormalizedItem, analysis: AnalysisResult | None) -> dict[
     return base
 
 
-def _base_query(db: Session):
+SCORING_VERSIONS = {"v1": ANALYSIS_VERSION, "v2": ANALYSIS_VERSION_V2}
+
+
+def resolve_version(version: str) -> str:
+    """Map the short name the UI passes to the stored analysis_version."""
+    if version not in SCORING_VERSIONS:
+        raise HTTPException(400, f"version must be one of {sorted(SCORING_VERSIONS)}")
+    return SCORING_VERSIONS[version]
+
+
+def _base_query(db: Session, analysis_version: str = ANALYSIS_VERSION):
     return db.query(NormalizedItem, AnalysisResult).outerjoin(
         AnalysisResult,
         (AnalysisResult.source_item_id == NormalizedItem.source_item_id)
-        & (AnalysisResult.analysis_version == ANALYSIS_VERSION),
+        & (AnalysisResult.analysis_version == analysis_version),
     )
 
 
@@ -118,13 +128,14 @@ def list_posts(
     date_from: Optional[datetime] = Query(None),
     date_to: Optional[datetime] = Query(None),
     sort: str = Query("score_desc"),
+    version: str = Query("v1", description="Scoring version to read: v1 or v2"),
     page: int = Query(1, ge=1),
     page_size: int = Query(20, ge=1, le=100),
 ):
     if sort not in SORT_OPTIONS:
         raise HTTPException(400, f"sort must be one of {sorted(SORT_OPTIONS)}")
 
-    query = _base_query(db)
+    query = _base_query(db, resolve_version(version))
 
     if source:
         query = query.filter(NormalizedItem.source == source)
@@ -188,7 +199,12 @@ def list_posts(
 
 
 @router.get("/{source}/{source_item_id}")
-def get_post(source: str, source_item_id: str, db: Session = Depends(get_db)):
+def get_post(
+    source: str,
+    source_item_id: str,
+    db: Session = Depends(get_db),
+    version: str = Query("v1", description="Scoring version to read: v1 or v2"),
+):
     item = (
         db.query(NormalizedItem)
         .filter_by(source=source, source_item_id=source_item_id)
@@ -199,7 +215,9 @@ def get_post(source: str, source_item_id: str, db: Session = Depends(get_db)):
 
     analysis = (
         db.query(AnalysisResult)
-        .filter_by(source_item_id=source_item_id, analysis_version=ANALYSIS_VERSION)
+        .filter_by(
+            source_item_id=source_item_id, analysis_version=resolve_version(version)
+        )
         .one_or_none()
     )
     return _row_to_dict(item, analysis)

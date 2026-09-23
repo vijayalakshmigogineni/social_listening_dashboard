@@ -1,4 +1,4 @@
-export interface ScoreBreakdown {
+export interface ScoreBreakdownV1 {
   problem_strength: number
   market_relevance: number
   intent_strength: number
@@ -8,6 +8,29 @@ export interface ScoreBreakdown {
   confidence: number
   recency_factor: number
   final_score: number
+}
+
+/** v2: additive components, then multiplicative factors (1.0 = did not apply). */
+export interface ScoreBreakdownV2 {
+  problem_strength: number
+  identity: number
+  specificity: number
+  intent_strength: number
+  interaction_bonus: number
+  base_score: number
+  relevance_factor: number
+  domain_factor: number
+  commentary_factor: number
+  noise_factor: number
+  offdomain_factor: number
+  final_score: number
+  signals: string[]
+}
+
+export type ScoreBreakdown = ScoreBreakdownV1 | ScoreBreakdownV2
+
+export function isV2Breakdown(b: ScoreBreakdown): b is ScoreBreakdownV2 {
+  return 'relevance_factor' in b
 }
 
 export interface Post {
@@ -97,6 +120,11 @@ export interface PostFilters {
   score_min?: number
   score_max?: number
   sort?: 'score_desc' | 'score_asc' | 'recent' | 'oldest'
+  version?: ScoringVersion
   page?: number
   page_size?: number
 }
+
+/** Which stored scoring version the dashboard reads. Both are persisted per
+ *  post, so switching this re-ranks the whole dashboard without re-analysing. */
+export type ScoringVersion = 'v1' | 'v2'

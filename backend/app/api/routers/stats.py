@@ -2,22 +2,26 @@
 
 from __future__ import annotations
 
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter, Depends, Query
 from sqlalchemy import func
 from sqlalchemy.orm import Session
 
+from app.api.routers.posts import resolve_version
 from app.db.base import get_db
 from app.db.models import AnalysisResult, NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION
 
 router = APIRouter()
 
 
 @router.get("/summary")
-def summary(db: Session = Depends(get_db)):
+def summary(
+    db: Session = Depends(get_db),
+    version: str = Query("v1", description="Scoring version to read: v1 or v2"),
+):
+    analysis_version = resolve_version(version)
     total_posts = db.query(func.count(NormalizedItem.id)).scalar()
 
-    analyzed_q = db.query(AnalysisResult).filter_by(analysis_version=ANALYSIS_VERSION)
+    analyzed_q = db.query(AnalysisResult).filter_by(analysis_version=analysis_version)
     total_analyzed = analyzed_q.count()
     total_rcm_relevant = analyzed_q.filter(AnalysisResult.rcm_relevant.is_(True)).count()
     total_problem_evidence = analyzed_q.filter(AnalysisResult.problem_evidence.is_(True)).count()
@@ -59,5 +63,5 @@ def summary(db: Session = Depends(get_db)):
         "by_seeking_level": by_seeking_level,
         "by_speaker_type": by_speaker_type,
         "by_problem_category": category_counts,
-        "analysis_version": ANALYSIS_VERSION,
+        "analysis_version": analysis_version,
     }

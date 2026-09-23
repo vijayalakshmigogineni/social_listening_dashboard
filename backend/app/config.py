@@ -17,6 +17,9 @@ load_dotenv(REPO_ROOT / ".env")
 APIFY_TOKEN = os.getenv("APIFY_TOKEN")
 APIFY_TOKEN1 = os.getenv("APIFY_TOKEN1")
 
+OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
+OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1")
+
 DATA_DIR = BACKEND_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
 DATABASE_URL = f"sqlite:///{(DATA_DIR / 'sld.db').as_posix()}"

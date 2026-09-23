@@ -1,0 +1,252 @@
+[
+ {
+  "index": 16,
+  "source_item_id": "206138:594628",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 52,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Third practice asking whether others see 37252 denials."
+ },
+ {
+  "index": 73,
+  "source_item_id": "236415:596831",
+  "source": "aapc",
+  "title": "Medicare/Medicaid SLMB patient responsibility",
+  "human_opportunity_score": 48,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Whether a savings-program patient can be billed after a secondary denial. Real collections and compliance stakes."
+ },
+ {
+  "index": 135,
+  "source_item_id": "1vr3ncs",
+  "source": "reddit",
+  "title": "Medical billers — how do you actually handle a CO-16 corrected claim?",
+  "human_opportunity_score": 48,
+  "opportunity_type": "promotion",
+  "human_confidence": "medium",
+  "reason": "Detailed question on how billers rework a specific denial code, asking for real time costs. Reads like market research rather than a practice in pain, but it surfaces genuine rework burden and an engaged audience."
+ },
+ {
+  "index": 136,
+  "source_item_id": "1vr3umd",
+  "source": "reddit",
+  "title": "How do you actually rework a CO-16 corrected claim — what's your process?",
+  "human_opportunity_score": 48,
+  "opportunity_type": "promotion",
+  "human_confidence": "medium",
+  "reason": "Near-verbatim duplicate of the previous post. Same value, and evidence that deduplication is not catching cross-post variants."
+ },
+ {
+  "index": 65,
+  "source_item_id": "236330:596643",
+  "source": "aapc",
+  "title": "Medicaid vs Non-Medicaid Providers",
+  "human_opportunity_score": 46,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Medicaid self-pay compliance question with real balance-billing risk."
+ },
+ {
+  "index": 89,
+  "source_item_id": "236536:597114",
+  "source": "aapc",
+  "title": "90966 with Modifier 52",
+  "human_opportunity_score": 44,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Nephrology practice asking about a reduced-services modifier on monthly dialysis visits. Recurring monthly revenue question."
+ },
+ {
+  "index": 69,
+  "source_item_id": "236384:597111",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 28,
+  "opportunity_type": "promotion",
+  "human_confidence": "low",
+  "reason": "Long, partly garbled reply listing telehealth code ranges."
+ },
+ {
+  "index": 33,
+  "source_item_id": "227333:597112",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 42,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "BEAR implant versus standard ACL coding, with the provider pushing an aggressive code again."
+ },
+ {
+  "index": 83,
+  "source_item_id": "236480:596986",
+  "source": "aapc",
+  "title": "wrvu",
+  "human_opportunity_score": 42,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Work RVU treatment of bilateral injections. Affects provider compensation and contract modelling."
+ },
+ {
+  "index": 46,
+  "source_item_id": "236004:595944",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 40,
+  "opportunity_type": "market_intel",
+  "human_confidence": "medium",
+  "reason": "Mississippi BCBS requires XU rather than 59. Small but concrete payer-specific rule."
+ },
+ {
+  "index": 51,
+  "source_item_id": "236134:596215",
+  "source": "aapc",
+  "title": "Lumbar Transforaminal and BBB anesthesia",
+  "human_opportunity_score": 40,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Anesthesia code selection for lumbar transforaminal and branch blocks. Pain-management relevant."
+ },
+ {
+  "index": 61,
+  "source_item_id": "236257:597025",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 38,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Follow-up seeking confirmation on when the modifier applies and to which codes. Still unresolved."
+ },
+ {
+  "index": 70,
+  "source_item_id": "236386:596770",
+  "source": "aapc",
+  "title": "PAE",
+  "human_opportunity_score": 38,
+  "opportunity_type": "promotion",
+  "human_confidence": "medium",
+  "reason": "Building an internal education folder for prostate artery embolization coding. Training-gap signal."
+ },
+ {
+  "index": 62,
+  "source_item_id": "236311:596603",
+  "source": "aapc",
+  "title": "Endotracheal tube placement",
+  "human_opportunity_score": 35,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Whether anesthesia is separately billable with emergent intubation."
+ },
+ {
+  "index": 80,
+  "source_item_id": "236471:596964",
+  "source": "aapc",
+  "title": "Arthroscopic assisted AC Joint Reconstruction, unlisted code?",
+  "human_opportunity_score": 35,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Unlisted code versus 23550 for an arthroscopically assisted reconstruction."
+ },
+ {
+  "index": 86,
+  "source_item_id": "236509:597050",
+  "source": "aapc",
+  "title": "PCS supplement code question in hernias",
+  "human_opportunity_score": 35,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Procedure-coding-system supplement question for hernia repair with mesh."
+ },
+ {
+  "index": 99,
+  "source_item_id": "25078:487991",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 35,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Whether a modifier 22 applies for two durotomies. Real reimbursement uplift question."
+ },
+ {
+  "index": 102,
+  "source_item_id": "25078:597138",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 35,
+  "opportunity_type": "indirect",
+  "human_confidence": "medium",
+  "reason": "Clarifies the scenario is a staged return, not intraoperative. Still unresolved and materially affects payment."
+ },
+ {
+  "index": 110,
+  "source_item_id": "7508452696669044736",
+  "source": "linkedin",
+  "title": null,
+  "human_opportunity_score": 35,
+  "opportunity_type": "promotion",
+  "human_confidence": "medium",
+  "reason": "Curated payer authorization resources for behavioral analysis providers, explicitly asking the audience what to add. An engaged niche audience and a credible place to demonstrate expertise."
+ },
+ {
+  "index": 4,
+  "source_item_id": "143498:400667",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 32,
+  "opportunity_type": "relationship",
+  "human_confidence": "medium",
+  "reason": "Expert answer signed by a coder at a named pain-management center. No pain, but it identifies a pain practice and a knowledgeable contact."
+ },
+ {
+  "index": 57,
+  "source_item_id": "236255:596502",
+  "source": "aapc",
+  "title": "Modifier 33",
+  "human_opportunity_score": 32,
+  "opportunity_type": "monitoring",
+  "human_confidence": "medium",
+  "reason": "Asks whether modifier 33 on 96127 reflects a new ACA ruling."
+ },
+ {
+  "index": 60,
+  "source_item_id": "236257:596951",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 32,
+  "opportunity_type": "market_intel",
+  "human_confidence": "medium",
+  "reason": "Gives the exact phase-in dates for the incident-to change."
+ },
+ {
+  "index": 82,
+  "source_item_id": "236477:596981",
+  "source": "aapc",
+  "title": "Pulmonary thrombolysis / thrombectomy",
+  "human_opportunity_score": 32,
+  "opportunity_type": "monitoring",
+  "human_confidence": "medium",
+  "reason": "Bilateral pulmonary thrombolysis coding question."
+ },
+ {
+  "index": 29,
+  "source_item_id": "227333:586327",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 30,
+  "opportunity_type": "monitoring",
+  "human_confidence": "medium",
+  "reason": "Asks whether the tenodesis is separately codable."
+ },
+ {
+  "index": 84,
+  "source_item_id": "236480:596998",
+  "source": "aapc",
+  "title": null,
+  "human_opportunity_score": 30,
+  "opportunity_type": "promotion",
+  "human_confidence": "medium",
+  "reason": "Thorough work RVU explanation noting payer and contract variation."
+ }
+]

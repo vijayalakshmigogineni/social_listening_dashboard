@@ -34,15 +34,16 @@ def run_actor_sync(
         raise ApifyRunError("No Apify token configured (APIFY_TOKEN in .env)")
 
     headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+    normalized_actor_id = actor_id.replace("/", "~")
 
     start_resp = requests.post(
-        f"https://api.apify.com/v2/acts/{actor_id}/runs",
+        f"https://api.apify.com/v2/acts/{normalized_actor_id}/runs",
         headers=headers,
         json=run_input,
         timeout=60,
     )
     if start_resp.status_code != 201:
-        raise ApifyRunError(f"Failed to start actor {actor_id}: {start_resp.text}")
+        raise ApifyRunError(f"Failed to start actor {normalized_actor_id}: {start_resp.text}")
 
     run_data = start_resp.json()["data"]
     run_id = run_data["id"]
