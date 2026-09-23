@@ -8,6 +8,7 @@ python-dateutil>=2.9.0
 
 # Collection
 requests>=2.32.5
+beautifulsoup4>=4.15.0
 
 # Analysis / NLP (hybrid: rules first, models for ambiguous cases)
 transformers>=4.45.0
