@@ -4,6 +4,7 @@ import { api } from '../api/client'
 import { isV2Breakdown } from '../api/types'
 import type { Post } from '../api/types'
 import { ScoreBadge } from '../components/ScoreBadge'
+import { sourceContext } from '../components/PostCard'
 
 export function PostDetail() {
   const { source, sourceItemId } = useParams<{ source: string; sourceItemId: string }>()
@@ -31,6 +32,7 @@ export function PostDetail() {
       </div>
 
       {post.title && <h1>{post.title}</h1>}
+      {sourceContext(post) && <div className="post-context">{sourceContext(post)}</div>}
 
       <div className="post-detail-meta">
         <span>{post.author_name ?? 'Unknown author'}</span>

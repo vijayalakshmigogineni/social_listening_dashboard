@@ -18,8 +18,19 @@ function formatCategory(cat: string): string {
     .join(' ')
 }
 
+/** Where a comment-style record came from, e.g. the YouTube video and channel
+ * it was posted under. Null for sources whose records stand on their own. */
+export function sourceContext(post: Post): string | null {
+  if (post.source !== 'youtube') return null
+  const m = post.source_metadata ?? {}
+  const parts = [m.channel_name, m.video_published_at && `video ${formatDate(String(m.video_published_at))}`]
+  if (m.published_time_text) parts.push(`${m.is_reply ? 'reply' : 'comment'} ${m.published_time_text}`)
+  return parts.filter(Boolean).join(' · ') || null
+}
+
 export function PostCard({ post }: Props) {
   const snippet = post.evidence_quote || post.text?.slice(0, 220) || post.title || ''
+  const context = sourceContext(post)
 
   return (
     <Link
@@ -33,6 +44,7 @@ export function PostCard({ post }: Props) {
       </div>
 
       {post.title && <div className="post-title">{post.title}</div>}
+      {context && <div className="post-context">{context}</div>}
       <div className="post-snippet">{snippet}</div>
 
       <div className="post-tags">
