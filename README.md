@@ -47,6 +47,20 @@ Credentials are read from the repo-root `.env` (see
 [backend/app/config.py](backend/app/config.py)), which needs an `APIFY_TOKEN`.
 The collectors share the same token as the existing `testing/` scripts.
 
+The Step 4 LLM fallback (content stance and seeking level, used only when the
+zero-shot model is unsure) is chosen with `LLM_PROVIDER`:
+
+| `LLM_PROVIDER` | What runs | Needs |
+|---|---|---|
+| `ollama` (default) | Local Ollama, fully offline | `ollama pull llama3.1`; optional `OLLAMA_HOST`, `OLLAMA_MODEL` |
+| `bedrock` | Amazon Nova 2 Lite on Bedrock | `AWS_BEARER_TOKEN_BEDROCK`, `AWS_REGION`, `BEDROCK_MODEL_ID` |
+| `none` | Fallback off; Step 4 keeps the zero-shot result | — |
+
+Only the selected provider is loaded, so an Ollama run never imports boto3 or
+contacts AWS. For Bedrock, use the `us.` model-ID prefix from a US region and
+`global.amazon.nova-2-lite-v1:0` from anywhere else; post text is sent to AWS
+when that fallback runs.
+
 ## Starting the application
 
 Two terminals, both with the venv active where noted.
@@ -89,6 +103,7 @@ All commands from `backend/`:
 ..\.venv\Scripts\python.exe scripts\collect_reddit.py --max-items 30
 ..\.venv\Scripts\python.exe scripts\collect_linkedin.py --limit 10
 ..\.venv\Scripts\python.exe scripts\collect_aapc.py --max-threads 5
+..\.venv\Scripts\python.exe scripts\collect_facebook.py --limit 20
 
 # Score the new posts
 ..\.venv\Scripts\python.exe scripts\run_pipeline.py
@@ -106,6 +121,18 @@ Collectors only store raw normalized posts — nothing is scored until
 | `collect_linkedin.py` | `--limit` | 10 | |
 | | `--query` | Payer/denial query | See `DEFAULT_QUERY` in [linkedin.py](backend/app/collectors/linkedin.py) |
 | `collect_aapc.py` | `--max-threads` | 5 | **Per forum**, not total |
+| `collect_facebook.py` | `--limit` | 20 | **Total** posts kept, round-robin across groups |
+| | `--per-group` | 8 | Posts fetched per group (each ~$0.005, capped at $0.10/run) |
+| | `--groups` | all in `DEFAULT_GROUPS` | Subset of group keys in [facebook.py](backend/app/collectors/facebook.py) |
+| | `--top-up` | off | Only add new posts until the stored Facebook total reaches `--limit` |
+
+### Evaluation runs
+
+`scripts/run_experiment.py` re-normalizes the 167 gold posts plus the stored
+Facebook posts from raw data, runs every stage fresh with `LLM_PROVIDER=ollama`,
+stores rows under `exp187-20260924-v1/-v2` (production rows untouched), and
+writes `backend/data/experiments/<id>/report.md`. Add `--report-only` to
+rebuild the report without re-running.
 
 The per-unit flags are not total caps — they scale Apify spend faster than they
 look. Start small.
@@ -149,11 +176,45 @@ python collect_aapc.py --max-threads 15
 Run pipeline :
 python run_pipeline.py
 
-When you want fresh data: collect → `run_pipeline.py` → refresh the browser.
-There is no button in the UI to trigger collection; it is script-only by
-design. The `/api/pipeline/{source}/{id}` endpoint is debug-only — it re-runs
+When you want fresh data: collect → `run_pipeline.py` → refresh the browser,
+or use the **Data Collection** tab (below). The `/api/pipeline/{source}/{id}` endpoint is debug-only — it re-runs
 the stage-by-stage explanation for one existing post to power the
 Pipeline/Debug tab.
+
+### Data Collection tab
+
+http://localhost:5173/collect does collect → review → analyze without a
+terminal. It calls the same collector and pipeline code as the scripts, in a
+background job inside the API process (one job at a time; a second request
+gets HTTP 409). Credentials stay in the backend `.env`.
+
+| Mode | What it fetches |
+|---|---|
+| Since last sweep | Per source, posts made after its checkpoint, up to now |
+| Custom date range | Posts made between two dates, max N **per source** |
+| Latest posts | The newest N posts **per source** |
+
+- **Checkpoints** (`collection_checkpoints`): per source, the end of the window
+  of its last *fully successful* Since Last Sweep. A source with any error keeps
+  its old checkpoint, so the next sweep covers the same window again. Latest and
+  Custom Range never move it. Before the first sweep, the window starts at the
+  newest stored post for that source.
+- The collectors fetch newest-first to a per-unit depth (a subreddit, forum,
+  group, ...); the date window is applied afterwards. If a unit hits its depth
+  before reaching the window start, the job shows a "may be missing" note.
+- Duplicates are counted through the existing `(source, source_item_id)`
+  upsert. Failed sources show their error and can be retried on their own.
+- **Run SLD Analysis** scores every post not yet analyzed (same selection as
+  `run_pipeline.py`), commits post by post, and records failed posts instead of
+  stopping. Failed posts are retried on the next run.
+- API: `GET /api/collection/sources`, `POST|GET /api/collection/jobs`,
+  `GET /api/collection/jobs/{id}`, `POST /api/collection/jobs/{id}/retry`,
+  `GET /api/analysis/pending`, `POST|GET /api/analysis/jobs`,
+  `GET /api/analysis/jobs/{id}`.
+- Job history lives in `collection_jobs` / `analysis_jobs`. These tables are
+  created automatically at API startup (existing tables are not touched). A
+  job still running when the server restarts, including `--reload`, is marked
+  *interrupted*.
 
 ## Notes
 

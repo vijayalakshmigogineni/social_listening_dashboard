@@ -1,0 +1,1311 @@
+[
+ {
+  "source": "aapc",
+  "source_item_id": "110023:315757",
+  "in_gold": true,
+  "gold_index": 1,
+  "human_score": 74
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "110023:597120",
+  "in_gold": true,
+  "gold_index": 2,
+  "human_score": 76
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:400662",
+  "in_gold": true,
+  "gold_index": 3,
+  "human_score": 38
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:400667",
+  "in_gold": true,
+  "gold_index": 4,
+  "human_score": 32
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:400674",
+  "in_gold": true,
+  "gold_index": 5,
+  "human_score": 5
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:562666",
+  "in_gold": true,
+  "gold_index": 6,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:562777",
+  "in_gold": true,
+  "gold_index": 7,
+  "human_score": 12
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:596930",
+  "in_gold": true,
+  "gold_index": 8,
+  "human_score": 72
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "143498:596970",
+  "in_gold": true,
+  "gold_index": 9,
+  "human_score": 20
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "182458:499543",
+  "in_gold": true,
+  "gold_index": 10,
+  "human_score": 58
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "182458:499609",
+  "in_gold": true,
+  "gold_index": 11,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "182458:597135",
+  "in_gold": true,
+  "gold_index": 12,
+  "human_score": 20
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:563773",
+  "in_gold": true,
+  "gold_index": 13,
+  "human_score": 55
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:563859",
+  "in_gold": true,
+  "gold_index": 14,
+  "human_score": 66
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:594547",
+  "in_gold": true,
+  "gold_index": 15,
+  "human_score": 60
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:594628",
+  "in_gold": true,
+  "gold_index": 16,
+  "human_score": 52
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:595236",
+  "in_gold": true,
+  "gold_index": 17,
+  "human_score": 55
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:595302",
+  "in_gold": true,
+  "gold_index": 18,
+  "human_score": 58
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "206138:596984",
+  "in_gold": true,
+  "gold_index": 19,
+  "human_score": 28
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "210840:568906",
+  "in_gold": true,
+  "gold_index": 20,
+  "human_score": 62
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "210840:593327",
+  "in_gold": true,
+  "gold_index": 21,
+  "human_score": 15
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "210840:596784",
+  "in_gold": true,
+  "gold_index": 22,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "225947:584705",
+  "in_gold": true,
+  "gold_index": 23,
+  "human_score": 88
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "225947:597110",
+  "in_gold": true,
+  "gold_index": 24,
+  "human_score": 45
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586200",
+  "in_gold": true,
+  "gold_index": 25,
+  "human_score": 48
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586252",
+  "in_gold": true,
+  "gold_index": 26,
+  "human_score": 20
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586258",
+  "in_gold": true,
+  "gold_index": 27,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586273",
+  "in_gold": true,
+  "gold_index": 28,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586327",
+  "in_gold": true,
+  "gold_index": 29,
+  "human_score": 30
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586336",
+  "in_gold": true,
+  "gold_index": 30,
+  "human_score": 62
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586420",
+  "in_gold": true,
+  "gold_index": 31,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:586433",
+  "in_gold": true,
+  "gold_index": 32,
+  "human_score": 8
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:597112",
+  "in_gold": true,
+  "gold_index": 33,
+  "human_score": 42
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "227333:597132",
+  "in_gold": true,
+  "gold_index": 34,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233908:593152",
+  "in_gold": true,
+  "gold_index": 35,
+  "human_score": 68
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233908:597103",
+  "in_gold": true,
+  "gold_index": 36,
+  "human_score": 70
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233934:593216",
+  "in_gold": true,
+  "gold_index": 37,
+  "human_score": 74
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233934:595306",
+  "in_gold": true,
+  "gold_index": 38,
+  "human_score": 66
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233934:595796",
+  "in_gold": true,
+  "gold_index": 39,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233934:596748",
+  "in_gold": true,
+  "gold_index": 40,
+  "human_score": 62
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "233934:596847",
+  "in_gold": true,
+  "gold_index": 41,
+  "human_score": 72
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "235685:595380",
+  "in_gold": true,
+  "gold_index": 42,
+  "human_score": 12
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236004:595911",
+  "in_gold": true,
+  "gold_index": 43,
+  "human_score": 64
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236004:595912",
+  "in_gold": true,
+  "gold_index": 44,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236004:595917",
+  "in_gold": true,
+  "gold_index": 45,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236004:595944",
+  "in_gold": true,
+  "gold_index": 46,
+  "human_score": 40
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236096:596116",
+  "in_gold": true,
+  "gold_index": 47,
+  "human_score": 66
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236096:596853",
+  "in_gold": true,
+  "gold_index": 48,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236128:596200",
+  "in_gold": true,
+  "gold_index": 49,
+  "human_score": 78
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236128:596815",
+  "in_gold": true,
+  "gold_index": 50,
+  "human_score": 35
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236134:596215",
+  "in_gold": true,
+  "gold_index": 51,
+  "human_score": 40
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236134:596221",
+  "in_gold": true,
+  "gold_index": 52,
+  "human_score": 15
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236134:596816",
+  "in_gold": true,
+  "gold_index": 53,
+  "human_score": 28
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236250:596495",
+  "in_gold": true,
+  "gold_index": 54,
+  "human_score": 62
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236250:596511",
+  "in_gold": true,
+  "gold_index": 55,
+  "human_score": 32
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236250:596532",
+  "in_gold": true,
+  "gold_index": 56,
+  "human_score": 8
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236255:596502",
+  "in_gold": true,
+  "gold_index": 57,
+  "human_score": 32
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236257:596506",
+  "in_gold": true,
+  "gold_index": 58,
+  "human_score": 60
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236257:596508",
+  "in_gold": true,
+  "gold_index": 59,
+  "human_score": 28
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236257:596951",
+  "in_gold": true,
+  "gold_index": 60,
+  "human_score": 32
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236257:597025",
+  "in_gold": true,
+  "gold_index": 61,
+  "human_score": 38
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236311:596603",
+  "in_gold": true,
+  "gold_index": 62,
+  "human_score": 35
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236311:596814",
+  "in_gold": true,
+  "gold_index": 63,
+  "human_score": 15
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236326:596639",
+  "in_gold": true,
+  "gold_index": 64,
+  "human_score": 64
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236330:596643",
+  "in_gold": true,
+  "gold_index": 65,
+  "human_score": 46
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236367:596719",
+  "in_gold": true,
+  "gold_index": 66,
+  "human_score": 56
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236367:596739",
+  "in_gold": true,
+  "gold_index": 67,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236384:596762",
+  "in_gold": true,
+  "gold_index": 68,
+  "human_score": 72
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236384:597111",
+  "in_gold": true,
+  "gold_index": 69,
+  "human_score": 28
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236386:596770",
+  "in_gold": true,
+  "gold_index": 70,
+  "human_score": 38
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236390:596776",
+  "in_gold": true,
+  "gold_index": 71,
+  "human_score": 58
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236390:596989",
+  "in_gold": true,
+  "gold_index": 72,
+  "human_score": 52
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236415:596831",
+  "in_gold": true,
+  "gold_index": 73,
+  "human_score": 48
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236415:596834",
+  "in_gold": true,
+  "gold_index": 74,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236449:596907",
+  "in_gold": true,
+  "gold_index": 75,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236466:596957",
+  "in_gold": true,
+  "gold_index": 76,
+  "human_score": 50
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236466:596973",
+  "in_gold": true,
+  "gold_index": 77,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236466:597060",
+  "in_gold": true,
+  "gold_index": 78,
+  "human_score": 8
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236470:596963",
+  "in_gold": true,
+  "gold_index": 79,
+  "human_score": 35
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236471:596964",
+  "in_gold": true,
+  "gold_index": 80,
+  "human_score": 35
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236471:596972",
+  "in_gold": true,
+  "gold_index": 81,
+  "human_score": 22
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236477:596981",
+  "in_gold": true,
+  "gold_index": 82,
+  "human_score": 32
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236480:596986",
+  "in_gold": true,
+  "gold_index": 83,
+  "human_score": 42
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236480:596998",
+  "in_gold": true,
+  "gold_index": 84,
+  "human_score": 30
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236480:597019",
+  "in_gold": true,
+  "gold_index": 85,
+  "human_score": 8
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236509:597050",
+  "in_gold": true,
+  "gold_index": 86,
+  "human_score": 35
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236514:597064",
+  "in_gold": true,
+  "gold_index": 87,
+  "human_score": 70
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236527:597086",
+  "in_gold": true,
+  "gold_index": 88,
+  "human_score": 74
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236536:597114",
+  "in_gold": true,
+  "gold_index": 89,
+  "human_score": 44
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236539:597119",
+  "in_gold": true,
+  "gold_index": 90,
+  "human_score": 76
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236540:597121",
+  "in_gold": true,
+  "gold_index": 91,
+  "human_score": 70
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236541:597122",
+  "in_gold": true,
+  "gold_index": 92,
+  "human_score": 24
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "236542:597123",
+  "in_gold": true,
+  "gold_index": 93,
+  "human_score": 76
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:78736",
+  "in_gold": true,
+  "gold_index": 94,
+  "human_score": 30
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:78756",
+  "in_gold": true,
+  "gold_index": 95,
+  "human_score": 30
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:78759",
+  "in_gold": true,
+  "gold_index": 96,
+  "human_score": 20
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:78763",
+  "in_gold": true,
+  "gold_index": 97,
+  "human_score": 5
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:78870",
+  "in_gold": true,
+  "gold_index": 98,
+  "human_score": 3
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:487991",
+  "in_gold": true,
+  "gold_index": 99,
+  "human_score": 35
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:597099",
+  "in_gold": true,
+  "gold_index": 100,
+  "human_score": 25
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:597100",
+  "in_gold": true,
+  "gold_index": 101,
+  "human_score": 20
+ },
+ {
+  "source": "aapc",
+  "source_item_id": "25078:597138",
+  "in_gold": true,
+  "gold_index": 102,
+  "human_score": 35
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7507866408840630272",
+  "in_gold": true,
+  "gold_index": 103,
+  "human_score": 18
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508180505301798912",
+  "in_gold": true,
+  "gold_index": 104,
+  "human_score": 15
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508180876829089792",
+  "in_gold": true,
+  "gold_index": 105,
+  "human_score": 15
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508270551371550721",
+  "in_gold": true,
+  "gold_index": 106,
+  "human_score": 40
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508285345655054336",
+  "in_gold": true,
+  "gold_index": 107,
+  "human_score": 25
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508440054151684096",
+  "in_gold": true,
+  "gold_index": 108,
+  "human_score": 8
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508442707116187648",
+  "in_gold": true,
+  "gold_index": 109,
+  "human_score": 20
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508452696669044736",
+  "in_gold": true,
+  "gold_index": 110,
+  "human_score": 35
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508454151522197504",
+  "in_gold": true,
+  "gold_index": 111,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508454860871286784",
+  "in_gold": true,
+  "gold_index": 112,
+  "human_score": 38
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508458234157027328",
+  "in_gold": true,
+  "gold_index": 113,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508460867655606272",
+  "in_gold": true,
+  "gold_index": 114,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508462205407973376",
+  "in_gold": true,
+  "gold_index": 115,
+  "human_score": 2
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508467768917295104",
+  "in_gold": true,
+  "gold_index": 116,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508471881587658752",
+  "in_gold": true,
+  "gold_index": 117,
+  "human_score": 16
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480009964179456",
+  "in_gold": true,
+  "gold_index": 118,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480031162134528",
+  "in_gold": true,
+  "gold_index": 119,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480042339823617",
+  "in_gold": true,
+  "gold_index": 120,
+  "human_score": 30
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480179653201920",
+  "in_gold": true,
+  "gold_index": 121,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480184124178432",
+  "in_gold": true,
+  "gold_index": 122,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480212616155136",
+  "in_gold": true,
+  "gold_index": 123,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480241493954561",
+  "in_gold": true,
+  "gold_index": 124,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480255662202881",
+  "in_gold": true,
+  "gold_index": 125,
+  "human_score": 42
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480285802426368",
+  "in_gold": true,
+  "gold_index": 126,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480289128587265",
+  "in_gold": true,
+  "gold_index": 127,
+  "human_score": 5
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480302051221504",
+  "in_gold": true,
+  "gold_index": 128,
+  "human_score": 36
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480308342693888",
+  "in_gold": true,
+  "gold_index": 129,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480356493221888",
+  "in_gold": true,
+  "gold_index": 130,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480386637799424",
+  "in_gold": true,
+  "gold_index": 131,
+  "human_score": 0
+ },
+ {
+  "source": "linkedin",
+  "source_item_id": "7508480392073465856",
+  "in_gold": true,
+  "gold_index": 132,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1vfddl7",
+  "in_gold": true,
+  "gold_index": 133,
+  "human_score": 10
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1vfiji8",
+  "in_gold": true,
+  "gold_index": 134,
+  "human_score": 5
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1vr3ncs",
+  "in_gold": true,
+  "gold_index": 135,
+  "human_score": 48
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1vr3umd",
+  "in_gold": true,
+  "gold_index": 136,
+  "human_score": 48
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wirqon",
+  "in_gold": true,
+  "gold_index": 137,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wivaik",
+  "in_gold": true,
+  "gold_index": 138,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wj0fov",
+  "in_gold": true,
+  "gold_index": 139,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wk290u",
+  "in_gold": true,
+  "gold_index": 140,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wks93c",
+  "in_gold": true,
+  "gold_index": 141,
+  "human_score": 22
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wm177o",
+  "in_gold": true,
+  "gold_index": 142,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wmyps7",
+  "in_gold": true,
+  "gold_index": 143,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wn89v6",
+  "in_gold": true,
+  "gold_index": 144,
+  "human_score": 5
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wn8uoi",
+  "in_gold": true,
+  "gold_index": 145,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wn9sre",
+  "in_gold": true,
+  "gold_index": 146,
+  "human_score": 3
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wncgn7",
+  "in_gold": true,
+  "gold_index": 147,
+  "human_score": 5
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnd9z6",
+  "in_gold": true,
+  "gold_index": 148,
+  "human_score": 58
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnfvwf",
+  "in_gold": true,
+  "gold_index": 149,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnj6wg",
+  "in_gold": true,
+  "gold_index": 150,
+  "human_score": 52
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnmaox",
+  "in_gold": true,
+  "gold_index": 151,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnms9i",
+  "in_gold": true,
+  "gold_index": 152,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnoalg",
+  "in_gold": true,
+  "gold_index": 153,
+  "human_score": 20
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnopgw",
+  "in_gold": true,
+  "gold_index": 154,
+  "human_score": 2
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnpdnj",
+  "in_gold": true,
+  "gold_index": 155,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnphgu",
+  "in_gold": true,
+  "gold_index": 156,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnt2ku",
+  "in_gold": true,
+  "gold_index": 157,
+  "human_score": 30
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wntvee",
+  "in_gold": true,
+  "gold_index": 158,
+  "human_score": 5
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnvkph",
+  "in_gold": true,
+  "gold_index": 159,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnwmxw",
+  "in_gold": true,
+  "gold_index": 160,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnwqeu",
+  "in_gold": true,
+  "gold_index": 161,
+  "human_score": 18
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnxp4z",
+  "in_gold": true,
+  "gold_index": 162,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnxq56",
+  "in_gold": true,
+  "gold_index": 163,
+  "human_score": 12
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnzn5c",
+  "in_gold": true,
+  "gold_index": 164,
+  "human_score": 15
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wnzyw4",
+  "in_gold": true,
+  "gold_index": 165,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wo0j07",
+  "in_gold": true,
+  "gold_index": 166,
+  "human_score": 0
+ },
+ {
+  "source": "reddit",
+  "source_item_id": "1wo1kzo",
+  "in_gold": true,
+  "gold_index": 167,
+  "human_score": 0
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1588485609490104",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1588486999489965",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1588592222812776",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1588614956143836",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1589379062734092",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1590177149320950",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1590320719306593",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1619037083289123",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1619492153243616",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1619623016563863",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1620101426516022",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1620501536476011",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1620918836434281",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1622055466320618",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1622080969651401",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "1624563519403146",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "2493887067783307",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "2493889024449778",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "2493895101115837",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ },
+ {
+  "source": "facebook",
+  "source_item_id": "2493899787782035",
+  "in_gold": false,
+  "gold_index": null,
+  "human_score": null
+ }
+]

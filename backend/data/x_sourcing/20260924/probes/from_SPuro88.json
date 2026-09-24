@@ -1,0 +1,1882 @@
+{
+ "key": "from_SPuro88",
+ "query": "from:SPuro88 lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102417270681006441",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102417270681006441",
+   "url": "https://x.com/SPuro88/status/2102417270681006441",
+   "conversationId": "2102417270681006441",
+   "text": "I couldn’t have said this any better and very similar to my exact thoughts last night as well.",
+   "lang": "en",
+   "createdAt": "2026-09-22T15:18:33.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 656
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102249661771690245",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102358890222674208",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102358890222674208",
+   "url": "https://x.com/SPuro88/status/2102358890222674208",
+   "conversationId": "2102358890222674208",
+   "text": "Incredible article. Great work, a lot due to my great friend @drrachelrubin. I get so upset when I get new patient referrals for women suffering with recurrent UTIs for YEARS and their previous urologist, PCP or GYN never offered vaginal estrogen.\n\nhttps://www.usatoday.com/story/life/health-wellness/2026/09/22/menopause-uti-vaginal-estrogen-sepsis/91680008007/",
+   "lang": "en",
+   "createdAt": "2026-09-22T11:26:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 0,
+    "views": 1383
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2507796164",
+      "username": "drrachelrubin",
+      "name": "Rachel S. Rubin, MD"
+     }
+    ],
+    "urls": [
+     "https://www.usatoday.com/story/life/health-wellness/2026/09/22/menopause-uti-vaginal-estrogen-sepsis/91680008007/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102159767682564443",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102159767682564443",
+   "url": "https://x.com/SPuro88/status/2102159767682564443",
+   "conversationId": "2102157461712941526",
+   "text": "@jpavs17 @olsonplanner I just told everyone to buy dogecoin. It’s terrible advice.",
+   "lang": "en",
+   "createdAt": "2026-09-21T22:15:19.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 72
+   },
+   "replyTo": {
+    "tweetId": "2102158795333947751",
+    "userId": "246296863",
+    "username": "jpavs17"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "246296863",
+      "username": "jpavs17",
+      "name": "Jonathan Pavlinec, MD"
+     },
+     {
+      "id": "381595817",
+      "username": "olsonplanner",
+      "name": "Tyler Olson, EA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101118499724914736",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101118499724914736",
+   "url": "https://x.com/SPuro88/status/2101118499724914736",
+   "conversationId": "2100941167932166429",
+   "text": "@CjWarren_MayoAZ @DavidTMiller_MD Not going to use vicryl on skin broooo",
+   "lang": "en",
+   "createdAt": "2026-09-19T01:17:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 161
+   },
+   "replyTo": {
+    "tweetId": "2101118189945942367",
+    "userId": "987769335233110018",
+    "username": "CjWarren_MayoAZ"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "987769335233110018",
+      "username": "CjWarren_MayoAZ",
+      "name": "Christopher J. Warren, M.D."
+     },
+     {
+      "id": "1491482433455374339",
+      "username": "DavidTMiller_MD",
+      "name": "David Miller"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101115786182176866",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101115786182176866",
+   "url": "https://x.com/SPuro88/status/2101115786182176866",
+   "conversationId": "2101087766079823895",
+   "text": "@aribindi This is why I became a urologist. No matter how advanced technology becomes, men will never stop doing stupid things to their penis.",
+   "lang": "en",
+   "createdAt": "2026-09-19T01:06:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 36,
+    "bookmarks": 0,
+    "views": 1407
+   },
+   "replyTo": {
+    "tweetId": "2101087766079823895",
+    "userId": "81028288",
+    "username": "aribindi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "81028288",
+      "username": "aribindi",
+      "name": "Vamsi Aribindi"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101039063897719237",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101039063897719237",
+   "url": "https://x.com/SPuro88/status/2101039063897719237",
+   "conversationId": "2100941167932166429",
+   "text": "@OmiljeniDaidza @rbarbosa91 No idea. Every urologist uses that suture. Probably just another example of how the world is against me.",
+   "lang": "en",
+   "createdAt": "2026-09-18T20:02:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 53
+   },
+   "replyTo": {
+    "tweetId": "2100996334086172889",
+    "userId": "1332285759441817600",
+    "username": "OmiljeniDaidza"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1332285759441817600",
+      "username": "OmiljeniDaidza",
+      "name": "daykich🇿🇦"
+     },
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100973557836660854",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100973557836660854",
+   "url": "https://x.com/SPuro88/status/2100973557836660854",
+   "conversationId": "2100941167932166429",
+   "text": "@DavidTMiller_MD Being forced to do that today. RIP Chromic",
+   "lang": "en",
+   "createdAt": "2026-09-18T15:41:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 897
+   },
+   "replyTo": {
+    "tweetId": "2100970662290714795",
+    "userId": "1491482433455374339",
+    "username": "DavidTMiller_MD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1491482433455374339",
+      "username": "DavidTMiller_MD",
+      "name": "David Miller"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100941167932166429",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100941167932166429",
+   "url": "https://x.com/SPuro88/status/2100941167932166429",
+   "conversationId": "2100941167932166429",
+   "text": "Are the rumors true?! Is Ethicon discontinuing chromic gut sutures? Say it ain’t so! How will I survive?!",
+   "lang": "en",
+   "createdAt": "2026-09-18T13:33:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 31,
+    "bookmarks": 5,
+    "views": 10726
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100630343950721233",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100630343950721233",
+   "url": "https://x.com/SPuro88/status/2100630343950721233",
+   "conversationId": "2100609387949609057",
+   "text": "@DrTanWP @pcarroll_ @UCSFUrology @FocalSociety @SocietySURS Oh my this is going to start another focal royal rumble",
+   "lang": "en",
+   "createdAt": "2026-09-17T16:57:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 44
+   },
+   "replyTo": {
+    "tweetId": "2100609387949609057",
+    "userId": "823320839240163328",
+    "username": "DrTanWP"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "823320839240163328",
+      "username": "DrTanWP",
+      "name": "Wei Phin Tan, MD, MHS, FACS"
+     },
+     {
+      "id": "904289966",
+      "username": "pcarroll_",
+      "name": "Carroll, Peter"
+     },
+     {
+      "id": "764169991",
+      "username": "UCSFUrology",
+      "name": "UCSFUrology"
+     },
+     {
+      "id": "1205823163411714048",
+      "username": "FocalSociety",
+      "name": "Focal Therapy Society"
+     },
+     {
+      "id": "1178376482709790722",
+      "username": "SocietySURS",
+      "name": "Society of Urologic Robotic Surgeons (SURS)"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100587729373266008",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100587729373266008",
+   "url": "https://x.com/SPuro88/status/2100587729373266008",
+   "conversationId": "2100269772839567490",
+   "text": "@brianchiong Or you can just do a cysto and stent removal and be fine.",
+   "lang": "en",
+   "createdAt": "2026-09-17T14:08:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 138
+   },
+   "replyTo": {
+    "tweetId": "2100269772839567490",
+    "userId": "342802864",
+    "username": "brianchiong"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "342802864",
+      "username": "brianchiong",
+      "name": "B. Bobby Chiong, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100587493720564166",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100587493720564166",
+   "url": "https://x.com/SPuro88/status/2100587493720564166",
+   "conversationId": "2100357276670255455",
+   "text": "@DrSiyabMD Except the radiologists are at their house now. Maybe they’ll invite everyone over for coffee and film review?",
+   "lang": "en",
+   "createdAt": "2026-09-17T14:07:40.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 337
+   },
+   "replyTo": {
+    "tweetId": "2100357276670255455",
+    "userId": "971806278241669126",
+    "username": "DrSiyabMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "971806278241669126",
+      "username": "DrSiyabMD",
+      "name": "Siyab Panhwar, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100579755863216270",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100579755863216270",
+   "url": "https://x.com/SPuro88/status/2100579755863216270",
+   "conversationId": "2099857805607891204",
+   "text": "@LKrankerMD @isaiah_turnbull @washusurgres @WashUSurgery @WashU_Uro @LiddyD4 @weeramaya @BKaplunov Have seen this done before during a ureteral reimplant. Stent removed cystoscopy, patient observed and no issues. Still needed a reimplant though….",
+   "lang": "en",
+   "createdAt": "2026-09-17T13:36:55.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 409
+   },
+   "replyTo": {
+    "tweetId": "2099857805607891204",
+    "userId": "1226795326272688128",
+    "username": "LKrankerMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1226795326272688128",
+      "username": "LKrankerMD",
+      "name": "Lindsay Kranker, MD, FACS"
+     },
+     {
+      "id": "81180648",
+      "username": "isaiah_turnbull",
+      "name": "Isaiah Turnbull"
+     },
+     {
+      "id": "3028317746",
+      "username": "washusurgres",
+      "name": "WashU Medicine General Surgery Residency"
+     },
+     {
+      "id": "4048528588",
+      "username": "WashUSurgery",
+      "name": "WashU Medicine Department of Surgery"
+     },
+     {
+      "id": "930512871720718337",
+      "username": "WashU_Uro",
+      "name": "WashU Medicine Division of Urology"
+     },
+     {
+      "id": "1475307859521019910",
+      "username": "LiddyD4",
+      "name": "Liddy Di Valerio"
+     },
+     {
+      "id": "2012196145431220225",
+      "username": "weeramaya",
+      "name": "Maya Weerasooriya"
+     },
+     {
+      "id": "1368015408633180162",
+      "username": "BKaplunov",
+      "name": "Briana Kaplunov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100387191335551082",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100387191335551082",
+   "url": "https://x.com/SPuro88/status/2100387191335551082",
+   "conversationId": "2100025655492530456",
+   "text": "@KBGinsburg @rewcastle_john @UroOnc @wandering_gu Agreed. This site was much better when it was just my dumb tweets.",
+   "lang": "en",
+   "createdAt": "2026-09-17T00:51:44.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 111
+   },
+   "replyTo": {
+    "tweetId": "2100025655492530456",
+    "userId": "970994205253398528",
+    "username": "KBGinsburg"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "970994205253398528",
+      "username": "KBGinsburg",
+      "name": "Kevin Ginsburg"
+     },
+     {
+      "id": "1431646283303985158",
+      "username": "rewcastle_john",
+      "name": "John Rewcastle, PhD"
+     },
+     {
+      "id": "1021427317481050112",
+      "username": "UroOnc",
+      "name": "Society of Urologic Oncology"
+     },
+     {
+      "id": "75068501",
+      "username": "wandering_gu",
+      "name": "Todd 〽️ Morgan, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100038845534478560",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100038845534478560",
+   "url": "https://x.com/SPuro88/status/2100038845534478560",
+   "conversationId": "2099948521747079432",
+   "text": "@CanesDavid @KeithKow @bot When will you have AI go buy the Canes’ household’s milk for the week?",
+   "lang": "en",
+   "createdAt": "2026-09-16T01:47:32.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": {
+    "tweetId": "2099975407999099318",
+    "userId": "860624965",
+    "username": "CanesDavid"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "860624965",
+      "username": "CanesDavid",
+      "name": "𝙳𝚊𝚟𝚒𝚍 𝙲𝚊𝚗𝚎𝚜"
+     },
+     {
+      "id": "185459885",
+      "username": "KeithKow",
+      "name": "Keith Kowalczyk, MD"
+     },
+     {
+      "id": "2085838061347217408",
+      "username": "bot",
+      "name": "Grok Bot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098611377325674587",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098611377325674587",
+   "url": "https://x.com/SPuro88/status/2098611377325674587",
+   "conversationId": "2098062336955163061",
+   "text": "@KeithKow @EvanThomas84 @PGomellaMD Wait until he finds out IPSS going up is not a good thing.",
+   "lang": "en",
+   "createdAt": "2026-09-12T03:15:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 144
+   },
+   "replyTo": {
+    "tweetId": "2098442429762273584",
+    "userId": "185459885",
+    "username": "KeithKow"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "185459885",
+      "username": "KeithKow",
+      "name": "Keith Kowalczyk, MD"
+     },
+     {
+      "id": "1158103242",
+      "username": "EvanThomas84",
+      "name": "Evan Thomas MD/PhD"
+     },
+     {
+      "id": "862331279416729600",
+      "username": "PGomellaMD",
+      "name": "Patrick Gomella MD, MPH, FACS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098416136563892247",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098416136563892247",
+   "url": "https://x.com/SPuro88/status/2098416136563892247",
+   "conversationId": "2098416136563892247",
+   "text": "Ooo this is getting spicy now",
+   "lang": "en",
+   "createdAt": "2026-09-11T14:19:28.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 25,
+    "bookmarks": 3,
+    "views": 9005
+   },
+   "replyTo": null,
+   "quotedTweetId": "2098370085874196836",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097387433172033568",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097387433172033568",
+   "url": "https://x.com/SPuro88/status/2097387433172033568",
+   "conversationId": "2097387433172033568",
+   "text": "My wife made an X account just to follow me and yell at me whenever I tweet about her.",
+   "lang": "en",
+   "createdAt": "2026-09-08T18:11:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 49,
+    "bookmarks": 0,
+    "views": 5504
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095709628948533300",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095709628948533300",
+   "url": "https://x.com/SPuro88/status/2095709628948533300",
+   "conversationId": "2095595225951723804",
+   "text": "@eleswarapu @SeanLangenfeld @AmCollSurgeons @rbarbosa91 @TomVargheseJr @elliotthaut @ScottRSteeleMD @CanesDavid @juliomayol @EKing719 I do my vasectomies with my pants off so I am at an equal ground with my patients.",
+   "lang": "en",
+   "createdAt": "2026-09-04T03:04:46.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 131
+   },
+   "replyTo": {
+    "tweetId": "2095705850358993246",
+    "userId": "1549474416",
+    "username": "eleswarapu"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1549474416",
+      "username": "eleswarapu",
+      "name": "Sriram Eleswarapu"
+     },
+     {
+      "id": "2324094781",
+      "username": "SeanLangenfeld",
+      "name": "Sean Langenfeld"
+     },
+     {
+      "id": "78060290",
+      "username": "AmCollSurgeons",
+      "name": "American College of Surgeons"
+     },
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     },
+     {
+      "id": "1323379315",
+      "username": "TomVargheseJr",
+      "name": "Tom Varghese Jr. MD, MS, MBA, FACS, MAMSE 🇺🇸"
+     },
+     {
+      "id": "213482476",
+      "username": "elliotthaut",
+      "name": "Elliott R Haut, MD, PhD, MAMSE"
+     },
+     {
+      "id": "867411036583989248",
+      "username": "ScottRSteeleMD",
+      "name": "Scott R. Steele"
+     },
+     {
+      "id": "860624965",
+      "username": "CanesDavid",
+      "name": "𝙳𝚊𝚟𝚒𝚍 𝙲𝚊𝚗𝚎𝚜"
+     },
+     {
+      "id": "28655732",
+      "username": "juliomayol",
+      "name": "Julio Mayol"
+     },
+     {
+      "id": "3305735674",
+      "username": "EKing719",
+      "name": "“Get Screened” King-Mullins, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095694840948228265",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095694840948228265",
+   "url": "https://x.com/SPuro88/status/2095694840948228265",
+   "conversationId": "2095618968132133011",
+   "text": "@dr_jeffgodd I picked it up when I did my fellowship at MD Anderson. Born and bred Jersey kid. Would have never ever worn cowboy boots before that.",
+   "lang": "en",
+   "createdAt": "2026-09-04T02:06:00.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 120
+   },
+   "replyTo": {
+    "tweetId": "2095663310658064889",
+    "userId": "1324406648916488192",
+    "username": "dr_jeffgodd"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1324406648916488192",
+      "username": "dr_jeffgodd",
+      "name": "Jeff Goddard, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095618968132133011",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095618968132133011",
+   "url": "https://x.com/SPuro88/status/2095618968132133011",
+   "conversationId": "2095618968132133011",
+   "text": "My preferred attire is scrubs with cowboy boots. Any other answer is wrong.",
+   "lang": "en",
+   "createdAt": "2026-09-03T21:04:31.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 70,
+    "bookmarks": 5,
+    "views": 11394
+   },
+   "replyTo": null,
+   "quotedTweetId": "2095595225951723804",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095596071682469924",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095596071682469924",
+   "url": "https://x.com/SPuro88/status/2095596071682469924",
+   "conversationId": "2095595225951723804",
+   "text": "@SeanLangenfeld @AmCollSurgeons @rbarbosa91 @TomVargheseJr @elliotthaut @ScottRSteeleMD @CanesDavid @juliomayol @EKing719 Scrubs all the way. I do plenty of procedures throughout my clinic day and no one wants their urologist to do their vasectomy in a suit.",
+   "lang": "en",
+   "createdAt": "2026-09-03T19:33:32.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 717
+   },
+   "replyTo": {
+    "tweetId": "2095595225951723804",
+    "userId": "2324094781",
+    "username": "SeanLangenfeld"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2324094781",
+      "username": "SeanLangenfeld",
+      "name": "Sean Langenfeld"
+     },
+     {
+      "id": "78060290",
+      "username": "AmCollSurgeons",
+      "name": "American College of Surgeons"
+     },
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     },
+     {
+      "id": "1323379315",
+      "username": "TomVargheseJr",
+      "name": "Tom Varghese Jr. MD, MS, MBA, FACS, MAMSE 🇺🇸"
+     },
+     {
+      "id": "213482476",
+      "username": "elliotthaut",
+      "name": "Elliott R Haut, MD, PhD, MAMSE"
+     },
+     {
+      "id": "867411036583989248",
+      "username": "ScottRSteeleMD",
+      "name": "Scott R. Steele"
+     },
+     {
+      "id": "860624965",
+      "username": "CanesDavid",
+      "name": "𝙳𝚊𝚟𝚒𝚍 𝙲𝚊𝚗𝚎𝚜"
+     },
+     {
+      "id": "28655732",
+      "username": "juliomayol",
+      "name": "Julio Mayol"
+     },
+     {
+      "id": "3305735674",
+      "username": "EKing719",
+      "name": "“Get Screened” King-Mullins, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094851884016091323",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094851884016091323",
+   "url": "https://x.com/SPuro88/status/2094851884016091323",
+   "conversationId": "2094822998750474444",
+   "text": "@DocDifferently Ooo I love this.",
+   "lang": "en",
+   "createdAt": "2026-09-01T18:16:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 21,
+    "bookmarks": 0,
+    "views": 7764
+   },
+   "replyTo": {
+    "tweetId": "2094822998750474444",
+    "userId": "1376042773560745987",
+    "username": "DocDifferently"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1376042773560745987",
+      "username": "DocDifferently",
+      "name": "Doctoring Differently | Naomi Lawrence-Reid, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094203602143248496",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094203602143248496",
+   "url": "https://x.com/SPuro88/status/2094203602143248496",
+   "conversationId": "2094192187311562811",
+   "text": "@SalaryDr Price of taking primary call.",
+   "lang": "en",
+   "createdAt": "2026-08-30T23:20:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 2176
+   },
+   "replyTo": {
+    "tweetId": "2094192187311562811",
+    "userId": "1598767413838761984",
+    "username": "SalaryDr"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1598767413838761984",
+      "username": "SalaryDr",
+      "name": "salaryDr"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093380608051609680",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2093380608051609680",
+   "url": "https://x.com/SPuro88/status/2093380608051609680",
+   "conversationId": "2093041883216060656",
+   "text": "@Averywalker21 @rbarbosa91 @SeanLangenfeld Also would recommend whistle tips, one red and one blue to demarcate left vs right ureter in case you didn’t want to pull both and easier to put up than a 5 Fr open ended.",
+   "lang": "en",
+   "createdAt": "2026-08-28T16:50:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 338
+   },
+   "replyTo": {
+    "tweetId": "2093380315167461868",
+    "userId": "1237172171245568001",
+    "username": "SPuro88"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "968287943117873152",
+      "username": "Averywalker21",
+      "name": "Avery Walker, MD, FACS, FASCRS"
+     },
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     },
+     {
+      "id": "2324094781",
+      "username": "SeanLangenfeld",
+      "name": "Sean Langenfeld"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093380315167461868",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2093380315167461868",
+   "url": "https://x.com/SPuro88/status/2093380315167461868",
+   "conversationId": "2093041883216060656",
+   "text": "@Averywalker21 @rbarbosa91 @SeanLangenfeld Get an Edelmann foley, instead of this contraption you Jerry-rigged!",
+   "lang": "en",
+   "createdAt": "2026-08-28T16:48:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 597
+   },
+   "replyTo": {
+    "tweetId": "2093041883216060656",
+    "userId": "968287943117873152",
+    "username": "Averywalker21"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "968287943117873152",
+      "username": "Averywalker21",
+      "name": "Avery Walker, MD, FACS, FASCRS"
+     },
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     },
+     {
+      "id": "2324094781",
+      "username": "SeanLangenfeld",
+      "name": "Sean Langenfeld"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092765861199138889",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2092765861199138889",
+   "url": "https://x.com/SPuro88/status/2092765861199138889",
+   "conversationId": "2092427150234153300",
+   "text": "@sbetbeliever Okay I googled and all I could find was this: https://pubmed.ncbi.nlm.nih.gov/15479288/",
+   "lang": "en",
+   "createdAt": "2026-08-27T00:07:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 92
+   },
+   "replyTo": {
+    "tweetId": "2092743039764533628",
+    "userId": "2828615831",
+    "username": "sbetbeliever"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2828615831",
+      "username": "sbetbeliever",
+      "name": "TJA"
+     }
+    ],
+    "urls": [
+     "https://pubmed.ncbi.nlm.nih.gov/15479288/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092708020891373896",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2092708020891373896",
+   "url": "https://x.com/SPuro88/status/2092708020891373896",
+   "conversationId": "2092427150234153300",
+   "text": "@olesawbones @BladeDoc @dshoskes I was just about to say this…",
+   "lang": "en",
+   "createdAt": "2026-08-26T20:17:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 343
+   },
+   "replyTo": {
+    "tweetId": "2092670290526445754",
+    "userId": "52409025",
+    "username": "olesawbones"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "52409025",
+      "username": "olesawbones",
+      "name": "Jorge Raul C"
+     },
+     {
+      "id": "24159132",
+      "username": "BladeDoc",
+      "name": "Blade Doc"
+     },
+     {
+      "id": "22875186",
+      "username": "dshoskes",
+      "name": "Daniel Shoskes MD, FRCS(C)"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092678531452936675",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2092678531452936675",
+   "url": "https://x.com/SPuro88/status/2092678531452936675",
+   "conversationId": "2092620507455619556",
+   "text": "@DrAlexTatem @daviesbj Both you guys post your T levels next",
+   "lang": "en",
+   "createdAt": "2026-08-26T18:20:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 83
+   },
+   "replyTo": {
+    "tweetId": "2092620507455619556",
+    "userId": "37708813",
+    "username": "DrAlexTatem"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "37708813",
+      "username": "DrAlexTatem",
+      "name": "Dr. Alex Tatem"
+     },
+     {
+      "id": "16700029",
+      "username": "daviesbj",
+      "name": "Benjamin J. Davies MD, MBA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092678349982208255",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2092678349982208255",
+   "url": "https://x.com/SPuro88/status/2092678349982208255",
+   "conversationId": "2092668005763440684",
+   "text": "@rbarbosa91 @SeanLangenfeld @TomReadCRS @peterwmarcello1 @wcirocco @TAMISYoda Can you guys take my obstructing ureteral stone calls next?? 🤣",
+   "lang": "en",
+   "createdAt": "2026-08-26T18:19:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 432
+   },
+   "replyTo": {
+    "tweetId": "2092673023602254114",
+    "userId": "408883934",
+    "username": "rbarbosa91"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     },
+     {
+      "id": "2324094781",
+      "username": "SeanLangenfeld",
+      "name": "Sean Langenfeld"
+     },
+     {
+      "id": "997880669203255296",
+      "username": "TomReadCRS",
+      "name": "Thomas Read"
+     },
+     {
+      "id": "3396088523",
+      "username": "peterwmarcello1",
+      "name": "Peter W Marcello, MD, FACS,FASCRS"
+     },
+     {
+      "id": "1281321751",
+      "username": "wcirocco",
+      "name": "William Cirocco"
+     },
+     {
+      "id": "3988262848",
+      "username": "TAMISYoda",
+      "name": "Matthew Albert"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092673658246357398",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2092673658246357398",
+   "url": "https://x.com/SPuro88/status/2092673658246357398",
+   "conversationId": "2092668005763440684",
+   "text": "@SeanLangenfeld @TomReadCRS @peterwmarcello1 @rbarbosa91 @wcirocco @TAMISYoda I’d rather you call us for them beforehand if you think you’ll need them opposed to fixing a ureter afterwards. That being said, even if they don’t decrease risk of injury, sure as hell makes it easier to repair if a ureteral catheter is already in there.",
+   "lang": "en",
+   "createdAt": "2026-08-26T18:00:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 283
+   },
+   "replyTo": {
+    "tweetId": "2092673109929410877",
+    "userId": "2324094781",
+    "username": "SeanLangenfeld"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2324094781",
+      "username": "SeanLangenfeld",
+      "name": "Sean Langenfeld"
+     },
+     {
+      "id": "997880669203255296",
+      "username": "TomReadCRS",
+      "name": "Thomas Read"
+     },
+     {
+      "id": "3396088523",
+      "username": "peterwmarcello1",
+      "name": "Peter W Marcello, MD, FACS,FASCRS"
+     },
+     {
+      "id": "408883934",
+      "username": "rbarbosa91",
+      "name": "Ron Barbosa MD FACS"
+     },
+     {
+      "id": "1281321751",
+      "username": "wcirocco",
+      "name": "William Cirocco"
+     },
+     {
+      "id": "3988262848",
+      "username": "TAMISYoda",
+      "name": "Matthew Albert"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

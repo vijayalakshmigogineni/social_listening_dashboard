@@ -1,0 +1,25 @@
+[discover] 'claim denials' (max 20, est $0.062)
+[discover]   20 posts, groups: ['528422352707120', '350382725467096']
+[discover] 'prior auth denied' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'billers help' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'coding denial' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'orthopedic billing' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'ASC billing' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'practice manager insurance' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'Medicaid denial billing' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+{
+ "528422352707120": [
+  "claim denials"
+ ],
+ "350382725467096": [
+  "claim denials"
+ ]
+}
+estimated spend so far: $2.095 of $3.50

@@ -1,0 +1,1628 @@
+{
+ "key": "from_EdGainesIII",
+ "query": "from:EdGainesIII lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2103038519740653776",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2103038519740653776",
+   "url": "https://x.com/EdGainesIII/status/2103038519740653776",
+   "conversationId": "2102840865664241973",
+   "text": "@swankywolverine Totally agree Swanky, thanks and we’re in!",
+   "lang": "en",
+   "createdAt": "2026-09-24T08:27:10.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 7
+   },
+   "replyTo": {
+    "tweetId": "2102840865664241973",
+    "userId": "782302797584818176",
+    "username": "swankywolverine"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "782302797584818176",
+      "username": "swankywolverine",
+      "name": "Swanky Wolverine"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102926008227865044",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102926008227865044",
+   "url": "https://x.com/EdGainesIII/status/2102926008227865044",
+   "conversationId": "2101992626152984932",
+   "text": "@HealthGovInst Any reference to the QPAs calculated under rules deemed null and void by the US Court of Appeals for the Fifth Circuit in early August 2026—who vacated the QPA rules nationwide when they could have just ruled for the 3 states in the 5th—TX, MS and LA—is without credibility, IMHO.",
+   "lang": "en",
+   "createdAt": "2026-09-24T01:00:05.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 7
+   },
+   "replyTo": {
+    "tweetId": "2102884265377550741",
+    "userId": "2091642476134039552",
+    "username": "HealthGovInst"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2091642476134039552",
+      "username": "HealthGovInst",
+      "name": "Healthcare Governance Institute"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102705441335840826",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102705441335840826",
+   "url": "https://x.com/EdGainesIII/status/2102705441335840826",
+   "conversationId": "2102555300691583043",
+   "text": "@DutchRojas @DrLizaMD Happy birthday Dutch and I hope it is a great day!",
+   "lang": "en",
+   "createdAt": "2026-09-23T10:23:38.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 74
+   },
+   "replyTo": {
+    "tweetId": "2102555300691583043",
+    "userId": "475043222",
+    "username": "DutchRojas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "475043222",
+      "username": "DutchRojas",
+      "name": "Dutch Rojas"
+     },
+     {
+      "id": "829377009977585664",
+      "username": "DrLizaMD",
+      "name": "Liza Lockwood"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102705095028944914",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102705095028944914",
+   "url": "https://x.com/EdGainesIII/status/2102705095028944914",
+   "conversationId": "2102550843497103685",
+   "text": "@BKRBusinessMin @mcuban Scott, the PBM chapter should titled:  “Contractual Terrorism”.",
+   "lang": "en",
+   "createdAt": "2026-09-23T10:22:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 28
+   },
+   "replyTo": {
+    "tweetId": "2102559287465934998",
+    "userId": "1613586957329731623",
+    "username": "BKRBusinessMin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1613586957329731623",
+      "username": "BKRBusinessMin",
+      "name": "Scott Becker"
+     },
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102704521092952311",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102704521092952311",
+   "url": "https://x.com/EdGainesIII/status/2102704521092952311",
+   "conversationId": "2102704521092952311",
+   "text": "“Contractual terrorism” is indeed as Mark states per se a PBM contract that runs 100s or 1000s of pages.\n\nHint:  check the definitions section closely as that is where lawyers love to really leverage the deal.",
+   "lang": "en",
+   "createdAt": "2026-09-23T10:19:58.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1527
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102550843497103685",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102306516451697076",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102306516451697076",
+   "url": "https://x.com/EdGainesIII/status/2102306516451697076",
+   "conversationId": "2102306516451697076",
+   "text": "What about the 20+ audits of the QPA (initial payments) under the #NoSurprisesAct announced 3-4 yrs ago by @CMSGov w/ only one released that shows that QPAs were not accurately determined?\n\nNow that the TMA III opinion was announced in August ‘26 (TMA went 4-0 in the federal district and appellate courts) there is simply no reason for CMS to continue “enforcement discretion” on the QPAs.\n\nTo your point Art, if one totals the cases where the health plans defaulted (did not make an offer in the NSA IDR process) (24%) or made an offer of $1.00 or less (9+%), that’s over 1/3 of the IDR cases per the CMS PUF data.\n\nYet the plans maintain that physicians and hospitals are abusing the IDR system.\n\nWhere are the lawsuits by the major employers against their TPAs for breach of contract in defaulting and not making legitimate offers in the mandated IDR process?",
+   "lang": "en",
+   "createdAt": "2026-09-22T07:58:27.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 1,
+    "views": 1098
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102151628308582537",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101998067507494913",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101998067507494913",
+   "url": "https://x.com/EdGainesIII/status/2101998067507494913",
+   "conversationId": "2101998067507494913",
+   "text": "Congratulations on an outstanding ATP career and for being an outstanding role model for all players.  Thank you too for being a great representative of the USA in the Olympics and Davis Cup.\n\nAs mainly a doubles player myself now, I saw you play many times @USOpen.",
+   "lang": "en",
+   "createdAt": "2026-09-21T11:32:47.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 551
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101958769705980103",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "14836197",
+      "username": "usopen",
+      "name": "US Open Tennis"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101996897061769502",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101996897061769502",
+   "url": "https://x.com/EdGainesIII/status/2101996897061769502",
+   "conversationId": "2101996897061769502",
+   "text": "Both the Georgetown University and Paragon Health Institute’s studies released after the early August 5th Circuit’s decision finding the QPA regulations null and void are themselves null and void.  \n\nThe very QPAs that they relied on were calculated under rules that are legally without effect so the QPA data itself is voided.\n\nThat both organizations released their studies anyway (2 weeks after the court’s opinion for GU and one month after for Paragon) without regard to the court’s vacatur shows the extent of their pro-health plans bias.\n\n https://www.beckerspayer.com/payer/5-no-surprises-act-updates-2/",
+   "lang": "en",
+   "createdAt": "2026-09-21T11:28:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 18,
+    "bookmarks": 4,
+    "views": 1233
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.beckerspayer.com/payer/5-no-surprises-act-updates-2/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101992626152984932",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101992626152984932",
+   "url": "https://x.com/EdGainesIII/status/2101992626152984932",
+   "conversationId": "2101992626152984932",
+   "text": "1/So, based on the health plans’ trade association’s own numbers, Patrick Velliky estimates that ~5% of potential claims actually go through IDR determination (see his 9/3/26 Substack).  \n\nHow are ~5% of one cohort of commercial claims causing potential run-a-way premium increases?\n \nWhere is the discussion of @UHC and @AnthemBCBS net profits for H1 of ‘26 at ~$15B?  These are just 2 of the for profit health plans.\n\nAnd where are the discussions of the rampant & systemic non-compliance w/ payment of NSA IDR awards by the health plans recently determined in an @EDPMA survey of ‘25 data (nearly 660K IDR awards) to be nearly ~50%?\n\n https://www.politico.com/news/2026/09/17/health-insurance-premiums-doctors-surprises-01081155",
+   "lang": "en",
+   "createdAt": "2026-09-21T11:11:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 13,
+    "bookmarks": 5,
+    "views": 1169
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     },
+     {
+      "id": "38458001",
+      "username": "EDPMA",
+      "name": "EDPMA"
+     }
+    ],
+    "urls": [
+     "https://www.politico.com/news/2026/09/17/health-insurance-premiums-doctors-surprises-01081155"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101986039342432552",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101986039342432552",
+   "url": "https://x.com/EdGainesIII/status/2101986039342432552",
+   "conversationId": "2101986039342432552",
+   "text": "Long Island neurosurgical group is also suing @AnthemBCBS over their announced policy to reduce reimbursements  & attempts to punish hospitals & ASCs for permitting out of network physicians to care for their members. \n\nThe complaint alleges anti-trust and other allegations.  @ElevanceHealth (the name they picked this week) offers a milk toast response about protecting Pts when the #NoSurprisesAct already does that.\n\nThe greatest success of the NSA is the protection of millions of Pts.\n\nThe Long Island group joins the CA Medical Association in its own separate litigation on these issues.\n\nAnthem’s HQ is in Indy and the Indiana legislature passed and the Gov signed a bill prohibiting these practices—what does that tell you?\n\n https://www.beckerspayer.com/legal/elevance-hit-with-another-lawsuit-over-out-of-network-penalty-policy/",
+   "lang": "en",
+   "createdAt": "2026-09-21T10:44:59.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 21,
+    "bookmarks": 6,
+    "views": 1511
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101986035412418560",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSvBKZOWwAA14hK.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSvBKZOWwAA14hK.jpg",
+     "width": 2048,
+     "height": 1424,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     },
+     {
+      "id": "435302260",
+      "username": "ElevanceHealth",
+      "name": "Elevance Health"
+     }
+    ],
+    "urls": [
+     "https://www.beckerspayer.com/legal/elevance-hit-with-another-lawsuit-over-out-of-network-penalty-policy/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101377068084715557",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101377068084715557",
+   "url": "https://x.com/EdGainesIII/status/2101377068084715557",
+   "conversationId": "2101377068084715557",
+   "text": "DJ and chair umpire combined—I hope I live to see it!",
+   "lang": "en",
+   "createdAt": "2026-09-19T18:25:09.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 768
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101343670813204966",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101371517611151729",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101371517611151729",
+   "url": "https://x.com/EdGainesIII/status/2101371517611151729",
+   "conversationId": "2101071699550908795",
+   "text": "@ElswickClay @txsportsdoc @barnes_law The plans’ potentially fear the regulators way more than any one group.",
+   "lang": "en",
+   "createdAt": "2026-09-19T18:03:06.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 24
+   },
+   "replyTo": {
+    "tweetId": "2101352649572385058",
+    "userId": "1355315133841625089",
+    "username": "ElswickClay"
+   },
+   "quotedTweetId": "2101289894295290350",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1355315133841625089",
+      "username": "ElswickClay",
+      "name": "Clay Elswick, MD FAANS"
+     },
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "2301990517",
+      "username": "barnes_law",
+      "name": "Robert Barnes"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101328004274098670",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101328004274098670",
+   "url": "https://x.com/EdGainesIII/status/2101328004274098670",
+   "conversationId": "2101328004274098670",
+   "text": "USA takes the doubles (Harrison & Krajicek) rubber (that is what it is called) in the Davis Cup vs Czechia after fending off 4 match points to give the USA a 2-1 lead (winner needs 3 rubbers).\n\nOne of the oldest annual competitions in sports, the cup was founded in 1900 by Dwight Davis and 3 friends when he was an undergrad at Harvard.  He purchased the stunning Cup with his own money.\n\nThe USA has won the most Cups in history at 32.\n\nIf you ever have the chance to go, you should strongly consider it.  \n\nI attended to Cup matches in Winston-Salem vs. Spain and France at @WakeMBB stadium Joel Coliseum, and it had never been that loud for a BB game.\n\nI wore an Uncle Sam suit and had cowbells with drum sticks and a tambourine—no joke.  Pictures have been sealed by court order (LOL).",
+   "lang": "en",
+   "createdAt": "2026-09-19T15:10:11.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 604
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099500030746911186",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "41604618",
+      "username": "WakeMBB",
+      "name": "Wake Forest Men's Basketball"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101321762780729650",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101321762780729650",
+   "url": "https://x.com/EdGainesIII/status/2101321762780729650",
+   "conversationId": "2101321762780729650",
+   "text": "Speaking of “Little FTC” claims of unfair and deceptive trade practices that may bring w/them if proven 3X damages and attorneys fees, the Chamber is alleging breach of fiduciary duty by (hope you’re sitting down) @UHC. \n\nHow there are not a plethora of cases by employers regarding health plans acting as a TPA on the unfair and deceptive and breach of fiduciary claims basis is a mystery to me.\n\nCongress is contemplating increasing the transparency requirements of data between TPAs and the employers and that sounds like a great start.",
+   "lang": "en",
+   "createdAt": "2026-09-19T14:45:23.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 1,
+    "views": 913
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101158003890135470",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101315909717561759",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101315909717561759",
+   "url": "https://x.com/EdGainesIII/status/2101315909717561759",
+   "conversationId": "2098083314813026596",
+   "text": "@TonyRobbins @BillAckman @ChristopherZook @caz_investments @Grok please summarize Mr Ackman’s key points",
+   "lang": "en",
+   "createdAt": "2026-09-19T14:22:08.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 650
+   },
+   "replyTo": {
+    "tweetId": "2098083314813026596",
+    "userId": "17266725",
+    "username": "TonyRobbins"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "17266725",
+      "username": "TonyRobbins",
+      "name": "Tony Robbins"
+     },
+     {
+      "id": "880412538625810432",
+      "username": "BillAckman",
+      "name": "Bill Ackman"
+     },
+     {
+      "id": "1772001251288358912",
+      "username": "ChristopherZook",
+      "name": "Christopher Zook"
+     },
+     {
+      "id": "1720537647670603776",
+      "username": "caz_investments",
+      "name": "CAZ Investments"
+     },
+     {
+      "id": "1720665183188922368",
+      "username": "grok",
+      "name": "Grok"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101289894295290350",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101289894295290350",
+   "url": "https://x.com/EdGainesIII/status/2101289894295290350",
+   "conversationId": "2101071699550908795",
+   "text": "At a minimum, the health plans conduct should be reported to the state DOI—and I realize that often times goes nowhere.  The tortious interference theory most likely here is one with prospective advantage:  that the bad actor uses illegal tactics to interfere with the physician/Pt relationship (and this is not legal advice).  Unfair and deceptive trade practices (so-called “Little FTC” claims) might also arise and they bring treble (3X) damages and attorney fees potential.  On a personal and professional level, the Doc is right—this is nuts.",
+   "lang": "en",
+   "createdAt": "2026-09-19T12:38:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 202
+   },
+   "replyTo": {
+    "tweetId": "2101281757483987415",
+    "userId": "1380361959422443522",
+    "username": "crappiedoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100760387222131047",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100760387222131047",
+   "url": "https://x.com/EdGainesIII/status/2100760387222131047",
+   "conversationId": "2100306765644755059",
+   "text": "@CAvery114495 @MollySOShea @altcap Sorry, I will not share my PHI with the world; but I am thankful for the suggestion to obtain the CAC score.",
+   "lang": "en",
+   "createdAt": "2026-09-18T01:34:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 17
+   },
+   "replyTo": {
+    "tweetId": "2100757151517925731",
+    "userId": "1768267802371076096",
+    "username": "CAvery114495"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1768267802371076096",
+      "username": "CAvery114495",
+      "name": "C Avery"
+     },
+     {
+      "id": "954060455831580672",
+      "username": "MollySOShea",
+      "name": "Molly O’Shea"
+     },
+     {
+      "id": "19082500",
+      "username": "altcap",
+      "name": "Brad Gerstner"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100388316705128690",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100388316705128690",
+   "url": "https://x.com/EdGainesIII/status/2100388316705128690",
+   "conversationId": "2100306765644755059",
+   "text": "Thank you Brad—I’m a lawyer in healthcare and should know this but so should my PCP.  2 years ago when I told my PCP I wanted a CAC scan, he said, “where did you get that idea?”\n\nI said there’s this guy named Brad Gerstner who is also a lawyer, MBA, world class investor and seems like someone who wants to help people—he had never heard of you and I frankly did not care to explain.  His reply:  “yes, excellent idea.”\n\nDial forward and my cardiologist is actively managing my status now.\n\nJust a quick note to tell you thank you Brad, to keep up the good work and keep telling the world about the CAC scan—I am a walking advertisement with my friends and family especially as a baby boomer who would really like to be around for several decades.",
+   "lang": "en",
+   "createdAt": "2026-09-17T00:56:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 1516
+   },
+   "replyTo": {
+    "tweetId": "2100306765644755059",
+    "userId": "954060455831580672",
+    "username": "MollySOShea"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100308802729865303",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100308802729865303",
+   "url": "https://x.com/EdGainesIII/status/2100308802729865303",
+   "conversationId": "2100308802729865303",
+   "text": "The issues of upcoding by health plans on #MedicareAdvantage (MA) Pts have been discussed in detail here for years, but there is more.\n\nThe MA plans receive a \"per member, per month\" (PMPM) amount for MA Pts but additional amounts for \"risk adjusted\" or co-morbidities and/or chronic conditions.\n\nThe @WSJ has also done extensive reporting on the health plans' upcoding practices and reported in Q1-Q2 '25 that @UHC was under both criminal and civil investigation by DOJ.  United Health denied the allegations for months, then CEO resigned as CEO and later from the board of directors.\n\nThe non-profit Kaiser Permanente settled MA fraud and abuse allegations in Jan. '26 for $556M.\n\nNow, the HHS OIG has determined that both @UHC and @Humana have received many millions in overpayments for MA Pts.\n\nFor Humana, the overpayment was $131M with an 81% error rate.\n\nFor @UHC, their overpayment was $47M and a 73% error rate.\n\nThese recent and the prior cases lead us to one un-mistakeable conclusion--the current MA program must be seriously reformed and these potential incentives for MA plans to upcode must be removed.\n\nHumana, UnitedHealthcare received $178M in combined Medicare Advantage overpayments: OIG https://www.beckerspayer.com/payer/medicare-advantage/humana-received-130-9m-in-medicare-advantage-overpayments-oig/",
+   "lang": "en",
+   "createdAt": "2026-09-16T19:40:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 12,
+    "bookmarks": 2,
+    "views": 861
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage"
+    ],
+    "mentions": [
+     {
+      "id": "3108351",
+      "username": "WSJ",
+      "name": "The Wall Street Journal"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "24160942",
+      "username": "Humana",
+      "name": "Humana"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [
+     "https://www.beckerspayer.com/payer/medicare-advantage/humana-received-130-9m-in-medicare-advantage-overpayments-oig/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099992541135511798",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099992541135511798",
+   "url": "https://x.com/EdGainesIII/status/2099992541135511798",
+   "conversationId": "2099992541135511798",
+   "text": "I hope this makes y’all’s day like it did mine.  One of the single best tradition in all of sports, let alone college sports.\n\nWhoever had the idea to build the children’s hospital at University of Iowa next to the football stadium (well, to paraphrase Ted Lasso) “that was just brilliant.”",
+   "lang": "en",
+   "createdAt": "2026-09-15T22:43:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 887
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099920179098800236",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099922540521009265",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099922540521009265",
+   "url": "https://x.com/EdGainesIII/status/2099922540521009265",
+   "conversationId": "2099917805109829852",
+   "text": "Mr. Hammond, I am not a physician but thanks for the promotion--I am a Juris Doctor.  \n\nSince I've worked with EM docs the longest, your suggestion that they have to engage in litigation to recover reimbursements from health plans vs. the current IDR process leaves me cold.  \n\nEM docs are having to increasingly go to court because of health plans' downcoding, denials, and/or pre-payment reviews when the physicians are actually IN NETWORK!  Why are so many EM docs de-contracting?  The aforementioned factors are leading causes.\n\nPlus, EMTALA was never intended to address balance billing--it was and is the largest unfunded mandate in healthcare.\n\nI never said I read your paper--I said I read the article and provided portions and citations to it.\n\nObviously you did not read the CMS IDR Operations final rule from last June, CMS' announcements on mandatory RARC and health plan IDs for health plans in July, the TMA III opinion from August and the recent X-12 committee recommendations on additional RARCs from last week.  \n\nIt's a lot--I know--been toiling in this field for over 17 years, since the Prospect Medical Group CA Supreme Court decision in '09.  Sorry I didn't reach out but I have a day job helping physicians and hospitals to get paid fairly by health plans--which is more problematic today than ever in my 3+ decades working with Docs.\n\nFinally, your suggestions for imposing benchmarking were expressly rejected by Congress--see the rejection of then Chairman Frank Pallone (D-NJ) bill in the E&C committee in '18-19.",
+   "lang": "en",
+   "createdAt": "2026-09-15T18:05:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 3,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1811
+   },
+   "replyTo": {
+    "tweetId": "2099917805109829852",
+    "userId": "1440706483188953092",
+    "username": "HammondOnHealth"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099910696997691692",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099910696997691692",
+   "url": "https://x.com/EdGainesIII/status/2099910696997691692",
+   "conversationId": "2099910696997691692",
+   "text": "Mr. Rivet is spot on here (from LinkedIn):\n\"BCBS of Alabama just posted a 91% error rate. A physician practice at 91% would be on 100% prepayment review by the end of the week.\n\nThat's the OIG's number, from one of three Medicare Advantage audits released this year:\n\n • Priority Health: 84% error rate.\n • Gateway Health Plan: 81%.\n • BCBS of Alabama: 91%.\n\nIf a health plan found these error rates at a provider, the consequences would be severe: 100% prepayment review, a referral to the OIG, or even contract termination.\n\nBut there are double standards. These plans got a recommendation they're free to dispute. And dispute it they did. Priority Health argued the OIG has no authority to extrapolate. Back to business they go.\n\nHealth plans should face the same sanctions they place on providers. Put them on prepayment review before they receive money from the government, or remove them from selling Medicare Advantage insurance.\n\nWhy should a payer enjoy any fewer sanctions or penalties than those of a physician practice or a hospital?\"\nhttps://lnkd.in/p/d9wqMzsr",
+   "lang": "en",
+   "createdAt": "2026-09-15T17:18:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 24,
+    "quotes": 2,
+    "likes": 63,
+    "bookmarks": 11,
+    "views": 3072
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://lnkd.in/p/d9wqMzsr"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099893323032867321",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099893323032867321",
+   "url": "https://x.com/EdGainesIII/status/2099893323032867321",
+   "conversationId": "2099893323032867321",
+   "text": "Here's a trade press story on one of the think tank's set of recommendations on reforming the No Surprises Act (NSA)--and no surprise (pun intended), it is the literal wish list from the health plans.\n\n1.  The proposal suggests that EM services could be subject to arbitration or litigation instead of the current IDR process--are you kidding me? Emergency medical (EM) services were at the core of Congress' intended protections not just of the patients but also of the clinicians. EMTALA mandates that the Pt must receive medical screening and stabilizing care without regard to their ability to pay.  EMTALA offers no funding to physicians for this mandate and it is the largest unfunded mandate in healthcare.  Plus, no surprise (see previous pun comment), the health plans take advantage of EMTALA and know their members will receive care regardless of their reimbursement levels.\n\n2.  Eliminating an entire cohort of services (scheduled surgical services) from the NSA IDR process is overly broad.  There are methods and data to address those scheduled cases where the offers are outside of the realm of reasonableness.\n\n3. Interesting that the think tank wants to \"tank\" the current formula that the QPA (initial payment + mandated CPI-U adjustments currently at +28%) should be replaced w/ current in network rates.  Their proposal per this article does not even consider that while the NSA was signed in Dec. '20, there is a reason Congress anchored the QPA to Jan. '19--because the health plans had already engaged in depressing the in network rates in anticipation of the NSA being passed. So, this proposal really gives the health plans a windfall for depressing rates then, accelerating it after the NSA was passed and today--sounds like a big \"plans wins/clinicians and hospitals lose\" proposition to me.\n\n4. Finally, the think tank has proposals to strengthen the screening of potentially ineligible claims.  Apparently they have not even thought about the positive changes CMS made in the IDR Operations final rule (June '26), the mandated RARC codes that plans must use, TMA III rulings outlawing ghost rates and the health plan registration numbers in the new IDR Gateway, in significantly reducing the ineligible claim issues and restoring true, meaningful QPA rates.\n\nParagon Pitches Two-Track Framework To Reform NSA Arbitration\nSep 14, 2026, 7:26 PM CDT\n\"Inside Health Policy\nCongress should get rid of the No Surprises Act’s (NSA) federal arbitration process for elective care and either eliminate or overhaul it for emergency services, Paragon Health Institute says in a report out Monday (Sept. 14).\n\nThe recommendations from the influential think tank come as lawmakers, stakeholders and health policy experts increasingly sound the alarm over the NSA’s independent dispute resolution (IDR) process, with many warning that private equity-backed provider groups and other companies are gaming the system and driving up premiums.\n\nThe report has two main recommendations. First, Paragon suggests out-of-network providers should be able to balance bill patients for pre-planned services if those charges are disclosed and agreed to in advance and with patients' consent.\n\nFor emergency services, Paragon offers two options: either patients would continue to be held harmless from OON charges, but disputes would be addressed via private arbitration or ligation, or the IDR process could remain, but with newly imposed award limits and more oversight.\n\nIf Congress chooses the second option, Paragon recommends other tweaks, like updating the qualifying payment amount (QPA) so that it is based on current in-network rates instead of 2019 rates adjusted for inflation. Also, instead of anchoring payments to the QPA, and potentially giving insurers too much leverage, Paragon says awards should be capped at an upper percentile of in-network rates.\n\nParagon also recommends changing how arbitrators are paid and strengthening the screening of potentially ineligible disputes. Its administrative proposals include standardized arbitrator training, written explanations of decisions, routine audits, stronger conflict-of-interest protections, random assignment of disputes to prevent forum shopping and sanctions against arbitration firms that make improper eligibility or payment determinations.\n\nThe group’s recommendations are notable and could carry particular weight among Republicans because Paragon’s work and personnel have been influential with GOP lawmakers and the Trump administration.\n\nJackson Hammond, a senior policy analyst at Paragon and lead author of the report, told Inside Health Policy in an interview Monday that the think tank has been talking with several health committees in both the House and Senate about the arbitration system and educating staffers and lawmakers about its findings and recommendations.\n\n“So far, the general feedback has been that, right now, they really want to educate members on what this is,” Hammond said. “The committees want to focus on educating members around what the system is, how it currently works, what the outcomes have been and . . . these incentive problems that are fundamentally increasing costs and giving providers a lot of leverage to stay out of network that they otherwise wouldn’t have in a more market-based system.”\n\nSources recently told IHP that House Ways & Means Committee members are considering marking up legislation from Reps. Greg Murphy (R-NC) and Jimmy Panetta (D-CA) that would penalize insurers and health plans for failing to pay arbitration awards on time.\n\nLawmakers are also weighing changes to the No Surprise Enforcement Act that could keep ineligible disputes out of the process and address unusually high awards, according to sources.\n\nHammond said that even though Paragon supports that bill’s goal of ensuring that insurers pay valid awards on time, lawmakers should advance these changes as part of a broader package that also reforms the arbitration process and limits how high awards can climb.\n\n“Prompt-pay requirements are a good thing, but we argue they should be part of a broader package that includes reforms to the process of arbitration, as well as to the payment amounts to control for those outlier payments,” Hammond said.\n\nMeanwhile, Senate health committee Chair Bill Cassidy (R-LA) is planning a member roundtable for the middle of next week focused on surprise billing legislation, according to new reporting from Bloomberg Government.\n\nThis new attention on the NSA, Hammond says, is largely driven by the growing body of data on how the program is operating.\n\nVarious stakeholders, including House Energy & Commerce ranking Democrat Frank Pallone (NJ), one of the original law’s lead authors, have pointed to recent CMS data showing that 2.5 million disputes were filed in 2025, followed by another 1.4 million during the first five months of 2026. Just 10 organizations filed roughly 67% of those cases. Providers won more than 85% of arbitration decisions in 2025 and received nearly $15 billion in awards that averaged more than six times local in-network rates.\n\n“We finally are having enough evidence of trends going certain directions,” Hammond said during the interview. “What is becoming increasingly clear is how quickly this program is growing and how much the dispute volume is growing. . . . The dispute volume is 115 times higher than they predicted. The award size is significantly larger than they ever could have imagined it being.”\n\n“This is a clear example of when good intentions create bad incentives that lead to increased costs,” Hammond added. “The biggest downside of this program is how much it is incentivized to grow and how much that is going to end up costing the American health care system, simply because we were trying to do right by the patient.” -- Jalen Brown (jbrown@iwpnews.com)\"",
+   "lang": "en",
+   "createdAt": "2026-09-15T16:09:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 11,
+    "bookmarks": 5,
+    "views": 4505
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099823585082659116",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099823585082659116",
+   "url": "https://x.com/EdGainesIII/status/2099823585082659116",
+   "conversationId": "2099823585082659116",
+   "text": "The physician and supporting communities should be very clear eyed regarding the legislative efforts that the health plans will be attempting in this Congress in ‘26 &amp; the next Congress.\n\nEmployer, consumer groups urge Congress to reform NSA's IDR https://www.fiercehealthcare.com/payers/employer-consumer-groups-urge-lawmakers-reform-no-surprises-acts-idr",
+   "lang": "en",
+   "createdAt": "2026-09-15T11:32:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 5,
+    "quotes": 2,
+    "likes": 19,
+    "bookmarks": 2,
+    "views": 7651
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.fiercehealthcare.com/payers/employer-consumer-groups-urge-lawmakers-reform-no-surprises-acts-idr"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099515583075082401",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099515583075082401",
+   "url": "https://x.com/EdGainesIII/status/2099515583075082401",
+   "conversationId": "2099515583075082401",
+   "text": "Guess which health plan has been sued (yet again) by a governmental entity claiming alleged fraud?  Yes, it's United Healthcare:  @UHC has been sued by the state of Maryland claiming that its subsidiary, Optum (also one of the largest employers of physicians in the US), was allegedly involved with $126M in Medicaid fraud.\n\nhttps://www.polsinelli.com/publications/maryland-sues-optum-and-unitedhealth-group-over-alleged-126-million-medicaid-fraud-the-backlash-is-coming-for-providers",
+   "lang": "en",
+   "createdAt": "2026-09-14T15:08:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 9,
+    "quotes": 2,
+    "likes": 29,
+    "bookmarks": 4,
+    "views": 1454
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [
+     "https://www.polsinelli.com/publications/maryland-sues-optum-and-unitedhealth-group-over-alleged-126-million-medicaid-fraud-the-backlash-is-coming-for-providers"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099193113117884476",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099193113117884476",
+   "url": "https://x.com/EdGainesIII/status/2099193113117884476",
+   "conversationId": "2099193113117884476",
+   "text": "So great—the young lady from the lemonade stand has a big moment!  She’s a true fan and knows the players well.",
+   "lang": "en",
+   "createdAt": "2026-09-13T17:46:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 816
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099132796338110941",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099134342454796364",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099134342454796364",
+   "url": "https://x.com/EdGainesIII/status/2099134342454796364",
+   "conversationId": "2099128967059894631",
+   "text": "@swankywolverine Another excellent recap Swanky—&amp; the team to the south losing after a 20 pt lead in the 4th is the cherry on top!",
+   "lang": "en",
+   "createdAt": "2026-09-13T13:53:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 489
+   },
+   "replyTo": {
+    "tweetId": "2099128967059894631",
+    "userId": "782302797584818176",
+    "username": "swankywolverine"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "782302797584818176",
+      "username": "swankywolverine",
+      "name": "Swanky Wolverine"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098891031659839816",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2098891031659839816",
+   "url": "https://x.com/EdGainesIII/status/2098891031659839816",
+   "conversationId": "2098878526124421206",
+   "text": "@swankywolverine Swanky hits the football equivalent of a 175 MPH serve @usopen",
+   "lang": "en",
+   "createdAt": "2026-09-12T21:46:32.000Z",
+   "type": "reply",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 105
+   },
+   "replyTo": {
+    "tweetId": "2098878526124421206",
+    "userId": "782302797584818176",
+    "username": "swankywolverine"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "782302797584818176",
+      "username": "swankywolverine",
+      "name": "Swanky Wolverine"
+     },
+     {
+      "id": "14836197",
+      "username": "usopen",
+      "name": "US Open Tennis"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098810050240241741",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2098810050240241741",
+   "url": "https://x.com/EdGainesIII/status/2098810050240241741",
+   "conversationId": "2098810050240241741",
+   "text": "Beautifully stated and truly a class act giving gratitude!",
+   "lang": "en",
+   "createdAt": "2026-09-12T16:24:44.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 640
+   },
+   "replyTo": null,
+   "quotedTweetId": "2098623601842802992",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098783833017536802",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2098783833017536802",
+   "url": "https://x.com/EdGainesIII/status/2098783833017536802",
+   "conversationId": "2098783833017536802",
+   "text": "Hilarious and true! PB scoring is way worse!",
+   "lang": "en",
+   "createdAt": "2026-09-12T14:40:33.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 649
+   },
+   "replyTo": null,
+   "quotedTweetId": "2098455651299311936",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

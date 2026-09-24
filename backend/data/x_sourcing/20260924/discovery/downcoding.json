@@ -1,0 +1,1632 @@
+{
+ "key": "downcoding",
+ "query": "(downcoding OR downcoded OR \"down-coding\" OR \"level 5\" OR \"E/M\") (Cigna OR Aetna OR UHC OR payer OR insurer) (denied OR downcode OR paid) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2006101828753350877",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2006101828753350877",
+   "url": "https://x.com/WallStreetApes/status/2006101828753350877",
+   "conversationId": "2006101828753350877",
+   "text": "Medical Billing Company owner confirms Cigna Health Insurance has begun automatically “Downcoding”\n\nIf Cigna thinks a service is too expensive, they will automatically change it to a different code and pay the doctor the new lower amount\n\nI made posts warning about this, it’s happening\n\nDowncoding occurs when an insurer reduces a billed procedure code to a lower-level one, resulting in lower reimbursement. In healthcare\n\nAn example of this is: A new patient exam and follow up patient exams, they're going to take those high level exams when your doctor's actually spending time with you trying to figure things out coded at a 4 or a 5. These are higher level exams and they're gonna automatically down code these exams to a 2 or a 3. \n\nSo the doctor won’t get paid as much for these exams, and critics say this will greatly impact patient care\n\nThis is fraud. They’re purposefully and falsely changing records and billing requests",
+   "lang": "en",
+   "createdAt": "2025-12-30T20:35:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 287,
+    "retweets": 2095,
+    "quotes": 120,
+    "likes": 5785,
+    "bookmarks": 1360,
+    "views": 413536
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2006101692019032064",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2006101692019032064/vid/avc1/720x1280/ZM-lFfmJJjLel3Cd.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2006101692019032064/img/Upthv_vUaHW16vCA.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 143
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1981697266336346282",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1981697266336346282",
+   "url": "https://x.com/jammles9/status/1981697266336346282",
+   "conversationId": "1981697266336346282",
+   "text": "‼️ The Truth Behind the Shutdown: Insurer Subsidies & Campaign Money\n\n1. How the money flows: ACA “premium tax credits” are paid monthly from the U.S. Treasury directly to health-insurance companies on behalf of enrollees.\n\n2. Shutdown Problem: Those payments are mandatory spending, so they keep going during a shutdown, even while many federal workers and military families face pay/benefit disruptions.\n\n3. Year-end stakes: When those ACA subsidies lapse at year’s end, insurers lose billions they’re counting on for next year.\n\n4. Political incentive: If that money dries up, the health-insurance lobby won’t fund Democrat campaigns at the same level.\n\n5. Why the hard line: Democrats dig in to keep the subsidy pipeline open, protecting cash flow first, not care.\n\n6. Who sets prices: Insurers and big hospital systems negotiate prices and set premiums. When premiums jump, that’s on them. NOT because temporary ACA tax credits expired! \n\n7. Accountability: Hold insurers and hospitals responsible for soaring premiums and opaque pricing. They’re driving costs while guarding the subsidy stream.\n\n8. Bottom line: This shutdown fight is about money, not healthcare!! \n\npreserve subsidies → preserve insurer billions → preserve campaign cash.",
+   "lang": "en",
+   "createdAt": "2025-10-24T12:20:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1497159235737726976",
+    "username": "jammles9",
+    "name": "Jammles",
+    "url": "https://x.com/jammles9",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036974678904885248/gC8a0PGD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 37,
+    "retweets": 318,
+    "quotes": 51,
+    "likes": 529,
+    "bookmarks": 74,
+    "views": 42475
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1981694314662027264",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1981694314662027264/vid/avc1/1080x1920/yOqzoh5tGSLEQVtf.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1981694314662027264/img/ldfHHghqcnNmt1kp.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 255
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1953432036825247911",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1953432036825247911",
+   "url": "https://x.com/DrBruggeman/status/1953432036825247911",
+   "conversationId": "1953432036825247911",
+   "text": "Today’s assault on physician practices comes from Cigna\n\nCigna will now be able to reduce your E/M code down one level when you code Level 4 or Level 5 new and follow up patient appointments.  If they find that you aren’t coding correctly, they reserve the right to kick you out of their network.\n\nCoding E/M visits is so complicated that there are a seemingly endless number of classes given by each specialty to try to educate their physicians on how to accurately tell the insurer how much work was done.  We already don’t have enough physicians to take care of everyone and now we want to kick physicians out of network for this convoluted process for getting paid?  Give me a break.  \n\nLet doctors be doctors.  Stop the death by a thousand paper cuts.\n\nhttps://providernewsroom.com/cigna-healthcare/new-reimbursement-policy-for-professional-evaluation-and-management-services-claims-effective-october-1-2025/",
+   "lang": "en",
+   "createdAt": "2025-08-07T12:24:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 70,
+    "retweets": 107,
+    "quotes": 25,
+    "likes": 443,
+    "bookmarks": 64,
+    "views": 47696
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1953432032534462464",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gxv8FXgWAAARDXM.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gxv8FXgWAAARDXM.jpg",
+     "width": 1621,
+     "height": 1869,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://providernewsroom.com/cigna-healthcare/new-reimbursement-policy-for-professional-evaluation-and-management-services-claims-effective-october-1-2025/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2069069849494462647",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2069069849494462647",
+   "url": "https://x.com/InvestingDoc/status/2069069849494462647",
+   "conversationId": "2069069849494462647",
+   "text": "I pay about $2,800 a month to Aetna for health insurance for my family.\n\nI still have a $5,000 deductible.\n\nEven as a doctor, health insurance is really starting to feel like a scam.\n\nWhen I see a patient in clinic as a doctor...all of a sudden, I'm the greedy doctor because my staff is trying to collect $125 for their copay to talk about their 12 medical problems that I can get sued for millions of dollars if I give bad advice.\n\nNow Aetna has been automatically downcoding most level 4 visits to level 3, and by billers then have to resubmit the entire visit to get it paid at its appropriate level, a level 4.\n\nCould a worse system exist?",
+   "lang": "en",
+   "createdAt": "2026-06-22T14:47:48.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "748186945575063552",
+    "username": "InvestingDoc",
+    "name": "InvestingDoc",
+    "url": "https://x.com/InvestingDoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2062633236509999104/G3Vh2dDD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 211,
+    "retweets": 86,
+    "quotes": 11,
+    "likes": 904,
+    "bookmarks": 36,
+    "views": 55758
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1976258835472875812",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1976258835472875812",
+   "url": "https://x.com/EdGainesIII/status/1976258835472875812",
+   "conversationId": "1976258835472875812",
+   "text": "More on the newly announced commercial health plans AI tools to downcode, deny and/or create systemic pre payment reviews, per Modern Healthcare.\n\nLetters and advocacy are a great initial step by the physician advocacy community but ultimately litigation may be the answer for groups that are significantly damaged .\n\nAetna and Cigna are under fire over new payment polices.  (Modern Healthcare Illustration/Adobe Stock)\n\n📷\nBy\nNoah Tong\n\nOctober 08, 2025 05:00 AM\nPhysicians and hospitals are up in arms about new tactics some health insurance companies are using to reduce payments.Under a policy Cigna is rolling out this month, six Current Procedural Terminology Evaluation and Management billing codes are being “downcoded” through an automated process that results in lower reimbursements for services such as office visits and outpatient consultations.Separately, CVS Health subsidiary Aetna is instituting a policy under which some hospital admissions will be automatically approved but reimbursed at lower observation rates.Related: AI, remote monitoring highlighted in AMA’s billing code changesHere’s what you need to know about these new approaches to provider reimbursement.\n\nWhat is Cigna’s rationale?\nHealth insurance companies, the Centers for Medicare and Medicaid Services and the Health and Human Services Department Office of Inspector General have identified providers “upcoding” claims to generate higher payments as a problem to address.Cigna aims to curtail upcoding by a small group of outliers that affix codes for complex services to claims for basic care, such as treatments for ear infections and sore throats, a Cigna spokesperson said the evaluation and management, or E/M, policy applies to just 1% of in-network providers and providers may appeal for higher payments or apply for exemptions, the Cigna spokesperson said.Cigna Healthcare, the company’s insurance subsidiary, implemented this methodology last Wednesday everywhere except California, where it’s under regulatory review. The company expects the state to allow it to move forward, the spokesperson said.Why do providers object to the Cigna E/M policy?\n\nProvider groups such as the American Medical Association, the American Academy of Family Physicians, the Texas Medical Association and the California Medical Association have expressed concerns that their members will be underpaid, and complained that Cigna is using an opaque process to determine reimbursements and pressuring them to avoid high-level billing codes.Moreover, automatically downcoding claims and instructing providers to appeal adds more red tape and administrative expense to the system, California Medical Association Chief of Staff Janice Rocco wrote in a letter to Peter Welch, president of Cigna Healthcare’s Northern California and the Pacific Northwest operations Aug. 20.“CMA opposes automatic or unwarranted downcoding of claims, and we strongly disagree that simply reducing the E/M [Current Procedural Terminology] code by a single level would result in improved claims accuracy,” Rocco wrote. The practice also conflicts with federal and state policy, she wrote.Sen. Richard Blumenthal (D-Conn.) criticized the policy in a letter sent to Cigna Healthcare Chief Medical Officer Dr. Amy Flaster on Sept. 11. “This new policy will significantly increase administrative burdens and costs for physicians while jeopardizing patient care. I urge you to reverse this decision,” he wrote.The Cigna policy also stoked worry among providers about the growing use of software to automate claims and reimbursements. Cigna doesn’t use artificial intelligence to make final determinations and doesn’t deploy AI for the evaluation and management policy, a spokesperson said.CMS is aware of provider complaints regarding coding practices and AI, and instructs insurers to comply with the Affordable Care Act of 2010, the No Surprises Act, and other federal and state regulations, a spokesperson said.Are other insurers ‘downcoding’ E/M claims?\n\nAetna, Humana and some Blue Cross and Blue Shield companies have taken similar approaches to E/M claims, provoking ire from providers. Rather than standard denials of payment on a case-by-case basis, insurers increasingly are systematically downcoding them, providers have http://said.Aetna’s program is “highly targeted” and only applies to the 3% of its in-network providers that submit higher-intensity codes than CMS or the AMA recommends, a spokesperson said.The Association for Clinical Oncology asked CMS to scrutinize how UnitedHealth Group subsidiary UnitedHealthcare, Elevance Health, Centene and Molina Healthcare handle E/M claims in a letter sent Sept. 22.These companies did not respond to requests for comment.What is Aetna’s ‘two-midnight’ policy?\nAetna will implement a “level of severity inpatient payment policy” for hospital services under its Medicare Advantage plans on Nov. 15.Under this twist on the “two-midnight rule,” Aetna will approve admissions for more than one midnight for members who “urgently or emergently” present to hospitals. Although not subject to medical necessity reviews, those services will be reimbursed at the observation rate if Aetna deems they aren’t in accordance with Milliman Care Guidelines for inpatient http://care.Aetna did not respond to a request for comment.Why do providers object to the Aetna Medicare Advantage inpatient policy?\n\nThe American Hospital Association, the Federation of American Hospitals and other industry organizations characterized Aetna’s policy as an evasion of the two-midnight standard intended to ensure that hospitals are appropriately paid for inpatient care. Under the two-midnight rule, Medicare Advantage plans and fee-for-service Medicare must pay inpatient rates if patients remain in the hospital for at least two midnights.“This policy could erode the transparency consumers rely on to make informed decisions about their care, undermine important regulatory protections that safeguard patients’ coverage and jeopardize the ability of hospitals to provide high-quality, accessible care to all who need it,” AHA President and CEO Rick Pollack wrote to Aetna President Steve Nelson on Sept. 15.This reimbursement policy violates Aetna’s contracts with providers and will depress reimbursements, the Healthcare Association of New York State, which represents hospitals, wrote in a letter to CMS Administrator Dr. Mehmet Oz on Aug. 20.The AHA and the Federation also contend that this policy will distort the Medicare Advantage quality scores Aetna receives.“By automatically approving inpatient stays but then depriving full coverage for inpatient stays through severity coverage and partial payments, it appears that Aetna intends to inflate its approval numbers and obfuscate its ultimate inpatient coverage denials, misleading regulators and the public,” Federation of American Hospitals President and CEO Chip Kahn wrote Oz on Sept. 24. “Likewise, by failing to provide notice of adverse organization determinations, Aetna will suppress appeals in ways that directly impact Aetna’s performance on key measures in the Medicare Advantage Star Ratings program.”\nhttp://www.modernhealthcare.com/insurance/mh-aetna-cigna-downcoding-policy-explainer/",
+   "lang": "en",
+   "createdAt": "2025-10-09T12:09:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 393
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://said.aetna/",
+     "http://care.aetna/",
+     "http://www.modernhealthcare.com/insurance/mh-aetna-cigna-downcoding-policy-explainer/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1250664550484946944",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1250664550484946944",
+   "url": "https://x.com/drmel63/status/1250664550484946944",
+   "conversationId": "1250249422224719874",
+   "text": "@MarissaFalk @Covid19Docs Perspective - this is what Aetna paid for a level 5 - appropriately coded and billed - service - specialist, not primary care... https://x.com/drmel63/status/1250664550484946944/photo/1",
+   "lang": "en",
+   "createdAt": "2020-04-16T05:57:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "704390158825684992",
+    "username": "drmel63",
+    "name": "Dr M",
+    "url": "https://x.com/drmel63",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/704391615352336384/EatM5jk8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1250664544956891137",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EVtAxv9UwAEWqq9.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EVtAxv9UwAEWqq9.jpg",
+     "width": 2048,
+     "height": 826,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1704187621792993280",
+      "username": "MarissaFalk",
+      "name": "Marissa"
+     },
+     {
+      "id": "1380644289319952389",
+      "username": "Covid19Docs",
+      "name": "COVID-19 Docs"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1962037506850918438",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1962037506850918438",
+   "url": "https://x.com/RuphaKenya/status/1962037506850918438",
+   "conversationId": "1962037506850918438",
+   "text": "SUNDAY NOTE: Discrimination and misplaced national health priorities\n\nWhy is there distress among small to medium tier hospitals in Kenya while the largest hospitals are largely silent? \n\nCLAIMS:\nIn the last 10 months from October 2024 to Mid-August 2025, healthcare facilities received 4.5M visits and generated Kshs 93B in claims. \n\nLevel 3 facilities (health centers, nursing homes, sub-county hospitals) generated claims worth Kshs 16.8B. There are about 1980 level 3 hospitals in Kenya.\n\nLevel 4 facilities (Large Sub-County hospitals, Medium sized private and faith based) generated claims worth Kshs 39B. There are about 850 level 4 hospitals in Kenya. These are the engine and backbone of our health system. \n\nLevel 5 hospitals ( the largest County hospitals, large private and faith based hospitals) generated claims worth Kshs 22B. There are about 90 Level 5 hospitals in Kenya. \n\nLevel 6 hospitals (National Referral Hospitals) these are 9 if private and FBO are included. They generated claims worth Kshs. 12.8B \n\nPAYMENTS: \nLevel 3 and 4 facilities (2,850 hospitals) - Kenya's \"engine of health\" have received about 50% payment (Kshs 27B) of the combined Kshs 55B claims they have generated. \n\nLevel 5&6 facilities (about 99 hospitals) have received 80% of their claims paid (Kshs 27B out of 34B in claims). \n\nLast week, quietly Social Health Authority released 1.7B to the 99 Level 5&6 hospitals. There was no list posted on SHA website. The selective transparency is questionable. Was SHA afraid that there would be an uproar if a list showing just a few facilities sharing a billion plus (approx 170M per facility was made public? \n\nA key concern here is the upside down nature of healthcare in Kenya. To achieve UHC and liberate our people from \"poverty due to illness\" we have to intentionally pay and protect the financial health of level 2-4 community health facilities. \n\nHowever we seem determined to fund expensive care at hospitals that only a few Kenyans can access. @_shakenya @HonAdenDuale @NationAfrica @amenya_nelson @Lasterbosire @BrianLishenga",
+   "lang": "en",
+   "createdAt": "2025-08-31T06:19:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1170750452620832769",
+    "username": "RuphaKenya",
+    "name": "RUPHA_Kenya",
+    "url": "https://x.com/RuphaKenya",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1771201999427571712/bllkXchD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 28,
+    "quotes": 2,
+    "likes": 33,
+    "bookmarks": 2,
+    "views": 2472
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "619826034",
+      "username": "_shakenya",
+      "name": "Social Health Authority"
+     },
+     {
+      "id": "561133976",
+      "username": "HonAdenDuale",
+      "name": "Hon. Aden Duale, EGH"
+     },
+     {
+      "id": "25979455",
+      "username": "NationAfrica",
+      "name": "Daily Nation"
+     },
+     {
+      "id": "2723825049",
+      "username": "amenya_nelson",
+      "name": "Nelson Amenya"
+     },
+     {
+      "id": "391250091",
+      "username": "Lasterbosire",
+      "name": "Dr.Bosire Wairimu MD, MSc, MBA,LLB."
+     },
+     {
+      "id": "1721518176301666304",
+      "username": "BrianLishenga",
+      "name": "Dr Brian Lishenga"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2041884191844155794",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2041884191844155794",
+   "url": "https://x.com/getsharkproof/status/2041884191844155794",
+   "conversationId": "2041884191844155794",
+   "text": "Insurance companies were sued for downcoding in the early 2000s.\n\n900,000 physicians joined the class action. The insurers settled for hundreds of millions. Cigna alone paid $140 million and agreed in writing to stop.\n\nThe settlement agreements expired. The downcoding came back. Same practice. Same insurers. Different decade.\n\nJefferson Health just sued Aetna in 2026 for the same underlying mechanic unilaterally cutting payments after care was already delivered.\n\nThis isn't a broken system. It's a system working exactly as designed for the people who can outlast the agreements.\n\nThe question is who's keeping track of when those agreements expire.",
+   "lang": "en",
+   "createdAt": "2026-04-08T14:21:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2008712943136108545",
+    "username": "getsharkproof",
+    "name": "Ash Bajpai",
+    "url": "https://x.com/getsharkproof",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2056120856104067072/Lyza56g2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 39
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2035343744061345894",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2035343744061345894",
+   "url": "https://x.com/EdGainesIII/status/2035343744061345894",
+   "conversationId": "2035343744061345894",
+   "text": "1/Big congrats to the MD Medical Society on their advocacy.\n\nLet’s be clear: “Auto-downcoding” (here of new & established office E&M codes) is, contrary to @Cigna statement, not compliant w/ AMA CPT guidelines & obviously violates MD law.  \n\nHealth plans are creating their justifications out of whole cloth as there is no support in CPT, Medicare, the law or the universe for what they are attempting.\n\nIt is critically important that the physician & supporting advocacy community challenge & turn back the health plans’ massive deployment of AI, ML & bots to auto-downcode, deny & engage in multi-yr pre payment reviews.\n\nMaryland fines Cigna $80K, demands halt to automatic downcoding https://www.beckerspayer.com/legal/maryland-fines-cigna-80k-demands-halt-to-automatic-downcoding/",
+   "lang": "en",
+   "createdAt": "2026-03-21T13:12:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 29,
+    "bookmarks": 3,
+    "views": 1309
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "37687077",
+      "username": "Cigna",
+      "name": "Cigna Healthcare"
+     }
+    ],
+    "urls": [
+     "https://www.beckerspayer.com/legal/maryland-fines-cigna-80k-demands-halt-to-automatic-downcoding/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2084701173257298424",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2084701173257298424",
+   "url": "https://x.com/ASTRO_org/status/2084701173257298424",
+   "conversationId": "2084701173257298424",
+   "text": "Having issues with the 2026 Revised Treatment Delivery Codes?\n\nVisit ASTRO's NEW Payer Support and Resolution Center if:\n- You got denied or downcoded\n- You are getting paid the wrong amount\n- You want to report an issue\n\nLearn more: https://ow.ly/CQHh50YXIAI https://x.com/ASTRO_org/status/2084701173257298424/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-04T18:01:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33898299",
+    "username": "ASTRO_org",
+    "name": "ASTRO",
+    "url": "https://x.com/ASTRO_org",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036831316180602880/amjs9Kv4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 1097
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2084701170199605248",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO5Yq0iWsAAGQYr.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HO5Yq0iWsAAGQYr.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/CQHh50YXIAI"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2069740291817406544",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2069740291817406544",
+   "url": "https://x.com/EdGainesIII/status/2069740291817406544",
+   "conversationId": "2069740291817406544",
+   "text": "1/A year after promising change and reform, UnitedHealth @UHC opens its doors.\n\nOne Exec asked “Am I missing something here?  Are we part of the problem?”\n\nFor decades, w/ due respect, UHC has been a huge problem for physicians & hospitals—witness the degree of de-contracting in the past 3-4 yrs.—and it has earned its reputation as the most disliked health plan w/ systemic denials, downcoding, no pay claims & prior auth.\n\nNow your firm is under criminal & civil investigation for #MedicareAdvantage fraud which y’all denied for months in the spring of ‘25–so it this just the next big PR campaign?\n\n  https://www.beckerspayer.com/payer/a-year-after-promising-change-and-reform-unitedhealth-opens-its-doors/",
+   "lang": "en",
+   "createdAt": "2026-06-24T11:11:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 1,
+    "views": 498
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage"
+    ],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [
+     "https://www.beckerspayer.com/payer/a-year-after-promising-change-and-reform-unitedhealth-opens-its-doors/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1951511399173173637",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1951511399173173637",
+   "url": "https://x.com/MountKenyaUni/status/1951511399173173637",
+   "conversationId": "1951511399173173637",
+   "text": "Dr. Patrick Amoth @DrPatrickAmoth, Director General of Health, paid a courtesy call to the MKU VC hosted by the College of Health Sciences. \nHe was briefed on health programs, the JICA malaria project, and MKU’s Thika Level 5 Hospital partnerships. He emphasized UHC goals, urged MoH–university collaboration and pledged support for upcoming programs like Dental Surgery.\n\n#UnlockwithMKU\n#HealthScience #CollegeofHealthScience",
+   "lang": "en",
+   "createdAt": "2025-08-02T05:12:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "609134638",
+    "username": "MountKenyaUni",
+    "name": "MountKenyaUniversity",
+    "url": "https://x.com/MountKenyaUni",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1819644443755958272/tUDKOQlB_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 30,
+    "bookmarks": 0,
+    "views": 1808
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1951509384200073217",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxUncgUWMAEVjRk.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GxUncgUWMAEVjRk.jpg",
+     "width": 2080,
+     "height": 1389,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1951509383176749057",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxUnccgXgAEUrfN.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GxUnccgXgAEUrfN.jpg",
+     "width": 2080,
+     "height": 1389,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1951509383684268032",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxUnceZXoAA8SG2.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GxUnceZXoAA8SG2.jpg",
+     "width": 2080,
+     "height": 1389,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1951509384825126912",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxUncipXwAAN-35.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GxUncipXwAAN-35.jpg",
+     "width": 2080,
+     "height": 1389,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "UnlockwithMKU",
+     "HealthScience",
+     "CollegeofHealthScience"
+    ],
+    "mentions": [
+     {
+      "id": "1248841482192199682",
+      "username": "DrPatrickAmoth",
+      "name": "Dr. Patrick Amoth, CBS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1901804161433223577",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1901804161433223577",
+   "url": "https://x.com/fammedfeisty/status/1901804161433223577",
+   "conversationId": "1901804161433223577",
+   "text": "Yet another Doctor caucus (Yawn!) and yet Congress (including both parties) continues to IGNORE the best and most efficient way to improve the health and health care of everyone in the U.S. - invest more, LOTS MORE, in Family Medicine and primary care payment and training. \n\nThis could be easily paid for by reducing the overpayments to MA plans ($60 - $80 Billion annually), prioritizing Medicare GME dollars for primary care training slots (especially the Teaching Health Center primary care slots), providing loan repayment for those truly entering primary care (based on their type of practice at least 5 years after medical school graduation), reducing annual payment updates to hospitals and redirect to primary care, eliminating payments for facility fees in hospital owned/affiliated  practices (even those on the hospital campus) and redirecting those funds to the above, enacting site-neutral payment, re-valuing the services of primary care (mainly E/M services) as compared to all other CPT codes (based on actual time data from non-physician sources such as hospital and insurer data about OR pre, post, and intra-service time), and in Medicare and private health plans mandate a different conversion factor just for primary care specialties - one that can be used to more easily adjust and improve primary care payment without impacting RVUs (once they have corrected for primary care).  \n\nNext, assessing the quality of primary care practice should be based on the Starfield 4 C's:  comprehensiveness, first contact, continuity, and care coordination - and NOT the current reductionist model of 'core measure sets' that only assess diagnoses but not the patient!\n\nAnd finally, primary care payment should be transitioned to an appropriately risk-adjusted, and well defined capitated model - but only in conjunction with the above.  PAY ATTENTION CONGRESS!\n\nhttps://www.medpagetoday.com/publichealthpolicy/washington-watch/114679",
+   "lang": "en",
+   "createdAt": "2025-03-18T01:13:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "372323479",
+    "username": "fammedfeisty",
+    "name": "Douglas Henley, MD, FAAFP",
+    "url": "https://x.com/fammedfeisty",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1644404477108142080/SxlshiL7_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 78
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.medpagetoday.com/publichealthpolicy/washington-watch/114679"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2003481094482522453",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2003481094482522453",
+   "url": "https://x.com/LighthouseDPC/status/2003481094482522453",
+   "conversationId": "2003481094482522453",
+   "text": "My letter to Channel 13 news here:\n\nI have recently received an Riverside ER bill from May 2025 for $14,000! No Itemized bill. Riverside said they did not accept my Health Insurance so I was made a Cash Payer.\n\nI asked for a Transparent Itemized bill in accordance with the Federal HIPAA law. They offered to cut the bill in half to $7,000. I insisted on an itemized bill. The 1st Bill they sent was NEITHER Itemized or Transparent and a clear violation of Federal Regulations. How many other people are these hospitals Price gouging. I also remind you all of our hospitals are SUBSIDIZED with Taxpayer money as the are all  UNTAXED \"Nonprofit\"\n\nI finally got a real Itemized bill like the one you get in a restaurant. The $14,000 bill is actually only $2,300. Medication costs could not be verified as their wholesale prices are NOT Transparent. But seeing the Price Gouging they do with everything else I'm sure they paid pennies for the medications.\n\nRiverside charged $6,850 for 3 CTs we get for $413 cash on the Free Market in the community. They charged $2,111 for a Head CT I get for $115 for my patients.\n\nRiverside charged $320 for an EKG costing $18 here at a Cardiologists office. They charged $17 for the Cardiologist to read it. They charged $303 for the technician to put 12 stickers on, press the start then print button then give the piece of paper to the Doctor. Why does the technician cost $303 and the Doctor cost $17? This is criminal.\n\nFor the level 5 visit they charge a price range based on cost of living. Think Bristol VA vs LA. Riverside charged OVER LA prices for Newport News that even Medicare doesn't allow.\n\nAllow while not even paying Property taxes here in Newport News. I pay their property taxes and this is the thanks I get. Riverside has prime real estate all over the Peninsula.\n\nWould you please cover this? This is why Health Insurance is so expensive and we are all going BROKE!\n#healthcare #HealthInsurance #Hospital #Corruption #scam #greedy",
+   "lang": "en",
+   "createdAt": "2025-12-23T15:01:30.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1525987430851035136",
+    "username": "LighthouseDPC",
+    "name": "Humane Healthcare for All",
+    "url": "https://x.com/LighthouseDPC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791460285317840897/2ErGEZj8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 16,
+    "retweets": 55,
+    "quotes": 9,
+    "likes": 162,
+    "bookmarks": 25,
+    "views": 9114
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "healthcare",
+     "HealthInsurance",
+     "Hospital",
+     "Corruption",
+     "scam",
+     "greedy"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2017332515455877379",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2017332515455877379",
+   "url": "https://x.com/ACRheum/status/2017332515455877379",
+   "conversationId": "2017332515455877379",
+   "text": "Are you seeing Aetna downcode or request records for your level 4–5 E/M claims? You’re not alone—and you don’t have to navigate it alone. \n\nAs an ACR member, you can: \n• Get one-on-one coding and audit support from ACR staff. \n• Access education on best practices for documentation and appeals. \n• Share your Aetna experience so ACR can advocate on your behalf.\n \nIf Aetna’s Claim and Code Review Program is affecting your practice, contact ACR for help with claims review and appeals support at practice@rheumatology.org.",
+   "lang": "en",
+   "createdAt": "2026-01-30T20:22:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "145378129",
+    "username": "ACRheum",
+    "name": "American College of Rheumatology",
+    "url": "https://x.com/ACRheum",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1113451599152676864/E6Wzh63J_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 394
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2017332494236811265",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_8BNxjWgAEF1OU.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_8BNxjWgAEF1OU.jpg",
+     "width": 1024,
+     "height": 512,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1980750443358609429",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1980750443358609429",
+   "url": "https://x.com/LighthouseDPC/status/1980750443358609429",
+   "conversationId": "1980750443358609429",
+   "text": "- If you can't AFFORD Medical Care you are DENIED Medical Care.\n- Please explain to me why Health Insurance needs more Middle Class Tax money to pay PRICE GOUGING Greedy Hospitals!!! This is Riverside Hospital in Newport News Virginia.\n- Before Health Insurance Steals from Tax Payers maybe they should STOP Stealing from the sick and suffering.\n1. We should be shopping for Medical Care. You can buy Medical Care on the Free Market. You buy everything on the Free Market, Food, Clothes, Furniture, Car Repairs, Housing Repairs, everything. Why aren’t you shopping for your Medical Care? Here are some examples of the Hospital Owned/Free Market Medical Care prices our patients get: Abdominal Pelvic CT - $3,814/$400; Head CT - $2,526.00/$164.34; Mammogram - $339/$135; Abdominal MRI - $2,667/$700; Brain MRI - $3,425/$700; Pelvic US - $604.50/$110.61; Dexa Scan - $513.5/$39.70; CMP(1 lab) - $206.50/$2.80; EKG - $390/$30; Echocardiogram - $1,536/$200; Stress Echo - $1,139/$250; Sleep Study - $507/$150.\n2. My Riverside(Virginia) ER Bill for $14,000 only really costs $2,550. \n3. I got an ER bill for $14,000. The Hospital reduced the bill to $7,000 since they didn't take my Health Insurance. After fighting for an itemized bill, I gathered the local Free Market Prices and average/Medicare prices. As a Cash Payer, Why should I pay more than the Government(Medicare)? \n4. Riverside billed for an ER visit(Level 5, $3,569.25, Avg $1,784) AND a Trauma Evaluation($2,612.50, Medicare - $240). Medicare does NOT allow them to bill both(Unless the Trauma is seen 2nd). It's double billing and Fraud. I walked out of my house to the ambulance. I was alert and oriented. Apparently our Health Insurance pays both without question yet needs our tax money.\n5. I had 3 CTs. Riverside hospital Cash price billed $6,861, Under CT-General. I had to ask 2x for an itemized bill. Free Market Cash price = $413.38. No wonder they tried to hide it. \n6. EKG - 2 billing CPT codes: 93005 - cost for staff obtaining the EKG = $303.45. Average pay $9.00. 93010 Doctor Read of EKG = $17.00, Cash price in community. \n7. Tylenol 1000 mg = $39.90. Zofran 4 mg = $2.50. #Healthcare #Hospitals #Healthinsurance #greedy #Corruption",
+   "lang": "en",
+   "createdAt": "2025-10-21T21:38:00.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1525987430851035136",
+    "username": "LighthouseDPC",
+    "name": "Humane Healthcare for All",
+    "url": "https://x.com/LighthouseDPC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791460285317840897/2ErGEZj8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 176
+   },
+   "replyTo": null,
+   "quotedTweetId": "1980730907146482007",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1980750429047623680",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G30KBVAWEAAIicA.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G30KBVAWEAAIicA.jpg",
+     "width": 4032,
+     "height": 3024,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Healthcare",
+     "Hospitals",
+     "Healthinsurance",
+     "greedy",
+     "Corruption"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2074554323082621335",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2074554323082621335",
+   "url": "https://x.com/ASTRO_org/status/2074554323082621335",
+   "conversationId": "2074554323082621335",
+   "text": "Having issues with the 2026 Revised Treatment Delivery Codes?\n\nVisit ASTRO's NEW Payer Support and Resolution Center if:\n- You got denied or downcoded\n- You are getting paid the wrong amount\n- You want to report an issue\n\nLearn more: https://ow.ly/CQHh50YXIAI https://x.com/ASTRO_org/status/2074554323082621335/photo/1",
+   "lang": "en",
+   "createdAt": "2026-07-07T18:01:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33898299",
+    "username": "ASTRO_org",
+    "name": "ASTRO",
+    "url": "https://x.com/ASTRO_org",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036831316180602880/amjs9Kv4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 710
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2074554319462977541",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HMpMKX7X0AUDjTn.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HMpMKX7X0AUDjTn.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/CQHh50YXIAI"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2037228429985100224",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2037228429985100224",
+   "url": "https://x.com/ASTRO_org/status/2037228429985100224",
+   "conversationId": "2037228429985100224",
+   "text": "Having issues with the 2026 Revised Treatment Delivery Codes?\n\nVisit ASTRO's NEW Payer Support and Resolution Center if:\n- You got denied or downcoded\n- You are getting paid the wrong amount\n- You want to report an issue\n\nLearn more: http://astro.org/PayerSupport https://x.com/ASTRO_org/status/2037228429985100224/photo/1",
+   "lang": "en",
+   "createdAt": "2026-03-26T18:01:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33898299",
+    "username": "ASTRO_org",
+    "name": "ASTRO",
+    "url": "https://x.com/ASTRO_org",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036831316180602880/amjs9Kv4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 769
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2037228426872942593",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HEWwdeYW8AEm9_k.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HEWwdeYW8AEm9_k.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://astro.org/PayerSupport"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2064347316748800408",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2064347316748800408",
+   "url": "https://x.com/ASTRO_org/status/2064347316748800408",
+   "conversationId": "2064347316748800408",
+   "text": "Having issues with the 2026 Revised Treatment Delivery Codes?\n\nVisit ASTRO's NEW Payer Support and Resolution Center if:\n- You got denied or downcoded\n- You are getting paid the wrong amount\n- You want to report an issue\n\nLearn more: https://ow.ly/CQHh50YXIAI https://x.com/ASTRO_org/status/2064347316748800408/photo/1",
+   "lang": "en",
+   "createdAt": "2026-06-09T14:02:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33898299",
+    "username": "ASTRO_org",
+    "name": "ASTRO",
+    "url": "https://x.com/ASTRO_org",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036831316180602880/amjs9Kv4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 356
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2064347313145872384",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HKYI8aUXgAADDim.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HKYI8aUXgAADDim.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/CQHh50YXIAI"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2041885739160346717",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2041885739160346717",
+   "url": "https://x.com/EdGainesIII/status/2041885739160346717",
+   "conversationId": "2041885739160346717",
+   "text": "Thank you Dr. Murphy for your advocacy and strong representation of physicians in Congress.  @\n\n@UHC is “the worst actor” as you stated on the House floor among the health plans and has been for many years.  \n\nIt is beyond ironic & hugely problematic for physicians and taxpayers that UHC has been a leader in down coding & denials to physicians while they are investigated both for civil and criminal allegations of upcoding of Medicare Advantage patients, which of course they deny.  \n\nBut they also denied multiple times in early 2025 @WSJ reports of these investigations until their then CEO resigned and from the board.",
+   "lang": "en",
+   "createdAt": "2026-04-08T14:27:51.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 726
+   },
+   "replyTo": null,
+   "quotedTweetId": "2041883266433663326",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "3108351",
+      "username": "WSJ",
+      "name": "The Wall Street Journal"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2042962592491032600",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2042962592491032600",
+   "url": "https://x.com/EdGainesIII/status/2042962592491032600",
+   "conversationId": "2042962592491032600",
+   "text": "1/ Yet another instance of Medicare Advantage (MA) claim adjudication abuse vs. standard Medicare Part B claim adjudication.\n\nPer CMS in ‘24, incorrect coding including downcoding of Part B Medicare was less than 1%.\n\nWhy? The Part B contractor has no incentive to downcode claims as the MA plans do—for every claim not appealed the delta between the Part A inpatient reimbursement and out patient goes straight to Aetna’s bottom line.\n\nPA health system sues Aetna over alleged ‘downcoding’ of inpatient hospital care https://healthexec.com/topics/healthcare-management/legal-news/pennsylvania-health-system-sues-aetna-over-alleged-downcoding-inpatient-hospital-care",
+   "lang": "en",
+   "createdAt": "2026-04-11T13:46:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 2,
+    "quotes": 2,
+    "likes": 11,
+    "bookmarks": 2,
+    "views": 1425
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://healthexec.com/topics/healthcare-management/legal-news/pennsylvania-health-system-sues-aetna-over-alleged-downcoding-inpatient-hospital-care"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2053928412092244197",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2053928412092244197",
+   "url": "https://x.com/ASTRO_org/status/2053928412092244197",
+   "conversationId": "2053928412092244197",
+   "text": "Having issues with the 2026 Revised Treatment Delivery Codes?\n\nVisit ASTRO's NEW Payer Support and Resolution Center if:\n- You got denied or downcoded\n- You are getting paid the wrong amount\n- You want to report an issue\n\nLearn more: https://ow.ly/CQHh50YXIAI https://x.com/ASTRO_org/status/2053928412092244197/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-11T20:01:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33898299",
+    "username": "ASTRO_org",
+    "name": "ASTRO",
+    "url": "https://x.com/ASTRO_org",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036831316180602880/amjs9Kv4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 559
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2053928408686473217",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIEFAWnXMAENh6l.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIEFAWnXMAENh6l.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/CQHh50YXIAI"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2059666606456787128",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2059666606456787128",
+   "url": "https://x.com/ASTRO_org/status/2059666606456787128",
+   "conversationId": "2059666606456787128",
+   "text": "Having issues with the 2026 Revised Treatment Delivery Codes?\n\nVisit ASTRO's NEW Payer Support and Resolution Center if:\n- You got denied or downcoded\n- You are getting paid the wrong amount\n- You want to report an issue\n\nLearn more: https://ow.ly/CQHh50YXIAI https://x.com/ASTRO_org/status/2059666606456787128/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-27T16:02:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33898299",
+    "username": "ASTRO_org",
+    "name": "ASTRO",
+    "url": "https://x.com/ASTRO_org",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2036831316180602880/amjs9Kv4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 518
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2059666603365588996",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJVn3PlXYAQ8qlw.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HJVn3PlXYAQ8qlw.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/CQHh50YXIAI"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2006598829660106852",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2006598829660106852",
+   "url": "https://x.com/PaulGoldEagle/status/2006598829660106852",
+   "conversationId": "2006598829660106852",
+   "text": "Medical Billing Company owner confirms Cigna Health Insurance has begun automatically “Downcoding”\n\nIf Cigna thinks a service is too expensive, they will automatically change it to a different code and pay the doctor the new lower amount\n\nI made posts warning about this, it’s happening\n\nDowncoding occurs when an insurer reduces a billed procedure code to a lower-level one, resulting in lower reimbursement \n\nAn example of this is: A new patient exam and follow up patient exams, they're going to take those high level exams when your doctor's actually spending time with you trying to figure things out coded at a 4 or a 5. These are higher level exams and they're gonna automatically down code these exams to a 2 or a 3. \n\nSo the doctor won’t get paid as much for these exams, and critics say this will greatly impact patient care\n\nThis is fraud. They’re purposefully and falsely changing records and billing requests",
+   "lang": "en",
+   "createdAt": "2026-01-01T05:30:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "245884632",
+    "username": "PaulGoldEagle",
+    "name": "Paul White Gold Eagle",
+    "url": "https://x.com/PaulGoldEagle",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1814764111106093056/HbA0iR-8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 10,
+    "quotes": 0,
+    "likes": 23,
+    "bookmarks": 8,
+    "views": 2939
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2006598737100156931",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2006598737100156931/vid/avc1/720x1280/7lTLpzB1BBFTLqXP.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2006598737100156931/img/4HVMQhPDeeylij4o.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 143
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082867119608476006",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2082867119608476006",
+   "url": "https://x.com/ShreeHistory/status/2082867119608476006",
+   "conversationId": "2082867119608476006",
+   "text": "I broke the story about downcoding by @aetna which then infected @cigna now @bcbstx  so dominos fall.\n\nNext will be Narrow Networking.\n\n“Narrow networking” here refers to a manipulative tactic by some insurance plans: they present a large, adequate network of clinicians to regulators when the plan is approved, but then quietly restrict who is actually treated as “in network” once care begins.\n\nThe pattern is that almost every eligible provider appears on the roster initially, satisfying formal rules, yet when a clinician submits a claim the plan denies it and effectively drops that clinician from the network, forcing the patient to call the insurer and get the clinician specifically designated as their provider.\n\n Even then, only some claims are paid and often at very low, Medicaid‑like rates; after a few paid claims, the algorithm can again narrow the network.",
+   "lang": "en",
+   "createdAt": "2026-07-30T16:33:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 1,
+    "views": 644
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16188518",
+      "username": "aetna",
+      "name": "Aetna"
+     },
+     {
+      "id": "37687077",
+      "username": "cigna",
+      "name": "Cigna Healthcare"
+     },
+     {
+      "id": "17545665",
+      "username": "bcbstx",
+      "name": "BCBSTX"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:936371901546496001",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "936371901546496001",
+   "url": "https://x.com/MatthewKeadeyMD/status/936371901546496001",
+   "conversationId": "936371901546496001",
+   "text": "sad, back to the day of \"black box edits\" where insurers would deny care based on criteria that no one knew except for the insurer! You just billed a level 5, denied. Appeal? maybe we will pay 6 months later. https://x.com/GAemergency/status/936318259984551936",
+   "lang": "en",
+   "createdAt": "2017-11-30T23:10:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "576407395",
+    "username": "MatthewKeadeyMD",
+    "name": "Matthew Keadey, MD",
+    "url": "https://x.com/MatthewKeadeyMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2207292365/MKpict_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "936318259984551936",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/GAemergency/status/936318259984551936"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787336278469419411",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1787336278469419411",
+   "url": "https://x.com/BiancaNaom1/status/1787336278469419411",
+   "conversationId": "1787336278469419411",
+   "text": "I have gone stark raving bonkers on medical interns and KMPDU officials because of their MOCKERY and INSENSITIVE comments!\n\nBefore I tell you why, allow me to say this: medical interns are an important COG in our healthcare system!\n\nBelieve me, most level 5 hospitals are running because of these medical interns.\n\nIn fact, these interns play a vital role, particularly as the country gears towards Universal Health Coverage (UHC).\n\nFor that, I believe doctors and medical interns deserve good pay, though in a sustainable manner!\n\nBack to the reason why I'm dead angry with medical interns!\n\nOn March 22, 2024, I lost my brother in a road accident. He was hit by a car and died INSTANTLY and PERMANENTLY!\n\nI received the call from my aunt, who told me that my brother had gone to be with the angels. I was completely heartbroken. I questioned God: Why did he all want my brother to die so young? Why did he wait to get employed by the government, then allow him to die? But they say you cannot question God.\n\nSo, I took it as a human being because there was nothing I could do about it!\n\nOn March 23, 2024, I made a post informing my followers that I wouldn't be available sometimes because I'd lost my brother!\n\nHere is where hell broke loose. An intern doctor quoted my post: \"If you were supporting interns, your brother wouldn't have died.\"\n\nPerhaps the intern thought my brother was taken to the hospital alive, and since doctors were on strike, he was left to die! Maybe!\n\nBut, to be honest, that statement hurt me so much. It was so insensitive.\n\nAgain, the problem with KMPDU officials and medical interns is that they've got one single WhatsApp group dedicated to insulting anyone opposed to their insensitive, unreasonable, and excessive demands!\n\nAs a Kenyan, or taxpayer for that matter, I can say something you may not agree with, but that doesn't mean you insult me!\n\nYou don't tell; I didn't score As, and that's why I'm bitter with doctors demanding a pay raise!\n\nYou don't tell me I went to university fewer years than doctors; in any case, engineers also went to school more years, or rather the same years as medical students.\n\nIn short, all you have to do is tell me why you want to be paid KES 206,989 per month as an intern when other interns are earning KES 20,000! Tell me why you feel you're so much more special than other interns!\n\nBut insults, no!\n\nWe agree to disagree, but with respect. \n\nNWG",
+   "lang": "en",
+   "createdAt": "2024-05-06T04:19:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1565319556708581376",
+    "username": "BiancaNaom1",
+    "name": "Bianca™",
+    "url": "https://x.com/BiancaNaom1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1682791400562106368/a3Ir8ow5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 261,
+    "retweets": 22,
+    "quotes": 11,
+    "likes": 249,
+    "bookmarks": 3,
+    "views": 48229
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1674487539749494794",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1674487539749494794",
+   "url": "https://x.com/julesmrose/status/1674487539749494794",
+   "conversationId": "1674487539749494794",
+   "text": "Yousaf is not telling the truth, and is completely delusional. \nMy response to FMQ today..\n\nYousaf – “I met a number of other victims”\nFact – Yousaf has met 2.  Jules Rose and Pat Kelly\n \nYousaf – “Sympathy for the trauma they have suffered”\nFact – Victims have suffered life changing injuries and severely disabled, one patient nearing paralysis\n \nYousaf - “at the hands of Prof Eljamel”\nFact – at the hands of NHS Tayside who allowed Eljamel to commit these crimes.  Yousaf again attempting to deflect back to Eljamel.\n \nYousaf – “we will continue to engage with not all just those who have been affected by Eljamels disgraceful actions, but will seek to get the answers they want”\nFact – Yousaf hasn’t engaged with me since Jan, Matheson hasn’t provided me with info after my meeting with him last month, NHS Tayside put my mediation process “on hold” (due to the Medical Director carrying out ANOTHER due diligence review.  I have an Ind Review commissioned by SG, so WHY another review? A patient states she wrote to Sturgeon and Yousaf in Jan this year – to date, no reply. Again – deflection back to Eljamels actions, nothing to do with Tayside’s actions.\n \n“A Public Inquiry can take years, that’s the reason why we haven’t instructed a Public Inquiry and Prof Eljamel is not in this country. Therefore, would a Public Inquiry be able to get the answers..?”\nFact – Conducting a review into 118 patients care will also take years! We don’t need Prof Eljamel in the country, his lawyer can represent him. A Public Inquiry would get the answers because Tayside will be UNDER OATH scrutinised and investigated into their management failures and lack of Clinical Governance which they turned a blind eye to Eljamel butchering patients.\n \nMatheson says he’s “currently too busy” to meet with cross party MSPs.  Met MSPs April, promised update in May, end of June and still no update. Matheson will “look to do so in the coming weeks”\nCompletely unacceptable\n\nYousaf – “responsibilities of Eljamel sit with Eljamel himself”\nFact – Deflection again.  Let’s just forget about what the Whistle-blowers revealed about bringing concerns to the Board level 5 years previous to finally suspending him.\n \nYousaf - “recommendations have been accepted by NHS Tayside” (ind review into pat and I’s care)\nFact – Tayside accepted the recommendations, then rejected parts of the report based on Pat’s care and findings.\n\nDouglas Ross – “junior doctors are blamed for mistakes made by Doctor Eljamel. Scandalous”\n \nYousaf - independent mediator appointed to work with NHS Tayside and two former patients (Pat and Jules).  That engagement with patients absolutely will continue.”\nFact – Tayside have put my case “on hold” whilst medical director carries out due diligence review.  Mediator been told Medical Director was on holiday and then Secretary to the Board now on holiday.  STILL waiting…\n \nYousaf – I do think there maybe others ways to get the answers that Ms Rose etc absolutely deserve.\nFact – so what was the purpose of Pat and I’s independent review commissioned by SG and paid by the tax payer all about then? Is this review now obsolete?! Why did I not receive all answers in my review?  Because they knew it was too damning!!\nIf I can’t get the answers after 5 years in the process and the care and support as ordered in my ind review which was issued 13 months ago, what hope does 116 other patients have?\n \nDouglas Ross – “Whistleblower said “I did raise concerns at the time, but I was shut down, it went all the way to the Board, they knew about it.”\nYousaf – avoided answering DR statement\nThis is why a PUBLIC INQUIRY is the only way.",
+   "lang": "en",
+   "createdAt": "2023-06-29T18:38:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "222710320",
+    "username": "julesmrose",
+    "name": "Jules Rose 💜",
+    "url": "https://x.com/julesmrose",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2006168670381244417/PrJfXfAy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 52,
+    "retweets": 428,
+    "quotes": 40,
+    "likes": 848,
+    "bookmarks": 14,
+    "views": 122397
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102755529332539723",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2102755529332539723",
+   "url": "https://x.com/Ripuhiring/status/2102755529332539723",
+   "conversationId": "2102755529332539723",
+   "text": "The frontier is splitting:\n• Jev brings $42/B token deterministic AI\n• OpenAI reveals models hiding training errors\n• Multi-agents crack an unsolved 1941 Enigma cipher\n• Space Force confirms orbital weapons https://x.com/i/article/2102530296889700352",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:42:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "607107724",
+    "username": "Ripuhiring",
+    "name": "Ripu",
+    "url": "https://x.com/Ripuhiring",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/745361634885959682/o50qyFF2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 0,
+    "quotes": 2,
+    "likes": 14,
+    "bookmarks": 1,
+    "views": 2109
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/article/2102530296889700352"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

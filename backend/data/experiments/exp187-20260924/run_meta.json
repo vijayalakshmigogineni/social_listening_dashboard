@@ -1,0 +1,21 @@
+{
+ "experiment_id": "exp187-20260924",
+ "versions": [
+  "exp187-20260924-v1",
+  "exp187-20260924-v2"
+ ],
+ "started_at": "2026-09-24T06:12:55.443018+00:00",
+ "finished_at": "2026-09-24T07:08:35.937129+00:00",
+ "llm": {
+  "provider": "ollama",
+  "model": "llama3.1",
+  "host": "http://localhost:11434",
+  "enabled": true
+ },
+ "llm_call_stats": {
+  "attempted": 33,
+  "succeeded": 33,
+  "failed": 0
+ },
+ "boto3_imported": false
+}

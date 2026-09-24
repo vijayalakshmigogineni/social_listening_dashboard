@@ -1,0 +1,1756 @@
+{
+ "key": "from_dougbeall",
+ "query": "from:dougbeall lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100220331088589160",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100220331088589160",
+   "url": "https://x.com/dougbeall/status/2100220331088589160",
+   "conversationId": "2100220331088589160",
+   "text": "Join us for SI Joint fusion training covering all three common approaches. Training will be held on February 6, 2027 in Tempe, Arizona. The registration link and additional details are included here:\n\nhttps://form.jotform.com/262316497665165 https://x.com/dougbeall/status/2100220331088589160/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-16T13:48:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 185
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100220327036887040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSV7Qo8WoAAG46i.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSV7Qo8WoAAG46i.jpg",
+     "width": 2048,
+     "height": 1186,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://form.jotform.com/262316497665165"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097519840860778520",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097519840860778520",
+   "url": "https://x.com/dougbeall/status/2097519840860778520",
+   "conversationId": "2097519840860778520",
+   "text": "Come out to the Fairmont Hotel in San Francisco April 1-3  to join us for the 2nd annual World Institute of Regenerative Medicine Congress. It sure to be exciting and cutting edge!\n\nhttps://youtu.be/8oHDvHL0_Dc?feature=shared https://x.com/dougbeall/status/2097519840860778520/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-09T02:57:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 158
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2097519827837411328",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRvjK5eWYAA-hX8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRvjK5eWYAA-hX8.jpg",
+     "width": 1320,
+     "height": 723,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://youtu.be/8oHDvHL0_Dc?feature=shared"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087548121697952005",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2087548121697952005",
+   "url": "https://x.com/dougbeall/status/2087548121697952005",
+   "conversationId": "2087548121697952005",
+   "text": "83 year-old Caucasian male with 10 out of 10 back pain failed non-surgical management as and is in clear decline with a high rate of mortality in this situation. HUMATA denied Kyphoplasty due to the DEXA scan not showing osteoporosis. Osteoporosis does NOT depend only on DEXA https://x.com/dougbeall/status/2087548121697952005/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-12T14:33:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 276
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2087548114508898304",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh18yjW4AAIoq1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh18yjW4AAIoq1.jpg",
+     "width": 1320,
+     "height": 1573,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2087548114508890112",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh18yjWwAA3Uv1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh18yjWwAA3Uv1.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2085345460995142048",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2085345460995142048",
+   "url": "https://x.com/dougbeall/status/2085345460995142048",
+   "conversationId": "2085345460995142048",
+   "text": "Join us Thursday, August 6 at 6PM CST for a webinar on the current advances in future directions of intradiscal therapy.\n\nhttps://form.jotform.com/262044849991974 https://x.com/dougbeall/status/2085345460995142048/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-06T12:41:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 238
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2085345457618710528",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPCipSNWcAAQvsn.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPCipSNWcAAQvsn.jpg",
+     "width": 1206,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://form.jotform.com/262044849991974"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2083642573386850345",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2083642573386850345",
+   "url": "https://x.com/dougbeall/status/2083642573386850345",
+   "conversationId": "2083642573386850345",
+   "text": "Join us on Saturday, September 26 at the Seattle Science Foundation for American Academy of Interventional Spine and Neuromodulation’s master class in spine and sports interventions\n\nhttps://www.seattlesciencefoundation.org/courses/aaisn-masterclass-in-spine-sports-interventions?mc_cid=2121c9c4c9&mc_eid=9a376c2738 https://x.com/dougbeall/status/2083642573386850345/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-01T19:54:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 227
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2083642570840895488",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOqV4OnacAAjlc6.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HOqV4OnacAAjlc6.jpg",
+     "width": 1060,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.seattlesciencefoundation.org/courses/aaisn-masterclass-in-spine-sports-interventions?mc_cid=2121c9c4c9&mc_eid=9a376c2738"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2083127547336733080",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2083127547336733080",
+   "url": "https://x.com/dougbeall/status/2083127547336733080",
+   "conversationId": "2083127547336733080",
+   "text": "Join me in Milwaukee, WI on August 7-9 for the Interventional Pain and Spine Symposium. It is a great meeting filled with cutting edge topics and useful information. https://x.com/dougbeall/status/2083127547336733080/photo/1",
+   "lang": "en",
+   "createdAt": "2026-07-31T09:48:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 292
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2083127542135873536",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOjBdnLXYAASEff.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HOjBdnLXYAASEff.jpg",
+     "width": 1024,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2075563614476312726",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2075563614476312726",
+   "url": "https://x.com/dougbeall/status/2075563614476312726",
+   "conversationId": "2075563614476312726",
+   "text": "Here's a how-to for the MILD/PILD procedure:\nMinimally Invasive Lumbar Decompression - Doug Beall, M.D. https://youtu.be/tscWmshjaiE?si=BGDsL_8_OVqNFBFF via @YouTube",
+   "lang": "en",
+   "createdAt": "2026-07-10T12:51:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 489
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "10228272",
+      "username": "YouTube",
+      "name": "YouTube"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/tscWmshjaiE?si=BGDsL_8_OVqNFBFF"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2062971686132007256",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2062971686132007256",
+   "url": "https://x.com/dougbeall/status/2062971686132007256",
+   "conversationId": "2062971686132007256",
+   "text": "Great interest and participation at the Stem Cell Conference during my presentation on Intradiscal Biologics and Other Biomaterials. There were lots of great talks and really innovative ideas. https://x.com/dougbeall/status/2062971686132007256/photo/1",
+   "lang": "en",
+   "createdAt": "2026-06-05T18:55:52.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 212
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2062971657023541248",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HKElyr6WUAAn4dg.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HKElyr6WUAAn4dg.jpg",
+     "width": 4284,
+     "height": 5712,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2059373647282987171",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2059373647282987171",
+   "url": "https://x.com/dougbeall/status/2059373647282987171",
+   "conversationId": "2059373647282987171",
+   "text": "My first champagne sabering, but hopefully not my last! Many thanks to Camille and Prof Srour for making this happen. https://x.com/dougbeall/status/2059373647282987171/video/1",
+   "lang": "en",
+   "createdAt": "2026-05-26T20:38:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 500
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2059373623530450944",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2059373623530450944/vid/avc1/576x1024/VCHxLBHKNnwaUw3S.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2059373623530450944/img/83XCcHvKbHMO5J-L.jpg",
+     "width": 576,
+     "height": 1024,
+     "altText": null,
+     "durationSeconds": 5
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2058561576131604734",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2058561576131604734",
+   "url": "https://x.com/dougbeall/status/2058561576131604734",
+   "conversationId": "2058561576131604734",
+   "text": "If you’re interested in delivering any intradiscal therapies that involve injectables check this video out:  \nIntradiscal Approach to Regenerative Therapies - Douglas P Beall, M.D. https://youtu.be/Bf2BdrHEjtQ?si=1d32Se2uG94Yw8eJ via @YouTube https://x.com/dougbeall/status/2058561576131604734/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-24T14:51:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 188
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2058561569760440320",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJF610nXcAAWkF5.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HJF610nXcAAWkF5.jpg",
+     "width": 1153,
+     "height": 782,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "10228272",
+      "username": "YouTube",
+      "name": "YouTube"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/Bf2BdrHEjtQ?si=1d32Se2uG94Yw8eJ"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054541508028645584",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2054541508028645584",
+   "url": "https://x.com/dougbeall/status/2054541508028645584",
+   "conversationId": "2054541508028645584",
+   "text": "Join us in Seattle at the Seattle Science Foundation on July 31 and August 1, 2026 for the AAISNs Master Neuromodulation course with hands-on training\n\nhttps://www.seattlesciencefoundation.org/products/courses/neuromodulation?mc_cid=c25a233955&mc_eid=9a376c2738 https://x.com/dougbeall/status/2054541508028645584/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-13T12:37:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 2,
+    "views": 379
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2054541504144683008",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIMynNLXMAAi6sy.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIMynNLXMAAi6sy.jpg",
+     "width": 1132,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.seattlesciencefoundation.org/products/courses/neuromodulation?mc_cid=c25a233955&mc_eid=9a376c2738"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2043448115718738036",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2043448115718738036",
+   "url": "https://x.com/dougbeall/status/2043448115718738036",
+   "conversationId": "2043448115718738036",
+   "text": "Join us at the World Institute of Regenerative Medicine for a discussion of the Future of Regenerative Medicine with out expert panel.  #WIRM  #WIRMglobal https://x.com/dougbeall/status/2043448115718738036/photo/1",
+   "lang": "en",
+   "createdAt": "2026-04-12T21:56:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 241
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2043448095565094912",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFvJN10bIAAB9fs.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HFvJN10bIAAB9fs.jpg",
+     "width": 500,
+     "height": 629,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "WIRM",
+     "WIRMglobal"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2043432310071251275",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2043432310071251275",
+   "url": "https://x.com/dougbeall/status/2043432310071251275",
+   "conversationId": "2043432310071251275",
+   "text": "Join us in Seattle on Saturday May 16th at the Seattle Science Foundation for the American Academy of Interventional Spine and Neuromodulation's 5th Annual Image Guided Interventional Spine Procedures Course. https://youtu.be/PPusJD2N5e0?si=JK6v_W6VzNUc_o6s via @YouTube https://x.com/dougbeall/status/2043432310071251275/photo/1",
+   "lang": "en",
+   "createdAt": "2026-04-12T20:53:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 2,
+    "views": 333
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2043431996589035520",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFu6kwdbUAASk6C.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HFu6kwdbUAASk6C.jpg",
+     "width": 1801,
+     "height": 949,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "10228272",
+      "username": "YouTube",
+      "name": "YouTube"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/PPusJD2N5e0?si=JK6v_W6VzNUc_o6s"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2035436892062421156",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2035436892062421156",
+   "url": "https://x.com/dougbeall/status/2035436892062421156",
+   "conversationId": "2035436892062421156",
+   "text": "Thrilled to share that I just spoke at OEIS 13th Annual National Scientific Meeting! Big thanks to the organizers and everyone who joined the session.🌟 Your presence made it special!\n\n - via #Whova event app\n https://whova.com/portal/6aM0oeW96Ir9YZBuvzWHCvYvo6jPYi97-8m13p7PBDE=/?url=https%3A//dk2avac86djtt.cloudfront.net/1ad3a9af-98ac-412f-8c3b-d4eeb1b945c7/speaker_badge_oeisa_202603_51646229_template_1ifcecqt8.png%3FExpires%3D1781938800%26Signature%3Dbez7aJG67iS2gZ0nma0Um34yn6oUddpVY8uRwtDPEKP~amU9Ogiq1cV2aXp5tIgSe-o36mnbjHhGfKvAhRMwa54Kn7o8fdYCycjzOxetrzZiLSr0Qmb6QXgJqy7wQeeguUSb3teZDw8KHrtQdBKfBByrAlNT0nBfkZVGf7Z~~ec1uTcQ4juHXjUCtxrt8jy1HlYkrfDm442KIsg35bESIEZc8TDtWcoXUmfdkADDPEuWYw3qKoix6BlO9Ed0oL5IfTYNceR4nMN-MhQmUWsG884kkK1~jozzpmGGIoN8HbHlTwuX2E276oCBdUbFsMFbe31KIBzGTOhTTJnhezoDPw__%26Key-Pair-Id%3DK4GTMPXTIZHFU",
+   "lang": "en",
+   "createdAt": "2026-03-21T19:22:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 209
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Whova"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://whova.com/portal/6aM0oeW96Ir9YZBuvzWHCvYvo6jPYi97-8m13p7PBDE=/?url=https%3A//dk2avac86djtt.cloudfront.net/1ad3a9af-98ac-412f-8c3b-d4eeb1b945c7/speaker_badge_oeisa_202603_51646229_template_1ifcecqt8.png%3FExpires%3D1781938800%26Signature%3Dbez7aJG67iS2gZ0nma0Um34yn6oUddpVY8uRwtDPEKP~amU9Ogiq1cV2aXp5tIgSe-o36mnbjHhGfKvAhRMwa54Kn7o8fdYCycjzOxetrzZiLSr0Qmb6QXgJqy7wQeeguUSb3teZDw8KHrtQdBKfBByrAlNT0nBfkZVGf7Z~~ec1uTcQ4juHXjUCtxrt8jy1HlYkrfDm442KIsg35bESIEZc8TDtWcoXUmfdkADDPEuWYw3qKoix6BlO9Ed0oL5IfTYNceR4nMN-MhQmUWsG884kkK1~jozzpmGGIoN8HbHlTwuX2E276oCBdUbFsMFbe31KIBzGTOhTTJnhezoDPw__%26Key-Pair-Id%3DK4GTMPXTIZHFU"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2033645834298867888",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2033645834298867888",
+   "url": "https://x.com/dougbeall/status/2033645834298867888",
+   "conversationId": "2033645834298867888",
+   "text": "Join us for our annual Image Guided Spine Intervention course on Saturday, May 16, 2026 at the Seattle Science Foundation. It will showcase interventional things that are new, innovative, or otherwise awesome.\n\nhttps://www.seattlesciencefoundation.org/products/courses/imageguided2026?mc_cid=1a3ba08da0&mc_eid=9a376c2738 https://x.com/dougbeall/status/2033645834298867888/photo/1",
+   "lang": "en",
+   "createdAt": "2026-03-16T20:45:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 347
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2033645830201049088",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDj2G5wWgAA5yH1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HDj2G5wWgAA5yH1.jpg",
+     "width": 1115,
+     "height": 926,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.seattlesciencefoundation.org/products/courses/imageguided2026?mc_cid=1a3ba08da0&mc_eid=9a376c2738"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2033234251403968930",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2033234251403968930",
+   "url": "https://x.com/dougbeall/status/2033234251403968930",
+   "conversationId": "2033234251403968930",
+   "text": "Great segment on SCS for chronic leg pain from an Interventional Radiology standpoint featuring one of the all-time greats, Mary Constantino. \n\nSpinal Cord Stimulation in Vascular Disease Management w/ Dr. Constantin... https://youtu.be/oXUrag437c0?si=Ko_DeGqY0DteEzXe via @YouTube",
+   "lang": "en",
+   "createdAt": "2026-03-15T17:29:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 470
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "10228272",
+      "username": "YouTube",
+      "name": "YouTube"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/oXUrag437c0?si=Ko_DeGqY0DteEzXe"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2033217023266668985",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2033217023266668985",
+   "url": "https://x.com/dougbeall/status/2033217023266668985",
+   "conversationId": "2033217023266668985",
+   "text": "Join us for the World Institute of Regenerative Medicine world Congress, April 23 through the 25th at the Fairmont hotel in San Francisco. It it’s certain to be an exciting meeting! https://x.com/dougbeall/status/2033217023266668985/photo/1",
+   "lang": "en",
+   "createdAt": "2026-03-15T16:21:28.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 251
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2033217019894538240",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDdwG24XoAA4hE7.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HDdwG24XoAA4hE7.jpg",
+     "width": 1320,
+     "height": 1651,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2028274426572067007",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2028274426572067007",
+   "url": "https://x.com/dougbeall/status/2028274426572067007",
+   "conversationId": "2028274426572067007",
+   "text": "Join everyone in one of the most beautiful places in the world, Como, Italy on June 11 and 12th for lecture and on June 13 for the workshops. World Institute of Pain, Italy National Congress. https://x.com/dougbeall/status/2028274426572067007/photo/1",
+   "lang": "en",
+   "createdAt": "2026-03-02T01:01:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 273
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2028274422289670152",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCXg1z-WIAgltnm.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCXg1z-WIAgltnm.jpg",
+     "width": 1320,
+     "height": 1844,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2027023783328948595",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2027023783328948595",
+   "url": "https://x.com/dougbeall/status/2027023783328948595",
+   "conversationId": "2027023783328948595",
+   "text": "Join us Saturday, May 16th for the 5th annual Image Guided Spine Interventions course at the Seattle Science Foundation or we discuss techniques that are new, cool, or otherwise interesting. \n\nhttps://www.seattlesciencefoundation.org/products/courses/imageguided2026?mc_cid=00cad4a48d&mc_eid=9a376c2738 https://x.com/dougbeall/status/2027023783328948595/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-26T14:11:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 538
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2027023777591160832",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCFvYtaXcAAKL9h.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCFvYtaXcAAKL9h.jpg",
+     "width": 1314,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.seattlesciencefoundation.org/products/courses/imageguided2026?mc_cid=00cad4a48d&mc_eid=9a376c2738"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026587448340344971",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2026587448340344971",
+   "url": "https://x.com/dougbeall/status/2026587448340344971",
+   "conversationId": "2026353254771110209",
+   "text": "@MRICTPET Ever try to get hold of a radiologist who reads remote studies and is employed by a private equity group in another state?",
+   "lang": "en",
+   "createdAt": "2026-02-25T09:17:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 196
+   },
+   "replyTo": {
+    "tweetId": "2026508932223840471",
+    "userId": "244621333",
+    "username": "MRICTPET"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "244621333",
+      "username": "MRICTPET",
+      "name": "Ad Homonym"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026403715192611123",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2026403715192611123",
+   "url": "https://x.com/dougbeall/status/2026403715192611123",
+   "conversationId": "2026403715192611123",
+   "text": "58-year-old female with metastatic breast cancer and a vertebral compression fracture and Blue Cross Blue Shield is denying radio frequency ablation of the tumor?! There’s also no option for a peer to peer or an appeal. Unbelievable! https://x.com/dougbeall/status/2026403715192611123/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-24T21:07:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 3,
+    "views": 4088
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2026403709421264896",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB87b_eWoAAKBNG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB87b_eWoAAKBNG.jpg",
+     "width": 2048,
+     "height": 1896,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026403709454807040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB87b_mWcAAGLfH.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB87b_mWcAAGLfH.jpg",
+     "width": 1320,
+     "height": 1678,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026353254771110209",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2026353254771110209",
+   "url": "https://x.com/dougbeall/status/2026353254771110209",
+   "conversationId": "2026353254771110209",
+   "text": "This is a subacute L1 vertebral compression fracture.  It was reported as no acute fracture but described as an inferior endplate wedging deformity likely subacute. If it’s not called a fracture theres confusion as to what this is and she has no insurance coverage for Kyphoplasty https://x.com/dougbeall/status/2026353254771110209/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-24T17:47:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 7,
+    "views": 3658
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2026353231194951680",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxbXEAANGgG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxbXEAANGgG.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026353231245234177",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxnWUAEURsG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxnWUAEURsG.jpg",
+     "width": 1296,
+     "height": 1152,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026353231194963968",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxbXQAAzM_T.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxbXQAAzM_T.jpg",
+     "width": 2048,
+     "height": 1796,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2023084381485605012",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2023084381485605012",
+   "url": "https://x.com/dougbeall/status/2023084381485605012",
+   "conversationId": "2023084381485605012",
+   "text": "Here is a video tutorial on the posterolateral and lateral SI joint fusion approaches.\n\nhttps://youtu.be/KS1h0Y9DWEE?si=5qbskncBTYSedEiR https://x.com/dougbeall/status/2023084381485605012/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-15T17:17:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 375
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2023084375768977408",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HBNwhWBaUAAOdll.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HBNwhWBaUAAOdll.jpg",
+     "width": 1020,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://youtu.be/KS1h0Y9DWEE?si=5qbskncBTYSedEiR"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019765215655858234",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2019765215655858234",
+   "url": "https://x.com/dougbeall/status/2019765215655858234",
+   "conversationId": "2013690975479021884",
+   "text": "@ChengaziMD @JacobFlemingMD Is it just an add-on to another case I was doing that does have reimbursement associated with it",
+   "lang": "en",
+   "createdAt": "2026-02-06T13:28:47.000Z",
+   "type": "reply",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 26
+   },
+   "replyTo": {
+    "tweetId": "2019591564406980705",
+    "userId": "975416098370732032",
+    "username": "reevention09"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "292900878",
+      "username": "ChengaziMD",
+      "name": "Harris"
+     },
+     {
+      "id": "22743176",
+      "username": "JacobFlemingMD",
+      "name": "Jacob Fleming, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019136337052594629",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2019136337052594629",
+   "url": "https://x.com/dougbeall/status/2019136337052594629",
+   "conversationId": "2019136337052594629",
+   "text": "Our new publication regarding Minimally Invasive SI joint Fusion using laterally inserted 3-D printed implants performed by interventional physicians. A perspective multicenter, single arm control trial (the FICS Trial)\n\nhttps://www.painphysicianjournal.com/current/pdf?article=ODExNA%3D%3D&journal=175 https://x.com/dougbeall/status/2019136337052594629/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-04T19:49:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 591
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2019136331297751040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAVpy6QWgAAHUO8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAVpy6QWgAAHUO8.jpg",
+     "width": 1854,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.painphysicianjournal.com/current/pdf?article=ODExNA%3D%3D&journal=175"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019135035291627714",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2019135035291627714",
+   "url": "https://x.com/dougbeall/status/2019135035291627714",
+   "conversationId": "2019135035291627714",
+   "text": "CMS’s WISeR initiative is ridiculous requiring approval to treat painful VCFs that have a mortality rate of 8.6X age matched controls. 84 yr old male w/ severe and worsening back pain drove three hours here as required just for approval. This process is going to result in a death https://x.com/dougbeall/status/2019135035291627714/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-04T19:44:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 1,
+    "views": 1017
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2019135029100576768",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAVonHMWgAAb3O_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAVonHMWgAAb3O_.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2019135029356507136",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAVonIJXsAAL8DH.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAVonIJXsAAL8DH.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2018025002075910414",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2018025002075910414",
+   "url": "https://x.com/dougbeall/status/2018025002075910414",
+   "conversationId": "2018025002075910414",
+   "text": "Outstanding article. Should be required reading for all IRs",
+   "lang": "en",
+   "createdAt": "2026-02-01T18:13:48.000Z",
+   "type": "quote",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 2656
+   },
+   "replyTo": null,
+   "quotedTweetId": "2017836405079126042",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2018001836972572786",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2018001836972572786",
+   "url": "https://x.com/dougbeall/status/2018001836972572786",
+   "conversationId": "2018001836972572786",
+   "text": "Here is the latest discussion from the Seattle Science Foundation fellows course on the treatment of osteoporotic vertebral compression fractures\n\nhttps://youtu.be/t48KdYDGFx8?si=egzKFOqcwMxN4s8K https://x.com/dougbeall/status/2018001836972572786/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-01T16:41:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 2,
+    "views": 515
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2018001834246299648",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAFh-fZWYAAXfJO.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAFh-fZWYAAXfJO.jpg",
+     "width": 1110,
+     "height": 661,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://youtu.be/t48KdYDGFx8?si=egzKFOqcwMxN4s8K"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2017649590929911908",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2017649590929911908",
+   "url": "https://x.com/dougbeall/status/2017649590929911908",
+   "conversationId": "2017649590929911908",
+   "text": "Congratulations to my co-authors of the STACI study evaluating lateral SI joint fusion performed by Interventional Pain physicians. Great results at the six month follow up time point.\n\nhttps://onlinelibrary.wiley.com/doi/10.1002/pmrj.70095 https://x.com/dougbeall/status/2017649590929911908/photo/1",
+   "lang": "en",
+   "createdAt": "2026-01-31T17:22:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 2,
+    "views": 682
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2017649584672063488",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAAhm3eXwAAaeyv.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAAhm3eXwAAaeyv.jpg",
+     "width": 1696,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://onlinelibrary.wiley.com/doi/10.1002/pmrj.70095"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2017366417830445390",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2017366417830445390",
+   "url": "https://x.com/dougbeall/status/2017366417830445390",
+   "conversationId": "2016549710824165861",
+   "text": "@DonGarbettMD That’s a good move Don. We’re going to take it to that point if necessary but it’s a travesty that it has to go that far sometimes.",
+   "lang": "en",
+   "createdAt": "2026-01-30T22:36:49.000Z",
+   "type": "reply",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 96
+   },
+   "replyTo": {
+    "tweetId": "2017245647217250421",
+    "userId": "136930732",
+    "username": "DonGarbettMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "136930732",
+      "username": "DonGarbettMD",
+      "name": "Don Garbett"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

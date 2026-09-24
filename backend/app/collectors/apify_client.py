@@ -26,8 +26,16 @@ def run_actor_sync(
     token: str | None = None,
     poll_interval_s: float = 5.0,
     timeout_s: float = 600.0,
+    max_items: int | None = None,
+    max_total_charge_usd: float | None = None,
 ) -> list[dict[str, Any]]:
-    """Start an Apify actor run, block until it finishes, return dataset items."""
+    """Start an Apify actor run, block until it finishes, return dataset items.
+
+    max_items / max_total_charge_usd are optional run-level caps sent as query
+    parameters. Pay-per-result actors can treat their own item-limit input as
+    advisory (seen in testing/problem-intelligence/facebook-e2e-collection),
+    so the charge cap is the one that actually bounds spend.
+    """
 
     token = token or APIFY_TOKEN
     if not token:
@@ -36,9 +44,16 @@ def run_actor_sync(
     headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
     normalized_actor_id = actor_id.replace("/", "~")
 
+    run_params: dict[str, Any] = {}
+    if max_items is not None:
+        run_params["maxItems"] = max_items
+    if max_total_charge_usd is not None:
+        run_params["maxTotalChargeUsd"] = max_total_charge_usd
+
     start_resp = requests.post(
         f"https://api.apify.com/v2/acts/{normalized_actor_id}/runs",
         headers=headers,
+        params=run_params or None,
         json=run_input,
         timeout=60,
     )

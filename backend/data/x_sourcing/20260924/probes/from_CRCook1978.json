@@ -1,0 +1,2677 @@
+{
+ "key": "from_CRCook1978",
+ "query": "from:CRCook1978 lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099958048605311226",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099958048605311226",
+   "url": "https://x.com/CRCook1978/status/2099958048605311226",
+   "conversationId": "2099958048605311226",
+   "text": "@TexasChildrens @BCMAnesthesia @bcmhouston 👀 👇🏻 Dr. Chris Glover is a Texas ⭐️ \nhttps://www.texaschildrens.org/find-a-provider/chris-d-glover-md-mba",
+   "lang": "en",
+   "createdAt": "2026-09-15T20:26:28.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 95
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099866964369818028",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15393700",
+      "username": "TexasChildrens",
+      "name": "Texas Children's"
+     },
+     {
+      "id": "1283476396829028352",
+      "username": "BCMAnesthesia",
+      "name": "BCM Department of Anesthesiology"
+     },
+     {
+      "id": "34299110",
+      "username": "bcmhouston",
+      "name": "BCMHouston"
+     }
+    ],
+    "urls": [
+     "https://www.texaschildrens.org/find-a-provider/chris-d-glover-md-mba"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093835660969075054",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2093835660969075054",
+   "url": "https://x.com/CRCook1978/status/2093835660969075054",
+   "conversationId": "2093682753828995163",
+   "text": "This is not legal advice regarding cases that will likely be litigated for years. I was not there, I am not privy to all the details, and many relevant facts have not been disclosed despite the investigation.\n\nYou asked, so I will answer. National backorders and shortages may have contributed to the decision not to use the hyperbaric bupivacaine commonly included in standard spinal trays. Duration of action and an ERAS or rapid discharge protocol may also have favored the off label use of mepivacaine MPF as the neuraxial anesthetic in these cases rather than and an FDA approved for spinal anesthesia preparation of bupivacaine. \n\nWhat does not make sense to me is the separate decision to have the pharmacy batch the medication. If the selected local anesthetic was already available in a preservative free formulation at the intended concentration and baricity and required no dilution or additives, there was little justification for having a pharmacy technician transfer this inexpensive local anesthetic from its original vial into syringes for multiple patients. Lots of caveats there.\n\nThat transfer removed the administering clinician’s ability to inspect the source vial and converted a potential one preparation error potentially harming one patient into a multipatient exposure. The physician anesthesiologist or nurse anesthetist could have drawn the medication directly from the manufacturer’s original vial immediately before administration and personally verified the drug, concentration, lot number, and expiration date.\n\nThere are legitimate arguments against my position. Medication substitution errors do occur, and independent verification by a second person generally helps reduce those errors.\n\nI encourage you to read the following report which does go into detail on the defined errors that occurred specifically within the pharmacy in the Ascension cases. \n\nI was disappointed that the year of the hire date of the pharmacy techs was redacted from the report. \n\nUnited States, Department of Health and Human Services, Centers for Medicare & Medicaid Services. Statement of Deficiencies and Plan of Correction: Ascension Saint Thomas Hospital. CMS Form 2567, survey completed 21 Aug. 2026. Read the CMS report.\nhttps://www.wkrn.com/wp-content/uploads/sites/73/2026/08/Ascension_Saint_Thomas_Hospital_2567_reviewed_8262026_R.pdf.",
+   "lang": "en",
+   "createdAt": "2026-08-29T22:58:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 81
+   },
+   "replyTo": {
+    "tweetId": "2093682753828995163",
+    "userId": "91464818",
+    "username": "txsportsdoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.wkrn.com/wp-content/uploads/sites/73/2026/08/Ascension_Saint_Thomas_Hospital_2567_reviewed_8262026_R.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087553979672629622",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2087553979672629622",
+   "url": "https://x.com/CRCook1978/status/2087553979672629622",
+   "conversationId": "2087553979672629622",
+   "text": "TMA III Update\n\nFor those who do not live and breathe NSA/IDR, the QPA #QualifyingPaymentAmount is essentially an insurer calculated median contracted rate that is one factor in out of network payment disputes.\n\nThe key determinations of the 5th Circuit:\n\nThe court generally supported the Eastern District Court’s Findings.   Insurers cannot use “ghost rates”contractual rates for services a physician/provider never actually furnished to calculate the QPA. This includes nominal placeholder rates such as $1.\n\nInsurers cannot categorically exclude bonuses, incentives, risk-sharing adjustments, and other payment adjustments attributable to the service when determining the statutory “total maximum payment.”\n\nThe court did allow insurers to continue excluding genuine one off single case agreements from QPA calculations.\n\nImportantly, the Fifth Circuit affirmed vacatur of the unlawful federal QPA provisions and rejected the government’s argument that vacating them would be too disruptive.\n\nThe mandate has not yet issued, and current federal enforcement discretion guidance remains important during the transition, so this should not be interpreted as an instruction to immediately change current billing/IDR operations.\n\nFor physicians, however, this is a major legal victory because the Fifth Circuit has now expressly rejected QPA methodologies capable of incorporating artificially low payment rates.\n\nCongratulations and tremendous credit to the @texmed Texas Medical Association.  TMA has done the heavy lifting for organized medicine through years of extraordinarily consequential and costly litigation over implementation of the #NoSurprisesAct. The benefits of that work extend far beyond Texas physicians in restoring congressional intent of the NSA. \n\n@RepRaulRuizMD @DrKimSchrier @RepHerbConaway @MaxineDexterMD @Morrison4MN @RepBera @RepMMM @RepGregMurphy @RepRonnyJackson @RepJohnJoyce @RepNealDunn @RepAndyHarrisMD @RichforGA @RepDesJarlais @SenJohnBarrasso @SenBillCassidy @RogerMarshallMD @DrRandPaul @MikeKennedyUT @BobOnderMO \n\nhttps://www.ca5.uscourts.gov/opinions/pub/23/23-40605-CV1.pdf",
+   "lang": "en",
+   "createdAt": "2026-08-12T14:57:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 231
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2087553974094233600",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh7R3NXgAAiTNz.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh7R3NXgAAiTNz.jpg",
+     "width": 1290,
+     "height": 1909,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2087553974081593344",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh7R3KWoAAEMcw.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh7R3KWoAAEMcw.jpg",
+     "width": 1170,
+     "height": 1568,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "QualifyingPaymentAmount",
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1345807954604412929",
+      "username": "RepMMM",
+      "name": "Rep. Mariannette Miller-Meeks, M.D."
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson",
+      "name": "Ronny Jackson"
+     },
+     {
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce",
+      "name": "John Joyce, M.D."
+     },
+     {
+      "id": "3433227779",
+      "username": "RepNealDunn",
+      "name": "Neal Dunn"
+     },
+     {
+      "id": "960962340",
+      "username": "RepAndyHarrisMD",
+      "name": "Rep. Andy Harris, MD"
+     },
+     {
+      "id": "1136709465082945538",
+      "username": "RichforGA",
+      "name": "Dr. Rich McCormick for Congress"
+     },
+     {
+      "id": "202206694",
+      "username": "SenJohnBarrasso",
+      "name": "Sen. John Barrasso"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "39834947",
+      "username": "DrRandPaul",
+      "name": "Rand Paul"
+     },
+     {
+      "id": "1604949372",
+      "username": "BobOnderMO",
+      "name": "Dr. Bob Onder"
+     }
+    ],
+    "urls": [
+     "https://www.ca5.uscourts.gov/opinions/pub/23/23-40605-CV1.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2066614961728528648",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2066614961728528648",
+   "url": "https://x.com/CRCook1978/status/2066614961728528648",
+   "conversationId": "2066614961728528648",
+   "text": "Today I testified before @TexasTDI on proposed Network Adequacy Rulemaking (Docket 2868).\n\nHealth plans often argue they cannot find physicians or facilities willing to contract. Yet our June 2026 review of nearly 50,000 network adequacy waivers requested across all 254 Texas counties revealed several important patterns.\n\nMost striking: 36% of all waivers originated from just 10 of Texas’ most populated counties, not rural Texas.\n\nIf plans cannot build adequate networks in Harris, Dallas, Tarrant, Bexar, Collin, Denton, Travis, Montgomery, Williamson, and El Paso Counties areas with some of the highest concentrations of physicians, healthcare professionals, and facilities in Texas the answer is not weaker rules.\n\nThe answer is transparency, accountability, and enforcement of HB 3359.\n\nTexans pay for PPO and EPO coverage expecting real access to in-network care.\n\n @LoisKolkhorst @DrSchwertner @DrGregBonnen @RepJamesFrank\n\n@TSAPhysicians @ASAGrassroots \n#txlege #HB3359 #NetworkAdequacy #TexasHealthcare #HealthInsurance #PatientAccess #Transparency",
+   "lang": "en",
+   "createdAt": "2026-06-15T20:12:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 9,
+    "quotes": 3,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 1432
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "txlege",
+     "HB3359",
+     "NetworkAdequacy",
+     "TexasHealthcare",
+     "HealthInsurance",
+     "PatientAccess",
+     "Transparency"
+    ],
+    "mentions": [
+     {
+      "id": "2174897336",
+      "username": "TexasTDI",
+      "name": "Texas Department of Insurance (TDI)"
+     },
+     {
+      "id": "50442179",
+      "username": "LoisKolkhorst",
+      "name": "Senator Lois Kolkhorst"
+     },
+     {
+      "id": "239930426",
+      "username": "DrSchwertner",
+      "name": "Charles Schwertner"
+     },
+     {
+      "id": "381542027",
+      "username": "DrGregBonnen",
+      "name": "Dr. Greg Bonnen"
+     },
+     {
+      "id": "1112289313",
+      "username": "RepJamesFrank",
+      "name": "James Frank"
+     },
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2042030201417203983",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2042030201417203983",
+   "url": "https://x.com/CRCook1978/status/2042030201417203983",
+   "conversationId": "2042030201417203983",
+   "text": "In a U.S. Department of Justice @TheJusticeDept case involving ketamine tied to the death of Matthew Perry, Dr. Salvador Plasencia, physician, was sentenced to 30 months in federal prison and fined approximately $5,600; Dr. Mark Chavez, physician, was sentenced to 8 months of home confinement and 300 hours of community service; and today Jasveen Sangha, “the Ketamine Queen,” a non-physician ketamine distributor, was sentenced to 15 years in federal prison.\n\nAs a physician and anesthesiologist, my perspective is clear: ketamine is a powerful anesthetic medication. Regardless of the indication, it should be administered in a safe, monitored healthcare environment with a physician immediately available to manage potential complications such as respiratory depression, cardiovascular effects, or other serious reactions. We must learn from the #opioidcrisis and avoid a #ketaminecrisis\n\n#txlege @GregAbbott_TX @KenPaxtonTX @DanPatrick @Burrows4TX\n@texmed @TSAPhysicians @ASAGrassroots @ASALifeline @ASAMonitor \n\nhttps://www.justice.gov/usao-cdca/pr/north-hollywood-drug-dealer-who-sold-ketamine-killed-actor-matthew-perry-sentenced-15\n\nhttps://www.justice.gov/usao-cdca/pr/former-physician-who-ran-calabasas-clinic-sentenced-2-12-years-federal-prison\n\nhttps://www.justice.gov/usao-cdca/pr/five-defendants-including-two-doctors-charged-connection-actor-matthew-perrys-fatal",
+   "lang": "en",
+   "createdAt": "2026-04-09T00:01:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 3,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1413
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "opioidcrisis",
+     "ketaminecrisis",
+     "txlege"
+    ],
+    "mentions": [
+     {
+      "id": "73181712",
+      "username": "TheJusticeDept",
+      "name": "U.S. Department of Justice"
+     },
+     {
+      "id": "90651198",
+      "username": "GregAbbott_TX",
+      "name": "Greg Abbott"
+     },
+     {
+      "id": "45840174",
+      "username": "KenPaxtonTX",
+      "name": "Attorney General Ken Paxton"
+     },
+     {
+      "id": "17582355",
+      "username": "DanPatrick",
+      "name": "Dan Patrick"
+     },
+     {
+      "id": "2678481522",
+      "username": "Burrows4TX",
+      "name": "Dustin Burrows"
+     },
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     },
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     },
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "1351585539753967616",
+      "username": "ASAMonitor",
+      "name": "ASA Monitor"
+     }
+    ],
+    "urls": [
+     "https://www.justice.gov/usao-cdca/pr/north-hollywood-drug-dealer-who-sold-ketamine-killed-actor-matthew-perry-sentenced-15",
+     "https://www.justice.gov/usao-cdca/pr/former-physician-who-ran-calabasas-clinic-sentenced-2-12-years-federal-prison",
+     "https://www.justice.gov/usao-cdca/pr/five-defendants-including-two-doctors-charged-connection-actor-matthew-perrys-fatal"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2034636015697351045",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2034636015697351045",
+   "url": "https://x.com/CRCook1978/status/2034636015697351045",
+   "conversationId": "2034636015697351045",
+   "text": "This Sounds Like “Stark Derangement Syndrome” Hospital systems employing physicians with mandates to self refer internally, penalizing \"leakage,\" and owning every ancillary service. Same incentives @FAHhospitals decries yet on a monopoly scale that drives prices up prices to patients 10-40% with no quality gain.\n\nPhysician owned hospitals deliver 8-15% lower Medicare costs for identical patients, equal/better quality, and real competition. 86+ groups back repeal via H.R. 4002. Time to empower physicians & patients, not enrich vertically integrated hospitals. #RepealTheBan #PhysicianLedCare",
+   "lang": "en",
+   "createdAt": "2026-03-19T14:20:02.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 35,
+    "bookmarks": 3,
+    "views": 1778
+   },
+   "replyTo": null,
+   "quotedTweetId": "2034316569421971488",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "RepealTheBan",
+     "PhysicianLedCare"
+    ],
+    "mentions": [
+     {
+      "id": "1060860422",
+      "username": "FAHhospitals",
+      "name": "Federation of American Hospitals"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2034635961343357298",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2034635961343357298",
+   "url": "https://x.com/CRCook1978/status/2034635961343357298",
+   "conversationId": "2034316569421971488",
+   "text": "This Sounds Like “Stark Derangement Syndrome” Hospital systems employing physicians with mandates to self refer internally, penalizing \"leakage,\" and owning every ancillary service. Same incentives @FAHhospitals decries yet on a monopoly scale that drives prices up prices to patients 10-40% with no quality gain.\n\nPhysician owned hospitals deliver 8-15% lower Medicare costs for identical patients, equal/better quality, and real competition. 86+ groups back repeal via H.R. 4002. Time to empower physicians & patients, not enrich vertically integrated hospitals. #RepealTheBan #PhysicianLedCare",
+   "lang": "en",
+   "createdAt": "2026-03-19T14:19:49.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 57,
+    "bookmarks": 5,
+    "views": 2312
+   },
+   "replyTo": {
+    "tweetId": "2034316569421971488",
+    "userId": "1060860422",
+    "username": "FAHhospitals"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "RepealTheBan",
+     "PhysicianLedCare"
+    ],
+    "mentions": [
+     {
+      "id": "1060860422",
+      "username": "FAHhospitals",
+      "name": "Federation of American Hospitals"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2034477558209884391",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2034477558209884391",
+   "url": "https://x.com/CRCook1978/status/2034477558209884391",
+   "conversationId": "2034034712604278857",
+   "text": "@PedsMamaDoc @rgergelymd @mass_marion @HouseCommerce @tbmedicine @sabarizvimd @RobertKennedyJr @somedocs @MidwesternDoc @AAPSonline @DrBruggeman It’s not a Flaw it’s a Feature, Created and Allowed by our government through effective lobbying by health plans.",
+   "lang": "en",
+   "createdAt": "2026-03-19T03:50:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 39
+   },
+   "replyTo": {
+    "tweetId": "2034438054568395224",
+    "userId": "957783498089050112",
+    "username": "PedsMamaDoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "957783498089050112",
+      "username": "PedsMamaDoc",
+      "name": "Christina Dewey, MD, FAAP"
+     },
+     {
+      "id": "805163799988711424",
+      "username": "rgergelymd",
+      "name": "Robert Gergely, MD"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     },
+     {
+      "id": "114756202",
+      "username": "HouseCommerce",
+      "name": "Energy and Commerce Committee"
+     },
+     {
+      "id": "50763777",
+      "username": "tbmedicine",
+      "name": "Take Back Medicine"
+     },
+     {
+      "id": "997041128942825472",
+      "username": "sabarizvimd",
+      "name": "Saba Rizvi M.D. FAAEM"
+     },
+     {
+      "id": "337808606",
+      "username": "RobertKennedyJr",
+      "name": "Robert F. Kennedy Jr"
+     },
+     {
+      "id": "987321611329130496",
+      "username": "somedocs",
+      "name": "Doctors On Social Media"
+     },
+     {
+      "id": "1602472683421081600",
+      "username": "MidwesternDoc",
+      "name": "A Midwestern Doctor"
+     },
+     {
+      "id": "42769016",
+      "username": "AAPSonline",
+      "name": "Association of American Physicians & Surgeons"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2034335897177690590",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2034335897177690590",
+   "url": "https://x.com/CRCook1978/status/2034335897177690590",
+   "conversationId": "2034335897177690590",
+   "text": "Grateful to @TSAPhysicians  for the recognition & the opportunity to serve.\n\nFirst, I thank God. Leadership is stewardship, not entitlement, and that truth shapes how I approach this work.\n\nI’m deeply grateful to my family, who carry the unseen sacrifices behind every commitment, and to my colleagues and friends in TSA for their trust. That trust matters.\n\nThis role is not about recognition it’s about responsibility.\n\nThe work ahead is significant. It matters for our specialty, for our patients, and for those coming after us. @ASALifeline @ASAGrassroots @ASAMonitor",
+   "lang": "en",
+   "createdAt": "2026-03-18T18:27:28.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 368
+   },
+   "replyTo": null,
+   "quotedTweetId": "2033650169762468018",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2034335890018099200",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDtptq5bYAAXMc9.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HDtptq5bYAAXMc9.jpg",
+     "width": 1290,
+     "height": 823,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     },
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     },
+     {
+      "id": "1351585539753967616",
+      "username": "ASAMonitor",
+      "name": "ASA Monitor"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2030697440198676546",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2030697440198676546",
+   "url": "https://x.com/CRCook1978/status/2030697440198676546",
+   "conversationId": "2030697440198676546",
+   "text": "Leadership should be judged on facts and service. @szaafran has dedicated his career to patient care and upholding the mission of the Texas Medical Board. The reporting confirms there is no evidence of wrongdoing, the title of the article draws attention, but ultimately to a non story by @DallasExpress. Texas patients deserve strong physician leadership, and Dr. Zaafran’s record reflects exactly that. @texmed @TSAPhysicians @ASAGrassroots @ASALifeline \n\nhttps://dallasexpress.com/state/texas-medical-board-president-isna-terror-ties-uncovering-the-truth/",
+   "lang": "en",
+   "createdAt": "2026-03-08T17:29:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 10,
+    "quotes": 2,
+    "likes": 17,
+    "bookmarks": 1,
+    "views": 14285
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "48894322",
+      "username": "szaafran",
+      "name": "Sherif Zaafran, MD"
+     },
+     {
+      "id": "1348707961603055617",
+      "username": "DallasExpress",
+      "name": "The Dallas Express News"
+     },
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     },
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     },
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     }
+    ],
+    "urls": [
+     "https://dallasexpress.com/state/texas-medical-board-president-isna-terror-ties-uncovering-the-truth/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2015851866135949767",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2015851866135949767",
+   "url": "https://x.com/CRCook1978/status/2015851866135949767",
+   "conversationId": "2015851866135949767",
+   "text": "TSA Members-\nThinking about locums or 1099 work in 2026?\nConsidering independent Practice \n but unsure where to start? Join us for a virtual CME this Saturday. 🚀 @TSAPhysicians @ASAGrassroots @texmed https://x.com/CRCook1978/status/2015851866135949767/photo/1",
+   "lang": "en",
+   "createdAt": "2026-01-26T18:18:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 3,
+    "likes": 14,
+    "bookmarks": 0,
+    "views": 13284
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2015851861845098496",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_m-loEWQAAhzG0.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_m-loEWQAAhzG0.jpg",
+     "width": 1254,
+     "height": 1240,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     },
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2015842707839549598",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2015842707839549598",
+   "url": "https://x.com/CRCook1978/status/2015842707839549598",
+   "conversationId": "2015842707839549598",
+   "text": "Let’s Go 😀 https://x.com/CRCook1978/status/2015842707839549598/photo/1",
+   "lang": "en",
+   "createdAt": "2026-01-26T17:42:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 228
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2015842704089825280",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_m2QkxWQAAnn4j.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_m2QkxWQAAnn4j.jpg",
+     "width": 1290,
+     "height": 1273,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2012610673717440985",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2012610673717440985",
+   "url": "https://x.com/CRCook1978/status/2012610673717440985",
+   "conversationId": "2012610673717440985",
+   "text": "🪡 🧵I appreciate @EdGainesIII bringing up the healthplans priorities & refuting them. I will expand on his discussion.\n1/ AHIP claims it wants to “make health care more affordable.” https://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable\nAs a solo independent physician who deals daily with the No Surprises Act (NSA) and IDR, here’s a fact-based, point-by-point response using backing claims— not talking points. \n\nAHIP’s July 30, 2025 article claims Congress should “Stop Private Equity’s Misuse of the No Surprises Act (NSA).” I’m a solo independent physician who works daily inside NSA Independent Dispute Resolution (IDR), and the real problem is health plans’ “No / Low / Slow Pay” after they LOSE binding arbitration, combined with procedural gamesmanship that forces small practices like mine to keep writing obscene checks just to get paid fairly.\n\nCMS reports that as of Nov. 30, 2025, 4,634,956 IDR disputes had been initiated and over 3.2 million payment determinations issued.\nhttps://www.cms.gov/nosurprises/policies-and-resources/reports\n\nCongressional Research Service reports ~$718 million in IDR fees in 2024 alone, with initiating parties’ offers selected ~85% of the time, which directly contradicts the claim that physicians  are abusing arbitration.\nhttps://www.congress.gov/crs_external_products/R/PDF/R48738/R48738.2.pdf\n\nThe AMA documents that late payment & nonpayment after IDR determinations is widespread, despite the statute requiring timely payment.\nhttps://www.ama-assn.org/health-care-advocacy/access-care/one-wrinkle-surprise-billing-law-health-plans-aren-t-paying\n\nMixed court decisions on enforcement of NSA IDR determinations is a Red Line that Congress needs to Act to eliminate judicial ambiguity. \nhttps://www.govinfo.gov/content/pkg/USCOURTS-ctd-3_24-cv-00680/pdf/USCOURTS-ctd-3_24-cv-00680-1.pdf?utm_source=chatgpt.com\n\nhttps://www.ca5.uscourts.gov/opinions/pub/24/24-10561-CV0.pdf?utm_source=chatgpt.com\n\nCongress already wrote the rule. Now enforce it. Sign on and Vote Yes on \nNo Surprises Act Enforcement Act (Murphy–Marshall):\nHouse: https://www.congress.gov/bill/119th-congress/house-bill/4710\nSenate: https://www.congress.gov/bill/119th-congress/senate-bill/2420\n\nhttps://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable\n\n@RobertKennedyJr @DrOz @realDonaldTrump @MikeJohnson @LeaderJohnThune \n@RepRaulRuizMD @DrKimSchrier @RepHerbConaway @herbconaway @MaxineDexterMD @Morrison4MN @RepBera @RepMMM @RepMarkGreen @RepGregMurphy @RepRonnyJackson @RepJohnJoyce @RepNealDunn @RepAndyHarrisMD @RichforGA @RepDesJarlais @SenJohnBarrasso @SenBillCassidy @RogerMarshallMD @DrRandPaul @MikeKennedyUT @BobOnderMO\n@RepRaulRuizMD @DrKimSchrier\n@RepHerbConaway \n@MaxineDexterMD @Morrison4MN\n@RepBera\n@GOPDoctors",
+   "lang": "en",
+   "createdAt": "2026-01-17T19:39:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 1559
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     },
+     {
+      "id": "337808606",
+      "username": "RobertKennedyJr",
+      "name": "Robert F. Kennedy Jr"
+     },
+     {
+      "id": "38531995",
+      "username": "DrOz",
+      "name": "Dr. Mehmet Oz"
+     },
+     {
+      "id": "25073877",
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "id": "4849654052",
+      "username": "MikeJohnson",
+      "name": "Mike Johnson"
+     },
+     {
+      "id": "296361085",
+      "username": "LeaderJohnThune",
+      "name": "Leader John Thune"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "52596035",
+      "username": "herbconaway",
+      "name": "Dr. Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1345807954604412929",
+      "username": "RepMMM",
+      "name": "Rep. Mariannette Miller-Meeks, M.D."
+     },
+     {
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen",
+      "name": "Rep. Mark Green"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson",
+      "name": "Ronny Jackson"
+     },
+     {
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce",
+      "name": "John Joyce, M.D."
+     },
+     {
+      "id": "3433227779",
+      "username": "RepNealDunn",
+      "name": "Neal Dunn"
+     },
+     {
+      "id": "960962340",
+      "username": "RepAndyHarrisMD",
+      "name": "Rep. Andy Harris, MD"
+     },
+     {
+      "id": "1136709465082945538",
+      "username": "RichforGA",
+      "name": "Dr. Rich McCormick for Congress"
+     },
+     {
+      "id": "202206694",
+      "username": "SenJohnBarrasso",
+      "name": "Sen. John Barrasso"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "39834947",
+      "username": "DrRandPaul",
+      "name": "Rand Paul"
+     },
+     {
+      "id": "1604949372",
+      "username": "BobOnderMO",
+      "name": "Dr. Bob Onder"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1358501532090703874",
+      "username": "GOPDoctors",
+      "name": "GOP Doctors Caucus"
+     }
+    ],
+    "urls": [
+     "https://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable",
+     "https://www.cms.gov/nosurprises/policies-and-resources/reports",
+     "https://www.congress.gov/crs_external_products/R/PDF/R48738/R48738.2.pdf",
+     "https://www.ama-assn.org/health-care-advocacy/access-care/one-wrinkle-surprise-billing-law-health-plans-aren-t-paying",
+     "https://www.govinfo.gov/content/pkg/USCOURTS-ctd-3_24-cv-00680/pdf/USCOURTS-ctd-3_24-cv-00680-1.pdf?utm_source=chatgpt.com",
+     "https://www.ca5.uscourts.gov/opinions/pub/24/24-10561-CV0.pdf?utm_source=chatgpt.com",
+     "https://www.congress.gov/bill/119th-congress/house-bill/4710",
+     "https://www.congress.gov/bill/119th-congress/senate-bill/2420",
+     "https://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2010034804998504491",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2010034804998504491",
+   "url": "https://x.com/CRCook1978/status/2010034804998504491",
+   "conversationId": "2010019045257679112",
+   "text": "@EdGainesIII @HCAhealthcare Um…How many of those will have an ER board certified physician staffing them on sight 24/7? How many of them will have a physician staffing them 24/7?",
+   "lang": "en",
+   "createdAt": "2026-01-10T17:03:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 105
+   },
+   "replyTo": {
+    "tweetId": "2010019045257679112",
+    "userId": "624969131",
+    "username": "EdGainesIII"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     },
+     {
+      "id": "64481865",
+      "username": "HCAhealthcare",
+      "name": "HCA Healthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2008876862538502429",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2008876862538502429",
+   "url": "https://x.com/CRCook1978/status/2008876862538502429",
+   "conversationId": "2007892311695569174",
+   "text": "This is what happens when Congress fails to act to create enforcement of NSA IDR decisions, the plans have all the leverage. Forcing hospitals and physicians to the courts.",
+   "lang": "en",
+   "createdAt": "2026-01-07T12:22:21.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 198
+   },
+   "replyTo": {
+    "tweetId": "2007892311695569174",
+    "userId": "1830264295",
+    "username": "CRCook1978"
+   },
+   "quotedTweetId": "2008866542797107532",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2007678255319679031",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2007678255319679031",
+   "url": "https://x.com/CRCook1978/status/2007678255319679031",
+   "conversationId": "2004285168044200197",
+   "text": "Great conversation, @mcuban building on \n@DrBruggeman point, the penalties are real on physicians and asymmetrical when compared to health plans. @EdGainesIII @drdanchoi & @mass_marion are excellent resources on this topic as well & I hope they can expand & clarify on penalties against doctors when they overcharge. \n\nMy understanding is that for \nIn-network overcharging a patient for their cost sharing responsibility is a health plan contract violation. It leads to health plan network termination, unjust/gross  enrichment litigation claims, and exposure to state attorneys general and medical licensing boards action for insurance fraud. If Medicare Advantage is involved, it gets uglier as CMS can investigate administer civil monetary penalties and pursue criminal charges, and potential Medicare program exclusion.\n\nOut-of-network overcharging patients under the No Surprises Act is illegal balance billing. It exposes physicians to civil penalties of up to $10,000 per claim, mandatory patient refunds within 30 days, loss of any good-faith protection if violations repeat, federal audits, corrective action plans, and layered state enforcement and again gross enrichment civil litigation.\n\nAlso note for Cash Pay or Self pay patients they can request Good Faith Estimates. If the final physician bill exceeds the estimate by $400 or more, the patient can invoke the federal dispute resolution process, adding another enforcement lever on doctors.\n\nWhat Congress failed to do when they passed the #NoSurpisesAct was spell out enforcement for dead beat health plans that No/Low/Slow pay after they lose in arbitration, and CMS and the courts have not fixed this asymmetry through rule making and key litigation. \n\nWe need support for the Bicameral Bipartisan bill introduced by @RepGregMurphy the No Surprises Enforcement Act. \n\nhttp://murphy.house.gov/media/press-releases/murphy-introduces-bipartisan-bicameral-legislation-improve-enforcement-no\n\n@RogerMarshallMD @SenatorBennet \n\nhttps://www.congress.gov/bill/118th-congress/senate-bill/5535/text/is\n\n@RepRaulRuizMD @DrKimSchrier @RepHerbConaway @herbconaway @MaxineDexterMD @Morrison4MN @RepBera @RepMMM @RepMarkGreen @RepGregMurphy @RepRonnyJackson @RepJohnJoyce @RepNealDunn @RepAndyHarrisMD @RichforGA @RepDesJarlais @SenJohnBarrasso @SenBillCassidy @RogerMarshallMD @DrRandPaul @MikeKennedyUT @BobOnderMO\n@RepRaulRuizMD @DrKimSchrier\n@RepHerbConaway \n@MaxineDexterMD @Morrison4MN\n@RepBera",
+   "lang": "en",
+   "createdAt": "2026-01-04T04:59:31.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 2,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 870
+   },
+   "replyTo": {
+    "tweetId": "2007521415080370467",
+    "userId": "16228398",
+    "username": "mcuban"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurpisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     },
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     },
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "224285242",
+      "username": "SenatorBennet",
+      "name": "Michael Bennet"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "52596035",
+      "username": "herbconaway",
+      "name": "Dr. Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1345807954604412929",
+      "username": "RepMMM",
+      "name": "Rep. Mariannette Miller-Meeks, M.D."
+     },
+     {
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen",
+      "name": "Rep. Mark Green"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson",
+      "name": "Ronny Jackson"
+     },
+     {
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce",
+      "name": "John Joyce, M.D."
+     },
+     {
+      "id": "3433227779",
+      "username": "RepNealDunn",
+      "name": "Neal Dunn"
+     },
+     {
+      "id": "960962340",
+      "username": "RepAndyHarrisMD",
+      "name": "Rep. Andy Harris, MD"
+     },
+     {
+      "id": "1136709465082945538",
+      "username": "RichforGA",
+      "name": "Dr. Rich McCormick for Congress"
+     },
+     {
+      "id": "202206694",
+      "username": "SenJohnBarrasso",
+      "name": "Sen. John Barrasso"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "39834947",
+      "username": "DrRandPaul",
+      "name": "Rand Paul"
+     },
+     {
+      "id": "1604949372",
+      "username": "BobOnderMO",
+      "name": "Dr. Bob Onder"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     }
+    ],
+    "urls": [
+     "http://murphy.house.gov/media/press-releases/murphy-introduces-bipartisan-bicameral-legislation-improve-enforcement-no",
+     "https://www.congress.gov/bill/118th-congress/senate-bill/5535/text/is"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2003665846342738243",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2003665846342738243",
+   "url": "https://x.com/CRCook1978/status/2003665846342738243",
+   "conversationId": "2003665846342738243",
+   "text": "Great Job @EdGainesIII, if your post draws @LorenAdler out, it means the health plans are mad & are spending dollars to get their talking heads to defend their crony capitalism.  It’s actually pathetic for anyone to defend an insurance policy that is illegal in many states. Also pathetic, when an @AHIPCoverage member like @ElevanceHealth punishes hospitals @ahahospitals in order to force a hospital based physician group into a bad contract. It just goes to show there is still more work to be done on the #nosurprisesact. \n\nWe need to understand what is driving IDR Volume  https://www.healthaffairs.org/do/10.1377/forefront.20251029.30788/\n\nWe should also focus on enforcement of NSA IDR determinations with key bipartisan legislation to stop Dead Beat Health Plans that No/Low/Slow pay following IDR. \n\n@RogerMarshallMD @SenatorBennet \nhttps://www.congress.gov/bill/118th-congress/senate-bill/5535/text/is\n\nhttps://murphy.house.gov/media/press-releases/murphy-introduces-bipartisan-bicameral-legislation-improve-enforcement-no \n\n@RepRaulRuizMD @DrKimSchrier @RepHerbConaway @herbconaway @MaxineDexterMD @Morrison4MN @RepBera @RepMMM @RepMarkGreen @RepGregMurphy @RepRonnyJackson @RepJohnJoyce @RepNealDunn @RepAndyHarrisMD @RichforGA @RepDesJarlais @SenJohnBarrasso @SenBillCassidy @RogerMarshallMD @DrRandPaul @MikeKennedyUT @BobOnderMO\n@RepRaulRuizMD @DrKimSchrier\n@RepHerbConaway \n@MaxineDexterMD @Morrison4MN\n@RepBera\n@GOPDoctors",
+   "lang": "en",
+   "createdAt": "2025-12-24T03:15:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 366
+   },
+   "replyTo": null,
+   "quotedTweetId": "2003219317442457753",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "nosurprisesact"
+    ],
+    "mentions": [
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     },
+     {
+      "id": "346082172",
+      "username": "LorenAdler",
+      "name": "Loren Adler"
+     },
+     {
+      "id": "22797378",
+      "username": "AHIPCoverage",
+      "name": "AHIP"
+     },
+     {
+      "id": "435302260",
+      "username": "ElevanceHealth",
+      "name": "Elevance Health"
+     },
+     {
+      "id": "241215352",
+      "username": "ahahospitals",
+      "name": "American Hospital Association"
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "224285242",
+      "username": "SenatorBennet",
+      "name": "Michael Bennet"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "52596035",
+      "username": "herbconaway",
+      "name": "Dr. Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1345807954604412929",
+      "username": "RepMMM",
+      "name": "Rep. Mariannette Miller-Meeks, M.D."
+     },
+     {
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen",
+      "name": "Rep. Mark Green"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson",
+      "name": "Ronny Jackson"
+     },
+     {
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce",
+      "name": "John Joyce, M.D."
+     },
+     {
+      "id": "3433227779",
+      "username": "RepNealDunn",
+      "name": "Neal Dunn"
+     },
+     {
+      "id": "960962340",
+      "username": "RepAndyHarrisMD",
+      "name": "Rep. Andy Harris, MD"
+     },
+     {
+      "id": "1136709465082945538",
+      "username": "RichforGA",
+      "name": "Dr. Rich McCormick for Congress"
+     },
+     {
+      "id": "202206694",
+      "username": "SenJohnBarrasso",
+      "name": "Sen. John Barrasso"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "39834947",
+      "username": "DrRandPaul",
+      "name": "Rand Paul"
+     },
+     {
+      "id": "1604949372",
+      "username": "BobOnderMO",
+      "name": "Dr. Bob Onder"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1358501532090703874",
+      "username": "GOPDoctors",
+      "name": "GOP Doctors Caucus"
+     }
+    ],
+    "urls": [
+     "https://www.healthaffairs.org/do/10.1377/forefront.20251029.30788/",
+     "https://www.congress.gov/bill/118th-congress/senate-bill/5535/text/is",
+     "https://murphy.house.gov/media/press-releases/murphy-introduces-bipartisan-bicameral-legislation-improve-enforcement-no"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1990133008511222188",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1990133008511222188",
+   "url": "https://x.com/CRCook1978/status/1990133008511222188",
+   "conversationId": "1990133008511222188",
+   "text": "Hey @elonmusk @X &amp; @grok Why are strong independent voices for patients &amp; physicians being throttled like @drdanchoi &amp; @mass_marion ? I’ve watched the view counts drop despite substantial followings &amp; major media publications &amp; numerous bookmarks and retweets.",
+   "lang": "en",
+   "createdAt": "2025-11-16T19:00:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 75
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44196397",
+      "username": "elonmusk",
+      "name": "Elon Musk"
+     },
+     {
+      "id": "783214",
+      "username": "X",
+      "name": "X"
+     },
+     {
+      "id": "1720665183188922368",
+      "username": "grok",
+      "name": "Grok"
+     },
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1989118426204500339",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1989118426204500339",
+   "url": "https://x.com/CRCook1978/status/1989118426204500339",
+   "conversationId": "1988810290767548793",
+   "text": "@EricLDaugh Others like @SenBillCassidy calling out the Health Plans 👇🏻",
+   "lang": "en",
+   "createdAt": "2025-11-13T23:49:23.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 3,
+    "views": 2064
+   },
+   "replyTo": {
+    "tweetId": "1988810290767548793",
+    "userId": "763094579491008512",
+    "username": "EricLDaugh"
+   },
+   "quotedTweetId": "1989103093024453015",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "763094579491008512",
+      "username": "EricLDaugh",
+      "name": "Eric Daugherty"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1988978373628956743",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1988978373628956743",
+   "url": "https://x.com/CRCook1978/status/1988978373628956743",
+   "conversationId": "1988810290767548793",
+   "text": "@EricLDaugh It’s important not to Subsidize the scams of health plans who are making unconscionable profits. Another problem that needs to be addressed is the “Shared Savings” Scheme look 👀👇🏻",
+   "lang": "en",
+   "createdAt": "2025-11-13T14:32:52.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 2,
+    "views": 5023
+   },
+   "replyTo": {
+    "tweetId": "1988810290767548793",
+    "userId": "763094579491008512",
+    "username": "EricLDaugh"
+   },
+   "quotedTweetId": "1985478740160503900",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "763094579491008512",
+      "username": "EricLDaugh",
+      "name": "Eric Daugherty"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1988084897026912525",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1988084897026912525",
+   "url": "https://x.com/CRCook1978/status/1988084897026912525",
+   "conversationId": "1987974689344663567",
+   "text": "@WallStreetApes Worth a Look 👀 👇🏻 https://x.com/crcook1978/status/1985478740160503900?s=46&t=5nYsBulmBa2xjWSNdx7sbA",
+   "lang": "en",
+   "createdAt": "2025-11-11T03:22:30.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 1367
+   },
+   "replyTo": {
+    "tweetId": "1987974689344663567",
+    "userId": "1099579684981944320",
+    "username": "WallStreetApes"
+   },
+   "quotedTweetId": "1985478740160503900",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1099579684981944320",
+      "username": "WallStreetApes",
+      "name": "Wall Street Apes"
+     }
+    ],
+    "urls": [
+     "https://x.com/crcook1978/status/1985478740160503900?s=46&t=5nYsBulmBa2xjWSNdx7sbA"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1988084504775590101",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1988084504775590101",
+   "url": "https://x.com/CRCook1978/status/1988084504775590101",
+   "conversationId": "1987974689344663567",
+   "text": "@WallStreetApes Worth a listen to @mass_marion stop feeding the greedy Middlemen #BigInsurance &amp; #PBM’s \n\nhttps://x.com/1210wpht/status/1988002904335118383?s=46&t=5nYsBulmBa2xjWSNdx7sbA",
+   "lang": "en",
+   "createdAt": "2025-11-11T03:20:57.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 8,
+    "views": 2489
+   },
+   "replyTo": {
+    "tweetId": "1987974689344663567",
+    "userId": "1099579684981944320",
+    "username": "WallStreetApes"
+   },
+   "quotedTweetId": "1988002904335118383",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "BigInsurance",
+     "PBM"
+    ],
+    "mentions": [
+     {
+      "id": "1099579684981944320",
+      "username": "WallStreetApes",
+      "name": "Wall Street Apes"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     }
+    ],
+    "urls": [
+     "https://x.com/1210wpht/status/1988002904335118383?s=46&t=5nYsBulmBa2xjWSNdx7sbA"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1988040748348870959",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1988040748348870959",
+   "url": "https://x.com/CRCook1978/status/1988040748348870959",
+   "conversationId": "1988040748348870959",
+   "text": "Thank you, @X, for ultimately doing the right thing. My post about the @Health_Affairs article on “shared savings” schemes by #BigInsurance & #HealthPlans may have offended some—but sometimes the truth hurts. Labeling a peer-reviewed article as “spam” instead of engaging in real dialogue, debate & problem-solving? That’s Low.  #TXLEGE",
+   "lang": "en",
+   "createdAt": "2025-11-11T00:27:05.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 397
+   },
+   "replyTo": null,
+   "quotedTweetId": "1985478740160503900",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1988040626412138496",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5bwaqhXMAAT4jr.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G5bwaqhXMAAT4jr.jpg",
+     "width": 945,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1988040626399559680",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5bwaqeXQAAQtPv.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G5bwaqeXQAAQtPv.jpg",
+     "width": 1290,
+     "height": 782,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "BigInsurance",
+     "HealthPlans",
+     "TXLEGE"
+    ],
+    "mentions": [
+     {
+      "id": "783214",
+      "username": "X",
+      "name": "X"
+     },
+     {
+      "id": "15235829",
+      "username": "Health_Affairs",
+      "name": "Health Affairs"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986560806587130011",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1986560806587130011",
+   "url": "https://x.com/CRCook1978/status/1986560806587130011",
+   "conversationId": "1986560806587130011",
+   "text": "Hospitals now spend nearly 2x more on administration than on direct patient care — $687B vs. $346B in 2023.\nAdmin costs up 87% since 2011, outpacing patient care growth.\nA system built for paperwork, not patients.\n\n🔗 http://trillianthealth.com/market-research/studies/hospital-administrative-expenditures-exceed-direct-patient-care-by-nearly-2x\n#HealthPolicy #HealthcareReform #Hospitals #Efficiency",
+   "lang": "en",
+   "createdAt": "2025-11-06T22:26:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 4,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 892
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "HealthPolicy",
+     "HealthcareReform",
+     "Hospitals",
+     "Efficiency"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://trillianthealth.com/market-research/studies/hospital-administrative-expenditures-exceed-direct-patient-care-by-nearly-2x"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986525770475569285",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1986525770475569285",
+   "url": "https://x.com/CRCook1978/status/1986525770475569285",
+   "conversationId": "1986522743014101081",
+   "text": "@drcraigwax @Rosemary100 It’s time to bring our medication 💊 manufacturing home.",
+   "lang": "en",
+   "createdAt": "2025-11-06T20:07:06.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 255
+   },
+   "replyTo": {
+    "tweetId": "1986522743014101081",
+    "userId": "489507027",
+    "username": "drcraigwax"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "489507027",
+      "username": "drcraigwax",
+      "name": "Craig M. Wax D.O."
+     },
+     {
+      "id": "25342288",
+      "username": "Rosemary100",
+      "name": "Rosemary Gibson"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986479168729612564",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1986479168729612564",
+   "url": "https://x.com/CRCook1978/status/1986479168729612564",
+   "conversationId": "1986057214356857183",
+   "text": "@drdanchoi Great to have @ASAMonitor sharing the story. 👀 👇🏻",
+   "lang": "en",
+   "createdAt": "2025-11-06T17:01:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 279
+   },
+   "replyTo": {
+    "tweetId": "1986057214356857183",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": "1986474354646131025",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     },
+     {
+      "id": "1351585539753967616",
+      "username": "ASAMonitor",
+      "name": "ASA Monitor"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986473895428551023",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1986473895428551023",
+   "url": "https://x.com/CRCook1978/status/1986473895428551023",
+   "conversationId": "1986473895428551023",
+   "text": "Thank you @ASAMonitor  @ASALifeline @ASAGrassroots for the promo on the @Health_Affairs article 👇🏻 https://x.com/CRCook1978/status/1986473895428551023/photo/1",
+   "lang": "en",
+   "createdAt": "2025-11-06T16:40:58.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 7,
+    "quotes": 1,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 1184
+   },
+   "replyTo": null,
+   "quotedTweetId": "1985478740160503900",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1986473890625835008",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5Ffeo5XUAADoiR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G5Ffeo5XUAADoiR.jpg",
+     "width": 1146,
+     "height": 1156,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1351585539753967616",
+      "username": "ASAMonitor",
+      "name": "ASA Monitor"
+     },
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     },
+     {
+      "id": "15235829",
+      "username": "Health_Affairs",
+      "name": "Health Affairs"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986059070030094706",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1986059070030094706",
+   "url": "https://x.com/CRCook1978/status/1986059070030094706",
+   "conversationId": "1985478740160503900",
+   "text": "Thank you for jumping in and beating the algorithm @drdanchoi",
+   "lang": "en",
+   "createdAt": "2025-11-05T13:12:36.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 465
+   },
+   "replyTo": {
+    "tweetId": "1985478740160503900",
+    "userId": "1830264295",
+    "username": "CRCook1978"
+   },
+   "quotedTweetId": "1986057214356857183",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1977006312375369826",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1977006312375369826",
+   "url": "https://x.com/CRCook1978/status/1977006312375369826",
+   "conversationId": "1977006312375369826",
+   "text": "Lots of @TSAPhysicians on the stage this morning. Thank you for Serving Dr. Rebello, Dr. Giam, and Dr. Zerwas (ASA DSA Award Winner! )\n@armedispolite @HofkampMichael \n@DrJPennycuff @EPanesth \n@TiffanyMoonMD @marydahlen \n@jaimeortizmd @udaya_bhaskar49 \n@E_want_the_funk @PerryJeremie \n@bskolle @pjgarciamd\n@anesthesia6sigm @ERebelloMD\n@szaafran @TomOliverson @DocRayC @ZachJonesForTX @GottumukVijaya @j_balogh_MD @jamesantonMD @ZeshanMKhan\n@johnsco15761091\n@JohnOkMD",
+   "lang": "en",
+   "createdAt": "2025-10-11T13:40:10.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 1171
+   },
+   "replyTo": null,
+   "quotedTweetId": "1976998863878955345",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1977006296436973568",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2-8wIHWIAA11Ct.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G2-8wIHWIAA11Ct.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1977006296361476096",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2-8wH1WIAABXee.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G2-8wH1WIAABXee.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1977006296374083584",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2-8wH4WgAAe5J7.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G2-8wH4WgAAe5J7.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     },
+     {
+      "id": "1403530747",
+      "username": "armedispolite",
+      "name": "🇺🇸Pete🇨🇦"
+     },
+     {
+      "id": "1254161299845656583",
+      "username": "HofkampMichael",
+      "name": "Michael Hofkamp, MD, FASA"
+     },
+     {
+      "id": "1225455368228261893",
+      "username": "DrJPennycuff",
+      "name": "Dr. Jenny Pennycuff"
+     },
+     {
+      "id": "1451888574",
+      "username": "EPanesth",
+      "name": "Evan Pivalizza"
+     },
+     {
+      "id": "2855660400",
+      "username": "TiffanyMoonMD",
+      "name": "Tiffany Moon, MD, FASA, D.ABA"
+     },
+     {
+      "id": "3531215354",
+      "username": "marydahlen",
+      "name": "Mary Dale Peterson"
+     },
+     {
+      "id": "716010996788137984",
+      "username": "jaimeortizmd",
+      "name": "Jaime Ortiz, M.D., MBA, DABMA, FACMQ, CPPS, FASA"
+     },
+     {
+      "id": "255318660",
+      "username": "udaya_bhaskar49",
+      "name": "BHASKAR"
+     },
+     {
+      "id": "1245905179322523648",
+      "username": "E_want_the_funk",
+      "name": "Ellen Whitman, MD"
+     },
+     {
+      "id": "3549858792",
+      "username": "PerryJeremie",
+      "name": "Jeremie Perry"
+     },
+     {
+      "id": "542896760",
+      "username": "bskolle",
+      "name": "Dr. Bracken Kolle ⚕"
+     },
+     {
+      "id": "1254593132",
+      "username": "pjgarciamd",
+      "name": "Priscilla Garcia"
+     },
+     {
+      "id": "616173174",
+      "username": "anesthesia6sigm",
+      "name": "Tillmann Hein"
+     },
+     {
+      "id": "786719433498562560",
+      "username": "ERebelloMD",
+      "name": "Elizabeth Rebello, MD, FASA"
+     },
+     {
+      "id": "48894322",
+      "username": "szaafran",
+      "name": "Sherif Zaafran, MD"
+     },
+     {
+      "id": "3060663253",
+      "username": "TomOliverson",
+      "name": "Tom Oliverson, M.D."
+     },
+     {
+      "id": "2276220714",
+      "username": "DocRayC",
+      "name": "Ray Callas"
+     },
+     {
+      "id": "1400176293375889414",
+      "username": "ZachJonesForTX",
+      "name": "Zach Jones MD"
+     },
+     {
+      "id": "913240938000023558",
+      "username": "GottumukVijaya",
+      "name": "Vijaya Gottumukkala"
+     },
+     {
+      "id": "732327417897844738",
+      "username": "j_balogh_MD",
+      "name": "Julius Balogh"
+     },
+     {
+      "id": "1293358292111106048",
+      "username": "jamesantonMD",
+      "name": "James Anton"
+     },
+     {
+      "id": "1169955812736937987",
+      "username": "johnsco15761091",
+      "name": "john scott"
+     },
+     {
+      "id": "1630302444671344642",
+      "username": "JohnOkMD",
+      "name": "John Ok"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1976998863878955345",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1976998863878955345",
+   "url": "https://x.com/CRCook1978/status/1976998863878955345",
+   "conversationId": "1976998863878955345",
+   "text": "It’s #Anes25 Go Time @TSAPhysicians Opening Session. https://x.com/CRCook1978/status/1976998863878955345/photo/1",
+   "lang": "en",
+   "createdAt": "2025-10-11T13:10:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 1292
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1976998853653008384",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2-1-5lXkAAR6Kg.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G2-1-5lXkAAR6Kg.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Anes25"
+    ],
+    "mentions": [
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

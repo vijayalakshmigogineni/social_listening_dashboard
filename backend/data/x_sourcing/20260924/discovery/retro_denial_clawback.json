@@ -1,0 +1,2758 @@
+{
+ "key": "retro_denial_clawback",
+ "query": "(\"retro denial\" OR \"retroactive denial\" OR recoupment OR clawback OR \"recouped\") (insurance OR payer OR Medicare OR UHC OR Aetna) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102764244554928317",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102764244554928317",
+   "url": "https://x.com/MyInsureGuide/status/2102764244554928317",
+   "conversationId": "2102764244554928317",
+   "text": "CMS canceled 315,000 unauthorized enrollments covering 760,000 people in the federal Marketplace, a $2.2 billion subsidy clawback. Interim rule freezes 2027 registration for agents and brokers lacking a 2026 Exchange Agreement. #insurance #healthinsurance\nhttps://www.cms.gov/newsroom/press-releases/cms-cracks-down-fraud-waste-abuse-federal-health-insurance-marketplacer https://x.com/MyInsureGuide/status/2102764244554928317/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:17:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2055142333767880704",
+    "username": "MyInsureGuide",
+    "name": "My Insurance Guide",
+    "url": "https://x.com/MyInsureGuide",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2076395610459254784/lSc8SiSP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 4
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102764242566774784",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS6E8AyWAAA9rez.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS6E8AyWAAA9rez.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "insurance",
+     "healthinsurance"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.cms.gov/newsroom/press-releases/cms-cracks-down-fraud-waste-abuse-federal-health-insurance-marketplacer"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1934638014090883517",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1934638014090883517",
+   "url": "https://x.com/WallStreetApes/status/1934638014090883517",
+   "conversationId": "1934638014090883517",
+   "text": "American surgeon exposing a new scam US Health Insurance companies are doing\n\n- This surgeon submits her bill to insurance for the patients surgery\n- They say no, and only pay 1/3 of the bill\n- Months later they decide they shouldn’t have even paid that much and submit what’s called a “clawback.”\n- The health insurance company says they overpaid and force the doctor to write them a check\n- The doctor has to write them a check to reimburse the health insurance company for a surgery they only paid 1/3 of to begin with\n- If they don’t send the check, the health insurance company just withholds future payments\n\nShe provides the recipes and notices from the insurance company in this video\n\nHow much worse can things possibly get before someone in power finally stops the healthcare industry",
+   "lang": "en",
+   "createdAt": "2025-06-16T15:43:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1567,
+    "retweets": 8632,
+    "quotes": 541,
+    "likes": 20997,
+    "bookmarks": 3129,
+    "views": 1607649
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1934637815536746496",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1934637815536746496/vid/avc1/720x1280/Z0OSOd53p2fV5O6q.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1934637815536746496/img/-cowbGhyunr1bzb8.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 156
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094350913703932144",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2094350913703932144",
+   "url": "https://x.com/1109Patricia/status/2094350913703932144",
+   "conversationId": "2094350913703932144",
+   "text": "That is not health care. That is a billing operation wearing a lab coat.\n\nCMS Prevents $1.6 Billion in Fraudulent Medicare Laboratory Payments\n157 lab providers kicked out of Medicare.\n\nThat is not a rounding error. That is a pipeline.\nSince President Trump returned to office, CMS and the White House Task Force to Eliminate Fraud have blocked or clawed back more than $1.6 billion in potentially improper Medicare laboratory payments. \n\nThe labs were billing for tests that were never performed, tests patients did not need, and services marked up beyond what should have been paid.\n\nHere is how the $1.6 billion breaks down.\n$732 million saved by revoking 157 fraudulent lab providers from the Medicare program.\nMore than $500 million stopped after investigators reviewed about 600 labs and issued 185 payment suspensions.\n$276 million recouped from 442 overpayments that had already gone out the door.\n$127 million prevented after 85 cases were referred to law enforcement.\nRead that again. Some of the money never left. Some of it had to be chased after it was already stolen. Both are an admission that the system was being farmed.\n\nOne case shows how easy it was. A consulting-company owner enrolled 14 laboratories in Medicare and billed more than $24 million. CMS said none of those labs appeared to be operating. No working clinic. No staff. No equipment. Fourteen names on paper and a claim machine aimed at the Trust Fund. CMS held back $12 million, recovered another $7 million, and removed most of those labs from the program. The rest are still under investigation.\n\nThat is not health care. That is a billing operation wearing a lab coat.\n\nCMS Administrator Dr. Mehmet Oz said the obvious part out loud. When laboratories bill Medicare for tests they never performed, it drains the Medicare Trust Fund and diverts resources away from beneficiaries who need them. Under the White House Anti-Fraud Task Force, CMS says it has built a technology-powered operation using analytics and machine-learning models to flag suspicious patterns before the check goes out. Genetic tests. Drug tests. Pathogen panels. Claims for patients who had no relationship with the ordering provider. Empty offices billing like they were running a hospital.\nThis did not start last week. CMS launched the Fraud Defense Operations Center in 2025. Agency figures put overall Medicare fraud-prevention savings at $42 billion in fiscal year 2025. So far in fiscal year 2026, CMS says it has identified $1.8 billion in Medicare overpayments, collected $378 million, and suspended hundreds of millions more in suspected fraud across labs, medical equipment, hospice, and other corners of the program.\nThe White House line was blunt. The previous administration treated taxpayer-funded programs as piggy banks for fraudsters.\n\nSeniors paid into Medicare their entire working lives. They were told the money would be there when they needed a real test, a real diagnosis, a real doctor. Instead a chunk of it was being vacuumed out by operations that never drew blood, never ran a machine, and never saw the patient.\n\nFraud is not compassion. It is theft from the people who can least afford it.\nRevoke the fake labs. Suspend the payments. Refer the cases. Keep the Trust Fund for Americans who actually earned it.\nThis is what enforcement looks like when someone decides the scam is no longer the cost of doing business.",
+   "lang": "en",
+   "createdAt": "2026-08-31T09:05:43.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1469588630683492357",
+    "username": "1109Patricia",
+    "name": "Patricia 🇺🇸",
+    "url": "https://x.com/1109Patricia",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2091861831006470144/NgiTQKDR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 116,
+    "quotes": 1,
+    "likes": 108,
+    "bookmarks": 13,
+    "views": 6556
+   },
+   "replyTo": null,
+   "quotedTweetId": "2094350450300461329",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2094350909035753472",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRChDjAXsAAFjQq.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRChDjAXsAAFjQq.jpg",
+     "width": 1792,
+     "height": 1008,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1740190825995268178",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1740190825995268178",
+   "url": "https://x.com/CMS_Burden_GOV/status/1740190825995268178",
+   "conversationId": "1740190825995268178",
+   "text": "Official Statement from CMS Leadership.\n\nWe hear complaints that there is an increase in recoupment or refund requests from health plans. \n\nMany requests are outright illegal. Recently, @ElevanceHealth requested a refund from the wrong provider for a patient of a different practice thousands of miles away.\n\nWe warn healthcare providers to be diligent. \n\nDon't send any money to health plans - most of the so-called recoupment requests are illegal, wrong, and illegitimate. \n\n@AmerMedicalAssn @MGMA @ahahospitals @UHC @Aetna @Cigna @BCBSAssociation @TakeWeightOffMD @RolfeWinkler @LaurenWeberHP @wendellpotter @annawmathews @mass_marion @DrQuinn15 @MedSocietyNYS @SaltyEMNY @kevinmd @DGlaucomflecken @DrZuhdiJasser @drjohnm @DavidBalatHC @drdanchoi @danweissmann @GeBaiDC @HarryGewanter @AmCollegeGastro @acog @txsportsdoc @benwhitemd @Rebekah_Bernard @TakeMedBack",
+   "lang": "en",
+   "createdAt": "2023-12-28T01:59:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1648534720513208322",
+    "username": "CMS_Burden_GOV",
+    "name": "CMS Office of Healthcare Experience - Parody",
+    "url": "https://x.com/CMS_Burden_GOV",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1648555203040296960/bdvz737n_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 13,
+    "quotes": 4,
+    "likes": 37,
+    "bookmarks": 8,
+    "views": 27627
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1740190820198699009",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/GCZmVL9W0AEZCC2.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/GCZmVL9W0AEZCC2.jpg",
+     "width": 220,
+     "height": 220,
+     "altText": "Youre Very Good At Taking Money Helen Daniels GIF",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "435302260",
+      "username": "ElevanceHealth",
+      "name": "Elevance Health"
+     },
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "25081344",
+      "username": "MGMA",
+      "name": "Medical Group Management Association"
+     },
+     {
+      "id": "241215352",
+      "username": "ahahospitals",
+      "name": "American Hospital Association"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "16188518",
+      "username": "Aetna",
+      "name": "Aetna"
+     },
+     {
+      "id": "37687077",
+      "username": "Cigna",
+      "name": "Cigna Healthcare"
+     },
+     {
+      "id": "257121420",
+      "username": "BCBSAssociation",
+      "name": "Blue Cross Blue Shield Association"
+     },
+     {
+      "id": "481703086",
+      "username": "TakeWeightOffMD",
+      "name": "Dr Murphy Longevity Expert"
+     },
+     {
+      "id": "19219421",
+      "username": "RolfeWinkler",
+      "name": "Rolfe Winkler"
+     },
+     {
+      "id": "106160229",
+      "username": "LaurenWeberHP",
+      "name": "Lauren Weber"
+     },
+     {
+      "id": "16950628",
+      "username": "wendellpotter",
+      "name": "Wendell Potter"
+     },
+     {
+      "id": "38317061",
+      "username": "annawmathews",
+      "name": "Anna Wilde Mathews"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     },
+     {
+      "id": "1178857591734198272",
+      "username": "DrQuinn15",
+      "name": "DrQuinn"
+     },
+     {
+      "id": "208147891",
+      "username": "MedSocietyNYS",
+      "name": "Medical Society NY"
+     },
+     {
+      "id": "1083023855810211842",
+      "username": "SaltyEMNY",
+      "name": "SaltyEM"
+     },
+     {
+      "id": "11274452",
+      "username": "kevinmd",
+      "name": "Kevin Pho, M.D."
+     },
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     },
+     {
+      "id": "460848738",
+      "username": "DrZuhdiJasser",
+      "name": "M. Zuhdi Jasser"
+     },
+     {
+      "id": "139173680",
+      "username": "drjohnm",
+      "name": "John Mandrola, MD"
+     },
+     {
+      "id": "826445551294115840",
+      "username": "DavidBalatHC",
+      "name": "David Balat"
+     },
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     },
+     {
+      "id": "160941377",
+      "username": "danweissmann",
+      "name": "@danweissmann"
+     },
+     {
+      "id": "4497753743",
+      "username": "GeBaiDC",
+      "name": "Ge Bai"
+     },
+     {
+      "id": "3886081888",
+      "username": "HarryGewanter",
+      "name": "Harry Gewanter"
+     },
+     {
+      "id": "173834817",
+      "username": "AmCollegeGastro",
+      "name": "ACG"
+     },
+     {
+      "id": "22784904",
+      "username": "acog",
+      "name": "ACOG"
+     },
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "27352469",
+      "username": "benwhitemd",
+      "name": "Ben White, MD"
+     },
+     {
+      "id": "1429023499",
+      "username": "Rebekah_Bernard",
+      "name": "Rebekah Bernard MD"
+     },
+     {
+      "id": "1239618085578924032",
+      "username": "TakeMedBack",
+      "name": "Take Medicine Back"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055503823754740027",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2055503823754740027",
+   "url": "https://x.com/WallStreetApes/status/2055503823754740027",
+   "conversationId": "2055503823754740027",
+   "text": "There is a huge loophole being exploited in America most Americans don’t know about\n\nLegal and illegal migrants are being given a minimum of 90 days of 100% free health insurance, paid for by taxpayers\n\nFederal law requires that when states enroll Medicaid applicants, they immediately get healthcare coverage for a period of 90 days while their immigration status is being verified\n\nIt's called the “Reasonable opportunity period”\n\nIt’s a guaranteed 90 day window of taxpayer funded healthcare for anyone willing to walk in, sign a form attesting that they're eligible under the penalty of perjury (which is never prosecuted at Medicaid eligibility level)\n\n- Legal applicants should get approved in seconds\n- Illegals and those with falsified documents  don’t get denied immediately, it can take weeks or much longer. During their time they are fully covered\n\nWe have no way to recover the money spent on their healthcare during this waiting period before their false information gets flagged and they get denied  \n\nROP rules: Federal law (42 CFR 435.956 and Social Security Act sections) requires states to provide benefits during this period. If denied, coverage ends (with 30-day notice in many cases), but prior claims are paid and generally not recouped from the individual or providers\n\nSo in essence, taxpayers must pass the healthcare bills for everyone on earth that applies for at least a few weeks to 90 days\n\nInsanity",
+   "lang": "en",
+   "createdAt": "2026-05-16T04:21:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 73,
+    "retweets": 878,
+    "quotes": 31,
+    "likes": 1760,
+    "bookmarks": 146,
+    "views": 33277
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055503723758338048",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2055503723758338048/vid/avc1/1080x1920/m8RmtIo5UJRuKNQ_.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2055503723758338048/img/QxrSXeaBTZfYGQnp.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 119
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093668282276491376",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2093668282276491376",
+   "url": "https://x.com/ScottBradyPA/status/2093668282276491376",
+   "conversationId": "2093668282276491376",
+   "text": ".@VP Vance’s Anti-Fraud Task Force and @DrOzCMS just blocked $1.6 BILLION from reaching fraudsters or being improperly spent. That means better care for American patients who were being exploited by criminals.\n\nHere’s a breakdown:\n\n✅ $732 MILLION SAVED from 157 fraudulent providers revoked from the Medicare program\n✅ $500+ MILLION in potentially fraudulent payments halted from 185 payment suspensions from CMS’ investigation of 600 labs\n✅ $276+ MILLION recouped from 442 identified overpayments already paid out to suspect labs\n✅ $127 MILLION in potentially fraudulent payments prevented as the result of 85 law enforcement referrals from a CMS contractor\n\nThe War on Fraud continues 🇺🇸",
+   "lang": "en",
+   "createdAt": "2026-08-29T11:53:11.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1000844377130926080",
+    "username": "ScottBradyPA",
+    "name": "Scott Brady",
+    "url": "https://x.com/ScottBradyPA",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2057592134690111488/fC--iUy-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 55,
+    "retweets": 211,
+    "quotes": 8,
+    "likes": 1141,
+    "bookmarks": 21,
+    "views": 84653
+   },
+   "replyTo": null,
+   "quotedTweetId": "2093407062793363799",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1879652428490149888",
+      "username": "VP",
+      "name": "Vice President JD Vance"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2076281005703393447",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2076281005703393447",
+   "url": "https://x.com/salnix/status/2076281005703393447",
+   "conversationId": "2076281005703393447",
+   "text": "I sent my insurance company an invoice for the hours it took to fight their recent retroactive denial.\n\nInsurance companies pay whole departments to deny claims. Patients pay with so much more.\n\nhttps://open.substack.com/pub/sallynix/p/my-insurance-company-denied-my-care?r=5ho9wm&utm_medium=ios https://x.com/salnix/status/2076281005703393447/photo/1",
+   "lang": "en",
+   "createdAt": "2026-07-12T12:22:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "20945571",
+    "username": "salnix",
+    "name": "Sally Neely Nix",
+    "url": "https://x.com/salnix",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1700569470605955072/GEQmugDm_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 41
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2076281003027415040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNBukldXQAAHm3H.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNBukldXQAAHm3H.jpg",
+     "width": 1080,
+     "height": 1350,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://open.substack.com/pub/sallynix/p/my-insurance-company-denied-my-care?r=5ho9wm&utm_medium=ios"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1706276988921549000",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1706276988921549000",
+   "url": "https://x.com/ConcernedRph/status/1706276988921549000",
+   "conversationId": "1706276988921549000",
+   "text": "DiR fees are recouped on every Medicare Part D Rx. And it is in addition to below cost reimbursement. It is unsustainable! Pure PBM greed!",
+   "lang": "en",
+   "createdAt": "2023-09-25T11:58:29.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1227785621114179584",
+    "username": "ConcernedRph",
+    "name": "Concerned RPh",
+    "url": "https://x.com/ConcernedRph",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1231363749132541953/CRT-a06z_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 0,
+    "views": 617
+   },
+   "replyTo": null,
+   "quotedTweetId": "1705603958117658624",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1229111574897537025",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1229111574897537025",
+   "url": "https://x.com/NBCPhiladelphia/status/1229111574897537025",
+   "conversationId": "1229111574897537025",
+   "text": "Even after preapproving them, insurance companies can go back and retroactively deny medical procedures, leaving people to foot the bill. An expert from the Public Citizen nonprofit explains how retroactive denial works and how Medicare for All might help. http://on.nbc10.com/I8HhMlL https://x.com/NBCPhiladelphia/status/1229111574897537025/photo/1",
+   "lang": "en",
+   "createdAt": "2020-02-16T18:33:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "15755669",
+    "username": "NBCPhiladelphia",
+    "name": "NBC10 Philadelphia",
+    "url": "https://x.com/NBCPhiladelphia",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1924778902599118848/A6NrxYja_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1229111573056294917",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EQ6udq1XkAUfkOo.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EQ6udq1XkAUfkOo.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://on.nbc10.com/I8HhMlL"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1689694268829392896",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1689694268829392896",
+   "url": "https://x.com/CernBasher/status/1689694268829392896",
+   "conversationId": "1689694268829392896",
+   "text": "@elonmusk has said that humanoid robots “will probably be worth significantly more than the car side of things long-term.\"\n\nHave you ever wondered how much more?\n\nLet’s take a look at Tesla’s humanoid robot opportunity.\n\n... Introducing the Boundless Optimus Transformation at Scale \"BOTS\" Model for Tesla.\n\nThis model only considers the potential value of Tesla's Optimus humanoid robot when made at scale. Note: I say \"potential\" - as this isn't a company valuation model and these are not predictions - the purpose is simply to show \"what if\"\n\nThe BOTS model shows rather astounding what if values – as every bot produced, could add about $380,000 to Tesla’s market value. \n\n100 million bots could add $38 trillion.\n\nIf you think this sounds crazy, take a look at how I arrive at these numbers...\n\nThe assumptions:\n\n1) Tesla does not sell bots. Instead they lease them. This gives Tesla control over how people use them – after all we don’t want anyone building their own robot army!\n\n2) The bots monthly lease cost varies based on their capabilities, wear and tear, and risk of damage, but the average monthly lease is $3,600. If the bot works 16 hours per day, that’s an effective hourly “labor” cost of only $7.50.\n\n3) The BOTS model excludes all other revenue from Auto, FSD, Autonomy, Energy, Insurance, Supercharging, Service, and Dojo.\n\n4) The cost to make a bot is $15,000, they last ten years, but annual maintenance and repair costs equal 12.5% or $1,875 per year, bringing the lifetime cost of each bot to $33,750.\n\n5) There is a ROBot tax of 33% of bot revenue. As humanoid bots displace workers in factories and outside, governments are likely to lose a lot of tax revenue. In the US lost payroll taxes and taxes that support Social Security, Medicare and Unemployment Insurance programs could be partially recouped with a ROBot tax.\n\n6) Net profit margins are 29%. Note: the government would generate more tax revenue from each BOT than Tesla makes in profit. In addition to lots of tax revenue, governments should love bots as they don’t have to pay them unemployment benefits, workers compensation claims, Social Security benefits or worry about healthcare costs. Bots could be a significant part of a solution to saving government entitlement programs like Social Security, Medicare, Medicaid, Unemployment and welfare. Bots also help to address a shortage of labor, particularly in countries with low birth rates.\n\n7) Investors give the company a P/E multiple of 30 for steady, growing, high margin earnings. None of the numbers in the model are discounted to the present as there are no implied time frames.\n\nThe model's results:\n\nEach bot generates $43,200 in annual revenue and $12,700 in annual profit.\n\nAt scale the potential annual profit to Tesla is impressive…\n\nOne million bots = $12.7 billion in profit\nTen million bots = $127 billion in profit\nOne hundred million bots = $1.27 trillion in profit\nOne billion bots = $12.7 trillion in profit\n\nApplying an earnings multiple of 30 gives us a BOTS model what-if-value of $380,000 for each bot. At scale the potential BOTS value to Tesla is gigantic…\n\nOne million bots = $380 billion in added market value\nTen million bots = $3.8 trillion in added market value\nOne hundred million bots = $38 trillion in added market value\nOne billion bots = $380 trillion in added market value\n\nAt scale the annual tax receipts (ROBot tax + corporate income tax) to the government are rather substantial…\n\nOne million bots = $18 billion in taxes\nTen million bots = $180 billion in taxes\nOne hundred million bots = $1.8 trillion in taxes\nOne billion bots = $18 trillion in taxes\n\nAs a reference, in 2022 the US government collected just under $5 trillion in tax revenue. If there were 300 million bots working in the US they would generate $5.4 trillion in tax revenue!\n\nFinally, from Elon, “I think we might exceed a one-to-one ratio of humanoid robots to humans. It's not even clear what an economy is at that point.\"\n\nThank you to @jamesdouma and @GoingBallistic5 for your input and feedback.\n\n$tsla",
+   "lang": "en",
+   "createdAt": "2023-08-10T17:44:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "261388832",
+    "username": "CernBasher",
+    "name": "Cern Basher",
+    "url": "https://x.com/CernBasher",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/624186747220570112/y9A8cVFc_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 37,
+    "retweets": 86,
+    "quotes": 28,
+    "likes": 438,
+    "bookmarks": 136,
+    "views": 137728
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1689691483371094017",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F3L9c6ZWQAEWHtb.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F3L9c6ZWQAEWHtb.jpg",
+     "width": 2832,
+     "height": 1940,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44196397",
+      "username": "elonmusk",
+      "name": "Elon Musk"
+     },
+     {
+      "id": "24405165",
+      "username": "jamesdouma",
+      "name": "jimmah"
+     },
+     {
+      "id": "1469692538089095168",
+      "username": "GoingBallistic5",
+      "name": "Humanoid Scott"
+     }
+    ],
+    "urls": [],
+    "symbols": [
+     "tsla"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1713193866617037141",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1713193866617037141",
+   "url": "https://x.com/DanielLibit/status/1713193866617037141",
+   "conversationId": "1713193866617037141",
+   "text": "SCOOP: Unlike @Packers, the @NYJets declined to take out disability insurance on Aaron Rodgers prior to the season.\n\nhttps://www.sportico.com/leagues/football/2023/jets-rodgers-insurance-injury-1234742031/\n\nSources tell @Sportico coverage could have recouped them $20+ million of his $37M they owe him this year.\n\nStory w/ @novy_williams:",
+   "lang": "en",
+   "createdAt": "2023-10-14T14:03:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "11954232",
+    "username": "DanielLibit",
+    "name": "Daniel Libit",
+    "url": "https://x.com/DanielLibit",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1601341601996996608/ZGQn6nTu_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 24,
+    "quotes": 17,
+    "likes": 42,
+    "bookmarks": 3,
+    "views": 36779
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "35865630",
+      "username": "Packers",
+      "name": "Green Bay Packers"
+     },
+     {
+      "id": "17076218",
+      "username": "NYJets",
+      "name": "New York Jets"
+     },
+     {
+      "id": "1232091440454389760",
+      "username": "Sportico",
+      "name": "Sportico"
+     },
+     {
+      "id": "240700994",
+      "username": "novy_williams",
+      "name": "Eben Novy-Williams"
+     }
+    ],
+    "urls": [
+     "https://www.sportico.com/leagues/football/2023/jets-rodgers-insurance-injury-1234742031/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1352044944505135104",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1352044944505135104",
+   "url": "https://x.com/HankorJefe/status/1352044944505135104",
+   "conversationId": "1352044944505135104",
+   "text": "You’ll have to file a claim with your renters insurance for contents if this is an apartment. The Apt will have to file a claim as well for structure. All money will be recouped through Subrogation if ATT is at fault. So technically...no check \n\n#IA",
+   "lang": "en",
+   "createdAt": "2021-01-21T00:06:49.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1080892844",
+    "username": "HankorJefe",
+    "name": "The Cowboy Isley",
+    "url": "https://x.com/HankorJefe",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1614066294646575104/jqfk106o_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 8,
+    "quotes": 5,
+    "likes": 32,
+    "bookmarks": 6,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "IA"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1290992990220165121",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1290992990220165121",
+   "url": "https://x.com/ElephantCafeUK/status/1290992990220165121",
+   "conversationId": "1290992990220165121",
+   "text": "I recently joined @fsb_policy Fed of Small Businesses &amp; have already recouped my membership fee by getting all my insurance from them. \n\nIt is one third of my previous insurance !",
+   "lang": "en",
+   "createdAt": "2020-08-05T12:48:09.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1377582782",
+    "username": "ElephantCafeUK",
+    "name": "ElectricElephantCafe",
+    "url": "https://x.com/ElephantCafeUK",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1383777088184885254/y_OCs4Tl_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 8,
+    "quotes": 3,
+    "likes": 19,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1287684157511016453",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "20058335",
+      "username": "fsb_policy",
+      "name": "Federation of Small Businesses (FSB)"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2024849658988593401",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2024849658988593401",
+   "url": "https://x.com/JohnCornyn/status/2024849658988593401",
+   "conversationId": "2024849658988593401",
+   "text": "Obamacare fraud: Seventeen Senate Republicans ... took up their own mantle on potential ACA fraud last week with a letter to the Justice Department asking it to investigate and recover ACA payments made to insurance companies during the Biden administration that were due to fraudulent enrollment. The senators also cited the GAO report as evidence of fraud.\n\n“The federal government has a duty to ensure that the associated ACA marketplace subsidies paid directly to insurance companies are properly recouped,” the GOP senators, including Sen. John Cornyn who led the letter, wrote.\n\nRepublicans also made a fraud argument about “phantom enrollees” during the government shutdown last fall to justify not extending the enhanced subsidies then. @business",
+   "lang": "en",
+   "createdAt": "2026-02-20T14:12:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "13218102",
+    "username": "JohnCornyn",
+    "name": "Senator John Cornyn",
+    "url": "https://x.com/JohnCornyn",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1932474608675901440/xY6zL55F_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 19,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 20,
+    "bookmarks": 0,
+    "views": 4186
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "34713362",
+      "username": "business",
+      "name": "Bloomberg"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1899833184444895319",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1899833184444895319",
+   "url": "https://x.com/GOPMajorityWhip/status/1899833184444895319",
+   "conversationId": "1899833184444895319",
+   "text": "Amid a worldwide pandemic, fraudsters stole an estimated $135 BILLION in COVID-era unemployment insurance benefits.\n\nThis week, @HouseGOP voted to extend the statute of limitations on these crimes so justice can be brought and taxpayer dollars recouped. Thank you for your leadership, @RepJasonSmith!",
+   "lang": "en",
+   "createdAt": "2025-03-12T14:41:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2914515430",
+    "username": "GOPMajorityWhip",
+    "name": "Tom Emmer",
+    "url": "https://x.com/GOPMajorityWhip",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1983193182469783552/emVOQSnV_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 16,
+    "retweets": 10,
+    "quotes": 2,
+    "likes": 74,
+    "bookmarks": 4,
+    "views": 5142
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15207668",
+      "username": "HouseGOP",
+      "name": "House Republicans"
+     },
+     {
+      "id": "1623308912",
+      "username": "RepJasonSmith",
+      "name": "Rep. Jason Smith"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102539605656637548",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102539605656637548",
+   "url": "https://x.com/djeterg19/status/2102539605656637548",
+   "conversationId": "2102539605656637548",
+   "text": "The irony is without health insurance, when something happens like a car accident, then ALL of us will end up paying for it because those costs have to be recouped somehow.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:24:39.000Z",
+   "type": "quote",
+   "author": {
+    "id": "19749718",
+    "username": "djeterg19",
+    "name": "Carly K 🌻",
+    "url": "https://x.com/djeterg19",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1652456740003405824/BzMVyx8t_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 8
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102430053711630512",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1265916488285917189",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1265916488285917189",
+   "url": "https://x.com/CoreyPaulMusic/status/1265916488285917189",
+   "conversationId": "1265916488285917189",
+   "text": "Target has business insurance, ultimately this will be an inconvenience for them. The life of #GeorgeFloyd cannot be recouped. So, you can debate their methods, but the anger and hurt is undeniable and just.",
+   "lang": "en",
+   "createdAt": "2020-05-28T08:03:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "87650006",
+    "username": "CoreyPaulMusic",
+    "name": "Corey Paul",
+    "url": "https://x.com/CoreyPaulMusic",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1681766316154159105/7Rys9KUo_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 21,
+    "quotes": 0,
+    "likes": 74,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "GeorgeFloyd"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1461385266988417027",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1461385266988417027",
+   "url": "https://x.com/chiefjamescraig/status/1461385266988417027",
+   "conversationId": "1461385266988417027",
+   "text": "Under @GovWhitmer's watch, Michigan's Unemployment Insurance Agency overpaid over $3.9 billion in unemployment money. It's taxpayer money that can't be recouped as the error is 100% on Whitmer's administration. https://bit.ly/30GJ8HO",
+   "lang": "en",
+   "createdAt": "2021-11-18T17:26:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1409498841058058242",
+    "username": "chiefjamescraig",
+    "name": "Chief James Craig",
+    "url": "https://x.com/chiefjamescraig",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1710064830550302720/StTceMhd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 8,
+    "quotes": 1,
+    "likes": 29,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "102071743",
+      "username": "GovWhitmer",
+      "name": "Governor Gretchen Whitmer"
+     }
+    ],
+    "urls": [
+     "https://bit.ly/30GJ8HO"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1176817281512476673",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1176817281512476673",
+   "url": "https://x.com/MetsDaddy2013/status/1176817281512476673",
+   "conversationId": "1176817281512476673",
+   "text": "According to @Joelsherman1 due to the insurance policy on Cespedes contract, the team recouped $21.75 million on his deal. \n\nFor a team that was all-in, you’d expect that money to be reinvested and not pocketed.",
+   "lang": "en",
+   "createdAt": "2019-09-25T11:14:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "3342780951",
+    "username": "MetsDaddy2013",
+    "name": "Mets Daddy",
+    "url": "https://x.com/MetsDaddy2013",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/613378946390843392/x0glb0sD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 28,
+    "retweets": 50,
+    "quotes": 11,
+    "likes": 295,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "41591898",
+      "username": "Joelsherman1",
+      "name": "Joel Sherman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1661048041900482562",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1661048041900482562",
+   "url": "https://x.com/centralnewsza/status/1661048041900482562",
+   "conversationId": "1661048041900482562",
+   "text": "At least R71 million has been recouped by the Special Investigating Unit (SIU) from businesses that made excessive claims to the Temporary Employer/Employee Relief Scheme (TERS) of the Unemployment Insurance Fund (UIF).\n\nRead more online: https://centralnews.co.za/siu-recuperates-r71m-in-unjustifiable-uif-ters-claims/",
+   "lang": "en",
+   "createdAt": "2023-05-23T16:34:48.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1295026388874014733",
+    "username": "centralnewsza",
+    "name": "Central News",
+    "url": "https://x.com/centralnewsza",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1655422911031697408/6UXQtk_4_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 990
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://centralnews.co.za/siu-recuperates-r71m-in-unjustifiable-uif-ters-claims/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1402251516606619648",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1402251516606619648",
+   "url": "https://x.com/JSchuurMD/status/1402251516606619648",
+   "conversationId": "1402251516606619648",
+   "text": "we have been here before... prudent layperson... @AnthemInc retroactive denial policy\n\nWe know this retroactive approach is inaccurate &amp; punitive to patients. \nYou can do better @UHC \nhttps://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707430",
+   "lang": "en",
+   "createdAt": "2021-06-08T13:09:48.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1012472611",
+    "username": "JSchuurMD",
+    "name": "@jschuurmd.bsky.social 🟧",
+    "url": "https://x.com/JSchuurMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1587066588871663616/vV13iUpL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1402227693685444611",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1461066348499460100",
+      "username": "AnthemInc",
+      "name": "Elevance Health"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [
+     "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707430"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1864687769190084804",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1864687769190084804",
+   "url": "https://x.com/d0tslash/status/1864687769190084804",
+   "conversationId": "1864687769190084804",
+   "text": "I see @UHC @askUHC drama in response to the CEO getting smoked... Them fuckers tried hard to do us dirty with Ian, but I engaged my phreak brain &amp; ran through their phone system + org chart EVERYDAY annoying the fuck out of someone new. I recouped ~$10k via this trick. Fuck them. https://x.com/d0tslash/status/1864687769190084804/photo/1",
+   "lang": "en",
+   "createdAt": "2024-12-05T15:06:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "130600708",
+    "username": "d0tslash",
+    "name": "KF",
+    "url": "https://x.com/d0tslash",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1821393853271756800/lG-i1aSA_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 23,
+    "bookmarks": 0,
+    "views": 2613
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1864686975241891840",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeCy7KiXMAAvj7X.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GeCy7KiXMAAvj7X.jpg",
+     "width": 687,
+     "height": 1037,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "3078078098",
+      "username": "askUHC",
+      "name": "Ask UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1788576170432205258",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1788576170432205258",
+   "url": "https://x.com/chrisgelardi/status/1788576170432205258",
+   "conversationId": "1788576170432205258",
+   "text": "Enraging from @mwparrott.\n\nThe state Labor Department acts like \"a private insurance agency,\" zealously filing ruinous unemployment overpayment cases when not required, when not the recipient's fault, and when the recouped money will just go to the feds.\nhttps://nysfocus.com/2024/05/09/dol-unemployment-overpayment-fraud-new-york",
+   "lang": "en",
+   "createdAt": "2024-05-09T14:26:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1244152226",
+    "username": "chrisgelardi",
+    "name": "Chris Gelardi",
+    "url": "https://x.com/chrisgelardi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1831044226987028480/ULwPkNVU_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 1,
+    "views": 2177
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2677958995",
+      "username": "mwparrott",
+      "name": "Max Parrott"
+     }
+    ],
+    "urls": [
+     "https://nysfocus.com/2024/05/09/dol-unemployment-overpayment-fraud-new-york"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1887196086944563370",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1887196086944563370",
+   "url": "https://x.com/RealEJAntoni/status/1887196086944563370",
+   "conversationId": "1887196086944563370",
+   "text": "Insurance industry remained an outsized contributor to the global economy in Jan as actuarial tables continue to be updated to reflect today's higher prices from inflation; the losses of the last several years are being recouped w/ larger profits today: https://x.com/RealEJAntoni/status/1887196086944563370/photo/1",
+   "lang": "en",
+   "createdAt": "2025-02-05T17:46:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1609617100175196160",
+    "username": "RealEJAntoni",
+    "name": "E.J. Antoni, Ph.D.",
+    "url": "https://x.com/RealEJAntoni",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1609617434033491968/XCcDgXld_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 33,
+    "bookmarks": 3,
+    "views": 2456
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1887195544751079424",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GjCqWWKWgAA8vU4.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GjCqWWKWgAA8vU4.png",
+     "width": 608,
+     "height": 772,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1832755731419787627",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1832755731419787627",
+   "url": "https://x.com/tkb417/status/1832755731419787627",
+   "conversationId": "1832755731419787627",
+   "text": "Net pay: 70.5% \nFed Income tax 24.7%\nSocial security 3%\nMedicare 1.7%\n\nMarginal tax rate 37.4%\nAverage tax rate 29.5% \n\nState taxes are usually recouped when i work away from home.. The above is strictly as a Texas Resident",
+   "lang": "en",
+   "createdAt": "2024-09-08T12:19:51.000Z",
+   "type": "quote",
+   "author": {
+    "id": "113014393",
+    "username": "tkb417",
+    "name": "The Classic Man",
+    "url": "https://x.com/tkb417",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1733053936225927168/A_KnfNaH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 2828
+   },
+   "replyTo": null,
+   "quotedTweetId": "1683383162808803328",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102481816787767686",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2102481816787767686",
+   "url": "https://x.com/SnapAus/status/2102481816787767686",
+   "conversationId": "2102481816787767686",
+   "text": "Grok broke\nYes. Assume it exists here. Australia does not have a special immunity to rorts, sloppy design, political slush funds or organised crime following a pile of public money. The scale is smaller than Washington, the language is politer, and the Auditor-General writes better reports — but the pattern is the same.\n\nBoth Labor and the Coalition have done it. The difference is usually which program is exploding this term, not whether the tap is dripping.\n\nThe big leaks (the ones that actually move the budget)\n\nNDIS is the current champion. It was sold as insurance. It now costs about $50–53 billion a year and is forecast much higher. Officials have put “integrity leakage” — fraud, over-claiming, inappropriate payments, organised crime — at 6–10 per cent. That is $3–5 billion a year, and some internal briefings have suggested measurable losses may sit even higher. Payment-error testing showed provider and participant error rates climbing for years. There are hundreds of thousands of unregistered providers. The Fraud Fusion Taskforce has disrupted operators, executed warrants and seized assets. They are still chasing a firehose. A scheme this large with weak front-end controls was always going to attract professionals.\n\nJobKeeper was the last decade’s prize. Roughly $89–101 billion. Analysis showed $13.8 billion (and estimates heading toward $20 billion) went to businesses whose turnover rose. Profitable listed companies paid dividends and kept the cash. Almost no clawback. That was not “keeping jobs.” That was a transfer from future taxpayers to firms that did not need it.\n\nGrants and pork never died. Coalition: sports rorts, car parks. Labor in 2026: a $560 million community infrastructure program with about 73 per cent of the money landing in Labor-held or Labor-competitive seats. A golf club in the Prime Minister’s electorate copped millions. The Auditor-General is circling it. Same colour-coded logic, different team colours.\n\nConsultants and the bureaucracy. Coalition capped the APS; Labor then grew it hard. Headcount went from around 150,000 near 2019–20 to nearly 199,000 by mid-2025; average staffing levels sit over 215,000. Consultant and labour-hire spend still runs into the hundreds of millions to billions. PwC leaked confidential tax policy to help clients dodge rules it helped write. KPMG had its own mess. You paid them to design the lock and then to sell the key.\n\nInfrastructure blowouts. Defence sample work found $29 billion in cost growth before contracts were even signed. Snowy 2.0 started as a $2 billion announcement, became $12 billion, and is still climbing — some independent all-in estimates (plant, transmission, financing) go far higher. Victoria’s Big Build (North East Link, Suburban Rail Loop, Metro Tunnel and the rest) has seen original prices explode; North East Link went from about $15.6 billion toward $26 billion. Dozens of fraud, corruption and criminal-conduct allegations sit on federally co-funded Victorian projects. Extra labour costs from CFMEU practices and alleged organised-crime involvement are documented. Argue about the exact $15 billion figure if you like; the political protection and cost inflation are not a rumour.\n\nDetected “fraud” looks tiny because most of it is never called fraud. The 2024–25 Commonwealth census recorded $110.7 million in reported external fraud losses and $2.4 million internal. Allegations ran into the hundreds of thousands. The rest gets labelled non-compliance, error or integrity leakage so it never hits the crime stats.\n\nThe National Anti-Corruption Commission has been slow and timid: few public reports, few convictions from its own referrals in the early years, first commissioner gone amid conflict questions. It is not yet an institution people fear.\n\nMedicare billing is the next obvious target. The Auditor-General has already flagged AI “prompted billing” software inflating claims.\n\nWhat to look out for\n\nAny program that grows faster than population and wages with loose gates (NDIS, parts of",
+   "lang": "en",
+   "createdAt": "2026-09-22T19:35:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1916576220185337857",
+    "username": "SnapAus",
+    "name": "AusSnap",
+    "url": "https://x.com/SnapAus",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2019869237523963905/TiKWHMMb_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 63
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1151158470629969925",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1151158470629969925",
+   "url": "https://x.com/AAPSonline/status/1151158470629969925",
+   "conversationId": "1151158470629969925",
+   "text": "\"Previous Medicare Advantage audits have recouped a total of about $14 million  — far less than it cost to conduct them, federal records show.\" Meanwhile, plans \"have overcharged Medicare by nearly $30 billion over the past three years alone.\" https://n.pr/2YSk4HS",
+   "lang": "en",
+   "createdAt": "2019-07-16T15:55:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "42769016",
+    "username": "AAPSonline",
+    "name": "Association of American Physicians & Surgeons",
+    "url": "https://x.com/AAPSonline",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1602776304104853504/nNkBTYLv_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 8,
+    "quotes": 2,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://n.pr/2YSk4HS"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1216315014325456896",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1216315014325456896",
+   "url": "https://x.com/paullewismoney/status/1216315014325456896",
+   "conversationId": "1216315014325456896",
+   "text": "People on Universal Credit who earn an extra £1 can keep as little as 20p after tax, National Insurance, UC clawback, and less council tax reduction. At the best they keep 40p of it. Government gets the rest. Out of £300 bonus, £180 to £240 goes to Govt http://bit.ly/2uFqrkb",
+   "lang": "en",
+   "createdAt": "2020-01-12T11:04:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "221338206",
+    "username": "paullewismoney",
+    "name": "Paul Lewis",
+    "url": "https://x.com/paullewismoney",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1814340771031465989/V03NLcO0_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 23,
+    "retweets": 232,
+    "quotes": 9,
+    "likes": 247,
+    "bookmarks": 6,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1216309220183814146",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/2uFqrkb"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2103050379051302921",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2103050379051302921",
+   "url": "https://x.com/DineshChellappa/status/2103050379051302921",
+   "conversationId": "2103050379051302921",
+   "text": "IRDAI's new rules to reshape insurance distribution in India\n\n🔹 EoM caps cut in phases\n🔹 No forced insurance-with-loan bundling\n🔹 No sales-target incentives for bank staff\n🔹 Commission clawback for mis-selling\n\n#IRDAI #Bancassurance #InsurTech",
+   "lang": "en",
+   "createdAt": "2026-09-24T09:14:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1819960979783852032",
+    "username": "DineshChellappa",
+    "name": "Dinesh Chellappa",
+    "url": "https://x.com/DineshChellappa",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1819961069911080960/wD34bxVK_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 2
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "IRDAI",
+     "Bancassurance",
+     "InsurTech"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1917712156801523760",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1917712156801523760",
+   "url": "https://x.com/jayfeely/status/1917712156801523760",
+   "conversationId": "1917712156801523760",
+   "text": "The massive amount of tax payer dollars the United States has spent defending Ukraine needs to be recouped in some way. This deal needed to happen. Congratulations @POTUS another win for the American people",
+   "lang": "en",
+   "createdAt": "2025-04-30T22:46:22.000Z",
+   "type": "quote",
+   "author": {
+    "id": "23701377",
+    "username": "jayfeely",
+    "name": "Jay Feely",
+    "url": "https://x.com/jayfeely",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1923057398048227329/CrEQpnaD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 26,
+    "quotes": 1,
+    "likes": 227,
+    "bookmarks": 0,
+    "views": 8448
+   },
+   "replyTo": null,
+   "quotedTweetId": "1917699676817567773",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1879650942410481666",
+      "username": "POTUS",
+      "name": "President Donald J. Trump"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1689623947803799553",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1689623947803799553",
+   "url": "https://x.com/_3pDoxian_/status/1689623947803799553",
+   "conversationId": "1689623947803799553",
+   "text": "Anyone saying this ignores the overall costs of hiring a supplier (their transport/ tolls/ fees, the cost of insurance in case the supplier is unable to deliver on time, the fact these contracts cover supplying thousands of stores across 50 states) that doesn't get recouped here.",
+   "lang": "en",
+   "createdAt": "2023-08-10T13:05:15.000Z",
+   "type": "quote",
+   "author": {
+    "id": "962467021127651329",
+    "username": "_3pDoxian_",
+    "name": "СмертьЛиса",
+    "url": "https://x.com/_3pDoxian_",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513695640773177344/GXVHtkyW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 367
+   },
+   "replyTo": null,
+   "quotedTweetId": "1689074470051573760",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2030888407220564200",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2030888407220564200",
+   "url": "https://x.com/TheFarrow/status/2030888407220564200",
+   "conversationId": "2030888407220564200",
+   "text": "🚨 Big News on Banking Bailouts: Could Capital One's FDIC Lawsuit Unlock Massive Value for Signature Bank ( $SBNY ) Shareholders? 🚨\n\nCheck out this Yahoo Finance article from Dec 2025: The FDIC sued Capital One ( $COF) for allegedly underpaying $99.4M in special assessments tied to the 2023 failures of Silicon Valley Bank and Signature Bank. COF is countersuing, claiming the FDIC overcharged them by $149.2M due to improper calculation of uninsured deposits.  \n\nHere's the connection to $SBNY: The FDIC covered ~$79.5B in uninsured deposits at Signature Bank during its collapse—far beyond the $250K insurance limit—to prevent wider contagion. The total cost for SVB and Signature failures? An estimated $16.7B to the Deposit Insurance Fund, recouped via special assessments on big banks like COF. \n\nCOF argues these assessments are flawed because they shouldn't include certain inter-subsidiary positions as uninsured deposits. If COF wins, it could question the entire bailout framework under the systemic risk exception, potentially forcing retroactive settlements or refunds. That might mean revisiting how uninsured losses were handled—opening the door for recoveries on fire-sold assets and legal fees.\n\nRough math: Signature's ~$78B in uninsured coverage, plus ~$1B in legal costs and ~$2B in fire-sale losses, could equate to massive upside if clawed back. With ~60M shares outstanding, that puts potential value at ~$1,198 per share. $SBNY is trading at just $0.70 right now—I'm seeing huge potential here. \n\nSignature remains in FDIC receivership as of early 2026, with ongoing asset sales. Some estimates suggest 92% recovery on loans, potentially leaving excess after FDIC claims. This lawsuit highlights ongoing debates over the 2023 bailouts—could be a game-changer.\n\nDYOR, not financial advice. What do you think? #SBNY #BankingCrisis #FDIC\n\nLink to article: https://finance.yahoo.com/news/why-capital-one-cof-faces-001022893.html",
+   "lang": "en",
+   "createdAt": "2026-03-09T06:08:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "80755095",
+    "username": "TheFarrow",
+    "name": "darrow",
+    "url": "https://x.com/TheFarrow",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1739021233922981888/VMgyJC6M_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 13,
+    "retweets": 14,
+    "quotes": 0,
+    "likes": 18,
+    "bookmarks": 2,
+    "views": 6764
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "SBNY",
+     "BankingCrisis",
+     "FDIC"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://finance.yahoo.com/news/why-capital-one-cof-faces-001022893.html"
+    ],
+    "symbols": [
+     "SBNY",
+     "COF",
+     "SBNY",
+     "SBNY"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2046569829260267990",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2046569829260267990",
+   "url": "https://x.com/jjverdi/status/2046569829260267990",
+   "conversationId": "2046569829260267990",
+   "text": "Been to the doctor a lot lately (I’m okay) and I talked to him about this. In asked why health care costs were so high. He said doing a procedure costs let’s say in the example $5. Being forced to go through insurance companies who won’t pay $5 but may pay $1 forces them to raise the price to $20 to get the insurance company to maybe pay $3.\n\nIf you want to pay cash it’s a great discount, now down to $10. Why, to compensate for the loss on the insurance price. \n\nI then asked about government requirements and administration costs. He said they were HUGE, and that these were costs in both time and money that are not able to be recouped. A net loss. \n\nThen there is the rise in malpractice insurance and lawyers because while medicine is advanced, it is not perfect. Things go wrong. \n\nSo, insurance, government regulations and lawsuits are why healthcare is out of control. Get government out of healthcare, reduce regulations, use health insurance like car insurance, only for catastrophic coverage, and reform tort laws. \n\nWe just fixed the healthcare system.",
+   "lang": "en",
+   "createdAt": "2026-04-21T12:40:45.000Z",
+   "type": "quote",
+   "author": {
+    "id": "735549649",
+    "username": "jjverdi",
+    "name": "Jim Verdi",
+    "url": "https://x.com/jjverdi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1901138414029656065/8LXLJ__-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 34,
+    "bookmarks": 3,
+    "views": 3251
+   },
+   "replyTo": null,
+   "quotedTweetId": "2046363347960905891",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1480117706909417478",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1480117706909417478",
+   "url": "https://x.com/Trickstersworld/status/1480117706909417478",
+   "conversationId": "1480117706909417478",
+   "text": "Great reporting by @peterodwyer1 on the tens of millions in Covid State Supports paid out to profitable insurance companies that will NOT be recouped. \nhttps://www.businesspost.ie/bba7b1c9-6faa-4269-9372-d9db48e87b79 https://x.com/Trickstersworld/status/1480117706909417478/photo/1",
+   "lang": "en",
+   "createdAt": "2022-01-09T10:02:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "249837718",
+    "username": "Trickstersworld",
+    "name": "Tony - Pod Guy - Groves",
+    "url": "https://x.com/Trickstersworld",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1526650468893609984/BYbxx_Wa_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1480117701037207554",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FIpvNQQXMAISn99.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FIpvNQQXMAISn99.jpg",
+     "width": 749,
+     "height": 996,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "196817482",
+      "username": "peterodwyer1",
+      "name": "Peter O' Dwyer"
+     }
+    ],
+    "urls": [
+     "https://www.businesspost.ie/bba7b1c9-6faa-4269-9372-d9db48e87b79"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:624318993977839616",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "624318993977839616",
+   "url": "https://x.com/MikeVorkunov/status/624318993977839616",
+   "conversationId": "624318993977839616",
+   "text": "Alderson says the insurance money Mets have recouped from Wright's deal won't allow them more financial flexibility in trades",
+   "lang": "en",
+   "createdAt": "2015-07-23T20:43:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "16353477",
+    "username": "MikeVorkunov",
+    "name": "Mike Vorkunov",
+    "url": "https://x.com/MikeVorkunov",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985403738920484864/UNMc_w9Y_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 16,
+    "retweets": 12,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:817771098066423809",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "817771098066423809",
+   "url": "https://x.com/AAPSonline/status/817771098066423809",
+   "conversationId": "817771098066423809",
+   "text": "\"CMS has spent about $117 million on the audits [of Medicare Advantage plans] but recouped just under $14 million.\" http://khn.org/Njg3OTgz",
+   "lang": "en",
+   "createdAt": "2017-01-07T16:33:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "42769016",
+    "username": "AAPSonline",
+    "name": "Association of American Physicians & Surgeons",
+    "url": "https://x.com/AAPSonline",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1602776304104853504/nNkBTYLv_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 16,
+    "quotes": 5,
+    "likes": 20,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://khn.org/Njg3OTgz"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1970569425783787821",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1970569425783787821",
+   "url": "https://x.com/TheAndersPaul/status/1970569425783787821",
+   "conversationId": "1970569425783787821",
+   "text": "If this is true. Everybody should be livid. Democrats want to shut down the government over FOREIGN AID and Insurance subsidies for companies making… 70 billion in profits. This is while those Co’s tear up contracts with hospitals. Deny patient coverage using AI, refuse to pay bills, and even refuse to pay bills after they approve. It’s called retroactive denial.",
+   "lang": "en",
+   "createdAt": "2025-09-23T19:22:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1038110784121921537",
+    "username": "TheAndersPaul",
+    "name": "Eric CIAramella’s Dirty Whistle",
+    "url": "https://x.com/TheAndersPaul",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1824515900004818944/VgDStVLt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 314
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1970569421769842688",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1jectXWoAADneN.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1jectXWoAADneN.jpg",
+     "width": 1179,
+     "height": 1221,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1811196482399199271",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1811196482399199271",
+   "url": "https://x.com/PearlF/status/1811196482399199271",
+   "conversationId": "1811196482399199271",
+   "text": "CMS/Medicare administrators proposed \"a negative Medicare physician fee schedule update for 2025\" after it paid out $50B to private insurers who allegedly overcharged for false diagnoses for Medicare Advantage patients between '18 &amp; '21 CMS hasn't recouped. See WSJ link below:",
+   "lang": "en",
+   "createdAt": "2024-07-11T00:31:06.000Z",
+   "type": "quote",
+   "author": {
+    "id": "26368450",
+    "username": "PearlF",
+    "name": "Pearl Freier",
+    "url": "https://x.com/PearlF",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2548109365/n26mxn3asu0eztedzslj_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 1218
+   },
+   "replyTo": null,
+   "quotedTweetId": "1811136735788814553",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:921529353879527424",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "921529353879527424",
+   "url": "https://x.com/WhteRbbnAdvocat/status/921529353879527424",
+   "conversationId": "921118865706250240",
+   "text": "@MichaelWestBiz If ATO went after all the TAX Avoiding companies and recouped back taxes, the Gov could offer Free TAFE n Uni education, Fix Medicare,etc!",
+   "lang": "en",
+   "createdAt": "2017-10-21T00:11:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "822060714080636931",
+    "username": "WhteRbbnAdvocat",
+    "name": "Shaughan Abbott- PM Elect!",
+    "url": "https://x.com/WhteRbbnAdvocat",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1201708955522588672/Hw5kDpC5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "921118865706250240",
+    "userId": "352754946",
+    "username": "MichaelWestBiz"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "352754946",
+      "username": "MichaelWestBiz",
+      "name": "💧Michael West"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:932709863335047175",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "932709863335047175",
+   "url": "https://x.com/CakeOlson/status/932709863335047175",
+   "conversationId": "932695503044739073",
+   "text": "@sarahstancato_ That’s a good question! Tax revenue would be recouped in the money saved on Medicare and Medicaid with the presumed decrease in tobacco usage because of the required diploma. Over $170 billion annually of tax revenue is spent on tobacco related health care!",
+   "lang": "en",
+   "createdAt": "2017-11-20T20:38:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "270707837",
+    "username": "CakeOlson",
+    "name": "Jake",
+    "url": "https://x.com/CakeOlson",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/866320892128788480/1O0JhgcC_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "932708786510401536",
+    "userId": "470291504",
+    "username": "sarahstancato_"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "470291504",
+      "username": "sarahstancato_",
+      "name": "Sarah"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1879499498172387666",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1879499498172387666",
+   "url": "https://x.com/lucasjinjer/status/1879499498172387666",
+   "conversationId": "1879495108585787714",
+   "text": "Big pharma and insurance wanting us to put every single diabetic on statins no matter their numbers ( which I don't agree with the Cholesterol ranges anyway). I'm staying away from them for my patients even though we get our payments reduced and sometimes recouped at the end of the year. Staying true and independent.",
+   "lang": "en",
+   "createdAt": "2025-01-15T12:02:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1056345743743741953",
+    "username": "lucasjinjer",
+    "name": "Collins Lucas",
+    "url": "https://x.com/lucasjinjer",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1056354863511232512/X3Yrasm__normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 51,
+    "bookmarks": 1,
+    "views": 2286
+   },
+   "replyTo": {
+    "tweetId": "1879495108585787714",
+    "userId": "1205638720457715713",
+    "username": "InformedNJNurse"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102441283654386010",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2102441283654386010",
+   "url": "https://x.com/vs1_finance/status/2102441283654386010",
+   "conversationId": "2102441283654386010",
+   "text": "Securities lending is moving on-chain but what does that mean for tokenized assets and why is XRPL well suited for it?\n\nExplore our latest article below👇 https://x.com/i/article/2102329370887036928",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:53:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1435213798135193606",
+    "username": "vs1_finance",
+    "name": "VS1",
+    "url": "https://x.com/vs1_finance",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1966526176416915456/YBYqzLOG_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 19,
+    "quotes": 4,
+    "likes": 107,
+    "bookmarks": 10,
+    "views": 6552
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/article/2102329370887036928"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2045897459990237360",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2045897459990237360",
+   "url": "https://x.com/mcuban/status/2045897459990237360",
+   "conversationId": "2045897459990237360",
+   "text": "The greatest problem in healthcare ? Hospitals, even market dominant hospitals, won’t walk away from the big ins companies that underpay, late pay, clawback, deny claims, waste their time in denial appeals, and require them to pay up to 8 pct of revenue to RCM consultants so they think they are getting what they are owed.  \n\nHere is the crazy part.  The ins companies ARE NOT THE ONES ACTUALLY PAYING THEM on commercial plans.  Employers are.  \n\n60 pct of employees get their insurance from their self insured employers.  The ins carrier is just a middleman that pretends to add value.  \n\nAll the clinical  “value” they add, the hospital could do better, for both medical and pharmacy.  \n\nMost hospitals have no idea whether they make or lose money with their big ins contracts.  They are just afraid to lose patient flow.  \n\nBut. They actually know which companies their patients are coming from.  They actually know or can find out, how much more the employers are paying the ins company, than what the ins company pays them (the spread, just like in pharmacy ) \n\nAnd to make it worse, those ins companies negotiate their rates as a discount from the “charge master “, which is like WAC in pharmacy.   Just a made up list price. \n\nBecause the hospitals are afraid or too uninformed to walk away from these deals, the hospitals use the inflated charge master prices as the basis to charge uninsured , or out of network , or insured but not covered for their care, at charge master rates.  Which of course the patients can’t afford.  And it crushes their finances or they go without care \n\nI’ll summarize.  Employers , and their members , are paying far more than they should to companies they  don’t like working with , that effectively rip off both the employer and hospital , and they could eliminate the middlemen if they went directly to to the employer. \n\nIt’s so simple.  Sell your services to the employers that use your services at a price that is less than what nine companies charge for your services and you will make MORE money and employers will save a ton \n\nAnd if they did this, they could dump the chargemaster and reduce the price they bill patients when they are at their most vulnerable \n\nBut they don’t want to change. And don’t get me started on how much hospitals over pay for drugs and devices because of the GPO deals they do.  It’s just stupid. \n\nWhich in turn leads to the hospital being a bad actor with 340b , facilities fees and afraid of their doctors who demand they pay more for things like glue and implants so they can get vacations.  \n\nIf you are a politician and reading this.  Now you know why this is so fucked up and it’s not about capping rates.   The insurance companies are smarter than you.   They will just move the money to other places.  It’s not about giving money to patients.  You can’t shop for care from hospitals that are too gutless to walk away from the ins companies that distort all of healthcare economics \n\nGo to your local hospitals , particularly those at risk of closing and ask for their profitability by carrier.  Fully burdened.  Ask how much they spend on RCM and consultants. In many cases they could survive if they ran like a real business and hired execs that could do the work rather than just manage consultants.  They could work out contracts in their communities rather than with ins companies and benefit everyone. \n\nThe middlemen are not needed.  Get rid of them",
+   "lang": "en",
+   "createdAt": "2026-04-19T16:09:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "16228398",
+    "username": "mcuban",
+    "name": "Mark Cuban",
+    "url": "https://x.com/mcuban",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1422637130/mccigartrophy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 317,
+    "retweets": 469,
+    "quotes": 62,
+    "likes": 2407,
+    "bookmarks": 479,
+    "views": 355868
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1885692659336901104",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1885692659336901104",
+   "url": "https://x.com/GMacdonaldSNP/status/1885692659336901104",
+   "conversationId": "1885692659336901104",
+   "text": "Labour policies like the employers' national insurance increase are pushing up costs that have to be recouped from passengers. Who is to blame for rail fares increasing more than in Scotland across England and Wales?",
+   "lang": "en",
+   "createdAt": "2025-02-01T14:12:19.000Z",
+   "type": "quote",
+   "author": {
+    "id": "98969650",
+    "username": "GMacdonaldSNP",
+    "name": "Gordon Macdonald SNP",
+    "url": "https://x.com/GMacdonaldSNP",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2084868286630461440/XoQuXHO6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 15,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 0,
+    "views": 770
+   },
+   "replyTo": null,
+   "quotedTweetId": "1885628078212173844",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2063271996587221095",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2063271996587221095",
+   "url": "https://x.com/PollySpin/status/2063271996587221095",
+   "conversationId": "2063271996587221095",
+   "text": "Renting an identical house to ours would cost more than our mortgage (tax and insurance included)\n\nRenting an apartment would be comparable in price but not in quality of life. (Not going to find a comparable apartment tbh)\n\n(Repairs/improvements are generally recouped)",
+   "lang": "en",
+   "createdAt": "2026-06-06T14:49:12.000Z",
+   "type": "quote",
+   "author": {
+    "id": "347562985",
+    "username": "PollySpin",
+    "name": "PollySolipsism",
+    "url": "https://x.com/PollySpin",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093311683775107072/l54s1L6z_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 1,
+    "views": 1015
+   },
+   "replyTo": null,
+   "quotedTweetId": "2063252040348844473",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014432693480571144",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2014432693480571144",
+   "url": "https://x.com/mcuban/status/2014432693480571144",
+   "conversationId": "2014432693480571144",
+   "text": "They are Too Big to Care.  Make them divest all non insurance assets. \n\nBtw, they do the same thing to independent physicians they do to pharmacies.  Underpay,late pay,clawback, exclude.  \n\nIt's what they do \n\nBreak them up !",
+   "lang": "en",
+   "createdAt": "2026-01-22T20:19:15.000Z",
+   "type": "quote",
+   "author": {
+    "id": "16228398",
+    "username": "mcuban",
+    "name": "Mark Cuban",
+    "url": "https://x.com/mcuban",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1422637130/mccigartrophy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 125,
+    "retweets": 326,
+    "quotes": 17,
+    "likes": 1956,
+    "bookmarks": 69,
+    "views": 776502
+   },
+   "replyTo": null,
+   "quotedTweetId": "2014403812732129747",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101540549190697356",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2101540549190697356",
+   "url": "https://x.com/mcre1/status/2101540549190697356",
+   "conversationId": "2101540549190697356",
+   "text": "GO Topeka is a private nonprofit contractor. JEDO is the public body. The law treats those two boards differently. Voters can hold both, but not with the same tool.\n\nTwo boards, two kinds of blame\n\nJEDO members (mayor’s voting seat, Hiller, Cook as commissioner) are public officers. They vote the tax work order. Kansas ouster, cash-basis voidness, and misuse-of-public-funds analysis starts here.\nGO Topeka directors (Perez, Duncan if they sit there, Cook in his second seat, Chamber people) are private fiduciaries spending a public grant. They are not “the City.” They do not automatically forfeit a public office when the nonprofit writes a bad check. Personal liability for a volunteer director in Kansas is narrow.\nThat split is the first thing a court will say. Do not write as if every banquet vote is a felony by the whole Chamber board. Write the stack.\nWhat voters can do that is actually legal\n1. Political.\nElect different JEDO votes. Demand the City and County terminate the service contract (audits: either party may terminate; cash and land revert to JEDO). Demand the GO Topeka board remove officers or stop the line. That is the Lawrence sequence you already described: show the problem, tell the voters, see if government moves.\n\n2. Records and audit.\nKORA on JEDO. Contract audit rights on GO Topeka. A 25-year total is how you prove pattern, which matters later for “willful.”\n3. Recovery of the dollars.\nUnauthorized payments can be demanded back from the contractor and, in a clean case, from the recipient. False Claims Act, K.S.A. 75-7503: knowing false claim for public money — treble damages to the political subdivision. That action runs against the person who presented the claim, not against every silent director.\n\n4. Void the spend / end the contract.\nIf JEDO had no power to authorize that use, the payment is ultra vires. Genesis, Hecht, K.S.A. 10-1119. Ending C-2019-01 is a board vote plus notice, not a slogan.\n5. Criminal — high bar.\nK.S.A. 21-6005 (misuse of public funds) hits a custodian or other person who has control of public money by virtue of official position and knowingly uses it in a manner not authorized by law. Conviction forfeits the official position. That fits a public officer or a staffer who controlled the account. It is a harder fit for a volunteer nonprofit director who only voted “aye” on a lump budget, unless you can prove they knew the use was illegal and still permitted it. A 2019 Kansas case charged a nonprofit director who received public grants and spent them on personal travel and luxury items. That is theft of the grant, not a banquet-policy dispute.\n\n6. Ouster — public officers only.\nK.S.A. 60-1205: willful misconduct in office, willful neglect of a duty enjoined by law, or a penal offense involving moral turpitude. Kansas courts require corrupt purpose, habitual disregard, or a real threat to the public fisc — not one sloppy vote. State v. Morrison reversed an ouster that did not meet that bar. Quo warranto is brought in the name of the state, usually by the attorney general or county attorney. Private citizens do not oust a commissioner by Facebook post.\n7. Private directors — fiduciary duty, not ouster.\nKansas K.S.A. 60-3601: if the nonprofit carries liability insurance, a volunteer director is not personally liable for ordinary mistakes. Liability opens on willful or wanton misconduct, or if that director authorizes, approves, or ratifies the act and the act is willful or wanton. The federal Volunteer Protection Act is the same idea. Business-judgment rule covers good-faith wrong guesses. It does not cover “we knew this was off the ballot and we kept signing.”\n\nThe Kansas Attorney General can enforce misuse of restricted funds against a charity. That is the usual path against a 501 board, not a voter lawsuit for damages against each director.\nKansas precedent that is close\n\nTheis (2004), JEDO–GO Topeka: contract illegal for failure to bid; treated as void if the plaintiffs finished the case. They did not. JEDO passed a bid exemption. Lesson: the court will not kill the arrangement unless someone with standing completes the suit.\nHecht / Genesis / cash-basis cases: illegal municipal contracts are void; no estoppel; the other party is charged with knowledge. That is your best Kansas doctrine for the spend, not for sending directors to jail.\n\n21-6005 + grant-funded nonprofit staff: personal use of grant money has been charged. Policy disagreement over “what is economic development” has not produced a reported Kansas ouster of an entire ED board.\nThere is no published Kansas case that says “the Chamber board is personally liable for every banquet paid from a sales-tax contract.” Do not invent one.\n\nNational pattern\nSame split everywhere.\nPublic officials who vote illegal appropriations: some states allow a surcharge — personal repayment of the illegal item (North Carolina’s local-government literature is the clean write-up). Kansas does that work through voidness, recovery, and 21-6005, not a neat surcharge statute.\n\nNonprofit directors: personal liability when they loot, self-deal, or ignore a known illegal use. Ordinary program error stays on the corporation. D.C. and other AGs sue treasurers who took PTO money to Cancun. They do not sue the whole board for a sponsorship the staff buried in a program line.\nFederal False Claims Act (and Kansas’s smaller cousin): the hammer when someone knowingly bills the government for something the contract did not allow.\nTermination for convenience / for cause, clawback, debarment: how cities actually fire an ED contractor.\n\nWhen the GO Topeka board “has to step up”\nThere is no calendar date that creates liability by itself. The legal turn is notice plus a later vote.\nBefore they were told the banquet was off the ballot: negligence argument, business judgment, volunteer immunity.\n\nAfter letters, a KORA, a Howey list, and AG opinions are in their hands: the next “aye” on the same lump line is ratification. That is when 60-3601’s “authorizes, approves, ratifies” language starts to matter. That is when JEDO’s willful-neglect clock is easier to argue. That is when a prosecutor can say “knowingly.”\nJustice, in this structure, is not a mass indictment of the Chamber. It is:\nJEDO stops the line and splits incentives from sponsorships.\nGO Topeka’s board orders staff to stop writing civic checks from the half-cent.\n\nUnauthorized dollars come back.\nIf they refuse after notice, the City and County terminate C-2019-01 and take the cash and land.\n\nDual-role officers (Cook, and anyone else on both boards) get the harder questions because they had control and a law license.\nVoters hold the public officers at the ballot and, with the AG or county attorney, in quo warranto. They hold the NGO board by forcing the public body to pull the contract and by putting ratification on the record after notice. That is the precedent. The letters you already sent are the notice that starts the second clock.",
+   "lang": "en",
+   "createdAt": "2026-09-20T05:14:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "20604097",
+    "username": "mcre1",
+    "name": "Henry McClure",
+    "url": "https://x.com/mcre1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1838056822831259648/arxeLdZI_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 176
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101540526876971008",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSor-YmW0AAGBij.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSor-YmW0AAGBij.jpg",
+     "width": 2148,
+     "height": 1678,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1996622325559525683",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1996622325559525683",
+   "url": "https://x.com/mcuban/status/1996622325559525683",
+   "conversationId": "1996622325559525683",
+   "text": "Talking to independent physicians, it's obvious that the big insurance carriers are doing to them, what their PBMs are doing to independent pharmacies. \n\nThey deny, underpay, slow pay, clawback, and create administrative  mazes, knowing their victims don't have the time or resources to fight. \n\nWhy ? By putting financial pressures on physicians and pharmacies,  it makes them more likely to sell their businesses to them , close their doors,  or refer the business to their captive pharmacy or provider.   All benefitting the biggest insurance companies \n\nWe need to ditch the concept of \"claims\" and make every delivery of medications or care as a billable  event that must, by law, be paid on a timely basis , with interest charges for any delays.   If the physician or pharmacy doesn't deliver , the carrier has plenty of legal options already. As does the patient.  \n\nThis is not an efficient market.  This is the big guy abusing the little guy.  It needs to change to better the care we get in this country",
+   "lang": "en",
+   "createdAt": "2025-12-04T16:47:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "16228398",
+    "username": "mcuban",
+    "name": "Mark Cuban",
+    "url": "https://x.com/mcuban",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1422637130/mccigartrophy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 525,
+    "retweets": 1237,
+    "quotes": 137,
+    "likes": 6784,
+    "bookmarks": 458,
+    "views": 497053
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1961590334124957980",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1961590334124957980",
+   "url": "https://x.com/DonBerner/status/1961590334124957980",
+   "conversationId": "1961590334124957980",
+   "text": "Doing a lock out on teachers is nuts. Between this, corruptcare, the book ban, the highest utilities, insurance, measles &amp; Covid rates in Canada, the AISH clawback &amp; literally billions gone missing it's difficult to understand how any1 with 1/2 a brain could ever vote ucp again.",
+   "lang": "en",
+   "createdAt": "2025-08-30T00:42:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "136501052",
+    "username": "DonBerner",
+    "name": "Don Berner",
+    "url": "https://x.com/DonBerner",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791616706252877824/xHCmtYzz_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 57,
+    "retweets": 307,
+    "quotes": 16,
+    "likes": 995,
+    "bookmarks": 21,
+    "views": 30430
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1856446368203542760",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1856446368203542760",
+   "url": "https://x.com/Rob_Shenanigans/status/1856446368203542760",
+   "conversationId": "1856446368203542760",
+   "text": "Has anyone in the local media ever asked Berry or Stefanski why the team chose to NOT take out an injury insurance policy on Watson? Teams do this with a lot of big contracts/franchise QBs. They would’ve recouped a ton of cap space. Seems like an obvious question to ask to me 🤷‍♂️",
+   "lang": "en",
+   "createdAt": "2024-11-12T21:17:59.000Z",
+   "type": "quote",
+   "author": {
+    "id": "822245501458333700",
+    "username": "Rob_Shenanigans",
+    "name": "Roberto Shenanigans",
+    "url": "https://x.com/Rob_Shenanigans",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1715238095379890176/glbUKx9c_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 20,
+    "bookmarks": 2,
+    "views": 2941
+   },
+   "replyTo": null,
+   "quotedTweetId": "1836461541664919818",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

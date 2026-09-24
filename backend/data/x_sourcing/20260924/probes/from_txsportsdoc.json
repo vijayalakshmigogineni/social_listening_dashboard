@@ -1,0 +1,1596 @@
+{
+ "key": "from_txsportsdoc",
+ "query": "from:txsportsdoc lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102945940755608041",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102945940755608041",
+   "url": "https://x.com/txsportsdoc/status/2102945940755608041",
+   "conversationId": "2102945940755608041",
+   "text": "The AI videos people are posting especially related to medical issues are terrible and assures that I’ll scroll past as fast as I can. Stop it people. They are so fake and cartoonish, I can’t look at them. \nAnyone else?",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:19:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 157
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102945151001706737",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102945151001706737",
+   "url": "https://x.com/txsportsdoc/status/2102945151001706737",
+   "conversationId": "2102752823158907108",
+   "text": "From the paper: “No significant differences were seen between standard RCR and augmented RCR with regard to the short-term PROs, such as pain, ASES, and Constant scores.”\nWe need to stop using MRI studies to determine success of our surgeries. IMO this is exactly how the patches get sold.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:16:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 69
+   },
+   "replyTo": {
+    "tweetId": "2102940733166571819",
+    "userId": "743642208",
+    "username": "M_Helm816"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102943637290004864",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102943637290004864",
+   "url": "https://x.com/txsportsdoc/status/2102943637290004864",
+   "conversationId": "2102740323709366510",
+   "text": "We looked at hundreds of my ACLs when I was at Baylor BTB Auto vs TA Fresh Frozen allos. Avg 27yo, Tegner 7, followed for 5 years. Handful of retears. Higher in the BTB group. I get asked all the time what I am doing different. Above is what I do. I now have over 20y follow up on some patients and seeing their own kids which is fun.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:10:08.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 62
+   },
+   "replyTo": {
+    "tweetId": "2102932559646662758",
+    "userId": "253811988",
+    "username": "LenMacPT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102923621668635082",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102923621668635082",
+   "url": "https://x.com/txsportsdoc/status/2102923621668635082",
+   "conversationId": "2102740323709366510",
+   "text": "@LenMacPT 🤷‍♂️Maybe cause I use a lot of fresh frozen tibialis anterior allografts and yes many young Tegner 9/10 athletes. I use a Biomet zip loop on femoral side(no conflict) and bio interference screw on tibia. AM femoral drilling. PT starts in days.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:50:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 106
+   },
+   "replyTo": {
+    "tweetId": "2102921037935718824",
+    "userId": "253811988",
+    "username": "LenMacPT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "253811988",
+      "username": "LenMacPT",
+      "name": "Lenny Macrina, Sports Physical Therapist"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102919961312473111",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102919961312473111",
+   "url": "https://x.com/txsportsdoc/status/2102919961312473111",
+   "conversationId": "2102740323709366510",
+   "text": "@LenMacPT Mine run at 6 weeks for the last 21 years.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:36:03.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 290
+   },
+   "replyTo": {
+    "tweetId": "2102740323709366510",
+    "userId": "253811988",
+    "username": "LenMacPT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "253811988",
+      "username": "LenMacPT",
+      "name": "Lenny Macrina, Sports Physical Therapist"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102917930405273777",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102917930405273777",
+   "url": "https://x.com/txsportsdoc/status/2102917930405273777",
+   "conversationId": "2102889891151708648",
+   "text": "@MarcLobliner @ThomasLobliner Congrats",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:27:59.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 18
+   },
+   "replyTo": {
+    "tweetId": "2102889891151708648",
+    "userId": "328801479",
+    "username": "MarcLobliner"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "328801479",
+      "username": "MarcLobliner",
+      "name": "Marc Lobliner - IFBB Pro"
+     },
+     {
+      "id": "1554899627979276288",
+      "username": "ThomasLobliner",
+      "name": "Thomas Lobliner"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102917117188149517",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102917117188149517",
+   "url": "https://x.com/txsportsdoc/status/2102917117188149517",
+   "conversationId": "2102917117188149517",
+   "text": "Pull their funding and that will get things changed quickly. Merit based admissions only. Ask a patient who they want caring for them.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:24:45.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 1,
+    "views": 571
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102533380197745001",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102913094997479437",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102913094997479437",
+   "url": "https://x.com/txsportsdoc/status/2102913094997479437",
+   "conversationId": "2102490008246690149",
+   "text": "@realdocspeaks @OckhamsRazor4 @DrCRegen @CoachSchardein Yep. It really is as simple as that. Load up the HSA card",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:08:46.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 187
+   },
+   "replyTo": {
+    "tweetId": "2102908287221912044",
+    "userId": "1721551308329467904",
+    "username": "realdocspeaks"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1721551308329467904",
+      "username": "realdocspeaks",
+      "name": "Real Doc Speaks"
+     },
+     {
+      "id": "1596901402105810963",
+      "username": "OckhamsRazor4",
+      "name": "Ockham's Razor"
+     },
+     {
+      "id": "2089156618747564032",
+      "username": "DrCRegen",
+      "name": "Kendall Christensen, DO"
+     },
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102893868161077559",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102893868161077559",
+   "url": "https://x.com/txsportsdoc/status/2102893868161077559",
+   "conversationId": "2102752823158907108",
+   "text": "@hjluks @anish_koka When @hjluks agrees I know I’m on the right side of this 😂 “Maturity” as an ortho gives you unique perspective.",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:52:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 208
+   },
+   "replyTo": {
+    "tweetId": "2102892812337611061",
+    "userId": "15056465",
+    "username": "hjluks"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15056465",
+      "username": "hjluks",
+      "name": "Howard Luks MD"
+     },
+     {
+      "id": "725172428339568640",
+      "username": "anish_koka",
+      "name": "Anish Koka, MD"
+     },
+     {
+      "id": "15056465",
+      "username": "hjluks",
+      "name": "Howard Luks MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102893248951836856",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102893248951836856",
+   "url": "https://x.com/txsportsdoc/status/2102893248951836856",
+   "conversationId": "2102752823158907108",
+   "text": "@drroddymcgee And that my friend is an even better question. Treat the patient not imaging.",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:49:55.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 58
+   },
+   "replyTo": {
+    "tweetId": "2102886219193757929",
+    "userId": "305702043",
+    "username": "drroddymcgee"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "305702043",
+      "username": "drroddymcgee",
+      "name": "Dr. Roddy McGee"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102880802988023822",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102880802988023822",
+   "url": "https://x.com/txsportsdoc/status/2102880802988023822",
+   "conversationId": "2102490008246690149",
+   "text": "How many people spend 30k every year out of pocket on healthcare…only a very small percentage and you could easily create a seperate risk pool just for them.\nThats the whole ins game and how they make 10s of billions and why Warren Buffet loves INs co…the float. Simple math, take as much money as you possibly can from your members and pay out as little as possible.",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:00:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 72
+   },
+   "replyTo": {
+    "tweetId": "2102874602863231200",
+    "userId": "1596901402105810963",
+    "username": "OckhamsRazor4"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102860661865013674",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102860661865013674",
+   "url": "https://x.com/txsportsdoc/status/2102860661865013674",
+   "conversationId": "2102490008246690149",
+   "text": "@RenoHemonc @CoachSchardein @realdocspeaks Well said",
+   "lang": "en",
+   "createdAt": "2026-09-23T20:40:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 13
+   },
+   "replyTo": {
+    "tweetId": "2102842361546178890",
+    "userId": "795174703878942721",
+    "username": "RenoHemonc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "795174703878942721",
+      "username": "RenoHemonc",
+      "name": "Santhosh Ambika"
+     },
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     },
+     {
+      "id": "1721551308329467904",
+      "username": "realdocspeaks",
+      "name": "Real Doc Speaks"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102860599281529295",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102860599281529295",
+   "url": "https://x.com/txsportsdoc/status/2102860599281529295",
+   "conversationId": "2102752823158907108",
+   "text": "💯 in my area of North Texas. If you use some anchors and a patch, without carve outs your negative. Not a good biz model. I personally think there is little to no benefit from these and is another industry generated product that created a product for a problem that didnt exist. There may be a few indications ie focal mid substance tear, of course can always sew side to side with inexpensive suture. I’m Chief at our facility so I am the one who sees it all",
+   "lang": "en",
+   "createdAt": "2026-09-23T20:40:10.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 295
+   },
+   "replyTo": {
+    "tweetId": "2102857054436155663",
+    "userId": "305702043",
+    "username": "drroddymcgee"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102814306823729561",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102814306823729561",
+   "url": "https://x.com/txsportsdoc/status/2102814306823729561",
+   "conversationId": "2102752823158907108",
+   "text": "@ChrisWi19030624 @spartywrx Yea. I trained on all DHS for IT and subtroch fxs, even DCS and Blade plates(those were all fun). IMHS made it much faster with little incisions in most of our hands. Game changer IMO. Can even span femur in vulnerable patient",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:36:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 23
+   },
+   "replyTo": {
+    "tweetId": "2102813485914521828",
+    "userId": "1311903638919536640",
+    "username": "ChrisWi19030624"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1311903638919536640",
+      "username": "ChrisWi19030624",
+      "name": "Chris Wise MD FAAOS"
+     },
+     {
+      "id": "47535133",
+      "username": "spartywrx",
+      "name": "PT"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102813854937825614",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102813854937825614",
+   "url": "https://x.com/txsportsdoc/status/2102813854937825614",
+   "conversationId": "2102752823158907108",
+   "text": "@MarcRankin4 Haha, that’s another interesting trend",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:34:26.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 241
+   },
+   "replyTo": {
+    "tweetId": "2102812415000019137",
+    "userId": "1439894914549129222",
+    "username": "MarcRankin4"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1439894914549129222",
+      "username": "MarcRankin4",
+      "name": "Marcus Aurelius"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102813774075859396",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102813774075859396",
+   "url": "https://x.com/txsportsdoc/status/2102813774075859396",
+   "conversationId": "2102490008246690149",
+   "text": "I think many consider: Trauma, MI,unplanned surgery,cancer catastrophic and those represent less than 1% of medical visits in the US. Again, Median spend less than $500 annually, not the avg $30k annual spend someone must pay for the plastic card that then gives u a “discount” for on network care that is often much more than cash price. Again, you can create a subsidy for the unexpected and those in need. Simply bring back catastrophic plans and expand HSAs…easy fix. I can solve it over the weekend",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:34:06.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2102809095652934001",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102812835529007246",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102812835529007246",
+   "url": "https://x.com/txsportsdoc/status/2102812835529007246",
+   "conversationId": "2102490008246690149",
+   "text": "Access is everywhere. Walk in the door. Cash is still king. Someone saving thousands/month on expensive premiums can pay as they go. You don’t make a car insurance claim for an oil change, or home owners claim for a broken sprinkler or window…you just pay for it. The plastic card doesn’t give you access, it’s capture and extracts money without returning real value/care for its members",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:30:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 13
+   },
+   "replyTo": {
+    "tweetId": "2102807381227032684",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102812132085580157",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102812132085580157",
+   "url": "https://x.com/txsportsdoc/status/2102812132085580157",
+   "conversationId": "2102752823158907108",
+   "text": "@durantula_nh Not aware of indications for placing a $4k patch for “tendinosis”.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:27:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 227
+   },
+   "replyTo": {
+    "tweetId": "2102797915450212380",
+    "userId": "289345421",
+    "username": "durantula_nh"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "289345421",
+      "username": "durantula_nh",
+      "name": "RYAN"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102811861817131304",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102811861817131304",
+   "url": "https://x.com/txsportsdoc/status/2102811861817131304",
+   "conversationId": "2102752823158907108",
+   "text": "You proved my point with this paper and what I have seen practically. Industry is all over promoting these things. I don’t know a single Orthopedic Surgeon putting these in, that doesn’t have some sort of financial benefit. I also see a lot of these in second opinion with Tatian, or reactions that wants them out. Completing a partial tear and adding a couple lateral anchors takes me a couple minutes at most. Maybe large hospital systems have carve out based on certain insurance plans, but most Surgery centers don’t have carve outs for these which means if you have someone using a lot of these, they are losing money every single case.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:26:30.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 320
+   },
+   "replyTo": {
+    "tweetId": "2102781598420856957",
+    "userId": "47535133",
+    "username": "spartywrx"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102775436065288437",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102775436065288437",
+   "url": "https://x.com/txsportsdoc/status/2102775436065288437",
+   "conversationId": "2102775436065288437",
+   "text": "You aren’t angry enough Californians.",
+   "lang": "en",
+   "createdAt": "2026-09-23T15:01:46.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 708
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102765171479568630",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102774683846279245",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102774683846279245",
+   "url": "https://x.com/txsportsdoc/status/2102774683846279245",
+   "conversationId": "2102490008246690149",
+   "text": "Disagree. Patients can choose to be healthy or not. Yes, some individuals may have genetic predispositions to certain illnesses, we can create a separate risk pool and fund that and keep them out of the general pool. This would be a good use of government subsidies and lower the cost of health ins premiums exponentially. Median American spend on healthcare annually is less than $500. If that’s the case, why make people spend multiples more for “coverage” makes zero sense.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:58:46.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 5
+   },
+   "replyTo": {
+    "tweetId": "2102769173072068832",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102773968436355156",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102773968436355156",
+   "url": "https://x.com/txsportsdoc/status/2102773968436355156",
+   "conversationId": "2102490008246690149",
+   "text": "@CoachSchardein @realdocspeaks I’m not debating that the ACA didn’t control premiums, it by design, exponentially raised them.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:55:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 183
+   },
+   "replyTo": {
+    "tweetId": "2102769085604044942",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     },
+     {
+      "id": "1721551308329467904",
+      "username": "realdocspeaks",
+      "name": "Real Doc Speaks"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102773673581244631",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102773673581244631",
+   "url": "https://x.com/txsportsdoc/status/2102773673581244631",
+   "conversationId": "2102490008246690149",
+   "text": "@CoachSchardein @realdocspeaks Reducing the uninsured rate is the wrong metric. As mentioned having an expensive plastic card in your pocket doesn’t assure you’ll get care. Most Americans would better off paying cash for care. INS should only be for catastrophic emergencies.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:54:46.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 16,
+    "bookmarks": 0,
+    "views": 1007
+   },
+   "replyTo": {
+    "tweetId": "2102768960500556045",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     },
+     {
+      "id": "1721551308329467904",
+      "username": "realdocspeaks",
+      "name": "Real Doc Speaks"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102766760332063000",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102766760332063000",
+   "url": "https://x.com/txsportsdoc/status/2102766760332063000",
+   "conversationId": "2102766760332063000",
+   "text": "Hey @SaraGonzalesTX and @BreannaMorello love to see you cover what’s happening in Celina,TX. Armed police officers banging on doors, issuing water violation tickets for watering. The city keeps building and issuing more building permits but doesn’t have enough water for its current residents. No surrounding cities are on such restrictions.  Celina is contracted to purchase 10.5 million gallons from Upper Trinity Regional Water District per day but using 12.1 million at peak. There are now approx 20,142 meters in 2026 vs 16,865 in 2024. The City of Celina Water Contract was entered into in 2020 for 1M gallons/day. https://interchange.puc.texas.gov/Documents/49225_91_1063471.PDF?utm_source=chatgpt.com\nIn 2025 the city requested 10.5 gallons/day but is proving not to be enough. Instead of solving the problem: Limiting growth until a solution is reached, we have now resorted to using armed police officers to issue tickets to citizens. Seems previous Celina Mayor, who was a real estate developer, did what many local mayors have done, committed their cities to rapid growth/development. Unfortunately it seems, the city of Celina didn’t plan for this growth.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:27:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 427
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "375852740",
+      "username": "SaraGonzalesTX",
+      "name": "Sara Gonzales"
+     },
+     {
+      "id": "181936367",
+      "username": "BreannaMorello",
+      "name": "Breanna Morello"
+     }
+    ],
+    "urls": [
+     "https://interchange.puc.texas.gov/Documents/49225_91_1063471.PDF?utm_source=chatgpt.com"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102766301877850468",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102766301877850468",
+   "url": "https://x.com/txsportsdoc/status/2102766301877850468",
+   "conversationId": "2102752823158907108",
+   "text": "@FixnBones @northwoods1980 💯 IMO you just do the more difficult case, take it on the chin and move on. Some money without the -22 is better than no money with the -22",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:25:28.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 140
+   },
+   "replyTo": {
+    "tweetId": "2102765706446278842",
+    "userId": "23580889",
+    "username": "FixnBones"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "23580889",
+      "username": "FixnBones",
+      "name": "Dan Fuentes"
+     },
+     {
+      "id": "252133117",
+      "username": "northwoods1980",
+      "name": "RJ"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102763312941334710",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102763312941334710",
+   "url": "https://x.com/txsportsdoc/status/2102763312941334710",
+   "conversationId": "2102752823158907108",
+   "text": "That’s a rotator cuff tear code. The 22 modifier is used to identify a more difficult and challenging case which is almost a guarantee not to get the 29827 paid. Most of us do not even bill the 22 modifier anymore, because unless you have a solid billing department who follows up on this, it will be denied, and then written off, and the surgeon may not even know it.\n\nUnless you are working at a facility that has implant carve outs that amount of money will come off the top from the reimbursement and often result in a  net loss for the facility.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:13:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 536
+   },
+   "replyTo": {
+    "tweetId": "2102759164632003015",
+    "userId": "252133117",
+    "username": "northwoods1980"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102756387730169885",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102756387730169885",
+   "url": "https://x.com/txsportsdoc/status/2102756387730169885",
+   "conversationId": "2102756387730169885",
+   "text": "Never thought I’d have to brush up on diagnosis and treatment of Typhus in one of the largest and wealthiest cities in the US. May have to now have a video game called The Rodeo Drive.😂(make sure you pronounce it right)",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:46:04.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 446
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102754100618400032",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102752823158907108",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102752823158907108",
+   "url": "https://x.com/txsportsdoc/status/2102752823158907108",
+   "conversationId": "2102752823158907108",
+   "text": "Orthos: Why are we seeing so many colleagues put patches on partial rotator cuff tears? The enormous cost this adds to these cases is sometimes $4k with little clinical benefit. Been doing shoulder surgery for about 25yrs never once used one for a partial tear and maybe a few times to augment a full thickness tear. It seems the industry tail wagging the dog again.",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:31:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 35,
+    "bookmarks": 1,
+    "views": 7755
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102751723525902382",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102751723525902382",
+   "url": "https://x.com/txsportsdoc/status/2102751723525902382",
+   "conversationId": "2102751723525902382",
+   "text": "Would get a better overview from the box. As someone who has spent some time on NFL sidelines, always keep your eyes on the field as plays can come your way fast.",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:27:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 4062
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102177318965801169",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102750351942177057",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102750351942177057",
+   "url": "https://x.com/txsportsdoc/status/2102750351942177057",
+   "conversationId": "2102750351942177057",
+   "text": "Need to immediately repeal all remaining portions of Obamacare. What many people don’t know is brokers receive incentives for signing up people on Obamacare and no one verifies their credentials and or if they are real people. I don’t know what many of us simple people see the problem and the solution and yet we keep holding pressers as if we are surprised. Imagine what we could actually do if real tax dollars were going to help real people. We could actually raise Medicare/Medicaid rates to doctors thereby improving access and care. Fund people not programs.",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:22:05.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 0,
+    "views": 1042
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102710995206521027",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

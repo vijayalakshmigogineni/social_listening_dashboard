@@ -221,10 +221,13 @@ def test_run_pipeline_all_versions_emits_two_distinct_rows():
         assert not missing, f"{r.scoring_version} is missing columns: {missing}"
 
 
-def test_v2_scores_non_relevant_records_that_v1_zeroes():
+def test_v2_scores_non_relevant_records_that_v1_zeroes(monkeypatch):
     # Step 1 short-circuits non-relevant records and v1 scores them 0. v2 must
     # still produce a graded score, which is the behaviour change that recovered
-    # false negatives in the gold set.
+    # false negatives in the gold set. (Zero keyword hits -> ambiguous -> the
+    # relevance LLM, stubbed here, resolves it as not relevant.)
+    monkeypatch.setattr(step1, "classify_relevance_llm",
+                        lambda *a, **k: {"relevant": False, "confidence": 0.9})
     results = pipeline_module.run_pipeline_all_versions(
         source_item_id="reddit:xyz789", title="", text="I love hiking on weekends.",
         created_at=None,

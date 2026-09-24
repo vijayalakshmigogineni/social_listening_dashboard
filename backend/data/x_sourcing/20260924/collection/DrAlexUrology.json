@@ -1,0 +1,792 @@
+{
+ "query": "from:DrAlexUrology (denied OR denial OR denials OR denying OR \"prior auth\" OR \"prior authorization\" OR \"peer to peer\" OR reimbursement OR underpay OR unpaid OR downcode OR downcoding OR modifier OR IDR OR QPA OR \"fee schedule\" OR \"Medicare Advantage\" OR WISeR OR payment OR paid OR EOB OR \"out of network\" OR insurer OR insurance) since:2025-09-24 lang:en -filter:retweets",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102476621600997388",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102476621600997388",
+   "url": "https://x.com/DrAlexUrology/status/2102476621600997388",
+   "conversationId": "2102476621600997388",
+   "text": "So basically, you are promoting complete consolidation of the market with ONLY one negotiation that is possible: Hospital + Insurance companies.  \n\nWe know how it has been working out between the two of them - >15% year-to-year growth in costs? \n\nForce all physicians into complete dependency on hospitals; give hospitals \"tyrannical\" power over physicians.   Essentially, make employed + non-employed physicians equally dependent on hospital largesse.\n\nRemove ANY incentive for health insurance to negotiate fair rates directly with physicians. \n\nWe see where it's going - not a free market but Monopoly on hospital + physician services + Monopsony on insurer side.  \n\nInstead of negotiating a fair compensation, you want to \"force\" physicians to sign whatever contract @UHC and @AnthemBCBS puts in front of their nose, often without even the right to read the contract.  You know well that there are no negotiatons and that's why 80% of physicians are \"employed.\"\n\nBrilliant idea.  Brookings institution is truly a \"think tank\" but it can think only \"one step\" at a time.  \nOblivious to unintended consequences.",
+   "lang": "en",
+   "createdAt": "2026-09-22T19:14:23.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 33,
+    "bookmarks": 4,
+    "views": 3354
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102447891466092818",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102216705049018419",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102216705049018419",
+   "url": "https://x.com/DrAlexUrology/status/2102216705049018419",
+   "conversationId": "2102216705049018419",
+   "text": "Insurance company accounting’s is basically “funny money.”\n\nThe posted loss is 0.5% of revenue. \n\nThey can dial it up next quarter to 20% profit by simply denying 10% more claims, prior authorizations, and appeals. Who can stop them?",
+   "lang": "en",
+   "createdAt": "2026-09-22T02:01:34.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 654
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102187056365548006",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102213077718466740",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102213077718466740",
+   "url": "https://x.com/DrAlexUrology/status/2102213077718466740",
+   "conversationId": "2101779122162942254",
+   "text": "@TSRooseveltRE @MetroPlusHealth They are not looking for results. They are looking to delay and deny.  \n\nThe math is simple: delaying is financially as good as denying.",
+   "lang": "en",
+   "createdAt": "2026-09-22T01:47:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2101855165557227765",
+    "userId": "51749993",
+    "username": "TSRooseveltRE"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "51749993",
+      "username": "TSRooseveltRE",
+      "name": "TS Roosevelt, MD, fka Gordon Pasha"
+     },
+     {
+      "id": "108716195",
+      "username": "MetroPlusHealth",
+      "name": "MetroPlusHealth"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101704867043528901",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101704867043528901",
+   "url": "https://x.com/DrAlexUrology/status/2101704867043528901",
+   "conversationId": "2101704867043528901",
+   "text": "Fundamentally, the problem is that most patients have no control of the money they earn used to pay for their health insurance and little appreciation of how much it costs. \n\nRegulation stands in the way of innovation. What I can do in the office is not paid enough to cover my costs but reimbursed at 300% more in a surgical center.",
+   "lang": "en",
+   "createdAt": "2026-09-20T16:07:42.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 924
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101620215159165280",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101340766295535849",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101340766295535849",
+   "url": "https://x.com/DrAlexUrology/status/2101340766295535849",
+   "conversationId": "2101267932428878045",
+   "text": "@MattZirwas Do you teach residents how to run a financially responsible practice based on the Medicare fee schedule. \n\nIf you can’t teach that, then you have to teach them how to engage in the luxury of working without being paid. That means cosmetic dermatology to subsidize medical Derm",
+   "lang": "en",
+   "createdAt": "2026-09-19T16:00:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 209
+   },
+   "replyTo": {
+    "tweetId": "2101267932428878045",
+    "userId": "2033947948997083136",
+    "username": "MattZirwas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2033947948997083136",
+      "username": "MattZirwas",
+      "name": "Matthew Zirwas, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100242327407034409",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100242327407034409",
+   "url": "https://x.com/DrAlexUrology/status/2100242327407034409",
+   "conversationId": "2100219370429378736",
+   "text": "@txsportsdoc @DRsLoungePod @TomOliverson @DrDiGiorgio You get rid of prior authorization and denials simply move to post-service denials. \n\nYou can’t solve one problem in isolation of the other.",
+   "lang": "en",
+   "createdAt": "2026-09-16T15:16:06.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 51
+   },
+   "replyTo": {
+    "tweetId": "2100219370429378736",
+    "userId": "91464818",
+    "username": "txsportsdoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "1957956452447879168",
+      "username": "DRsLoungePod",
+      "name": "The Doctor’s Lounge Podcast"
+     },
+     {
+      "id": "3060663253",
+      "username": "TomOliverson",
+      "name": "Tom Oliverson, M.D."
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099705965092159750",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099705965092159750",
+   "url": "https://x.com/DrAlexUrology/status/2099705965092159750",
+   "conversationId": "2099705965092159750",
+   "text": "If this was an attempt to report without bias, objectively, on an issue that creates a great headache for physicians + patients, this could have been a Pulitzer worthy article. \n\nInstead, the article is nothing but a political hit piece before elections. \n\nIt fails to consider the reality, the physician/practice perspective. Have you considered the alternative? No OB-GYN when you need one?  Very common in many rural counties. \n\nHow do you think medical practices can provide care to the low income patients if they don’t get paid?\n\nEmployees have to be paid.  \nRent has to be paid. \nTaxes have to be paid. \nMalpractice has to be paid. \nSupplies have to be paid for. \n\nDo you have a proposal, a solution?\n\nPhysicians cannot deduct non-collectible debt on tax returns. \nThe government doesn’t pay physicians to take care of the uninsured, and neither does the NYT. \n\nThe article is a mindless political hit on a physician who have given so much to his patients.",
+   "lang": "en",
+   "createdAt": "2026-09-15T03:44:47.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 7,
+    "quotes": 1,
+    "likes": 25,
+    "bookmarks": 2,
+    "views": 3584
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099573771954716932",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097468600504479954",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097468600504479954",
+   "url": "https://x.com/DrAlexUrology/status/2097468600504479954",
+   "conversationId": "2097468600504479954",
+   "text": "It is time to hold health plans accountable. \n\nFirst, they refuse in-network contracts or offer contracts that are impossible to make work.  Doctors are forced into hospital employment subsidized by facility fees. \n\nTurns out that insurance companies make more money by underpaying doctors than doctors get paid. Then they bill employee plans for NSA. Then they get a cut of the NSA payment. \n\nThen they refuse to pay but take the money from self funded plans as “arbitrage”.  \n\nEach dollar in costs is stripped by insurance companies during the payment process so that at most 15 cents is actually paid out.",
+   "lang": "en",
+   "createdAt": "2026-09-08T23:34:18.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 18,
+    "bookmarks": 2,
+    "views": 1707
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097323788811538862",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094992751523676582",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2094992751523676582",
+   "url": "https://x.com/DrAlexUrology/status/2094992751523676582",
+   "conversationId": "2094992751523676582",
+   "text": "That’s a knife in the back. \n\nThe only thing that is worse than prior authorization is the absence of one. Then insurance will simply deny after the fact with no recourse for patients or for hospitals + doctors.",
+   "lang": "en",
+   "createdAt": "2026-09-02T03:36:09.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 32,
+    "bookmarks": 2,
+    "views": 8299
+   },
+   "replyTo": null,
+   "quotedTweetId": "2094753245180637679",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094967920736489551",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2094967920736489551",
+   "url": "https://x.com/DrAlexUrology/status/2094967920736489551",
+   "conversationId": "2094967920736489551",
+   "text": "A third of valid claims are denied for no good reason. \n\nShort of a lawsuit under ERISA that starts at $50,000 in legal fees, patients and especially physicians have no recourse. \n\nThe @USDOL complaints are  a “voluntary compliance” program. This means that health plans can completely ignore a complaint to the US Department of Labor with no repercussions.   Sweet deal!",
+   "lang": "en",
+   "createdAt": "2026-09-02T01:57:29.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 715
+   },
+   "replyTo": null,
+   "quotedTweetId": "2094839031817228774",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "20179628",
+      "username": "USDOL",
+      "name": "U.S. Department of Labor"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093704431200047111",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2093704431200047111",
+   "url": "https://x.com/DrAlexUrology/status/2093704431200047111",
+   "conversationId": "2093704431200047111",
+   "text": "The last thing you want is for “disinterested” DC bureaucrats to control it. \n\nDC bureaucrats means @AHIPCoverage, the lobbyist that outspends collectively the AMA 100:1. \n\nThe CPT costs are a drop in the bucket when CMS is protecting the racket of charging medical practices >$10 Billion per year for the right to be paid via ACH fees and virtual credit cards. \n\nWhen billions are stolen from physicians by CMS RAC contractors because the rules are stacked against medical practices. \n\n@DrOzCMS should fix real problems first.",
+   "lang": "en",
+   "createdAt": "2026-08-29T14:16:50.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 628
+   },
+   "replyTo": null,
+   "quotedTweetId": "2093425967855190239",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "22797378",
+      "username": "AHIPCoverage",
+      "name": "AHIP"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092812697611964604",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2092812697611964604",
+   "url": "https://x.com/DrAlexUrology/status/2092812697611964604",
+   "conversationId": "2092812697611964604",
+   "text": "I have one suggestion for @PtRightsAdvoc?\n\nYou created a tool to view Hospital Price Transparency files.\n\nWhy not create a similar tool for insurance plan transparency?",
+   "lang": "en",
+   "createdAt": "2026-08-27T03:13:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 365
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1156942253497233408",
+      "username": "PtRightsAdvoc",
+      "name": "PatientRightsAdvocate.org"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092762153358905372",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2092762153358905372",
+   "url": "https://x.com/DrAlexUrology/status/2092762153358905372",
+   "conversationId": "2092762153358905372",
+   "text": "These are actually payments for provided care.  The alternative that existed before is that physicians got paid $0.  I have many receipts. Nights and holidays in ER/ OR. Payment denied $0 paid. \n\nMeanwhile, health insurances profit when they deny payments for medically necessary care that was already provided. \n\nElevance Health (formerly known as Anthem) reported a full-year 2025 net profit of $5.66 billion.\n\nUnitedHealth Group's full-year 2025 net profit was $12.1 billion",
+   "lang": "en",
+   "createdAt": "2026-08-26T23:52:33.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 510
+   },
+   "replyTo": null,
+   "quotedTweetId": "2092659600189235409",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092457989517009187",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2092457989517009187",
+   "url": "https://x.com/DrAlexUrology/status/2092457989517009187",
+   "conversationId": "2092457989517009187",
+   "text": "I would be happy to explain the difference between CPT codes, RBRVS, and RUC recommendations vs CMS valuation of services. \n\nAll of these are separate concepts. The problem lies with the RUC / CMS, not CPT codes themselves. \n\nhttps://www.ama-assn.org/about/rvs-update-committee-ruc/rbrvs-overview\n\nThe reason RUC is dysfunctional is because of the Budget Neutrality rules, created by Congress. \n\nResource-based relative value scale (RBRVS) is the physician payment system used by the Centers for Medicare & Medicaid Services (CMS)\n\nAMA/Specialty Society RVS Update Committee (RUC), which provides relative value recommendations to CMS annually",
+   "lang": "en",
+   "createdAt": "2026-08-26T03:43:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 3,
+    "views": 2184
+   },
+   "replyTo": null,
+   "quotedTweetId": "2092340252174410161",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.ama-assn.org/about/rvs-update-committee-ruc/rbrvs-overview"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092051191173620190",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2092051191173620190",
+   "url": "https://x.com/DrAlexUrology/status/2092051191173620190",
+   "conversationId": "2092051191173620190",
+   "text": "The question of course is who incurs the costs and who derives benefits. \n\nInsurance plans managed to externalize costs and impose them on physicians while pocketing savings. \n\nWe call this “perverse incentives” in Economics \n\n@DrJBhattacharya @econliberties @DrBruggeman @DrOzCMS @RepGregMurphy",
+   "lang": "en",
+   "createdAt": "2026-08-25T00:47:27.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 21,
+    "bookmarks": 5,
+    "views": 1965
+   },
+   "replyTo": null,
+   "quotedTweetId": "2092027287105683914",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1427361863830949908",
+      "username": "DrJBhattacharya",
+      "name": "Jay Bhattacharya"
+     },
+     {
+      "id": "1199359810413707264",
+      "username": "econliberties",
+      "name": "American Economic Liberties Project"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

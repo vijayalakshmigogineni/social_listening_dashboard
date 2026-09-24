@@ -1,0 +1,732 @@
+{
+ "query": "from:JahangirAsgha10 (denied OR denial OR denials OR denying OR \"prior auth\" OR \"prior authorization\" OR \"peer to peer\" OR reimbursement OR underpay OR unpaid OR downcode OR downcoding OR modifier OR IDR OR QPA OR \"fee schedule\" OR \"Medicare Advantage\" OR WISeR OR payment OR paid OR EOB OR \"out of network\" OR insurer OR insurance) since:2025-09-24 lang:en -filter:retweets",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101070043887083585",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101070043887083585",
+   "url": "https://x.com/JahangirAsgha10/status/2101070043887083585",
+   "conversationId": "2100947139043922098",
+   "text": "@pjamiesonkay Good \n\nAnd I’m clarifying that it could impact more than just private equity and insurance companies",
+   "lang": "en",
+   "createdAt": "2026-09-18T22:05:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 26
+   },
+   "replyTo": {
+    "tweetId": "2101069191415820615",
+    "userId": "56235154",
+    "username": "pjamiesonkay"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "56235154",
+      "username": "pjamiesonkay",
+      "name": "Jamie Kay, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100998230133649915",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100998230133649915",
+   "url": "https://x.com/JahangirAsgha10/status/2100998230133649915",
+   "conversationId": "2100947139043922098",
+   "text": "I think that’s part of it. But for many physicians, the bigger issue is cash flow.\n\nAn insurance-based practice can mean waiting 60, 90, even 120 days for meaningful revenue. Meanwhile, rent, payroll, malpractice insurance, EMR costs, billing infrastructure, and your own bills don’t wait.\n\nAnd if you’re running a procedure-based practice or an office-based business, the upfront costs can be even higher. You may need to purchase equipment, supplies, technology, and other infrastructure before you’ve generated meaningful revenue.\n\nEven a bare-bones practice needs enough capital to keep the doors open while you’re waiting to get paid. Once you add the infrastructure and equipment required to actually operate the practice, the numbers can go up quickly.",
+   "lang": "en",
+   "createdAt": "2026-09-18T17:19:47.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 86
+   },
+   "replyTo": {
+    "tweetId": "2100993210797764918",
+    "userId": "1434660334099263490",
+    "username": "jasantono"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099827658636837309",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099827658636837309",
+   "url": "https://x.com/JahangirAsgha10/status/2099827658636837309",
+   "conversationId": "2099827658636837309",
+   "text": "Politicians, Employers,  and insurance companies seem to love capitalism until a physician wants to retain their freedom or negotiate.\n\nIf I choose not to join your network, I should be able to negotiate payment for my services. You should not get to impose the terms of a contract I never signed.\n\nYou want to sell out of network coverage while controlling what physicians outside your network are paid. All the benefits of a negotiated contract without actually negotiating one.\n\nAnd then there are all the times those services are reimbursed at zero dollars and zero cents. The physician provides the care, and the insurer pays nothing.\n\nPatients should be protected from surprise bills. Physicians and insurers should resolve payment between themselves.\n\nStripping physicians of bargaining power is anti capitalist. It concentrates power, undermines independent practices, and risks leaving patients with fewer choices and less access to care.\n\nIt is stupid and dangerous policy. Healthcare will suffer for it.",
+   "lang": "en",
+   "createdAt": "2026-09-15T11:48:21.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 9,
+    "quotes": 1,
+    "likes": 33,
+    "bookmarks": 2,
+    "views": 2362
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099823585082659116",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093327631139652094",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2093327631139652094",
+   "url": "https://x.com/JahangirAsgha10/status/2093327631139652094",
+   "conversationId": "2093327631139652094",
+   "text": "The current rapid drive towards incorporating AI into critical infrastructure without guard rails is dangerous.\n\nAI is a powerful and useful tool, but it does not provide objective advice. It reflects the data, instructions, and incentives of whoever controls it and can be easily manipulated.\n\nIn healthcare, an insurer might tune AI toward cost savings over care, a surgical company toward procedures and implants, or a supplement company toward its own products, all while sounding neutral.\n\nAll of which have potential for real harm.\n\nThe risk is amplified by consolidation. The UK competition regulator identified more than 90 AI partnerships and investments involving the same six major technology companies and warned of dependence on a handful of firms.\n\nThis concentration creates systemic risk. A hidden bias, security breach, coordinated failure, or flawed update could spread across institutions before anyone understands what is happening.\n\nCentralized AI systems concentrate risk, suppress independent judgment, and allow one failure to become everyone’s failure.\n\nThe danger is not merely that AI can be wrong. It is that AI can be shaped to serve whoever controls it, then deliver that bias at scale while appearing objective. We are building critical infrastructure around systems that may be unable to withstand a major failure.",
+   "lang": "en",
+   "createdAt": "2026-08-28T13:19:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 738
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090122075230916830",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2090122075230916830",
+   "url": "https://x.com/JahangirAsgha10/status/2090122075230916830",
+   "conversationId": "2090122075230916830",
+   "text": "There has been a lot of criticism of the No Surprises Act IDR process lately.\n\nAnd as someone who was initially reluctant to utilize it because I didn’t want to limit access, I am now its strongest advocate.\n\nThe important thing to understand is that almost none of the criticisms address the more obvious question:\n\nHow many opportunities did the insurance company have to resolve the claim before an arbitrator ever made a decision?\n\nThe process does not go from a physician submitting a claim directly to arbitration.\n\nThe insurer first makes an initial payment or denial.\n\nIf the physician believes that payment is inadequate, there is then a mandatory 30 business day open negotiation period specifically intended to allow the parties to agree on a reasonable rate. IDR cannot even be initiated until that period is over. (CMS)\n\nAnd even after IDR begins, the parties can still resolve the dispute rather than having the arbitrator determine the payment.\n\nSo there are multiple opportunities to settle the claim.\n\nThe bigger question is:\n\nAre insurers actually using those opportunities to negotiate?\n\nIn my experience, overwhelmingly, no.\n\nMost of the time the “open negotiation” period is simply quiet.\n\nSometimes you receive a response offering a very small additional amount.\n\nAcross all the claims I have personally been involved with, I can remember one time where there was what I would consider an actual back and forth negotiation over a reasonable payment.\n\nApparently that experience is not unique.\n\nCMS has now acknowledged receiving numerous reports that parties were not meaningfully engaging in open negotiation before proceeding to IDR. (CMS)\n\nThe problem was significant enough that the federal government changed the process and created a formal response requirement during the negotiation period, specifically to improve communication and encourage meaningful negotiation before arbitration. (CMS)\n\nThink about that.\n\nWe created a 30 business day negotiation period.\n\nInsurers have an opportunity to make a reasonable initial payment.\n\nThey then have another opportunity to negotiate that payment.\n\nThe parties can still resolve the claim after IDR begins.\n\nYet enormous numbers of disputes still make it all the way to an arbitrator.\n\nAnd then insurers point to the arbitration results and argue that IDR is the problem.\n\nMaybe arbitration is not the first place we should be looking.\n\nMaybe we should be asking why so many claims ever needed arbitration in the first place.\n\nIf insurers do not want physicians using IDR, make a reasonable payment.\n\nIf they do not want cases going to arbitration, actually negotiate during the negotiation period.\n\nAnd if they want independent physicians to stay in network, offer reasonable contracted rates.\n\nArbitration was supposed to be the last resort when negotiation failed.\n\nBut if one side barely participates in the negotiation process, it is pretty disingenuous to blame the arbitrator when the dispute ultimately has to be decided.",
+   "lang": "en",
+   "createdAt": "2026-08-19T17:01:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 17,
+    "bookmarks": 4,
+    "views": 1458
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2090122072085127168",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQGa81vWYAA5eQX.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HQGa81vWYAA5eQX.jpg",
+     "width": 1200,
+     "height": 1600,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089799460394008776",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2089799460394008776",
+   "url": "https://x.com/JahangirAsgha10/status/2089799460394008776",
+   "conversationId": "2089799460394008776",
+   "text": "What insurers fail to mention…\n\nIDR takes several months and gives insurers multiple opportunities to negotiate with physicians.\n\nBefore arbitration, there is a required 30-business-day negotiation period to reach a fair payment.\n\nIn my experience, most insurers underpay or refuse to meaningfully negotiate during that process— then complain when they lose in arbitration.\n\nArbitration isn’t the problem. Insurers underpaying physicians and refusing to negotiate in good faith is.",
+   "lang": "en",
+   "createdAt": "2026-08-18T19:39:52.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 21,
+    "bookmarks": 4,
+    "views": 2072
+   },
+   "replyTo": null,
+   "quotedTweetId": "2088713923973533937",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2086154440344469860",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2086154440344469860",
+   "url": "https://x.com/JahangirAsgha10/status/2086154440344469860",
+   "conversationId": "2086150065127629086",
+   "text": "I’m definitely not against data centers.\n\nBut I am against subsidizing their energy demand.\n\nIf a data center requires major new generation, transmission, or grid upgrades, those costs should be paid primarily by the companies creating the demand—not spread across everyone else’s electric bill, which is increasingly what utilities are trying to do.\n\nThe trade I’m willing to make is simple: allow individuals and businesses to generate more of their own electricity and sell excess power back to the grid at market rates.\n\nThat creates new supply, offsets some of the additional demand from data centers, and keeps ordinary ratepayers from being stuck with the bill.",
+   "lang": "en",
+   "createdAt": "2026-08-08T18:15:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 160
+   },
+   "replyTo": {
+    "tweetId": "2086150065127629086",
+    "userId": "1586488169427615745",
+    "username": "reallyoptimized"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2075667845229269418",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2075667845229269418",
+   "url": "https://x.com/JahangirAsgha10/status/2075667845229269418",
+   "conversationId": "2075532129576866106",
+   "text": "100%\n\nThe DeAndre Yedlin case is exactly why the U.S. system is different. \n\nCrossfire helped develop him, Seattle sold him to Tottenham, and Crossfire was denied the FIFA solidarity payment it would have received almost anywhere else in the world. \n\nIf clubs can’t share in the upside of developing players, they’ll always have to recover their costs from parents. No academy can consistently lose money and survive.",
+   "lang": "en",
+   "createdAt": "2026-07-10T19:45:53.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 543
+   },
+   "replyTo": {
+    "tweetId": "2075663587767357572",
+    "userId": "814222764315987968",
+    "username": "SteelersChels"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2074898428249690219",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2074898428249690219",
+   "url": "https://x.com/JahangirAsgha10/status/2074898428249690219",
+   "conversationId": "2074898428249690219",
+   "text": "What an uninformed take…. You do realize that US youth sports programs are objectively some of the most inclusive in the world and are already paid by local taxes.\n\nThe idea of having competitive travel teams and academies also be subsidized is\nAbsolutely irresponsible.\n\nHe makes a good point…. But you are too high on your horse to care.",
+   "lang": "en",
+   "createdAt": "2026-07-08T16:48:29.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 295
+   },
+   "replyTo": null,
+   "quotedTweetId": "2074885064932851962",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2071017982969385056",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2071017982969385056",
+   "url": "https://x.com/JahangirAsgha10/status/2071017982969385056",
+   "conversationId": "2070871658714288213",
+   "text": "Yup… \nAnd when we asked to host the World Cup, we accepted the responsibility of hosting teams that qualify. \n\nLike us or not.\n\nIf “murderous regime” is the standard, half the tournament is gone.\n\nDenying them feeds regime propaganda.\n\nLet them play. Treat them well. Send them home.\n\nIt’s not hard",
+   "lang": "en",
+   "createdAt": "2026-06-27T23:48:59.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 99
+   },
+   "replyTo": {
+    "tweetId": "2071015519797285154",
+    "userId": "1716296147264802816",
+    "username": "ElaineMene99116"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2015055023974092817",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2015055023974092817",
+   "url": "https://x.com/JahangirAsgha10/status/2015055023974092817",
+   "conversationId": "2015055023974092817",
+   "text": "I agree to some respect …,\nBut I do have a problem with pointing at one and not the other\n\nHospitals are a problem. \nInsurers are a problem. \nRegulators are a problem. \n\nRegulators confused institutional entrenchment with stability and helped lock it in. \n\nHealth systems, insurance, companies, and politicians built a system that protects incumbency.",
+   "lang": "en",
+   "createdAt": "2026-01-24T13:32:10.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 1,
+    "views": 1254
+   },
+   "replyTo": null,
+   "quotedTweetId": "2015049040509972807",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2015054716070179084",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2015054716070179084",
+   "url": "https://x.com/JahangirAsgha10/status/2015054716070179084",
+   "conversationId": "2014763521037496452",
+   "text": "I agreed to some respect …,\nBut I do have a problem with pointing at one and not the other\n\nHospitals are a problem. \nInsurers are a problem. \nRegulators are a problem. \n\nRegulators confused institutional entrenchment with stability and helped lock it in. \n\nHealth systems, insurance, companies, and politicians built a system that protects incumbency.",
+   "lang": "en",
+   "createdAt": "2026-01-24T13:30:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 859
+   },
+   "replyTo": {
+    "tweetId": "2015049040509972807",
+    "userId": "1101092814",
+    "username": "DrDiGiorgio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014806461965046246",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2014806461965046246",
+   "url": "https://x.com/JahangirAsgha10/status/2014806461965046246",
+   "conversationId": "2014806461965046246",
+   "text": "What a tone-deaf LinkedIn post on reference-based pricing by the CMO of Blue Cross Blue Shield of Vermont. \n\nIn a state where BCBS is functionally a monopoly with an HHI north of 8,000, this is not a serious cost-control proposal, it is price setting by a dominant payer that already dictates networks, reimbursement, utilization, and access. \n\nSite-neutral billing addresses hospital arbitrage. \n\nWhat is being argued for here is government-mediated reference-based pricing, which in a monopolistic, heavily regulated market simply entrenches insurer power while further compressing independent physicians and narrowing patient choice. \n\nVermont already operates under certificate-of-need barriers, rate regulation, and global budgets, yet access continues to shrink and costs continue to rise because the core problem is insurer market power and administrative bloat. \n\nThe most revealing fact is that this monopoly still loses money. That is not an argument for more price controls. It is proof of structural failure in how healthcare is run in Vermont",
+   "lang": "en",
+   "createdAt": "2026-01-23T21:04:28.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 13,
+    "bookmarks": 3,
+    "views": 1011
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2014806456915079168",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_YHzDOWMAAsVf4.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_YHzDOWMAAsVf4.jpg",
+     "width": 1320,
+     "height": 1933,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014763521037496452",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2014763521037496452",
+   "url": "https://x.com/JahangirAsgha10/status/2014763521037496452",
+   "conversationId": "2014763521037496452",
+   "text": "When someone from a BUCA argues for government-initiated reference-based pricing, they are arguing for a price cap. It may sound reasonable, but it does not solve the problems insurers created. \n\nNarrow networks, deliberate capacity constraints, heavy regulatory burden, and prior authorization still limit patient access. \n\nReference pricing makes network status irrelevant, strips physicians of leverage, and increases insurer margins without any obligation to improve access or service.",
+   "lang": "en",
+   "createdAt": "2026-01-23T18:13:50.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 14,
+    "bookmarks": 2,
+    "views": 1236
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014463057997742354",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2014463057997742354",
+   "url": "https://x.com/JahangirAsgha10/status/2014463057997742354",
+   "conversationId": "2014463057997742354",
+   "text": "When an administrator or insurance executive uses the phrase ‘covered lives,’ they’re not talking about patients. \n\nThey’re referring to a monetary unit. \n\nA covered life represents predictable revenue tied to enrollment, attribution, and risk scores. \n\nIt’s discussed the same way any other asset is discussed on a balance sheet. \n\nCare delivery is an expense. \nThe covered life is the government backed asset.",
+   "lang": "en",
+   "createdAt": "2026-01-22T22:19:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 43,
+    "bookmarks": 3,
+    "views": 1361
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

@@ -18,7 +18,10 @@ venv/
 
 # Backend runtime data (SQLite DB contains scraped personal data - never commit)
 backend/data/*.db
+backend/data/*.db.bak*
 backend/data/*.sqlite*
+# Experiment per-post output carries post text; report.md/summary.json/manifest.json are aggregate/ids only
+backend/data/experiments/*/posts.jsonl
 
 # Node / frontend
 node_modules/

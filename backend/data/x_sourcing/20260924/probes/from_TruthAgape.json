@@ -1,0 +1,1538 @@
+{
+ "key": "from_TruthAgape",
+ "query": "from:TruthAgape lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102915607909777636",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102915607909777636",
+   "url": "https://x.com/TruthAgape/status/2102915607909777636",
+   "conversationId": "2102889105025565083",
+   "text": "@outsidetheboxNL @Thephoobster She is very talented!",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:18:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 11
+   },
+   "replyTo": {
+    "tweetId": "2102892925994844459",
+    "userId": "2499500396",
+    "username": "outsidetheboxNL"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2499500396",
+      "username": "outsidetheboxNL",
+      "name": "Philip"
+     },
+     {
+      "id": "1796747901135134720",
+      "username": "Thephoobster",
+      "name": "Phoebe Atkins"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102889105025565083",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102889105025565083",
+   "url": "https://x.com/TruthAgape/status/2102889105025565083",
+   "conversationId": "2102889105025565083",
+   "text": "Did you know my daughter, @Thephoobster, owns and operates her own seamstress/prop shop? It is called Prim & Proper: https://www.instagram.com/prim._and_.proper?stkn=ajloYWo2MTRhaXJj\n\nThis is her first cosplay for sale. This Corpse Bride inspired one of a kind gown is perfectly timed for Halloween or that whimsical winter wedding you have been planning.\n\nIt is on sale now!\n\nhttps://robinsroominations.etsy.com/listing/4389383788",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:33:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 348
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102889100197928960",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS72frtWoAAR6fP.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS72frtWoAAR6fP.jpg",
+     "width": 1890,
+     "height": 1886,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1796747901135134720",
+      "username": "Thephoobster",
+      "name": "Phoebe Atkins"
+     }
+    ],
+    "urls": [
+     "https://www.instagram.com/prim._and_.proper?stkn=ajloYWo2MTRhaXJj",
+     "https://robinsroominations.etsy.com/listing/4389383788"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450115906605301",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450115906605301",
+   "url": "https://x.com/TruthAgape/status/2102450115906605301",
+   "conversationId": "2102450101461385474",
+   "text": "10) Whomever benefits from keeping the public at large from discussing compex issues with nuance, curiosity, and good will is winning.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:03.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 37
+   },
+   "replyTo": {
+    "tweetId": "2102450114522484851",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450114522484851",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450114522484851",
+   "url": "https://x.com/TruthAgape/status/2102450114522484851",
+   "conversationId": "2102450101461385474",
+   "text": "9) I am not interested in anyone's assumptions, projections, strawmanning, red herrings, ad hominiem, or character assassination attempts based on any topic that I am not discussing. (For example, my discussion of postpartum mental health in general is NOT an invitation to project whatever issues you have with any legal case onto me as if they are my issues.)",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:03.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 38
+   },
+   "replyTo": {
+    "tweetId": "2102450113004081553",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450113004081553",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450113004081553",
+   "url": "https://x.com/TruthAgape/status/2102450113004081553",
+   "conversationId": "2102450101461385474",
+   "text": "8) I simply want to do good work with my patients and speak about what my experiences have been with my personal mental health and the topics I specialize in as a practitioner.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:03.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 12
+   },
+   "replyTo": {
+    "tweetId": "2102450111573897236",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450111573897236",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450111573897236",
+   "url": "https://x.com/TruthAgape/status/2102450111573897236",
+   "conversationId": "2102450101461385474",
+   "text": "7) I have no desire to see, engage with, or entertain personal use of mental health by anyone seeking to avoid accountability for a pattern of unhealthy/harmful behaviors. Mental health is NOT a get out of jail free card or a valid defense when violating the boundaries of others.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 12
+   },
+   "replyTo": {
+    "tweetId": "2102450110168756403",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450110168756403",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450110168756403",
+   "url": "https://x.com/TruthAgape/status/2102450110168756403",
+   "conversationId": "2102450101461385474",
+   "text": "6) I have no desire to see, engage with, or entertain political or government use of mental health by anyone for personal gain or grifting. Mental health is not your personal tool to make overgeneralizations about individuals or declare yourself a good, moral, virtuous person.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 14
+   },
+   "replyTo": {
+    "tweetId": "2102450108235227392",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450108235227392",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450108235227392",
+   "url": "https://x.com/TruthAgape/status/2102450108235227392",
+   "conversationId": "2102450101461385474",
+   "text": "5) I can't and don't work within the parameters of the insurance industry or the recommendations by research as neither take into account individual patient experiences, needs, or comorbidities.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 16
+   },
+   "replyTo": {
+    "tweetId": "2102450106431680768",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450106431680768",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450106431680768",
+   "url": "https://x.com/TruthAgape/status/2102450106431680768",
+   "conversationId": "2102450101461385474",
+   "text": "4) Diagnoses are not an excuse for unhealthy behavior. They may help describe the behavior. They may even give some indication of where to look for the source of the behavior. They do NOT absolve anyone of accountability for their impact upon the rights or freedoms of others.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:01.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 18
+   },
+   "replyTo": {
+    "tweetId": "2102450104774877209",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450104774877209",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450104774877209",
+   "url": "https://x.com/TruthAgape/status/2102450104774877209",
+   "conversationId": "2102450101461385474",
+   "text": "3) Diagnostic terms used to describe a collection of behaviors/experiences can be useful when working directly with patients and their families.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:01.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 36
+   },
+   "replyTo": {
+    "tweetId": "2102450103168520566",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450103168520566",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450103168520566",
+   "url": "https://x.com/TruthAgape/status/2102450103168520566",
+   "conversationId": "2102450101461385474",
+   "text": "2) Many of the diagnoses in the DSM are accurate regarding criteria possibly indicating an issue and inaccurate regarding presentation or experience of that criteria.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:00.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 47
+   },
+   "replyTo": {
+    "tweetId": "2102450101461385474",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102450101461385474",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102450101461385474",
+   "url": "https://x.com/TruthAgape/status/2102450101461385474",
+   "conversationId": "2102450101461385474",
+   "text": "I believe all of these things are true:\n\n1) The DSM is mainly a politically motivated tool designed to prop up an oligarchy between Big Pharma, Big \"Research\", and Big Government.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:29:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 331
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102446056529170756",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102446056529170756",
+   "url": "https://x.com/TruthAgape/status/2102446056529170756",
+   "conversationId": "2102446056529170756",
+   "text": "I am team:\n\nNeither accountability nor grace/mercy can be all or nothing.\n\nAccountability is necessary (but not necessarily sufficient) for restoration and reconciliation. It is not dependent upon forgivenss. You can take accountability and never be forgiven by the person you hurt.\n\nForgiveness can be done without any accountability, but does not require nor force restoration or reconciliation. It is a personal experience regarding something or someone that happened to you. You are not required to share it with anyone. Nor are you required to remove boundaries that keep you safe if the offender did not take accountability.\n\nI am so fatigued by this idea that to hold people accountable, in general, we must do away with grace or mercy. I am also so fatigued with the idea that offering grace and mercy means we have to do away with accountability.\n\nGrace and mercy work quite nicely alongside accountability. I would argue they work best when accountability is willingly pursued and should be applied sparingly and strategically when accountability is avoided.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:12:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 290
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100768710034407455",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100768710034407455",
+   "url": "https://x.com/TruthAgape/status/2100768710034407455",
+   "conversationId": "2100591258532020679",
+   "text": "@lynniefishy @drerincallaghan Exactly!",
+   "lang": "en",
+   "createdAt": "2026-09-18T02:07:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": {
+    "tweetId": "2100697376969167133",
+    "userId": "1500000671319400448",
+    "username": "lynniefishy"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1500000671319400448",
+      "username": "lynniefishy",
+      "name": "Lilybug"
+     },
+     {
+      "id": "1568635699183886336",
+      "username": "drerincallaghan",
+      "name": "Erin Callaghan"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100768645588660552",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100768645588660552",
+   "url": "https://x.com/TruthAgape/status/2100768645588660552",
+   "conversationId": "2100767157613466054",
+   "text": "@shebringsjoy @TheElephantsKid I...am not sure how to take this...but knowing you, thank you!",
+   "lang": "en",
+   "createdAt": "2026-09-18T02:07:30.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 26
+   },
+   "replyTo": {
+    "tweetId": "2100768345502937572",
+    "userId": "379017860",
+    "username": "shebringsjoy"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "379017860",
+      "username": "shebringsjoy",
+      "name": "Sarah St. Onge ن ♀🦬"
+     },
+     {
+      "id": "1167687045789048832",
+      "username": "TheElephantsKid",
+      "name": "🇺🇸🐘American Elephant"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100647553972969618",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100647553972969618",
+   "url": "https://x.com/TruthAgape/status/2100647553972969618",
+   "conversationId": "2100591258532020679",
+   "text": "Abortion has always meant - to terminate a pregnancy with the intended result of a dead fetus. She is attempting to redefine it to include procedures that end pregnancies for any reason at any point with the intention of convincing more women they needed abortions, as if their 40+ week emergency C-section was an abortion while they hold their loving, breathing infant. It is diabolical. \n\nRather than help women understand the difference between a procedure intended to save as many lives as possible and one deeicated to ending their child's life, she wants to muddy the waters for political gain.",
+   "lang": "en",
+   "createdAt": "2026-09-17T18:06:19.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 18,
+    "bookmarks": 0,
+    "views": 317
+   },
+   "replyTo": {
+    "tweetId": "2100591258532020679",
+    "userId": "1568635699183886336",
+    "username": "drerincallaghan"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100267383382557117",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100267383382557117",
+   "url": "https://x.com/TruthAgape/status/2100267383382557117",
+   "conversationId": "2100267383382557117",
+   "text": "I can't believe it has been a year since the crossroads of devastating news and innovating solutions birthed a whole second business for our family! Help us celebrate our first year of uniting unique, vintage items with lovely, unique individuals:\n\nhttps://www.facebook.com/share/p/1BsN85QgUx/i\n\n📣Celebrating 1 Year on of Robin's Roominations!🎉 \nTo say thank you for an amazing first year of sharing a passion for finding loving homes for unique, vintage items, we are launching a best customer event: a 1ST YEAR ANNIVERSAY SALE!\n\n🔥Take 35% OFF ANY ORDER OF $50 OR MORE! 🔥\nDiscount automatically applies at checkout once your cart hits $50 or more in items from our little shop.\n\nhttps://robinsroominations.etsy.com",
+   "lang": "en",
+   "createdAt": "2026-09-16T16:55:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 216
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.facebook.com/share/p/1BsN85QgUx/i",
+     "https://robinsroominations.etsy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100027086136082942",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100027086136082942",
+   "url": "https://x.com/TruthAgape/status/2100027086136082942",
+   "conversationId": "2100027086136082942",
+   "text": "Itsthat time of year again! \n\nTime to listen to @dateline_keith, the voice of mystery, read to us The Legend of Sleepy Hollow. It is so engaging and imaginative my children beg for it over screens, frequently.\n\nhttps://open.spotify.com/episode/0H3xMVJg3sXJiYFw2nwYqp?si=A6wCN_S9SUqBauLnpAh29g&utm_source=copy-link",
+   "lang": "en",
+   "createdAt": "2026-09-16T01:00:48.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 228
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "145314369",
+      "username": "dateline_keith",
+      "name": "Keith Morrison"
+     }
+    ],
+    "urls": [
+     "https://open.spotify.com/episode/0H3xMVJg3sXJiYFw2nwYqp?si=A6wCN_S9SUqBauLnpAh29g&utm_source=copy-link"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100023587700658623",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100023587700658623",
+   "url": "https://x.com/TruthAgape/status/2100023587700658623",
+   "conversationId": "2100023587700658623",
+   "text": "My 16 yr old is a huge fan of Back to the Future (specifically the 2nd one) and @realmikefox. So much so that I hunted down Guess jeans 48 hours before and my daughter tailored this puffer vest 24 hours before we left for our trip that included an amazing Back to the Future Escape Room. \n\nThis isn't just a cosplay for him. He wears some version of this most days. It is what he is most comfortable in as he espresses his nerdy cool.\n\nI consider us all blessed to have had the opportunity to witness Michael, Tracey, and Justine model humanity for my generation and my children's generation.",
+   "lang": "en",
+   "createdAt": "2026-09-16T00:46:54.000Z",
+   "type": "quote",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 412
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099961372083994741",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100023579173638144",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSTIUaCW0AAUWot.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSTIUaCW0AAUWot.jpg",
+     "width": 2992,
+     "height": 2992,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "398092540",
+      "username": "realmikefox",
+      "name": "Michael J. Fox"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098623844407824398",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098623844407824398",
+   "url": "https://x.com/TruthAgape/status/2098623844407824398",
+   "conversationId": "2098581126063301094",
+   "text": "The excellent news is that you ar already the father of a baby girl and clearly are already prioritizing her needs. This is an excellent sign for the future.\n\nLet her see how men should treat women by watching how you treat @buttonslives. \n\nBe on her team especially when that means helping her navigate the mistakes she will make. Part of provising safety for a daughter as a father is being willing to acknowledge her mistakes with mercy and by being willing to help her learn and grow from them with grace.",
+   "lang": "en",
+   "createdAt": "2026-09-12T04:04:49.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 18,
+    "bookmarks": 0,
+    "views": 256
+   },
+   "replyTo": {
+    "tweetId": "2098581126063301094",
+    "userId": "1009716150895341568",
+    "username": "SwipeWright"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "729753956843323392",
+      "username": "buttonslives",
+      "name": "Christina Buttons"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097494398749532499",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097494398749532499",
+   "url": "https://x.com/TruthAgape/status/2097494398749532499",
+   "conversationId": "2097294578286022934",
+   "text": "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. - Ephesians 4:8\n\nChildren experiencing the joy of innocence is pure and lovely. This is something everyone should be able to delight in without the cynicism of a fallen world corrupting the meaning or stealing the truth.\n\nAlas, far too many of us have given over our hearts to that which is anxious, fearful, suspicious, and cycnical.",
+   "lang": "en",
+   "createdAt": "2026-09-09T01:16:48.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 1869
+   },
+   "replyTo": {
+    "tweetId": "2097294578286022934",
+    "userId": "17641943",
+    "username": "TruthAgape"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097493307517542476",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097493307517542476",
+   "url": "https://x.com/TruthAgape/status/2097493307517542476",
+   "conversationId": "2097493307517542476",
+   "text": "Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. - Ephesians 4:8",
+   "lang": "en",
+   "createdAt": "2026-09-09T01:12:28.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 1,
+    "views": 604
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097482955379683440",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097482955379683440",
+   "url": "https://x.com/TruthAgape/status/2097482955379683440",
+   "conversationId": "2097482955379683440",
+   "text": "As a part of my work, I have volunteered to mentor women in jail or prison. I had the opportunity to mentor a young woman who was facing a charge of death of a minor due to neglect, a.k.a negligent homicide. \n\nIn many ways, she and I aren't so different. Perhaps, I am more culpable than she. We were both addicted to drugs and in absuive relationships. Her boyfriend killed her son. I aborted mine. Everytime I looked into her eyes, I saw myself a decade earlier, scared and hopeless.\n\nYet, she faced decades in prison and people continue to try to tell me how empowered I am. \n\nI will never stop being deeply aware of how much I need Jesus and how blessed I am to have the honor to serve others during the hardest moments of their lives, even if they are self-inflicted.",
+   "lang": "en",
+   "createdAt": "2026-09-09T00:31:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 91,
+    "bookmarks": 4,
+    "views": 3214
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097478076217307201",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097478076217307201",
+   "url": "https://x.com/TruthAgape/status/2097478076217307201",
+   "conversationId": "2097294578286022934",
+   "text": "I adore you. I am fine if we see this differently. Currently, I think we are talking past one another. I am talking about personal experiences of individuals. Yes, social patterns regarding threats and violence exist. I am NOT suggesting anyone trust their children to strangers. \n\nHowever, it is still a very real experience that men who are not predators are assumed to be if they take delight in the antics/joys of small children and women are not. It is the assumed guilt of thought crimes or bad intent. I understand it. I also think it is unfortunate.\n\nIf I blame anyone, it is legislators for passing the most pathetic sentencing ever for violent crimes against children.",
+   "lang": "en",
+   "createdAt": "2026-09-09T00:11:57.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 215
+   },
+   "replyTo": {
+    "tweetId": "2097473625473577227",
+    "userId": "598209003",
+    "username": "KaeleyT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097467611172806704",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097467611172806704",
+   "url": "https://x.com/TruthAgape/status/2097467611172806704",
+   "conversationId": "2097294578286022934",
+   "text": "@grlfrmboston He is not responsible for the actions of other men.",
+   "lang": "en",
+   "createdAt": "2026-09-08T23:30:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 31,
+    "bookmarks": 0,
+    "views": 1409
+   },
+   "replyTo": {
+    "tweetId": "2097393791850172902",
+    "userId": "3389786453",
+    "username": "grlfrmboston"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3389786453",
+      "username": "grlfrmboston",
+      "name": "JJ"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097467277004456142",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097467277004456142",
+   "url": "https://x.com/TruthAgape/status/2097467277004456142",
+   "conversationId": "2097294578286022934",
+   "text": "@KaeleyT Regardless of the reasons for this social situation, it is still a privilege women have that men do not. Ehile the majority of violent crime is committed by men, the majority of men do not commit violent crimes.",
+   "lang": "en",
+   "createdAt": "2026-09-08T23:29:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 23,
+    "bookmarks": 0,
+    "views": 1972
+   },
+   "replyTo": {
+    "tweetId": "2097446657940140150",
+    "userId": "598209003",
+    "username": "KaeleyT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "598209003",
+      "username": "KaeleyT",
+      "name": "Kaeley Triller"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097294578286022934",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097294578286022934",
+   "url": "https://x.com/TruthAgape/status/2097294578286022934",
+   "conversationId": "2097294578286022934",
+   "text": "My husband pointed out a valid example of female privilege the other day. We were at The Crystal Palace at Disney. I was gushing about how adorable all the kids were meeting Winnie the Pooh. He said men can't do that because people will assume they are predatory. He had to quash his expression of whimsy and joy because of a broken society.",
+   "lang": "en",
+   "createdAt": "2026-09-08T12:02:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 94,
+    "retweets": 7,
+    "quotes": 5,
+    "likes": 287,
+    "bookmarks": 31,
+    "views": 40334
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097291477286068684",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097291477286068684",
+   "url": "https://x.com/TruthAgape/status/2097291477286068684",
+   "conversationId": "2097291477286068684",
+   "text": "This is a performance of building strawmen and demanding others answer for them, not a conversation. \n\nHowever, it is also a helpful illustration of what young people think socialism would be like. \n\nThey think it will be having everything they need/want while they yell at those providing it for free. \n\nThey feel entitled and virtuous via virtue signaling their \"approved messaging.\" This is how propoganda works.",
+   "lang": "en",
+   "createdAt": "2026-09-08T11:50:28.000Z",
+   "type": "quote",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 35,
+    "bookmarks": 10,
+    "views": 3756
+   },
+   "replyTo": null,
+   "quotedTweetId": "2096761112280584221",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095719852967121333",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095719852967121333",
+   "url": "https://x.com/TruthAgape/status/2095719852967121333",
+   "conversationId": "2095121565642010930",
+   "text": "@TeamTerradactyl She is definitely a Jane Austen fan, and L.M. Montgomery, as well as Louisa May Alcott. She's a keeper. He should find a college as close to her as possible.",
+   "lang": "en",
+   "createdAt": "2026-09-04T03:45:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 817
+   },
+   "replyTo": {
+    "tweetId": "2095121565642010930",
+    "userId": "3320148246",
+    "username": "TeamTerradactyl"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3320148246",
+      "username": "TeamTerradactyl",
+      "name": "CleanCookLove"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095699498500509876",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095699498500509876",
+   "url": "https://x.com/TruthAgape/status/2095699498500509876",
+   "conversationId": "2095699498500509876",
+   "text": "I have always, to my now well deserved chagrin, judged Steinem based on her views of abortion.\n\nI absolutely love learning someone I differ from in many ways has an opinion in common. \n\nIt is a much needed reminder we are all human with diverse views and likely have something in common with one another.\n\nI am praying for Gloria's family and friends tonight. I entrust her into God's hands. He loves her and knows her so much better than I even attemped to. I wish her rest and peace in the eternal.",
+   "lang": "en",
+   "createdAt": "2026-09-04T02:24:31.000Z",
+   "type": "quote",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 681
+   },
+   "replyTo": null,
+   "quotedTweetId": "2095496783812235325",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

@@ -17,7 +17,7 @@ const CATEGORIES = [
 const SEEKING_LEVELS = ['L0', 'L1', 'L2', 'L3']
 const SPEAKER_TYPES = ['practice_side', 'patient', 'payer_side', 'vendor', 'educator_media', 'unknown']
 const STANCES = ['seeking', 'supplying', 'neutral', 'mixed']
-const SOURCES = ['reddit', 'aapc', 'linkedin']
+const SOURCES = ['reddit', 'aapc', 'linkedin', 'facebook', 'x']
 
 export function FilterBar({ filters, onChange }: Props) {
   const set = (patch: Partial<PostFilters>) => onChange({ ...filters, ...patch, page: 1 })

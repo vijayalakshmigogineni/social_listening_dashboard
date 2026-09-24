@@ -1,0 +1,2073 @@
+{
+ "key": "from_JCLinMD",
+ "query": "from:JCLinMD lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1981991511387787426",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1981991511387787426",
+   "url": "https://x.com/JCLinMD/status/1981991511387787426",
+   "conversationId": "1981991511387787426",
+   "text": "Incredible #FridayNightLights matchup tonight between @bashagridiron vs @Husky_Football7. Heartbreak loss by @bashafootball.\n\nMore photos:\nhttps://www.facebook.com/share/p/16WVww8TvP/\n\n@azcsports @BashaAthletics @ADHAMILTONHUSKY @CUSDAthletics @Roye_Oliver https://x.com/JCLinMD/status/1981991511387787426/photo/1",
+   "lang": "en",
+   "createdAt": "2025-10-25T07:49:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 1042
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1981990450639564802",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G4Fx0FaWcAI2RHV.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G4Fx0FaWcAI2RHV.jpg",
+     "width": 1655,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1981990503227768832",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G4Fx3JUWwAAfZTh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G4Fx3JUWwAAfZTh.jpg",
+     "width": 1521,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1981990533380653056",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G4Fx45pXQAABquh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G4Fx45pXQAABquh.jpg",
+     "width": 1331,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1981990585293541376",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G4Fx77CXEAAV3RK.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G4Fx77CXEAAV3RK.jpg",
+     "width": 2004,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "FridayNightLights"
+    ],
+    "mentions": [
+     {
+      "id": "1405799953",
+      "username": "bashagridiron",
+      "name": "Basha Gridiron"
+     },
+     {
+      "id": "971144697145159681",
+      "username": "Husky_Football7",
+      "name": "HamiltonHuskyFootball"
+     },
+     {
+      "id": "194027728",
+      "username": "bashafootball",
+      "name": "Bashahighfootball"
+     },
+     {
+      "id": "16615190",
+      "username": "azcsports",
+      "name": "azcentral sports"
+     },
+     {
+      "id": "1499331144",
+      "username": "BashaAthletics",
+      "name": "Basha HS Athletics"
+     },
+     {
+      "id": "793915866823786496",
+      "username": "ADHAMILTONHUSKY",
+      "name": "HAMILTONATHLETICS1"
+     },
+     {
+      "id": "1137901940",
+      "username": "CUSDAthletics",
+      "name": "CUSDAthletics"
+     },
+     {
+      "id": "1663732893905223681",
+      "username": "Roye_Oliver",
+      "name": "Roye Oliver |||"
+     }
+    ],
+    "urls": [
+     "https://www.facebook.com/share/p/16WVww8TvP/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1981253118911529116",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1981253118911529116",
+   "url": "https://x.com/JCLinMD/status/1981253118911529116",
+   "conversationId": "1981253118911529116",
+   "text": "Awesome display of sportsmanship tonight between @bashagridiron vs. @Husky_Football7 resulting in a 50-29 win by @bashafootball.\n\nMore photos:\nhttps://www.facebook.com/share/p/1ABPJ5FKjX/\n\n@MaxPreps @azcsports @azcentral https://x.com/JCLinMD/status/1981253118911529116/photo/1",
+   "lang": "en",
+   "createdAt": "2025-10-23T06:55:28.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 199
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1981252239357333504",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G37SaiFXUAAuzZQ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G37SaiFXUAAuzZQ.jpg",
+     "width": 1877,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1981252239336325120",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G37SaiAWwAA31kZ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G37SaiAWwAA31kZ.jpg",
+     "width": 1508,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1981252239315398656",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G37Sah7XcAA8M7u.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G37Sah7XcAA8M7u.jpg",
+     "width": 1563,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1981252239340498944",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G37SaiBWcAA8xxh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G37SaiBWcAA8xxh.jpg",
+     "width": 1448,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1405799953",
+      "username": "bashagridiron",
+      "name": "Basha Gridiron"
+     },
+     {
+      "id": "971144697145159681",
+      "username": "Husky_Football7",
+      "name": "HamiltonHuskyFootball"
+     },
+     {
+      "id": "194027728",
+      "username": "bashafootball",
+      "name": "Bashahighfootball"
+     },
+     {
+      "id": "18965761",
+      "username": "MaxPreps",
+      "name": "MaxPreps"
+     },
+     {
+      "id": "16615190",
+      "username": "azcsports",
+      "name": "azcentral sports"
+     },
+     {
+      "id": "13115682",
+      "username": "azcentral",
+      "name": "azcentral"
+     }
+    ],
+    "urls": [
+     "https://www.facebook.com/share/p/1ABPJ5FKjX/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1920884074333249768",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1920884074333249768",
+   "url": "https://x.com/JCLinMD/status/1920884074333249768",
+   "conversationId": "1920563435407860020",
+   "text": "@EPotterMD Docs are UNDERVALUING their services.\n\nDocs: think about your OPPORTUNITY COSTS!\n\nUnderstand that and be super frustrated.\n\nDrop poor payers.",
+   "lang": "en",
+   "createdAt": "2025-05-09T16:50:26.000Z",
+   "type": "reply",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": {
+    "tweetId": "1920563435407860020",
+    "userId": "2375674268",
+    "username": "EPotterMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2375674268",
+      "username": "EPotterMD",
+      "name": "Elisabeth Potter MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1916594789774201201",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1916594789774201201",
+   "url": "https://x.com/JCLinMD/status/1916594789774201201",
+   "conversationId": "1916594789774201201",
+   "text": "@NakadaSteve sharing kidney stone surgery wisdom at #AUA25.\n\n#SWL #Ureteroscopy #PCNL https://x.com/JCLinMD/status/1916594789774201201/photo/1",
+   "lang": "en",
+   "createdAt": "2025-04-27T20:46:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 540
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1916594786972450817",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gpkczd_bwAEg0HF.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gpkczd_bwAEg0HF.jpg",
+     "width": 4000,
+     "height": 2252,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AUA25",
+     "SWL",
+     "Ureteroscopy",
+     "PCNL"
+    ],
+    "mentions": [
+     {
+      "id": "129815985",
+      "username": "NakadaSteve",
+      "name": "Steve Nakada"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1916200858087510498",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1916200858087510498",
+   "url": "https://x.com/JCLinMD/status/1916200858087510498",
+   "conversationId": "1916200858087510498",
+   "text": "Thanks to @drrachelrubin for the passionate and educational talk about the female pelvis and pain at #AUA25!\n\nLooking forward to the new @AmerUrological #GSM guidelines! https://x.com/JCLinMD/status/1916200858087510498/photo/1",
+   "lang": "en",
+   "createdAt": "2025-04-26T18:41:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 942
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1916200854472073216",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gpe2hlEboAANmbR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gpe2hlEboAANmbR.jpg",
+     "width": 4000,
+     "height": 2252,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AUA25",
+     "GSM"
+    ],
+    "mentions": [
+     {
+      "id": "2507796164",
+      "username": "drrachelrubin",
+      "name": "Rachel S. Rubin, MD"
+     },
+     {
+      "id": "27122310",
+      "username": "AmerUrological",
+      "name": "Amer. Urol. Assn."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1866934679083028810",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1866934679083028810",
+   "url": "https://x.com/JCLinMD/status/1866934679083028810",
+   "conversationId": "1866934679083028810",
+   "text": "Yes, Facebook is glitching.\n\n#facebookdown https://x.com/JCLinMD/status/1866934679083028810/photo/1",
+   "lang": "en",
+   "createdAt": "2024-12-11T19:54:48.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 8,
+    "quotes": 2,
+    "likes": 54,
+    "bookmarks": 2,
+    "views": 6097
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1866934676897570817",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeivMntWoAE0-os.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GeivMntWoAE0-os.jpg",
+     "width": 1080,
+     "height": 629,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "facebookdown"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1847889341894258866",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1847889341894258866",
+   "url": "https://x.com/JCLinMD/status/1847889341894258866",
+   "conversationId": "1847889341894258866",
+   "text": "Thank you so much for all your kind words regarding what I am doing to help urologists succeed, @justindubinmd.\n\nYour words are my oxygen.\n\nI really appreciate it!\n\n#SMSNA2024 #SexMed #MensHealth https://x.com/JCLinMD/status/1847889341894258866/photo/1",
+   "lang": "en",
+   "createdAt": "2024-10-20T06:35:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 3446
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1847888841408917505",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUFHFiWMAERF97.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUFHFiWMAERF97.jpg",
+     "width": 1860,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847888859712860160",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUFIJuWMAAimO0.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUFIJuWMAAimO0.jpg",
+     "width": 1659,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "SMSNA2024",
+     "SexMed",
+     "MensHealth"
+    ],
+    "mentions": [
+     {
+      "id": "720006571",
+      "username": "justindubinmd",
+      "name": "Justin Dubin, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1847888678992961805",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1847888678992961805",
+   "url": "https://x.com/JCLinMD/status/1847888678992961805",
+   "conversationId": "1847888678992961805",
+   "text": "Dr. John Mulhall gave an engaging presentation on penile Doppler US to APPs at @SMSNA_ORG's 2024 fall scientific session.\n\n#SexMed #ED #SMSNA2024 https://x.com/JCLinMD/status/1847888678992961805/photo/1",
+   "lang": "en",
+   "createdAt": "2024-10-20T06:32:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 872
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1847888403708153857",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUEtm-WkAEylDD.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUEtm-WkAEylDD.jpg",
+     "width": 2048,
+     "height": 1874,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847888403716599808",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUEtnAXcAAQURS.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUEtnAXcAAQURS.jpg",
+     "width": 2048,
+     "height": 1945,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847888403762720768",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUEtnLXMAAYygM.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUEtnLXMAAYygM.jpg",
+     "width": 1618,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847888403741712384",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUEtnGWoAAbHDY.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUEtnGWoAAbHDY.jpg",
+     "width": 1705,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "SexMed",
+     "ED",
+     "SMSNA2024"
+    ],
+    "mentions": [
+     {
+      "id": "3970851673",
+      "username": "SMSNA_ORG",
+      "name": "SMSNA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1847886758555345061",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1847886758555345061",
+   "url": "https://x.com/JCLinMD/status/1847886758555345061",
+   "conversationId": "1847886758555345061",
+   "text": "@kingurology sharing amazing wisdom regarding penile pain at @SMSNA_ORG's 2024 fall scientific session.\n\n#SMSNA2024 #Implantress #SexMed https://x.com/JCLinMD/status/1847886758555345061/photo/1",
+   "lang": "en",
+   "createdAt": "2024-10-20T06:25:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 1291
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1847886205280526337",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUCtpMXIAE2co0.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUCtpMXIAE2co0.jpg",
+     "width": 2048,
+     "height": 1530,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847886205314060288",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUCtpUW0AA4e-L.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUCtpUW0AA4e-L.jpg",
+     "width": 2048,
+     "height": 1517,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847886205318201344",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaUCtpVWAAAppob.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaUCtpVWAAAppob.jpg",
+     "width": 2041,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "SMSNA2024",
+     "Implantress",
+     "SexMed"
+    ],
+    "mentions": [
+     {
+      "id": "1122909899124629507",
+      "username": "kingurology",
+      "name": "Sherita A. King, MD"
+     },
+     {
+      "id": "3970851673",
+      "username": "SMSNA_ORG",
+      "name": "SMSNA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1847884236096700760",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1847884236096700760",
+   "url": "https://x.com/JCLinMD/status/1847884236096700760",
+   "conversationId": "1847884236096700760",
+   "text": "So nice to catch up with @drhelenbernie at @SMSNA_ORG 2024 fall meeting!\n\nAlways the amazing speaker. Many can take lessons from you.\n\nExcellent scientific program lineup with top speakers in sexual health at the meeting.\n\n#SMSNA2024 https://x.com/JCLinMD/status/1847884236096700760/photo/1",
+   "lang": "en",
+   "createdAt": "2024-10-20T06:15:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1246
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1847881748622839808",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaT-qO2XkAA2Iqi.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaT-qO2XkAA2Iqi.jpg",
+     "width": 2048,
+     "height": 1887,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1847881748618563584",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GaT-qO1WUAATy-1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GaT-qO1WUAATy-1.jpg",
+     "width": 2048,
+     "height": 1896,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "SMSNA2024"
+    ],
+    "mentions": [
+     {
+      "id": "3302267171",
+      "username": "drhelenbernie",
+      "name": "Helen L. Bernie"
+     },
+     {
+      "id": "3970851673",
+      "username": "SMSNA_ORG",
+      "name": "SMSNA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1847881390550880547",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1847881390550880547",
+   "url": "https://x.com/JCLinMD/status/1847881390550880547",
+   "conversationId": "1847375034568101936",
+   "text": "@justindubinmd @kevinchumd @SMSNA_ORG Ejaculation-sparing TURPs are easy-peasy, with much less financial toxicity to the healthcare system.\n\nFood for thought.",
+   "lang": "en",
+   "createdAt": "2024-10-20T06:03:50.000Z",
+   "type": "reply",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 87
+   },
+   "replyTo": {
+    "tweetId": "1847375034568101936",
+    "userId": "720006571",
+    "username": "justindubinmd"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "720006571",
+      "username": "justindubinmd",
+      "name": "Justin Dubin, MD"
+     },
+     {
+      "id": "745980400313438208",
+      "username": "kevinchumd",
+      "name": "Kevin Chu, MD"
+     },
+     {
+      "id": "3970851673",
+      "username": "SMSNA_ORG",
+      "name": "SMSNA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1828194532246380868",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1828194532246380868",
+   "url": "https://x.com/JCLinMD/status/1828194532246380868",
+   "conversationId": "1828150747940429859",
+   "text": "@CanesDavid Here's my review:\n\nhttps://www.youtube.com/live/R3RJGfimWTY",
+   "lang": "en",
+   "createdAt": "2024-08-26T22:15:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 372
+   },
+   "replyTo": {
+    "tweetId": "1828150747940429859",
+    "userId": "860624965",
+    "username": "CanesDavid"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "860624965",
+      "username": "CanesDavid",
+      "name": "𝙳𝚊𝚟𝚒𝚍 𝙲𝚊𝚗𝚎𝚜"
+     }
+    ],
+    "urls": [
+     "https://www.youtube.com/live/R3RJGfimWTY"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1828194313815368194",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1828194313815368194",
+   "url": "https://x.com/JCLinMD/status/1828194313815368194",
+   "conversationId": "1828150747940429859",
+   "text": "@FlavorFaze @CanesDavid 100% agree with you.",
+   "lang": "en",
+   "createdAt": "2024-08-26T22:14:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 172
+   },
+   "replyTo": {
+    "tweetId": "1828186499709612460",
+    "userId": "1184195082",
+    "username": "FlavorFaze"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1184195082",
+      "username": "FlavorFaze",
+      "name": "Faisal Ahmed"
+     },
+     {
+      "id": "860624965",
+      "username": "CanesDavid",
+      "name": "𝙳𝚊𝚟𝚒𝚍 𝙲𝚊𝚗𝚎𝚜"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1822360193243480478",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1822360193243480478",
+   "url": "https://x.com/JCLinMD/status/1822360193243480478",
+   "conversationId": "1822360193243480478",
+   "text": "@NazihKhaterMD sharing amazing DARRT technique for super easy PCNL access.\n\n#KidneyStone #Staghorn #Perc #LaserTargeting https://x.com/JCLinMD/status/1822360193243480478/photo/1",
+   "lang": "en",
+   "createdAt": "2024-08-10T19:51:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 369
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1822360188675850240",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GUpS77LWgAAMm7w.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GUpS77LWgAAMm7w.jpg",
+     "width": 4000,
+     "height": 2252,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "KidneyStone",
+     "Staghorn",
+     "Perc",
+     "LaserTargeting"
+    ],
+    "mentions": [
+     {
+      "id": "1244004223794270209",
+      "username": "NazihKhaterMD",
+      "name": "N. Paul Khater, MD, FACS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1817277935788941819",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1817277935788941819",
+   "url": "https://x.com/JCLinMD/status/1817277935788941819",
+   "conversationId": "1817277935788941819",
+   "text": "So happy about presenting at another amazing and productive urology coding webinar this morning!\n\nWorking smarter, not harder!\n\n#Modifiers #Globals #EandM https://x.com/JCLinMD/status/1817277935788941819/photo/1",
+   "lang": "en",
+   "createdAt": "2024-07-27T19:16:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 273
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1817277922119757824",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GThEpE4bsAA7SV_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GThEpE4bsAA7SV_.jpg",
+     "width": 3216,
+     "height": 1808,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1817277922732032000",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GThEpHKaQAAIpRf.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GThEpHKaQAAIpRf.jpg",
+     "width": 1043,
+     "height": 1349,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Modifiers",
+     "Globals",
+     "EandM"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1806634315863785646",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1806634315863785646",
+   "url": "https://x.com/JCLinMD/status/1806634315863785646",
+   "conversationId": "1806634315863785646",
+   "text": "Physicians need to wake up and quit being gaslighted into thinking your work is worth literally less than nothing.\n\n#KnowYourWorth #OpportunityCost",
+   "lang": "en",
+   "createdAt": "2024-06-28T10:22:41.000Z",
+   "type": "quote",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 449
+   },
+   "replyTo": null,
+   "quotedTweetId": "1803909003787014555",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "KnowYourWorth",
+     "OpportunityCost"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1799470323638903223",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1799470323638903223",
+   "url": "https://x.com/JCLinMD/status/1799470323638903223",
+   "conversationId": "1799470323638903223",
+   "text": "Online is nice.\n\nIn-person is better.\n\nLoved meeting you, Jillian!",
+   "lang": "en",
+   "createdAt": "2024-06-08T15:55:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 228
+   },
+   "replyTo": null,
+   "quotedTweetId": "1799420474906038755",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1799469744883662933",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1799469744883662933",
+   "url": "https://x.com/JCLinMD/status/1799469744883662933",
+   "conversationId": "1799469744883662933",
+   "text": "@JStuartWolf sharing updated info about @ABUrology certification and how it serves the public at @TxUrological's annual meeting. https://x.com/JCLinMD/status/1799469744883662933/photo/1",
+   "lang": "en",
+   "createdAt": "2024-06-08T15:53:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 36
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1799469740181876736",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GPkAMdea8AA7W3_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GPkAMdea8AA7W3_.jpg",
+     "width": 4000,
+     "height": 2252,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1799469741268148224",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GPkAMhhaIAA3KAd.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GPkAMhhaIAA3KAd.jpg",
+     "width": 4000,
+     "height": 2252,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2537535047",
+      "username": "JStuartWolf",
+      "name": "J Stuart Wolf Jr MD FACS"
+     },
+     {
+      "id": "1110060852",
+      "username": "ABUrology",
+      "name": "ABU"
+     },
+     {
+      "id": "1645791676680798215",
+      "username": "TxUrological",
+      "name": "Texas Urological Society"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1799466900885573941",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1799466900885573941",
+   "url": "https://x.com/JCLinMD/status/1799466900885573941",
+   "conversationId": "1799466900885573941",
+   "text": "I'm enjoying this discussion about challenging scenarios in female urology training and practice development.\n\nDrs. Kim, @OLWMD, and Nava presenting.\n\nBottom line for me: empathy for our female surgical colleagues is necessary.\n\n@TxUrological https://x.com/JCLinMD/status/1799466900885573941/photo/1",
+   "lang": "en",
+   "createdAt": "2024-06-08T15:41:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 149
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1799465908001447936",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GPj8tZfaIAAOm3K.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GPj8tZfaIAAOm3K.jpg",
+     "width": 4000,
+     "height": 2252,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2246684202",
+      "username": "OLWMD",
+      "name": "Lenaine Westney"
+     },
+     {
+      "id": "1645791676680798215",
+      "username": "TxUrological",
+      "name": "Texas Urological Society"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1799419850282176950",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "1799419850282176950",
+   "url": "https://x.com/JCLinMD/status/1799419850282176950",
+   "conversationId": "1799419850282176950",
+   "text": "Thanks to @RRGonzalezMD for the well-attended and very nice #BPH update from #AUA2024 on a Saturday morning!\n\n@TxUrological https://x.com/JCLinMD/status/1799419850282176950/photo/1",
+   "lang": "en",
+   "createdAt": "2024-06-08T12:34:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 247
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1799419847270367232",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GPjS0T5WgAASxgI.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GPjS0T5WgAASxgI.jpg",
+     "width": 2507,
+     "height": 1998,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "BPH",
+     "AUA2024"
+    ],
+    "mentions": [
+     {
+      "id": "876276625637343236",
+      "username": "RRGonzalezMD",
+      "name": "Ricardo R Gonzalez MD"
+     },
+     {
+      "id": "1645791676680798215",
+      "username": "TxUrological",
+      "name": "Texas Urological Society"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1791835037215900075",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1791835037215900075",
+   "url": "https://x.com/JCLinMD/status/1791835037215900075",
+   "conversationId": "1791835037215900075",
+   "text": "Super excited to participate again in this weekly webinar about urology.\n\nDiscussing pelvic pain today.\n\n#PelvicPain #UroNurse @UroNurse1",
+   "lang": "en",
+   "createdAt": "2024-05-18T14:15:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 730
+   },
+   "replyTo": null,
+   "quotedTweetId": "1791832622446133561",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "PelvicPain",
+     "UroNurse"
+    ],
+    "mentions": [
+     {
+      "id": "1680297344070303744",
+      "username": "UroNurse1",
+      "name": "UroNurse"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1790826354000413176",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1790826354000413176",
+   "url": "https://x.com/JCLinMD/status/1790826354000413176",
+   "conversationId": "1790826354000413176",
+   "text": "I can't wait for this fight!\n\n@UHC wrongly denying E&amp;M claims with modifier 25. \n\nI would recommend that they watch my multiple YouTube videos describing appropriate use of modifier 25 on E&amp;M visits.\n\nMaybe they will learn something.\n\n#Deny #Delay #Decline #Deceive #Insurance",
+   "lang": "en",
+   "createdAt": "2024-05-15T19:27:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 1478
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Deny",
+     "Delay",
+     "Decline",
+     "Deceive",
+     "Insurance"
+    ],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1788735973452587419",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1788735973452587419",
+   "url": "https://x.com/JCLinMD/status/1788735973452587419",
+   "conversationId": "1788735973452587419",
+   "text": "These new @PusenMedical single-use ureteroscopes (7.5Fr and 9.2Fr) may be the killers of competitors currently on the market.\n\nDirect in-scope suction.\nHalf of the cost of current U.S. market leaders.\n\nhttps://youtu.be/ogCvVR-WlnM\n\n#RIRS #sUR #Ureteroscopy #Urology",
+   "lang": "en",
+   "createdAt": "2024-05-10T01:01:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 3,
+    "views": 1372
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "RIRS",
+     "sUR",
+     "Ureteroscopy",
+     "Urology"
+    ],
+    "mentions": [
+     {
+      "id": "902344165207314432",
+      "username": "PusenMedical",
+      "name": "Pusen Medical"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/ogCvVR-WlnM"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1788594490095321420",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1788594490095321420",
+   "url": "https://x.com/JCLinMD/status/1788594490095321420",
+   "conversationId": "1788594490095321420",
+   "text": "4 ways to save BIG on prescription drugs in 2024:\n\nhttps://youtu.be/AZQp9STaIy4\n\n#Medicare @GoodRx @costplusdrugs #AmazonPharmacy",
+   "lang": "en",
+   "createdAt": "2024-05-09T15:38:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 537
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Medicare",
+     "AmazonPharmacy"
+    ],
+    "mentions": [
+     {
+      "id": "356495526",
+      "username": "GoodRx",
+      "name": "GoodRx"
+     },
+     {
+      "id": "1284331089977151488",
+      "username": "costplusdrugs",
+      "name": "Mark Cuban Cost Plus Drug Company"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/AZQp9STaIy4"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787880097758015820",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1787880097758015820",
+   "url": "https://x.com/JCLinMD/status/1787880097758015820",
+   "conversationId": "1787880097758015820",
+   "text": "🔥Video about an affordable and improved uroflow option from @GeminiAtmos. \n\n👉They also sell quality and reasonably priced air charged urodynamics catheters. \n\nhttps://youtu.be/Bc5R4Cdru38\n\n#Danflow #Urology #Urodynamics #AirChargedCatheters #AUA24 #AUA2024 #SanAntonio",
+   "lang": "en",
+   "createdAt": "2024-05-07T16:20:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 211
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Danflow",
+     "Urology",
+     "Urodynamics",
+     "AirChargedCatheters",
+     "AUA24",
+     "AUA2024",
+     "SanAntonio"
+    ],
+    "mentions": [
+     {
+      "id": "1527721496151482368",
+      "username": "GeminiAtmos",
+      "name": "Gemini Medical Technologies"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/Bc5R4Cdru38"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787620527101948241",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1787620527101948241",
+   "url": "https://x.com/JCLinMD/status/1787620527101948241",
+   "conversationId": "1787542025044123976",
+   "text": "@drhelenbernie How did I miss you!?",
+   "lang": "en",
+   "createdAt": "2024-05-06T23:08:40.000Z",
+   "type": "reply",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 107
+   },
+   "replyTo": {
+    "tweetId": "1787542025044123976",
+    "userId": "3302267171",
+    "username": "drhelenbernie"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3302267171",
+      "username": "drhelenbernie",
+      "name": "Helen L. Bernie"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787590637413716380",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1787590637413716380",
+   "url": "https://x.com/JCLinMD/status/1787590637413716380",
+   "conversationId": "1787590637413716380",
+   "text": "The general public's knowledge of the female anatomy is sadly so, so poor. \n\nThis includes women.\n\nWe need to do better.",
+   "lang": "en",
+   "createdAt": "2024-05-06T21:09:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 1098
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787566817390862793",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1787566817390862793",
+   "url": "https://x.com/JCLinMD/status/1787566817390862793",
+   "conversationId": "1787566817390862793",
+   "text": "Days of PCNL are numbered?!\n\nSuper stoked to check out @CalyxoInc's #CVAC System at #AUA24 annual meeting.\n\nhttps://youtu.be/Q14pf53GSvA\n\n#KidneyStone #NewTech #SuctionUreteroscopy #Urology #Urologist #Urolithiasis",
+   "lang": "en",
+   "createdAt": "2024-05-06T19:35:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 152
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "CVAC",
+     "AUA24",
+     "KidneyStone",
+     "NewTech",
+     "SuctionUreteroscopy",
+     "Urology",
+     "Urologist",
+     "Urolithiasis"
+    ],
+    "mentions": [
+     {
+      "id": "1646200192490950656",
+      "username": "CalyxoInc",
+      "name": "Calyxo, Inc."
+     }
+    ],
+    "urls": [
+     "https://youtu.be/Q14pf53GSvA"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787251704448028906",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1787251704448028906",
+   "url": "https://x.com/JCLinMD/status/1787251704448028906",
+   "conversationId": "1787251704448028906",
+   "text": "Yes. I can confirm that a ureteral stent passes @TSA PreCheck without issues!\n\nHT to @UtsavBansal13. \n\nAmazed that you carry a stent with you. Such a dedicated urologist!\n\n#AUA24 https://x.com/JCLinMD/status/1787251704448028906/photo/1",
+   "lang": "en",
+   "createdAt": "2024-05-05T22:43:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 844
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1787251692175552512",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GM2X8dxW8AAEvzL.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GM2X8dxW8AAEvzL.jpg",
+     "width": 2252,
+     "height": 4000,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AUA24"
+    ],
+    "mentions": [
+     {
+      "id": "414331122",
+      "username": "TSA",
+      "name": "TSA"
+     },
+     {
+      "id": "1231804712388907008",
+      "username": "UtsavBansal13",
+      "name": "Utsav Bansal"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1787249547669905868",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "1787249547669905868",
+   "url": "https://x.com/JCLinMD/status/1787249547669905868",
+   "conversationId": "1787249547669905868",
+   "text": "Thank you for sharing your coding success story with me today at #AUA24, @alexcsmall!\n\nI'm really glad we were able to discuss your journey so far.\n\nListen to @Uro_Dima. He's leading some really exciting things in improving your practice!\n\n#MedicalCoding #PracticeEfficiency https://x.com/JCLinMD/status/1787249547669905868/photo/1",
+   "lang": "en",
+   "createdAt": "2024-05-05T22:34:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 1024
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1787249539188953089",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GM2V_JRWkAEZrvs.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GM2V_JRWkAEZrvs.jpg",
+     "width": 2220,
+     "height": 2232,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AUA24",
+     "MedicalCoding",
+     "PracticeEfficiency"
+    ],
+    "mentions": [
+     {
+      "id": "56716236",
+      "username": "alexcsmall",
+      "name": "Alex Small"
+     },
+     {
+      "id": "871068862581620737",
+      "username": "Uro_Dima",
+      "name": "Dima Raskolnikov, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

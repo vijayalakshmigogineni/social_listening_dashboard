@@ -1,0 +1,126 @@
+[discover] 'claim denied need help with appeal' (max 20, est $0.062)
+[discover]   20 posts, groups: ['1351911332368766', '954967524582528', 'pnwvets']
+[discover] 'prior authorization denied again help' (max 20, est $0.062)
+[discover]   20 posts, groups: []
+[discover] 'has anyone had issues with UHC denying claims' (max 20, est $0.062)
+[discover]   20 posts, groups: ['242690782760249', '270611999954483']
+[discover] 'Aetna denying claims medical necessity' (max 20, est $0.062)
+[discover]   20 posts, groups: ['1594069521337374', '575618554591432', '1609888809770903', 'parentsofclassof2026', '747821741067809', '2235306122', 'intracept']
+[discover] 'Medicare denial modifier help biller' (max 20, est $0.062)
+[discover]   20 posts, groups: ['1503414633296362', '7152019181585093', '1123047789852358', '1234383310708351']
+[discover] 'credentialing taking forever with payer' (max 20, est $0.062)
+[discover]   20 posts, groups: []
+[discover] 'AR backlog billing help practice' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'clearinghouse rejections help' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'underpaid claims fee schedule payer' (max 20, est $0.062)
+[discover]   20 posts, groups: ['onlinejobsinusaforforeigners', '159530279314686', '667837087205621', 'renosparkssmallbusiness', '627991826463835', '2049386219184624']
+[discover] 'timely filing denial appeal help' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'modifier 25 denial coding question' (max 20, est $0.062)
+[discover]   20 posts, groups: ['368427913735844', '1651898238626641', '153075608691474']
+[discover] 'eligibility denial claims billing office' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'spinal cord stimulator prior authorization denied' (max 20, est $0.062)
+[discover]   20 posts, groups: ['571834220855980', '341015404031050', '1128177875964668', '555199980866151', '719471750013199']
+[discover] 'our billing company claims not paid' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'denial code help biller EOB' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+[discover] 'Cigna Humana BCBS denying claims billers' (max 20, est $0.062)
+[discover]   0 posts, groups: []
+{
+ "1351911332368766": [
+  "claim denied need help with appeal"
+ ],
+ "954967524582528": [
+  "claim denied need help with appeal"
+ ],
+ "pnwvets": [
+  "claim denied need help with appeal"
+ ],
+ "242690782760249": [
+  "has anyone had issues with UHC denying claims"
+ ],
+ "270611999954483": [
+  "has anyone had issues with UHC denying claims"
+ ],
+ "1594069521337374": [
+  "Aetna denying claims medical necessity"
+ ],
+ "575618554591432": [
+  "Aetna denying claims medical necessity"
+ ],
+ "1609888809770903": [
+  "Aetna denying claims medical necessity"
+ ],
+ "parentsofclassof2026": [
+  "Aetna denying claims medical necessity"
+ ],
+ "747821741067809": [
+  "Aetna denying claims medical necessity"
+ ],
+ "2235306122": [
+  "Aetna denying claims medical necessity"
+ ],
+ "intracept": [
+  "Aetna denying claims medical necessity"
+ ],
+ "1503414633296362": [
+  "Medicare denial modifier help biller"
+ ],
+ "7152019181585093": [
+  "Medicare denial modifier help biller"
+ ],
+ "1123047789852358": [
+  "Medicare denial modifier help biller"
+ ],
+ "1234383310708351": [
+  "Medicare denial modifier help biller"
+ ],
+ "onlinejobsinusaforforeigners": [
+  "underpaid claims fee schedule payer"
+ ],
+ "159530279314686": [
+  "underpaid claims fee schedule payer"
+ ],
+ "667837087205621": [
+  "underpaid claims fee schedule payer"
+ ],
+ "renosparkssmallbusiness": [
+  "underpaid claims fee schedule payer"
+ ],
+ "627991826463835": [
+  "underpaid claims fee schedule payer"
+ ],
+ "2049386219184624": [
+  "underpaid claims fee schedule payer"
+ ],
+ "368427913735844": [
+  "modifier 25 denial coding question"
+ ],
+ "1651898238626641": [
+  "modifier 25 denial coding question"
+ ],
+ "153075608691474": [
+  "modifier 25 denial coding question"
+ ],
+ "571834220855980": [
+  "spinal cord stimulator prior authorization denied"
+ ],
+ "341015404031050": [
+  "spinal cord stimulator prior authorization denied"
+ ],
+ "1128177875964668": [
+  "spinal cord stimulator prior authorization denied"
+ ],
+ "555199980866151": [
+  "spinal cord stimulator prior authorization denied"
+ ],
+ "719471750013199": [
+  "spinal cord stimulator prior authorization denied"
+ ]
+}
+estimated spend so far: $0.628 of $3.50
+EXIT 0

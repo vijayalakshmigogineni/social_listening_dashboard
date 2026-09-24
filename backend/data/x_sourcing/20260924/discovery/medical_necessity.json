@@ -1,0 +1,260 @@
+{
+ "key": "medical_necessity",
+ "query": "(\"not medically necessary\" OR \"medical necessity\") (denied OR denial) (\"my patient\" OR \"our patient\" OR \"our practice\" OR \"my practice\") lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1146103081467125762",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1146103081467125762",
+   "url": "https://x.com/AaronNeinstein/status/1146103081467125762",
+   "conversationId": "1146103081467125762",
+   "text": "Same patient. Same type 1 diabetes. Same medical necessity letter I wrote and sent. CGM sensor approved, but Transmitter denied. It is not hyperbole to say that this is putting my patient at real risk.  🤦‍♂️ https://x.com/AaronNeinstein/status/1146103081467125762/photo/1",
+   "lang": "en",
+   "createdAt": "2019-07-02T17:07:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "301866677",
+    "username": "AaronNeinstein",
+    "name": "Aaron Neinstein, MD",
+    "url": "https://x.com/AaronNeinstein",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/797885310025678848/nsTO4aGi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 5,
+    "quotes": 4,
+    "likes": 30,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1146103076178186240",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/D-fGrOuVUAAtDK_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/D-fGrOuVUAAtDK_.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1994862630520197575",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1994862630520197575",
+   "url": "https://x.com/JahangirAsgha10/status/1994862630520197575",
+   "conversationId": "1994862630520197575",
+   "text": "@mcuban hopefully others can add to this \n\nIn a small private practice like mine, cash-basis accounting is the only system that makes sense because revenue is completely unpredictable. I do not get paid when I do the work. I only get paid when an insurer releases the funds. If they don’t, the revenue never exists on paper, which means physicians cannot write off bad debt the way other professionals can. What we actually experience are three separate mechanisms where real losses occur, none of which the IRS recognizes as deductible.\n\n1. Patient-Based Nonpayment\nA patient is seen, evaluated, and treated. Sometimes their deductible is unclear. Sometimes the insurance information is inaccurate. Sometimes they simply overestimate what their plan covers. All of these are understandable and common.\nBut under cash-basis rules, if I never receive payment, I cannot classify that loss as bad debt. The IRS only allows a deduction if money was actually collected and then reversed — for example, a bounced check.\n\nThere is another layer people don’t appreciate. Sending a patient to collections sounds straightforward, but for a small private practice it can be harmful. Large health systems can be aggressive because they have massive referral networks and institutional insulation. Independent practices do not. If I send a patient to collections, I risk damaging relationships with referring physicians, losing community trust, or being viewed as predatory even when the debt is legitimate.\nSo small practices walk a narrow line. The debt is real. The cost has been absorbed. But pursuing it can create business risks that hospitals never face. And because no revenue was received, none of it can be written off.\n\n2. Authorized Procedures That Are Later Denied\nThis is the most damaging category. A procedure is fully authorized. My staff spends hours navigating the approval process. The indication is correct. The documentation is correct. The surgery or injection is performed exactly as authorized.\nBut prior authorization is not a guarantee of payment. Insurers are explicit about this. They can — and routinely do — deny payment afterward for reasons like “medical necessity not supported,” “documentation insufficiency,” “coding clarification,” or an internal policy shift that occurred after authorization.\nWhen this happens, I absorb a complete financial loss. The OR time, staffing, supplies, disposables, and all clinical work are paid for by my practice, but the revenue is never recognized. There is no write-off mechanism, no deduction.\n\n3. Clawbacks Through Post-Payment Audits\nThe third mechanism is retroactive recoupment. A claim is paid — sometimes months earlier — and the books are closed. Then the insurer conducts an audit and decides they want the money back. They do not send a bill or ask for repayment. They simply stop paying on current claims until they have recovered what they want.\nMost clawbacks are bureaucratic: a form changed, a code was updated, or a payer requirement shifted after the fact. Yet the financial impact lands entirely on the practice. I performed the work, paid my staff, covered the overhead, and months later the insurer essentially reverses the transaction by withholding payment for new patients.\n\nThese three mechanisms — patient nonpayment, retroactive denials of authorized procedures, and clawbacks — are where unrecognized losses accumulate in independent practice.\n\nWe cannot write off balances the way other professions can. We cannot force insurers to honor their own authorizations. And we cannot easily clawbacks months after care was provided exactly as approved.\n\nThis is the reality. The losses are real. The cost is real. The work is real. The tax recognition is not.\nAnd that is why discussions about bad debt in medicine look nothing like any other industry because the mechanisms of loss are built into the structure of how care is delivered, and independent practices absorb every part of it.",
+   "lang": "en",
+   "createdAt": "2025-11-29T20:14:48.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 26,
+    "retweets": 33,
+    "quotes": 10,
+    "likes": 183,
+    "bookmarks": 64,
+    "views": 33176
+   },
+   "replyTo": null,
+   "quotedTweetId": "1994855219503796482",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1489002741603217408",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1489002741603217408",
+   "url": "https://x.com/bethconvid19/status/1489002741603217408",
+   "conversationId": "1489002741603217408",
+   "text": "Healthcare is such a fucking joke, my patient got denied services because I guess knowing how to read and spell isn’t a medical necessity. I hate it here",
+   "lang": "en",
+   "createdAt": "2022-02-02T22:28:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "330845321",
+    "username": "bethconvid19",
+    "name": "pleasantly demented",
+    "url": "https://x.com/bethconvid19",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1634768062028337153/0dcjU2M__normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:855133404353974275",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "855133404353974275",
+   "url": "https://x.com/brown_arika/status/855133404353974275",
+   "conversationId": "855047667952611329",
+   "text": "@tulaholmes @HouseGOP @HuffPostPol Claim denial...my bad not medically necessary is their fav term. I fight w it day in and out in my practice",
+   "lang": "en",
+   "createdAt": "2017-04-20T18:57:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "622582457",
+    "username": "brown_arika",
+    "name": "Arika Brown",
+    "url": "https://x.com/brown_arika",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2354251082/image_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15207668",
+      "username": "HouseGOP",
+      "name": "House Republicans"
+     },
+     {
+      "id": "15458694",
+      "username": "HuffPostPol",
+      "name": "HuffPost Politics"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1592565923541811200",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1592565923541811200",
+   "url": "https://x.com/MarcusBlimi/status/1592565923541811200",
+   "conversationId": "1592565923541811200",
+   "text": "How can a medication used to PREVENT complications be deemed “not medically necessary” and denied by insurance companies DO YOU WANT MY PATIENT TO DIE TO PROVE IT TO YOU",
+   "lang": "en",
+   "createdAt": "2022-11-15T17:11:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "758125007356715008",
+    "username": "MarcusBlimi",
+    "name": "Blima Marcus DNP, MPH",
+    "url": "https://x.com/MarcusBlimi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1871796806054473728/ZjFd0owQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 44,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

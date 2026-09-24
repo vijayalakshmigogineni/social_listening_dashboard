@@ -1,0 +1,3100 @@
+{
+ "key": "pain_procedures",
+ "query": "(\"spinal cord stimulator\" OR \"radiofrequency ablation\" OR \"epidural steroid\" OR \"SI joint\" OR kyphoplasty OR Intracept OR \"medial branch\") (denied OR denial OR coverage OR reimbursement OR \"prior auth\") lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1067893485557174272",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1067893485557174272",
+   "url": "https://x.com/UFOTL/status/1067893485557174272",
+   "conversationId": "1067893485557174272",
+   "text": "HealthPartners patients now have coverage for @RTISurgical’s SImmetry System, a minimally invasive sacroiliac (SI) joint fusion surgery. Read more about the @UF #startup and @UFSidMartinBio alum. http://ow.ly/DE3b50jOFxi https://x.com/UFOTL/status/1067893485557174272/photo/1",
+   "lang": "en",
+   "createdAt": "2018-11-28T21:30:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "54642275",
+    "username": "UFOTL",
+    "name": "UF Innovate | Tech Licensing",
+    "url": "https://x.com/UFOTL",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2015821284613959683/0EYQt_19_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1067893483426508800",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DtHrdxmXcAAo1FP.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DtHrdxmXcAAo1FP.jpg",
+     "width": 2291,
+     "height": 591,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "startup"
+    ],
+    "mentions": [
+     {
+      "id": "44168607",
+      "username": "UF",
+      "name": "FLORIDA"
+     },
+     {
+      "id": "1482869125",
+      "username": "UFSidMartinBio",
+      "name": "UF Innovate | Accelerate @ Sid Martin Biotech"
+     }
+    ],
+    "urls": [
+     "http://ow.ly/DE3b50jOFxi"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1866354572584763894",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1866354572584763894",
+   "url": "https://x.com/KashPrime/status/1866354572584763894",
+   "conversationId": "1866354572584763894",
+   "text": "Could severe back pain drive someone to commit a terrible crime?  Some thoughts from someone who sees chronic back pain patients regularly.\n\nThis is the lumbar spinal xray posted on Luigi Mangione's Twitter profile. It shows he had a spinal fusion surgery (the screws at the bottom), along with some degenerative changes that you'd normally see in a later middle-aged person, but could also be present in a younger person who's had a serious injury.\n\nAlong with my ER work, I also work part-time in a pain management clinic.  I find it a good change-of-pace from the absolute chaos of the hospital.  Chronic back pain is an extremely difficult condition to treat, and our tools are very crude and imperfect. Very often there are potent psychosocial issues that set people back as well, and we try to direct these patients to resources that would better suit them.  \n\nMost of our patients have suffered car accidents, sports accidents, work-related injuries, or are laborers and tradespeople nearing the end of their working career (40s to 50s) along with  elderly with significant age-related degenerative changes.\n\nOur treatment programs progress something like this:\n\n1) Physio referral and a daily home-based core exercises regimen (based on fellow Canadian Stuart McGill's Big 3 exercises).  I track reps and frequency and suggest modifications if they find these difficult.  For elderly patients, we'll recommend something gentler like aquafit classes at the local pool, and the Otago balance exercises.  The AAOS's Spine Conditioning Program (Google it) is also excellent.\n\n2) Medications:  Tricyclic antidepressents like Amitriptyline, old seizure medicines like Gabapentin and Pregabalin provide relief for some people, but I find they work on, at best, 20-30% of people.  Low-dose Naltrexone (LDN) can help with people who suffer from Fibromyalgia (a condition that deserves its own thread!).  Anti-depressents like Duloxetine can help, especially if there's a depressed mood component.  Synthetic cannabis (in the form of Nabilone) is a good option for short-term pain relief.   Last-resort are opioids, and in very limited amounts, rotated and discontinued quickly if there's any sign of tolerance developing.  Ketamine-containing compounded topical creams are useful in postsurgical limb pain (very often from chronic regional pain syndromes).  Oral Ketamine is useful as an absolute last resort, but has to be used extremely cautiously (it is extremely addictive and psychoactive) and only after you take a bunch of courses on how to safely prescribe it.  There's rumours that Elon Musk uses it for neck pain...\n\n3) Trigger point and nerve block injections: a unique practice that's evolved over the last few decades in Ontario and BC is GPs with extra training (like me) injecting lidocaine (local anesthetic) into trigger points and near cutaneous nerves and fascial planes, which often will provide days to 1-2 weeks of pain relief.  It's a great bridge to allow patients the mobility to do the strengthening exercises in point (1) above.  Your goal is to transition people off of these shots as they get stronger and recover.\n\n4) Epidural steroids, Radiofrequency Ablation, Selective nerve root blocks.  These I refer out to more advanced  clinics that do these procedures under fluoroscopy.  These can help some patients with their symptoms for a few months at a time.\n\n5) Ketamine and Lidocaine infusions - like with everything here, great for some people (especially in people with overlapping depression), limited benefit for most.  \n\n6) Spinal stimulator - this is much harder to get (only two centres in Ontario do it), and often not covered by government health plans, but does work for some of the more intractable back pain.  I've had a few patients do extremely well with these.\n\n7) Surgical referral - this can be a bit of crapshoot. If you have 'red flag' symptoms such as limb weakness, paralysis, stool incontinence, etc  then you don't have much to lose in getting surgery, you are going to be paralyzed if you don't do it.  For less critical cases, very often surgery will offer only a temporary reprieve, if any at all.  Scar tissue can ensnare more nerves, other spinal segments can start causing more issues, and very soon, you're stuck with needing more interventions.\nSurgeons in Ontario are very conservative, and will usually redirect milder cases to physio or to our clinics to manage.  They have long waiting lists and don't need to drum up the business like their more entrepreneurial colleagues elsewhere.\n\nObviously I don't know what happened with this young man, but I'm guessing a few things:\n\n- He may have sustained an injury, possibly surfing (which some have reported here).  I see many young men with back injuries from powerlifting and squats.  Jump squat exercises should be banned as far as I'm concerned!\n- He may have tried conservative measures like core exercises and medications, with poor results\n- He may have had uneven results from other interventions, or these could have been inaccessible or denied by his insurer\n- As I've seen with many high-agency type A people, he might have pushed for surgery, having a faith in a treatment (surgery as a cure-all) informed more from popular culture, and not fully knowing (or not wanting to know) the risks of a poor surgical outcome.  Or he could have been oversold on a treatment by an aggressive surgeon.\n- he could have dabbled in oral Ketamine, and progressed to mushrooms, and on to psychedelics, looking at his reading list on Goodreads.   I've had patients travel to Mexico and elsewhere for courses of treatments costing thousands of dollars, with mixed results.  Unfortunately, there are people out there who will sell you anything for a price.\n\nLast year I suffered a back injury while moving boxes, and I was fairly disabled for about 6 weeks.  I was only able to walk 10 feet before I had to rest, I had to sit frequently at work, and use a rolling computer cart almost as a walker to get by.  Luckily I did not have radiating pain or other signs that I had slipped a disc, thank goodness.  Gradually, after much core exercising and stretching, things got better, though it does flare-up from time to time.  It gave me a good insight into the life of my patients, many who live this reality constantly.  I would have given anything, paid anything to be better again, and often even that is just  not possible. \n\nI can imagine the thought process of someone who isn't getting better, who doesn't have a medical provider giving good advice, who mourns an active life that is now impossible, and who thinks he found a solution elsewhere.  I guess we'll find out soon enough.\n\nOverall my advice is to all young people is to really safeguard your back.  Once your back is injured, it is never quite the same again.  If I had my way, I would run a mandatory back safety course in high schools so those going into labour jobs don't end up in my clinic too prematurely.  Same goes for anyone in high level sports as well.",
+   "lang": "en",
+   "createdAt": "2024-12-10T05:29:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1659140850",
+    "username": "KashPrime",
+    "name": "Kashif Pirzada, MD",
+    "url": "https://x.com/KashPrime",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1496160884993019912/Ko5Wj_RZ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 81,
+    "retweets": 141,
+    "quotes": 30,
+    "likes": 787,
+    "bookmarks": 481,
+    "views": 68524
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1866336325881716737",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeaPAAeWYAEdKPZ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GeaPAAeWYAEdKPZ.jpg",
+     "width": 1290,
+     "height": 1251,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1866337403801075713",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeaP-wCWgAEsRhF.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GeaP-wCWgAEsRhF.png",
+     "width": 639,
+     "height": 720,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1866350176744407040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GeabmO9WgAA608V.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GeabmO9WgAA608V.jpg",
+     "width": 1940,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1909999815494107183",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1909999815494107183",
+   "url": "https://x.com/AmerMommaBear/status/1909999815494107183",
+   "conversationId": "1909967687733719464",
+   "text": "Thankfully my lumbar fusion worked well so far. It’s only been a few years. Even if it failed tomorrow, it was the most relief I’ve had in 25 years.\n\nOn the other hand, when I ended up with a new Dr unexpectedly in 2022 she was adamant that I don’t do surgery, but do ESIs. First, that was a NO because an ESI in 2009 sent me to the hospital for over a week and months of PT/OT. Second, I said I would do the ESIs when the FDA approved them. She said they were approved. I said they weren’t & let it drop. I didn’t want to be accused of being non-compliant or aggressive & get discharged.\n\nLater that year the pain clinic turned “interventional.” No procedures, no meds. I always turned down the ESIs that she kept pushing for. I relented & did x2 trial nerve blocks to then do RFA. Insurance denied RFA.\n\nLater that year I did another x2 trial nerve blocks as they said insurance should cover this time. At one of those 2 appointments the tech asked how my nerve blocks & ESIs went. Excuse me?!?! I never agreed to ESIs.\n\nStill, I set up the RFA appointment. I get to the hospital & the nurse confirms the procedure… T 6 & 7 ESIs as discussed with Dr? Insurance denied RFA again & they scheduled the ESIs w/out my knowledge. I said that was NOT the procedure I agreed to. They said they’d get the Dr to talk to me. They made me wait an hour, got me on the table before the Dr asks why I don’t want ESIs.🤦‍♀️ I said absolutely no steroids. I thought it would get me off the table. Nope. So whatever “ESI” they did, they did it without steroids. My back pain has dramatically increased since the procedure.\n\nAfter that procedure she tells me that I need to contact my insurance to approve the RFAs they keep denying because… “you have to work for a living.” Technically, I don’t have to, I want to but she doesn’t need to know that.\n\nThey keep trying to get me to schedule more injections. I guess pain dramatically increased after ESIs are normal.🙄 I know she will be pushing for a spinal cord stimulator again. I’ve adamantly denied that too. I also told her about the Cochrane Review of the SCS. Oh but I need to be careful about where I get these reviews... & pushes the SCS again. \n\nI have almost all appointments audio recorded, minus accidentally stopping the recording on a few of them. Unfortunately, I didn’t think to audio record the procedures. I have evidence that I never agreed to ESIs. I even have the Dr saying “I know you don’t like ESIs…”\n\nI’m trying to extend the time before needing another procedure before they discharge me. So this week I’ll ask about the “Platelet Rich Plasma Injections.” I honestly know nothing about it but it will at least make it look like I’m interested in letting them torture me more.",
+   "lang": "en",
+   "createdAt": "2025-04-09T16:00:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1175228401466118144",
+    "username": "AmerMommaBear",
+    "name": "𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝞰 𝙈𝙤𝙢𝙢𝙖 𝞑𝙚𝙖𝙧",
+    "url": "https://x.com/AmerMommaBear",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1758307011152760832/TRW1Se7f_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 65
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1484565217174560770",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1484565217174560770",
+   "url": "https://x.com/IPSISMed/status/1484565217174560770",
+   "conversationId": "1484565217174560770",
+   "text": "Confused about the current Local Coverage Determination on Epidural Steroid Injections for Pain Management and how it applies to coverage for your Medicare patients? SIS has developed this members-only FAQ 🔒 to address your questions. https://www.spineintervention.org/news/592874/New-ESI-LCD-FAQ.htm #SISAdvocacy https://x.com/SISPhysicians/status/1484565217174560770/photo/1",
+   "lang": "en",
+   "createdAt": "2022-01-21T16:35:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "836534713",
+    "username": "IPSISMed",
+    "name": "IPSIS",
+    "url": "https://x.com/IPSISMed",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1701324412593528832/_FPBatOy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1484565106746957829",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FJo8GVmXoAUm3ko.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FJo8GVmXoAUm3ko.jpg",
+     "width": 1100,
+     "height": 628,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "SISAdvocacy"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.spineintervention.org/news/592874/New-ESI-LCD-FAQ.htm"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1635325056137011217",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1635325056137011217",
+   "url": "https://x.com/OIGatHHS/status/1635325056137011217",
+   "conversationId": "1635325056137011217",
+   "text": "A new HHS-OIG report recommends that Medicare Administrative Contractors recover $3.6 million improperly paid to physicians for patients who received more epidural steroid injection sessions than were permitted by the coverage limitations. Learn more: http://bit.ly/3yBDcNY https://x.com/OIGatHHS/status/1635325056137011217/photo/1",
+   "lang": "en",
+   "createdAt": "2023-03-13T17:00:50.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "291759889",
+    "username": "OIGatHHS",
+    "name": "OIG at HHS",
+    "url": "https://x.com/OIGatHHS",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1361995385/twitter_avatar_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 492
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1635325054564159488",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FrHXeQmX0AAcivg.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FrHXeQmX0AAcivg.jpg",
+     "width": 1024,
+     "height": 512,
+     "altText": "Medicare Improperly Paid Physicians for Epidural Steroid Injection Sessions",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/3yBDcNY"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1110527242227060736",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1110527242227060736",
+   "url": "https://x.com/IPSISMed/status/1110527242227060736",
+   "conversationId": "1110527242227060736",
+   "text": ".@SpineSociety recommends edits to @NASSspine proposed coverage policy recommendations on epidural steroid injections http://SpineIntervention.org/news/442602/SIS-Comments-on-Proposed-NASS-Coverage-Policy-Recommendations-on-Epidural-Steroid-Injections.htm",
+   "lang": "en",
+   "createdAt": "2019-03-26T13:01:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "836534713",
+    "username": "IPSISMed",
+    "name": "IPSIS",
+    "url": "https://x.com/IPSISMed",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1701324412593528832/_FPBatOy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1709442747956969472",
+      "username": "SpineSociety",
+      "name": "Spine Therapy Society"
+     },
+     {
+      "id": "108653971",
+      "username": "NASSspine",
+      "name": "NASS"
+     }
+    ],
+    "urls": [
+     "http://spineintervention.org/news/442602/SIS-Comments-on-Proposed-NASS-Coverage-Policy-Recommendations-on-Epidural-Steroid-Injections.htm"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1266398664395644928",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1266398664395644928",
+   "url": "https://x.com/siboneinc/status/1266398664395644928",
+   "conversationId": "1266398664395644928",
+   "text": "We Announced That @Aetna Established Positive Coverage for MIS SI Joint Fusion using the Triangular iFuse Implant System\n\n🔗: https://investor.si-bone.com/news-releases/news-release-details/si-bone-inc-announces-aetna-establishes-positive-coverage-mis-si https://x.com/siboneinc/status/1266398664395644928/photo/1",
+   "lang": "en",
+   "createdAt": "2020-05-29T15:59:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "798644808176713728",
+    "username": "siboneinc",
+    "name": "SI-BONE",
+    "url": "https://x.com/siboneinc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1119012218387873792/Bv2M2J-Z_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1266397662074466306",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EZMl9shVcAIVE4n.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EZMl9shVcAIVE4n.jpg",
+     "width": 1200,
+     "height": 670,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16188518",
+      "username": "Aetna",
+      "name": "Aetna"
+     }
+    ],
+    "urls": [
+     "https://investor.si-bone.com/news-releases/news-release-details/si-bone-inc-announces-aetna-establishes-positive-coverage-mis-si"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1664331550274600961",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1664331550274600961",
+   "url": "https://x.com/Hologic/status/1664331550274600961",
+   "conversationId": "1664331550274600961",
+   "text": "More and more providers are making the news for their choice to offer the Acessa® laparoscopic radiofrequency ablation procedure to patients. Visit our Newsroom for the latest coverage: https://bit.ly/3Uv2Qy1 #AcessaProcedure #WomensHealth #Hologic https://x.com/Hologic/status/1664331550274600961/photo/1",
+   "lang": "en",
+   "createdAt": "2023-06-01T18:02:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "30007936",
+    "username": "Hologic",
+    "name": "Hologic",
+    "url": "https://x.com/Hologic",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/656891816277446657/yFy9PX0r_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 297
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1664331547611127809",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FxjkuXvWYAEEMJ5.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FxjkuXvWYAEEMJ5.jpg",
+     "width": 2208,
+     "height": 1472,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1664331547665653760",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FxjkuX8WYAA-SGy.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FxjkuX8WYAA-SGy.jpg",
+     "width": 2208,
+     "height": 1472,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1664331547967643651",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FxjkuZEWYAM5UqD.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FxjkuZEWYAM5UqD.jpg",
+     "width": 2208,
+     "height": 1472,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AcessaProcedure",
+     "WomensHealth",
+     "Hologic"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3Uv2Qy1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1709561609134243997",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1709561609134243997",
+   "url": "https://x.com/urotoday/status/1709561609134243997",
+   "conversationId": "1709561609134243997",
+   "text": "Final results from a prospective randomized pilot trial of SBRT vs. radiofrequency ablation for the management of small renal masses #RADSTER. Presentation by Anand Swaminath, MD @HamHealthSci. #ASTRO23 written coverage by @RKSayyid @UofT &gt; https://bit.ly/46TwzWr @ASTRO_org https://x.com/urotoday/status/1709561609134243997/photo/1",
+   "lang": "en",
+   "createdAt": "2023-10-04T13:30:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "21319494",
+    "username": "urotoday",
+    "name": "UroToday.com",
+    "url": "https://x.com/urotoday",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1993041073262776320/lg1mv48x_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 4,
+    "likes": 19,
+    "bookmarks": 5,
+    "views": 16388
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1709561525189431296",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F7mVJkaXUAAnLWt.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F7mVJkaXUAAnLWt.jpg",
+     "width": 992,
+     "height": 442,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1709561546169368576",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F7mVKykXwAAOvYu.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F7mVKykXwAAOvYu.jpg",
+     "width": 1004,
+     "height": 434,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1709561567153397760",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F7mVMAvWoAACagh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F7mVMAvWoAACagh.jpg",
+     "width": 1000,
+     "height": 462,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1709561588120735744",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F7mVNO2W0AAPixZ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F7mVNO2W0AAPixZ.jpg",
+     "width": 1002,
+     "height": 244,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "RADSTER",
+     "ASTRO23"
+    ],
+    "mentions": [
+     {
+      "id": "168712343",
+      "username": "HamHealthSci",
+      "name": "Hamilton Health Sciences"
+     },
+     {
+      "id": "837788693251387392",
+      "username": "RKSayyid",
+      "name": "Rashid K. Sayyid"
+     },
+     {
+      "id": "821814254",
+      "username": "UofT",
+      "name": "University of Toronto"
+     },
+     {
+      "id": "33898299",
+      "username": "ASTRO_org",
+      "name": "ASTRO"
+     }
+    ],
+    "urls": [
+     "https://bit.ly/46TwzWr"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1971226933540057173",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1971226933540057173",
+   "url": "https://x.com/AmerMommaBear/status/1971226933540057173",
+   "conversationId": "1971152433360625994",
+   "text": "I’m so sorry.💔\n\nI don’t know how many ESIs I’ve had over the years. I always told the Drs they never worked & always hurt until the corticosteroids dissipated. Then it was back to normal pain level until… one ESI in 2009. I ended up w/a batería or virus in my spine. It destroyed disk & bone which put me on the lumbar fusion list.\n\nIn 2022 I had 2 spine surgeries, including the lumbar fusion. Thankfully it helped some.🙏\n\nI was forced into procedures again as my thoracic spine pain didn’t get better after the surgeries. Dec 2024 I was supposed to do RFA (radio frequency ablation) but insurance denied it, again. The Dr changed the procedure to a 2 level ESI w/out my knowledge. I’ve refused ESIs since 2009. I was prepped on the table before the Dr would talk to me.\n\nI reluctantly agreed to the procedure without corticosteroids. I never had someone dig around so much in my spine before. My back hurt like hell. I hoped the pain would go back to normal once the corticosteroids dissipated like the ones years before. Wrong.\n\nThey put off sending me for an MRI for 6 months. Ironically, 6 months was about the time it took for my body to fight off the bacteria/virus in 2009. It was a little over a year from the time I started procedures on my thoracic spine to Dec 2024. I showed no disk damage. After the MRI in 2025 I have an anular tear & T4-8 have moderate to severe disk bulging. All these levels they were, unbeknownst to me, injecting me with corticosteroids along with the nerve blocks.\n\nAt my appointment every month since Dec they keep asking me to set up another procedure. It takes everything I have not to respond, “Are you f*cking kidding me?” \n\nThey tell me I need to get off opioids because:\n- opioids don’t fix the problem, it masks it\n- you just keep upping the dosage\n\nI never needed a dosage increase from 2000-2018 before the forced tapers started due to the CDC. They also say I should do the SCS (Spinal Cord Stimulator). My retort on the SCS was, “So you can’t fix me either.”\n\nIf anyone wants to do these procedures, it’s their choice. Just as everyone told me not to do fusion. I knew the benefits & risks. Too often, the risks are not mentioned, or are quickly skimmed over. We should be able to make an informed decision and not be forced if we want to be undertreated with pain medication.\n\nIf you read this far, thanks. I write novels.😬😘",
+   "lang": "en",
+   "createdAt": "2025-09-25T14:54:59.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1175228401466118144",
+    "username": "AmerMommaBear",
+    "name": "𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝞰 𝙈𝙤𝙢𝙢𝙖 𝞑𝙚𝙖𝙧",
+    "url": "https://x.com/AmerMommaBear",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1758307011152760832/TRW1Se7f_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 44
+   },
+   "replyTo": {
+    "tweetId": "1971176754191511924",
+    "userId": "1657887877",
+    "username": "thehogslammer"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1971226929110929408",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1s0crFXUAAT7iY.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1s0crFXUAAT7iY.jpg",
+     "width": 2048,
+     "height": 958,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1971226929328992256",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1s0cr5WsAAKdAC.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1s0cr5WsAAKdAC.jpg",
+     "width": 2048,
+     "height": 1002,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1971226929123479553",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1s0crIW0AEjcgT.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1s0crIW0AEjcgT.jpg",
+     "width": 2048,
+     "height": 1294,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1971226929119264768",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1s0crHWgAA6eBW.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1s0crHWgAA6eBW.jpg",
+     "width": 2048,
+     "height": 1166,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1895985676446748696",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1895985676446748696",
+   "url": "https://x.com/RadiologyACR/status/1895985676446748696",
+   "conversationId": "1895985676446748696",
+   "text": "ACR, @SIRspecialists, and the @WSRSradiology submitted comments to the @WA_Health_Care regarding its non-coverage policy for vertebroplasty, kyphoplasty and sacroplasty https://bit.ly/4hXJ5tQ #radvocacy @ACRRAN https://x.com/RadiologyACR/status/1895985676446748696/photo/1",
+   "lang": "en",
+   "createdAt": "2025-03-01T23:53:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "24232840",
+    "username": "RadiologyACR",
+    "name": "American College of Radiology",
+    "url": "https://x.com/RadiologyACR",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1655271239605207044/rdwcjAjn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 1032
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1895985655529750528",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gk_k6IkWQAAtj7e.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gk_k6IkWQAAtj7e.jpg",
+     "width": 680,
+     "height": 680,
+     "altText": "Group of professionals from the American College of Radiology standing on the steps of a large building, holding documents, under a banner that reads \"Advocacy in Action.",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "radvocacy"
+    ],
+    "mentions": [
+     {
+      "id": "82639639",
+      "username": "SIRspecialists",
+      "name": "Society of Interventional Radiology"
+     },
+     {
+      "id": "1875785040",
+      "username": "WSRSradiology",
+      "name": "Washington State Radiologic Society"
+     },
+     {
+      "id": "1347405487",
+      "username": "WA_Health_Care",
+      "name": "Washington State Health Care Authority"
+     },
+     {
+      "id": "2827438191",
+      "username": "ACRRAN",
+      "name": "ACR RAN"
+     }
+    ],
+    "urls": [
+     "https://bit.ly/4hXJ5tQ"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:793151144319148032",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "793151144319148032",
+   "url": "https://x.com/anesthesianews/status/793151144319148032",
+   "conversationId": "793151144319148032",
+   "text": "Spinal Cord Stimulator Implants Show Impressive Outcomes https://goo.gl/NBcj9h #Rutgers Excellent paresthesia coverage for 80% of patients",
+   "lang": "en",
+   "createdAt": "2016-10-31T18:02:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "84353318",
+    "username": "anesthesianews",
+    "name": "Anesthesiology News",
+    "url": "https://x.com/anesthesianews",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/3475598331/61381460e2af17bc6c843c473c259139_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Rutgers"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://goo.gl/NBcj9h"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087548121697952005",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2087548121697952005",
+   "url": "https://x.com/dougbeall/status/2087548121697952005",
+   "conversationId": "2087548121697952005",
+   "text": "83 year-old Caucasian male with 10 out of 10 back pain failed non-surgical management as and is in clear decline with a high rate of mortality in this situation. HUMATA denied Kyphoplasty due to the DEXA scan not showing osteoporosis. Osteoporosis does NOT depend only on DEXA https://x.com/dougbeall/status/2087548121697952005/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-12T14:33:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 276
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2087548114508898304",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh18yjW4AAIoq1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh18yjW4AAIoq1.jpg",
+     "width": 1320,
+     "height": 1573,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2087548114508890112",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh18yjWwAA3Uv1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh18yjWwAA3Uv1.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026353254771110209",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2026353254771110209",
+   "url": "https://x.com/dougbeall/status/2026353254771110209",
+   "conversationId": "2026353254771110209",
+   "text": "This is a subacute L1 vertebral compression fracture.  It was reported as no acute fracture but described as an inferior endplate wedging deformity likely subacute. If it’s not called a fracture theres confusion as to what this is and she has no insurance coverage for Kyphoplasty https://x.com/dougbeall/status/2026353254771110209/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-24T17:47:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 7,
+    "views": 3658
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2026353231194951680",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxbXEAANGgG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxbXEAANGgG.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026353231245234177",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxnWUAEURsG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxnWUAEURsG.jpg",
+     "width": 1296,
+     "height": 1152,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026353231194963968",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxbXQAAzM_T.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxbXQAAzM_T.jpg",
+     "width": 2048,
+     "height": 1796,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1741935124650823788",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1741935124650823788",
+   "url": "https://x.com/bluangelwarrior/status/1741935124650823788",
+   "conversationId": "1741855649611321517",
+   "text": "I deal with the worst pain known to man— Causalgia otherwise known as Complex Regional Pain Syndrome Type 2.\nI’ve been suicidal on many occasions. I’ve been denied treatment, my pain medications decreased and abandoned, the latest by my doctor after major back surgery with no post-op pain treatment. I was told that my pain was all in my head— which it was proven it was— literally. That’s what CAUSES CRPS — the BRAIN. CRPS TYPE 2 is additionally caused by nerve damage and does not go into remission ever.\nIt’s like having your arm or leg amputated without anesthesia and/or having a baby without anesthesia ALL THE TIME.\nSo I either find a way or ways to “deal” or “cope” with my pain or I become a statistic.\n\nMy pain never drops below 7/10 on the outdated “pain” scale for chronic pain. In reality, it never drops below 35/50 on the McGill Pain Index that nobody who cares for me uses. And that’s WITH pain AND augmentative treatment medications. 💊 With A PAIN SPECIALIST, primary care doctor, two neurologists, and a pharmacist who supposedly cares about what happens to my health and to me.\n\nI have a spinal cord stimulator that’s been replaced once because the original neurosurgeon who placed it decided he knew better than the pain trial’s recommended position and specified type of lead for my condition. So for the last five years, he rendered my pain therapy with my first SCS completely worthless. Even though the lead hasn’t changed, it is now in the right place, and I receive at least 20% relief. This one simple change has enabled me to decrease my opioid dose as originally intended. I’ve managed to reduce it roughly 30%. (Notice that I say “I”.)\n\nBut the fact that I was ABANDONED POST-OP WITH NO PROVISION FOR SURGICAL RECOVERY OR CRPS PAIN during this very time enlightened me to TWO very important issues.\n1. WE AS CHRONIC PAIN AND RARE DISEASE PATIENTS IN AMERICA ARE BEING ELIMINATED ONE PATIENT AT A TIME BY ANY MEANS NECESSARY. WE HAVE NO RIGHTS.\n2. CHRONIC PAIN AND RARE DISEASE PAIN PATIENTS IN AMERICA HAVE NO TRUE HEALTHCARE ACCESSIBLE IN THIS COUNTRY. We are left to treat ourselves or die.\n\nSo, I took my healthcare into my own hands. I decided to take CONTROL OF MY OWN LIFE. MY OWN CARE. And God help the next doctor or healthcare provider who abandons, ignores, or does not treat me or my health condition due to the fact I am a #cppipp. I will call the police and file charges for #assault or in worse case scenario, #attemptedmurder . I have the #righttolife and I will exercise it.\nAnd as a healthcare provider, they have the #duty and #job to provide #care and they #indiscriminately do it, or face the consequences for not— the law. \n\nI’ve had COVID although I can’t take the vaccine and survived. I’ve faced heart failure from pregnancy and survived. I’ve developed one of worst diseases ever known, and I survive.\n\nI can’t have the TKR need in my left knee or any other surgery I may “need” unless it is LIFE-THREATENING due to the impact on my nervous system. Causalgia is progressive. The brain learns very well. But I’ll survive.\n\nI wish I could say that all these methods I use to help with pain work all the time, but they DON’T. In fact, I’m continually creating and thinking up new ways to “deal” with the excruciating and not-so painful ones each day. I will continue to survive.\n\nOne thing I do know is that I will never give up the battle. I will not let my body and brain rule my life. Only God does that and HE WILL DECIDE WHEN I GO HOME TO BE WITH HIM, NOBODY ON THIS EARTH.",
+   "lang": "en",
+   "createdAt": "2024-01-01T21:31:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1559766470866767872",
+    "username": "bluangelwarrior",
+    "name": "Renee Blare",
+    "url": "https://x.com/bluangelwarrior",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1747721910656397312/Gpsak6rS_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 104
+   },
+   "replyTo": {
+    "tweetId": "1741915472084205623",
+    "userId": "3016916604",
+    "username": "KatMelcher"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "cppipp",
+     "assault",
+     "attemptedmurder",
+     "righttolife",
+     "duty",
+     "job",
+     "care",
+     "indiscriminately"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1581719824324907008",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1581719824324907008",
+   "url": "https://x.com/Bilked2TheBrink/status/1581719824324907008",
+   "conversationId": "1581719824324907008",
+   "text": "Coercion infuriates me. I’d sit at the table with a mouth full of food for an hour. I cannot be forced. How is this not criminal? People are being denied pain Rx to coerce into a spinal cord stimulators and epidural steroid injections. They ARE NOT EVEN FDA APPROVED! https://x.com/Bilked2TheBrink/status/1581719824324907008/photo/1",
+   "lang": "en",
+   "createdAt": "2022-10-16T18:52:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "382615996",
+    "username": "Bilked2TheBrink",
+    "name": "BilkedToTheBrink",
+    "url": "https://x.com/Bilked2TheBrink",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1579638607857451008/lLZ_vTMC_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 10,
+    "quotes": 0,
+    "likes": 20,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1581719819505881088",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FfNly6fX0AAcQsv.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FfNly6fX0AAcQsv.jpg",
+     "width": 1125,
+     "height": 2005,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1562792616395038720",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1562792616395038720",
+   "url": "https://x.com/HSBuck3TE/status/1562792616395038720",
+   "conversationId": "1562599670937174016",
+   "text": "@markwwilsonmd I fractured my T-12 completely across the top of it. My spine specialist wanted to do kyphoplasty. Insurance denied it. We worked for weeks to get it approved. No luck. I eventually healed but still have a lot of back pain and fatigue where that vertebrae is located.",
+   "lang": "en",
+   "createdAt": "2022-08-25T13:22:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "707915712505839616",
+    "username": "HSBuck3TE",
+    "name": "H",
+    "url": "https://x.com/HSBuck3TE",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592904395653513216/AtAruGtn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1001886178478608387",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1001886178478608387",
+   "url": "https://x.com/JustinKlein1/status/1001886178478608387",
+   "conversationId": "1001886178478608387",
+   "text": "This is a great program, as we know innovative medical devices like @RelievantMed’s Intracept offer critical solutions to trea pain. \n\nBUT we also need @HHSGov and @CMSGov to support accelerated new coverage &amp; payment programs so patients can access these therapies. #opioidcrisis https://x.com/hhsgov/status/1001864413849243648",
+   "lang": "en",
+   "createdAt": "2018-05-30T18:00:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "482612840",
+    "username": "JustinKlein1",
+    "name": "Justin Klein, MD, JD",
+    "url": "https://x.com/JustinKlein1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1680549782815744001/PbfF9rV1_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1001864413849243648",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "opioidcrisis"
+    ],
+    "mentions": [
+     {
+      "id": "755218394446790656",
+      "username": "RelievantMed",
+      "name": "Intracept by Boston Scientific"
+     },
+     {
+      "id": "44783853",
+      "username": "HHSGov",
+      "name": "HHS"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [
+     "https://x.com/hhsgov/status/1001864413849243648"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1034096401762795525",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1034096401762795525",
+   "url": "https://x.com/orthospinenews/status/1034096401762795525",
+   "conversationId": "1034096401762795525",
+   "text": "SI-BONE, Inc. Announces France's National Healthcare System Establishes Exclusive Positive Coverage for the Triangular iFuse Implant System® for MIS SI Joint Fusion - http://bit.ly/2MCi3gY https://x.com/orthospinenews/status/1034096401762795525/photo/1",
+   "lang": "en",
+   "createdAt": "2018-08-27T15:12:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "100930324",
+    "username": "orthospinenews",
+    "name": "OrthoSpineNews",
+    "url": "https://x.com/orthospinenews",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1240394454285991937/JJauEY9s_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1034096397383950343",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DlnZMc2U4Ac_jti.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DlnZMc2U4Ac_jti.jpg",
+     "width": 619,
+     "height": 299,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/2MCi3gY"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1816094631685439906",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1816094631685439906",
+   "url": "https://x.com/bzalma/status/1816094631685439906",
+   "conversationId": "1816094631685439906",
+   "text": "Guilty of Workers’ Compensation Fraud\n\nInflating On-The-Job Injury is Fraud\nPost 4841\nRead the full article at https://lnkd.in/g-7mcBEE, see the full video at https://lnkd.in/gYehF53V and at https://lnkd.in/gKgxYMa6 and at https://zalma.com/blog plus more than 4800 posts.\n\nA jury found Waliullah Nazari guilty of two counts of making false  and fraudulent statements for the purpose of obtaining workers’  compensation benefits and seven counts of attempted perjury under oath.\n\nIn The People v. Waliullah Nazari, D081940, California Court of  Appeals, Fourth District, First Division (July 18, 2024) the Court of  Appeals affirmed the conviction because surveillance proved Nazari had  lied to his physician and insurer.\n\nFACTUAL BACKGROUND\n\nIn January 2019, Nazari fell off a ladder at work rendering him  unconscious. Hospital records indicated he suffered a broad-based disc  herniation between vertebrae 4 and 5, with resulting bilateral/lateral  recess stenosis, and sciatica. Nazari submitted a workers’ compensation  claim to Liberty Mutual Insurance (Liberty Mutual) and received benefits  between January 5 and July 19 totaling $99,656.96.\n\nNazari’s treating physician recommended he receive an epidural  steroid injection but Nazari’s insurance company declined coverage.  Nazari saw an orthopedic surgeon for a second opinion about his need for  the injection. Among other things, Nazari told the orthopedic surgeon  that he needed a walker to stand and could not walk without using a  walker. After a physical examination, the orthopedic surgeon recommended  that Nazari receive the injection and follow-up with his treating  physician.\n\nTHE SUB ROSA INVESTIGATION\n\nOn April 11, a private investigator working for Liberty Mutual  conducted a recorded surveillance session and saw Nazari enter his car  and drive away. He saw Nazari return in the car, exit the car, and walk  without using a walker and with a normal gait. Later that day, he saw  Nazari walk unassisted to a car, remove a folding aluminum walker from  the trunk, assemble the walker, and then carry the walker out of view. A  few minutes later, he observed Nazari walking slowly with a walker for  support to a medical transport van where the driver assisted him into  the van. When the van returned to the residence, the investigator  watched as Nazari used the walker to slowly ambulate up the driveway and  out of view. Nazari was later videotaped carrying a small child in his  arms, assisting the child into a vehicle, and driving away.\n\nLiberty Mutual deposed Nazari during the time between the video  surveillance sessions and saw conditions different than shown during  surveillance. During his second deposition, Nazari claimed, among other  things, that he was unable to carry his child and could not drive  because he used a walker.\n\nLiberty Mutual closed the investigation and, as required by  California statute and regulations, reported the matter to the local  District Attorney’s Office and California Department of Insurance.\n\nDISCUSSION\n\nThe People alleged that Nazari falsely or fraudulently told the  orthopedic surgeon on April 1 that he “cannot walk without his walker”  (count 1) and “cannot stand without his walker” (count 2).\n\nAPPELLATE CLAIMS\n\nTo determine the sufficiency of the evidence, courts review the  entire record in the light most favorable to the prosecution to  determine whether it contains evidence that is reasonable, credible and  of solid value, from which a rational trier of fact could find that the  elements of the crime were established beyond a reasonable doubt. Nazari  contends the sub rosa videos of him walking and standing without the  use of a walker after his April 1 visit do not show the falsity of his  statements on April 1 because the orthopedic surgeon observed symptoms  consistent with a back injury and he presumably received relief from the  epidural injection.\n\nThere was no evidence in the record to support Nazari’s contention he  received an epidural injection before he was subject to surveillance.  Second, the orthopedic surgeon relied on Nazari being truthful when  forming his conclusions.\n\nSurveillance video taken on four subsequent dates showed Nazari  walking normally and standing without the assistance of a walker. On two  occasions, Nazari walked without the walker and then, minutes later, he  required the assistance of a walker when transportation arrived to pick  him up.\n\nFrom the videos, the jury could reasonably conclude Nazari  misrepresented his pain level, faked reliance on the walker during his  physical examination, and falsely told the orthopedic surgeon that he  required a walker to stand or walk.\n\nThe Court of Appeals concluded that the jury reasonably concluded  that Nazari’s statements to the orthopedic surgeon were made for the  purposes of obtaining workers’ compensation benefits. Accordingly,  substantial evidence supported Nazari’s two convictions for workers’  compensation fraud under section 1871.4, subdivision (a)(1).\n\nZALMA OPINION\n\nRegardless of the fact that the trial court suspended imposition of  sentence and placed Nazari on probation for two years, sentenced him to  365 days in jail as a condition of probation, stayed pending successful  completion of probation, and ordered him to pay restitution totaling  $53,879.44 at $100 per month he filed this spurious appeal. People who  commit fraud, in my experience, are astounded that they did not succeed  and have gained enough from their crime to pursue a spurious appeal. The  Court of Appeal should have reversed the sentence and made him spend  the 365 days in jail.\n\n(c) 2024 Barry Zalma & ClaimSchool, Inc.\n\nPlease tell your friends and colleagues about this blog and the videos and let them subscribe to the blog and the videos.\n\nSubscribe to my substack at https://barryzalma.substack.com/subscribe or Subscribe to my substack at https://lnkd.in/gmmzUVBy\n\nGo to X @bzalma; Go to http://Newsbreak.com https://www.newsbreak.com/@c/1653419?s=01; Go to Barry Zalma videos at http://Rumble.com at https://rumble.com/account/content?type=all; Go to Barry Zalma on YouTube- https://www.youtube.com/channel/UCysiZklEtxZsSF9DfC0Expg\n\nGo to the Insurance Claims Library – https://lnkd.in/gwEYk",
+   "lang": "en",
+   "createdAt": "2024-07-24T12:54:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "473253279",
+    "username": "bzalma",
+    "name": "Barry Zalma, Esq., CFE",
+    "url": "https://x.com/bzalma",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1928172651899670530/m44ALzvr_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 293
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1816094618372673536",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GTQQbu6aEAAkH20.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GTQQbu6aEAAkH20.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "473253279",
+      "username": "bzalma",
+      "name": "Barry Zalma, Esq., CFE"
+     }
+    ],
+    "urls": [
+     "https://lnkd.in/g-7mcBEE",
+     "https://lnkd.in/gYehF53V",
+     "https://lnkd.in/gKgxYMa6",
+     "https://zalma.com/blog",
+     "https://barryzalma.substack.com/subscribe",
+     "https://lnkd.in/gmmzUVBy",
+     "http://newsbreak.com/",
+     "https://www.newsbreak.com/@c/1653419?s=01",
+     "http://rumble.com/",
+     "https://rumble.com/account/content?type=all",
+     "https://www.youtube.com/channel/UCysiZklEtxZsSF9DfC0Expg",
+     "https://lnkd.in/gwEYk"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1151931493721300992",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1151931493721300992",
+   "url": "https://x.com/heathrlv/status/1151931493721300992",
+   "conversationId": "1151931493721300992",
+   "text": "Currently sitting in PM listening to how they are appealing the denial of a spinal cord stimulator implant because it's better than 30mg of oxycodone a day.  Yeah, permanent implant into my spine at 57,000.00 way better than meds that cost 20.00 per month.ugh!",
+   "lang": "en",
+   "createdAt": "2019-07-18T19:07:24.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2191480628",
+    "username": "heathrlv",
+    "name": "Blessed🦄 🏡",
+    "url": "https://x.com/heathrlv",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1093306665305337857/yDb6lvVa_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1151928383548338176",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1952794395897688355",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1952794395897688355",
+   "url": "https://x.com/dougbeall/status/1952794395897688355",
+   "conversationId": "1952794395897688355",
+   "text": "Attn radiologists: if there is evidence of edema in the vertebra body, please don’t call these chronic.\nThe T9 VCF (upper) is not chronic &amp; has edema. Not all subacute fractures that are painful will have prominent edema either. Dictating it like this leads to Kyphoplasty denial https://x.com/dougbeall/status/1952794395897688355/photo/1",
+   "lang": "en",
+   "createdAt": "2025-08-05T18:10:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 23,
+    "bookmarks": 3,
+    "views": 3470
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1952794388892889089",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gxm4Jn1WMAELpnh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gxm4Jn1WMAELpnh.jpg",
+     "width": 1556,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1952794388880293888",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gxm4JnyWAAA_Rj6.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gxm4JnyWAAA_Rj6.jpg",
+     "width": 2048,
+     "height": 646,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1941915963693412676",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1941915963693412676",
+   "url": "https://x.com/KartikBSonawane/status/1941915963693412676",
+   "conversationId": "1941915963693412676",
+   "text": "🎯🧠Decoding Genicular Nerves: Anatomy, Nociception, & Their Role in Knee Pain After TKA🦿\n\n#GenicularNerves #KneeAnatomy #PostTKAPain\n#NeuropathicPain #RegionalAnesthesia #PainMechanisms #TargetedBlocks #UltrasoundGuidedBlocks #AnatomyDecoded\n#ClinicalAnatomy #Neuroanatomy #PainAfterTKA\n#AnatomyMatters #TipOfTheDay #MyRATips\n\nTip of the Day:\n\n1. 🔍 What Does \"Genicular\" Mean?\n\n♦The term “genicular” comes from the Latin \"genu\", meaning knee.\n♦These nerves supply the area around the knee, particularly its capsular, ligamentous, & periarticular structures.\n♦Also influences vascular control and pain transmission.\n♦Approximately 14 genicular nerves (mixed sensory/motor/autonomic) from 5 major nerves (FN, OBN, SCN, TN, CPN).\n♦They follow a predictable course, often accompanying genicular arteries.\n♦Essential target in modern-day pain management strategies, such as genicular nerve blocks (GNB) and radiofrequency ablation (RFA).\n\n2. ❓ Is the Infrapatellar Branch a Genicular Nerve?\n\n🚫 No, the IPBSN is not classified as a genicular nerve.\n🔹Primarily a cutaneous nerve, but may contribute to the inferomedial anterior capsule, alongside the IMGN.\n🔹Not traveling with genicular arteries or through periosteum.\n🔹Responsible for selective anterior knee pain syndromes.\n🔹Usually not targeted in GNB/RFA unless for cutaneous neuroma or peripatellar pain\n\n3. 🎯 Genicular vs Articular Branches\n\n⚡Genicular Nerves:\n📍 Location: Periarticular soft tissues (around bones, ligaments)\n🎯 Function: Involved in pain transmission, proprioception, & autonomic vascular tone\n🔥 Nociceptor Density: High density – major contributors to persistent pain\n🧠 Clinical Targetability: Precisely located & often ultrasound-visible for blocks or RFA\n🦵 Role Post-TKA: Remain active and relevant even after joint replacement\n\n🧩 Articular Branches:\n📍 Location: Confined to joint capsule & synovial lining\n🎯 Function: Transmit pain only; minimal role in proprioception or autonomic function\n🔥 Nociceptor Density: Variable – may be low in some areas\n🧠 Clinical Targetability: Less consistently found; harder to visualize or block directly\n🦵 Role Post-TKA: Often resected or disrupted during surgery, limiting their postoperative contribution\n\n4. 🔄 Genicular Nerves Contribute to the Plexuses!\n\n📍Think of genicular nerves as the named highways, and the plexuses as local neighborhood streets formed by their fine branches or communicating fibers.\n📍Genicular nerves don’t just function independently - they feed into articular plexuses through tiny terminal branches\n\n🔴 Peripatellar Plexus\n🔹Formed by: saphenous, LFCN, SMGN, SLGN\n🔹Supplies: skin, retinacula around the patella\n\n🟡 Subsartorial Plexus\n🔸Formed by: saphenous, NVM, PDOBN, SMGN\n🔸Supplies: medial periosteum & anteromedial capsule\n\n🔵 Popliteal Plexus\n◾Formed by: MGN, IMGN, ILGN, tibial & sciatic articular branches\n◾Supplies: posterior capsule,cruciate ligaments\n\n➡ Thus, genicular nerves are not isolated but functionally interwoven into these plexuses via communicating fascicles - important for both superficial & deep pain transmission.\n\n5. 🔬 Nociceptors in Genicular Nerves?\n\nNociceptors are pain-sensing free nerve endings strategically located at,\n\n🔴 Periarticular Soft Tissue\n🔺Subsynovial tissue\n🔺Joint capsule (especially anterior)\n🔺Periosteum around femoral & tibial condyles\n🔺Retinacula and meniscal horns\n\n🟠 Infrapatellar Fat Pad (Hoffa's fat pad)\n✦ Highly innervated and richly vascularized\n✦ Nociceptors from the femoral & tibial nerves are abundant here\n✦ One of the most pain-sensitive areas in the knee\n\n🟡 Perivascular Plexus of Genicular Arteries\n❃ Genicular nerves travel with genicular arteries, forming neurovascular bundles.\n❃ These perivascular networks carry autonomic & nociceptive fibers\n❃ The mechanical stretch, chemical irritation, or hypoxia here can generate significant pain\n\n🔵 Intracapsular Ligaments (MGN)\n✿ Enters joint via posterior capsule\n✿ Supplies ACL, PCL, & synovial membrane\n✿ Nociceptors are densely populated in cruciate ligament insertions\n\n6. 🔧 Post-TKA Changes?\n\n🔧 Anatomical & Functional Changes:\n🔸Anterior capsule and fat pad often removed\n🔸Periosteum traumatized or replaced by prosthesis\n🔸Genicular nerve endings may be transected → neuroma formation\n\n🧠 Resulting Pain Mechanisms:\n🔥 Neuropathic pain from cut genicular nerves\n🔁 Central sensitization\n🧬 Residual nociception from posterior capsule, cruciate remnants, collateral ligaments\n\n7.❓So, Do These Genicular Nerves Transmit Pain After TKA?\n\n✅ Yes — but with altered roles.\nDespite the resection of anterior nociceptive zones, genicular nerves may still:\n🔁 Transmit neuropathic signals from neuroma formation\n📤 Relay inflammatory pain from residual structures\n🧠 Participate in central sensitization & altered pain processing\n\n8.🎯 Clinical Implication\nGNBs/RFA can still significantly reduce pain, especially in:\n🔹 Post-TKA patients with persistent anterior knee pain\n🔹 Patients with neuropathic elements or residual inflammation\n🔹 Those with failed prosthetic integration or chronic pain syndromes\n\n💡But, No Role in Immediate Post-TKA PAIN.\n\n🏠✅Take-Home Messages 🔑\n\n⚡ Genicular nerves are periarticular sensory twigs involved in pain, proprioception, & vascular regulation.\n🧠 14 genicular nerves arising from 5 major nerves, targeting anterior, posterior, and periosteal regions.\n🔥 Nociceptors reside in the joint capsule, retinaculum, ligaments, and periosteum - not just the synovium.\n🦿 Even after TKA, genicular nerves remain active contributors to residual or phantom knee pain.\n🩻 Articular branches mainly serve pain-only functions and are often excised or disrupted during TKA.\n🧩 Genicular nerves contribute to plexuses like peripatellar, subsartorial, and popliteal, explaining diffuse pain patterns.\n💉DSB offers the broadest motor-sparing coverage - anterior, medial, posterior genicular innervation.\n🎯 FTB covers anterior-medial capsule (SMGN, NVM, IPBSN) but misses deep/posterior contributors.\n🚫 No single block covers all 14 genicular nerves - multimodal or dual-injection strategies are key.\n🧭 Targeting genicular nerves via ultrasound or RFA is clinically precise and meaningful for chronic/post-TKA knee pain.  But, Not for Acute Post-TKA pain.\n📊 Distinction:\n⚡ Genicular nerves = high nociceptive density, easy to target\n🧩 Articular branches = limited pain role, inconsistent anatomy\n\n“Post-TKA pain isn’t always mechanical or inflammatory - it’s neuropathic, & geniculars are the source code.”",
+   "lang": "en",
+   "createdAt": "2025-07-06T17:43:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1383710166256816138",
+    "username": "KartikBSonawane",
+    "name": "Dr.Kartik Sonawane",
+    "url": "https://x.com/KartikBSonawane",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2079232301599543297/qM7i4qrp_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 8,
+    "quotes": 0,
+    "likes": 37,
+    "bookmarks": 16,
+    "views": 1207
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1941915643147591680",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GvMR_R2WIAAeBwp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GvMR_R2WIAAeBwp.jpg",
+     "width": 3027,
+     "height": 3802,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "GenicularNerves",
+     "KneeAnatomy",
+     "PostTKAPain",
+     "NeuropathicPain",
+     "RegionalAnesthesia",
+     "PainMechanisms",
+     "TargetedBlocks",
+     "UltrasoundGuidedBlocks",
+     "AnatomyDecoded",
+     "ClinicalAnatomy",
+     "Neuroanatomy",
+     "PainAfterTKA",
+     "AnatomyMatters",
+     "TipOfTheDay",
+     "MyRATips"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1326880379630985217",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1326880379630985217",
+   "url": "https://x.com/DrPess/status/1326880379630985217",
+   "conversationId": "1326880379630985217",
+   "text": "Great talk on the hot topic of #thyroid radiofrequency ablation by Dr Chelsea Baldwin @nyuendocrine. Lots of benefits &amp; uses...next step insurance coverage. #EndoTwitter https://x.com/DrPess/status/1326880379630985217/photo/1",
+   "lang": "en",
+   "createdAt": "2020-11-12T13:31:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "238772703",
+    "username": "DrPess",
+    "name": "Rachel Pessah-Pollack, M.D., F.A.C.E.",
+    "url": "https://x.com/DrPess",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1127691032286650370/LqU6sYnu_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1326880375910637568",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EmoGq_mXIAAMxip.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EmoGq_mXIAAMxip.jpg",
+     "width": 2048,
+     "height": 958,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "thyroid",
+     "EndoTwitter"
+    ],
+    "mentions": [
+     {
+      "id": "1315007859239911427",
+      "username": "nyuendocrine",
+      "name": "NYU Langone Health Endocrinology Clinical Research"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1103762364183310337",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1103762364183310337",
+   "url": "https://x.com/NASSspine/status/1103762364183310337",
+   "conversationId": "1103762364183310337",
+   "text": "NASS’ proposed Coverage Recommendations for Epidural Steroid Injections and Diagnostic Selective Nerve Root Blocks is now open for public comment thru 3/30/19. https://www.spine.org/PolicyPractice/CoverageRecommendations/AboutCoverageRecommendations.aspx",
+   "lang": "en",
+   "createdAt": "2019-03-07T21:00:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "108653971",
+    "username": "NASSspine",
+    "name": "NASS",
+    "url": "https://x.com/NASSspine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2067632145296654336/JJ-kH-kT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.spine.org/PolicyPractice/CoverageRecommendations/AboutCoverageRecommendations.aspx"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1289595963292688384",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1289595963292688384",
+   "url": "https://x.com/JBondira/status/1289595963292688384",
+   "conversationId": "1289591922659430401",
+   "text": "@ThomasKlineMD Now that I've given up hope of getting adequate opioid pain medication, and decided to agree to an invasive spinal cord stimulator, my insurance denied coverage after 2 appeals. I truly believe that America thinks pain is something you deserve, just like they do poverty.",
+   "lang": "en",
+   "createdAt": "2020-08-01T16:16:51.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1077976623260028929",
+    "username": "JBondira",
+    "name": "JoaneyBaloney🌊 🇺🇦 🌻 🟦💙",
+    "url": "https://x.com/JBondira",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1596191585347469312/Kk0NbKQn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1289591922659430401",
+    "userId": "2895908245",
+    "username": "ThomasKlineMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2895908245",
+      "username": "ThomasKlineMD",
+      "name": "Thomas Kline MD, PhD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1258865521803526152",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1258865521803526152",
+   "url": "https://x.com/RelievantMed/status/1258865521803526152",
+   "conversationId": "1258865521803526152",
+   "text": "Join Mary Hailey and Karen Bobbitt from our Reimbursement team for an overview of current policies on reimbursement, a review of our Patient Access Program, and tips &amp; tricks for how to work together to gain coverage for your Patients' Intracept procedure. https://bit.ly/2W8duhE https://x.com/RelievantMed/status/1258865521803526152/photo/1",
+   "lang": "en",
+   "createdAt": "2020-05-08T21:05:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "755218394446790656",
+    "username": "RelievantMed",
+    "name": "Intracept by Boston Scientific",
+    "url": "https://x.com/RelievantMed",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1838638125683277824/vRx0ijNv_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1258865519278596100",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EXhjhSCWoAQk9nj.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EXhjhSCWoAQk9nj.jpg",
+     "width": 1200,
+     "height": 627,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/2W8duhE"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1049414604244299776",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1049414604244299776",
+   "url": "https://x.com/bonehealthBHOF/status/1049414604244299776",
+   "conversationId": "1049414604244299776",
+   "text": "We wanted to share this coverage of a rare spinal surgery using balloons &amp; cement that helped an Arizona woman recover after falling while playing ping pong. Balloon Kyphoplasty can be used to treat repeat vertebral fractures due to osteoporosis : https://www.youtube.com/watch?v=BS_w3f99bHk.",
+   "lang": "en",
+   "createdAt": "2018-10-08T21:41:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "25344296",
+    "username": "bonehealthBHOF",
+    "name": "Bone Health & Osteoporosis Foundation",
+    "url": "https://x.com/bonehealthBHOF",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1876681930193649664/GlguO5vq_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.youtube.com/watch?v=BS_w3f99bHk"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1958785782413762788",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1958785782413762788",
+   "url": "https://x.com/AkzR255385/status/1958785782413762788",
+   "conversationId": "1958785779565830525",
+   "text": "Again start with the basics !!\n🔎 Step 1: Image Quality\n✅ Check positioning & alignment\n✅ Ensure STIR fat suppression\n✅ Verify full SI joint coverage\n✅ Look for motion artifacts\n\nBasic : \nT1 - for anatomy\nSTIR - for bone marrow edema\n\nClear images = accurate diagnosis! #MedicalImaging #\n[2/12]",
+   "lang": "en",
+   "createdAt": "2025-08-22T06:58:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1791912584674746369",
+    "username": "AkzR255385",
+    "name": "Rheuma TooLogist",
+    "url": "https://x.com/AkzR255385",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1939337443443937280/1oN1r4xa_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 2,
+    "views": 709
+   },
+   "replyTo": {
+    "tweetId": "1958785779565830525",
+    "userId": "1791912584674746369",
+    "username": "AkzR255385"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "MedicalImaging"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2039025932866822519",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2039025932866822519",
+   "url": "https://x.com/Market_Pathways/status/2039025932866822519",
+   "conversationId": "2039025932866822519",
+   "text": "Chronic low back pain is hard to treat, but targeted innovation is gaining traction. Intracept is nearing $200M in 2025 revenue with expanding coverage, showing how evidence and #reimbursement drive real #medtech growth: https://bit.ly/3O8vHt6 https://x.com/Market_Pathways/status/2039025932866822519/photo/1",
+   "lang": "en",
+   "createdAt": "2026-03-31T17:04:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1112868810376110081",
+    "username": "Market_Pathways",
+    "name": "Market Pathways | MedTech Regulatory & Policy",
+    "url": "https://x.com/Market_Pathways",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1491131645524652042/pOPZggf9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 84
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2038799606201679872",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HEtFcJfbgAA3UHb.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HEtFcJfbgAA3UHb.jpg",
+     "width": 1500,
+     "height": 751,
+     "altText": "Chronic low back pain is hard to treat, but targeted innovation is gaining traction. Intracept is nearing $200M in 2025 revenue with expanding coverage, showing how evidence and #reimbursement drive real #medtech growth: https://bit.ly/3O8vHt6",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "reimbursement",
+     "medtech"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3O8vHt6"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2034661927490621840",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2034661927490621840",
+   "url": "https://x.com/Market_Pathways/status/2034661927490621840",
+   "conversationId": "2034661927490621840",
+   "text": "Reimbursement can make or break a #medtech innovation. @bostonsci's Intracept has grown to ~$200M in revenue with coverage for 200M+ lives. See how a targeted #reimbursement strategy drove adoption: https://bit.ly/4sc2Qmp https://x.com/Market_Pathways/status/2034661927490621840/photo/1",
+   "lang": "en",
+   "createdAt": "2026-03-19T16:03:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1112868810376110081",
+    "username": "Market_Pathways",
+    "name": "Market Pathways | MedTech Regulatory & Policy",
+    "url": "https://x.com/Market_Pathways",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1491131645524652042/pOPZggf9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 57
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2033439105292611584",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HDg6F7dasAAUI5F.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HDg6F7dasAAUI5F.jpg",
+     "width": 1500,
+     "height": 828,
+     "altText": "Reimbursement can make or break a #medtech innovation. @bostonsci's Intracept has grown to ~$200M in revenue with coverage for 200M+ lives. See how a targeted #reimbursement strategy drove adoption: https://bit.ly/4sc2Qmp",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "medtech",
+     "reimbursement"
+    ],
+    "mentions": [
+     {
+      "id": "214210756",
+      "username": "bostonsci",
+      "name": "Boston Scientific"
+     }
+    ],
+    "urls": [
+     "https://bit.ly/4sc2Qmp"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2027213616559120825",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2027213616559120825",
+   "url": "https://x.com/ValerieBellTV/status/2027213616559120825",
+   "conversationId": "2027213616559120825",
+   "text": "Alabama teacher appeals BCBS denial of Intracept back procedure @abc3340 \n\nOur in-depth report here: https://abc3340.com/news/abc-3340-news-iteam/intracept-procedure-teacher-denied-coverage-chronic-back-pain-blue-cross-blue-shield-alabama-doctor-insurance",
+   "lang": "en",
+   "createdAt": "2026-02-27T02:46:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "4850214179",
+    "username": "ValerieBellTV",
+    "name": "Valerie Bell",
+    "url": "https://x.com/ValerieBellTV",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2057316893447340032/0G4xsJ34_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 156
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "13265132",
+      "username": "abc3340",
+      "name": "ABC 33/40 News"
+     }
+    ],
+    "urls": [
+     "https://abc3340.com/news/abc-3340-news-iteam/intracept-procedure-teacher-denied-coverage-chronic-back-pain-blue-cross-blue-shield-alabama-doctor-insurance"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1113054992322236416",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1113054992322236416",
+   "url": "https://x.com/dougbeall/status/1113054992322236416",
+   "conversationId": "1113054992322236416",
+   "text": "#Kyphoplasty denial by #BCBS resulted in a 3 week delay in treatment.  In the interim the patient died waiting...in pain.  The medical literature does not support a delay in this life-saving, life-prolonging treatment https://x.com/dougbeall/status/1113054992322236416/photo/1",
+   "lang": "en",
+   "createdAt": "2019-04-02T12:26:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 9,
+    "quotes": 1,
+    "likes": 21,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1113054900718637057",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/D3JdiPTXkAEQT4V.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/D3JdiPTXkAEQT4V.jpg",
+     "width": 1589,
+     "height": 1125,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Kyphoplasty",
+     "BCBS"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:711885601864220672",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "711885601864220672",
+   "url": "https://x.com/Health_Profiles/status/711885601864220672",
+   "conversationId": "711885601864220672",
+   "text": "Blue Cross Blue Shield of Michigan Announces Positive Coverage Policy for iFuse Implant System® MIS SI Joint Fusion http://dlvr.it/KrPv2F",
+   "lang": "en",
+   "createdAt": "2016-03-21T12:02:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "3131519945",
+    "username": "Health_Profiles",
+    "name": "Health|VBProfiles",
+    "url": "https://x.com/Health_Profiles",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/634850982468259840/7OjzDdm8_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://dlvr.it/KrPv2F"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1902108307952955853",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1902108307952955853",
+   "url": "https://x.com/Katamac1967/status/1902108307952955853",
+   "conversationId": "1902067203177865229",
+   "text": "@BobBarker2023 @SpeakPain2Power Steroids. Epidural steroid injections that are often forced into pts w/ pain. Often told if they don’t get them they’ll be denied what actually works for pain…opioids.",
+   "lang": "en",
+   "createdAt": "2025-03-18T21:22:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1377433902",
+    "username": "Katamac1967",
+    "name": "KᗩTᗩᗰᗩᑕ 🇺🇸🇳🇿🇨🇦 ✨⭐️✨⭐️✨⭐️",
+    "url": "https://x.com/Katamac1967",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1969458209254711296/_B4PsyNx_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 36
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1446913491546300423",
+      "username": "SpeakPain2Power",
+      "name": "PeopleInPain"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1650794108405809152",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1650794108405809152",
+   "url": "https://x.com/crystalshen6/status/1650794108405809152",
+   "conversationId": "1650794108405809152",
+   "text": "That hospital Oklahoma University Medical Center where Ani Kaspar was DEW-tortured to near death & apparently mistreated before being kicked out & put in a hospice to be denied any real care (just being highly drugged & readied for death) was one of the ones that settled in 2013 with the DOJ for false claims related to kyphoplasty they overbooked Medicare for by doing the procedures inpatient rather than outpatient. \nhttps://www.justice.gov/opa/pr/fifty-five-hospitals-pay-us-more-34-million-resolve-false-claims-act-allegations-related",
+   "lang": "en",
+   "createdAt": "2023-04-25T09:29:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "992463104213594114",
+    "username": "crystalshen6",
+    "name": "Crystal Shen",
+    "url": "https://x.com/crystalshen6",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1291858765613019137/8eSMR3sU_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 92
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1650794101309153282",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FujMfSXXoAIRFM5.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FujMfSXXoAIRFM5.jpg",
+     "width": 720,
+     "height": 615,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1650794105755123713",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FujMfi7XwAEyAX1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FujMfi7XwAEyAX1.jpg",
+     "width": 720,
+     "height": 848,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.justice.gov/opa/pr/fifty-five-hospitals-pay-us-more-34-million-resolve-false-claims-act-allegations-related"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2053934484307759584",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2053934484307759584",
+   "url": "https://x.com/Finsee_main/status/2053934484307759584",
+   "conversationId": "2053934484307759584",
+   "text": "$SIBN Q1 2026 earnings: Profitability Surges While Top-Line Growth Decelerates\n\nSI-BONE delivered a structurally profitable quarter in 26Q1, achieving a 440% YoY improvement in adjusted EBITDA ($2.5M) and an impressive 79.8% gross margin. Management confidently raised full-year gross margin guidance to ~79%. However, beneath the bottom-line strength lies a noticeable deceleration in revenue. Worldwide revenue grew 11.2% YoY to $52.6M, marking the fourth consecutive quarter of slowing growth (down from 24.9% in 25Q1). Achieving the raised FY26 revenue guidance of 14-16% will require a significant re-acceleration in the back half of the year, heavily dependent on new product launches like INTRA Ti and international market adoption.\n\nFull article with charts - link in bio\n\n🐂 𝐁𝐮𝐥𝐥 𝐂𝐚𝐬𝐞\n• 𝐆𝐫𝐨𝐬𝐬 𝐌𝐚𝐫𝐠𝐢𝐧 𝐃𝐞𝐟𝐢𝐞𝐬 𝐆𝐫𝐚𝐯𝐢𝐭𝐲 — Despite management's previous warnings that new product depreciation (like INTRA Ti and Smith & Nephew instrument sets) would drag margins down to 78%, Q1 delivered a robust 79.8%. This prompted an immediate upward revision to the FY26 gross margin target.\n• 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐮𝐫𝐧𝐚𝐫𝐨𝐮𝐧𝐝 — After a delayed regulatory rollout in Europe during FY25, International revenue is finally reversing trend, accelerating to 33.9% YoY growth in 26Q1, driven by the launch of iFuse TORQ TNT.\n\n🐻 𝐁𝐞𝐚𝐫 𝐂𝐚𝐬𝐞\n• 𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐭 𝐓𝐨𝐩-𝐋𝐢𝐧𝐞 𝐃𝐞𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐢𝐨𝐧 — Worldwide revenue growth has decelerated sequentially from 24.9% a year ago down to 11.2% today. The 'innovation super cycle' has yet to re-accelerate the overall growth rate.\n• 𝐁𝐚𝐜𝐤-𝐇𝐚𝐥𝐟 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐑𝐢𝐬𝐤 — FY26 revenue guidance implicitly requires a second-half acceleration. With Q1 OpEx growing only 4.1% against a full-year guide of 12.5%, the company will need to spend heavily to drive this upcoming volume, risking near-term EBITDA margins.\n\n⚖️ 𝐕𝐞𝐫𝐝𝐢𝐜𝐭: ⚪\nNeutral. The financial discipline and path to free cash flow generation are stellar. However, the persistent deceleration in revenue growth creates a 'show-me' story for the back half of the year. Investors must weigh excellent margin defense against slowing volume momentum.\n\n𝐊𝐞𝐲 𝐓𝐡𝐞𝐦𝐞𝐬\n\n🔴 𝐒𝐞𝐪𝐮𝐞𝐧𝐭𝐢𝐚𝐥 𝐃𝐞𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐓𝐨𝐩-𝐋𝐢𝐧𝐞 𝐆𝐫𝐨𝐰𝐭𝐡\nThe primary red flag in this report is the continued deceleration in revenue growth. U. S. revenue grew just 10.0% YoY, a sharp drop from the 26.6% growth reported in 25Q1. While absolute revenue dollars are higher, the growth rate has steadily decayed for four straight quarters. Management expects 14-16% growth for the full year, which means the current 11% trajectory must reverse and accelerate sharply in the coming quarters.\n\n🟢 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐑𝐞𝐯𝐞𝐫𝐬𝐢𝐧𝐠 𝐂𝐨𝐮𝐫𝐬𝐞 [NEW]\nInternational sales provided a much-needed bright spot. After sluggish ~10-12% growth rates in late FY25 due to European regulatory delays, International revenue jumped 33.9% YoY to $3.3 million. This acceleration is directly tied to the recent market introductions of iFuse TORQ TNT in Europe and iFuse TORQ in Australia, proving the international appetite for the company's newer form factors.\n\n🟢 𝐌𝐚𝐜𝐫𝐨 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝𝐬: 𝐂𝐌𝐒 𝐑𝐞𝐢𝐦𝐛𝐮𝐫𝐬𝐞𝐦𝐞𝐧𝐭 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 [NEW]\nA crucial catalyst for the Granite platform materialized: CMS proposed the creation of a new MS-DRG family in the FY2027 IPPS Proposed Rule. This will yield higher payments for hospitals supporting complex spinal fusion procedures using iFuse Bedrock Granite. Better hospital economics directly reduce friction for physician adoption.\n\n⚪ 𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐢𝐚𝐥 𝐅𝐨𝐨𝐭𝐩𝐫𝐢𝐧𝐭 𝐑𝐞𝐚𝐜𝐡𝐢𝐧𝐠 𝐒𝐜𝐚𝐥𝐞\nThe company's hybrid commercial model remains stable and highly productive. Active U. S. physicians grew 17% to over 1,650, while trailing 12-month average revenue per territory increased 11% to $2.2 million. The ability to simultaneously increase the physician base and extract more revenue per territory proves the cross-selling viability of the multi-product platform (SI joint, pelvic fixation, trauma).\n\n🔴 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐧𝐬𝐞 𝐈𝐦𝐛𝐚𝐥𝐚𝐧𝐜𝐞 𝐯𝐬. 𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞\nOperating expenses grew a modest 4.1% in Q1 (to $47.0M), allowing the company to post a strong $2.5M Adjusted EBITDA. However, management maintained its guidance for FY26 OpEx growth of ~12.5%. This heavily implies that spending will accelerate significantly in Q2-Q4 to support the commercial rollout with Smith & Nephew and the INTRA Ti launch, which could temporarily compress the EBITDA margins achieved this quarter.\n\n𝐎𝐭𝐡𝐞𝐫 𝐊𝐏𝐈𝐬\n\n𝐅𝐫𝐞𝐞 𝐂𝐚𝐬𝐡 𝐅𝐥𝐨𝐰 (𝟐𝟔𝐐𝟏): -$3.4 million\nCash burn is decelerating rapidly. While technically negative, this represents a 51% improvement from the -$7.0 million reported in 25Q1. Operating cash usage halved to -$2.4M, and CapEx dropped to -$1.1M. With $144.7M in total cash and equivalents, the balance sheet remains exceptionally strong without the need for near-term dilution.\n\n𝐆𝐫𝐨𝐬𝐬 𝐌𝐚𝐫𝐠𝐢𝐧 (𝟐𝟔𝐐𝟏): 79.8%\nStable. The gross margin profile proved highly resilient against prior concerns. In previous quarters, management warned of a medium-term structural step-down to ~76-78% due to non-cash depreciation from new instrument sets (like those needed for the Smith & Nephew partnership). Yet, 26Q1 posted 79.8%, leading to an upward revision in annual guidance.\n\n𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞\n\n𝐅𝐘𝟐𝟔 𝐖𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞 𝐑𝐞𝐯𝐞𝐧𝐮𝐞: $230.0M - $233.0M\nAccelerating vs current run-rate. The midpoint of $231.5M implies ~15% YoY growth. Because Q1 only grew 11.2%, management is explicitly relying on back-half acceleration driven by the Smith & Nephew partnership, INTRA Ti ramp, and favorable CMS decisions.\n\n𝐅𝐘𝟐𝟔 𝐆𝐫𝐨𝐬𝐬 𝐌𝐚𝐫𝐠𝐢𝐧: ~79.0%\nImproving. Raised from prior guidance of ~78.0%. This is a strong signal that manufacturing efficiencies and product mix (potentially higher ASP from complex cases) are outpacing the drag of depreciation from new instrument deployments.\n\n𝐅𝐘𝟐𝟔 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐄𝐱𝐩𝐞𝐧𝐬𝐞𝐬: ~12.5% growth\nAccelerating vs Q1. With Q1 OpEx up only 4.1%, the company is signaling that the bulk of its commercial and R&D investments will hit the P&L in the coming quarters.\n\n𝐊𝐞𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n𝐁𝐫𝐢𝐝𝐠𝐢𝐧𝐠 𝐭𝐡𝐞 𝐆𝐫𝐨𝐰𝐭𝐡 𝐆𝐚𝐩\nU. S. revenue growth stepped down to 10% in Q1. Given the FY guidance requires mid-teens growth, exactly how much of the expected back-half acceleration is dependent on the unproven Smith & Nephew partnership versus organic traction of INTRA Ti?\n\n𝐎𝐩𝐄𝐱 𝐏𝐡𝐚𝐬𝐢𝐧𝐠\nYou held OpEx growth to just 4.1% this quarter but maintained a 12.5% full-year guide. In which specific quarters should we expect this investment spike to hit, and is it primarily related to surgical tray CapEx/depreciation or direct headcount additions?\n\n𝐂𝐌𝐒 𝐏𝐫𝐨𝐩𝐨𝐬𝐚𝐥 𝐓𝐢𝐦𝐢𝐧𝐠\nRegarding the FY2027 IPPS Proposed Rule for a new MS-DRG family for Granite—how quickly do you anticipate hospitals adjusting their purchasing behavior ahead of the finalization, and is any of this upside modeled into the current 2026 guide?",
+   "lang": "en",
+   "createdAt": "2026-05-11T20:25:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1653727125759721472",
+    "username": "Finsee_main",
+    "name": "Finsee",
+    "url": "https://x.com/Finsee_main",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1653739062870540288/QML1T1zL_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 490
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2053934480990076928",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIEKhztXAAAvVMY.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIEKhztXAAAvVMY.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "SIBN"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1068942920991080448",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1068942920991080448",
+   "url": "https://x.com/UFOTL/status/1068942920991080448",
+   "conversationId": "1068942920991080448",
+   "text": "HealthPartners patients now have coverage for @RTISurgical’s SImmetry System, a minimally invasive sacroiliac (SI) joint fusion surgery. Read more about the @UF #startup and @UFSidMartinBio alum. http://ow.ly/DE3b50jOFxi https://x.com/UFOTL/status/1068942920991080448/photo/1",
+   "lang": "en",
+   "createdAt": "2018-12-01T19:00:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "54642275",
+    "username": "UFOTL",
+    "name": "UF Innovate | Tech Licensing",
+    "url": "https://x.com/UFOTL",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2015821284613959683/0EYQt_19_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1068942918755467264",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DtWl682WwAAO5L2.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DtWl682WwAAO5L2.jpg",
+     "width": 2000,
+     "height": 1335,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "startup"
+    ],
+    "mentions": [
+     {
+      "id": "44168607",
+      "username": "UF",
+      "name": "FLORIDA"
+     },
+     {
+      "id": "1482869125",
+      "username": "UFSidMartinBio",
+      "name": "UF Innovate | Accelerate @ Sid Martin Biotech"
+     }
+    ],
+    "urls": [
+     "http://ow.ly/DE3b50jOFxi"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1149356946782347265",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1149356946782347265",
+   "url": "https://x.com/Sarcastically1/status/1149356946782347265",
+   "conversationId": "1149038695036674048",
+   "text": "@MediBasket @fightpaindaily @CAW360 @arandamdphd @Angelsgal02 @Ted_LQ4L @JonelleElgaway I'm concerned for the #ChronicPain patients being denied #opioids while being told that they don't work for pain and #epidural #steroid #injection being the only treatment option available.",
+   "lang": "en",
+   "createdAt": "2019-07-11T16:37:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1171218056",
+    "username": "Sarcastically1",
+    "name": "𝚂𝚊𝚛𝚌𝚊𝚜𝚝𝚒𝚌𝚊𝚕𝚕𝚢 𝚁𝚎𝚊𝚛𝚛𝚊𝚗𝚐𝚎𝚍",
+    "url": "https://x.com/Sarcastically1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/969192307927822336/pwGSSGxb_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1149067476665131008",
+    "userId": "1717051610",
+    "username": "MediBasket"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "ChronicPain",
+     "opioids",
+     "epidural",
+     "steroid",
+     "injection"
+    ],
+    "mentions": [
+     {
+      "id": "1717051610",
+      "username": "MediBasket",
+      "name": "💫🌼DrMargaretAranda💫🌼🌻💫"
+     },
+     {
+      "id": "1084613831337410576",
+      "username": "fightpaindaily",
+      "name": "TameraLynn Stewart #P3A #WeFight4U b/c #PainSucks"
+     },
+     {
+      "id": "848928073529659396",
+      "username": "CAW360",
+      "name": "CAW360 NETWORK"
+     },
+     {
+      "id": "3588819612",
+      "username": "arandamdphd",
+      "name": "🙌🏼🙏🏼Dr. Margaret Aranda 🤗🍪"
+     },
+     {
+      "id": "3616682780",
+      "username": "Angelsgal02",
+      "name": "Peppermint  Patti"
+     },
+     {
+      "id": "3331326387",
+      "username": "Ted_LQ4L",
+      "name": "Ted Steranko Business Advisor & Health Advocate"
+     },
+     {
+      "id": "4874280016",
+      "username": "JonelleElgaway",
+      "name": "Jonelle Elgaway"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1816094461824503977",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1816094461824503977",
+   "url": "https://x.com/bzalma/status/1816094461824503977",
+   "conversationId": "1816094461824503977",
+   "text": "Guilty of Workers’ Compensation Fraud\n\nInflating On-The-Job Injury is Fraud\nPost 4841\nRead the full article at https://lnkd.in/g-7mcBEE, see the full video at https://lnkd.in/gYehF53V and at https://lnkd.in/gKgxYMa6 and at https://zalma.com/blog plus more than 4800 posts.\n\nA jury found Waliullah Nazari guilty of two counts of making false  and fraudulent statements for the purpose of obtaining workers’  compensation benefits and seven counts of attempted perjury under oath.\n\nIn The People v. Waliullah Nazari, D081940, California Court of  Appeals, Fourth District, First Division (July 18, 2024) the Court of  Appeals affirmed the conviction because surveillance proved Nazari had  lied to his physician and insurer.\n\nFACTUAL BACKGROUND\n\nIn January 2019, Nazari fell off a ladder at work rendering him  unconscious. Hospital records indicated he suffered a broad-based disc  herniation between vertebrae 4 and 5, with resulting bilateral/lateral  recess stenosis, and sciatica. Nazari submitted a workers’ compensation  claim to Liberty Mutual Insurance (Liberty Mutual) and received benefits  between January 5 and July 19 totaling $99,656.96.\n\nNazari’s treating physician recommended he receive an epidural  steroid injection but Nazari’s insurance company declined coverage.  Nazari saw an orthopedic surgeon for a second opinion about his need for  the injection. Among other things, Nazari told the orthopedic surgeon  that he needed a walker to stand and could not walk without using a  walker. After a physical examination, the orthopedic surgeon recommended  that Nazari receive the injection and follow-up with his treating  physician.\n\nTHE SUB ROSA INVESTIGATION\n\nOn April 11, a private investigator working for Liberty Mutual  conducted a recorded surveillance session and saw Nazari enter his car  and drive away. He saw Nazari return in the car, exit the car, and walk  without using a walker and with a normal gait. Later that day, he saw  Nazari walk unassisted to a car, remove a folding aluminum walker from  the trunk, assemble the walker, and then carry the walker out of view. A  few minutes later, he observed Nazari walking slowly with a walker for  support to a medical transport van where the driver assisted him into  the van. When the van returned to the residence, the investigator  watched as Nazari used the walker to slowly ambulate up the driveway and  out of view. Nazari was later videotaped carrying a small child in his  arms, assisting the child into a vehicle, and driving away.\n\nLiberty Mutual deposed Nazari during the time between the video  surveillance sessions and saw conditions different than shown during  surveillance. During his second deposition, Nazari claimed, among other  things, that he was unable to carry his child and could not drive  because he used a walker.\n\nLiberty Mutual closed the investigation and, as required by  California statute and regulations, reported the matter to the local  District Attorney’s Office and California Department of Insurance.\n\nDISCUSSION\n\nThe People alleged that Nazari falsely or fraudulently told the  orthopedic surgeon on April 1 that he “cannot walk without his walker”  (count 1) and “cannot stand without his walker” (count 2).\n\nAPPELLATE CLAIMS\n\nTo determine the sufficiency of the evidence, courts review the  entire record in the light most favorable to the prosecution to  determine whether it contains evidence that is reasonable, credible and  of solid value, from which a rational trier of fact could find that the  elements of the crime were established beyond a reasonable doubt. Nazari  contends the sub rosa videos of him walking and standing without the  use of a walker after his April 1 visit do not show the falsity of his  statements on April 1 because the orthopedic surgeon observed symptoms  consistent with a back injury and he presumably received relief from the  epidural injection.\n\nThere was no evidence in the record to support Nazari’s contention he  received an epidural injection before he was subject to surveillance.  Second, the orthopedic surgeon relied on Nazari being truthful when  forming his conclusions.\n\nSurveillance video taken on four subsequent dates showed Nazari  walking normally and standing without the assistance of a walker. On two  occasions, Nazari walked without the walker and then, minutes later, he  required the assistance of a walker when transportation arrived to pick  him up.\n\nFrom the videos, the jury could reasonably conclude Nazari  misrepresented his pain level, faked reliance on the walker during his  physical examination, and falsely told the orthopedic surgeon that he  required a walker to stand or walk.\n\nThe Court of Appeals concluded that the jury reasonably concluded  that Nazari’s statements to the orthopedic surgeon were made for the  purposes of obtaining workers’ compensation benefits. Accordingly,  substantial evidence supported Nazari’s two convictions for workers’  compensation fraud under section 1871.4, subdivision (a)(1).\n\nZALMA OPINION\n\nRegardless of the fact that the trial court suspended imposition of  sentence and placed Nazari on probation for two years, sentenced him to  365 days in jail as a condition of probation, stayed pending successful  completion of probation, and ordered him to pay restitution totaling  $53,879.44 at $100 per month he filed this spurious appeal. People who  commit fraud, in my experience, are astounded that they did not succeed  and have gained enough from their crime to pursue a spurious appeal. The  Court of Appeal should have reversed the sentence and made him spend  the 365 days in jail.\n\n(c) 2024 Barry Zalma & ClaimSchool, Inc.\n\nPlease tell your friends and colleagues about this blog and the videos and let them subscribe to the blog and the videos.\n\nSubscribe to my substack at https://barryzalma.substack.com/subscribe or Subscribe to my substack at https://lnkd.in/gmmzUVBy\n\nGo to X @bzalma; Go to http://Newsbreak.com https://www.newsbreak.com/@c/1653419?s=01; Go to Barry Zalma videos at http://Rumble.com at https://rumble.com/account/content?type=all; Go to Barry Zalma on YouTube- https://www.youtube.com/channel/UCysiZklEtxZsSF9DfC0Expg\n\nGo to the Insurance Claims Library – https://lnkd.in/gwEYk",
+   "lang": "en",
+   "createdAt": "2024-07-24T12:53:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "473253279",
+    "username": "bzalma",
+    "name": "Barry Zalma, Esq., CFE",
+    "url": "https://x.com/bzalma",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1928172651899670530/m44ALzvr_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 97
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1816094450646671363",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GTQQR-FaYAMEtU3.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GTQQR-FaYAMEtU3.jpg",
+     "width": 800,
+     "height": 800,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "473253279",
+      "username": "bzalma",
+      "name": "Barry Zalma, Esq., CFE"
+     }
+    ],
+    "urls": [
+     "https://lnkd.in/g-7mcBEE",
+     "https://lnkd.in/gYehF53V",
+     "https://lnkd.in/gKgxYMa6",
+     "https://zalma.com/blog",
+     "https://barryzalma.substack.com/subscribe",
+     "https://lnkd.in/gmmzUVBy",
+     "http://newsbreak.com/",
+     "https://www.newsbreak.com/@c/1653419?s=01",
+     "http://rumble.com/",
+     "https://rumble.com/account/content?type=all",
+     "https://www.youtube.com/channel/UCysiZklEtxZsSF9DfC0Expg",
+     "https://lnkd.in/gwEYk"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1267886776984539136",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1267886776984539136",
+   "url": "https://x.com/CSAHQ/status/1267886776984539136",
+   "conversationId": "1267886776984539136",
+   "text": "CSA, along with 12 other medical societies including @ASALifeline, recently signed onto a joint statement requesting CMS to avoid reducing reimbursement for lumbar facet radiofrequency ablation procedures – the “backbone” of many pain practices. Thanks to @ShaliniShahMD.",
+   "lang": "en",
+   "createdAt": "2020-06-02T18:32:18.000Z",
+   "type": "quote",
+   "author": {
+    "id": "196792097",
+    "username": "CSAHQ",
+    "name": "CSA",
+    "url": "https://x.com/CSAHQ",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1666522613345304577/E7-hsnnM_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1267861473033768961",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "2796571794",
+      "username": "ShaliniShahMD",
+      "name": "Shalini Shah"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1872666311056293927",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1872666311056293927",
+   "url": "https://x.com/Oghma_EM/status/1872666311056293927",
+   "conversationId": "1872666311056293927",
+   "text": "So after injury doing Jiu Jitsu to my SI joint my doctor prescribed physical therapy before I am able to get an MRI to take a look at it. (The X-ray showed no breaks)\n\nWhich my insurance just denied was medically necessary. So now I am having to cancel PT to get the MRI.\n\nHurray",
+   "lang": "en",
+   "createdAt": "2024-12-27T15:30:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1218110246331342849",
+    "username": "Oghma_EM",
+    "name": "Oghma",
+    "url": "https://x.com/Oghma_EM",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2018362679639838720/nbLX9_c-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 245
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1261127167431360512",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1261127167431360512",
+   "url": "https://x.com/RelievantMed/status/1261127167431360512",
+   "conversationId": "1261127167431360512",
+   "text": "Don't miss next Tuesday's webinar for an overview of current policies regarding reimbursement and a review of our Patient Access Program, helping your patients secure coverage for their Intracept Procedure. https://bit.ly/2SAy87B https://x.com/RelievantMed/status/1261127167431360512/photo/1",
+   "lang": "en",
+   "createdAt": "2020-05-15T02:52:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "755218394446790656",
+    "username": "RelievantMed",
+    "name": "Intracept by Boston Scientific",
+    "url": "https://x.com/RelievantMed",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1838638125683277824/vRx0ijNv_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1261127165145473025",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EYBseZcXYAEziZP.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EYBseZcXYAEziZP.jpg",
+     "width": 1200,
+     "height": 627,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/2SAy87B"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:605402393451200514",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "605402393451200514",
+   "url": "https://x.com/iOrthopedics/status/605402393451200514",
+   "conversationId": "605402393451200514",
+   "text": "//NM - North American Spine Society issues formal coverage recommendation for MIS SI joint fusion http://bit.ly/1BCZCIf",
+   "lang": "en",
+   "createdAt": "2015-06-01T15:55:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "100309875",
+    "username": "iOrthopedics",
+    "name": "J VBV",
+    "url": "https://x.com/iOrthopedics",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/940541880/MBP-iOrthopedics_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/1BCZCIf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1534260739279560705",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1534260739279560705",
+   "url": "https://x.com/SeptembersRain/status/1534260739279560705",
+   "conversationId": "1534260739279560705",
+   "text": "Pain management told me my insurance probably won’t pay for a spinal cord stimulator (DRG actually) but we’re appealing their denial. Today I weighed in at 100 lbs though sheer will. It’ll all be for nothing if they keep denying me. My insurance would prefer me dead.",
+   "lang": "en",
+   "createdAt": "2022-06-07T19:47:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "34053771",
+    "username": "SeptembersRain",
+    "name": "꧁ᬊᬁ𝓛𝓾𝓬𝓲𝓪ᬊ᭄꧂",
+    "url": "https://x.com/SeptembersRain",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2100201547191783424/Vmr9zhUU_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1225120947524505600",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1225120947524505600",
+   "url": "https://x.com/BrianSachs/status/1225120947524505600",
+   "conversationId": "1225120947524505600",
+   "text": "Had 3 denies from @UHC in the last 3 days. Hospitalization for compression fx (\"broken\" spine, very painful) was denied because ortho wasn't consulted for kyphoplasty. (??, not a candidate anyway)\n\nThis is what corporate practice of medicine looks like IRL.",
+   "lang": "en",
+   "createdAt": "2020-02-05T18:16:10.000Z",
+   "type": "quote",
+   "author": {
+    "id": "45274667",
+    "username": "BrianSachs",
+    "name": "Brian Sachs, MD",
+    "url": "https://x.com/BrianSachs",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1622772658889687041/O9w4HeZb_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 9,
+    "quotes": 3,
+    "likes": 32,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1612017650577678339",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1612017650577678339",
+   "url": "https://x.com/Famester26/status/1612017650577678339",
+   "conversationId": "1611340034082209797",
+   "text": "@eileendove910 @ibdgirl76 @CMerandi My wife broke her back in a fall. She  previously had a triple pelvic fracture. She was ultimately diagnosed with osteoporosis. She was denied adequate pain meds after leaving  hospital. After complaining, Trauma doc gave her Tramadol for 2 weeks Eventually had kyphoplasty 1of2",
+   "lang": "en",
+   "createdAt": "2023-01-08T09:25:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "249909340",
+    "username": "Famester26",
+    "name": "Fred",
+    "url": "https://x.com/Famester26",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/812706526473449472/md5GCIBn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 91
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "928755000007897093",
+      "username": "ibdgirl76",
+      "name": "Bev Schechtman🇮🇱"
+     },
+     {
+      "id": "942202693015220224",
+      "username": "CMerandi",
+      "name": "Claudia A. Merandi"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1997029900654670071",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1997029900654670071",
+   "url": "https://x.com/ajhwood1961/status/1997029900654670071",
+   "conversationId": "1995907729290870824",
+   "text": "@E917ion @EpsteinJd33577 @FoxNews I hate it! Right now I’m dealing with severe spinal stenosis and spondylitis with radiculopathy. Had a fusion in 2009 at L5-S1. My doctor wanted an MRI and an epidural steroid injection and my insurance denied it saying I’d have to go through 12 PT sessions first",
+   "lang": "en",
+   "createdAt": "2025-12-05T19:46:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1878902116120403968",
+    "username": "ajhwood1961",
+    "name": "Just_Anita",
+    "url": "https://x.com/ajhwood1961",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2007224520491343872/lfd6GmTD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 24
+   },
+   "replyTo": {
+    "tweetId": "1997022954169815419",
+    "userId": "2976754798",
+    "username": "E917ion"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2976754798",
+      "username": "E917ion",
+      "name": "Christian Herz-Kasper"
+     },
+     {
+      "id": "1954984609638502400",
+      "username": "EpsteinJd33577",
+      "name": "JD Epstein"
+     },
+     {
+      "id": "1367531",
+      "username": "FoxNews",
+      "name": "Fox News"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1082685995672309761",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1082685995672309761",
+   "url": "https://x.com/RelievantMed/status/1082685995672309761",
+   "conversationId": "1082685995672309761",
+   "text": "Relievant Announces Reimbursement Codes and APC Assignment for The Intracept Procedure. Read the full press release: https://bit.ly/2AzYaPF https://x.com/RelievantMed/status/1082685995672309761/photo/1",
+   "lang": "en",
+   "createdAt": "2019-01-08T17:10:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "755218394446790656",
+    "username": "RelievantMed",
+    "name": "Intracept by Boston Scientific",
+    "url": "https://x.com/RelievantMed",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1838638125683277824/vRx0ijNv_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1082685992845434882",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DwZ5LJbX4AIu21d.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DwZ5LJbX4AIu21d.jpg",
+     "width": 1200,
+     "height": 627,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/2AzYaPF"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1666490875432583168",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1666490875432583168",
+   "url": "https://x.com/MedTechStrat/status/1666490875432583168",
+   "conversationId": "1666490875432583168",
+   "text": "After more than 10 years from trial initiation, and five and a half years from launch, in January 2022, Intracept received two permanent category 1 #CPT codes. These codes have begun to pave the way for positive coverage decisions from payors (see Fig 2): https://bit.ly/43uDvHR https://x.com/MedTechStrat/status/1666490875432583168/photo/1",
+   "lang": "en",
+   "createdAt": "2023-06-07T17:02:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "4769527298",
+    "username": "MedTechStrat",
+    "name": "MedTech Strategist | MedTech's Most Trusted Source",
+    "url": "https://x.com/MedTechStrat",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1478797863018713095/UEFMiwwz_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 334
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1666490636667609102",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FyCQZ5QWYA4XBwm.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FyCQZ5QWYA4XBwm.jpg",
+     "width": 2273,
+     "height": 1778,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "CPT"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/43uDvHR"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

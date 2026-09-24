@@ -61,11 +61,24 @@ ContentStance = Literal["seeking", "supplying", "neutral", "mixed"]
 SeekingLevel = Literal["L0", "L1", "L2", "L3"]
 
 
+RelevanceStatus = Literal["clearly_relevant", "ambiguous"]
+RelevanceMethod = Literal["rules", "llm", "fallback"]
+
+
 class Step1Relevance(BaseModel):
-    """Is this RCM/healthcare-business-operations relevant at all?"""
+    """Is this RCM/healthcare-business-operations relevant at all?
+
+    relevance_status is the rule gate's verdict and has only two values --
+    there is deliberately no "clearly_irrelevant". An ambiguous record is
+    resolved by the LLM (or, if the LLM is unavailable, the legacy NLI check);
+    rcm_relevant carries that final answer. relevance_status/relevance_method
+    are trace-only -- the DB stores rcm_relevant + confidence as before.
+    """
 
     rcm_relevant: bool
     rcm_relevance_confidence: float
+    relevance_status: RelevanceStatus = "clearly_relevant"
+    relevance_method: RelevanceMethod = "rules"
 
 
 class Step2ProblemEvidence(BaseModel):
@@ -109,6 +122,57 @@ class Step4Context(BaseModel):
     # /pipeline/explain and for future traceability.
     stance_source: Optional[str] = None
     seeking_source: Optional[str] = None
+
+
+class Step2Semantic(BaseModel):
+    """Semantic Problem & Intent Analysis -- one LLM call that replaces the old
+    separate Problem Evidence and Speaker/Stance/Seeking stages.
+
+    Classifies the CURRENT post only; a parent post is context, never the
+    source of evidence_quote. The adapters below project it back onto the
+    Step2ProblemEvidence / Step4Context shapes that Step 5, v1/v2 scoring and
+    the persisted row already consume, so nothing downstream changes.
+
+    problem_current / problem_recurring / operational_impact are trace-only:
+    scoring keeps reading its own lexicon markers for those.
+    """
+
+    problem_evidence: bool
+    problem_current: bool = False
+    problem_recurring: bool = False
+    first_person: bool
+    operational_impact: bool = False
+    speaker_type: SpeakerType = "unknown"
+    content_stance: ContentStance
+    seeking_level: Optional[SeekingLevel] = None
+    evidence_quote: Optional[str] = None
+    problem_confidence: float
+    speaker_confidence: Optional[float] = None
+    stance_confidence: Optional[float] = None
+    seeking_confidence: Optional[float] = None
+    # "llm", or "fallback" when the LLM was unavailable / returned unusable
+    # output and the legacy rule+NLI stages produced these values instead.
+    semantic_source: Literal["llm", "fallback"]
+
+    def to_problem_evidence(self) -> "Step2ProblemEvidence":
+        return Step2ProblemEvidence(
+            problem_evidence=self.problem_evidence,
+            first_person=self.first_person,
+            problem_confidence=self.problem_confidence,
+            evidence_candidate=self.evidence_quote,
+        )
+
+    def to_context(self) -> "Step4Context":
+        return Step4Context(
+            speaker_type=self.speaker_type,
+            content_stance=self.content_stance,
+            seeking_level=self.seeking_level,
+            speaker_confidence=self.speaker_confidence,
+            stance_confidence=self.stance_confidence,
+            seeking_confidence=self.seeking_confidence,
+            stance_source=self.semantic_source,
+            seeking_source=self.semantic_source if self.seeking_level is not None else None,
+        )
 
 
 class Step5Evidence(BaseModel):

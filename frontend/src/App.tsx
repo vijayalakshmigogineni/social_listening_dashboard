@@ -1,4 +1,5 @@
 import { NavLink, Route, Routes } from 'react-router-dom'
+import { DataCollection } from './pages/DataCollection'
 import { Explorer } from './pages/Explorer'
 import { Overview } from './pages/Overview'
 import { PipelineDebug } from './pages/PipelineDebug'
@@ -14,6 +15,7 @@ export default function App() {
             Overview
           </NavLink>
           <NavLink to="/explorer">All Signals</NavLink>
+          <NavLink to="/collect">Data Collection</NavLink>
           <NavLink to="/debug">Pipeline / Debug</NavLink>
         </nav>
       </header>
@@ -22,6 +24,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Overview />} />
           <Route path="/explorer" element={<Explorer />} />
+          <Route path="/collect" element={<DataCollection />} />
           <Route path="/posts/:source/:sourceItemId" element={<PostDetail />} />
           <Route path="/pipeline/:source/:sourceItemId" element={<PipelineDebug />} />
           <Route path="/debug" element={<DebugLanding />} />

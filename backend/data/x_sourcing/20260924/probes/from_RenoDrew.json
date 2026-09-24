@@ -1,0 +1,1752 @@
+{
+ "key": "from_RenoDrew",
+ "query": "from:RenoDrew lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102881083734007851",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102881083734007851",
+   "url": "https://x.com/RenoDrew/status/2102881083734007851",
+   "conversationId": "2102853021571088649",
+   "text": "@IffyTheDopester I remember driving back from roadtrips out west.  When we could start hearing Ernie at night probably in Iowa or so, we knew we were getting closer to home",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:01:34.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 26
+   },
+   "replyTo": {
+    "tweetId": "2102853021571088649",
+    "userId": "1160991529323782144",
+    "username": "IffyTheDopester"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1160991529323782144",
+      "username": "IffyTheDopester",
+      "name": "Iffy The Dopester"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102868779327975777",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102868779327975777",
+   "url": "https://x.com/RenoDrew/status/2102868779327975777",
+   "conversationId": "2102841331970445752",
+   "text": "@ChefReactions Oh no- sorry to hear it.  That's so tough",
+   "lang": "en",
+   "createdAt": "2026-09-23T21:12:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 20
+   },
+   "replyTo": {
+    "tweetId": "2102841331970445752",
+    "userId": "1545028992679518209",
+    "username": "ChefReactions"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1545028992679518209",
+      "username": "ChefReactions",
+      "name": "Chef Reactions"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102819402332950782",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102819402332950782",
+   "url": "https://x.com/RenoDrew/status/2102819402332950782",
+   "conversationId": "2102769580888211622",
+   "text": "@northwoods1980 Mayo has been like that for a while.  I remember in residency, the residents who did med school at Mayo were wicked smart but didn't have any procedural skills since Mayo had teams of staff do to all of that",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:56:28.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 468
+   },
+   "replyTo": {
+    "tweetId": "2102769580888211622",
+    "userId": "252133117",
+    "username": "northwoods1980"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "252133117",
+      "username": "northwoods1980",
+      "name": "RJ"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102806597189951838",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102806597189951838",
+   "url": "https://x.com/RenoDrew/status/2102806597189951838",
+   "conversationId": "2102798521753829414",
+   "text": "@fammedfeisty @aafp I say this because the president of my state's \"physician wellness\" coalition is also an @Optum  doctor who terminated Optum's contract with my office and displaced over 100 senior patients from their primary care home because I spoke up.   https://www.wsj.com/health/healthcare/unitedhealth-medicare-payments-doctors-c2a343db",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:05:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 210
+   },
+   "replyTo": {
+    "tweetId": "2102805797050921117",
+    "userId": "1493286566",
+    "username": "RenoDrew"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "372323479",
+      "username": "fammedfeisty",
+      "name": "Douglas Henley, MD, FAAFP"
+     },
+     {
+      "id": "14500190",
+      "username": "aafp",
+      "name": "AAFP"
+     },
+     {
+      "id": "318007077",
+      "username": "Optum",
+      "name": "Optum"
+     }
+    ],
+    "urls": [
+     "https://www.wsj.com/health/healthcare/unitedhealth-medicare-payments-doctors-c2a343db"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102805797050921117",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102805797050921117",
+   "url": "https://x.com/RenoDrew/status/2102805797050921117",
+   "conversationId": "2102798521753829414",
+   "text": "@fammedfeisty Here's irony.  The same company causing physician burnout funded a project with the @aafp to reduce it.  Why is the AAFP working with companies like this? https://www.unitedhealthgroup.com/newsroom/2020/2020-10-06-united-health-foundation-partnership-439920.html",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:02:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 124
+   },
+   "replyTo": {
+    "tweetId": "2102798521753829414",
+    "userId": "372323479",
+    "username": "fammedfeisty"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "372323479",
+      "username": "fammedfeisty",
+      "name": "Douglas Henley, MD, FAAFP"
+     },
+     {
+      "id": "14500190",
+      "username": "aafp",
+      "name": "AAFP"
+     }
+    ],
+    "urls": [
+     "https://www.unitedhealthgroup.com/newsroom/2020/2020-10-06-united-health-foundation-partnership-439920.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102770357560307798",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102770357560307798",
+   "url": "https://x.com/RenoDrew/status/2102770357560307798",
+   "conversationId": "2102711288098951190",
+   "text": "@DigbyJon @WendellPierce I'd watch that in a second https://x.com/RenoDrew/status/2102770357560307798/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:41:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 7
+   },
+   "replyTo": {
+    "tweetId": "2102738704716480933",
+    "userId": "27869328",
+    "username": "DigbyJon"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102770349016584192",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HS6KfdFbkAADhmp.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HS6KfdFbkAADhmp.jpg",
+     "width": 424,
+     "height": 318,
+     "altText": "The Wire Omar GIF",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "27869328",
+      "username": "DigbyJon",
+      "name": "Jonathan Daley"
+     },
+     {
+      "id": "247114704",
+      "username": "WendellPierce",
+      "name": "Wendell Pierce"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102753076121850256",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102753076121850256",
+   "url": "https://x.com/RenoDrew/status/2102753076121850256",
+   "conversationId": "2102661304716537982",
+   "text": "@NBTiller @amazon I'm so tired of the crap.  One of my friends got a bot attack on Facebook yesterday after posting he got his flu/covid shots",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:32:55.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2102661304716537982",
+    "userId": "192601290",
+    "username": "NBTiller"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "192601290",
+      "username": "NBTiller",
+      "name": "Nick Tiller, Ph.D."
+     },
+     {
+      "id": "20793816",
+      "username": "amazon",
+      "name": "Amazon"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102747915227918476",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102747915227918476",
+   "url": "https://x.com/RenoDrew/status/2102747915227918476",
+   "conversationId": "2102731019535462573",
+   "text": "@NeverTriggered1 @DrOzCMS @WHFraudTF The fraud is being perpetrated by insurance companies, but Dr. Oz and this administration turn a blind eye to this. https://www.wsj.com/health/healthcare/unitedhealth-medicare-payments-doctors-c2a343db",
+   "lang": "en",
+   "createdAt": "2026-09-23T13:12:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 43
+   },
+   "replyTo": {
+    "tweetId": "2102738525422866798",
+    "userId": "65240948",
+    "username": "NeverTriggered1"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "65240948",
+      "username": "NeverTriggered1",
+      "name": "JT"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "2051754537367588872",
+      "username": "WHFraudTF",
+      "name": "White House Task Force to Eliminate Fraud"
+     }
+    ],
+    "urls": [
+     "https://www.wsj.com/health/healthcare/unitedhealth-medicare-payments-doctors-c2a343db"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102588945053946005",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102588945053946005",
+   "url": "https://x.com/RenoDrew/status/2102588945053946005",
+   "conversationId": "2102461857449803875",
+   "text": "@BlueBarronPhoto @BriceMarich The punting photos could be incredible",
+   "lang": "en",
+   "createdAt": "2026-09-23T02:40:43.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 20
+   },
+   "replyTo": {
+    "tweetId": "2102473539756646858",
+    "userId": "762936258",
+    "username": "BlueBarronPhoto"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "762936258",
+      "username": "BlueBarronPhoto",
+      "name": "Patrick Barron 🐻〽️"
+     },
+     {
+      "id": "109947000",
+      "username": "BriceMarich",
+      "name": "Brice Marich"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102520903653527980",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102520903653527980",
+   "url": "https://x.com/RenoDrew/status/2102520903653527980",
+   "conversationId": "2102517009669865645",
+   "text": "@pgipe Yep- no efforts to fix this https://www.grassley.senate.gov/news/news-releases/grassley-report-details-unitedhealths-record-of-appearing-to-game-the-medicare-advantage-system-turning-risk-adjustment-into-its-own-business",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:10:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 56
+   },
+   "replyTo": {
+    "tweetId": "2102517009669865645",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     }
+    ],
+    "urls": [
+     "https://www.grassley.senate.gov/news/news-releases/grassley-report-details-unitedhealths-record-of-appearing-to-game-the-medicare-advantage-system-turning-risk-adjustment-into-its-own-business"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102520834103676943",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102520834103676943",
+   "url": "https://x.com/RenoDrew/status/2102520834103676943",
+   "conversationId": "2102474852053471233",
+   "text": "@DrOzCMS @VP @WHFraudTF @AFergusonFTC Fix this https://www.grassley.senate.gov/news/news-releases/grassley-report-details-unitedhealths-record-of-appearing-to-game-the-medicare-advantage-system-turning-risk-adjustment-into-its-own-business",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:10:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 28
+   },
+   "replyTo": {
+    "tweetId": "2102474852053471233",
+    "userId": "1879946117544128512",
+    "username": "DrOzCMS"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "1879652428490149888",
+      "username": "VP",
+      "name": "Vice President JD Vance"
+     },
+     {
+      "id": "2051754537367588872",
+      "username": "WHFraudTF",
+      "name": "White House Task Force to Eliminate Fraud"
+     },
+     {
+      "id": "1807820819776917510",
+      "username": "AFergusonFTC",
+      "name": "Andrew Ferguson"
+     }
+    ],
+    "urls": [
+     "https://www.grassley.senate.gov/news/news-releases/grassley-report-details-unitedhealths-record-of-appearing-to-game-the-medicare-advantage-system-turning-risk-adjustment-into-its-own-business"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102448724891078962",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102448724891078962",
+   "url": "https://x.com/RenoDrew/status/2102448724891078962",
+   "conversationId": "2102093006514049265",
+   "text": "@katconrad56 @BusyDrT It's pretty interesting that the kids who died of those diseases can't post on Twitter now",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:23:32.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": {
+    "tweetId": "2102397578243375470",
+    "userId": "1511946760062529538",
+    "username": "katconrad56"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1511946760062529538",
+      "username": "katconrad56",
+      "name": "katrina conrad"
+     },
+     {
+      "id": "35013035",
+      "username": "BusyDrT",
+      "name": "Dr Sherri Tenpenny"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102448468455457254",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102448468455457254",
+   "url": "https://x.com/RenoDrew/status/2102448468455457254",
+   "conversationId": "2102093006514049265",
+   "text": "@BusyDrT Ebola has a RO of 2.   Measles is 12-18.  You do the math",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:22:31.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 94
+   },
+   "replyTo": {
+    "tweetId": "2102093006514049265",
+    "userId": "35013035",
+    "username": "BusyDrT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "35013035",
+      "username": "BusyDrT",
+      "name": "Dr Sherri Tenpenny"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102409881198399578",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102409881198399578",
+   "url": "https://x.com/RenoDrew/status/2102409881198399578",
+   "conversationId": "2102236148592709890",
+   "text": "@maolesen Optum terminated its MA contract with my office for \"business reasons.\"  The issue was that I told them their quality system, which incentivized overcoding HCC codes, was perverse.  The irony is that their medical director also heads up our state physician wellness org",
+   "lang": "en",
+   "createdAt": "2026-09-22T14:49:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": {
+    "tweetId": "2102236148592709890",
+    "userId": "35345127",
+    "username": "maolesen"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "35345127",
+      "username": "maolesen",
+      "name": "Michael Olesen 💉😷🇺🇸🇺🇦"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102135112146227478",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102135112146227478",
+   "url": "https://x.com/RenoDrew/status/2102135112146227478",
+   "conversationId": "2102125067878400287",
+   "text": "@MichFootballBEL I grew up a Michigan fan and always felt like our team had a weakness and could lose a game.....except for the 1997 team with that defense.",
+   "lang": "en",
+   "createdAt": "2026-09-21T20:37:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 24
+   },
+   "replyTo": {
+    "tweetId": "2102125067878400287",
+    "userId": "1683198721679294464",
+    "username": "MichFootballBEL"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1683198721679294464",
+      "username": "MichFootballBEL",
+      "name": "Jake B 〽️"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102125753941049578",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102125753941049578",
+   "url": "https://x.com/RenoDrew/status/2102125753941049578",
+   "conversationId": "2102118644528603320",
+   "text": "@BarbMcQuade @IffyTheDopester I was just thinking the same thing!",
+   "lang": "en",
+   "createdAt": "2026-09-21T20:00:10.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2102122528722309483",
+    "userId": "20094409",
+    "username": "BarbMcQuade"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "20094409",
+      "username": "BarbMcQuade",
+      "name": "Barb McQuade"
+     },
+     {
+      "id": "1160991529323782144",
+      "username": "IffyTheDopester",
+      "name": "Iffy The Dopester"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101770208893661497",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101770208893661497",
+   "url": "https://x.com/RenoDrew/status/2101770208893661497",
+   "conversationId": "2101753927339278426",
+   "text": "@JumboElliott76 I did research on gambling addiction back in the 90's and some of my family med faculty were questioning why I was worried about it.  A couple of them have reached out to me to tell me I was on to something",
+   "lang": "en",
+   "createdAt": "2026-09-20T20:27:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 122
+   },
+   "replyTo": {
+    "tweetId": "2101753927339278426",
+    "userId": "3442699455",
+    "username": "JumboElliott76"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3442699455",
+      "username": "JumboElliott76",
+      "name": "Jumbo Elliott"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101696845668086246",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101696845668086246",
+   "url": "https://x.com/RenoDrew/status/2101696845668086246",
+   "conversationId": "2101659455020781654",
+   "text": "@HeartOTXHeartMD @BKRBusinessMin Agree 100%.  I see a lot of them start in primary care to build a foundation, then move into specialty care.  More pay/fewer headaches",
+   "lang": "en",
+   "createdAt": "2026-09-20T15:35:50.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 114
+   },
+   "replyTo": {
+    "tweetId": "2101671920181637290",
+    "userId": "1177718582",
+    "username": "HeartOTXHeartMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1177718582",
+      "username": "HeartOTXHeartMD",
+      "name": "John P Erwin III MD MBA MACC (#BigPoppy )"
+     },
+     {
+      "id": "1613586957329731623",
+      "username": "BKRBusinessMin",
+      "name": "Scott Becker"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101696617300791649",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101696617300791649",
+   "url": "https://x.com/RenoDrew/status/2101696617300791649",
+   "conversationId": "2101659455020781654",
+   "text": "@BKRBusinessMin Not seeing it.  I see a lot of PA/APRNs starting in primary care but then deciding to go to specialty care.   Better pay, fewer headaches for them",
+   "lang": "en",
+   "createdAt": "2026-09-20T15:34:55.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 260
+   },
+   "replyTo": {
+    "tweetId": "2101659455020781654",
+    "userId": "1613586957329731623",
+    "username": "BKRBusinessMin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1613586957329731623",
+      "username": "BKRBusinessMin",
+      "name": "Scott Becker"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101340135241781464",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101340135241781464",
+   "url": "https://x.com/RenoDrew/status/2101340135241781464",
+   "conversationId": "2101325338508656911",
+   "text": "@BradGalli 1) Barefoot!  2) He better be buying drinks for his friends",
+   "lang": "en",
+   "createdAt": "2026-09-19T15:58:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 32
+   },
+   "replyTo": {
+    "tweetId": "2101325338508656911",
+    "userId": "24965613",
+    "username": "BradGalli"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "24965613",
+      "username": "BradGalli",
+      "name": "Brad Galli"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101338830326612355",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101338830326612355",
+   "url": "https://x.com/RenoDrew/status/2101338830326612355",
+   "conversationId": "2101313233608962532",
+   "text": "@pgipe We are so screwed.",
+   "lang": "en",
+   "createdAt": "2026-09-19T15:53:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 38
+   },
+   "replyTo": {
+    "tweetId": "2101313233608962532",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101046010302869862",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101046010302869862",
+   "url": "https://x.com/RenoDrew/status/2101046010302869862",
+   "conversationId": "2101022264968036751",
+   "text": "@janecoaston 2022 I posted about this on MGoBlog when she was an unknown.    https://mgoblog.com/mgoboard/tennis-fans-who%27s-woman-michigan-hat-next-larry-ellison#comments-section",
+   "lang": "en",
+   "createdAt": "2026-09-18T20:29:39.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 2,
+    "views": 251
+   },
+   "replyTo": {
+    "tweetId": "2101022264968036751",
+    "userId": "15195539",
+    "username": "janecoaston"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15195539",
+      "username": "janecoaston",
+      "name": "Jane Coaston 🏔️"
+     }
+    ],
+    "urls": [
+     "https://mgoblog.com/mgoboard/tennis-fans-who%27s-woman-michigan-hat-next-larry-ellison#comments-section"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101012785727750411",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101012785727750411",
+   "url": "https://x.com/RenoDrew/status/2101012785727750411",
+   "conversationId": "2101003376687243438",
+   "text": "@RonCarterBass I wish someone had made a documentary about recording this soundtrack, like they did with \"We Are the World\".  My guess is that the egos weren't as big!",
+   "lang": "en",
+   "createdAt": "2026-09-18T18:17:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 90
+   },
+   "replyTo": {
+    "tweetId": "2101003376687243438",
+    "userId": "1445084976886820872",
+    "username": "RonCarterBass"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1445084976886820872",
+      "username": "RonCarterBass",
+      "name": "Ron Carter"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101010991190520113",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101010991190520113",
+   "url": "https://x.com/RenoDrew/status/2101010991190520113",
+   "conversationId": "2101003376687243438",
+   "text": "@Jeffrey4wojbfm @RonCarterBass I still think about so many of the scenes from this movie even today",
+   "lang": "en",
+   "createdAt": "2026-09-18T18:10:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 23
+   },
+   "replyTo": {
+    "tweetId": "2101004425766613105",
+    "userId": "1197907286",
+    "username": "Jeffrey4wojbfm"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1197907286",
+      "username": "Jeffrey4wojbfm",
+      "name": "Jeffrey@WOJB - FM 88.9"
+     },
+     {
+      "id": "1445084976886820872",
+      "username": "RonCarterBass",
+      "name": "Ron Carter"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101010847334388153",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101010847334388153",
+   "url": "https://x.com/RenoDrew/status/2101010847334388153",
+   "conversationId": "2101010847334388153",
+   "text": "This came out my senior year of high school.  I enjoyed jazz, but the movie and soundtrack introduced me to many musicians and songs I didn't know.  Life-changing can get overused, but listening to this soundtrack/watching the movie at that age was massive for me",
+   "lang": "en",
+   "createdAt": "2026-09-18T18:09:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 163
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101003376687243438",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101009841926144506",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101009841926144506",
+   "url": "https://x.com/RenoDrew/status/2101009841926144506",
+   "conversationId": "2101005387646554384",
+   "text": "@nickmmark ID folks lining up with the list of antibiotics that will cover both bacteria",
+   "lang": "en",
+   "createdAt": "2026-09-18T18:05:55.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 67
+   },
+   "replyTo": {
+    "tweetId": "2101005387646554384",
+    "userId": "3124786444",
+    "username": "nickmmark"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3124786444",
+      "username": "nickmmark",
+      "name": "Nick Mark MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101009323107532882",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101009323107532882",
+   "url": "https://x.com/RenoDrew/status/2101009323107532882",
+   "conversationId": "2100997816315195560",
+   "text": "@pgipe congrats!",
+   "lang": "en",
+   "createdAt": "2026-09-18T18:03:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 30
+   },
+   "replyTo": {
+    "tweetId": "2100997816315195560",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100964348873351350",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100964348873351350",
+   "url": "https://x.com/RenoDrew/status/2100964348873351350",
+   "conversationId": "2100725917509427397",
+   "text": "@stkirsch Young athletes have been having cardiac issues for a long time: https://pmc.ncbi.nlm.nih.gov/articles/PMC7029244/",
+   "lang": "en",
+   "createdAt": "2026-09-18T15:05:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 101
+   },
+   "replyTo": {
+    "tweetId": "2100725917509427397",
+    "userId": "37491797",
+    "username": "stkirsch"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "37491797",
+      "username": "stkirsch",
+      "name": "Steve Kirsch"
+     }
+    ],
+    "urls": [
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC7029244/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100626923500323087",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100626923500323087",
+   "url": "https://x.com/RenoDrew/status/2100626923500323087",
+   "conversationId": "2100598453424583061",
+   "text": "@LukeWatsonCMF @dieworkwear Thank you!  I was thinking the same thing",
+   "lang": "en",
+   "createdAt": "2026-09-17T16:44:20.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 40
+   },
+   "replyTo": {
+    "tweetId": "2100617537419387378",
+    "userId": "1324918507902005248",
+    "username": "LukeWatsonCMF"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1324918507902005248",
+      "username": "LukeWatsonCMF",
+      "name": "Luke Watson"
+     },
+     {
+      "id": "250259063",
+      "username": "dieworkwear",
+      "name": "derek guy"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100606698096623856",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100606698096623856",
+   "url": "https://x.com/RenoDrew/status/2100606698096623856",
+   "conversationId": "2100231186148741538",
+   "text": "@SenWarren Many studies show that patients prefer independent practices, and we provide lower-cost care.  However, Congress and CMS don't listen to our voices and follow in lockstep what large insurance companies and hospital systems want.  This isn't good for patients",
+   "lang": "en",
+   "createdAt": "2026-09-17T15:23:58.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 39
+   },
+   "replyTo": {
+    "tweetId": "2100606295124607113",
+    "userId": "1493286566",
+    "username": "RenoDrew"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "970207298",
+      "username": "SenWarren",
+      "name": "Elizabeth Warren"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

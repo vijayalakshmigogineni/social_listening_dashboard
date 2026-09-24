@@ -21,10 +21,18 @@ def test_linkedin_has_multiple_query_families_including_payer_agnostic_ones():
     assert payer_free_families, "expected at least one payer-agnostic query family"
 
 
-def test_linkedin_search_url_is_built_per_family():
-    urls = {family: linkedin._search_url(query) for family, query in linkedin.QUERY_FAMILIES.items()}
-    assert len(urls) == len(linkedin.QUERY_FAMILIES)
-    assert all(u.startswith("https://www.linkedin.com/search/") for u in urls.values())
+def test_linkedin_runs_one_actor_call_per_query_family():
+    # The harvestapi actor takes the query itself (searchQueries), not a
+    # LinkedIn search URL -- so check one call per family, each carrying that
+    # family's query, with no network access.
+    from unittest.mock import patch
+
+    with patch.object(linkedin, "run_actor_sync", return_value=[]) as run:
+        linkedin.collect_families(limit_per_query=5)
+
+    sent = [call.args[1]["searchQueries"] for call in run.call_args_list]
+    assert sent == [[q] for q in linkedin.QUERY_FAMILIES.values()]
+    assert all(call.args[1]["maxPosts"] == 5 for call in run.call_args_list)
 
 
 def test_reddit_default_subreddits_include_phase1b_validated_communities():

@@ -1,0 +1,3194 @@
+{
+ "key": "nsa_idr",
+ "query": "(\"No Surprises Act\" OR IDR OR \"independent dispute resolution\") (payment OR arbitration OR insurer) (physicians OR practice OR won) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102192084622942305",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102192084622942305",
+   "url": "https://x.com/NicholasAConway/status/2102192084622942305",
+   "conversationId": "2102192084622942305",
+   "text": "Working in healthcare, it becomes evident that 'binding arbitration' is a fiction. A federal court just ruled providers who won $3M in surprise-billing disputes can't sue to collect it. You win the IDR, the insurer keeps the money. Who pays when nobody enforces the award?",
+   "lang": "en",
+   "createdAt": "2026-09-22T00:23:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2061833751986905088",
+    "username": "NicholasAConway",
+    "name": "Nicholas Conway",
+    "url": "https://x.com/NicholasAConway",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093784802268704768/wqySzeG1_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 21
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2028462457589559535",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2028462457589559535",
+   "url": "https://x.com/DrBruggeman/status/2028462457589559535",
+   "conversationId": "2028462457589559535",
+   "text": "The No Surprises Act was supposed to be simple: if a payment dispute can’t be resolved between a physician and an insurer, an independent arbitrator decides. The determination is final. Binding. Done.\n\nExcept it isn’t.\n\nPhysicians across the country are winning IDR determinations and then waiting…. \nAnd waiting…. \nAnd waiting….\nBecause there’s nothing actually forcing insurers to pay.\n\nA 2024 survey by the @EDPMA found that 24% of IDR awards were either unpaid or paid incorrectly within the 30 business days the law requires. \n\nOne in four. \n\nOn determinations that are supposed to be legally binding.\n\n And that’s just the average. I know of groups with 0% payment rates.\n\nThis isn’t a gray area. The NSA explicitly states that IDR determinations “shall be binding upon the parties involved.” The law is clear. The compliance is not.\n\nThis week I’m going to walk through why the IDR system is under strain, what the enforcement gap actually looks like, and what Congress is doing about it. Because a dispute resolution process that doesn’t enforce its own outcomes isn’t a process — it’s theater.",
+   "lang": "en",
+   "createdAt": "2026-03-02T13:28:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 20,
+    "quotes": 4,
+    "likes": 46,
+    "bookmarks": 9,
+    "views": 4112
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2028462452464140288",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCaL2m9XwAAAMMP.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCaL2m9XwAAAMMP.jpg",
+     "width": 2028,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "38458001",
+      "username": "EDPMA",
+      "name": "EDPMA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102982971896848875",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102982971896848875",
+   "url": "https://x.com/josonenine/status/2102982971896848875",
+   "conversationId": "2102982971896848875",
+   "text": "This is such an important topic. Healthcare price transparency does not exist. \n\nAlways challenge your healthcare bill by asking for an itemized report of the charges and in network allowable. \n\nIf out of network, call the clinic or physician group and ask to negotiate a fair and reasonable payment. \n\nThe insurance companies don’t pay their contractually required payments to physicians or ASCs forcing physicians and surgical centers to go out of network. \n\nPatients are balanced billed because insurance determines that the payment should be $0.01. \n\nClinic and facility claims are submitted to the Independent Dispute Resolution process of the NSA act. We win over 90% of the time. \n\nInsurance companies ignore the win in arbitration and refuse to pay. There reason for not paying:  “the IDR determination is unenforceable, so we don’t need to pay.” \n\nPhysicians sue insurance company to force them to pay. Insurance company loses in court and still refuses to pay IDR win. \n\nInsurance company appeals loss in court. Circuit court judge says insurance company needs to pay.  Insurance company refuses to pay. \n\nInsurance company appeals again.  And the saga goes on for years. \n\nWe acted in good faith receiving no payment while insurance profited from our good will.  The patients are left wondering why the bills are so high. \n\nI am happy to send an itemized bill. \n\nThe hospital never wants you to see their itemized bill. \n\nQuestion every insurance and hospital statement. \n\nThe corruption runs deep. \n\nWE ARE SO TIRED OF THEIR SHENANIGANS.",
+   "lang": "en",
+   "createdAt": "2026-09-24T04:46:26.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 144
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102953411876438386",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097443247450640543",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2097443247450640543",
+   "url": "https://x.com/DrBruggeman/status/2097443247450640543",
+   "conversationId": "2097443247450640543",
+   "text": "You see…. This is everything wrong with public figures and public press commenting on healthcare\n\nThe NYT was unafraid to use the word doctor in the title of this article… where it mattered. Then read the article. Every reference is not Senator Marshall. It’s not Dr Marshall. It’s Mr Marshall. \n\nThe same NYT spent the last month or so blasting the No Surprises Act, which reduces the out of pocket costs for patients and protects them from surprise bills, even in emergencies like obstetrics. That’s a bill that Sen Marshall was extremely involved in and voted for. \n\nNow the NYT and apparently other public officials (or those that seek public office) want to blast doctors for trying to collect on the dollars they are rightfully owed by their patients. I guess the answer is that all physicians should just become charities. It is unethical and immoral to seek payment or sell your receivables to a collection agency to try to get paid, particularly in emergent situations where you took call and had no choice but to provide the care.\n\nI don’t know where this ends, but a policy where doctors are unethical for collecting the money they are due and owed and also unethical and “gaming the system” for using a government authorized process where a third party determines their value is leading to massive consolidation. Physicians are small business owners. They aren’t nonprofits with donations to keep them afloat. \n\nThis mentality is the one leading to our healthcare crisis. It’s driving doctors to consolidation so hospitals can become their payer and they no longer have to deal with the difficult decisions of keeping lights on or asking their patients to pay the bills for services doctors rendered. \n\nWe didn’t set the copay or deductible amounts. We didn’t set the rules that doctors now have to make those collections instead of insurers or others as the numbers continue to get bigger year over year. \n\nLet’s stop casting the stones at doctors. They aren’t the problem in this system and that’s clear to essentially everyone in health policy.",
+   "lang": "en",
+   "createdAt": "2026-09-08T21:53:33.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 15,
+    "quotes": 3,
+    "likes": 62,
+    "bookmarks": 8,
+    "views": 6970
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097371157225758878",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061453857985532320",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2061453857985532320",
+   "url": "https://x.com/DrBruggeman/status/2061453857985532320",
+   "conversationId": "2061453857985532320",
+   "text": "Last week the tri-Departments of HHS, Labor, and Treasury published the final IDR Operations rule, CMS-9897-F. We have been waiting on this rule for a long time, and I want to spend this week walking through what they got right, what still needs work, and where the upcoming guidance and congressional action need to go.\n\nAny discussion needs to start with the fact that The No Surprises Act is the patient shield. It was designed to take patients out of the middle of a dispute between a physician and an insurance company over what constitutes fair payment, and it is doing exactly that. While it was not designed to as a system cost savings, a 2025 BMJ study found that patients in NSA-protected states saw an 18% reduction in out-of-pocket costs, averaging $567 in annual savings per patient, with no statistically significant increase in premiums. More than 10 million surprise bills were prevented in the first nine months of 2023 alone. Any serious conversation about reforming the dispute resolution administration has to start there, because the shield must be protected.\n\nThe machinery underneath that protection is a different matter. CMS projected roughly 17,000 IDR disputes per year based on flawed data. The system received 489,000 in its first 14 months and is now processing over 2.6 million annually. The backlog reached 590,000 unresolved cases. Median decision time stretched to 80 business days against a 33-day statutory target. In 2024, 59.6% of IDR awards were not paid within the required 30-day window, up from 24% the year before.\n\nThe Departments addressed several of those failures directly in this rule and deserve credit for doing so. The administrative fee drops from $115 to $15 per party, effective within days of Federal Register publication. A mandatory payer registry gets established. Payers must now formally respond during open negotiation. The batching cap rises to 50 line items. Extensions are available for extenuating circumstances. The cooling-off period for batched disputes is shortened from 90 to 30 business days. These are real wins that reflect years of advocacy by independent physicians and patient advocates.\n\nThis week I will go through each of those in detail, and then identify what the rule left open. The Departments have committed to issuing clarifying guidance on several key questions, and hopefully this series will help to guide advocates and the Departments as to how the guidance should be shaped.\n\n@IndeMedAction",
+   "lang": "en",
+   "createdAt": "2026-06-01T14:24:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 8,
+    "quotes": 1,
+    "likes": 27,
+    "bookmarks": 4,
+    "views": 59610
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2061453853535490049",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJvBW5TX0AESPAG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HJvBW5TX0AESPAG.jpg",
+     "width": 1320,
+     "height": 1970,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054244315602341941",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2054244315602341941",
+   "url": "https://x.com/neurosurgery/status/2054244315602341941",
+   "conversationId": "2054244315602341941",
+   "text": "👏👏 THANK YOU to @RepGregMurphy, @RepRaulRuiz, @RepJohnJoyce, @RepKimSchrier, @RepJimmyPanetta, @RepBobOnder, @RogerMarshallMD, and @SenatorBennet for leading the No Surprises Act Enforcement Act (H.R. 4710/S. 2420).\n\nPhysicians remain committed to protecting patients from surprise bills, but the law only works if the independent dispute resolution process is fair, transparent, and binding. This legislation helps restore the balance Congress originally intended and reinforces the requirement that insurers follow the rules, too.\n\nKey reforms:\n✅ Closes loopholes allowing insurers to avoid payment for care already delivered.\n✅ Holds HHS accountable in enforcing what Congress passed.\n\nLet’s get this across the finish line.\n\n🔗 Read the coalition letter: https://www.cns.org/advocacy/legislative-affairs-detail/physician-organizations-express-support-no-surpris\n\n #Nosurprisesact @AANSNeuro @CNS_Update @councilsns #NSA #surprisebilling @IndeMedAction",
+   "lang": "en",
+   "createdAt": "2026-05-12T16:56:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "461301890",
+    "username": "neurosurgery",
+    "name": "Neurosurgery",
+    "url": "https://x.com/neurosurgery",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2052425675215101954/i56cXFkQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 541
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Nosurprisesact",
+     "NSA",
+     "surprisebilling"
+    ],
+    "mentions": [
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "951137802",
+      "username": "RepRaulRuiz",
+      "name": "Raul Ruiz"
+     },
+     {
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce",
+      "name": "John Joyce, M.D."
+     },
+     {
+      "id": "1080462532815532032",
+      "username": "RepKimSchrier",
+      "name": "Rep. Kim Schrier, M.D."
+     },
+     {
+      "id": "796736612554117120",
+      "username": "RepJimmyPanetta",
+      "name": "Rep. Jimmy Panetta"
+     },
+     {
+      "id": "1872324445055987712",
+      "username": "RepBobOnder",
+      "name": "Bob Onder"
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "224285242",
+      "username": "SenatorBennet",
+      "name": "Michael Bennet"
+     },
+     {
+      "id": "348471949",
+      "username": "AANSNeuro",
+      "name": "AANS"
+     },
+     {
+      "id": "123659292",
+      "username": "CNS_Update",
+      "name": "CNS"
+     },
+     {
+      "id": "326560055",
+      "username": "councilsns",
+      "name": "CSNS"
+     },
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [
+     "https://www.cns.org/advocacy/legislative-affairs-detail/physician-organizations-express-support-no-surpris"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099893323032867321",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2099893323032867321",
+   "url": "https://x.com/EdGainesIII/status/2099893323032867321",
+   "conversationId": "2099893323032867321",
+   "text": "Here's a trade press story on one of the think tank's set of recommendations on reforming the No Surprises Act (NSA)--and no surprise (pun intended), it is the literal wish list from the health plans.\n\n1.  The proposal suggests that EM services could be subject to arbitration or litigation instead of the current IDR process--are you kidding me? Emergency medical (EM) services were at the core of Congress' intended protections not just of the patients but also of the clinicians. EMTALA mandates that the Pt must receive medical screening and stabilizing care without regard to their ability to pay.  EMTALA offers no funding to physicians for this mandate and it is the largest unfunded mandate in healthcare.  Plus, no surprise (see previous pun comment), the health plans take advantage of EMTALA and know their members will receive care regardless of their reimbursement levels.\n\n2.  Eliminating an entire cohort of services (scheduled surgical services) from the NSA IDR process is overly broad.  There are methods and data to address those scheduled cases where the offers are outside of the realm of reasonableness.\n\n3. Interesting that the think tank wants to \"tank\" the current formula that the QPA (initial payment + mandated CPI-U adjustments currently at +28%) should be replaced w/ current in network rates.  Their proposal per this article does not even consider that while the NSA was signed in Dec. '20, there is a reason Congress anchored the QPA to Jan. '19--because the health plans had already engaged in depressing the in network rates in anticipation of the NSA being passed. So, this proposal really gives the health plans a windfall for depressing rates then, accelerating it after the NSA was passed and today--sounds like a big \"plans wins/clinicians and hospitals lose\" proposition to me.\n\n4. Finally, the think tank has proposals to strengthen the screening of potentially ineligible claims.  Apparently they have not even thought about the positive changes CMS made in the IDR Operations final rule (June '26), the mandated RARC codes that plans must use, TMA III rulings outlawing ghost rates and the health plan registration numbers in the new IDR Gateway, in significantly reducing the ineligible claim issues and restoring true, meaningful QPA rates.\n\nParagon Pitches Two-Track Framework To Reform NSA Arbitration\nSep 14, 2026, 7:26 PM CDT\n\"Inside Health Policy\nCongress should get rid of the No Surprises Act’s (NSA) federal arbitration process for elective care and either eliminate or overhaul it for emergency services, Paragon Health Institute says in a report out Monday (Sept. 14).\n\nThe recommendations from the influential think tank come as lawmakers, stakeholders and health policy experts increasingly sound the alarm over the NSA’s independent dispute resolution (IDR) process, with many warning that private equity-backed provider groups and other companies are gaming the system and driving up premiums.\n\nThe report has two main recommendations. First, Paragon suggests out-of-network providers should be able to balance bill patients for pre-planned services if those charges are disclosed and agreed to in advance and with patients' consent.\n\nFor emergency services, Paragon offers two options: either patients would continue to be held harmless from OON charges, but disputes would be addressed via private arbitration or ligation, or the IDR process could remain, but with newly imposed award limits and more oversight.\n\nIf Congress chooses the second option, Paragon recommends other tweaks, like updating the qualifying payment amount (QPA) so that it is based on current in-network rates instead of 2019 rates adjusted for inflation. Also, instead of anchoring payments to the QPA, and potentially giving insurers too much leverage, Paragon says awards should be capped at an upper percentile of in-network rates.\n\nParagon also recommends changing how arbitrators are paid and strengthening the screening of potentially ineligible disputes. Its administrative proposals include standardized arbitrator training, written explanations of decisions, routine audits, stronger conflict-of-interest protections, random assignment of disputes to prevent forum shopping and sanctions against arbitration firms that make improper eligibility or payment determinations.\n\nThe group’s recommendations are notable and could carry particular weight among Republicans because Paragon’s work and personnel have been influential with GOP lawmakers and the Trump administration.\n\nJackson Hammond, a senior policy analyst at Paragon and lead author of the report, told Inside Health Policy in an interview Monday that the think tank has been talking with several health committees in both the House and Senate about the arbitration system and educating staffers and lawmakers about its findings and recommendations.\n\n“So far, the general feedback has been that, right now, they really want to educate members on what this is,” Hammond said. “The committees want to focus on educating members around what the system is, how it currently works, what the outcomes have been and . . . these incentive problems that are fundamentally increasing costs and giving providers a lot of leverage to stay out of network that they otherwise wouldn’t have in a more market-based system.”\n\nSources recently told IHP that House Ways & Means Committee members are considering marking up legislation from Reps. Greg Murphy (R-NC) and Jimmy Panetta (D-CA) that would penalize insurers and health plans for failing to pay arbitration awards on time.\n\nLawmakers are also weighing changes to the No Surprise Enforcement Act that could keep ineligible disputes out of the process and address unusually high awards, according to sources.\n\nHammond said that even though Paragon supports that bill’s goal of ensuring that insurers pay valid awards on time, lawmakers should advance these changes as part of a broader package that also reforms the arbitration process and limits how high awards can climb.\n\n“Prompt-pay requirements are a good thing, but we argue they should be part of a broader package that includes reforms to the process of arbitration, as well as to the payment amounts to control for those outlier payments,” Hammond said.\n\nMeanwhile, Senate health committee Chair Bill Cassidy (R-LA) is planning a member roundtable for the middle of next week focused on surprise billing legislation, according to new reporting from Bloomberg Government.\n\nThis new attention on the NSA, Hammond says, is largely driven by the growing body of data on how the program is operating.\n\nVarious stakeholders, including House Energy & Commerce ranking Democrat Frank Pallone (NJ), one of the original law’s lead authors, have pointed to recent CMS data showing that 2.5 million disputes were filed in 2025, followed by another 1.4 million during the first five months of 2026. Just 10 organizations filed roughly 67% of those cases. Providers won more than 85% of arbitration decisions in 2025 and received nearly $15 billion in awards that averaged more than six times local in-network rates.\n\n“We finally are having enough evidence of trends going certain directions,” Hammond said during the interview. “What is becoming increasingly clear is how quickly this program is growing and how much the dispute volume is growing. . . . The dispute volume is 115 times higher than they predicted. The award size is significantly larger than they ever could have imagined it being.”\n\n“This is a clear example of when good intentions create bad incentives that lead to increased costs,” Hammond added. “The biggest downside of this program is how much it is incentivized to grow and how much that is going to end up costing the American health care system, simply because we were trying to do right by the patient.” -- Jalen Brown (jbrown@iwpnews.com)\"",
+   "lang": "en",
+   "createdAt": "2026-09-15T16:09:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 11,
+    "bookmarks": 5,
+    "views": 4505
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2025793985986372076",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2025793985986372076",
+   "url": "https://x.com/DrBruggeman/status/2025793985986372076",
+   "conversationId": "2025793985986372076",
+   "text": "BCBS Arizona is sneaking in a new Arizona bill (H.B. 2211) after losing a significant number of federal IDR arbitrations under the No Surprises Act.\n\nThe bill would make it “unprofessional conduct” (and subject to licensing board discipline) for a physician to offer more than 3X the Qualifying Payment Amount (QPA) or 3X Medicare in federal arbitration.\n\nThink about that for a minute…\n\nCongress deliberately rejected fixed payment caps when drafting the bipartisan No Surprises Act. Instead, lawmakers created independent arbitration so neutral decision-makers could weigh all relevant factors and determine fair payment case by case.\n\nH.B. 2211 attempts to override that framework at the state level by capping arbitration offers and threatening physicians’ licenses for fully participating in a federally established process.\n\nThe QPA itself has repeatedly been shown to understate true median in-network rates. Capping offers at 3X a benchmark that may already be significantly depressed effectively allows insurers to dictate rates while penalizing physicians who challenge them.\n\nTomorrow, @IndeMedAction will submit formal opposition ahead of the House Appropriations hearing.\n\nAs of tonight’s registration, there are 2 in favor — both BCBS representatives — and 137 opposed — including frontline physicians, nurses, CRNAs, and major Arizona physician organizations\n\nThis doesn’t fix a broken system. It undermines one that is working for patients.\n\nStay tuned for our full statement tomorrow.",
+   "lang": "en",
+   "createdAt": "2026-02-23T04:44:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 26,
+    "quotes": 6,
+    "likes": 80,
+    "bookmarks": 21,
+    "views": 8836
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2025793980382814209",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB0Q5FzXoAEuDKS.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB0Q5FzXoAEuDKS.jpg",
+     "width": 1924,
+     "height": 1668,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088239559813345657",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2088239559813345657",
+   "url": "https://x.com/DrBruggeman/status/2088239559813345657",
+   "conversationId": "2088239559813345657",
+   "text": "Five issues, five specific asks, and one common thread: temporary patches have gotten independent practice this far into a payment crisis, and temporary patches are what the lame duck session will likely default to unless without pressure.\n\nOn physician payment, Congress should not settle for another one year conversion factor patch layered on top of the CY2027 cut. The structural fix already exists in bill form on both sides of the Capitol. H.R. 8163 cleared House Ways and Means in May. S. 5180 has six bipartisan Senate sponsors as of July. Attach the combined framework, the raised and MEI indexed budget neutrality threshold, the utilization correction, and the regular practice expense update requirement, to the year end funding package as durable law.\n\nOn price transparency, Congress should resolve the conference fight in favor of actual dollar pricing, not estimator tools. The Senate HELP Committee's Patients Deserve Price Tags Act and the House Energy and Commerce Committee's Lower Costs, More Transparency Act both closed the estimator loophole with near unanimous bipartisan votes. The Ways and Means version, which passed on a party line vote specifically because it preserves more flexibility for estimator tools, should not be the template that survives conference. If transparency is going to function as a tool for patients rather than a compliance exercise, it has to require the same standard, real prices, from every site of care.\n\nOn site neutral payment, Congress should codify the direction CMS has already taken through the 2026 and proposed 2027 OPPS rules. The Same Care, Lower Cost Act and the Fair Billing Act both provide a legislative vehicle. The exemption for genuinely rural and sole community hospitals should stay narrow and specific.\n\nOn No Surprises Act enforcement, Congress has had a bipartisan fix sitting untouched for over a year. H.R. 4710 and its Senate companion S. 2420, the No Surprises Act Enforcement Act, fix the inequality where physicians face automatic civil penalties of up to 10,000 dollars per occurrence for balance billing violations, while insurers face no equivalent penalty for ignoring a binding arbitration award. The bill has physician society support letters, bipartisan sponsors in Reps. Greg Murphy and Jimmy Panetta and Sens. Roger Marshall and Michael Bennet, and no committee movement since it was reintroduced in July 2025. The lame duck session is the moment to finally schedule a markup rather than let another Congress close out without addressing an enforcement asymmetry that every stakeholder, including the insurers, no longer seriously disputes exists.\n\nOn prior authorization, Congress already has real momentum to build on. The Improving Seniors' Timely Access to Care Act, H.R. 3514 and S. 1816, has made significant committee movement. The bill would codify electronic prior authorization standards, require real time decisions on routinely approved services, and force public reporting on Medicare Advantage approval and denial rates. It carries a rare combination of backers, Reps. Mike Kelly, Suzan DelBene, John Joyce, and Ami Bera, Senators Roger Marshall and Mark Warner, and support from both the AMA and the American Hospital Association.\n\nNone of these five fixes requires new spending authority Congress has not already debated in some form this year. What they require is the will to treat the lame duck session as the moment to finish structural work the reverses decades of consolidation and creates real wins for patients and independent practices.",
+   "lang": "en",
+   "createdAt": "2026-08-14T12:21:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 14,
+    "quotes": 5,
+    "likes": 29,
+    "bookmarks": 9,
+    "views": 9050
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2088239555199574016",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPrqz72XIAAawpF.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPrqz72XIAAawpF.jpg",
+     "width": 2048,
+     "height": 1356,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2012911711179665758",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2012911711179665758",
+   "url": "https://x.com/JahangirAsgha10/status/2012911711179665758",
+   "conversationId": "2012911711179665758",
+   "text": "Here’s a history lesson.\n\nUsual and customary was never Medicare, and out-of-network payment was never random or abusive. Long before the No Surprises Act, out-of-network care operated through bilateral negotiations anchored to prevailing market charges. “Usual and customary” meant the distribution of billed charges for a given service in a specific geographic market, adjusted for specialty, acuity, complexity, and liability. Insurers relied on charge databases such as Ingenix and later FAIR Health because those datasets reflected how care was actually priced in the real world. Those charges were routinely several times Medicare, particularly for procedural, emergency, anesthesia, radiology, and other high-liability services. Negotiations did not end at charges, but charges set the negotiating frame, and settlements routinely landed well above Medicare depending on leverage and urgency. That spread was not a loophole. It was the economic definition of being out of network. Physicians were out of network because contracted rates were below market value. IDR did not create this structure. It replaced it after patients were removed from the middle. And all of this applies to a very small fraction of encounters. Medicare was never the benchmark for out-of-network care, and pretending otherwise is historical revisionism.",
+   "lang": "en",
+   "createdAt": "2026-01-18T15:35:24.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 13,
+    "bookmarks": 2,
+    "views": 2680
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101175897092919583",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2101175897092919583",
+   "url": "https://x.com/josonenine/status/2101175897092919583",
+   "conversationId": "2101175897092919583",
+   "text": "Insurance payments equivalent to what I pay my pet groomer are repugnant. \n\nWe frequently see payments of a few hundred dollars for major operations for facility claims at our ASC and even lower professionally. \n\nWe received a payment of $0.01 for an ASC facility payment on a major case that typically reimburses at $60k or more.   \n\nIt’s a 🖕to every physician in private practice. \n\nWhen we appeal the underpayment, it’s denied. \n\nWhen we submit to the IDR, we win every time. \n\nThey have no justification for their payments. They offer none to the arbitrator. \n\nThese are RICO violations.  \n\nThe insurers are purposely paying way below Medicare fee schedules to force practices into unreasonable contracts or to submit to IDR. \n\nOur only recourse is the IDR or bill the patients. \n\nThey then refuse to pay IDR wins.  They blame physicians and MSOs for price gouging. \n\nThey lie, steal, and blame greedy doctors. \n\nA Blue Cross attorney recently argued in court:  “the IDR determination is as good as writing an IOU on a napkin to your mother”.\n\nInsurers are operating in bad faith by agreeing to participate in the IDR process and then not paying when they lose. \n\nThey litigate in court when they lose. \n\nAll we are asking for is fair and reasonable payments.",
+   "lang": "en",
+   "createdAt": "2026-09-19T05:05:46.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 24,
+    "bookmarks": 2,
+    "views": 1642
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099893323032867321",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986481109371396483",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1986481109371396483",
+   "url": "https://x.com/DrABrault/status/1986481109371396483",
+   "conversationId": "1986481109371396483",
+   "text": "@EDPMA on Capitol Hill, advocating for our top priorities in #EmergencyMedicine\n1️⃣Fair Medicare PFS updates — physicians are the only ones left out of inflationary adjustments.\n2️⃣Enforce the No Surprises Act — 50%+ of plans ignore the 30-day payment rule! https://x.com/DrABrault/status/1986481109371396483/photo/1",
+   "lang": "en",
+   "createdAt": "2025-11-06T17:09:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1229847328485363713",
+    "username": "DrABrault",
+    "name": "Andrea Brault",
+    "url": "https://x.com/DrABrault",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1996361176650031104/UUTGGDST_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 46
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1986475435971256320",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5Fg4lwbIAAV9nN.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G5Fg4lwbIAAV9nN.jpg",
+     "width": 1290,
+     "height": 1677,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1986475457114771456",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G5Fg50hbkAAWisK.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G5Fg50hbkAAWisK.jpg",
+     "width": 1290,
+     "height": 2012,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "EmergencyMedicine"
+    ],
+    "mentions": [
+     {
+      "id": "38458001",
+      "username": "EDPMA",
+      "name": "EDPMA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2050239474039238885",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2050239474039238885",
+   "url": "https://x.com/HeathVeuleman/status/2050239474039238885",
+   "conversationId": "2050239474039238885",
+   "text": "Every time you see someone question the No Surprises Act, I want you to consider a few things:\n\n1. The ~4.13 million federal IDR payment determinations (completed arbitrations) under the No Surprises Act represent an extremely small fraction of total U.S. healthcare claims—roughly 0.034%, or about 1 in every 2,900 adjudicated claims—over the same period (April 2022–March 2026).\n\n2. Multiple analyses of CMS public use files and supplemental data show that independent physicians represent a small minority of initiators and determinations.\n\n3. In various periods (2023–early 2025), the top 4–10 initiators (e.g., Radiology Partners, TeamHealth, SCP Health, Envision, and middlemen like HaloMD) account for 45–70%+ of disputes (often 50%+ in recent quarters). Many of these are PE-affiliated hospital-based staffing or specialty groups (emergency medicine, radiology, etc.). Facilities initiate ~20% of provider-side disputes in some periods. The remaining share (after top groups) is hospital-employed physicians. \n\nNow, considering the foregoing, ask yourself why this is being framed, by certain lobbyist-adjacent “think tanks” and legacy corporate media, as a “windfall” for physicians that will drive premiums up?",
+   "lang": "en",
+   "createdAt": "2026-05-01T15:42:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1312884507972837377",
+    "username": "HeathVeuleman",
+    "name": "Heath Veuleman",
+    "url": "https://x.com/HeathVeuleman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2066644060064854016/uyFWoHzd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 9,
+    "quotes": 4,
+    "likes": 22,
+    "bookmarks": 4,
+    "views": 5393
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2050239468104208384",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HHPp7wDWUAAoKKh.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HHPp7wDWUAAoKKh.jpg",
+     "width": 500,
+     "height": 344,
+     "altText": "Thinking Think GIF",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061119990497935767",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2061119990497935767",
+   "url": "https://x.com/EdGainesIII/status/2061119990497935767",
+   "conversationId": "2061119990497935767",
+   "text": "1/The goal of the #NoSurprisesAct was not to lower the overall costs of healthcare; instead it was to protect patients from out of network (OON) balance bills which it has achieved & to provide a mechanism for parties to dispute the OON payments before an independent dispute resolution entity (IDRE).\n\nThe health plans have it within their province to lower costs substantially, especially when the largest of the health plans @UHC, (based on Q1 ‘26 earnings), is profiting at a +$2B run rate per month.\n\nThe weakness of @AHIPCoverage’s argument is demonstrated w/ the “old saw” of private equity abuse of the IDR process.  In fact, the vast majority of our client base is independent, democratically controlled physician groups and they are turning to IDR because of unrelenting actions by the health plans to drive down overall reimbursements.  \n\nRecall the @RANDCorporation study of emergency medicine OON reimbursements issued in April ‘25 that showed over the 4 years of study from over 50M claims that OON reimbursements declined nearly -50%.\n\nSignificantly, the health plans and their proxies have no answer or excuse for their systemic and concerted failures to comply w/ their payment obligations under the NSA, as witnessed by studies by @EPDMA from 2023-2026.\n\nWhile compliance improved, the plans non-compliance with payment determinations, mandated in the NSA law and regulations, was most recently reported by EDPMA at nearly 50%, in over 660,000 IDRs won by its members (see below).\n\nhttps://www.ahip.org/news/articles/ahip-statement-on-final-idr-rule",
+   "lang": "en",
+   "createdAt": "2026-05-31T16:17:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 4,
+    "views": 907
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "22797378",
+      "username": "AHIPCoverage",
+      "name": "AHIP"
+     },
+     {
+      "id": "22545453",
+      "username": "RANDCorporation",
+      "name": "RAND"
+     },
+     {
+      "id": "391323983",
+      "username": "EPDMA",
+      "name": "Reggie Redfern"
+     }
+    ],
+    "urls": [
+     "https://www.ahip.org/news/articles/ahip-statement-on-final-idr-rule"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096963323942355435",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2096963323942355435",
+   "url": "https://x.com/DRsLoungePod/status/2096963323942355435",
+   "conversationId": "2096963323942355435",
+   "text": "Congressman Tom Oliverson on 340b, the No Surprises Act, gold carding, and more\n\nIn this episode of the Doctor's Lounge, Anthony DiGiorgio speaks with Hon. Tom Oliverson, MD, Texas State Representative for House District 130 and chair of the House Republican Caucus. Dr. Oliverson shares how he moved from medicine into public service, why practicing physicians should remain involved in policymaking, and what Texas is doing to address healthcare affordability. They also dig into 340B, prior authorization reform, and the origins of the No Surprises Act.\n\nChapter Markers\n00:00 - Introduction to Dr. Tom Oliverson and his Texas healthcare policy role\n01:24 - From Cut and Shoot to Baylor and a medical career\n05:01 - Why running for office felt like a calling\n08:02 - Why Texas lawmakers are expected to keep real jobs\n13:30 - The healthcare affordability committee and the expert testimony it drew\n16:28 - Consolidation as a major driver of healthcare cost growth\n18:49 - Why direct contracting may replace traditional networks\n22:49 - What the future could look like in a Singapore-style transparent market\n23:53 - ERISA limits, state authority, and the frustration of federal preemption\n25:17 - Medicaid payment, fraud, and what states can still influence\n28:06 - Using Medicaid buying power to push back on abusive pharmacy practices\n29:15 - 340B as a “Robin Hood” program with perverse incentives\n36:03 - Why Texas is pushing transparency on 340B revenue and pricing\n37:38 - The gold carding law and prior authorization reform\n43:43 - A Capitol cardiac arrest and a real-life case with Dr. Bonnen\n46:35 - What Texas can and cannot regulate in state insurance markets\n48:47 - Texas roots of the No Surprises Act\n51:43 - How Texas arbitration was designed to define fair market value\n54:25 - Why the federal NSA lost key guardrails\n61:41 - Texas opt-in for ERISA plans and why that matters\n66:49 - Cash deductible credit when patients choose cheaper care\n68:45 - Compounding, GLP-1 dosing, and preserving access through customization\n70:09 - Peptides, prevention, food access, and the case for lifestyle-based care\n72:34 - Closing thoughts on free markets, 340B, and healthy food\n\nCo-Host Handles\n@anish_koka and @DrDiGiorgio\nShow Handle\n@DRsLoungePod\n\nSubscribe Links\nSpotify: https://open.spotify.com/show/44vw8eirsKKnjgNIrdDvrR\nApple Podcasts: https://podcasts.apple.com/us/podcast/the-doctors-lounge/id1832097658\nYouTube: https://www.youtube.com/@TheDoctorsLoungePod\n\nOfficial Texas House Select Committee on Health Care Affordability page:\nhttps://house.texas.gov/committees/committee/059\n\nDr. Tom Oliverson on X:\n@TomOliverson",
+   "lang": "en",
+   "createdAt": "2026-09-07T14:06:30.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1957956452447879168",
+    "username": "DRsLoungePod",
+    "name": "The Doctor’s Lounge Podcast",
+    "url": "https://x.com/DRsLoungePod",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2053246469805850625/E0IV1xYY_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 2734
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2096962135071117312",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2096962135071117312/vid/avc1/1920x1080/-8QV4Wxv4BTPQBsx.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096962135071117312/img/V7nOuPmc-JtR9Sb7.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": 4057
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "725172428339568640",
+      "username": "anish_koka",
+      "name": "Anish Koka, MD"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "1957956452447879168",
+      "username": "DRsLoungePod",
+      "name": "The Doctor’s Lounge Podcast"
+     },
+     {
+      "id": "3060663253",
+      "username": "TomOliverson",
+      "name": "Tom Oliverson, M.D."
+     }
+    ],
+    "urls": [
+     "https://open.spotify.com/show/44vw8eirsKKnjgNIrdDvrR",
+     "https://podcasts.apple.com/us/podcast/the-doctors-lounge/id1832097658",
+     "https://www.youtube.com/@TheDoctorsLoungePod",
+     "https://house.texas.gov/committees/committee/059"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087931640811004205",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2087931640811004205",
+   "url": "https://x.com/neurosurgery/status/2087931640811004205",
+   "conversationId": "2087931640811004205",
+   "text": "The Fifth Circuit called out the nonsense. 👏👏👏\n\nThe QPA is an insurer-calculated benchmark that helps determine what patients pay and plays a central role in what insurers pay physicians under the bipartisan, bicameral No Surprises Act. Yet insurers were allowed to calculate it using “ghost rates” - rates for services physicians never actually performed or negotiated - while excluding certain bonus and incentive payments.\n\nThe result? The court found the QPAs were artificially low.\n\nThat matters for patients. The NSA was designed to protect them from surprise medical bills, not create a system that further distorts negotiations between insurers and the physicians and hospitals providing life-saving care.\n\nNow zoom out for a minute and look at the bigger picture. \n\nWe constantly hear about protecting patients from “big” providers. But before anyone even sits down at the negotiating table, who actually has the leverage?\n\nLook at the top of the Fortune list: UnitedHealth Group. CVS Health. Cigna. Elevance. Centene. All in the top 20. C'mon now.🤨\n\nProtect patients from surprise bills? Absolutely! But don’t confuse protecting patients with protecting insurance-company margins. \n\n@councilsns @AANSNeuro @CNS_Update @spinesection @cvsection @painsection @TumorSection @AANSCNStrauma",
+   "lang": "en",
+   "createdAt": "2026-08-13T15:57:49.000Z",
+   "type": "quote",
+   "author": {
+    "id": "461301890",
+    "username": "neurosurgery",
+    "name": "Neurosurgery",
+    "url": "https://x.com/neurosurgery",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2052425675215101954/i56cXFkQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 2,
+    "views": 54581
+   },
+   "replyTo": null,
+   "quotedTweetId": "2087640034228736507",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "326560055",
+      "username": "councilsns",
+      "name": "CSNS"
+     },
+     {
+      "id": "348471949",
+      "username": "AANSNeuro",
+      "name": "AANS"
+     },
+     {
+      "id": "123659292",
+      "username": "CNS_Update",
+      "name": "CNS"
+     },
+     {
+      "id": "262232159",
+      "username": "spinesection",
+      "name": "AANS/CNS Spine Section"
+     },
+     {
+      "id": "250037524",
+      "username": "cvsection",
+      "name": "CV Section"
+     },
+     {
+      "id": "1114256950739591174",
+      "username": "painsection",
+      "name": "AANS/CNS Joint Section on Pain"
+     },
+     {
+      "id": "1172647268",
+      "username": "TumorSection",
+      "name": "Section on Tumors"
+     },
+     {
+      "id": "1016807267260338176",
+      "username": "AANSCNStrauma",
+      "name": "Neurotrauma Section"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2079571890826313828",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2079571890826313828",
+   "url": "https://x.com/EdGainesIII/status/2079571890826313828",
+   "conversationId": "2079571890826313828",
+   "text": "@senthomtillis @SenTedBuddNC @virginiafoxx 🚨 \n\nCongress passed the No Surprises Act (NSA) & Insurers are ignoring the payment requirements under the law.\n\nPhysicians are fed up w/ delayed payments & insurers defying binding rulings. \n\nH.R. 4710/S. 2420 is a simple fix: enforce the law. \nLawmakers — cosponsor now. Patients & physicians can’t wait.",
+   "lang": "en",
+   "createdAt": "2026-07-21T14:19:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 5,
+    "quotes": 2,
+    "likes": 18,
+    "bookmarks": 1,
+    "views": 1302
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2964174789",
+      "username": "senthomtillis",
+      "name": "Senator Thom Tillis"
+     },
+     {
+      "id": "817138492614524928",
+      "username": "SenTedBuddNC",
+      "name": "Senator Ted Budd"
+     },
+     {
+      "id": "16256269",
+      "username": "virginiafoxx",
+      "name": "Virginia Foxx"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2060533141748543886",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2060533141748543886",
+   "url": "https://x.com/amyfaithho/status/2060533141748543886",
+   "conversationId": "2060533141748543886",
+   "text": "It always amazes me how little people, doctors included, know about the No Surprises Act (NSA) and IDR (independent dispute resolution).\n\nThe TLDR is NSA banned physician groups from billing patients when physicians were out of network and insurances wouldn’t pay. Awesome and the right thing for patients, but then the legislation forced physician groups to recoup money from insurances via forced arbitration (IDR) with very high fees. Even if you won, it was still 6-12mos+ to get any cash in the bank...but the fees and cost get paid upfront…\n\nCMS just issued their updated rule on IDR, which dropped one of those fees by 87%, from $230 to $30. As an aggregate, this drop represents over $500M in fees.\n\nGood news, but obnoxious, since if insurances would just pay physicians in the first place, then the fees wouldn’t exist at all. Cheaper arbitration is still arbitration...\n\nJust another example of health care $ bloat from bad insurance practices. \n\nhttps://www.hhs.gov/press-room/federal-rule-takes-aim-health-care-bureaucracy-reducing-dispute-fees-boosting-transparency.html",
+   "lang": "en",
+   "createdAt": "2026-05-30T01:25:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 0,
+    "views": 1943
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.hhs.gov/press-room/federal-rule-takes-aim-health-care-bureaucracy-reducing-dispute-fees-boosting-transparency.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2057116768959705142",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2057116768959705142",
+   "url": "https://x.com/EdGainesIII/status/2057116768959705142",
+   "conversationId": "2057116768959705142",
+   "text": "Exhibit A for passage of the No Surprises Act Enforcement Act (H.R. 4710) is demonstrated by the experience of Radiology Associates of North Texas (RANT), one of the largest independent radiology groups in the US.\n\nAccording to Radiology Business (5/20/2026), \"Radiology Associates estimates it has prevailed in about 95% of finalized IDR disputes with Blue Cross Blue Shield of Texas, the state’s largest insurer. However, more than $3.5 million in awarded balances remain unpaid. RANT estimated that $1.64 million of this total has been outstanding for over 120 days. As of Tuesday, BCBS Texas has paid approximately 2% of awarded balances.\"\n\nRANT is not alone in this experience.\n\nThe Emergency Dept. Practice Management Association (EDPMA), representing well over 60% of the ED groups providing care to ED patients (or organizations supporting the provision of care), released a study in April 2026 of over 659,000 successful NSA IDR claims won by its members in 2025.  Yet, 48% of those IDR determinations were not paid within the 30-day period required by law. The total outstanding of award determinations not paid by the health plans exceeded $245,000,000.\n\nCongress must pass HR 4710 to give CMS the same enforcement authority it has over hospitals and physicians that it does not currently have over health plans, mainly the ability to assess Civil Monetary Penalties (CMPs) for non-compliance with the NSA.\n\nRadiology Associates of North Texas says it will waste over $51M on costs related to No Surprises Act https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/radiology-associates-north-texas-says-it-will-waste-over-51m-costs-related-no-surprises-act",
+   "lang": "en",
+   "createdAt": "2026-05-20T15:10:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 18,
+    "quotes": 1,
+    "likes": 30,
+    "bookmarks": 3,
+    "views": 1686
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/radiology-associates-north-texas-says-it-will-waste-over-51m-costs-related-no-surprises-act"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090122075230916830",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2090122075230916830",
+   "url": "https://x.com/JahangirAsgha10/status/2090122075230916830",
+   "conversationId": "2090122075230916830",
+   "text": "There has been a lot of criticism of the No Surprises Act IDR process lately.\n\nAnd as someone who was initially reluctant to utilize it because I didn’t want to limit access, I am now its strongest advocate.\n\nThe important thing to understand is that almost none of the criticisms address the more obvious question:\n\nHow many opportunities did the insurance company have to resolve the claim before an arbitrator ever made a decision?\n\nThe process does not go from a physician submitting a claim directly to arbitration.\n\nThe insurer first makes an initial payment or denial.\n\nIf the physician believes that payment is inadequate, there is then a mandatory 30 business day open negotiation period specifically intended to allow the parties to agree on a reasonable rate. IDR cannot even be initiated until that period is over. (CMS)\n\nAnd even after IDR begins, the parties can still resolve the dispute rather than having the arbitrator determine the payment.\n\nSo there are multiple opportunities to settle the claim.\n\nThe bigger question is:\n\nAre insurers actually using those opportunities to negotiate?\n\nIn my experience, overwhelmingly, no.\n\nMost of the time the “open negotiation” period is simply quiet.\n\nSometimes you receive a response offering a very small additional amount.\n\nAcross all the claims I have personally been involved with, I can remember one time where there was what I would consider an actual back and forth negotiation over a reasonable payment.\n\nApparently that experience is not unique.\n\nCMS has now acknowledged receiving numerous reports that parties were not meaningfully engaging in open negotiation before proceeding to IDR. (CMS)\n\nThe problem was significant enough that the federal government changed the process and created a formal response requirement during the negotiation period, specifically to improve communication and encourage meaningful negotiation before arbitration. (CMS)\n\nThink about that.\n\nWe created a 30 business day negotiation period.\n\nInsurers have an opportunity to make a reasonable initial payment.\n\nThey then have another opportunity to negotiate that payment.\n\nThe parties can still resolve the claim after IDR begins.\n\nYet enormous numbers of disputes still make it all the way to an arbitrator.\n\nAnd then insurers point to the arbitration results and argue that IDR is the problem.\n\nMaybe arbitration is not the first place we should be looking.\n\nMaybe we should be asking why so many claims ever needed arbitration in the first place.\n\nIf insurers do not want physicians using IDR, make a reasonable payment.\n\nIf they do not want cases going to arbitration, actually negotiate during the negotiation period.\n\nAnd if they want independent physicians to stay in network, offer reasonable contracted rates.\n\nArbitration was supposed to be the last resort when negotiation failed.\n\nBut if one side barely participates in the negotiation process, it is pretty disingenuous to blame the arbitrator when the dispute ultimately has to be decided.",
+   "lang": "en",
+   "createdAt": "2026-08-19T17:01:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 17,
+    "bookmarks": 4,
+    "views": 1458
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2090122072085127168",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQGa81vWYAA5eQX.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HQGa81vWYAA5eQX.jpg",
+     "width": 1200,
+     "height": 1600,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2012610673717440985",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2012610673717440985",
+   "url": "https://x.com/CRCook1978/status/2012610673717440985",
+   "conversationId": "2012610673717440985",
+   "text": "🪡 🧵I appreciate @EdGainesIII bringing up the healthplans priorities & refuting them. I will expand on his discussion.\n1/ AHIP claims it wants to “make health care more affordable.” https://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable\nAs a solo independent physician who deals daily with the No Surprises Act (NSA) and IDR, here’s a fact-based, point-by-point response using backing claims— not talking points. \n\nAHIP’s July 30, 2025 article claims Congress should “Stop Private Equity’s Misuse of the No Surprises Act (NSA).” I’m a solo independent physician who works daily inside NSA Independent Dispute Resolution (IDR), and the real problem is health plans’ “No / Low / Slow Pay” after they LOSE binding arbitration, combined with procedural gamesmanship that forces small practices like mine to keep writing obscene checks just to get paid fairly.\n\nCMS reports that as of Nov. 30, 2025, 4,634,956 IDR disputes had been initiated and over 3.2 million payment determinations issued.\nhttps://www.cms.gov/nosurprises/policies-and-resources/reports\n\nCongressional Research Service reports ~$718 million in IDR fees in 2024 alone, with initiating parties’ offers selected ~85% of the time, which directly contradicts the claim that physicians  are abusing arbitration.\nhttps://www.congress.gov/crs_external_products/R/PDF/R48738/R48738.2.pdf\n\nThe AMA documents that late payment & nonpayment after IDR determinations is widespread, despite the statute requiring timely payment.\nhttps://www.ama-assn.org/health-care-advocacy/access-care/one-wrinkle-surprise-billing-law-health-plans-aren-t-paying\n\nMixed court decisions on enforcement of NSA IDR determinations is a Red Line that Congress needs to Act to eliminate judicial ambiguity. \nhttps://www.govinfo.gov/content/pkg/USCOURTS-ctd-3_24-cv-00680/pdf/USCOURTS-ctd-3_24-cv-00680-1.pdf?utm_source=chatgpt.com\n\nhttps://www.ca5.uscourts.gov/opinions/pub/24/24-10561-CV0.pdf?utm_source=chatgpt.com\n\nCongress already wrote the rule. Now enforce it. Sign on and Vote Yes on \nNo Surprises Act Enforcement Act (Murphy–Marshall):\nHouse: https://www.congress.gov/bill/119th-congress/house-bill/4710\nSenate: https://www.congress.gov/bill/119th-congress/senate-bill/2420\n\nhttps://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable\n\n@RobertKennedyJr @DrOz @realDonaldTrump @MikeJohnson @LeaderJohnThune \n@RepRaulRuizMD @DrKimSchrier @RepHerbConaway @herbconaway @MaxineDexterMD @Morrison4MN @RepBera @RepMMM @RepMarkGreen @RepGregMurphy @RepRonnyJackson @RepJohnJoyce @RepNealDunn @RepAndyHarrisMD @RichforGA @RepDesJarlais @SenJohnBarrasso @SenBillCassidy @RogerMarshallMD @DrRandPaul @MikeKennedyUT @BobOnderMO\n@RepRaulRuizMD @DrKimSchrier\n@RepHerbConaway \n@MaxineDexterMD @Morrison4MN\n@RepBera\n@GOPDoctors",
+   "lang": "en",
+   "createdAt": "2026-01-17T19:39:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 1559
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     },
+     {
+      "id": "337808606",
+      "username": "RobertKennedyJr",
+      "name": "Robert F. Kennedy Jr"
+     },
+     {
+      "id": "38531995",
+      "username": "DrOz",
+      "name": "Dr. Mehmet Oz"
+     },
+     {
+      "id": "25073877",
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "id": "4849654052",
+      "username": "MikeJohnson",
+      "name": "Mike Johnson"
+     },
+     {
+      "id": "296361085",
+      "username": "LeaderJohnThune",
+      "name": "Leader John Thune"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "52596035",
+      "username": "herbconaway",
+      "name": "Dr. Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1345807954604412929",
+      "username": "RepMMM",
+      "name": "Rep. Mariannette Miller-Meeks, M.D."
+     },
+     {
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen",
+      "name": "Rep. Mark Green"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson",
+      "name": "Ronny Jackson"
+     },
+     {
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce",
+      "name": "John Joyce, M.D."
+     },
+     {
+      "id": "3433227779",
+      "username": "RepNealDunn",
+      "name": "Neal Dunn"
+     },
+     {
+      "id": "960962340",
+      "username": "RepAndyHarrisMD",
+      "name": "Rep. Andy Harris, MD"
+     },
+     {
+      "id": "1136709465082945538",
+      "username": "RichforGA",
+      "name": "Dr. Rich McCormick for Congress"
+     },
+     {
+      "id": "202206694",
+      "username": "SenJohnBarrasso",
+      "name": "Sen. John Barrasso"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "39834947",
+      "username": "DrRandPaul",
+      "name": "Rand Paul"
+     },
+     {
+      "id": "1604949372",
+      "username": "BobOnderMO",
+      "name": "Dr. Bob Onder"
+     },
+     {
+      "id": "1089859058",
+      "username": "RepRaulRuizMD",
+      "name": "Congressman Raul Ruiz, M.D."
+     },
+     {
+      "id": "862393019173003264",
+      "username": "DrKimSchrier",
+      "name": "Dr. Kim Schrier"
+     },
+     {
+      "id": "1872681063597887488",
+      "username": "RepHerbConaway",
+      "name": "Congressman Herb Conaway"
+     },
+     {
+      "id": "988135719951626240",
+      "username": "Morrison4MN",
+      "name": "Kelly Morrison"
+     },
+     {
+      "id": "950783972",
+      "username": "RepBera",
+      "name": "Ami Bera, M.D."
+     },
+     {
+      "id": "1358501532090703874",
+      "username": "GOPDoctors",
+      "name": "GOP Doctors Caucus"
+     }
+    ],
+    "urls": [
+     "https://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable",
+     "https://www.cms.gov/nosurprises/policies-and-resources/reports",
+     "https://www.congress.gov/crs_external_products/R/PDF/R48738/R48738.2.pdf",
+     "https://www.ama-assn.org/health-care-advocacy/access-care/one-wrinkle-surprise-billing-law-health-plans-aren-t-paying",
+     "https://www.govinfo.gov/content/pkg/USCOURTS-ctd-3_24-cv-00680/pdf/USCOURTS-ctd-3_24-cv-00680-1.pdf?utm_source=chatgpt.com",
+     "https://www.ca5.uscourts.gov/opinions/pub/24/24-10561-CV0.pdf?utm_source=chatgpt.com",
+     "https://www.congress.gov/bill/119th-congress/house-bill/4710",
+     "https://www.congress.gov/bill/119th-congress/senate-bill/2420",
+     "https://www.ahip.org/news/articles/five-steps-congress-can-take-to-make-health-care-more-affordable"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1835697442529935428",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1835697442529935428",
+   "url": "https://x.com/RadiologyACR/status/1835697442529935428",
+   "conversationId": "1835697442529935428",
+   "text": "We, along with @ACEPNow &amp; @ASALifeline, strongly support newly introduced legislation that will fine insurers for delayed payment to physicians as part of the No Surprises Act. Learn more: https://bit.ly/3znYwKF #AdvocacyInAction #radvocacy @ACRRAN https://x.com/RadiologyACR/status/1835697442529935428/photo/1",
+   "lang": "en",
+   "createdAt": "2024-09-16T15:09:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "24232840",
+    "username": "RadiologyACR",
+    "name": "American College of Radiology",
+    "url": "https://x.com/RadiologyACR",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1655271239605207044/rdwcjAjn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 887
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1835697421424218112",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GXm1FC8XUAA__z2.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GXm1FC8XUAA__z2.jpg",
+     "width": 1080,
+     "height": 1080,
+     "altText": "Image of ACR members on the steps of the Capitol building overlayed on light indigo background. Headline, \"Advocacy in Action\" centered on the bottom with ACR logo in top left corner.",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AdvocacyInAction",
+     "radvocacy"
+    ],
+    "mentions": [
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "2827438191",
+      "username": "ACRRAN",
+      "name": "ACR RAN"
+     }
+    ],
+    "urls": [
+     "https://bit.ly/3znYwKF"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2076810275932512383",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2076810275932512383",
+   "url": "https://x.com/DrBruggeman/status/2076810275932512383",
+   "conversationId": "2076810275932512383",
+   "text": "Interesting quote from Judge Thrash on the No Surprises Act\n\n“The Court notes that the Plaintiff argues that it loses a lot of IDR arbitrations. For example, it says that of the 228 IDRs the Defendants initiated on May 3, 2024, the Plaintiff lost 192. It cites CMS data that Providers prevailed in 85% of IDR payment determinations. It is highly improbable to infer from these facts that there is a vast conspiracy of providers and IDREs that have conspired to defraud the Plaintiff of millions of dollars in thousands of NSA IDR proceedings over many years. It is highly plausible to infer that the Plaintiff engages in a consistent practice of submitting lowball offers to out-of-network providers in an effort to maximize its profits. This conclusion is reinforced by the generality and conclusory nature of the Plaintiff’s fraud claims and failure to comply with Rule 9(b) as noted above.”",
+   "lang": "en",
+   "createdAt": "2026-07-13T23:25:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 16,
+    "quotes": 6,
+    "likes": 49,
+    "bookmarks": 7,
+    "views": 8071
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2076810272589692929",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNJP8IOXQAE58dQ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNJP8IOXQAE58dQ.jpg",
+     "width": 1320,
+     "height": 1502,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1957802874940916108",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1957802874940916108",
+   "url": "https://x.com/EdGainesIII/status/1957802874940916108",
+   "conversationId": "1957802874940916108",
+   "text": "In my more than several decades as a healthcare lawyer, before the successful @Texmed 4 cases against HHS & the other depts., I could count on several fingers the number of times that a federal court overturned federal regulations.  \n\nWhat is even more remarkable is that this occurred under the \"Chevron Deference Doctrine\" from SCOTUS which was overruled in their Loper Bright decision but after the 4 cases were largely adjudicated.\n\nThank God for Texas and the TMA--I cannot imagine where we would be in the #NoSurprisesAct without their hugely successful litigation.\n\nThe No Surprises Act: 5 year timeline https://www.beckersasc.com/anesthesia/the-last-5-years-of-the-no-surprises-act-a-timeline/ \n\nHere is a timeline of the No Surprises Act and the challenges it faced since it was signed into law:\n\nDec. 31, 2020: The No Surprises Act is signed into law. The rules are set to take effect in January 2022.\n\nApril 23, 2021: Politico reports that health systems, insurers, trade associations, ambulance companies and physician staffing firms have increased lobbying efforts to determine how the U.S. will enforce its ban on surprise medical billing.\n\nJuly 2, 2021: CMS unveils the No Surprises Act’s interim final rule. The rule details how payments from health plans to providers will be determined. It appears to keep payment rates lower than those lobbied for by hospitals and other healthcare providers.\n\nOct. 28, 2021: The Texas Medical Association sues over what it says is an unfair process to resolve billing disputes between health insurers and providers. It is one of several organizations to file lawsuits challenging the rule.\n\nJan. 1, 2022: The No Surprises Act takes effect.\n\nFeb. 23, 2022: A federal judge in Texas rules that the No Surprises Act arbitration process implemented by HHS violated the Administrative Procedure Act, delivering a win to the Texas Medical Association. U.S. District Judge Jeremy Kernodle says the rule “places its thumb on the scale” for the qualifying payment amount.\n\nMarch 2, 2022: HHS says it will revise its guidance on the arbitration process outlined under the No Surprises Act following the federal court ruling.\n\nApril 22, 2022: HHS files a notice of appeal regarding the Texas federal judge’s ruling in the Texas Medical Association case.\n\nMay 3, 2022: HHS requests a hold on its appeal, which is granted.\n\nAug. 19. 2022: HHS and the Labor Department issue final rules for the No Surprises Act.\n\nSept. 20, 2022: The American Hospital Association and American Medical Association announce they are dismissing a lawsuit they filed challenging the No Surprises Act, but say they remain concerned that the final rule “continues to favor insurers and does not line up with what Congress intended when it passed the law.”\n\nSept. 22, 2022: The Texas Medical Association files a second lawsuit challenging the No Surprises Act, arguing the final rule will “unfairly advantage health insurers by requiring arbitrators to give outsized weight or consideration to the [qualifying payment amount].”\n\nOct. 19, 2022: The AHA and the AMA, along with 30 additional national and state medical groups, file amicus briefs in support of the Texas Medical Association’s second lawsuit.\n\nNov. 28, 2022: The Texas Medical Association’s lawsuit challenging the validity of the No Surprises Act’s independent dispute resolution could increase an already lengthy backlog, Bloomberg Law reports. HHS launched the IDR portal in April and received more than 90,000 claims in the first five and a half months, substantially more than the department initially estimated would be submitted for a full year.\n\nNov. 30, 2022: The Texas Medical Association files its third lawsuit against the No Surprises Act, arguing that portions of the rule “artificially deflate the qualifying payment amount.”\n\nJan. 31, 2023: The Texas Medical Association files a fourth lawsuit, this time challenging a 600% hike in administrative fees when seeking dispute resolutions.\n\nFeb. 6, 2023: Mr. Kernodle rules in favor of the Texas Medical Association in its second lawsuit. He rules that the revised arbitration process “continues to place a thumb on the scale” in favor of insurers and “that the challenged portions of the final rule are unlawful and must be set aside.”\n\nFeb. 10, 2023: CMS instructs certified IDR entities to hold all payment determinations under the No Surprises Act until HHS and the Treasury Department issue further guidance.\n\nFeb. 27, 2023: CMS says certified IDR entities can resume issuing No Surprises Act payment determinations involving out-of-network services and items furnished before Oct. 25, 2022.\n\nMarch 16, 2023: Representatives for both providers and payers say IDR arbitrators are often not following the No Surprises Act, Bloomberg Law reports.\n\nApril 18, 2023: A report from the Urban Institute and the Georgetown University’s Center on Health Insurance Reforms finds that the No Surprises Act is largely protecting patients from the most pervasive forms of surprise billing, but the gaps that do remain have left some with unexpected financial liabilities.\n\nAug. 3, 2023: Mr. Kernodle rules in favor of the Texas Medical Association in its fourth lawsuit. He found that federal agencies did not follow notice and comment requirements when hiking administrative fees. He also invalidated certain rules narrowing batching claims for arbitration. HHS said it was temporarily suspending the IDR process — including the ability to initiate new disputes — until the federal agencies can provide additional instructions.\n\nAug. 11, 2023: CMS lowers the IDR fee to $50 following the government’s latest court loss.\n\nAug. 25, 2023:  From Aug. 25 to Sept. 21, CMS temporarily suspended all federal IDR processes in response to a Texas judge’s latest ruling in a series of lawsuits challenging provisions of the No Surprises Act.\n\nSept. 19, 2023: Missouri Rep. Jason Smith, chairman of the House Ways and Means Committee, held a hearing alleging that the federal government’s flawed implementation of the No Surprises Act has made the problem it intended to fix worse. He said the flawed implementation is “resulting in more medical providers no longer covered under health insurance networks.”\n\nSept. 26, 2023: Federal departments sought to raise the administrative fee to enter the No Surprises Act arbitration process from $50 to $150 in 2024.\n\nDec. 18, 2023: The federal government issued a final rule setting the fee to enter the No Surprises Act arbitration process at $115. The rule mandates that the administrative fee amount will be established no more than once per calendar year.\n\nJan. 23, 2024: An appeals court partially revived Daniel Haller, MD, and the surgeons at Rockville Centre, N.Y.-based Long Island Surgical PLLC’s lawsuit challenging the No Surprises Act as unconstitutional.\n\nFeb. 15, 2024: CMS released a report that revealed there were 288,810 No Surprises Act disputes initiated during the first six months of 2023, which was 13 times greater than federal agencies initially anticipated.\n\nMarch 26, 2024: The American Society of Anesthesiologists, along with other physician groups, filed its fifth amicus brief supporting Texas Medical Association’s lawsuit challenging the federal government’s implementation of the No Surprises Act.\n\nJuly 12, 2024: In CMS’ first audit of an insurer’s No Surprises Act compliance, Aetna was found to have failed to accurately calculate qualified payment amounts for air ambulance services.\n\nAug. 24, 2024: A report from CMS detailed the most common complaints related to No Surprises Act and ACA compliance. These complaints include surprise billing for both emergency and non-emergency services by providers, payment noncompliance by payers and late payments after independent dispute resolution determination.\n\nSept. 13, 2024: Bipartisan legislation was introduced to improve enforcement of the No Surprises Act.\n\nSept. 27, 2024:  The American Association of Nurse Anesthesiology filed a petition with a U.S. district court urging Xavier Beccera, then HHS secretary, to enforce the provider nondiscrimination provision of the ACA against insurance companies and health plans. The nondiscrimination provision was passed in 2010 to prevent payers from discriminating against providers on the basis of licensure. The 2020 No Surprises Act required HHS to enforce those policies within one year, but the AANA contends there is still no enforcement in place.\n\nApril 7, 2025:  A New York federal judge dismissed an antitrust lawsuit against UnitedHealthcare and MultiPlan (now Claritev) that alleged the companies conspired to slash reimbursement rates to Long Island Anesthesiologists by more than 80% after the No Surprises Act took effect in January 2022.\n\nMay 30, 2025: Elevance Health, parent company of Blue Cross Blue Shield of Georgia, filed a lawsuit against billing company HaloMD, Hospitalist Medicine Physicians of Georgia and Sound Physicians Emergency Medicine of Georgia, alleging the three organizations exploited the IDR process for financial gain. The lawsuit claims the disputes were falsely certified as eligible and structured to secure payments above market rates. Nearly 70% of disputes resulting in provider payments were allegedly not qualified for arbitration.\n\nJune 12, 2025: The 5th Circuit Court of Appeals sided with insurers over air ambulance companies, ruling that the No Surprises Act does not grant a private right of action to enforce IDR awards in court unless there is clear evidence of fraud or misconduct. The court also ruled that third-party IDR entities are immune from lawsuits, providing insurers with legal protection against disputes over arbitration outcomes.\n\nJuly 24, 2025: The American College of Radiology, American College of Emergency Physicians and American Society of Anesthesiologists express support for the No Surprises Enforcement Act. The legislation would impose a penalty three times the difference between the insurer’s initial payment and the IDR arbiter’s ruling per claim, which would also be subject to interest.",
+   "lang": "en",
+   "createdAt": "2025-08-19T13:52:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 3,
+    "views": 487
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "12831902",
+      "username": "Texmed",
+      "name": "Texas Medical Association"
+     }
+    ],
+    "urls": [
+     "https://www.beckersasc.com/anesthesia/the-last-5-years-of-the-no-surprises-act-a-timeline/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102428027896389755",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2102428027896389755",
+   "url": "https://x.com/RSKRecovery/status/2102428027896389755",
+   "conversationId": "2102428027896389755",
+   "text": "A provider won $3M+ in IDR awards. But did the money arrive? Payment must be identified, received, and reconciled. Read more here: https://rsk.com/content/winning-a-payer-payment-dispute-does-not-mean-the-money-was-recovered https://x.com/RSKRecovery/status/2102428027896389755/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:01:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2065089640516759552",
+    "username": "RSKRecovery",
+    "name": "RSK | Complex Recovery",
+    "url": "https://x.com/RSKRecovery",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2065100910951370752/-vxrXoEq_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 1
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102428024226320384",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS1TJh3WEAAgAf1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS1TJh3WEAAgAf1.jpg",
+     "width": 1254,
+     "height": 1254,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://rsk.com/content/winning-a-payer-payment-dispute-does-not-mean-the-money-was-recovered"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061096838757793848",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2061096838757793848",
+   "url": "https://x.com/EdGainesIII/status/2061096838757793848",
+   "conversationId": "2061096838757793848",
+   "text": "Well said @ASALifeline @RadiologyACR & @ACEPAdvocacy on the #NoSurprisesAct IDR operations final rule issuance last week, after 2.5+ years of work.  \n\nAs stated, our advocacy work is not done.  \n\nAlso, while never really contemplated in the proposed rule, the final rule does not address the major issues of enforcement and specifically the requirements of compliance with payment of the IDR determinations.\n\nH.R. 4710, The No Surprises Act Enforcement Act, with bipartisan co-sponsors must be a priority for passage in this Congress.\n\nBTW, it would penalize hospitals and physicians if they did not pay the IDR determination filed by the health plans, but that occurs only ~10% of IDR filings.\n\n https://www.asahq.org/about-asa/newsroom/news-releases/2026/05/acep-acr-and-asa-applaud-final-idr-operations-rule-as-major-step-forward-for-no-surprises-act-implementation",
+   "lang": "en",
+   "createdAt": "2026-05-31T14:45:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 1,
+    "views": 317
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "24232840",
+      "username": "RadiologyACR",
+      "name": "American College of Radiology"
+     },
+     {
+      "id": "3064008447",
+      "username": "ACEPAdvocacy",
+      "name": "ACEP Advocacy"
+     }
+    ],
+    "urls": [
+     "https://www.asahq.org/about-asa/newsroom/news-releases/2026/05/acep-acr-and-asa-applaud-final-idr-operations-rule-as-major-step-forward-for-no-surprises-act-implementation"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1801312943251886378",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1801312943251886378",
+   "url": "https://x.com/EdGainesIII/status/1801312943251886378",
+   "conversationId": "1801312943251886378",
+   "text": "@CMSGov has posted the Q3 & Q4 2023 Independent Dispute Resolution (IDR) reports in summary w/ the public use file data.  Good news—the #NoSurprisesAct and level playing field that Congress intended—that the Depts. attempted to dismantle while reaching for the mythical $18-22B the CBO said would be garnered by a benchmarking bill w/ no IDR—is working better.  The IDR Operations rule that was proposed last fall, comment period ended in Jan., and is due out any day, will level the playing field even more if the major proposals are adopted.  @ACEP @EDPMA and the clinician stakeholder community have been asking for these changes for 2-3 yrs.\n\nHighlights from the Q3 & Q4 2023 CMS reports:\n1.  125, 478 IDR disputes were resolved.\n2.  Emergency medicine retained its crown with 59% of the payment determinations; radiology and anesthesia are climbing in the latest reports.\n3.  Clinicians, hospitals and air ambulance initiating parties were the prevailing party in 82% of the IDR determinations, up from 71% in Q1 & Q2 2023.  This win percentage and the next stat prove how important it was for the clinician community to fight for and win the IDR process in the statute.  This group also won a > % of the non-default determinations.\n4.  The prevailing parties’ offer was > than the “qualifying payment amount” (QPA or almost always the initial payment for out of network services) in 88% of payment determinations.  This fact is highlighted by the @EDPMA survey (posted here the other day) showing with the ‘23 QPA are -39% lower than those in 2022.\n\nhttps://www.cms.gov/nosurprises/policies-and-resources/reports\n\n@ASALifeline @RadiologyACR @AmerMedicalAssn @ahahospitals @texmed @813JAFERD @JeffreyLDavis44 @TakeWeightOffMD @sonodoc99 @fuzzymittens @drdanchoi @DrBruggeman @sonodoc99 @Reese_Tassey @KatieOrrico @ercoderguy @SunnyJhaMD @amychomd @Valleus556 @reh3md @RichDuszak",
+   "lang": "en",
+   "createdAt": "2024-06-13T17:57:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 5,
+    "quotes": 3,
+    "likes": 14,
+    "bookmarks": 3,
+    "views": 2612
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct"
+    ],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "15019844",
+      "username": "ACEP",
+      "name": "acep"
+     },
+     {
+      "id": "38458001",
+      "username": "EDPMA",
+      "name": "EDPMA"
+     },
+     {
+      "id": "38458001",
+      "username": "EDPMA",
+      "name": "EDPMA"
+     },
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "24232840",
+      "username": "RadiologyACR",
+      "name": "American College of Radiology"
+     },
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "241215352",
+      "username": "ahahospitals",
+      "name": "American Hospital Association"
+     },
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     },
+     {
+      "id": "902361499464806401",
+      "username": "813JAFERD",
+      "name": "Damian Caraballo MD"
+     },
+     {
+      "id": "4900147719",
+      "username": "JeffreyLDavis44",
+      "name": "Jeffrey Davis"
+     },
+     {
+      "id": "481703086",
+      "username": "TakeWeightOffMD",
+      "name": "Dr Murphy Longevity Expert"
+     },
+     {
+      "id": "80845534",
+      "username": "sonodoc99",
+      "name": "Art Fougner PGY50"
+     },
+     {
+      "id": "1930857638230953985",
+      "username": "fuzzymittens",
+      "name": "MiMi"
+     },
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     },
+     {
+      "id": "80845534",
+      "username": "sonodoc99",
+      "name": "Art Fougner PGY50"
+     },
+     {
+      "id": "2678767424",
+      "username": "Reese_Tassey",
+      "name": "Reese Tassey, MD, MPH"
+     },
+     {
+      "id": "22138577",
+      "username": "KatieOrrico",
+      "name": "Katie O'Meara Orrico"
+     },
+     {
+      "id": "483041107",
+      "username": "SunnyJhaMD",
+      "name": "Sunny Jha"
+     },
+     {
+      "id": "1052571889007251458",
+      "username": "amychomd",
+      "name": "Amy Cho, MD MBA"
+     },
+     {
+      "id": "890688305087623170",
+      "username": "Valleus556",
+      "name": "Mark Pappadakis D.O."
+     },
+     {
+      "id": "3278817840",
+      "username": "reh3md",
+      "name": "Rich Heller"
+     },
+     {
+      "id": "44143505",
+      "username": "RichDuszak",
+      "name": "Rich Duszak, MD"
+     }
+    ],
+    "urls": [
+     "https://www.cms.gov/nosurprises/policies-and-resources/reports"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2053887893261750504",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2053887893261750504",
+   "url": "https://x.com/AmerMedicalAssn/status/2053887893261750504",
+   "conversationId": "2053887893261750504",
+   "text": "America's physicians are frustrated. The healthcare community is calling on Congress to crack down on insurers dodging No Surprises Act payments. No more payment delays, no more loopholes. Read the letter: http://spr.ly/6017BBs6MX",
+   "lang": "en",
+   "createdAt": "2026-05-11T17:20:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "27922157",
+    "username": "AmerMedicalAssn",
+    "name": "AMA",
+    "url": "https://x.com/AmerMedicalAssn",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1605592250452434946/7Z9e-Me5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 4,
+    "quotes": 2,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1102
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://spr.ly/6017BBs6MX"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2072540926958809223",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2072540926958809223",
+   "url": "https://x.com/ForestParkPharm/status/2072540926958809223",
+   "conversationId": "2072540926958809223",
+   "text": "The law of unintended consequences remains undefeated.\n\nThe No Surprises Act was passed in 2020 to protect patients from surprise medical bills. And it worked — patients rarely get the bill anymore.\n\nIt's also paying surgical assistants $210,000 for assisting on a facial feminization surgery where the lead surgeon made $12,767.\n\nNot a typo. The ASSISTANT made 16x the SURGEON. (Fun detail: they're married. She's won at least $1.4 million in arbitration since 2025 assisting her husband's cases.)\n\nHere's how we got here.\n\nInstead of billing patients, out-of-network providers now take health plans to federal arbitration. Each side names a price. The arbitrator must pick one — no splitting the difference.\n\nCongress projected 17,000 claims per year.\n\nThere have been 6 MILLION since 2022. 1.4 million through May of this year alone.\n\nWhy? Because insurers hand out garbage payments. $30 for a three-hour robotic surgery. $105 for assisting a breast reconstruction. The standard assistant fee is supposed to be 16% of the surgeon's fee, and insurers won't even pay that.\n\nSo providers show up to arbitration with a 58-page brief, a five-page résumé, and an operative note. The arbitrator looks at the insurer's nonsense number, looks at the packet, and picks the packet.\n\nProviders win more than 85% of the time.\n\nThe payouts: • $50,456 to an assistant on a prostate removal in Dallas. The surgeon got $1,843. • $111,000 to an assistant on a breast reconstruction — $22,000 PER HOUR. The insurer had offered $105. The primary surgeon took $2,707 for the whole operation. • $196,215 for one spinal fusion in Wisconsin that typically pays about $11,000 total.\n\nAnd it's not a loophole anymore. It's a playbook.\nThat Wisconsin practice split ONE surgery into 11 separate arbitration cases and won all 11. A Dallas assistant company has filed over 960 disputes and wins nearly 90%. One health plan covering union workers has spent $19 million on arbitration since 2022 — costs that land in your premiums.\n\nThe kicker? The government collected SO much in filing fees that it just cut the cost of bringing a case from $115 to $15. Their own regulation predicts another 30% jump in claims. They're pouring gas on it.\nSound familiar? It should.\n\nCongress lets insurers collect rebates → drug prices inflate to fund the kickbacks. Congress forces pharma to sell at half price to hospitals → 340B becomes a hospital profit engine. Congress creates arbitration → surgery practices build a business model on it.\n\nFederal lawmakers see a complex problem, and from 3,000 miles away, swing their big dumb hammer of legislation at it. Every time, the industry turns the \"fix\" into a revenue stream. Even the CBO now admits the law may not deliver the savings it promised.\n\nAnd at the heart of all three is the actual disease: we rely too much on insurance, and they exploit our fear of bankruptcy to gouge us to death.\n\nThat's why we fired them.\n\nNo rebates. No hidden costs. No arbitration. Only fair, transparent prices.",
+   "lang": "en",
+   "createdAt": "2026-07-02T04:40:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 86,
+    "quotes": 10,
+    "likes": 214,
+    "bookmarks": 48,
+    "views": 5246
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2072540079277432832",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2072540079277432832/vid/avc1/1080x1920/NFT1WFCUjkqF9th3.mp4?tag=28",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2072540079277432832/img/3daCA2HjM8zYCl8P.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 190
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2078066897635967483",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2078066897635967483",
+   "url": "https://x.com/EdGainesIII/status/2078066897635967483",
+   "conversationId": "2078066897635967483",
+   "text": "1/ How ironic is that the #1 plan that receives the most independent dispute resolution (IDR) filings under the #NoSurprisesAct, @UHC, (see the CMS Public Use Files (PUF); United has been #1 since 4/15/22 when the IDR process started) says that the system must be reformed?\n\nThis from #UnitedHealthcare  that just posted $5,400,000,000 in quarterly (Q2 ‘26) profits w/ little brother @AnthemBCBS coming behind w/ a $1,500,000,000 quarterly print.\n\nPhysicians & hospitals are filling ~100K IDRs per month against @UHC—numbers don’t lie and keep it up.\n\nThe executives quoting “40%” of IDRs are ineligible is also horse hockey as the PUF data shows that this number is ~17%.  \n\nAlso in the horse hockey category is the old saw that a small cohort of physicians & third party firms are “abusing” the system.\n\nMemo to UHC:  our client base is predominantly independent physician group practices and they have and are opting out of BUCA health plan agreements and filing IDRs at an increasing rate.\n\nThe physician advocacy and supporting community should make no mistake—the health plans will make a run soon at gutting the IDR system under the guise of “cost savings”.  Their cost savings is your revenue—make no mistake.\n\nUnitedHealthcare: No Surprises arbitration system needs to be reformed. https://www.beckerspayer.com/payer/unitedhealthcare-no-surprises-arbitration-system-needs-to-be-reformed/",
+   "lang": "en",
+   "createdAt": "2026-07-17T10:38:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 1,
+    "views": 706
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct",
+     "UnitedHealthcare"
+    ],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [
+     "https://www.beckerspayer.com/payer/unitedhealthcare-no-surprises-arbitration-system-needs-to-be-reformed/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054911105298780563",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2054911105298780563",
+   "url": "https://x.com/DrBruggeman/status/2054911105298780563",
+   "conversationId": "2054911105298780563",
+   "text": "The Same Closed System, and Only One Side Can’t Get Paid\n\nThe third April ruling and the parallel body of provider-side enforcement cases, read together, reveal what Congress has not been willing to name: it built a closed system whose enforcement gap falls entirely on physicians.\n\nUnitedHealthcare v. NorthStar Anesthesia (E.D. Pa., April 28, 2026)\n\nUnitedHealthcare sued NorthStar Anesthesia after an IDR arbitrator awarded payment on an anesthesia claim for a Medicaid patient. The No Surprises Act does not apply to Medicaid. NorthStar acknowledged the filing was an error. A data processor had selected the wrong plan type from a dropdown menu. UnitedHealthcare sought declaratory and injunctive relief framed as a state common law fraud claim, arguing federal jurisdiction because the claim required interpretation of the NSA.\n\nJudge Kearney dismissed for lack of subject matter jurisdiction. Under the Grable/Gunn test, a state law claim only arises under federal law if a federal issue is necessarily raised, actually disputed, substantial, and resolvable without disrupting the congressional balance of federal and state responsibilities. UnitedHealthcare’s claim failed the first and third elements. There is no dispute that Medicaid claims are ineligible for NSA IDR. Whether NorthStar knew that and filed fraudulently anyway is a question of fact, not a pure question of federal law, and it does not raise a substantial federal issue. The court also noted that Congress had provided specific administrative remedies for exactly this type of jurisdictional error, including Technical Assistance guidance from HHS, Labor, and Treasury addressing IDR filings involving Medicare and Medicaid patients, which UnitedHealthcare had not used. The court declined to remedy what UnitedHealthcare called a broken system and directed it to Congress.\n\nAdvanced Vascular Associates v. Horizon Blue Cross Blue Shield (E.D. Pa., April 7, 2026)\n\nThree weeks earlier in the same district, Judge Wolson dismissed a provider’s attempt to confirm unpaid IDR awards under Section 9 of the Federal Arbitration Act. The NSA does not authorize that form of judicial relief. His instruction: the remedy for a statute Congress designed inadequately is Congress, not the courts.\n\nGuardian Flight v. Health Care Service Corp. (5th Cir., June 2025)\n\nGuardian Flight and Med-Trans won IDR awards. The insurer did not pay them. They sued. The Northern District of Texas dismissed. The Fifth Circuit affirmed in June 2025: the NSA structures enforcement through administrative penalties, not private litigation. Providers who are not paid must file CMS complaints. The Supreme Court declined to hear the appeal in January 2026. The Eleventh Circuit reached the same conclusion in November 2025. The Second Circuit will hear argument in a related case in June 2026.\n\nWhat the administrative remedy actually looks like in practice\n\nThe Fifth Circuit said the remedy is administrative. Let me describe what that pathway actually looks like for the physician standing at the end of it.\n\nA physician wins an IDR award. The insurer does not pay within the statutory 30-day window. The physician files a complaint with HHS. That complaint is referred to the Department of Labor for investigation under ERISA, which governs private sector employer-sponsored plans. The DOL opens a formal investigation and confirms it is open. It also confirms that it cannot escalate or expedite individual complaints. It cannot provide a specific timeline for resolution. It is fielding a significant volume of complaints about the same insurer’s handling of IDR payments after determination, enough that individual updates are not possible and all of them will be addressed through a consolidated investigation with no defined endpoint. The physician’s award remains unpaid throughout.\n\nThe closing instruction from the agency to the physician waiting for payment: if you want to pursue this matter while the investigation continues, you should contact your attorney.\n\nThat referral completes the circle. The Fifth Circuit told physicians the remedy is administrative. The administrative agency is telling physicians the remedy is legal. The attorney that physician calls cannot bring a private federal claim to enforce the IDR award in most circuits because the Fifth Circuit foreclosed it in June 2025 and the Supreme Court declined to intervene in January 2026.\n\nThis is the inevitable problem in the system. A physician with a binding IDR award that an insurer is not paying has, in practice, a complaint in a queue with no timeline, no provisional remedy, no automatic interest accruing, and no judicial option in most jurisdictions. The agency responsible for enforcement is managing a volume of complaints about a single insurer’s non-payment behavior that exceeds its capacity to respond individually. That is a documented pattern of systemic non-compliance meeting a statutory enforcement architecture that was not built to handle it.\n\nThe insurer inconsistency, documented in court filings\n\nAetna argued in Connecticut that the NSA bars judicial enforcement of IDR awards. This argument arose in a case where air ambulance providers sought payment for awards the defendant was alleged to have systematically ignored in what court filings characterized as a “low pay, late pay, or no pay” scheme described as a widespread business practice. The same Aetna simultaneously argued in Florida that courts should have authority to review and undo IDR outcomes when Aetna was the one seeking vacatur. The Fifth Circuit agreed with Aetna’s Connecticut position in June 2025. The Florida court rejected Aetna’s Florida position in April 2026. Aetna’s fully litigated posture across two federal circuits is: courts cannot be used to make us pay, and courts should be used to let us avoid paying. One position survived through the circuit level. The other died at the district court.\n\nThe enforcement asymmetry Congress wrote into the statute\n\nA physician who submits an ineligible IDR claim faces award denial, fraud exposure, and potential loss of process access. Those consequences exist in the statute and they are enforced. An insurer that does not pay a binding IDR award faces a complaint to an agency whose enforcement authority on this specific question is legally contested, whose investigative timeline is undefined, and whose volume of complaints on the same conduct has outpaced its capacity to respond. Congress created detailed compliance obligations for the weaker party and left the enforcement obligations of the stronger party deliberately vague.\n\nThat asymmetry is the current state of the law and it will remain the current state of the law until Congress identifies and corrects it.",
+   "lang": "en",
+   "createdAt": "2026-05-14T13:06:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 394
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2054911035212005378",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HISCsvrXgAInOp6.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HISCsvrXgAInOp6.jpg",
+     "width": 1320,
+     "height": 886,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2040748132951097409",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2040748132951097409",
+   "url": "https://x.com/DutchRojas/status/2040748132951097409",
+   "conversationId": "2040748132951097409",
+   "text": "When insurers lose No Surprises Act arbitration, some of them don’t pay. The determination is legally binding. The enforcement mechanism is limited. Physicians won 80% of disputes. Winning and getting paid are different things.",
+   "lang": "en",
+   "createdAt": "2026-04-05T11:07:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 10,
+    "quotes": 1,
+    "likes": 84,
+    "bookmarks": 5,
+    "views": 2706
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2057125144477184419",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2057125144477184419",
+   "url": "https://x.com/txsportsdoc/status/2057125144477184419",
+   "conversationId": "2057125144477184419",
+   "text": "The No Surprises Act created an entire new industry and costly bureaucracy for medical claims that should have been paid. The arbitration process costs doctors and groups sometimes more than the claim and you must pay the fee with no guarantee you’ll be paid a penny. Alas this article states, in some instances only 2% of the submitted claims are paid, but the arbitrators are paid regardless. Those listing single “large” payments as the rule, rather than the exception is disingenuous. One single “large” payment may still not even cover all the unpaid claims submitted. now insurance companies are in many cases, ignoring the decision by the arbitrator and not paying the claims. The fifth circuit court of appeals has now prevented physicians from suing to collect these amounts due to them, often siding “standing”.",
+   "lang": "en",
+   "createdAt": "2026-05-20T15:43:48.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 26,
+    "bookmarks": 6,
+    "views": 13563
+   },
+   "replyTo": null,
+   "quotedTweetId": "2057114998153908444",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2051349532068209033",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2051349532068209033",
+   "url": "https://x.com/ASAGrassroots/status/2051349532068209033",
+   "conversationId": "2051349532068209033",
+   "text": "ASA applauds the recent dismissal of UnitedHealthcare of PA’s lawsuit against NorthStar Anesthesia. The ruling rejects overreach, protects the No Surprises Act IDR process, and preserves fair payment pathways for physicians nationwide: https://www.asahq.org/advocacy-and-asapac/fda-and-washington-alerts/washington-alerts/2026/05/asa-amicus-brief-update-united-lawsuit-against-anesthesiology-group-dismissed https://x.com/ASAGrassroots/status/2051349532068209033/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-04T17:13:35.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "37000133",
+    "username": "ASAGrassroots",
+    "name": "ASAGrassrootsNetwork",
+    "url": "https://x.com/ASAGrassroots",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1177214928819826688/FNarJf6j_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 530
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2051349479912095745",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HHfbe8RXwAEC5PE.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HHfbe8RXwAEC5PE.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.asahq.org/advocacy-and-asapac/fda-and-washington-alerts/washington-alerts/2026/05/asa-amicus-brief-update-united-lawsuit-against-anesthesiology-group-dismissed"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1923434898041233518",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1923434898041233518",
+   "url": "https://x.com/DrBruggeman/status/1923434898041233518",
+   "conversationId": "1923434898041233518",
+   "text": "Recently the AHA mistakenly called for removal of protections associated with the No Surprises Act.  Thank you to @physicianhosp for supporting patients and physicians as they navigate the challenges of the payment system.",
+   "lang": "en",
+   "createdAt": "2025-05-16T17:46:30.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 19,
+    "bookmarks": 0,
+    "views": 3005
+   },
+   "replyTo": null,
+   "quotedTweetId": "1923432769822060888",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "43274920",
+      "username": "physicianhosp",
+      "name": "PHA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2029298759184863565",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2029298759184863565",
+   "url": "https://x.com/SnehaSaiMannam/status/2029298759184863565",
+   "conversationId": "2029298759184863565",
+   "text": "Reimbursement. Advocacy. Incentives. Systems.\n\nIn the latest episode of @Strive_Podcast, I speak with Ed Gaines, healthcare reimbursement expert and coding educator, about the economic infrastructure that quietly shapes modern medicine. We explore how reimbursement policy influences clinical behavior, why most physicians graduate without understanding the payment systems that govern their work, and how documentation, coding, and payer contracts ultimately determine whether care is sustainable. We also break down the real implications of the No Surprises Act, the growing burden of prior authorization, and how evolving payer practices are reshaping the future of physician autonomy. Ed shares why independent practices may be regaining leverage, how transparency in pricing could rebalance negotiations with health plans, and why young physicians must develop fluency in contracts, reimbursement policy, and advocacy early in their careers. A timely conversation on the intersection of medicine, policy, and economics, and why understanding the business of healthcare is becoming essential to protecting the practice of medicine itself.\n@EdGainesIII\n\nCheck the full episode out on:\nSpotify: https://open.spotify.com/show/3G1tdyCyMMAcD3VDBDOStC?si=2aebfb5f88d7439c\nApple Podcasts: https://podcasts.apple.com/us/podcast/episode-39-ed-gaines-healthcare-reimbursement-prior/id1709827812?i=1000753114331\nYouTube: https://www.youtube.com/watch?v=huE3JnubNxg\n#HealthcarePolicy #PhysicianAdvocacy #NoSurprisesAct #HealthcareEconomics #PriorAuthorization #MedicalCoding #HealthSystems #StrivePodcast",
+   "lang": "en",
+   "createdAt": "2026-03-04T20:51:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1439942173798043649",
+    "username": "SnehaSaiMannam",
+    "name": "Sai Mannam",
+    "url": "https://x.com/SnehaSaiMannam",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1584558030053580801/JAzo4dRI_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 604
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2029297277974790144",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2029297277974790144/vid/avc1/1080x1920/ZWe3oYuKStuZ19wy.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2029297277974790144/img/fmBVPLm0z7JwjanX.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 177
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "HealthcarePolicy",
+     "PhysicianAdvocacy",
+     "NoSurprisesAct",
+     "HealthcareEconomics",
+     "PriorAuthorization",
+     "MedicalCoding",
+     "HealthSystems",
+     "StrivePodcast"
+    ],
+    "mentions": [
+     {
+      "id": "1687522095528366089",
+      "username": "Strive_Podcast",
+      "name": "Strive: Exploring Mind, Medicine, and Motivation"
+     },
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     }
+    ],
+    "urls": [
+     "https://open.spotify.com/show/3G1tdyCyMMAcD3VDBDOStC?si=2aebfb5f88d7439c",
+     "https://podcasts.apple.com/us/podcast/episode-39-ed-gaines-healthcare-reimbursement-prior/id1709827812?i=1000753114331",
+     "https://www.youtube.com/watch?v=huE3JnubNxg"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1786728240737931379",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1786728240737931379",
+   "url": "https://x.com/DrBruggeman/status/1786728240737931379",
+   "conversationId": "1786728240737931379",
+   "text": "Listen to this exchange between Sen Warren and Andrew Witty, CEO of United. He states that the 90,000 employed (or “controlled”) doctors “choose to work with us” implying they have a choice. That’s an incredible manipulation of facts. \n\n1) In order to meet the IRS definition of an employee, United MUST retain control over what these doctors do and how they do those activities.  He bristles at Senator Warren stating that United controls the doctors.\n\n2) United has utilized business tactics to force many practices out of business then, in some instances, acquire those practices when the physician’s choices were to close up shop or sell. These tactics include, but are not limited to, (a) onerous and expanded prior authorization (b) rapidly and unilaterally declining in- and out-of-network pay (c) delayed or non-payment of No Surprises Act determinations and (d) post procedure clawbacks/redeterminations\n\nPhysicians have had limited to no control over the system they find themselves in and the small businesses they run. It’s no wonder that physicians have traded autonomy and personal satisfaction in independent practice for safety and security in employed positions with insurers and healthcare systems. While those decisions benefit shareholders, they hurt patients and the overall system. Studies continue to show that consolidation increases costs and fails to improve quality (and in many cases reduces quality). \n\nCongress and the Executive Branch have an opportunity to break up these monopolies and re-level the playing field through regulatory and legislative actions. I look forward to future hearings and am encouraged by the awakening that is occurring throughout America on the predatory practices of many of the large organizations in healthcare. \n\nAs an aside, Bob Herman, who wrote the original “tweet”, is an absolute pro. Physicians who follow me need to follow him and read his stories with STAT (and formerly Axios and Modern Healthcare).",
+   "lang": "en",
+   "createdAt": "2024-05-04T12:03:03.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 18,
+    "retweets": 63,
+    "quotes": 5,
+    "likes": 212,
+    "bookmarks": 49,
+    "views": 103054
+   },
+   "replyTo": null,
+   "quotedTweetId": "1786428731537473608",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1642150005237600259",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1642150005237600259",
+   "url": "https://x.com/drdanchoi/status/1642150005237600259",
+   "conversationId": "1642150005237600259",
+   "text": "On No Surprises Act: Health insurers are unlawfully refusing payment to physicians even when they lose arbitrations!🚨\n\nAnother dirty tactic to boost insurer profits &amp; drive independent practice out of business!\n\n@RepLarryBucshon notifies HHS Sec Becerra in recent E&amp;C hearing 👇 https://x.com/drdanchoi/status/1642150005237600259/video/1",
+   "lang": "en",
+   "createdAt": "2023-04-01T13:00:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 28,
+    "quotes": 2,
+    "likes": 79,
+    "bookmarks": 4,
+    "views": 8978
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1642149974296207362",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1642149974296207362/vid/888x498/pap11HbsImB9Xmaq.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1642149974296207362/img/cpKVcCMnuPS8T93u.jpg",
+     "width": 888,
+     "height": 498,
+     "altText": null,
+     "durationSeconds": 22
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "234812598",
+      "username": "RepLarryBucshon",
+      "name": "Larry Bucshon, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2029914135895359908",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2029914135895359908",
+   "url": "https://x.com/DrBruggeman/status/2029914135895359908",
+   "conversationId": "2029914135895359908",
+   "text": "I’ve spent this week laying out the facts. The IDR system was built for 17,333 disputes a year and is processing over a million every six months. Physicians are filing ineligible claims not out of bad intent but because insurers control the eligibility information and aren’t sharing it. Courts have stripped providers of the right to sue for payment on awards they’ve already won. And the administrative enforcement mechanism left standing has been called inadequate by the very judges who sent providers there.\n\nI want to close this week not as a policy advocate but as a physician.\n\nI have patients who need care. I have a practice that depends on staff, equipment, and operational continuity. And I participate in a system that asks me to accept whatever an insurer decides to pay, file a complex dispute if I disagree, wait months for a determination, win that determination, and then hope the insurer feels like paying. That is not a system. That is a test of endurance designed to see who gives up first.\n\nPatients feel this too, even if they don’t see it directly. When independent practices can’t sustain the cash flow gap created by unpaid IDR awards, they consolidate, close, or stop taking certain plans. Access narrows. Costs rise. The No Surprises Act was signed into law to protect patients from unexpected bills. It cannot do that if the physicians treating those patients are operating in a payment environment with no reliable rules and no real enforcement.\n\nSo here is what fixing it actually requires, in sequence.\n\nFirst, close the information gap. Finalize the mandatory RARC code requirement that has sat in proposed form since November 2023. Build a centralized eligibility clearinghouse so that any physician or billing team can look up a plan number before filing and receive a definitive, logged answer: federal IDR, state process, or neither. One lookup. One answer. Timestamped and attached to the claim. @IndeMedAction has a solution ready to go. We need all the stakeholders to get behind it.\n\nSecond, once that infrastructure exists, apply accountability on both sides. A physician who files an ineligible dispute after a clearinghouse has confirmed ineligibility should face penalties. The information was available. That is a fair standard because the playing field is finally level.\n\nThird, pass the No Surprises Act Enforcement Act, H.R. 4710 and S. 2420, introduced by Rep. Greg Murphy, MD and Sen. Roger Marshall, MD with broad bipartisan support from physician legislators in both chambers and both parties. The bill is direct: any insurer that fails to pay an IDR award within the required 30 business days owes the provider three times the difference between the initial payment and the arbitration award, plus interest. Not a suggestion. Not a complaint form. A financial consequence that makes noncompliance more expensive than compliance.\n\nThe American College of Radiology, the American College of Emergency Physicians, and the American Society of Anesthesiologists have all endorsed this bill. The Department of Justice has stated that without judicial enforcement, one of the NSA’s core features would be frustrated. A federal judge has said that administrative enforcement alone cannot police compliance at scale. Congress wrote a law that said IDR awards shall be binding. The word “shall” was supposed to mean something.\n\nThe No Surprises Act was signed during President Trump’s first term with genuine bipartisan intent to protect patients. That intent deserves to be honored with a system that actually functions: clear eligibility rules, shared information, and real consequences for everyone who doesn’t follow them.\n\nPhysicians are ready to be held accountable. We just need the same standard applied to the other side of the table.",
+   "lang": "en",
+   "createdAt": "2026-03-06T13:36:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 9,
+    "quotes": 1,
+    "likes": 27,
+    "bookmarks": 8,
+    "views": 1278
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2029914127758491649",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCu0JO2XgAECzTz.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCu0JO2XgAECzTz.jpg",
+     "width": 1320,
+     "height": 861,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2049124763197444463",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2049124763197444463",
+   "url": "https://x.com/IndeMedAction/status/2049124763197444463",
+   "conversationId": "2049124763197444463",
+   "text": "Insurers often point out that physicians and providers prevail in most IDR cases. What this actually reflects is straightforward: when a neutral arbitrator reviews the evidence, the insurer’s offer frequently does not meet the standard.\n\nIf insurers want different outcomes, the solution is equally clear - submit offers that more accurately reflect the true cost of care.\n\nThrough the No Surprises Act, Congress - on a rare bipartisan basis - established the IDR process to both protect patients and create a fair, structured mechanism for resolving payment disputes. It is neutral, independent, and grounded in law.",
+   "lang": "en",
+   "createdAt": "2026-04-28T13:53:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 2,
+    "views": 179
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2049124612760596480",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HG_z-oQa8AAZBlq.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HG_z-oQa8AAZBlq.jpg",
+     "width": 3375,
+     "height": 3375,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055435951610970173",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2055435951610970173",
+   "url": "https://x.com/DrBruggeman/status/2055435951610970173",
+   "conversationId": "2055435951610970173",
+   "text": "Congress Created This Imbalance. Congress Has to Fix It.\n\nEvery federal court that ruled in April 2026 delivered the same closing instruction to both sides: the remedy is Congress. Three courts said it to insurers trying to undo IDR outcomes. The Fifth Circuit said it to physicians trying to enforce them. The regulatory agencies operating in between have contested authority, limited enforcement history against large insurers on this specific issue, and no statutory mandate that would survive a determined legal challenge. Indiana and Iowa have demonstrated what legislative will looks like when applied to the right problems. Congress needs to act at the federal level before the insurer lobby writes the next chapter.\n\nWhat Indiana and Iowa did, and why it matters\n\nIndiana’s Senate Enrolled Act 189, authored by Sen. Scott Baldwin and signed in March 2026, made Indiana the first state in the nation to prohibit insurers from imposing financial penalties, reimbursement reductions, or administrative fees on hospitals and facilities when care involves an out-of-network provider. The bill targeted Elevance’s Facility Administrative Policy: a 10 percent across-the-board reimbursement cut on any hospital or outpatient facility where an out-of-network clinician participated in patient care. Elevance controls 68 percent of Indiana’s commercial insurance market. Without SEA 189, ten states remain subject to the same policy: Colorado, Connecticut, Georgia, Kentucky, Maine, Missouri, Nevada, New Hampshire, Ohio, and Wisconsin. The No Surprises Act already protects patients from surprise bills. This policy did not protect patients. It used patients and hospitals as leverage to force independent physicians into contracts they would not otherwise accept.\n\nIowa’s House File 2635, which passed both chambers in 2026, enacted Iowa Code Section 514F.8D. A health carrier is prohibited from imposing any financial penalty, reimbursement reduction, or administrative fee, or terminating a provider from its network, based on that provider’s referral to or affiliation with an out-of-network provider. The statute also prohibits insurers from attempting to enforce a contract amendment without providing the provider an opportunity to negotiate. That last provision addresses the mechanism Elevance actually used: the policy was delivered as a contract amendment that hospitals had limited practical ability to resist given Elevance’s market position. Iowa’s statute closes both the penalty and the process used to impose it.\n\nWhat Congress must do\n\nThe April 2026 rulings removed the insurer litigation weapon. They did not restore the physician enforcement right. Three things must follow from Congress.\n\nFirst, close the judicial enforcement gap on IDR award payment. IDR awards are binding in statute and unenforceable in practice in most circuits. The Federal Arbitration Act provides a confirmation mechanism for commercial arbitration awards that allows parties to seek judicial enforcement in district court. Congress chose not to incorporate that mechanism into the NSA. That omission has become an insurer asset. Congress must correct it by name, or create an equivalent statutory enforcement mechanism that does not depend on contested regulatory interpretation.\n\nSecond, give the regulatory agencies explicit, unambiguous authority to impose significant civil monetary penalties on insurers for non-payment and late payment of IDR awards. There is genuine legal disagreement about what HHS, Labor, and Treasury can actually do to an insurer that ignores a binding IDR determination. That ambiguity is not neutral. It benefits the party with resources to litigate the question. Congress must resolve it by statute: defined per-violation penalties, mandatory response timelines for agency action, automatic interest on late payments, and enforcement authority that does not depend on interpretive latitude a future administration may choose not to exercise.\n\nThird, correct the penalty asymmetry explicitly and by name. Congress built a system where physicians face documented consequences for non-compliance, including ineligible filings and false attestations, and insurers face no comparable consequences for the equivalent offense on their side, which is not paying what an independent arbitrator determined they owe. The compliance risk sits with the weaker party. The payment discretion sits with the stronger one. That is the opposite of how an enforcement framework functions, and it is not defensible on the policy rationale that produced the NSA in the first place, which was protecting patients from a power imbalance between individuals and large institutions.\n\nThe April rulings confirmed that the NSA’s dispute resolution structure is sound. What they also confirmed, read alongside the Fifth Circuit and the enforcement case record, is that the resolution means nothing if the payment side has no enforcement. Congress designed the dispute half of the system. It did not design the collection half. Indiana and Iowa understood that problem and acted on it for their states. The federal version of that problem is larger, and only one institution can fix it.\n\nThe insurer lobby will arrive at Congress with proposals that would achieve through statute what they could not achieve in two federal courtrooms in the same week. Those proposals will include offer caps, volume limits, expanded judicial review, and new eligibility screening requirements. They are an attempt to win legislatively a case the courts already decided and a framework that Congress already rejected",
+   "lang": "en",
+   "createdAt": "2026-05-15T23:51:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 370
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055435638317432832",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIZf0qiWwAApO0j.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIZf0qiWwAApO0j.jpg",
+     "width": 1320,
+     "height": 883,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2029164300078645319",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2029164300078645319",
+   "url": "https://x.com/DrBruggeman/status/2029164300078645319",
+   "conversationId": "2029164300078645319",
+   "text": "When a physician wins an IDR determination, the law is unambiguous. The decision is final and binding. The insurer has 30 business days to pay. That is not guidance. That is statute.\n\nSo what happens when they don’t pay?\nThe obvious solution: go to court. That option is now in serious jeopardy and the legal landscape around IDR enforcement has become one of the most consequential and underreported stories in health policy.\n\nIn June 2025, the U.S. Court of Appeals for the Fifth Circuit ruled in Guardian Flight v. Health Care Service Corporation that the No Surprises Act provides no private right of action to enforce IDR awards. Providers cannot sue insurers in federal court to compel payment. The Fifth Circuit held that enforcement runs exclusively through HHS’s administrative complaint process. En banc review was denied in July 2025. That ruling is now binding precedent in the Fifth Circuit.\n\nOther courts followed. In September 2025, the Southern District of New York dismissed a provider suit against Cigna on the same grounds, holding that Congress deliberately withheld judicial confirmation authority. That same month, the Middle District of Florida dismissed a case involving over $1.1 million in unpaid IDR awards, explicitly adopting the Fifth Circuit’s reasoning even though it was not bound to do so.\n\nOne court went the other way. In May 2025, the District of Connecticut ruled in a separate Guardian Flight case, involving $20 million in alleged nonpayment by Aetna and Cigna, that the NSA does provide an implied private right of action, citing the statute’s direct language requiring payment within 30 days and its declaration that awards are binding on the parties.\n\nThat is a direct circuit split. Providers in different jurisdictions now operate under fundamentally different legal frameworks when trying to collect awards they have already won.\n\nProviders petitioned the Supreme Court to resolve it. In January 2026, the Court declined. The split stands.\n\nThe Department of Justice, in amicus filings, warned that if providers cannot obtain court relief for nonpayment, “one of the NSA’s core features would be frustrated, upending Congress’s scheme.” The Connecticut court was equally direct, noting that “it is unlikely that any such administrative enforcement scheme could police insurers’ and health plans’ compliance with each IDR determination.” In other words, the only enforcement mechanism the Fifth Circuit left intact has already been assessed by a federal judge to be inadequate to do the job.\n\nNow layer in Loper Bright v. Raimondo, the Supreme Court’s June 2024 decision that overturned four decades of Chevron deference. Courts no longer automatically defer to HHS’s interpretation of its own enforcement authority. Any administrative mechanism HHS deploys under the NSA that relies on statutory ambiguity is now subject to independent judicial scrutiny and can be challenged and overturned. The Fifth Circuit said enforcement belongs with HHS. Loper Bright ensures that HHS’s ability to exercise that authority is itself contestable. The backstop has a backstop problem.\n\nAnd the compliance data predates all of this. A 2024 survey found that 1 in 4 IDR awards were already being paid late or not at all. This was before the primary judicial deterrent was removed and before agency enforcement authority became newly vulnerable to legal challenge.\n\nA system where a provider can win a binding arbitration award and have no clear mechanism to collect it is not a dispute resolution system. It is a suggestion box.\n\nCongress has the ability to fix this and a bill already on the table does exactly that. More on Friday.\n\nInterested in getting involved? Join @IndeMedAction",
+   "lang": "en",
+   "createdAt": "2026-03-04T11:57:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 8,
+    "quotes": 1,
+    "likes": 20,
+    "bookmarks": 6,
+    "views": 1185
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2029164294437244928",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCkKLMDWkAAw7nH.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCkKLMDWkAAw7nH.jpg",
+     "width": 1320,
+     "height": 1283,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2079255820383260808",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2079255820383260808",
+   "url": "https://x.com/IndeMedAction/status/2079255820383260808",
+   "conversationId": "2079255820383260808",
+   "text": "When insurers offer $1 and lose in IDR, that's not proof of provider misuse — it's proof of lowballing.\n\nA federal judge just said the quiet part out loud. On July 10, Judge Thomas Thrash dismissed an Elevance subsidiary's lawsuit attacking the No Surprises Act's independent dispute resolution process — and dismantled the insurer narrative in the process:\n\n\"It is highly improbable to infer from these facts that there is a vast conspiracy of providers and IDREs that have conspired to defraud the Plaintiff of millions of dollars in thousands of NSA IDR proceedings over many years,\" Judge Thrash wrote in his ruling. \"It is highly plausible to infer that the Plaintiff engages in a consistent practice of submitting lowball offers to out-of-network providers in an effort to maximize its profits.\"\n\nThe CMS data backs him up. Insurer offers of $1 or less nearly quintupled from 2.5% in early 2023 to 12.25% in Q2 2025 — while provider offers over $100K were outnumbered 112:1 by insurer lowball offers.\n\nHigh provider win rates aren't evidence of gaming the system. They're evidence of lowballing exposed.\n\nMore from IndeMed:\nhttps://indemed.org/wp-content/uploads/2026/07/Elevance-IDR-Study-A-Data-Driven-Rebuttal-1.pdf",
+   "lang": "en",
+   "createdAt": "2026-07-20T17:23:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 352
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2079255665965477888",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNsAAwcXMAAOkpO.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNsAAwcXMAAOkpO.jpg",
+     "width": 3165,
+     "height": 4096,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2079255665961324544",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNsAAwbX0AAnPkR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNsAAwbX0AAnPkR.jpg",
+     "width": 3165,
+     "height": 4096,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/wp-content/uploads/2026/07/Elevance-IDR-Study-A-Data-Driven-Rebuttal-1.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1961028362719154555",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1961028362719154555",
+   "url": "https://x.com/JahangirAsgha10/status/1961028362719154555",
+   "conversationId": "1961028362719154555",
+   "text": "The No Surprises Act was one of the few laws that actually struck a balance. Patients were protected from crushing, unexpected bills. Physicians—especially in private practice—were given a fair process to get paid through independent dispute resolution.\n\nAnd what did insurers do? They decided the law didn’t apply to them. They delay payments. They flat-out ignore arbitration rulings. They drag the process out because they know the penalties are weak. It’s a playbook of delay, deny, and outlast—and it works only because enforcement is broken.\n\nThat’s why the No Surprises Enforcement Act is critical. Without it, the entire law is just window dressing. Patients lose protection. Independent practices lose stability. And insurers get away with breaking the rules.\n\nPhysicians need to stop being weak. Learn the law. Stand up for yourselves, your colleagues, and your patients. If we don’t fight for enforcement, insurers will keep writing the rules—and we’ll all pay the price.\n@drdanchoi",
+   "lang": "en",
+   "createdAt": "2025-08-28T11:29:30.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 22,
+    "quotes": 2,
+    "likes": 99,
+    "bookmarks": 15,
+    "views": 5425
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1961028355962142720",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gzb45leXgAADEUF.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gzb45leXgAADEUF.jpg",
+     "width": 1024,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "944821373750403072",
+      "username": "drdanchoi",
+      "name": "Dan Choi, MD, FAAOS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077555061123960943",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2077555061123960943",
+   "url": "https://x.com/watchhcn/status/2077555061123960943",
+   "conversationId": "2077555061123960943",
+   "text": "Surgical Assistants Earning Up to 25 Times More Than Surgeons They Assist\n\nA New York Times investigation found that some surgical assistants are securing dramatically higher payments than the primary surgeons they assist through arbitration under the federal No Surprises Act. Normally, insurers pay surgical assistants about 16% of the primary surgeon’s fee for their supporting role. Out-of-network assistants use the No Surprises Act’s independent dispute resolution (IDR) process to demand and win much higher payment amounts.\n\nAt one New York hospital, a doctor assisting her husband (the surgeon) on facial feminization surgeries won arbitration awards 6 to 224 times higher than his in some cases, totaling over $1.4 million in reviewed instances.\n\nThis is an example of unintended consequences in complex payment systems.",
+   "lang": "en",
+   "createdAt": "2026-07-16T00:45:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2065160985485492224",
+    "username": "watchhcn",
+    "name": "Health Care Network",
+    "url": "https://x.com/watchhcn",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2083052002007990272/qKGUCncn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 52
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019780705853563365",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2019780705853563365",
+   "url": "https://x.com/DrBruggeman/status/2019780705853563365",
+   "conversationId": "2019780705853563365",
+   "text": "Fix-It Friday is here where I go over policy solutions to the issues discussed during the week. \n\nThis week we walked through the real, on-the-ground failures in No Surprises Act implementation. The good news is that none of these problems require Congressional action to fix. Most can be solved with enforcement, regulatory clarity, and accountability.\n\n1) Enforce the QPA rules already on the books.\nThe statute required annual CPI-based updates to 2019 median contracted rates. CPI-U is up roughly 28% since then. Most payers’ QPAs are not. That gap is why arbitrated outcomes routinely land 300% above stated QPAs. When 75-80% of physicians never reach arbitration, payers face zero accountability for systematic underpayment. Fixing the transparency problem will reduce disputes.\n\n2) Fix RARC code failures so eligibility isn’t a guessing game.\nPayers already know whether a claim falls under federal law, state law, or neither. That information should appear on every ERA, not 6% of them. Either mandate meaningful RARC codes on every applicable claim, or require insurers to publish and maintain a master list of every group number and its dispute pathway. One source of truth. No more dead-end filings, no more 30-day detours into the wrong process.\n\n3) Replace email chaos with a functional portal.\nRight now, deadlines, objections, case status, and payment confirmation all live in scattered email threads across a dozen IDR entities. Independent practices can’t function this way, and regulators can’t oversee what they can’t see. Building a single standardized portal with real-time status updates, eligibility flags, deadline tracking, and payment confirmation cuts friction for everyone and gives CMS visibility into what’s actually happening.\n\n4) Stop the cooling-off period weaponization.\nThe 30-day open negotiation period was supposed to encourage contracting. Instead, it’s a procedural trap used to burn time, trigger technical dismissals, and claw back payments on otherwise valid claims. Shorten it to 1 day or let IDR filing proceed in parallel while preserving the ability to contract. We can keep the intent while losing the gamesmanship.\n\nThese are basic operational fixes. The infrastructure failures we’ve documented this week aren’t accidents but instead the result of non-enforcement and opacity. Fixing them requires political will, not new legislation.​​​​​​​​​​​​​​​​  \n\nA system that is clear, enforceable, and functional meets the bipartisan and carefully negotiated goals of the No Surprises Act: to protect patients while keeping independent practice viable. \n\n@IndeMedAction",
+   "lang": "en",
+   "createdAt": "2026-02-06T14:30:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 1,
+    "views": 414
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2019779446916382720",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAeytKoWAAASEN3.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAeytKoWAAASEN3.jpg",
+     "width": 1320,
+     "height": 1306,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1927823320684073328",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1927823320684073328",
+   "url": "https://x.com/JahangirAsgha10/status/1927823320684073328",
+   "conversationId": "1927823320684073328",
+   "text": "The U.S. doesn’t just spend more on healthcare — it drowns in its own bureaucracy.\nAnd much of that burden? Created and enforced by government regulation.\n\nCompared to other developed countries, the U.S. system is structurally unique — and not in a good way.\n\n🔹 Government-Driven Regulatory Complexity\nCMS, HHS, ONC, state Medicaid offices, the No Surprises Act, HIPAA, MIPS, MACRA, Stark Law — the list goes on.\nEach layer adds rules, reporting, and compliance obligations — but few remove any.\nInstead of simplifying care delivery, government regulations often create the need for more staff, more documentation, and more costly tech systems.\n\n🔹 Overlapping Agencies, Fragmented Oversight\nUnlike most countries with a single or centralized health authority, U.S. physicians report to dozens of stakeholders — federal, state, and private — all with different priorities and metrics.\n\n🔹 Admin Overload by Design\n•U.S. physicians spend ~8.7 hours/week on paperwork.\n•Staff spend over 50 hours/week per doctor just on insurance.\n•Billing an inpatient claim costs $215 in the U.S. vs. $6 in Canada — driven by government-mandated coding systems and insurer compliance rules.\nEven EHRs were shaped by regulatory incentives, not clinical workflows.\n\n🔹 Documentation Built for Billing, Not Patients\nAmerican doctors write the longest notes in the world — not to improve care, but to satisfy billing requirements and legal exposure created by regulation.\n\n🔹 Administrative Costs\n•The U.S. spends ~$1,055 per person per year on health administration — 5x the OECD average.\n•Estimates show 15–25% of all U.S. healthcare spending goes to administrative functions, much of it tied to regulatory compliance.\n\n⸻\n\nHere’s the truth:\nGovernment regulation wasn’t just a response to complexity — it created it.\nRather than simplifying medicine, it forced practices to add billing teams, compliance officers, IT infrastructure, and EHR templates that mimic audit checklists.\n\nWe need fewer mandates, fewer forms, and fewer middlemen.\n\nUntil we address the regulatory root of administrative waste, reform is just cosmetic.",
+   "lang": "en",
+   "createdAt": "2025-05-28T20:24:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 21,
+    "quotes": 3,
+    "likes": 74,
+    "bookmarks": 14,
+    "views": 5361
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1927817609870794752",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GsD75vQXYAAXKDe.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GsD75vQXYAAXKDe.jpg",
+     "width": 1667,
+     "height": 972,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2010703392293744724",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2010703392293744724",
+   "url": "https://x.com/DrBruggeman/status/2010703392293744724",
+   "conversationId": "2010703392293744724",
+   "text": "This week, I’m diving into the Qualifying Payment Amount (QPA) under the No Surprises Act (NSA)—a key factor in out-of-network reimbursements that’s sparking debate in healthcare.\n\nThe NSA, passed in 2000 and effective since 2022, protects patients from surprise medical bills for emergency services and certain non-emergency care at in-network facilities. At its core is the QPA: essentially the median contracted rate a health plan or insurer had in place as of January 31, 2019, for similar services by similar providers in the same geographic area, adjusted annually for inflation.\n\nThis QPA sets patient cost-sharing (like coinsurance) to the lesser of the billed amount or the QPA itself. But it also heavily influences physician reimbursements through the Independent Dispute Resolution (IDR) process, where arbiters must consider the QPA when deciding final payments for out-of-network claims.  According to America’s Health Insurance Plans (AHIP), approximately 76% of all disputes accept the initial payment offer (typically the QPA) without any further dispute.\n\nThe catch? QPAs can be understated and manipulated leading to lower reimbursements that squeeze physicians and potentially impact patient access to care.\n\nStay tuned: Deeper dives Tue-Thu on calculation nuances and real-world effects. Friday: Suggested policy fixes to address the problem",
+   "lang": "en",
+   "createdAt": "2026-01-12T13:20:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 18,
+    "bookmarks": 3,
+    "views": 2078
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2010703388904689664",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-d0FDxWkAAjDO_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G-d0FDxWkAAjDO_.jpg",
+     "width": 1280,
+     "height": 720,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019050423848517856",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2019050423848517856",
+   "url": "https://x.com/DrBruggeman/status/2019050423848517856",
+   "conversationId": "2019050423848517856",
+   "text": "Today we look at the quiet failure of RARC codes under the No Surprises Act and how this small technical breakdown is driving confusion, delays, and unfair underpayment for physicians.\n\nRemittance Advice Remark Codes (RARCs) are supposed to do something very simple: tell physicians whether a claim is eligible for dispute, and in bifurcated states like Texas, whether federal or state law applies. When used correctly, they save time, prevent mistakes, and keep disputes in the right lane.\n\nThere are three relevant codes.\nN877 means the payment is subject to the federal No Surprises Act and federal IDR is available.\nN871 means the claim falls under a state surprise billing law, directing the physician to the state process instead.\nAnd then there’s N830, which says only that the claim is “subject to applicable legislation.” That could mean federal law, state law, or no surprise billing protection at all. In other words, it tells us nothing.\n\nHere’s the problem: insurers largely aren’t using these codes at all. Based on information shared by billers and practices, only about 6% of claims include any RARC code on the ERA. To make it worse, when a code is included, more than half use N830, which is the one code that provides no actionable information. The remaining claims are split between the meaningful codes, N877 and N871.\n\nThat means that roughly 94% of the time, physicians are left guessing. Guessing whether a claim is eligible. Guessing which law applies. Guessing which portal to use. And guessing how to avoid missing deadlines that can permanently bar a dispute.\n\nThis guesswork has real consequences. To protect themselves, some practices submit claims to both state and federal systems, just to avoid missing deadlines. That creates duplicate filings and unnecessary work for IDREs and state agencies.\n\nIt gets worse. In some cases, payer portals say one thing (state arbitration) while the RARC on the ERA suggests another (federal). Physicians and billers are caught in the middle, blamed for confusion they didn’t create and can’t resolve.\n\nThis is a classic tale information asymmetry. Insurers are the holders of truth when it comes to eligibility. They know whether a claim is subject to the No Surprises Act, state law, or neither. They have the tools to communicate that clearly and yet they fail to do so the vast majority of the time.\n\nIndependent practices feel this most acutely. They don’t have teams of compliance staff or lawyers to untangle contradictions between ERAs and payer portals. The administrative burden, delays, and legal risk all push in the same direction we’ve been talking about: toward consolidation and away from independent practice.\n\nRARCs were meant to bring clarity. Right now, their misuse is doing the opposite. Until the RARC issue is fixed, confusion, delays, and unfair outcomes will continue.  \n\nThe fixes here are not complicated and we’ll discuss them Friday.",
+   "lang": "en",
+   "createdAt": "2026-02-04T14:08:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 1,
+    "views": 617
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2019050419243139072",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAUbqK6XQAADylh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAUbqK6XQAADylh.jpg",
+     "width": 1363,
+     "height": 2040,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1961139756332355834",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1961139756332355834",
+   "url": "https://x.com/JahangirAsgha10/status/1961139756332355834",
+   "conversationId": "1961139756332355834",
+   "text": "It’s a bit of a BS, shortsighted perspective. The reason providers “win” arbitration isn’t because the system is rigged in our favor — it’s because insurers deliberately underpay, ignore compliance rules, and leave physicians with no choice but to fight for fair reimbursement. If awards are multiples of in-network rates, that reveals how distorted the insurer offers are, not that physicians are gaming the system. Blaming doctors for rising premiums misses the real cost drivers: insurer litigation, administrative bloat, and profit extraction. The No Surprises Act was meant to protect patients and ensure fair payment, but insurers have worked tirelessly to water it down. Physicians shouldn’t accept the narrative that holding insurers accountable is somehow unfair — it’s the only way to keep the system honest.",
+   "lang": "en",
+   "createdAt": "2025-08-28T18:52:08.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 15,
+    "bookmarks": 1,
+    "views": 1874
+   },
+   "replyTo": null,
+   "quotedTweetId": "1961131455947354523",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

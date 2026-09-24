@@ -1,0 +1,698 @@
+{
+ "key": "pa_my_patient_p2p",
+ "query": "(\"prior auth\" OR \"prior authorization\") (\"my patient\" OR \"my patients\") (denied OR \"peer to peer\" OR \"peer-to-peer\") lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1867359063220129864",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1867359063220129864",
+   "url": "https://x.com/WallStreetApes/status/1867359063220129864",
+   "conversationId": "1867359063220129864",
+   "text": "There’s something seriously wrong with American Healthcare\n\nHealth Insurance whistleblower Dr. Jenaya Calderilla is a family practice physician in San Diego. Her patient was denied coverage for a wheelchair, “My patient had just had both of his legs amputated”\n\n“The reason was because I didn't specify how his walking would be affected by his disability. So I had to call and fight this and tell these people, my patient doesn't have legs.”\n\n“The American Medical Association found that 80% of doctors report that patients have abandoned their treatment because of the prior authorization process. 19% say they've led to life-threatening events or required an intervention to prevent permanent impairment or damage.”\n\nThis is an excellent video that goes over “Heath insurers most evil scam”",
+   "lang": "en",
+   "createdAt": "2024-12-13T00:01:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 93,
+    "retweets": 608,
+    "quotes": 27,
+    "likes": 1156,
+    "bookmarks": 149,
+    "views": 45727
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1867358909737889793",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1867358909737889793/vid/avc1/720x400/aLaPez9M6_07VNLi.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1867358909737889793/img/__4dXLMGXOQTi6xK.jpg",
+     "width": 720,
+     "height": 400,
+     "altText": null,
+     "durationSeconds": 762
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2056805860253343919",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2056805860253343919",
+   "url": "https://x.com/MattZirwas/status/2056805860253343919",
+   "conversationId": "2056805860253343919",
+   "text": "Health insurance companies delay care to increase profit.\n\nIt killed two of my patients.\nTheir families can't sue.  That's the law.\nThat's why they keep doing it.  Because there's no reason for them not to.\n\nIf your doctor delayed a needed prescription for weeks and you died because of it, your family would rightly sue them into oblivion.\n\nIf your insurance company does it?\n\nNo accountability, just more profit.\n\nIt's federal law.  ERISA preemption.  Health insurance got carved out of normal liability.\n\nThat's why Paulina's health insurance killed her.\n\nShe was one of the kindest patients I've ever had.  I still think about her.\n\nShe had a rare, painful skin disease.  No FDA-approved treatments.  Still kept a great attitude.\n\nThere was a drug that worked like magic for patients like her.  Insurance denied it.\n\nTried everything while we fought to get it for her, but the only things that kept her out of excruciating pain had horrible side effects.\n\nWhile we appealed, the side effects won.  She died.  The delay didn't just make her suffer longer, it actually killed her.\n\nBut it increased profits for her insurance company.\n\nFrank drove hours with his wife to see me.  His little girl was in school.\n\nSevere hand eczema destroying his life.  Constant pain, constant itch, people treating him like he was contagious.\n\nThought we found the answer - allergic to an ingredient in hand soap.  But avoiding it didn't help.\n\nThere's a drug that works great in exactly this situation.  But hands are only 4% of body surface.  Insurance said no need for that drug unless the rash covers 10%.\n\nThrew the kitchen sink at his hands while we fought his insurance.  Kitchen sink didn't help.\n\nApproval came days too late.  His daughter lost her dad.\n\nBut more profit for his insurance company.\n\nThe economics of drug prior auth are indefensible.\n\nNet savings to the entire US healthcare system: roughly 0.25%.\n\nAnd that's before you count the dead patients, the hurt patients, the extra care people need while the disease gets worse and the doctor hours pissed away.\n\nIn Medicare Advantage, 82% of appealed denials get overturned.  Insurers themselves admit they were wrong four out of five times.\n\n26% of physicians say prior auth has led to a serious adverse event for a patient in their care.  8% say it has led to disability, permanent bodily damage, or death.\n\nThat's not a fringe number.  One in twelve doctors has watched it kill or cripple someone.\n\nPAs aren't stopping bad prescribing or saving anyone money.\n\nThey're grinding down the patients too sick to fight back.  The people working two jobs.  The people who don't have 4 hours a day to spend on the phone.\n\nI pay my employees' health insurance.  Drug costs come out of my pocket too.  Doctors don't prescribe them for fun.\n\nWe have skin in the game.  We don't just prescribe expensive drugs willy-nilly.\n\nSo, if not to control costs like they claim, why do prior auths exist?\n\nLeverage.\n\nWithout PAs, doctors would, lord forbid, just prescribe whatever drug was best for each patient.\n\nInstead, PBMs use PAs to decide which drugs flow and which get buried in paperwork.  Guess which drugs they push?  The ones that generate the most profit for them.\n\nYou're shocked, I know.\n\nAnd they use it as a tool to maximize the profit.  How?  If a pharma company wants easy prior auth, they have to give a huge rebate.\n\nManufacturers paid PBMs and the payers behind them roughly $170 billion in rebates and fees in 2023.\n\nWonder why drugs are so expensive?  Because the more expensive the drug, the bigger the rebate, and the PBM keeps a cut of the rebate.\n\nThis is the lowest hanging fruit in American healthcare.\n\nThere's an easy fix.  Just take away the protection that allows insurance companies to get away with it.\n\nIf they delay care the policy said should be covered and it hurts someone, they should be liable.\n\nMake them responsible for hurting people instead of rewarding them.  No complicated policies, just simple 'law of natural consequences'.\n\nWe can't bring back Paulina or Frank.\n\nAnd it's still happening to more people.\n\nEvery day.\n\nThere's an easy fix.\n\nJust stop protecting the health insurance companies.",
+   "lang": "en",
+   "createdAt": "2026-05-19T18:35:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2033947948997083136",
+    "username": "MattZirwas",
+    "name": "Matthew Zirwas, MD",
+    "url": "https://x.com/MattZirwas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2059425866212364289/AN4xZSoY_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 10,
+    "retweets": 25,
+    "quotes": 3,
+    "likes": 75,
+    "bookmarks": 17,
+    "views": 91949
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2056804187447472128",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIs8gtVXsAAg6S6.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIs8gtVXsAAg6S6.png",
+     "width": 930,
+     "height": 295,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055394868239933646",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2055394868239933646",
+   "url": "https://x.com/EPotterMD/status/2055394868239933646",
+   "conversationId": "2055394868239933646",
+   "text": "I woke up to a message from New Hampshire. A bill had made it to the state Senate — one that Representative Julie Miles championed after watching me do peer-to-peer calls with insurance reviewers who weren't qualified to be making decisions about my patients. I'm a surgeon in Texas. I had no idea this had traveled that far.\n\nBetween cases at Redbud today, I fired off emails to NH Senate members, logged into a YouTube Live, and watched HB 1554 pass.\n\nHere's what it does:\n✅ Requires peer reviewers to be actual peers — credentialed, named, with their NPI number and specialty certification on the line\n✅ Allows physicians to communicate with that peer reviewer at any point in the prior auth process — not just after a denial or on appeal\n\nThis is a patient-centered, common-sense reform. And it happened because someone posted something. Told the truth. Did the right thing.\n\nThank you, Representative Julie Miles and Senator Tim McGough. New Hampshire just set a standard. I hope other states are paying attention.\n\nGet involved. Speak up. You never know what good it might do.",
+   "lang": "en",
+   "createdAt": "2026-05-15T21:08:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 150,
+    "retweets": 1767,
+    "quotes": 112,
+    "likes": 6872,
+    "bookmarks": 265,
+    "views": 92331
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055394740573556736",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2055394740573556736/vid/avc1/720x1280/bQNIA-NL00dhtIcZ.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2055394740573556736/img/8CoSJ6mzELmuBEaT.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 119
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1857581414776213604",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1857581414776213604",
+   "url": "https://x.com/taperfadepomp/status/1857581414776213604",
+   "conversationId": "1857581414776213604",
+   "text": "OptumRx Medicare supplement denied Wegovy for one of my patients saying they need to have evidence of coronary artery disease, despite me submitting a progress note in the prior auth detailing every stent he has gotten. Shame on you, lying crooks!!",
+   "lang": "en",
+   "createdAt": "2024-11-16T00:28:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1374431811229544453",
+    "username": "taperfadepomp",
+    "name": "Taperfade Pompadour",
+    "url": "https://x.com/taperfadepomp",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1889383134346809344/TsbgeeV2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 618
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1920099988161663385",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1920099988161663385",
+   "url": "https://x.com/WallStreetApes/status/1920099988161663385",
+   "conversationId": "1920099988161663385",
+   "text": "American Surgeon shows the actual letter from UnitedHealthcare DENYING a patient in emergency condition from receiving care\n\n“This is a woman who was in the emergency room with pulmonary embolisms”\n\n“I think we all knew this would happen. I had another patient come in and share with me that UnitedHealthcare denied her inpatient's day. So this is a patient who had shortness of breath and some chest pain, and she just knew that something wasn't right in her body. \n\nShe had a family history of blood clots and she'd had a deep flap surgery a couple of weeks ago. She went to the hospital and they saw her and they found that she had a life threatening condition known as pulmonary embolisms. \n\nSo she was admitted to the hospital and taken care of really well by the doctors there. And they ordered all the right things. After a couple of days, she was discharged. She got a letter from UnitedHealthcare explaining that they didn't agree with the level of her care and that they would not cover it. \n\nSo I'm gonna share some of the language of that letter with you, and I want you to know that my patient that we talked about previously who had her surgery denied had almost exactly the same letter shared. \n\nSo there's some troubling things in this letter. I think this term is really interesting. United is saying they reviewed the request for inpatient admission. So let's all just pause and consider that. This is a woman who was in the emergency room with pulmonary embolisms, and the doctor wasn't really requesting anything. \n\nThey were saying this patient needs to be in the hospital. But an insurance company sees this as a request, and that's part of this prior auth environment that we're living in. \n\nSo I think it's important as patients and as physicians to just acknowledge that this is our reality now. Someone can think that there's a good medical decision for you and can write orders and wanna do the right thing for you, but your insurance company is seeing that as a request and deciding whether or not they wanna do it. One of the criteria that this insurance company used to decide whether or not to accept or deny this request was whether it's medically necessary. \n\nAnd it's so interesting that we're letting insurance companies and the doctors who work for insurance companies determine what's medically necessary and not just the doctor in front of the patient in the emergency room. \n\nSo this is a really bold statement from UnitedHealthcare for my patient. They say you did not have to be admitted as an inpatient to the hospital for this care. I think we all need to just reflect on that. An insurance company is telling a patient and her doctor that they disagree with the plan of care to keep that patient safe. \n\nI know that this is boiling down to whether it's an inpatient admission or an observation admission, and that's really about money. But what I wanna point out to you is they're making medical decisions. \n\nThis insurance company is actually weighing in and disagreeing with a doctor who made a medical decision to admit this patient for her safety. So this specific sentence, when a doctor or facility treats a patient above the recommended level of care, we cannot cover it. \n\nWhat the heck? That's what we do. We go above and beyond as physicians. It's clear that insurance companies don't, and they're actually saying it here.”",
+   "lang": "en",
+   "createdAt": "2025-05-07T12:54:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 293,
+    "retweets": 1538,
+    "quotes": 97,
+    "likes": 3128,
+    "bookmarks": 336,
+    "views": 115741
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1920099829793095680",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1920099829793095680/vid/avc1/720x1280/I5hMgp_RxA6Q0MR1.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1920099829793095680/img/oqwH5umpvnN3o9ji.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 155
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1546600959958212609",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1546600959958212609",
+   "url": "https://x.com/zaneskii/status/1546600959958212609",
+   "conversationId": "1546600959958212609",
+   "text": "My patient was denied prior authorization for vyzulta because they haven’t tried travoprost. \n\nGuess which medication patient is taking, as documented on PA paperwork? \n\nThat’s right, travoprost. 🤦‍♀️ \n\n#priorauth is broken",
+   "lang": "en",
+   "createdAt": "2022-07-11T21:02:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2583091802",
+    "username": "zaneskii",
+    "name": "Elizabeth Zane Cretara, MD",
+    "url": "https://x.com/zaneskii",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1470867445560668164/du50juC5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "priorauth"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1877369908121743375",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1877369908121743375",
+   "url": "https://x.com/txsportsdoc/status/1877369908121743375",
+   "conversationId": "1877369908121743375",
+   "text": "I’m a surgeon and this isn’t true. Prior Auth and P2P should be banned it’s only purpose is to generate more money for INS and harms/not helps patients. Having said that, we schedule a time,it’s on my calendar,almost always call exactly at that time and we give office phone so answered,put on hold and I pick up. Our phone system allows me to pick up “office callas” remotely. Having said that, no way I’m ever leaving my patient asleep while\nI’m operating to talk to an INS co…ever. Once im operating,we have already gone past point of no return. I’m going to care for the patient to best of my ability and nothing INS co would say is gonna change anything at that point. What if they denied care? You gonna stop the operation? Of course not,so focus on the patient. I really wonder if this is a hosp employed surgeon who was pressured to do this. That would be the story here. Anyone interrupting me while I’m operating and patient asleep for anything other than an emergency involving another patient can go pound sand.",
+   "lang": "en",
+   "createdAt": "2025-01-09T15:00:40.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 41,
+    "bookmarks": 6,
+    "views": 9585
+   },
+   "replyTo": null,
+   "quotedTweetId": "1877173308631953888",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:996496220809031681",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "996496220809031681",
+   "url": "https://x.com/JodiGehringMD/status/996496220809031681",
+   "conversationId": "996496220809031681",
+   "text": "I have spent countless hours filling out “prior auth” papers to get this expensive prescription drug for my patients in the US, only to have it denied. Today, saw it in a pharmacy in Sweden - over-the-counter for the equivalent of $21/tube. #hr4841 #drugprices #noh2018 https://x.com/JodiDoddsMD/status/996496220809031681/photo/1",
+   "lang": "en",
+   "createdAt": "2018-05-15T21:03:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "968916155179175936",
+    "username": "JodiGehringMD",
+    "name": "Jodi Gehring, MD",
+    "url": "https://x.com/JodiGehringMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/969195476548452352/gpLrRvhy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "996496205277483010",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DdREBN-W0AIdA60.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DdREBN-W0AIdA60.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "hr4841",
+     "drugprices",
+     "noh2018"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2029057345389576606",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2029057345389576606",
+   "url": "https://x.com/saikenMD/status/2029057345389576606",
+   "conversationId": "2029057345389576606",
+   "text": "Let’s talk about something that’s really annoying in medicine: Prior Authorizations! 🗒\n\nIt’s no lie that medicines and treatments can be expensive. Some pills or infusions can be extremely costly to manufacture, or a super niche custom cochlear implant that costs upwards of 6 figures to create, or paying the surgeon putting that device in through a very complex and delicate procedure. At the end of the day, the system does not expect all people to pay out of pocket for their medical care, and thus many of us pay for healthcare through our medical insurance. But sometimes, the insurance companies end up becoming the arbiters of our care, not the physicians.\n\nFor example, let’s take a look at hyperlipidemia (“high cholesterol”). This is a condition that has been linked to increased risk for heart disease, stroke, and vascular disease. So of course, besides lifestyle changes, we have medicines to address that! Statins like simvastatin (Zocor), atorvastatin (Lipitor), or rosuvastatin (Crestor) are great medicines that can significantly lower cholesterol levels, and are taken by mouth once daily. We’ve had them around for decades now and understand their side effects quite well. Your parents are probably on one too! A 1-month supply of generic simvastatin generally costs someone $5 without insurance. They aren’t perfect medicines, but they are affordable and make a significant impact in the lives of a lot of people.\n\nIn the past 20 years, science has progressed and we now have an injectable biologic called evolocumab (Repatha), a human monoclonal antibody specifically directed at the PCKS9 protein. Normally PCKS9 degrades LDL receptors in the liver, so it reduces the available amount of LDL (“bad cholesterol”) that can be cleared from the blood. By blocking PCKS9, the LDL receptors stay out in the liver and can continue to do their jobs. Repatha is a great medicine, and shows significant cholesterol-reducing effects when compared to statins. But as you can probably imagine, as an injectable it is more expensive to make and administer. A one-month supply of biweekly injections costs about $800 without insurance. A year of treatment would cost $9600. Probably not affordable for most people.\n\nSo this is where insurance is supposed to help, right? After all, you sacrifice a cut of your paycheck to them so that they can help out with the costs of your medications. Well, they need to determine if THEY think that’s a good idea too. Sure, I can write Repatha prescriptions all day because I know that they’re OP compared to sending someone out on statins. But is that realistic? Will your insurance company actually play ball? Enter the prior authorization.\n\nThe concept here is about “medical necessity.” Does everyone need to get that super expensive $800/mo medication? Could someone instead be reasonably treated with statins and have just as good improvements? This is where prior authorizations were born, as a utilization management process to discourage healthcare spending on expensive, low-value services. Another example: in the past few years GLP-1RA’s like semaglutide (Ozempic) or tirzepatide (Monjaro) have been the hot new thing for weight loss, even being advertised as a “skinny shot” by celebrities on TV. Yes, there are clear medical benefits to taking these ranging from conditions like diabetes, to sleep apnea, to general weight loss in the obese patient. Imagine you hear this on TikTok or see an ad on the subway, so you ask your doctor for a prescription and they say sure. Then you take it to the pharmacy who runs it against your insurance, and surprise! They’re not going to cover that Wegovy prescription and now you’re on the hook for $300 a month.\n\nPrior authorizations are just as much about convincing the insurance company that the patient requires this treatment, as much as you convincing the doctor that you need the prescription. For better or worse, companies like United or Aetna are like you, just trying to save money. So when they get a request for covering someone’s Wegovy in a patient who technically has a BMI >30, but has no history of making dietary changes, sticking to an exercise routine, no formal sleep study done, and no other comorbidities? They will determine that prescription medically unnecessary, and drop a rejection notice in your mailbox. You can always pay that $300 a month prescription, but your insurance company won’t be helping you.\n\nIt’s important to know that a lot of this depends on the doctor’s office doing their due diligence, too! When they send over your records as part of a prior auth, they need to submit the relevant evidence to “prove” that you need the medication. If they are negligent in documentation, or just don’t have these things, then how is the insurance company to know? What if you followed a nutritionist in a different health system and had documentation that traditional dieting wasn’t helping you lose weight? Or what if you did have that sleep study done in another state and you never got the records to the new doctor’s office? Prior auths are finicky, overdetailed, and honestly slow as hell with how long they take to process on each end, so minimizing back and forth transmissions each step of the way counts.\n\nAnd that’s my problem with them: these things can take an excruciating amount of time to get done. Maybe a couple of weeks of back-and-forth is not a huge deal for cholesterol or weight loss medications, but what about chemotherapy for cancer? Or debilitating conditions like migraines? Even in the inpatient setting as a hospitalist, I am still finding myself doing prior authorizations to get people approved for inpatient therapy, which is just ridiculous to me in the acute care setting. I already have a patient here with severe TTP refractory to 5 days of plasma exchange, why the heck do I also have to write an essay to the CMO on getting them rituximab!? Even expedited submissions and reviews take time, and not everyone can afford that. Surveys have shown that almost 25% of physicians feel that lengthy prior authorizations have led to adverse patient outcomes, including hospitalization, disability, and death. Almost 90% of oncologists report treatment delays because of prior auths, and 75% of them noted that patients routinely expressed worry over delays in their care.\n\nFor protracted prior authorizations, delay can lead to suffering and harm. The attached picture is from when I was still doing PCP work in residency: it’s an insurance prior authorization for rimegepant (Nurtec). I had a patient who had been living with migraines for many years and had tried multiple therapies in the past, to no avail. Her sister had recently made huge improvements with Nurtec, and she wanted to see if she could get started on the medicine, too. She had great insurance and a history of the condition with multiple failed medication courses, so I told her we could submit the prior auth and see what happened. After all, from my notes I could say she had episodic migraine at least 4x a month, distinctly not chronic migraine, diagnosed by a neurologist she had seen previously,  she had failed traditional therapies, including beta blockers, SNRI’s, topamax, and valproate. I diligently documented her history, compiled all of our clinic notes together, and sent it out.\n\nA week later, they gatekept her: she hadn’t failed enough for them to justify helping out with the Nurtec. Per her insurance, she needed to fail those oral migraine therapies after a period of 8 weeks, not 4. She also needed documented failure of another CGRP injectable like erenumab (Aimovig) or galcanezumab (Emgality). She also needed another documented failure of Quilipta at maximally tirated doses, too. And THEN, would they consider helping out with a PART of the cost of the Nurtec. So we were essentially back at square one, and I had to treat her migraines with medications that her neurologist had already stopped because they had had little benefit, but for 8 weeks instead. Because that’s what her insurance wanted to see! And guess what, Aimovig, Emgality, Ajovy, Vyepti, and Quilipta ALL require prior authorizations of their own, too! So I was filling out prior authorizations within prior authorizations, to get this prior authorization done for the one medication I wanted to get my patient.\n\nThis process took the entirety of my PGY-3 year to get through. She continued to have minimal improvement with these therapies, and continued to complain about her migraines. I had to document every single visit her protracted suffering and continue her medications each until we could demonstrate failure per the insurance’s definition. It took nearly 40 weeks for her to finally get approved for Quilipta after all this work. 4 weeks after that, I graduated from residency and moved on from my continuity clinic. I don’t have access to that system anymore to check up on her.\n\nPrior authorizations save money on a system level, and generally do good work in keeping unnecessary treatments from being overkill on a patient’s condition and their wallets. I just wished the system trusted the doctors more to make these decisions themselves and gave them the power to override them. The time and patient suffering just hurts too much on all sides. And don’t even get me started on Peer-To-Peer calls…\n\nSometimes I still think about if my patient ever got her Nurtec.",
+   "lang": "en",
+   "createdAt": "2026-03-04T04:52:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "207795658",
+    "username": "saikenMD",
+    "name": "saiken, M.D. 💜🩺 doctor vtuber",
+    "url": "https://x.com/saikenMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2056133555386753024/Sx3QNywG_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 47,
+    "retweets": 53,
+    "quotes": 11,
+    "likes": 571,
+    "bookmarks": 114,
+    "views": 31645
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2029056663638900736",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCioSQFWAAAA_A5.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCioSQFWAAAA_A5.jpg",
+     "width": 1080,
+     "height": 942,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1659306180525674498",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1659306180525674498",
+   "url": "https://x.com/aeshajobanputra/status/1659306180525674498",
+   "conversationId": "1659306180525674498",
+   "text": "Just venting about prior auth: spent about an hour setting up a peer-to-peer and explaining why my patients needs a PSG and MSLT for sleep fragmentation, sleep paralysis, hypnogogic hallucination, even though is not \"sleepy\" (ESS 5 because he drinks a ton of caffeine). #priorauth",
+   "lang": "en",
+   "createdAt": "2023-05-18T21:13:16.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1654479000",
+    "username": "aeshajobanputra",
+    "name": "Aesha Jobanputra, MD || Pulm|Crit Care|Sleep",
+    "url": "https://x.com/aeshajobanputra",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1131569813246152704/jpgTCEJj_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 198
+   },
+   "replyTo": null,
+   "quotedTweetId": "1659163952406773761",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "priorauth"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1514384480261259276",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1514384480261259276",
+   "url": "https://x.com/MaryBowdenMD/status/1514384480261259276",
+   "conversationId": "1514384480261259276",
+   "text": "Another pharmacist blocking my efforts.  First my patient was told @CVSHealth was out of stock. I called and was told it needs prior authorization. PA denied, I was given cash option and patient agreed.  Patient went to pick up and pharmacist refused to dispense it. @GovAbbott https://x.com/MdBreathe/status/1514384480261259276/photo/1",
+   "lang": "en",
+   "createdAt": "2022-04-13T23:26:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1139217161275101184",
+    "username": "MaryBowdenMD",
+    "name": "Mary Talley Bowden MD",
+    "url": "https://x.com/MaryBowdenMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2005347836632748032/m0yywRmA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 90,
+    "retweets": 325,
+    "quotes": 20,
+    "likes": 757,
+    "bookmarks": 2,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1514384474225758221",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FQQsp9-X0A0L09Q.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FQQsp9-X0A0L09Q.jpg",
+     "width": 1012,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "122473388",
+      "username": "CVSHealth",
+      "name": "CVS Health"
+     },
+     {
+      "id": "56941704",
+      "username": "GovAbbott",
+      "name": "Greg Abbott"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1827045211492470837",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1827045211492470837",
+   "url": "https://x.com/babydocwhit/status/1827045211492470837",
+   "conversationId": "1827045211492470837",
+   "text": "I just cried on the phone during an insurance peer to peer. CRIED. I am so tired of the unpaid time spent begging insurance companies to pay for medications for my patients, to just to have a PHARMACIST (not a peer by the way,) read off the same criteria that they already sent by fax. This was after I had paid to staff jump through all of the hoops of prior authorization. If you people want to have doctors, you are going to have to stop voting for shit healthcare policies. This is unsustainable.",
+   "lang": "en",
+   "createdAt": "2024-08-23T18:08:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "33395304",
+    "username": "babydocwhit",
+    "name": "Dr. Blue Check",
+    "url": "https://x.com/babydocwhit",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1455623348961095688/9NwsKfvW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 421
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1054796636055093248",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1054796636055093248",
+   "url": "https://x.com/isa75012/status/1054796636055093248",
+   "conversationId": "1054796636055093248",
+   "text": "New low in @AnthemBCBS prior authorization process. Asking to wait &gt;1 week before I can do a peer to peer to appeal decision for my patient. One week to maybe hear a no? And all this because they don’t have enough medical directors? #shame #thisiswrong #patientshouldbefirst",
+   "lang": "en",
+   "createdAt": "2018-10-23T18:08:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "393077341",
+    "username": "isa75012",
+    "name": "Isabelle Amigues, MD, MS, RhMSUS, mom etc",
+    "url": "https://x.com/isa75012",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1540387854479634432/L02R48jy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "shame",
+     "thisiswrong",
+     "patientshouldbefirst"
+    ],
+    "mentions": [
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

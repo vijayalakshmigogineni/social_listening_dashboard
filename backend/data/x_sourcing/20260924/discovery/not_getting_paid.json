@@ -1,0 +1,1854 @@
+{
+ "key": "not_getting_paid",
+ "query": "(claims OR insurance OR payer) (\"not getting paid\" OR \"haven't been paid\" OR \"still waiting on payment\" OR \"months to pay\") (practice OR clinic OR office) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1506578318413504518",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1506578318413504518",
+   "url": "https://x.com/SenseiLo/status/1506578318413504518",
+   "conversationId": "1506578318413504518",
+   "text": "When are we going to call out horrible government work places? Because my friends have been working with NNPC clinic and haven't been paid since the start of the pandemic. 🤷🏾‍♀️\n\nThe accountant claims if they are paid the bulk outstanding they would buy cars to oppress senior staff",
+   "lang": "en",
+   "createdAt": "2022-03-23T10:27:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "103861007",
+    "username": "SenseiLo",
+    "name": "Sensei Lo",
+    "url": "https://x.com/SenseiLo",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2079758246127050752/VGdI1epE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1850497335450653003",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1850497335450653003",
+   "url": "https://x.com/_Steve_Hughes_/status/1850497335450653003",
+   "conversationId": "1850497335450653003",
+   "text": "What for the price of Brexit?\n\nChancellor Reeves will raise 36B by tax rises in the upcoming budget to offset Brexit effects on our economy.\n\nPushing our tax burden to a level never seen before.\n\nParaphrased from The Times today. The main points likely to be in the budget on Wednesday:\n\nReeves is expected to increase employers’ national insurance by at  least one percentage point in her budget, which raises £8.5 billion.\n\nShe is also expected to make a ­“significant” cut to the earnings  ­threshold at which employers start making national insurance  contributions, currently £9,100.\n\nServices (NHS, Roads etc.) to find 2% savings.\n\nMore family silver will be sold (government buildings) raising 1B.\n\nEliminate waste, including cutting £550 million from the budget for private consultants.\n\nThe £2 cap on bus fares to rise.\n\nDrive down the number of patients on waiting lists from 7.6  million and press for reform. Around £10 billion will be pledged over 18  months to pay for 40,000 extra hospital appointments a week, including  evenings and weekends.\n\nThe one economists are watching nervously to see the market's reaction.\nChanging the debt rule to potentially free up £50 billion of  infrastructure spending while committing to have day-to-day government  spending in balance.\nBut if the chancellor borrows to build, that will  push up the cost of government borrowing, which has been increased dramatically by Brexit ending half a century of a perfect AAA national credit rating.\n\nTwo carbon capture and storage sites in the northwest and northeast of England.\n\nA government-private finance initiative (PFI) to regenerate Euston station in London.\n\nComplete the rail link with Old Oak Common, for the HS2 high speed rail link.\n\nThere will also be £1.4 billion for school rebuilding programmes.\n\nThe current bi-annual budget event will be reduced to one.\n\nAnd of course, winter fuel payments will be cut for many.\n\n---\n\nAs she puts  the finishing touches to Wednesday’s statement, the chancellor will be  studying polls showing voters think she has tricked them by ruling out  tax rises on “working people”  in the party’s manifesto, then planning a national insurance raid on  employers.\n\nTreats will be few on the ground. And this weekend, there are  rumblings from the City that, unless Reeves provides more reassurance,  Wednesday could yet become a second fright night for the markets.\n\nWhen  she gets to her feet in the Commons, the chancellor will make three key  pledges — to “do everything in my power to protect working people”,  “fix the NHS” and “rebuild Britain”. \n\nThe story Labour wants to tell is  that spending restrictions and £35 billion of tax rises are necessary  because Rishi Sunak and Jeremy Hunt’s decision to twice slash national  insurance contributions (NICs) by 2p in the pound was unsustainable. \n\nReeves will accuse the Conservatives of a “cover-up” and insist their calculations about public spending were wrong.\n\nTo  reinforce the point, the Office of Budget Responsibility (OBR), the  independent watchdog, will publish a document on Wednesday providing a  detailed breakdown of the £22 billion “black hole” Labour says it  inherited, along with a government response.\n\n“Sunak  and Hunt will not be able to say this did not happen on their watch,”  Reeves has said. “We had a Tory government which promised low taxes, but  they lost control. What business wants is stability.”",
+   "lang": "en",
+   "createdAt": "2024-10-27T11:18:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1766551751249793024",
+    "username": "_Steve_Hughes_",
+    "name": "Steve Hughes 🇬🇧 🇪🇺 Remember better? #RejoinEU",
+    "url": "https://x.com/_Steve_Hughes_",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1766769940034355201/t2fFn3Lt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 98
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1850496198320271361",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Ga5IfO8XMAESCwT.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Ga5IfO8XMAESCwT.jpg",
+     "width": 1168,
+     "height": 849,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1831832789005824384",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1831832789005824384",
+   "url": "https://x.com/HoodieGenji/status/1831832789005824384",
+   "conversationId": "1831832789005824384",
+   "text": "Not having renters insurance is very unwise. If the person above you leaves their tub running and floods your apartment, you are not getting paid for the water damage from your rental office",
+   "lang": "en",
+   "createdAt": "2024-09-05T23:12:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "38994410",
+    "username": "HoodieGenji",
+    "name": "𝒯𝒽𝒶𝓉 𝓌𝒶𝓈 𝒶𝓁𝓂ℴ𝓈𝓉 𝒶 𝒸𝒽𝒶𝓁𝓁ℯ𝓃𝓰ℯ.",
+    "url": "https://x.com/HoodieGenji",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2099745035407294464/w2I7f_Ex_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 10,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 951
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1775170993243464148",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1775170993243464148",
+   "url": "https://x.com/DonShift3/status/1775170993243464148",
+   "conversationId": "1775170993243464148",
+   "text": "So one of the things about my job is I talk with a lot of auto insurance adjusters and lawyers (defense counsel and bus bench/billboard ambulance chasers). Here's some reality about car accidents and insurance they shared with me.\n\n#1 Buy as much insurance as you can afford. Why? So if you kill somebody, you don't lose your house. Is this likely? Not really, juries & judges are reluctant to bankrupt normal people without much and if this happens, usually your insurance company will pick up the slack to avoid a bad faith lawsuit. \n\nBUT if you have state minimum limits or a low policy, you insurance company will want to get get rid of the claim as soon as possible. They're not going to fight for a dude with a $15k minimum if there's a chance they could have to pay an excess judgement for you. You'd be surprised at how little police/insurance have to do with each other because the claim won't be defended against so the reconstructionist/investigator isn't needed for anything other than the initial report. Often we'd meet the property damage adjuster so he could photograph a vehicle in evidence and that's the last we'd hear from an insurance company.\n\nAlso a fun fact: if you have a minimum property damage policy, State Farm will sue you for the difference after they take everything your policy has to offer...even though they themselves sell minimum policies.\n\n#2 as an investigator with the sheriff's dept/office I've NEVER talked to an insurance agent. Your insurance agent doesn't actually care; they are there to play nice to sell you insurance. It's the adjusters on the phone who work your claim. Your agent is a whore for commission and has very little to do beyond filing a claim for you. \n\n#3 the police's collision report and the insurance investigation are two different things. Police look for criminal liability and insurance civil liability. Civil liability is nuanced and complex. I've only ever put an associated factor down on a TC report, never \"47% at fault for violating CVC 222106(b), turning right on a Sunday.\"\n\n#4 insurance adjusters usually know you're at fault when you call, especially if you get a ticket. But fun fact! In many states, like California, you don't automatically get a ticket if the cop feels you're at fault. (This was pre-woke policy in my dept's case)\n\n#5 a total loss doesn't mean you get your money back, dollar for dollar. It's like \"well you could have been totally screwed, but here, have some money so you aren't totally screwed.\" You don't get your down payment back, you get paid for the value of the vehicle just before the accident, you don't get replacement value, and every penny you put in for modifications or whatever doesn't necessarily result in being repaid for your cool rims or whatever. And you're not getting paid for regular maintenance. \n\n#6 the police don't actually care what happens with your insurance. They'll release the vehicle, the report, testify if required, but the police have a different job and only interact with insurance in MAJOR cases where serious felonies or death is involved. The police will not reinvestigate your dumb little accident because you \"feel\" you aren't at fault. \n\n#7 your insurance didn't screw you. You don't understand how the process works and you're just pissed off. Also, the police aren't out to get you or believe the other guy because reasons. You're just dumb and in the wrong.\n\n#8 most people are stupid and don't know what happened in an accident. See my post on dashcams. Also people are FAR more honest on scene to police than they are after-the-fact to insurance. Get an on-scene police report if the local cops will do it. https://x.com/DonShift3/status/1775166669884981427?s=20",
+   "lang": "en",
+   "createdAt": "2024-04-02T14:38:40.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1485283924053921794",
+    "username": "DonShift3",
+    "name": "Don Shift (buy my books)",
+    "url": "https://x.com/DonShift3",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1687159894397665282/wh4DQpRN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 28,
+    "retweets": 26,
+    "quotes": 8,
+    "likes": 282,
+    "bookmarks": 194,
+    "views": 68910
+   },
+   "replyTo": null,
+   "quotedTweetId": "1775166669884981427",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1775167223235284992",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GKKpLy3bEAAQoh9.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GKKpLy3bEAAQoh9.jpg",
+     "width": 1600,
+     "height": 1200,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/DonShift3/status/1775166669884981427?s=20"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1433267171841302531",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1433267171841302531",
+   "url": "https://x.com/DRESCOAST/status/1433267171841302531",
+   "conversationId": "1433267171841302531",
+   "text": "Waddup World ✌🏼\n\nFYI: if you have trouble receiving your EDD Unemployment Insurance bc you can’t connect with them and haven’t been paid - CONTACT your local Assemblymember’s office -OR- contact me and I’ll help you get a hold of them and get paid faster. \n\nALL LOVE. TAP IN.📲📲",
+   "lang": "en",
+   "createdAt": "2021-09-02T03:14:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "286056695",
+    "username": "DRESCOAST",
+    "name": "andrés rodríguez",
+    "url": "https://x.com/DRESCOAST",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1582836506078502912/EBo8fMxB_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2067735417932443874",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2067735417932443874",
+   "url": "https://x.com/11975MHz/status/2067735417932443874",
+   "conversationId": "2067735417932443874",
+   "text": "This is a long one. Fellow veterans, mutuals, I would greatly appreciate a retweet on this one. This is the only time you'll ever see me ask for one -- but be sure to read this first. It pertains to you, too. It's about my ongoing nightmare with the VA's Chapter 31 VR&E. \n\nFor the rest of you, have you heard of the epidemic of America’s Armed Forces veterans driving up to a VA campus parking lot, and ending themselves in their own vehicles?\n\nIt’s so bad that even the Washington Post took a breather from its usual TDS to report about this tragic phenomenon during Trump’s first administration. http://Onceasoldier.com has its own section detailing these very specific occurrences as well. Why does this happen?\n\nThis much is certain: The veterans taking their own lives in this manner have grown so frustrated by inaction or denial by the VA that they lost all hope, they grew tired of the constant battle of dealing with the VA – and they wanted to send a message. And so they tragically ended themselves to send this very message.\n\nIf you had any idea just how stratified and inaccessible the VA is when it comes to communication, you’d be floored. Every VA campus has one single phone number acting as gatekeeper to any and all calls coming in. A few VAs actually circumvent this gatekeeping to better serve veterans. Most don’t.\n\nThe VA doesn’t want to listen, and they’ve become very good at figuring out ways to not listen.\n\nNow when it comes to healthcare, the VA is solid. Especially when it comes to necessary healthcare and urgent care. Not every VA is as good as another, though and just about every vet who’s been to several will tell you this. But in this context I’ve found the VA to be consistent. If I was sick and showed up to every VA medical-capable installation I’ve been to, I was always taken care of immediately.\n\nSo why are these veterans ending themselves in this very specific manner, if their immediate healthcare is good? It’s mostly due to the benefits and occupational support side of the VA which are a different beast entirely. Applying for benefits with the VA is rarely ever a quick and painless procedure and more of a battle of attrition. Due to the changes that came along with the Trump Administration, claims have been processed far, far quicker than they ever have before and that’s fantastic. But a quickly processed claim does not mean it was a properly processed claim, and more often than not, the veteran has to get lawyers involved in order to for this proper processing to occur. This in itself is a problem, because most veterans can’t afford a lawyer, and most lawyers who work on a basis where they only bill the veteran upon a successful claim and resulting payout. The firms that specialize in this are very selective about which cases they take – and this isn’t the fault of the veteran. But that selective nature of these firms makes for basic business sense, as cold as that sounds.\n\nEven this process is fraught with obstacles and denials by the VA, and many veterans who qualify for disability benefits fall through the cracks and end up frustrated, dejected, and driven to deliver a notice to the VA regarding their suffering in the aforementioned tragic fashion. Despite the recent drastic improvements to the VA’s claims handling, this still happens far too often.\n\nDisability benefits aren’t the only aspect of the VA suffering from an awful process that drives veterans to despair or worse. There’s the other benefits and services that the VA offers to its vets. One of them is VR&E, and I’m going to describe the nightmare I’m still dealing with that particular section of the VA. \n \nVR&E -- aka Chapter 31 -- stands for Veteran Readiness and Education. It’s a department that offers what sounds like a fantastic resource for (further) education at accredited institutions provided the veteran in question qualifies for this service with the addition of a monthly living stipend during education/training. If you’re interested in what the requirements are, go look them up yourself, because this post is going to be long as it is. Needless to say, I qualified. I would be a fool to turn down such an opportunity, so I applied.  \n \nWhen you qualify for VR&E, you are assigned a counselor from the VR&E department, and the counselor then tells you what is required to get the process rolling.  I applied for VR&E this same time last year with the intent of attending Texas Tech for the Spring 2026 semester (For those of you about to suggest the Hazlewood Act, I did not enlist in Texas.) My first counselor was Janice Adams of Detroit, Michigan -- as I was resident of Michigan at the time -- and my intent was to finish out my Mathematics degree. Janice informed me that this intent is acceptable under the VR&E program, and my first order of business was to apply to Texas Tech as a returning undergrad. Which I did, immediately – as soon as I wrapped up my call with Janice. \n \nThe thing about applying with Chapter 31 benefits at any university is the application fee is waived. Or maybe that’s just Texas Tech. Regardless, fee-waiving is a process in itself that takes time. In this case, from the moment I finished talking to Janice, and the hour or so later that I finished the application and submitted it to Tech. \n \nThis is where the problems started. I had no idea that this was going to be the tip of a very large, jagged iceberg. \n \nAfter what took about two weeks, I received an email from Texas Tech informing me that my application was accepted and the fee was waived. In less than 20 minutes – I am not exaggerating or lying here -- after I received my registration confirmation from Texas Tech, Janice emailed me informing me, with zero prior warning, that she dropped me from VR&E. The reason? I hadn’t “fulfilled requirements” with an approved application. \n \nIn every conversation and communication I’ve had with Janice from the moment I qualified for Chapter 31 to that moment, never once did she inform me that there was a deadline for this application – not that there was one.  My sole notification of yet another one of these deadlines was her unilateral decision to drop me from the program and that was that. I tried calling her back, no answer. It was a Friday afternoon, and she probably already took the afternoon off. In a panic, I contacted Michigan Senator Elissa Slotkin’s office that very day and explained my issue. \n \nSenator Slotkin’s office responded immediately and broke through the stratified layers that enshroud the VA that following Monday. I don’t know what her office said to the VA, but Janice called me back and in the most apologetic manner imaginable, going so far as to say that she’s been my “best friend” during this whole process -- which is odd considering how limited our communication has been up to that point – but whatever. She informed me that my case was reopened and I was reinstated to Chapter 31. \n \nThank you for your rapid response on that, @SenatorSlotkin. I truly mean that. You have been the only one who actually did anything to help me during this entire ordeal and you office was lightning quick in response as well. \n\nI’d like to stop and point out two things: first, I had to involve a politician from DC in order to fix Janice Adam’s callous attempt to dismiss me. A state senator. This bears repeating: I had to contact a state senator who was currently working in DC in order to make the VA do their job correctly – and that’s not the even the craziest thing. I had to contact another politician in DC later regarding the same inexcusable conduct of this very same VR&E representative, Janice Adams. Why? This is insane. \n \nSecond, Senator Slotkin’s intervention had my case reopened, after it was closed. The reason I mention this second detail will be relevant later.\n\nI then followed every directive and requirement that Janice required of me before January 2026 came about; and before I even applied for Chapter 31, I did my research on everything this department would possibly need to in order to process my enrollment. I went so far as to even provide Janice with my intended route to return to Texas and even included the hotels I intended to overnight at. I was as thorough as possible. I did not slack on anything, especially when it came to whatever Janice requested from me. And I saved every single communication I had with Janice because I’ve dealt with the VA before, and I knew better than to not keep receipts of everything. My VR&E folder where I keep all my communications since start of this nightmare this time last year is currently 45MB.\n\nThere was one requirement that I couldn’t provide to Janice until I actually reached Texas Tech, however. And I made this very clear to Janice before I left, before Janice wishing me a safe and happy trip.\n\nThe reason I couldn’t provide that information is because I’m a returning undergrad, and returning undergrads are prioritized the same as freshmen when it comes to registration access. What this means is seniors get the first pick of the classes, followed by juniors, followed by the freshmen – and the freshmen are only given the three days before the start of the semester to register. This is policy at Texas Tech. Like I said: I informed Janice of this.\n\nAnd, I’m a senior. That means not every course I might require to graduate will be available for one of two reasons: It’s either already filled up by seniors who were able to register a month before I was and the second being or it’s a course limited to either the Fall or Spring semesters. So, after I loaded up my home into the U-Haul, I high-tailed it to Lubbock and made it here on January 8th. On that next day, Friday January 9th, I went and visited my Mathematics Undergrad Advisor who was there during my previous attendance and is one of the most incredibly wonderful people I’ve ever encountered in academia. Within minutes, she showed me what my options were, and what classes I needed in order to graduate within the next two semesters. She registered me, and I was off to the races.\n\nOr so I thought.\n\nThat evening when I returned to my hotel room (I still had to find a place to live), I checked my email.\n\nJanice Adams had sent me an email while I was visiting with Patty. In said email, Janice announced that she dropped me from VR&E. Again. The reason being: I hadn’t turned in my degree plan yet. Gotta love how Catch-22 is still government policy over at the VA. Also within hours of receiving said requirement. Unbelievable.  I can’t think of a truer metaphor for this than Charlie Brown trying to kick the football held by Lucy than my own dealings with Janice Adams. She somehow managed to pull the football away at the very last second, both times.\n\nThis means that Texas Tech wasn’t being paid, and that I wasn’t going to get my stipend. All because Janice Adams couldn’t wait the few hours for me to report back with that information that I told her I would get to her later that day.\n\nAnd no, she did not answer her phone that day. Nor did she respond to my emails. There was no valid reason Janice Adams can possibly make as to not allow me the few hours to forward that information to her. None whatsoever.\n\nAnd now that I thnk about it, there’s no reason whatsoever that VR&E counselors should be able to unilaterally decide to cut off a veteran with not even a SINGLE warning. If there’s one thing that needs to be changed to Chapter 31, it’s this. There should be at least three warnings via e-mail, verbally by phone, or by snail mail that a veteran is liable to be removed from VR&E for lack of certain documentation.\n\nOn Monday morning, I visited the Lubbock VA and immediately coordinated with the VR&E case worker there. She told me that this sort of thing has happened before, and that I’d have to fill out ANOTHER application for VR&E, and that they could retroactively backdate the tuition and stipend payouts, and that I should be okay. It might take up to 120 days, she informed me.\n\nThat’s four months without Texas Tech receiving their tuition and me not receiving my monthly stipend – but Texas Tech understood my issue and let me attend anyway. I had credit cards that I kept and used only for emergencies. So with what little money I had left, I found a small home to rent and started to live as sparingly as I could off my credit cards.\n\nI also didn’t sit on my laurels. I contacted anyone and everyone I could find related to VR&E in Texas and begged them to speed up my application and get me with a counselor and in the middle of March, my application was accepted yet again and I had to yet again attend the same VR&E online orientation courses that I took months prior.\n\nMy new counselor was Andrietta Gayles, and in my first discussion with Andrietta, I told here what the situation was and that I really, really need to get that tuition paid and my stipends paid out. Andrietta asked me to send her the tuition bill, which I did. And then Andrietta coldly informed me that they can’t cover prior tuition bills – and that all she can do is handle my application for the upcoming Fall semester. This contradicts what my Lubbock VR&E rep informed me earlier.\n\nFor any of you who have attended university in this country, you will know that Tech’s generosity to me in regards to this tuition bill is not common. If you don’t pay within so many days of the beginning of the semester, they drop you and remove all access to Webwork and your email and your ability to simply attend class. And you also know that if you have an outstanding bill with them, YOU CANNOT REGISTER FOR THE NEXT SEMESTER.\n\nSo, I return to my VR&E rep at the Lubbock VA several times. Nothing is done. \n \nI recently finished my semester with passing grades on everything, but my tuition still hasn’t been paid. My stipends haven’t been paid out yet. My credit cards are maxed. \n \nAround finals week, I get a notice from Andrietta that she dropped me from VR&E because I didn’t fulfill certain requirements about my degree plan and registration. Which is a moot point because I can’t attend next semester without that tuition paid.\n\nDid I mention Andrietta claims to have a PhD? That means she is aware of this. She knows the process. But she didn’t care.\n\nI then did what I had to do while back in Michigan – I contacted the office of a DC politician, Representative Jodey Arrington. I detailed what the problem was and turned over my 45MB archive of ALL my communication up to this point with VR&E.\n\nA week or so ago his office responded to me that the VA gave him the same run-around that Andrietta gave me and told me I need to fill out another VR&E application and start the 120-day process all over again. \n\nThe other day, I visit the VR&E rep again, futile as that was. I told her I need to talk to someone above her. A supervisor. It’s been over six months, this issue can be easily and quickly resolved by re-opening my previously closed case and approving it. She gave me the phone number to one of her superiors in El Paso.\n\nOnce I contact this supervisor, I spent about half of an hour detailing everything you’ve read up to this point.\nAnd guess what he told me to do? Go on. Take a wild guess.\n\nHe told me to fill out an application and there is a 120 day wait – which entails me having to also go through the entire orientation again.  He also told me he can’t re-open my case, which we know isn’t true because my case has been re-opened before. He just doesn’t want to.\n \nFinally, the other day, I went in and talked to the same lady running VR&E at the Lubbock VA – the same one whom I went to this past January after Janice Adams wrongfully dropped, agreed I was wrongfully dropped, and told me that this sort of thing will be fixed in due order – and guess what she told me.\n\n“There’s a process. You need to fill out another application, and it may take up to 120 days.”\n \nWhat is my recourse here? Nothing. I’ve put in for a higher-level review (with myself present) but that was months ago and I haven’t received anything back from the VA by phone, mail, or email. As I’ve stated many times before, the VA is so stratified that talking to someone who isn’t trained to respond like a robot is next to impossible. And I don’t have 120 days anymore. The Fall semester starts in less than two months. The two local VR&E reps here know this, and they don’t care. \n \nIt’s been six months. Six months. That’s how long I’ve been holding out, waiting for the VA to realize that this is a mistake on their end and not due to inaction on mine.\n\nSo is my issue here as bad as a combat vet suffering from a blown out back or knees or a nagging combat injury that worsens over time? No. It’s certainly not. But my issue here is typical of the red tape run-around that many VA employees still force veterans to suffer to get anything accomplished. Many VA employees and reps care. I just happened to find a holdout of the ones who don’t. \n \nAnd Janice axed me from VR&E with zero warning not once, but twice. You read that correctly: Zero warning. And both of these times weren’t because of anything I forgot or failed to do, yet she dishonestly claimed as much and eliminated my enrollment regardless. Now imagine if there are veterans out there with, for example, PTSD issues that affect their memory; and they’re trying to make use of Chapter 31 only to forgot a single document that Janice dishonestly claimed I had. They would get axed from the program too, with zero warning. Zero recourse. This is unacceptable.\n\nThe entire point is thus: If this is happening to me, it’s happening to other veterans whose health and situations are far more dire than mine. \n \nI qualified for Chapter 31. I was approved for Chapter 31. I fulfilled every requirement of Chapter 31. And due to their inaction or malfeasance or stupidity, they still screwed me over. I now have a $9,000 unpaid tuition bill from Tech and destroyed credit. \n\nA $9,000 tuition bill and destroyed credit. That's what I have to show for trusting the VA. \n \nSo am I going to game-end myself in the VA parking lot? No. But I now I have a better understanding why these other veterans lose all hope and that drastic, final, tragic message is their last resort and after reading this, and I hope you do too. I can’t even begin to imagine a veteran struggling with severe PTSD issues or chronic pain and having to deal with the same do-nothing mindsets that I’ve dealt with for the past six months.\n\nThe VA’s VR&E program needs the same sort of shakedown and culling that the rest of the VA recently experienced. It needs qualified and capable representatives in that section that can identify and handle issues like mine – because if there’s one thing I learned, if the VA screwed me over in this regard, they probably screwed hundreds of other veterans over in this regard as well --  and who have simply given up and don’t know what else to do. And that’s the other point of this long-winded post, aside from getting more eyes on this problem.\n\n-Ethan Forsythe\n6/18/2026\n\nPlease read before commenting: I want to keep the comments here limited to veterans and those directly supporting veterans who also want to discuss their issues with this program and the VA in general. I will cull and block anything and anyone else. If you’re not active duty/veteran and/or a VA representative, or an attorney with experience dealing with the VA, or if you’re not in a position of actual influence such as being a political representative, then you have NO business raising any questions or challenging anything that’s been stated here. This app has way too many never-served who thinks their dad’s/brother’s/uncle’s experiences qualifies them to weigh in on these issues. \n \nAlso, I’m not interested in any anecdotes about how easy it was for you personally to fix your issue with the VA and because of that, you think my complaints aren’t valid. Good for you! If only all of those other vets who ended themselves in a VA parking lot had your wisdom or luck going about the issue, they’d be alive, now wouldn’t they?\n\n@SecVetAffairs\n@DeptVetAffairs\n@VAVetBenefits\n@USHVHA\n@RepArrington\n@KenPaxtonTX\n@tedcruz",
+   "lang": "en",
+   "createdAt": "2026-06-18T22:25:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "4751650189",
+    "username": "11975MHz",
+    "name": "EF Comix",
+    "url": "https://x.com/11975MHz",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/794714571168694273/_hb9kfuA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 17,
+    "quotes": 1,
+    "likes": 34,
+    "bookmarks": 0,
+    "views": 16075
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1078401427347857408",
+      "username": "SenatorSlotkin",
+      "name": "Sen. Elissa Slotkin"
+     },
+     {
+      "id": "1011640329647394816",
+      "username": "SecVetAffairs",
+      "name": "VA Secretary Doug Collins"
+     },
+     {
+      "id": "78408666",
+      "username": "DeptVetAffairs",
+      "name": "Veterans Affairs"
+     },
+     {
+      "id": "83922884",
+      "username": "VAVetBenefits",
+      "name": "Veterans Benefits"
+     },
+     {
+      "id": "3472629136",
+      "username": "USHVHA",
+      "name": "VHA Under Secretary"
+     },
+     {
+      "id": "816284664658874368",
+      "username": "RepArrington",
+      "name": "Rep. Jodey Arrington"
+     },
+     {
+      "id": "45840174",
+      "username": "KenPaxtonTX",
+      "name": "Attorney General Ken Paxton"
+     },
+     {
+      "id": "23022687",
+      "username": "tedcruz",
+      "name": "Ted Cruz"
+     }
+    ],
+    "urls": [
+     "http://onceasoldier.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1765490885624488067",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1765490885624488067",
+   "url": "https://x.com/businessdonkey/status/1765490885624488067",
+   "conversationId": "1765490885624488067",
+   "text": "Friend works as a contractor for a company and needed a day off because she was sick and didn't want to get rest of the office sick. They are forcing her to bring a doctor's note, and don't offer health insurance. So on top of not getting paid a day, has to spend $ or lose job.",
+   "lang": "en",
+   "createdAt": "2024-03-06T21:33:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1563703403326230528",
+    "username": "businessdonkey",
+    "name": "Donkey Wrestler",
+    "url": "https://x.com/businessdonkey",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2008711316937351169/jzQjNKeA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 58
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2057487281058107585",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2057487281058107585",
+   "url": "https://x.com/MCapital_In/status/2057487281058107585",
+   "conversationId": "2057487281058107585",
+   "text": "🧵 India's biggest-ever SME IPO opens this week. \nQ-Line Biotech (#QLine): set to raise ₹214 Cr. of fresh issue with marquee anchor investors (#abakkus #carnelian #HDFC #360One) & many more. \nSkip the hype and a deep dive into RHP raises serious concerns investors need to consider while evaluating the IPO for investment\n\n🚩A company that sells 65% to its own group → guarantees ₹46 Cr of that  group's debt → can't convert profit to cash → sits on 10 months of  inventory → gets downgraded 4 notches by CRISIL → shares an office with an  IT-raided entity it claims to have exited → belongs to a group named in a  ₹500–700 Cr pathology scam → and books a ₹17 Cr loss it won't explain.\n\n🚩 #1 — It sells 65% to its own group: POCT Services\n283 distributors on paper. In reality, one group entity — POCT Services —  absorbs more than 60%+ of all sales.  \n% revenue share, year by year: \n▪ FY23: 37.9% \n▪ FY24: 51.7% \n▪ FY25: 62.9% \n▪ 9M FY26: 65.4%  \nThis isn't a distribution network. It's a related party. And the  dependence deepens every single year — the opposite of what you want to  see before an IPO.\n\n🚩 #2 — It also backstops that group's debt\nIt sells to the group. Does it also stand behind the group financially?  Yes.  \nCorporate guarantees in the contingent-liability note: \n▪ POCT Science House: ₹10.6 Cr (Mar'25) → ₹15 Cr (Dec-25) \n▪ POCT Services: ₹31.05 Cr (brand new in Dec-25) \n▪ Total: ₹46 Cr — up from ZERO in FY23 & FY24  \nSee the loop: Q-Line books revenue selling to POCT, and simultaneously  guarantees POCT's borrowings. Revenue and risk circulate inside the same  family. If POCT stumbles, Q-Line — and now its public shareholders —  are on the hook\n\n🚩 #3 — The profits don't become cash\nA healthy business converts profit into cash. This one doesn't.  \nNet cash from operations: \n▪ FY23: +₹25 Cr \n▪ FY24: −₹24 Cr ❌ \n▪ FY25: −₹1.3 Cr ❌ \n▪ 9M FY26: −₹33 Cr ❌  \nThree straight years of negative operating cash flow — Reported profit on the P&L, real  cash walking out the door. \n\n🚩 #4 — Where the cash is trapped\nIt's stuck in receivables and inventory that keep swelling.  \n\nDebtor days: 66 (FY23) → 96 (FY25) → 160 (Dec-25)\nInventory days: 180 (FY23) → 226 (FY25) → 305 (Dec-25)  \nThat's ~10 months of inventory sitting idle, and customers taking 5+ months to pay. \nRecall who the biggest customer is. \nAnd the company's own projections keep debtor days at 115 through FY28.  They aren't promising a fix — they're normalising the bloat.\n\n🚩 #5 — CRISIL has already downgraded the credit rating\nOn April 9, 2026, CRISIL:  \n▪ Cut long-term: BBB+/Stable → B/Stable (four notches) \n▪ Cut short-term: A2 → A4 \n▪ Tagged it \"Issuer Not Cooperating\" — the company stopped sharing  information.\nA four-notch downgrade, weeks before the IPO, and the firm went dark on  its own rating agency. Yet it's comfortable asking the public for ₹214  Cr.\n\n🚩 #6 — The \"clean exit\" that wasn't\nNow the governance gets uncomfortable.  \nThe Income Tax Dept ran search & seizure operations on POCT Science  House Pvt Ltd (Sep 2–5, 2025); books and records were impounded. \nQ-Line  says it divested its 49% stake on Mar 20, 2025 — a clean break.  \nExcept: \n▪ POCT Science House still operated from the SAME office as Q-Line \n▪ Its guarantee from Q-Line ROSE from ₹10.6 Cr (Mar'25) to ₹15 Cr (Dec'25) — AFTER the  supposed exit \n If you've genuinely walked away, why the shared address — and why put  MORE money on the line for them?\n\n🚩 #7 — And the group has a documented history\nThis is where it stops being about accounting.  An NDTV investigation (Sep 6, 2025) into Madhya Pradesh's govt pathology-lab scandal names the winning consortium as \"Science  House Medicos and POCT Services.\" NDTV reported:  \n▪ 85 govt labs billed at premium NABL rates — NONE were NABL-accredited  at contract start \n▪ Scam estimated at ₹500–700 Cr, with ≥₹300 Cr in overbilling \n▪ FDA-approved machines required, never used; single-bidder re-tender  rule ignored \n▪ Science House's promoter had served jail time for corruption; POCT  blacklisted in multiple states \n▪ The Economic Offences Wing had already filed a case  \n\"Science House\" is a JV of Q-Line with its erstwhile associate POCT Science House.\nhttps://www.ndtv.com/india-news/ndtv-exclusive-madhya-pradesh-government-labs-under-scanner-over-wrong-test-reports-9227760\n\n⚠️ #8 — The ₹17 Cr that simply vanished\nOne number we could not reconcile.  \nThe restated P&L books an Extra-Ordinary Item of ₹16.97 Cr (~₹17 Cr)  in FY25 — large enough to drag PAT down from ~₹34 Cr (FY24) to ~₹28 Cr  (FY25).  We searched the RHP for what this loss actually was but couldn't find the answer.\n\n🔍 #9 — And note where it chose to list : SME and not Mainboard!\nA ₹214 Cr raise is the largest SME IPO in history. \nThe minimum lot here is ~₹2.74 lakh — which  prices out small retail and the questions they'd bring.  \nA record-sized raise, riding the lighter-scrutiny lane, with a ticket  size that keeps the smallest investors out. Not illegal.\n\nSummary : Are we reading too much or lining all the flags are telling one coherent story, not eight random ones!\n\nDo your own work. This is educational analysis, not investment advice. 🙏  #QLineBiotech #SMEIPO #IPO #IndianEquities #NSESME #StockAlertsIndia #stockmarkettrading",
+   "lang": "en",
+   "createdAt": "2026-05-21T15:42:48.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1892434798955941888",
+    "username": "MCapital_In",
+    "name": "Minerva Capital Research Solutions",
+    "url": "https://x.com/MCapital_In",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1892435824148697089/6gq3gVEk_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 21,
+    "bookmarks": 6,
+    "views": 4926
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2057486626054692864",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HI2pL3QbYAAVsgi.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HI2pL3QbYAAVsgi.jpg",
+     "width": 762,
+     "height": 567,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "QLine",
+     "abakkus",
+     "carnelian",
+     "HDFC",
+     "360One",
+     "QLineBiotech",
+     "SMEIPO",
+     "IPO",
+     "IndianEquities",
+     "NSESME",
+     "StockAlertsIndia",
+     "stockmarkettrading"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.ndtv.com/india-news/ndtv-exclusive-madhya-pradesh-government-labs-under-scanner-over-wrong-test-reports-9227760"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1558537727905189890",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1558537727905189890",
+   "url": "https://x.com/GenZOregonizers/status/1558537727905189890",
+   "conversationId": "1558537727905189890",
+   "text": "THIS! \n\nI worked in food service from 2015 - 2021. After *1* year of working in a pandemic, being assaulted for requiring masks, on top of not getting paid a living wage, no health insurance, &amp; no retirement? \n\nNah. I left for an office job &amp; never looked back.",
+   "lang": "en",
+   "createdAt": "2022-08-13T19:35:25.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1543316210002956289",
+    "username": "GenZOregonizers",
+    "name": "GenZOregonizers",
+    "url": "https://x.com/GenZOregonizers",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1940509575737753600/sD0EQ4pg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1852380775569645947",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1852380775569645947",
+   "url": "https://x.com/Fletcher4Mayor/status/1852380775569645947",
+   "conversationId": "1852380775569645947",
+   "text": "Why is this budget so damaging ? (1/2)\n\nWhen people hear that someone is running a business, they often assume that they are rich. It’s easy to see why: businesses have employees, shops, business premises, and vehicles, which all create an impressive image. However, the reality is often quite different. Let’s consider a scenario.\n\nImagine you operate a small engineering firm with nine engineers and one office staff member, generating an annual turnover of around one million pounds.\n\nAt first glance, a million pounds sounds a lot.\n\nHowever, after accounting for expenses like materials, wages, rent, rates, insurance, utilities, vehicle upkeep, waste disposal, advertising, tools, IT services, phones, industry memberships, health and safety training, personal protective equipment, and accounting fees—the list goes on, trust me it does—the business is left with a profit margin of just 10%.\n\nThat translates to a profit of £100,000. Impressive, right? But let’s break it down further. First, there’s corporation tax, which amounts to £22,750. The owner might want to retain £25,000 in the business for unexpected expenses, and there are certainly many potential challenges—like having to pay employees to clean the yard, wash vehicles when there is no work or cover for overtime when there is too much. Not to mention the risk of not getting paid when a client goes bankrupt or misquoting a job (it happens). The list of uncertainties is long.\n\nSo, after accounting for the corporation tax and the rainy day fund, we’re left with £52,250. However, the owner still needs to pay themselves a wage this is usually by paying themselves a dividend; let’s say they aim for £50,000 (most do 60hr weeks) and this year they can. Dividend allowance now capped at £500, they’re left with no tax benefits for all the sleepless nights spent worrying about the business and paying everyone’s wages week in week for the last year. They’re just subject to more taxes, like everyone else.\n\nNow, let’s assess the impact of this budget. Each employee at the company effectively faces an additional job tax of around £900, in addition to what the company already pays. For a company with ten employees, that totals £9,000. Importantly, this tax doesn’t come off the million-pound turnover; it’s deducted from the £100,000 net profit. This means the profit shrinks to £91,000. Now, the corporation tax drops to £20,365. Subtracting the rainy day fund and the owner’s salary leaves just £45,635. The owner is left with two choices: take a smaller dividend than the previous year or reduce the rainy day fund (which could be risky if a lathe breaks down or a delivery vehicle fails its MOT). Alternatively, they may have to raise prices, which ultimately impacts consumers—the ‘working people’ yes, like you and me.\n\nThis scenario can be applied across various businesses. While the numbers might differ, the situation remains same. Tax is tax no matter what the business. There are approximately 5.6 million small to medium enterprises (SMEs) in the UK, which serve as the backbone of the economy. Whether it’s your local butcher, baker, hairdresser, landlord or builder, these businesses face similar challenges. Some owners dream of achieving such profits as described above, while others might scoff at making so little, but either way, the additional tax burden on jobs reduces their bottom line and leaves many questioning, ‘what’s the point’. \n\nWhen a country’s entrepreneurs start thinking ‘What’s the point’ a country is in a very poor place.",
+   "lang": "en",
+   "createdAt": "2024-11-01T16:02:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "704595592329220096",
+    "username": "Fletcher4Mayor",
+    "name": "Nick Fletcher",
+    "url": "https://x.com/Fletcher4Mayor",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1883848450921357313/95-9o0IH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 20,
+    "quotes": 5,
+    "likes": 43,
+    "bookmarks": 5,
+    "views": 12325
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1852380762529509376",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GbT6fTtWsAAlkIp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GbT6fTtWsAAlkIp.jpg",
+     "width": 1178,
+     "height": 552,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1937567708784341450",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1937567708784341450",
+   "url": "https://x.com/STLChrisH/status/1937567708784341450",
+   "conversationId": "1937567708784341450",
+   "text": "I redesigned the MBA curriculum for Stanford to better meet the needs of small business owners:\n\nLeadership 101: “CEOs - how to clean the office bathrooms and run board meetings in the same day”  \n\nHuman Resources 101: “I found air plane alcohol bottles on the floor of company vehicle”\n\nHuman Resources 102: “Why am I getting sued for firing the person discussed in HR 101?”\n\nBenefits 101: “My health insurance went up 38% (again)… what now?”\n\nWorking Capital 101: “how not to go bankrupt in the first 12 months”\n\nWorking Capital 102: \"I thought new construction projects were great, but it has been 120 days and I still haven't been paid.\"\n\nTalent 101: “how to attract A+ talent by selling what your company will become in the future (but definitely isn’t today)”\n\nCommitment 101: “holy cow, I made $1 million… how to spend it on things that actually make you more money”  \n\nCommitment 102: “oops, I bought a boat instead, and now I can’t afford new work trucks— how do I fix this?”\n\nWhat’s missing from my curriculum?",
+   "lang": "en",
+   "createdAt": "2025-06-24T17:45:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2280731366",
+    "username": "STLChrisH",
+    "name": "Chris Hoffmann",
+    "url": "https://x.com/STLChrisH",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1938061814056509440/otaUpVuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 18,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 92,
+    "bookmarks": 27,
+    "views": 10604
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1430749319913684997",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1430749319913684997",
+   "url": "https://x.com/Sizwe_Nhloso/status/1430749319913684997",
+   "conversationId": "1430536011461939204",
+   "text": "@Thembisile_Q Selling insurance by Dignity Group although I'm not getting paid, just to keep myself busy because I don't have any capital to start a business 🤦🏾‍♂️, I'm a graduate with more than 2 years experience in office administration, My highest qualification is B tech Public Management.💯 https://x.com/Sizwe_Nhloso/status/1430749319913684997/photo/1",
+   "lang": "en",
+   "createdAt": "2021-08-26T04:29:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "3987874222",
+    "username": "Sizwe_Nhloso",
+    "name": "Isalakutshenwa",
+    "url": "https://x.com/Sizwe_Nhloso",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1225009291570089986/Wqi6Jv7j_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1430536011461939204",
+    "userId": "1240282987385827329",
+    "username": "Thembisile_Q"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1430749315505524740",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/E9sK7AlXEAQyULE.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/E9sK7AlXEAQyULE.jpg",
+     "width": 685,
+     "height": 420,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1240282987385827329",
+      "username": "Thembisile_Q",
+      "name": "Thembisile Q"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1274009154735112192",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1274009154735112192",
+   "url": "https://x.com/JohnnyR30413107/status/1274009154735112192",
+   "conversationId": "1274009154735112192",
+   "text": "@GavinNewsom\n We need serious help with \n@CA_EDD! Our claims are not getting paid and we can’t reach anyone at the office for help. Payments are sitting in PENDING and there’s no explanation!  PLEASE ASSIST!!!",
+   "lang": "en",
+   "createdAt": "2020-06-19T16:00:27.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1274003715326795776",
+    "username": "JohnnyR30413107",
+    "name": "Johnny Rocket",
+    "url": "https://x.com/JohnnyR30413107",
+    "avatarUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1272996158122741760",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "11347122",
+      "username": "GavinNewsom",
+      "name": "Gavin Newsom"
+     },
+     {
+      "id": "90692393",
+      "username": "CA_EDD",
+      "name": "EDD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082577864566636949",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2082577864566636949",
+   "url": "https://x.com/JanaEsso/status/2082577864566636949",
+   "conversationId": "2082577864566636949",
+   "text": "July 10 news of the new side agreement for the Gordie Howe bridge is released to media.  The Government, aka Liberals headed by Mark Carney as PM gave vague details surrounding the new side deal.  It was implied that Canada would be paid back before we shared revenue.  No we can't see the agreement, it is a secret is the answer given when asked.\n\nJuly 12 Carney finally answers questions in public and played word games with net revenue and tolls (remember the majority of revenue will come from tolls).  He doubled down and stated Canada will be paid back first. No we can't see the agreement, it is a secret is the answer given when asked.\n\nJuly 15,  3  full days have passed since Carney's press conference and Bloomberg releases an article contradicting Carney's statement. No Canada is not getting paid back first, that is not mentioned in the agreement.  Bloomberg did actually get a copy of the secret agreement, and now it's on the Gordie Howe website.  Was not so secret after all.  \n\nJuly 16 in a press conference Carney doubles down on his previous claim even after the news broke from Bloomberg,\n\nJuly 23 Carney claims he wasn't as clear as he could have been saying, \"Could I have explained it better on a Sunday morning at Stampede, with a  cowboy hat on? Yes, I could have explained it better,\" he said.\n\nSo Carney claims it was a matter of clarity (due to a cowboy hat, trying to be funny) and we as Canadians are supposed to just accept it.  Here is the problem.  This was a high profile news story.  It was all over social media and news media.  For days before the Bloomberg article.   \n\nWhy did NO ONE and I mean NO ONE in the PMO's office or Liberal party or government clear up what is obviously a totally wrong claim?  No one, not a peep or a hint that the story was misleading.  They let it stand.\n\nJuly 29 Liberals vote to shut down committee trying to look into this situation.   \n\nZero transparency, trying to hide details of the agreement and letting DISINFORMATION propagate in the news cycle doesn't seem like the actions of a stand up  up anything.  It smacks of secrets and cover ups.  Truth does not stand in the shadows, lies and deception do.\n\nWhat else are they hiding?  Why are they not getting the hard hitting stories in the news cycle?  And why are the conservatives getting blasted in the news cycle instead. \n\nDoes this sound like a democratic country at all?  Or a swiftly becoming autocratic society filled with posters in the windows no one actually believes by swears by any ways to give the illusion of unity, taking a comment from Carney's own speech.  What happened to ripping down the poster and it's lies.  Seems he is well suited to putting more posters up so you can't even see in the window any more.",
+   "lang": "en",
+   "createdAt": "2026-07-29T21:23:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "333780708",
+    "username": "JanaEsso",
+    "name": "Canadian Jana",
+    "url": "https://x.com/JanaEsso",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1272618884705792005/0mYiYOHs_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 140
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1910383736316702974",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1910383736316702974",
+   "url": "https://x.com/TruthAgape/status/1910383736316702974",
+   "conversationId": "1910383736316702974",
+   "text": "In today's edition of, \"why doesn't my provider take insurance\":\n\nI haven't been paid since December of 2024 by either @TRICARE or PHPNI. In addition, @AnthemBCBS is denying all of my EAP claims stating the benefits they gave my patients are in error.\n\nThat means I have several patients I have yet to be paid for since January of 2025. \n\nYou have a right to know if your benefits are being interrupted or are at risk because your insurance company refuses to abide by the contract they signed with your providers and the laws of your state. \n\n@ToddRokitaIN really should look into insurance companies breaking Indaian Statutes that require claims to be processed and paid or denied within 30 days. Local plans do this too.\n\nI tried to file a complaint with the office of @ToddRokitaIN. I was told that it is a business to business issue, not a consumer issue, and to hire an attorney. Perhaps the office of Mr. Rokita is unaware of how much it costs to hire a civil attorney and how hard it is to fund a battle against a major corporation as a small business. Perhaps his office is unaware that consumers are losing the ability to utilize their insurance because providers are tired of fighting to get paid correctly and timely.",
+   "lang": "en",
+   "createdAt": "2025-04-10T17:25:50.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "17641943",
+    "username": "TruthAgape",
+    "name": "Robin Atkins",
+    "url": "https://x.com/TruthAgape",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1705961729446850560/7ynHZQkt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 318
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "28558205",
+      "username": "TRICARE",
+      "name": "TRICARE"
+     },
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     },
+     {
+      "id": "110456022",
+      "username": "ToddRokitaIN",
+      "name": "Todd Rokita"
+     },
+     {
+      "id": "110456022",
+      "username": "ToddRokitaIN",
+      "name": "Todd Rokita"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1958719243308212459",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1958719243308212459",
+   "url": "https://x.com/a_man_in_red/status/1958719243308212459",
+   "conversationId": "1958719243308212459",
+   "text": "When I was going through cancer I had the nightmare of a single \"account\" not being included in the payment plan I had set up (despite express requests to put all accounts in the plan) and sent to collections over it. I had to deal with that headache for several years.\n\nWhen I started getting bombarded with bills from the dislocated shoulder, I wanted to make sure I was extra-keen to avoid that happening again. I have been regularly calling the billing office to find out the state of various bills (since they have to negotiate with my insurance company before I know what I'm actually supposed to pay).\n\nIt has been a slow process. But even then I was told I have four months to pay before anything is sent to collections. I thought I was doing my due diligence and paying everything on time.\n\nUntil I found out that the fucking hospital's radiology department isn't connected to any of this.\n\nAnd when I called to inquire about the state of my bill... unlike the hospital (both ER and ortho wings) they have a much, much shorter time frame for being sent to collections.\n\nAs in, they sent my bill to collections yesterday.\n\nEven worse, I never actually got a bill about any of this because unlike the rest of the hospital's billing departments, they got my apartment number wrong. They have been sending my bill to a unit that does not exist.\n\nThe first agent I spoke to would not lift a finger to help. Instead I was expected to deal with the collections agency. But calling back later I got a different agent who was more willing to escalate to the supervisor and try to get the account pulled back from collections on the basis that the billing agency made the error.\n\nI won't find out whether or not they will do me a solid until six business days. Which is also when the collections agency expects to have the account.\n\nI hate this shit so much.",
+   "lang": "en",
+   "createdAt": "2025-08-22T02:33:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2931474600",
+    "username": "a_man_in_red",
+    "name": "A Man In Red",
+    "url": "https://x.com/a_man_in_red",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1807744293815062529/ZsR-3teS_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 152
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1958718736958939136",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gy7EUENW4AAzbrt.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gy7EUENW4AAzbrt.jpg",
+     "width": 1440,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1938672939395883496",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1938672939395883496",
+   "url": "https://x.com/teddyferrin/status/1938672939395883496",
+   "conversationId": "1938672939395883496",
+   "text": "I have spent over 7 years attacking healthcare revenue cycle and trying to simplify medical billing at @rivethealth. Billions before us, and surely after, have been invested to improve it. It's still really, really bad. An RCM outsider asked me in a very sincere manner earlier this week: “How is revenue cycle so bad and so hard when so many companies work on it?” Something about the way he asked the question has kept me thinking about this since. \n\nWhat do you think? \n\nHere's what AI had to say. I gotta say: it's not bad...\n\n\"Oh, this is such a good question. It’s honestly one of the most fascinating puzzles in healthcare. You’re right—saying “healthcare is hard” is a cop-out. It is hard, but so are a lot of things that have gotten dramatically better, faster, easier, and cheaper in the past decade.\n\nSo why doesn’t revenue cycle follow that arc?\n\nHere’s a brain-dump of reasons, some obvious, some deeper, and some more “conspiracy-theory” flavored, in no particular order:\n\n1. Misaligned Incentives\nThe players in the rev cycle “game” (providers, payers, vendors, patients) do not actually want the same outcomes. Most software eats industries by simplifying the connection between what people want and how to get it. In healthcare RCM, “optimizing” for one stakeholder often means adding friction for another.\n\nExample: Payers want denials and slow payment to keep costs down; providers want fast, full payment; patients want clarity, but are a distant afterthought.\nVendors sometimes make money because the process is broken—not in spite of it.\n\n2. Insane Fragmentation (a.k.a. “Everyone’s Special”)\nUnlike, say, the credit card industry or e-commerce (which eventually converged on standards), healthcare rev cycle is an endless fractal of edge cases, local rules, payer quirks, regulatory overlays, contract idiosyncrasies, and weird IT stacks.\n\nEven if you solve 99% of it, the last 1% is different for every hospital, every payer, every geography, every specialty.\n“The same, but never the same.”\nFragmentation = endless opportunity for “point solutions” and no one can ever claim they’ve solved it all.\n\n3. Legacy Everything\nEvery big provider, payer, and system is running on spaghetti code, mainframes, faxes, homegrown “add-ons,” and patchwork integrations.\n\nNew tech can’t just “replace” this. Everything has to interoperate or layer on top, which breeds complexity and, inevitably, bugs and inefficiency.\nTechnical debt in rev cycle is so deep that “rip and replace” is nearly impossible.\n\n4. “Solving” Revenue Cycle is Not Always Good Business\nLet’s be real: If anyone truly fixed revenue cycle, a lot of very profitable businesses would be out of business.\n\nMany vendors are, at some level, financially incentivized for continued dysfunction—whether that’s explicit or just the reality of “change management as a service.”\nRevenue cycle “complexity” is the moat for a lot of companies.\n\n5. Inertia & Change Aversion\nLarge health systems, payers, and even small clinics are deeply risk-averse (sometimes for good reason: the risk is literally not getting paid at all).\nSwitching costs are huge—change management, retraining, and perceived risk often outweigh potential benefits.\n\n6. “Solving” Revenue Cycle Isn’t a Purely Technical Problem\nEven the most elegant, automated solution still has to be implemented by humans in hospitals, clinics, and call centers who may be underpaid, overworked, and stuck using whatever ancient EHR the C-suite bought in 2011.\nPolitical battles over who “owns” the problem inside orgs often torpedo innovation.\nNo amount of AI can fix a denials team that’s on strike or a billing office that doesn’t want to change.\n\n7. Perverse Feedback Loops\nSuccess in revenue cycle is invisible (“hey, we got paid on time!” = crickets), but failure is very visible (“hey, where’s my $2M claim?” = all hands on deck).\nThis means investment often chases failure, not building for the long term.\n\n8. Constantly Moving Target\nEvery year: new codes, new payer rules, new government requirements, new value-based whatever.\nVendors are always catching up, never caught up.\n\n9. Lack of a True Platform/Network Effect\nMost RCM vendors don’t own the transaction end-to-end and can’t create a true “network effect” (like Visa/Mastercard or Plaid in fintech).\nThe system is still “too balkanized” for a single player to reach critical mass.\n\n10. “Nobody Actually Wants It to Be Easy” (Dark Horse Theory)\nIf claims were as simple as swiping a credit card, every tiny provider could survive, costs would drop, and massive incumbents would lose pricing power.\nIn some deep, unspoken way, the system is optimized for complexity, not simplicity.\n\n11. The “Measurement Problem”\nYou can’t fix what you can’t measure, and “what is a clean claim rate?” or “what does it mean to get paid the right amount, on time?” is not well-defined across the ecosystem.\nEveryone reports their own KPIs, and the numbers are often “managed” rather than transparent.\"\n\nViva la resistance, @rivethealth! #whereothersstopwebegin",
+   "lang": "en",
+   "createdAt": "2025-06-27T18:57:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "71826814",
+    "username": "teddyferrin",
+    "name": "Ted Ferrin",
+    "url": "https://x.com/teddyferrin",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/557996093070274560/2mYmFGCi_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 3,
+    "views": 483
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "whereothersstopwebegin"
+    ],
+    "mentions": [
+     {
+      "id": "930814954034417664",
+      "username": "rivethealth",
+      "name": "Rivet"
+     },
+     {
+      "id": "930814954034417664",
+      "username": "rivethealth",
+      "name": "Rivet"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1908398235049148568",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1908398235049148568",
+   "url": "https://x.com/DianaHarding7/status/1908398235049148568",
+   "conversationId": "1908398235049148568",
+   "text": "You really couldn't make this up.  @ukhomeoffice cancel contract with hotels over alleged behaviour and performance issues.\nHotels say they haven't been paid. Who do @UKLabour blame? The Tories!\n\n\"Hotel sources told The Telegraph that unpicking the contracts appeared not only to have caused delays in their payments for accommodating the asylum seekers but also over transferring responsibility for them to Mears, Serco and CTM.\n\nThe sources said the normal process for receiving payments required the hotels to invoice SBHL on the 20th day of the month before, with the funds then transferred on the 28th or 29th.\n\nHowever, after SBHL was ditched by the Home Office, the sources said they had yet to receive any payments. “The insurance premium is taken monthly. If you don’t pay your insurance you are going to be in breach, so we have no option but to evict them,” said one source.\n\nThe hotel groups have also been given 90 days notice by SBHL that their contract with the company is ending, but said it was unclear who would cover the costs of accommodating the asylum seekers in the interim.\"\n\nHotels threaten to evict hundreds of asylum seekers https://www.telegraph.co.uk/news/2025/04/04/hotels-threaten-to-evict-hundreds-of-asylum-seekers/",
+   "lang": "en",
+   "createdAt": "2025-04-05T05:56:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "791318400",
+    "username": "DianaHarding7",
+    "name": "Diana Harding",
+    "url": "https://x.com/DianaHarding7",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1309524275238522881/Uy72LOod_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 0,
+    "views": 430
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "138037459",
+      "username": "ukhomeoffice",
+      "name": "Home Office"
+     },
+     {
+      "id": "14291684",
+      "username": "UKLabour",
+      "name": "The Labour Party"
+     }
+    ],
+    "urls": [
+     "https://www.telegraph.co.uk/news/2025/04/04/hotels-threaten-to-evict-hundreds-of-asylum-seekers/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1424780776613294084",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1424780776613294084",
+   "url": "https://x.com/Pouriaaa/status/1424780776613294084",
+   "conversationId": "1424662523257704449",
+   "text": "@Farinances @statsgeekclare I'm not getting paid by the tax payer to be happy. Getting paid to do a job, and do it properly. I can't do that if I'm sweating in a crowded, noisy office with a headache. I know how to be happy and enjoy my life in my own time, don't need my employer to tell me how.",
+   "lang": "en",
+   "createdAt": "2021-08-09T17:13:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "49024357",
+    "username": "Pouriaaa",
+    "name": "Pouria Hadjibagheri MBE",
+    "url": "https://x.com/Pouriaaa",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2012322845771124736/G2NrNAmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1424777008748408840",
+    "userId": "770066941",
+    "username": "Farinances"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "770066941",
+      "username": "Farinances",
+      "name": "Hayley Longster 🦞"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1858879714804314517",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1858879714804314517",
+   "url": "https://x.com/chrish9070/status/1858879714804314517",
+   "conversationId": "1858879714804314517",
+   "text": "#PostOfficeScandal In @thetimes by @TomWitherow he does a deep dive into the further scandal within a scandal which is compensation/redress payments to those affected.\n\nPost Office scandal: why is it taking so long to pay victims compensation? \n\nOnly a quarter of the money set aside for victims of the @PostOffice scandal has been paid out, according to the latest data.\n\nComplex schemes, legal wrangling and bureaucracy have been blamed for slow progress that has left more than 3,000 potential victims still waiting for a payout.\nPostmasters started ringing alarm bell about the Horizon system in the early 2000s, but it was not until 2019 that a High Court case brought the scandal to public attention. Mr Justice Fraser ruled that Horizon was riddled with faults that could cause money to appear to have gone missing from Post Office branch accounts.\n\nBy then, nearly a thousand people had been convicted based on Horizon data and as many as 4,700 more had repaid money that appeared to be missing, or had been forced out of their businesses. Some had been made bankrupt.\n\nFive years after the ruling, how many of these victims have received compensation? And why is it taking so long to pay redress to postmasters?\n\nHorizon compensation by numbers\n\nAs of October 31, 2,765 out of about 5,700 possible victims had received full compensation, totalling £438 million. This was only a fraction of the £1.8 billion that has been put aside by @RachelReevesMP , the chancellor at @hmtreasury \n\nMany of those still fighting for their compensation are those worst affected by the scandal and with the largest claims, but others are those who simply submitted their applications late.\n\nThe various schemes paid out final compensation to 192 people in October. At this rate, it will take another 16 months to pay the remaining victims, although high-value disputes have tended to get snarled up for far longer.\n\nWhy has compensation been so slow?\n\nCompensation had a slow start because of government tight-fistedness. The Bates group were told that their £11,500 per person settlement in 2019 was “full and final”, until @BorisJohnson caved under pressure a full three three years later.\n\nThe court process has also been slow. It took two years for the first case to go through, clearing 39, and even today only 111 convictions have been quashed in court. It was the realisation that this would never clear all the postmasters that led the Conservative government to pass the Post Office Offences Act on May 24. Reeves increased the compensation pot from £1 billion at the budget to account for the new beneficiaries resulting from the legislation.\n\nThe HSS, which has made better progress, was introduced in 2020 but many victims were not aware of its existence until the @ITV drama Mr Bates vs The Post Office made the scandal front page news. This helps to explain why more than 1,800 claims are still being worked on.\n\nAside from individual delays, the four schemes have all been criticised for being too complex. Each runs differently, with different legal parameters and appeals processes. However, they all involve long claim forms and demands for documents evidencing losses running back decades. They have been set up to be adversarial and bureaucratic, meaning that lawyers on both sides rack up huge fees arguing over minutiae.\n\n@KemiBadenoch , the former business secretary and now leader of the Conservative Party, blamed the “government machine” for slow progress when she gave evidence to the Post Office inquiry this week, saying that her predecessors had allowed “bureaucracy to get in the way” of compensation. In short, that the schemes were flawed by design.\n\nShe said contemporaneous emails showed that she “wanted to get the money out there” but had been “always given a reason why we couldn’t” by government officials.\n\nShe spoke about how red tape was slowing up payments. “I think I remember asking a question like, ‘Why can’t we just give them the money?’,” she said.\n\n “Then I’d be told there could be a judicial review and the Treasury has these value for money requirements — if you don’t meet them then you might end up having to go to court — so I just kept trying to find a way through.”\n\nRead the full piece here⏬\nhttps://www.thetimes.com/uk/society/article/post-office-horizon-it-scandal-compensation-8tlkpl2rq\n\n#MrBatesVsThePostOffice #MrBates #MrBatesVsPostOffice #MrBatesPBS #PostOfficeInquiry",
+   "lang": "en",
+   "createdAt": "2024-11-19T14:27:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "293920545",
+    "username": "chrish9070",
+    "name": "Christopher Head OBE",
+    "url": "https://x.com/chrish9070",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1391027560109182978/T3-d5pPB_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 28,
+    "quotes": 1,
+    "likes": 45,
+    "bookmarks": 1,
+    "views": 1390
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1858879292282667008",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GcwQ3hjWgAAwZ_D.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GcwQ3hjWgAAwZ_D.jpg",
+     "width": 574,
+     "height": 373,
+     "altText": "Post Office scandal: why is it taking so long to pay victims compensation?",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PostOfficeScandal",
+     "MrBatesVsThePostOffice",
+     "MrBates",
+     "MrBatesVsPostOffice",
+     "MrBatesPBS",
+     "PostOfficeInquiry"
+    ],
+    "mentions": [
+     {
+      "id": "6107422",
+      "username": "thetimes",
+      "name": "The Times and Sunday Times"
+     },
+     {
+      "id": "190213303",
+      "username": "TomWitherow",
+      "name": "Tom Witherow"
+     },
+     {
+      "id": "96966644",
+      "username": "PostOffice",
+      "name": "Post Office"
+     },
+     {
+      "id": "34374472",
+      "username": "RachelReevesMP",
+      "name": "Rachel Reeves"
+     },
+     {
+      "id": "18904582",
+      "username": "hmtreasury",
+      "name": "HM Treasury"
+     },
+     {
+      "id": "3131144855",
+      "username": "BorisJohnson",
+      "name": "Boris Johnson"
+     },
+     {
+      "id": "86925202",
+      "username": "ITV",
+      "name": "ITV"
+     },
+     {
+      "id": "4010545737",
+      "username": "KemiBadenoch",
+      "name": "Kemi Badenoch"
+     }
+    ],
+    "urls": [
+     "https://www.thetimes.com/uk/society/article/post-office-horizon-it-scandal-compensation-8tlkpl2rq"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082310916738093170",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2082310916738093170",
+   "url": "https://x.com/CarlosRivasMD/status/2082310916738093170",
+   "conversationId": "2082310916738093170",
+   "text": "Great question. It is multifactorial. The medical system is a sophisticated web of malicious entanglements.\n\n1. The medical school selection and training process selects specifically against critical thinking. It takes intelligence to be a successful medical trainee, but, there is a broad spectrum of intelligence, and medical training specifically reinforces and selects for rote memorization and rule following, and severely discourages independent and critical thinking. You are left with the smartest of those who are best at regurgitating rules mindlessly. Critical thinkers get filtered out viciously.\n\n2. Because of the complexity of the medical school selection and training process, it selects for people who wrap their whole identity up in being doctors and flaunting it. These means it is worse than death for most of them to contemplate being questioned by or God forbid removed from being a physician. They'd rather suffer any compromise to their \"integrity\" than risk their title.\n\n3. Being a doctor selects for and reinforces narcissistic baseless appeal to authority via titles and roles rather than real success in the real world measured through objective tests of skill. Especially for non-surgeons. So, doctors get accustomed to, and patients get gaslit into following their authority simply due to unmerited title and rank. If you question their authority, you're liable to get OFFICIALLY labeled insane.\n\n4. Physician training is absurdly costly and many graduates graduate with massive debt. Because they have no business skills and because the legal and financial environment of medicine is daunting, physicians are hazed into keeping their paycheck secure because they wouldn't know how to pay off their loan debts and mortgages and car notes otherwise.\n\n5. Physicians are given zero financial, legal, or business education. So they become dependent on their wage and are deathly afraid to consider independent practice.\n\n6. Insurance and government programs only reimburse for what is \"covered\", which means if you go off script you're not getting paid and you're risking losing your job.\n\n7. Medical workers (nurses, MAs, other doctors, social workers, etc), are SUPER liberal Karens, so, so much as whisper an alternative idea and you're liable to have someone \"anonymously\" call the medical board and report you and call your boss and get you fired.\n\n8. Doctors have spent their whole lives in the library, the lecture hall, and the hospital. They tend to be very naive and thus timid about the real world. They have been spoon fed \"knowledge\" by the system and been the best to regurgitate it their whole lives. So they are the least likely to accept controversial ideas that may be labeled as \"conspiracy theories\".\n\n9. They tend to be somewhat conservative in their lifestyle (to keep up appearances and avoid scandal), so, they are very afraid of having turmoil or interruption of their work. The risk of divorce if they have a problem at work is extremely high.\n\n10. The public is still very adherent to looking for doctors based on their credentials, rather than real evidence of their ability to think effectively for the real benefit of their patient. Doctors are afraid of being socially outcast.",
+   "lang": "en",
+   "createdAt": "2026-07-29T03:43:04.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1267504300210548736",
+    "username": "CarlosRivasMD",
+    "name": "Carlos Rivas MD",
+    "url": "https://x.com/CarlosRivasMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093823115239276545/4imlLmi-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 17,
+    "retweets": 34,
+    "quotes": 6,
+    "likes": 112,
+    "bookmarks": 59,
+    "views": 11620
+   },
+   "replyTo": null,
+   "quotedTweetId": "2082253921427358037",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1977726950786441423",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1977726950786441423",
+   "url": "https://x.com/ResistItAllTX/status/1977726950786441423",
+   "conversationId": "1977726950786441423",
+   "text": "SAN ANTONIO, Texas — As the Schumer shutdown moves through its second week, health care providers are not being compensated for services provided to military service members and their families. Some doctors and health care providers in San Antonio who rely on TRICARE to pay for services provided to military members and dependents say they are now starting to feel the pinch.\n\nThe Democrats’ stated priority of extending federal subsidies related to Obamacare coverage may now be endangering the health care services for United States military service members, retirees, and their dependents. Although the financial hardships facing medical providers who rely on TRICARE are of nationwide concern, the issue is perhaps more visible in San Antonio, often referred to as “Military City USA” due to the number of Department of War installations located within the city.\n\nSan Antonio is home to Joint Base San Antonio, the U.S. military’s largest joint base operation that includes Lackland Air Force Base, Randolph Air Force Base, Fort Sam Houston, and Camp Bullis. Soldiers and Airmen assigned to the bases and their families rely on TRICARE to reimburse civilian health care providers who are now feeling the financial impact of the shutdown. Military retirees also rely on TRICARE insurance for healthcare needs.\n\nIn a recent San Antonio News4SA report, one health care provider servicing families with children with developmental disorders was already struggling to stay open. Dr. Britt Sims, Executive Director of Integrated Behavior Solutions, told News4SA, “We can last a couple of weeks on what I have personally, but now, I’m done. I’m spent. If by some miracle, something happens, then I don’t know. We’ll keep fighting somehow.”\n\nAnother healthcare provider serving retirees, soldiers, and their families is under the same pressure as the shutdown continues. Dr. Gia Koehne, who owns a small practice called the Blossom Center for Children in San Antonio, told News4SA, “Because of all of this, everything is completely stalled and halted.”\n\n“We have a lot of families that need services, and we just don’t have the capacity to be able to do that, because we’re not getting paid,” Koehne explained. Blossom Center for Children provides services for children with autism.",
+   "lang": "en",
+   "createdAt": "2025-10-13T13:23:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "69768385",
+    "username": "ResistItAllTX",
+    "name": "Hollywood Resistance",
+    "url": "https://x.com/ResistItAllTX",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1638941005129961472/0GeQ7j8Y_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 221
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1977726897321660416",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G3JMInmX0AAZ0Tr.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G3JMInmX0AAZ0Tr.png",
+     "width": 698,
+     "height": 718,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1260653795605794816",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1260653795605794816",
+   "url": "https://x.com/buck0555/status/1260653795605794816",
+   "conversationId": "1260653795605794816",
+   "text": "I'm convinced that this \"queue\" I've been waiting in for the unemployment office to be called back does not really exist and no one is working claims. If your claim automatically goes through, you're good. If you have any kind of issue, you're not getting paid",
+   "lang": "en",
+   "createdAt": "2020-05-13T19:31:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "168640839",
+    "username": "buck0555",
+    "name": "Gymmer Fredette",
+    "url": "https://x.com/buck0555",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2100766687943401472/z_0yV6gP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1286469901260120071",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1286469901260120071",
+   "url": "https://x.com/WGRZ/status/1286469901260120071",
+   "conversationId": "1286469901260120071",
+   "text": "The Governor's office says as of this morning, there are 1,259 claims that are three weeks old, or older, that haven't been paid out yet. https://www.wgrz.com/article/news/health/coronavirus/governor-cuomo-addresses-unemployment-issues-nys-labor-covid-19-coronavirus/71-191d99d6-71be-4bad-a60a-794f1eb6b540",
+   "lang": "en",
+   "createdAt": "2020-07-24T01:15:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "15308015",
+    "username": "WGRZ",
+    "name": "WGRZ",
+    "url": "https://x.com/WGRZ",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1095051798614822914/obPxDgCM_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.wgrz.com/article/news/health/coronavirus/governor-cuomo-addresses-unemployment-issues-nys-labor-covid-19-coronavirus/71-191d99d6-71be-4bad-a60a-794f1eb6b540"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1380540725973123077",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1380540725973123077",
+   "url": "https://x.com/Kryocor3/status/1380540725973123077",
+   "conversationId": "1380540725973123077",
+   "text": "Just canceled my medicaid because my doctor won't do my surgery if he's not getting paid for it! So private insurance only from now on, really going to enjoy paying more for meds and office visits. It'd be nice to put this $3000 towards bills. This is America I guess.",
+   "lang": "en",
+   "createdAt": "2021-04-09T15:18:52.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "893241843420364804",
+    "username": "Kryocor3",
+    "name": "Kryocor3",
+    "url": "https://x.com/Kryocor3",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1401560171189506048/yrKBDlbn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1948473326927483146",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1948473326927483146",
+   "url": "https://x.com/paulsingh/status/1948473326927483146",
+   "conversationId": "1948473326927483146",
+   "text": "For a lot of clinics, in-house billing feels like control. But more often than not, it’s actually a risk management issue.\n\nHere’s what I mean:\n\n🟢 You’re one resignation away from delayed claims.\n\n🔵 You’re one audit away from discovering costly compliance issues.\n\n🟢 You’re one vacation away from a cash flow problem.\n\nThat’s not control — that’s vulnerability.\n\nWhat feels like control is often just a lack of visibility.\nWhen things go wrong, you won’t know where the problem is — only that you’re not getting paid.\n\nWe work with clinic owners every day who didn’t realize how exposed they were until things started slipping.\n\nOutsourcing doesn’t mean giving up control — it means creating accountability, gaining transparency, and de-risking your business.\n\nIf billing is still being run by one or two people in the back office, it might be time to ask:\nIs that control — or a liability waiting to happen?\n\n#riskmanagement #revenuecycle #physicaltherapy #billing #privatepractice #compliance #clinicowner #strataPT",
+   "lang": "en",
+   "createdAt": "2025-07-24T20:00:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "14240056",
+    "username": "paulsingh",
+    "name": "Paul Singh",
+    "url": "https://x.com/paulsingh",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1477723192806551561/llsA7dVO_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 286
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "riskmanagement",
+     "revenuecycle",
+     "physicaltherapy",
+     "billing",
+     "privatepractice",
+     "compliance",
+     "clinicowner",
+     "strataPT"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1960710205823422696",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1960710205823422696",
+   "url": "https://x.com/jessesingal/status/1960710205823422696",
+   "conversationId": "1960710205823422696",
+   "text": "I am going to save further commentary for BARPod (where I promise we will discuss other matters as well). But here is my understanding, based on texts with @TaylorLorenz and what she has said online, of the current situation with her and Bark. If Taylor has any quibbles with any of the *factual claims* here, she can say so and I'll correct/update accordingly. Please read the replies because if there are further updates/clarifications that don't rise to the level of corrections, I'll put them there.\n\nI just think it would be useful to have the actual established facts on the table, since there is a lot of speculation. This story has gotten under journalists' skin! Myself included. It is just a very interesting glimpse at what appear to be rapidly changing ethical standards revolving brands and partnerships and journalists. It took me a bit off guard and I am not the only one.\n\n1.  Taylor promoted Bark phones. She marked that promotional content *as* promotional -- fully kashrut. When Vox's Rachel Cohen Booth raised the COI issue (Taylor is simultaneously advocating, hard, against bans on phones in schools, as has been her stance for awhile), Taylor began calling Rachel a liar, tagging her employer, and asking Twitter for a lawyer (presumably to help her go after Booth). Taylor insisted that this was (what follows is my terminology and interpretation) effectively a pro bono ad -- she promoted the company because she liked it, using the common \"proud to partner with\" language of a sponsorship. \n\n2. The promotion included a link in her Instagram bio that redirected to an affiliate URL: a page where you could sign up for Bark. In a *different* context, this is how affiliate marketing/payouts work -- the person who disseminates the link gets a cut, because (as was the case here) the URL includes a string of tracking characters identifying who sent the purchaser to the purchasing page.\n\n3. But in this case, according to Taylor *and to Bark leadership*, Taylor was not getting paid. Rather, Taylor has described this to me as a \"courtesy\" to Bark and acknowledged that it will allow Bark to track how effective her pro bono advertising was.\n\n4. So, summing up, the idea is that Taylor is trying to help Bark out by providing them with marketing information about her effectiveness as someone who can promote Bark phones, but that she isn't doing this for any personal benefit. Rather -- again, Taylor's argument -- it is just common courtesy and common practice to do a pro bono ad for a brand that includes a link allowing them to track your performance. Taylor says she doesn't have access to this data. \n\nThat's it for now!",
+   "lang": "en",
+   "createdAt": "2025-08-27T14:25:15.000Z",
+   "type": "quote",
+   "author": {
+    "id": "214337395",
+    "username": "jessesingal",
+    "name": "Jesse Singal",
+    "url": "https://x.com/jessesingal",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1055673387174019074/DR9CawFY_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 37,
+    "retweets": 4,
+    "quotes": 9,
+    "likes": 328,
+    "bookmarks": 61,
+    "views": 83434
+   },
+   "replyTo": null,
+   "quotedTweetId": "1960450007435530717",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "208725869",
+      "username": "TaylorLorenz",
+      "name": "Taylor Lorenz"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1187083024565002240",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1187083024565002240",
+   "url": "https://x.com/MadisonRBateman/status/1187083024565002240",
+   "conversationId": "1187083024565002240",
+   "text": "Lexington Park resident claims he is not getting paid for construction work he's done on the new sheriff's office substation\n\nhttps://www.somdnews.com/enterprise/news/local/employees-not-getting-paid-for-construction-work-at-sheriff-s/article_dc8586eb-373f-53a0-9552-73f6af056173.html",
+   "lang": "en",
+   "createdAt": "2019-10-23T19:07:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1176507511672909825",
+    "username": "MadisonRBateman",
+    "name": "Madison Bateman",
+    "url": "https://x.com/MadisonRBateman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1580952971709452288/bkXGaweE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.somdnews.com/enterprise/news/local/employees-not-getting-paid-for-construction-work-at-sheriff-s/article_dc8586eb-373f-53a0-9552-73f6af056173.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2006264578330484740",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2006264578330484740",
+   "url": "https://x.com/moneyfetishist/status/2006264578330484740",
+   "conversationId": "2006264578330484740",
+   "text": "Remember when I posted the Emron structure a few days ago?\n\nRemember how half of you called it \"fraud\" and \"morally bankrupt\" while the other half couldn't articulate what specifically was illegal about disclosed entity separation, negotiated debt terms, and contractual dividend rights?\n\nRemember the guy who said I'd \"go to prison\" for explaining theoretical financial engineering concepts?\n\nRemember all the moralizing about \"screwing stakeholders\" from people who've never read a credit agreement or understood the difference between aggressive structuring and actual fraud?\n\nThat was genuinely entertaining.\n\nWatching people who don't understand the mechanics of leveraged finance convince themselves that anything that sounds aggressive must be illegal.\n\nWatching aspiring operators virtue signal about \"win-win deals\" while actual operators are extracting 5-8x returns through structures they can't even comprehend.\n\nThe cognitive dissonance is beautiful.\n\nSo I have a late Christmas gift for all of you who spent your weekend explaining to me how business \"should\" work:\n\nLet me show you something that's actually happening at massive scale right now.\n\nNot a theoretical example with a made-up company name.\n\nNot a thought experiment to illustrate entity separation concepts.\n\nSomething real that generates 4-6x returns in four years while you're reading Twitter threads about \"10 creative ways to structure seller financing.\"\n\nBy the end of this you'll understand why your moral intuitions about business are completely backwards.\n\nWhy the companies that sound the most virtuous are often running the most sophisticated extraction.\n\nWhy \"adding value\" is what operators tell themselves when they're too unsophisticated to engineer structures.\n\nAnd why I genuinely don't care what you think about the ethics because the market rewards extraction, not your feelings about fairness.\n\nLet's talk about healthcare services for Medicaid patients.\n\nTHE STRUCTURE NOBODY TALKS ABOUT BECAUSE IT SOUNDS PREDATORY (BUT GENERATES RETURNS THAT WOULD MAKE YOUR \"ETHICAL\" PORTFOLIO WEEP)\n\nThere's a reason your SMB acquisition groups never discuss healthcare services for Medicaid patients despite it being one of the most reliable cash flows in the American economy.\n\nIt sounds wrong.\n\n\"Targeting poor people\" for profit maximization doesn't fit the sanitized narrative of \"buying great businesses and adding value through operational excellence.\"\n\nContent creators building their personal brands as \"ethical operators\" avoid it entirely because they can't post about Medicaid extraction and maintain their LinkedIn thought leader status.\n\nSo they leave it alone.\n\nThey write threads about \"finding your acquisition criteria\" and \"the importance of industry expertise\" and \"how to build relationships with brokers.\"\n\nMeanwhile, sophisticated operators are quietly building eight-figure net worths by understanding something everyone else misses:\n\nMedicaid reimbursement is government-guaranteed money with zero credit risk, but systematic working capital constraints create arbitrage opportunities that unsophisticated operators can't solve.\n\nLet me be extremely clear about what we're discussing, because I'm not interested in dancing around it with euphemisms:\n\nThis is about exploiting the 60-90 day lag between service delivery and government payment to create working capital arbitrage that generates 20-30% returns on capital with literally zero credit risk.\n\nThis is about understanding that medical coding is a spectrum where the line between \"appropriate documentation\" and \"maximizing reimbursement\" is entirely controlled by how aggressively you train your staff.\n\nThis is about restructuring entity ownership to separate economics from liability so you capture 85-92% of profit while providers who do actual work and take regulatory risk keep 8-15%.\n\nNobody talks about this openly because saying it out loud sounds exploitative.\n\nBut I'm going to walk you through exactly how it works with realistic numbers, actual structures, and the kind of detail that will make you realize how vast the gap is between what content creators tell you and what actually generates returns.\n\nAnd if you're the kind of person who's going to moralize about \"taking advantage of vulnerable populations\" before you even understand the mechanics, save us both time and stop reading now.\n\nGo back to your Twitter feed where someone will validate your belief that business works the way you think it should.\n\nFor everyone else who's interested in reality, let's begin.\n\nPART I: THE ACQUISITION - WHY MEDICAID SERVICE BUSINESSES TRADE AT DISCOUNTS DESPITE GOVERNMENT-BACKED RECEIVABLES\n\nYour target is a small home health agency in a mid-sized market.\n\nCould also be behavioral health clinic, physical therapy center, occupational therapy practice, or dental practice in a low-income area - the structure works identically.\n\nCurrent financials:\n\nRevenue: $2.8M annually\n\nEBITDA: $450K (16% margins)\n\nPatient base: 85% Medicaid, 12% Medicare, 3% private pay\nStaff: 16 clinicians (RNs, LPNs, therapists), 4 administrative\nOwner: Solo operator, built this over 12 years, wants to retire\nThe owner is exhausted.\nNot from the clinical work - they stopped seeing patients years ago.\nThey're exhausted from constant cash flow stress despite having guaranteed receivables.\n\nHere's what their month looks like:\n\nWeek 1: Provide $230K of services to Medicaid patients, submit claims Week 2: Provide another $230K of services, submit claims\nWeek 3: Still haven't been paid for Week 1 services, worrying about making payroll Week 4: Finally receive payment for services from 9-11 weeks ago, scramble to cover payroll and expenses\n\nThey're sitting on $550K-650K in outstanding receivables at any given time.\n\nAll of it government-backed.\n\nZero credit risk.\n100% certainty it will be paid.\nBut they can't access it for 65-85 days, and that lag creates constant working capital pressure that prevents growth.\nThey've been stuck at roughly the same revenue for two years because every time they try to hire more clinicians and grow, the working capital gap strangles them.\n\nThey can't take meaningful distributions because every dollar stays in the business to cover the timing mismatch.\n\nThey're running a business with guaranteed government revenues and they're constantly stressed about cash.\n\nThis is the systematic market failure that creates opportunity.\n\nMost potential buyers see this business and pass:\n\n\"Healthcare is too regulated\" (translation: I don't understand it)\n\n\"Medicaid reimbursement rates are too low\" (translation: I don't know how to optimize coding)\n\n\"The margins aren't attractive enough\" (translation: I don't understand how to restructure)\n\nSo the business sits on the market for 7-9 months.\n\nThe owner is desperate to retire but can't find a sophisticated buyer.\n\nThey'll talk to anyone who seems to understand their business model.\n\nYou offer $2.25M (5x EBITDA).\n\nThey accept within a week because:\n\nIt's the only serious offer they've received\n\nThe multiple is fair for a healthcare services business\n\nThey're exhausted and just want out\n\nThey don't understand that their business is worth significantly more to an operator who knows how to restructure it\n\nYou finance with $1.7M SBA 7(a) loan (75% LTV) and $550K equity.\n\nYour all-in cash: $550K equity plus $75K closing costs = $625K total.\nThe SBA loan is 10-year amortization at prime + 2.75% (roughly 11% all-in as of Q4 2024), so debt service is approximately $280K annually.\nNow here's where it gets interesting.\nMost operators would take over this business and just run it the way the previous owner did.\nSame operations, same cash flow constraints, same stress.\n\nThey'd be content earning $450K EBITDA minus $280K debt service = $170K annual cash flow on $625K equity.\n\nThat's a 27% cash-on-cash return, which is solid compared to alternatives.\n\nBut it's leaving money on the table.\n\nBecause this business isn't actually a $450K EBITDA business being run optimally.\n\nIt's a $1.3M-1.5M EBITDA business that's being strangled by working capital constraints and operational limitations.\n\nLet me show you how to unlock it.\n\nPART II: THE RECEIVABLES FINANCING ARBITRAGE - GENERATING 22-28% RETURNS ON FREED CAPITAL\n\nThe previous owner waited 65-85 days for Medicaid payment.\n\nThis created constant working capital pressure that prevented growth.\n\nHere's what sophisticated operators do instead:\n\nYou factor the Medicaid receivables through a specialized healthcare receivables financing company.\n\nThese aren't predatory factoring companies charging 15-20%.\n\nThese are specialized lenders who understand that government-backed healthcare receivables are essentially risk-free paper.\n\nThere are roughly 12-15 of these firms operating nationally.\n\nThey don't advertise on Google.\n\nThey don't have slick websites.\n\nThey work exclusively through referrals from healthcare M&A advisors, healthcare-focused accountants, and other operators in the space.\n\nYou find them by calling healthcare M&A intermediaries (the ones who specialize in home health and post-acute care, not generalist business brokers) and asking: \"Who finances receivables in this space?\"\n\nHere's how the structure works:\n\nPatient receives $100 of home health service today.\n\nYour staff documents the visit, codes the service, submits the claim to Medicaid within 24-48 hours.\n\nWithin 5-8 business days, the receivables financing company advances you $95.\n\nThen 65-80 days later when Medicaid pays the full $100 directly to the financing company, they keep $5 as their fee and the transaction closes.\n\nYou just converted a 65-80 day payment cycle into a 5-8 day cycle while paying 5% for the acceleration.\n\nNow before you think \"5% sounds expensive,\" understand what this actually means:\n\nThe Working Capital Math:\n\nYour business processes $2.8M annually in Medicaid claims = $233K monthly.\n\nUnder the old structure (waiting for payment):\n\nMonth 1: Provide $233K services, wait\n\nMonth 2: Provide $233K services, wait\n\nMonth 3: Receive payment from Month 1\n\nYou're constantly 2.5-3 months behind on cash, which means you have $580K-700K tied up in receivables at any time.\n\nUnder the new structure (factoring):\n\nWeek 1: Provide $58K services (weekly average)\n\nWeek 1-2: Receive $55K cash (95% of $58K)\nRepeat weekly\nYou now have a 5-8 day cash cycle instead of 65-80 days.\nThe factoring costs you $140K annually (5% of $2.8M).\n\nBut here's what changes:\n\nYou just freed up $580K-700K in working capital that was previously trapped waiting for government payment.\nCapital you can now immediately redeploy.\nThe Growth Multiplier Effect:\nThe previous owner was seeing 75-85 patients per week, limited by cash flow constraints.\n\nThey couldn't hire more clinicians because they couldn't cover payroll gaps while waiting for receivables.\n\nYou implement receivables factoring on Day 15 (takes about two weeks to set up the facility and get the first advances flowing).\n\nSuddenly cash isn't the constraint anymore.\n\nMonth 1: Hire 2 additional RNs Month 2: Hire 2 additional LPNs\nMonth 3: Hire 1 more RN\n\nYou've added 5 clinicians over 90 days (31% staff increase).\n\nThese clinicians cost you approximately $68K-74K each fully loaded (salary + payroll taxes + benefits + malpractice insurance).\n\nBut they generate approximately $165K-180K in annual revenue each.\n\nNew clinicians added: 5 Additional annual payroll cost: $355K Additional revenue generated: $850K-900K\n\nYour revenue just grew from $2.8M to $3.65M-3.7M.\n\nYour EBITDA grew from $450K to approximately $720K-750K (the incremental revenue has similar margins to your base business since overhead is largely fixed - same office, same back-office staff, just more billable clinicians).\n\nAnd this growth happened in 90 days.\nNot through \"operational improvements\" or \"strategic initiatives.\"\nYou removed a working capital bottleneck and immediately scaled.\n\nThe Return Calculation on Factoring:\n\nAnnual factoring cost on original $2.8M revenue: $140K Annual factoring cost on new $3.7M revenue: $185K Incremental factoring cost: $45K\n\nIncremental EBITDA gained: $270K-300K\n\nYou spent $45K to gain $270K-300K in EBITDA.\nThat's a 6-6.7x return on the incremental cost.\nBut even that understates it.\n\nThe real magic is in the freed working capital:\n\nYou freed up $600K that was trapped in receivables.\n\nThat freed capital enabled $285K in incremental EBITDA annually.\n\nAnnual return on freed capital: 48% ($285K ÷ $600K).\n\nYou're paying 5% annually to factor receivables.\n\nYou're generating 48% annual returns by redeploying that freed capital.\n\nThe arbitrage is 43 percentage points.\nThis alone changes the entire trajectory of the business.\nBut we're just getting started.\n\nPART III: THE CODING OPTIMIZATION - INCREASING REIMBURSEMENT 20-28% THROUGH AGGRESSIVE DOCUMENTATION\n\nThis is where healthcare operators actually make money.\n\nAnd it's invisible to outsiders because it's buried in medical coding practices.\n\nLet me simplify:\n\nMedicaid reimburses based on CPT codes (Current Procedural Terminology) that providers submit with each claim.\n\nDifferent codes reimburse at different rates.\n\nThe same patient visit can be coded different ways depending on documentation.\n\nMost small operators massively undercode because:\n\nThey're terrified of audits\n\nThey don't train staff on documentation requirements\n\nThey don't understand that audit risk is minimal\n\nThey don't know what aggressive-but-defensible documentation looks like\n\nHere's the reality of audit risk that most operators don't understand:\n\nCMS and state Medicaid programs audit approximately 0.3-0.5% of providers annually through random selection.\n\nYou have a 99.5-99.7% chance of NOT being audited in any given year.\n\nEven if you are selected for audit, they're looking for systematic fraud patterns:\n\nBilling for services never rendered\n\nBilling for unlicensed staff\n\nCompletely fabricated claims\n\nIf you're providing legitimate services with proper documentation, coding at the aggressive end of the defensible spectrum is not fraud.\n\nIt's \"revenue cycle optimization\" (industry term).\n\nThe consequence if you're found to have overcoded modestly?\nYou repay the overclaimed amounts plus potential penalties (typically 1.5-2x the overclaimed amount if it's not deemed intentional fraud).\nThere's no criminal liability unless prosecutors can prove systematic intentional fraud.\nLet's do the expected value math:\nDownside risk:\n\n0.4% annual audit probability\n\nPotential overclaim repayment + penalty: $60K-90K in worst case\n\nExpected annual cost: $240-360 (0.4% × $60K-90K)\n\nUpside potential:\nRevenue increase from aggressive coding: $740K-1.04M annually (20-28% increase on $3.7M base)\nEBITDA increase: $680K-950K (most flows through since costs barely change)\nNet expected value:\n\nUpside: +$810K annually (midpoint of EBITDA increase range)\n\nDownside: -$300 annually (expected cost of audit risk)\n\nNet: +$810K annually\n\nAny rational operator takes this bet.\n\nBut most don't because they either:\n\nDon't understand the math\n\nAre too risk-averse\nDon't know how to implement properly\nThe Implementation:\nMonth 4: You hire a healthcare coding consultant.\n\nNot a generalist medical coder - a specialist who previously worked at large healthcare systems and understands exactly where the documentation/coding optimization opportunities are.\nThey charge $48K annually for a practice this size.\nTheir job: Train your clinical staff on documentation requirements to support higher-complexity coding.\n\nMonth 5-6: The consultant conducts documentation training and begins reviewing notes weekly.\nHere's what this looks like in practice:\nExample: Home health visit for post-surgical wound care\nPrevious documentation (what the old owner's staff did):\n\n\"Patient visited for wound care following knee surgery. Wound cleaned and redressed. Vitals stable. Patient doing well.\"\n\nCodes submitted:\n99347 (Home visit, level 3) = $92 reimbursement\nNew documentation after training:\n\"Home visit for 68-year-old patient status-post total knee replacement (post-op day 14).\n\nWound Assessment: 4cm surgical incision, edges well-approximated, minimal serous drainage, no erythema or warmth. No signs of infection present.\n\nWound Care: Incision cleansed with sterile normal saline. Antibiotic ointment applied. Sterile dressing placed.\n\nVital Signs: BP 132/84, HR 78, Temp 98.2F, RR 16. All within normal limits.\n\nPain Assessment: Patient reports pain 3/10 with current medication regimen (down from 6/10 last visit). Oxycodone 5mg Q6h PRN, last dose 4 hours ago. Pain well-controlled with current regimen.\n\nMedication Reconciliation: Reviewed all current medications - patient adherent to post-operative protocol including anticoagulation therapy (Eliquis 5mg BID). No adverse effects reported.\n\nPatient Education: Instructed patient on signs/symptoms of infection (redness, warmth, increased drainage, fever >100.4F), proper wound care technique for family member assistance, importance of continued anticoagulation compliance, fall prevention given anticoagulation therapy and post-op mobility limitations. Patient verbalized understanding.\n\nAssessment: Patient demonstrates appropriate healing trajectory. Continue current wound care regimen and medication protocol.\n\nPlan: RN to continue skilled visits 3x weekly for wound assessment, medication management, and patient education. Will monitor for signs of infection or delayed healing. Patient instructed to call agency with any concerns.\"\n\nCodes now supported:\n\n99347 (Home visit, level 3) = $92\n\nG0299 (Direct skilled nursing services, surgical dressing) = $31\n99490 (Chronic care management, 20 minutes) = $42\n\nTotal: $165 reimbursement\n\nSame patient, same 45-50 minute visit, same services provided.\n\nThe nurse was already doing wound care, taking vitals, reviewing medications, educating the patient.\n\nThey just weren't documenting in a way that supported billing for each distinct service.\n\nThe new documentation is:\n\nMore detailed (which is better for patient care and continuity)\n\nClinically accurate\n\nSupports billing for each service component\n\nIs this fraud? No - if audited, you can demonstrate:\n\nServices were actually provided\n\nTime spent supports the codes billed\nDocumentation supports medical necessity\nEach service addressed a distinct clinical need\nThat's an 80% increase in reimbursement per visit ($92 → $165).\nMonth 7-10: Full Implementation\n\nYou roll this out across your entire patient base over 4 months.\n\nThe consultant reviews documentation weekly, provides feedback, ensures coding accuracy.\n\nResults:\n\nPrevious average reimbursement per visit: $94 New average reimbursement per visit: $118 (25% increase)\nYour business does approximately 3,200 visits annually (current volume after growth from factoring).\nPrevious annual revenue: $3.7M\nNew annual revenue: $4.62M\nRevenue increased by $920K (25%) with identical patient volume and staffing.\n\nYour costs increased by:\nCoding consultant: $48K annually\nMinimal additional administrative time: ~$15K\nTotal incremental costs: $63K\nIncremental revenue: $920K Incremental EBITDA: $857K (most flows through since you're just coding better, not adding costs)\n\nYou spent $63K to gain $857K in EBITDA.\n\nThat's a 13.6x return on investment.\n\nLet's update our total picture:\n\nOriginal EBITDA: $450K After factoring growth: $735K After coding optimization: $1.59M\n\nYour EBITDA went from $450K to $1.59M.\n\nThat's a 3.5x increase through working capital management and documentation optimization.\nNo new patients required.\n\nNo revolutionary care model.\n\nJust removing constraints and optimizing reimbursement.\nPART IV: THE MSO STRUCTURE - SEPARATING ECONOMICS FROM LIABILITY\n\nThis is what separates good operators from great operators in healthcare.\n\nCorporate practice of medicine laws prevent non-licensed individuals from owning medical practices in most states.\nThe stated purpose: prevent business interests from interfering with clinical decisions.\nThe actual effect: creating entity structuring opportunities for sophisticated operators.\n\nThe constraint: You can't directly own the entity that employs clinicians and bills for services.\n\nThe solution: Management Services Organization (MSO) structure.\nYou create two legal entities:\n\nClinical Practice PC (owned by licensed providers):\n\nEmploys all clinical staff\n\nHolds medical licenses\n\nBills for patient services\nProvides all patient care\nHas all regulatory compliance obligations\n\nCarries all clinical liability\n\nOne or two of your lead clinicians own this entity (you help them set it up, they own it legally).\n\nManagement Services Organization LLC (owned by you):\n\nOwns all hard assets (medical equipment, IT systems, furniture, possibly real estate)\n\nProvides all administrative services (facilities, billing, collections, marketing, HR, IT, compliance support)\n\nEmploys all administrative staff\n\nHas no patient contact\n\nProvides no clinical services\n\nYou own this entity 100%.\n\nThe two entities are connected by a Management Services Agreement (MSA).\n\nThe MSA specifies:\n\nMSO provides all administrative services\n\nClinical Practice pays MSO a management fee\n\nManagement fee is typically 88-92% of collections after direct clinical labor costs\n\nThe Financial Structure:\nLet's walk through how money flows:\nMedicaid pays $118 to Clinical Practice for a patient visit.\nClinical Practice pays:\nClinician compensation: $40 (proportional cost for that visit)\nMSO management fee: $72 (92% of the $78 remaining after clinical comp)\nClinical Practice retains: $6\n\nThe Clinical Practice keeps $6 per visit to cover their minimal overhead (professional liability insurance, some administrative costs, licensing fees).\n\nThe MSO receives $72 per visit.\nOut of that $72, the MSO pays:\nFacilities/rent: $8\nMedical supplies/equipment: $3\nAdministrative staff: $15\nBilling/collections: $6\n\nMarketing: $3\n\nIT systems: $4\n\nCompliance/consulting: $3\nTotal MSO costs: $42\nMSO EBITDA: $30 per visit\nAt 4,100 visits annually (your current volume):\n\nClinical Practice EBITDA: $24,600 annually (split among the 2 provider-owners) MSO EBITDA: $1.23M annually (to you)\n\nTotal business EBITDA: $1.25M\n\nWait, that's less than the $1.59M we calculated before. Let me recalculate.\n\nThe issue is I'm mixing per-visit economics with business-level economics. Let me approach it differently:\nBusiness-Level Financial Structure:\nAnnual revenue: $4.62M\nUnder previous structure (you own everything):\n\nTotal costs: $3.03M (clinical salaries, facilities, admin, everything)\n\nEBITDA: $1.59M (to you)\n\nUnder MSO structure:\nClinical Practice:\nRevenue: $4.62M (from Medicaid)\nClinical salaries paid: $1.64M\nMSO management fee paid: $2.73M (92% of the $2.98M remaining after clinical salaries)\nRetained by Clinical Practice: $250K (covers their insurance, licensing, minimal overhead, and small profit for provider-owners)\nMSO (owned by you):\nRevenue: $2.73M (management fees from Clinical Practice)\nCosts: $1.42M (facilities, admin staff, supplies, marketing, IT, compliance - everything except clinical salaries)\n\nEBITDA: $1.31M\n\nTotal EBITDA of combined entities: $1.31M (MSO) + $250K (Clinical Practice) = $1.56M\n\n(Slightly less than the $1.59M in the previous structure due to some inefficiency in having two entities, but close enough)\nHere's what this structure accomplished:\n\nYou (MSO owner) capture: $1.31M (84% of total EBITDA) Providers (Clinical Practice owners) capture: $250K (16% of total EBITDA)\n\nThe providers think they \"own the practice\" because their names are on the Clinical Practice entity.\n\nThey're making good money ($125K each if split between two providers, on top of their clinical salaries).\n\nBut you own:\n\nAll the hard assets\n\nAll the systems and infrastructure\nThe entity that extracts 84% of the profit\nMore importantly:\n\nAll clinical and regulatory liability stays with the Clinical Practice:\n\nMalpractice claims → Clinical Practice and individual providers\nRegulatory investigations → Clinical Practice\nLicensing issues → Clinical Practice\nMedicare/Medicaid compliance audits → primarily Clinical Practice\nYour MSO just provides administrative services:\n\nNo clinical decision-making\nNo patient care\nJust business operations\nIf something goes catastrophically wrong, your MSO can terminate the Management Services Agreement and walk away with your assets and infrastructure intact.\n\nYou've separated economics (which you control) from liability (which providers bear).",
+   "lang": "en",
+   "createdAt": "2025-12-31T07:22:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1979965066339610624",
+    "username": "moneyfetishist",
+    "name": "moneyfetishist",
+    "url": "https://x.com/moneyfetishist",
+    "avatarUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 19,
+    "views": 1722
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1989407477989831149",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1989407477989831149",
+   "url": "https://x.com/makaalajordan/status/1989407477989831149",
+   "conversationId": "1989360840953450759",
+   "text": "Yes he did. My GUN explained how/why. ACA had such a burdensome administrative paperwork requirement that no sole practitioner could maintain its practice without additional personnel to do just the admin part. Most of her colleagues who were nearing retirement chose to punch out early. My sole practioner dermatologist closed his practice and became a contractor locums at a nursing home. He and his nurse wife moved to US from Canada and said they came to US to escape the burden of government run healthcare. And ACA was looking just as bad. Despite exponentially rising healthcare insurance the doctors were not getting paid ant more, the boost in profits went into the health insurance companies. Obamacare was designed to fail and force government to take over and run it.",
+   "lang": "en",
+   "createdAt": "2025-11-14T18:57:58.000Z",
+   "type": "reply",
+   "author": {
+    "id": "4693823750",
+    "username": "makaalajordan",
+    "name": "Makaʻala",
+    "url": "https://x.com/makaalajordan",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1701644144014417922/b3pfCLSi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 468
+   },
+   "replyTo": {
+    "tweetId": "1989360840953450759",
+    "userId": "1017838775089750016",
+    "username": "BrentAWilliams2"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:946173638339977226",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "946173638339977226",
+   "url": "https://x.com/ScottTaylorTV/status/946173638339977226",
+   "conversationId": "946173638339977226",
+   "text": "#7OYS I-Team Alert: My exclusive investigation about claims Postal Workers are not getting paid OT at a Manassas Post Office. http://wjla.com/features/7-on-your-side/7-on-your-side-are-workers-not-getting-paid-overtime-at-a-manassas-post-office",
+   "lang": "en",
+   "createdAt": "2017-12-28T00:19:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "52141198",
+    "username": "ScottTaylorTV",
+    "name": "Scott Taylor",
+    "url": "https://x.com/ScottTaylorTV",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1958942917625585664/xmC9y8Js_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "7OYS"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://wjla.com/features/7-on-your-side/7-on-your-side-are-workers-not-getting-paid-overtime-at-a-manassas-post-office"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1043537213441490944",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1043537213441490944",
+   "url": "https://x.com/GlutenGoblin3/status/1043537213441490944",
+   "conversationId": "1043537213441490944",
+   "text": "I always think that I'm not getting paid enough for the work I do. But I literally come in, sit at my desk, code office visits and fix the claims.... it's super easy. It's just boring. I'm not fulfilled.",
+   "lang": "en",
+   "createdAt": "2018-09-22T16:27:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "180424781",
+    "username": "GlutenGoblin3",
+    "name": "6'3",
+    "url": "https://x.com/GlutenGoblin3",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1856159631330144256/xLH2y-6d_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1963733417721258017",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1963733417721258017",
+   "url": "https://x.com/saikenMD/status/1963733417721258017",
+   "conversationId": "1963733417721258017",
+   "text": "House MD is a great show about the adventures of a monster truck-loving Sherlock expy and his homoerotic relationship with his oncologist bestie, BUT IT’S ALSO A DOODOO REPRESENTATION OF HOSPITAL MEDICINE, SO HERE’S HOW MY JOB IS DIFFERENT FROM A TV SHOW🗒️\n\nI’m a hospitalist: the primary doctor assigned to a hospitalized patient. I’m the shotcaller of the medical team responsible for diagnosing & treating their acute care conditions, coordinating procedures or surgeries with the specialists I bring onboard, and piloting the patient’s hospital stay from admission to discharge. A lot of people are unfamiliar with how hospital (inpatient) medicine is different from clinic (outpatient) medicine, so I usually explain it like “I’m kind of like House.” With a few differences:\n\n1) WHERE ARE YOUR PATIENTS MAN\nIt’s probably narratively much easier to follow, but House only gets to be responsible for ONE patient each episode (which usually lasts a few days). In real life, your average hospitalist is carrying somewhere from 16-22 patients at a time, with new admissions coming in and discharges going out on the daily. It’s even a major plot point in Season One where Vogler is looking at things and he’s literally like wtf this whole thing is bleeding money. He also grills Cuddy for letting House have a made-up Department of Diagnostic Medicine just because he’s so smart and fancy like I get it man I think having an entire department dedicated to treating one patient a week is crazy too\n\n2) NAME A SINGLE NON-DOCTOR ON THIS SHOW\nOk but like where the hell are the social workers throughout the entire hospital??? Probably the most important people I have to answer to as a doctor are the case managers who are assigned to each patient in the hospital. They’re the ones who navigate the patient’s insurance and setup the delivery of their oxygen tanks, wheelchairs, or home infusions. I literally cannot discharge patients from the hospital until the social worker actually gives me the green light, or else I get shit on and guilt tripped for almost causing a lawsuit for an unsafe discharge. Hospital medicine has SO many moving parts, and just cause doctors are off doing their own thing and saving lives and blah blah blah you literally don’t get anywhere unless your case manager is in the loop and literally taking care of the whole hospitalization outside the medicine.\n\n3) WHO GAVE YOU PERMS\nHouse’s team is under “diagnostic medicine,” but apparently they’re also credentialed to do all of their own surgeries, biopsies, imaging, breaking into patients’ houses, etc. In real practice, all of these jobs are specialized and done by different services. A surgery is done by a consulting surgeon, a CT is done by an imaging technician, a transthoracic echocardiogram is done by an ultrasound technician, a transesophageal one is done by a cardiologist. In general, every specialization has their role, and medicine’s is to figure out the patient’s “Why.” Modern hospital practices have practically eliminated the hospitalist’s responsibility to do procedures, as well. For example, at the hospital I did residency in, we had entire teams of nurse practitioners and physician assistants whose entire jobs were to place central lines, do thoracenteses, or get LP’s: back in the day, this was internal medicine bread and butter. There’s a pretty good Conan Liu video about this (resident education has suffered a LOT because of recent ABIM changes), but basically, everything has just become streamlined towards the diagnostics. As a hospitalist, my job is a lot more like a detective than the crime scene crew. I’m here to interpret results in the context of the diagnostic picture, rather than physically obtaining them; or figuring out what should be the correct treatment, rather than actually administering it. There are so many times in the show when the doctors are shown drawing their own labs or pushing their own meds instead of the nurses and I’m like “haha wtf I don’t even know how to start a drip on an Alaris pump.” (I’ve literally never started a bag on a pump before)\n\n4) WHY DOES EVERYONE DO EVERYTHING\nIn the lore, House is dual-boarded in infectious disease and nephrology (both fellowships that come after completion of an internal medicine residency), but also did a pathology residency for some reason? But basically practices as a clinical internist, plus handles inpatient and outpatient duties every episode?? Obviously Wilson is an oncologist, the show does mention that Cuddy is an endocrinologist, Foreman is a neurologist, etc. But like without looking at the House wiki, can you even name what residencies/fellowship other characters like Chase, Cameron, or even Amber are? Chase has apparently done internal medicine residency, cardiology fellowship, AND a critical care fellowship, AND also did a year of neurosurgery in Australia?? Cameron is an immunologist???? Amber is interventional radiology????? I don’t think their specialties ever come up outside of a few suggested differentials (in the initial stages of an episode, and so usually wrong) and maybe a procedure or two. In real life, all of these specialties would be on separate teams, and individually consulted/brought on as the hospitalist deems it necessary. Or, if they were easy cases with a simple surgical fix, they would be admitted by those individual services and maybe a hospitalist would be consulted to manage their medical issues.\n\n5) WHY ARE YOU EVEN TRAINEES ANYWAY\nSo like Princeton-Plainsboro Teaching Hospital is a TEACHING HOSPITAL right??? You’d think they would have residents and shit right? Like as far as the medical hierarchy goes, you have the medical student who is doing a rotation in the specialty (season 7 Dr. Masters); the resident, who has matched into the specialty and is learning how to practice independently (season 8 Dr. Park); the fellow, who has graduated residency and is certified for general practice of that specialty, but is continuing training in order to subspecialize in that field; and the attending (me) who leads the team and has the final say. Except in House, you realize that House is the attending, and all the people who work “underneath him” (IN COMPLETELY UNRELATED FIELDS) are his fellows??? Like they’re willingly sitting in there as trainees (working shit hours and not getting paid great money) just because House is some amazing doctor to train under??? It’s a big plot point in season 4 when Taub joins the team cause like bro if you were in private practice plastic surgery (literally making like $800k+) why the fuk would you go back to a teaching hospital to be a “diagnostic medicine” fellow. Even if your attending was some omniscient biblically-accurate angel who could teach you everything about life and the universe itself like what the helly half of these characters are literally fellowship-trained already\n\nTo the writers’ credit, depicting everything like the above would probably make for some really boring TV. As far as medical accuracy goes, House isn’t really terrible, but a lot of the eureka moments made right before the final diagnosis are sometimes super obvious buzzword-level associations that any preclinical medical student can figure out (e.g. the sporothrix episode lmao). If you want a better representation of inpatient medicine, Scrubs is still the most accurate show in my opinion. The Pitt is also a good one too, but also it’s about an emergency department, and I don’t touch downstairs medicine at all because those doctors are FREAKS\n\nanyway thanks for reading, houseken art by @.Joltorito my goat (it’s so good my gf has banned me from using this sticker in our DMs)",
+   "lang": "en",
+   "createdAt": "2025-09-04T22:38:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "207795658",
+    "username": "saikenMD",
+    "name": "saiken, M.D. 💜🩺 doctor vtuber",
+    "url": "https://x.com/saikenMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2056133555386753024/Sx3QNywG_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 55,
+    "retweets": 19,
+    "quotes": 2,
+    "likes": 550,
+    "bookmarks": 51,
+    "views": 17606
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1963732330884825088",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G0CUJpBXAAAY-e4.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G0CUJpBXAAAY-e4.jpg",
+     "width": 1595,
+     "height": 1595,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100229792859574419",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2100229792859574419",
+   "url": "https://x.com/BIOTECHSCANNER/status/2100229792859574419",
+   "conversationId": "2100229792859574419",
+   "text": "$IOVA - Most of you know by now that I have been in pharma for more than 19 years. I am trying to convey the best way I can to let you know that $IOVA is a monster in the making. There is a wish list that every pharmaceutical companies would want to happen after the drug is approved and launched into the market. Based on what I am seeing right now, Iovance is experiencing a perfect storm for Amtagvi sales. It took a lot of soul searching and hard decision making but it is now paying off. The best part? It’s just getting started 🚀. \n\nWhat makes a perfect storm for Amtagvi sales acceleration?\n\n1. The National Comprehensive Cancer Network (NCCN) recommendation for Amtagvi as a true second line for metastatic melanoma. It means as soon as a patient progressed from frontline treatment, they should receive Amtagvi. I can’t tell how important this is. NCCN is very well respected and is best known for creating clinical practice standards that set the gold standard for cancer prevention, diagnosis, treatment, and supportive care worldwide. Why is this important? In the second line patient population, the situation becomes very dire quickly. There’s not much else except the mixed and matched with other Immune Checkpoint Inhibitors and chemotherapy that the patients already not responding to. Oncologists don’t want to not follow well regarded guidelines from NCCN. It is better for physicians to follow the guidelines than not in case something bad happens. Since these patients are pretty much dying, the chances are high that something bad will happen. Consequently, Amtagvi is now top of mind as standard of care for second line (2L) patients. Sales increases. \n\n2. 5 year real world data showing Amtagvi is more effective in patients receiving 2 or fewer lines of treatment. This paired perfectly with #1! Oncologists are now even more motivated to follow NCCN guidelines. Sales increases. \n\n3. Partnership with InspiroGene by McKesson. I pointed this out as a massive event. InspiroGene serves as a specialty pharmacy for Iovance. Hospitals now don’t need to buy Amtagvi from Iovance directly and pay before getting reimbursed by insurance risking not getting paid if something happens. All that risks disappeared with the new reimbursement pathway. Now hospitals will know if they will be reimbursed even before treating the patient. This was a huge bottleneck. Sales increases. \n\n4. Community cancer centers becoming Authorized Treatment Centers (ATCs). This shift has a seismic impact on revenue because it also connects with #1 and #2. Here’s how. NCCN recommends Amtagvi as a true second line for patients who no longer responding to frontline treatments. Where are these patients?  They are at community cancer centers across the country! So by helping these community cancer centers become ATCs, Iovance will get most of the patients who would have gone on other ineffective treatments only to get beat up more by side effects. Catching patients at community centers sooner will yield better tumor samples, TIL are less exhausted. This will improve margins due to less out of specs samples (OOS). Community centers also don’t have to refer to academic hospitals as much anymore. This is very complicated because most of the time they are on different health systems. This creates friction due to conflicting interests especially when money is involved. When Iovance announced this move I was very pleased. The momentum is now building because newer ATCs added will be mostly community based. More sales. \n\n5.Payer coverage is incredible for an expensive and complicated treatment like Amtagvi. As I have mentioned previously, Amtagvi has better payer coverage than some of the most common drugs! How? Efficacy, demand, and NCCN guidelines recommendation. This is the Holy Grail for launching a drug. \n\nI am expecting growth in Amtagvi sales to continue and with acceleration for the next 4 quarters at least. This will be bad news for shorts. \n\nWe don’t have enough shares!",
+   "lang": "en",
+   "createdAt": "2026-09-16T14:26:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1408278003109466115",
+    "username": "BIOTECHSCANNER",
+    "name": "BIOTECH SCANNER",
+    "url": "https://x.com/BIOTECHSCANNER",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1745942243125370881/awDjzDW1_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 74,
+    "bookmarks": 6,
+    "views": 4116
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "IOVA",
+     "IOVA"
+    ]
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

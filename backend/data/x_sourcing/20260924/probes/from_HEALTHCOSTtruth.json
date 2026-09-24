@@ -1,0 +1,1608 @@
+{
+ "key": "from_HEALTHCOSTtruth",
+ "query": "from:HEALTHCOSTtruth lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100373062327644611",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100373062327644611",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2100373062327644611",
+   "conversationId": "2100261319232373165",
+   "text": "@LighthouseDPC Congress doesn’t care. Period. They even left DC early and went home today. They are pathetic excuses for “representatives”.",
+   "lang": "en",
+   "createdAt": "2026-09-16T23:55:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 109
+   },
+   "replyTo": {
+    "tweetId": "2100261319232373165",
+    "userId": "1525987430851035136",
+    "username": "LighthouseDPC"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1525987430851035136",
+      "username": "LighthouseDPC",
+      "name": "Humane Healthcare for All"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100066873526108420",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100066873526108420",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2100066873526108420",
+   "conversationId": "2099832441456193634",
+   "text": "Beautifully written. I’ve been in the fight for 30 years.  I’ve seen this rotten industry from the hospital side, the physician group side, the insurance side and the TPA side before starting my own TPA 22 years ago.  That’s when the fight against the system started.  In 2016, my world changed.  The last 10 years have changed from a fight for a reason to a fight for a purpose and I’ll bust hell wide open before I sit idly by and watch this system destroy companies and lives.",
+   "lang": "en",
+   "createdAt": "2026-09-16T03:38:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 85
+   },
+   "replyTo": {
+    "tweetId": "2099832441456193634",
+    "userId": "1312884507972837377",
+    "username": "HeathVeuleman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099871404061610330",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099871404061610330",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099871404061610330",
+   "conversationId": "2099854402433491177",
+   "text": "@Laffincrow They could see them but they have referral quotas to meet",
+   "lang": "en",
+   "createdAt": "2026-09-15T14:42:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 29
+   },
+   "replyTo": {
+    "tweetId": "2099869651584815258",
+    "userId": "22772880",
+    "username": "Laffincrow"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "22772880",
+      "username": "Laffincrow",
+      "name": "Laffincrow"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099868797242843416",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099868797242843416",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099868797242843416",
+   "conversationId": "2099854402433491177",
+   "text": "@Laffincrow We’ve got hospital owned physicians referring to the ER!!!",
+   "lang": "en",
+   "createdAt": "2026-09-15T14:31:49.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 61
+   },
+   "replyTo": {
+    "tweetId": "2099854402433491177",
+    "userId": "22772880",
+    "username": "Laffincrow"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "22772880",
+      "username": "Laffincrow",
+      "name": "Laffincrow"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099523928670527749",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099523928670527749",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099523928670527749",
+   "conversationId": "2099482413814472923",
+   "text": "@DutchRojas Same song and dance.  The music ends and nothing happens.",
+   "lang": "en",
+   "createdAt": "2026-09-14T15:41:26.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 50
+   },
+   "replyTo": {
+    "tweetId": "2099482413814472923",
+    "userId": "475043222",
+    "username": "DutchRojas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "475043222",
+      "username": "DutchRojas",
+      "name": "Dutch Rojas"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099523633668370816",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099523633668370816",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099523633668370816",
+   "conversationId": "2099523633668370816",
+   "text": "How many people do they actually think is going to believe this blatant lie?",
+   "lang": "en",
+   "createdAt": "2026-09-14T15:40:16.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 1,
+    "views": 688
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099161893352903109",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099329278047359450",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099329278047359450",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099329278047359450",
+   "conversationId": "2099295089252012513",
+   "text": "@TruthRX You'll love this one.  On the Rx side, they claimed the PBM price was $21K for a GENERIC but they \"sourced it for $7K, then charged the client 30% of savings on the $14K \"savings\" for three fills.",
+   "lang": "en",
+   "createdAt": "2026-09-14T02:47:58.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 73
+   },
+   "replyTo": {
+    "tweetId": "2099327301867487465",
+    "userId": "551280202",
+    "username": "TruthRX"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "551280202",
+      "username": "TruthRX",
+      "name": "PUTT"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099295089252012513",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099295089252012513",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099295089252012513",
+   "conversationId": "2099295089252012513",
+   "text": "I’ve spent the last 3 days buried in the claims and contracts of a very small employer health plan.\n\nAfter almost 30 years in this industry, I thought I had seen just about everything.\n\nI was wrong.\n\nI’ve audited only a handful of claims and part of the pharmacy spend so far, and what I’ve found represents roughly a third of this group’s total claims spend.\n\nHospital claims that appear to have been materially overpaid.\n\nPharmacy costs and fees that deserve some very hard questions.\n\nTens of thousands of dollars flowing to vendors while the employer is paying a broker roughly $50,000 a year to supposedly help manage the plan.\n\nAnd the employer?\n\nThey’re just a small business trying to take care of their employees and stay in business.\n\nThey had no reason to know how to detect any of this. They hired “experts” because they run a business — not a health plan.\n\nYet somehow the employer is the fiduciary.\n\nThe people getting paid way more than they should to advise them largely are not.\n\nThat should bother every employer in America.",
+   "lang": "en",
+   "createdAt": "2026-09-14T00:32:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 11,
+    "quotes": 0,
+    "likes": 55,
+    "bookmarks": 4,
+    "views": 3150
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099294239364358377",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099294239364358377",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099294239364358377",
+   "conversationId": "2099294239364358377",
+   "text": "Here’s your reward for building a successful business:\n\nHealthcare fiduciary liability.\n\nYou’re expected to police claims, contracts, fees and vendors in an industry you were never trained to understand.\n\nMeanwhile, many of the “experts” you hire expressly disclaim fiduciary responsibility.\n\nYou get the liability.\n\nThey get the enormous fees.\n\nMake it make sense.  You can't.",
+   "lang": "en",
+   "createdAt": "2026-09-14T00:28:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 3,
+    "views": 395
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099212444304355600",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099212444304355600",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2099212444304355600",
+   "conversationId": "2099201537960456662",
+   "text": "@realdocspeaks It is indeed.  My fear is that they either won't read it or won't even understand it.  @HeathVeuleman  did a phenomenal job with this.  I hope it gets the attention it deserves.",
+   "lang": "en",
+   "createdAt": "2026-09-13T19:03:42.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2099201537960456662",
+    "userId": "1721551308329467904",
+    "username": "realdocspeaks"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1721551308329467904",
+      "username": "realdocspeaks",
+      "name": "Real Doc Speaks"
+     },
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098592438780670263",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098592438780670263",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098592438780670263",
+   "conversationId": "2098419597598757332",
+   "text": "@RepJamesFrank It just amazes me that so many appear blind, deaf and dumb when it comes to this crap.",
+   "lang": "en",
+   "createdAt": "2026-09-12T02:00:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": {
+    "tweetId": "2098419597598757332",
+    "userId": "1112289313",
+    "username": "RepJamesFrank"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1112289313",
+      "username": "RepJamesFrank",
+      "name": "James Frank"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098538952588247475",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098538952588247475",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098538952588247475",
+   "conversationId": "2098441196469199060",
+   "text": "MEWAs have way too many government regulations and oversight.  Great concept but a living hell to get approved.  I love all alternatives to traditional healthcare but our federal government won’t allow ICHRA money to pay for anything but exchange plans and, if you can find one, an individual plan. Big insurance, pharma and hospitals control Congress. Until that stops, we will continue to figure it out ourselves.",
+   "lang": "en",
+   "createdAt": "2026-09-11T22:27:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 96
+   },
+   "replyTo": {
+    "tweetId": "2098441196469199060",
+    "userId": "3060663253",
+    "username": "TomOliverson"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098442774320140421",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098442774320140421",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098442774320140421",
+   "conversationId": "2098395916717662636",
+   "text": "@mcuban Hold on. You’re Mark Cuban, fighting healthcare costs and you’re still using a broker? 🤣",
+   "lang": "en",
+   "createdAt": "2026-09-11T16:05:19.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 1153
+   },
+   "replyTo": {
+    "tweetId": "2098395916717662636",
+    "userId": "16228398",
+    "username": "mcuban"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098441801803645385",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098441801803645385",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098441801803645385",
+   "conversationId": "2098395916717662636",
+   "text": "@mcuban Or, if you're an employer, you can stop waiting on the government to save you, get rid of the broker,  start paying attention and do things the right way. https://x.com/HEALTHCOSTtruth/status/2098441801803645385/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-11T16:01:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 211
+   },
+   "replyTo": {
+    "tweetId": "2098395916717662636",
+    "userId": "16228398",
+    "username": "mcuban"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2098441227775725568",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR8pLbubUAAOM_b.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HR8pLbubUAAOM_b.png",
+     "width": 1170,
+     "height": 726,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098440695631495356",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098440695631495356",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098440695631495356",
+   "conversationId": "2098440695631495356",
+   "text": "PRICE GOUGING\n\nDuring COVID, the government called out price gouging on toilet paper, hand sanitizer and other essentials.\n\nGas shortage? Price gouging.\n\nNatural disaster? Price gouging.\n\nBut hospitals can charge outrageous prices every single day of every year and somehow we don’t use the same language.\n\nGovernment calls out price gouging everywhere else.\n\nHealthcare?  Crickets.",
+   "lang": "en",
+   "createdAt": "2026-09-11T15:57:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 32,
+    "bookmarks": 1,
+    "views": 1081
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098436766793384398",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098436766793384398",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098436766793384398",
+   "conversationId": "2098436766793384398",
+   "text": "Proposed healthcare increase this year: 8.7%.\nHappy about that?\nPlanning to do anything different?\nI posted this before, but I redid it using a static employee count so nobody can blame enrollment changes.\nHere’s the receipt:\n\nA well-managed plan had total costs in 2025 nearly 20% LOWER than in 2017.\n\nThe traditional model?\nThe one brokers keep telling employers is “just the way it is”?\n\nThat model cost nearly 43% MORE in 2025 than in 2017.\n\nAnd while employers were paying more, employees got less:\nTraditional model deductible: up more than 25%\n\nOur client deductible: stayed at $500\n\nAnd our client never hit maximum plan spend, so the actual savings are even better than shown here.\n\nPrint it.\nPut it in front of your broker.\nAsk:\nWHY are costs up 43% with higher deductibles?\n\nSide Note:  If you still believe PPO \"discounts\" are really discounts, I'll sell you anything I own for a 75% discount from whatever charge I pull out of thin air.   That's how hospitals and networks do it.\n\n#HealthPlanCosts #EmployerHealthcare #SelfFunded #HealthcareTransparency #ERISA #FiduciaryDuty #HealthBenefits",
+   "lang": "en",
+   "createdAt": "2026-09-11T15:41:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 3,
+    "views": 338
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2098433517277605888",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HR8iKn4a8AAabpu.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HR8iKn4a8AAabpu.png",
+     "width": 1170,
+     "height": 726,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "HealthPlanCosts",
+     "EmployerHealthcare",
+     "SelfFunded",
+     "HealthcareTransparency",
+     "ERISA",
+     "FiduciaryDuty",
+     "HealthBenefits"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098233475086037464",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098233475086037464",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098233475086037464",
+   "conversationId": "2097795281727414780",
+   "text": "@molsjames @WallStreetApes Less than $500 17 miles away in Fremont.  I’d fight that one tooth and nail.",
+   "lang": "en",
+   "createdAt": "2026-09-11T02:13:38.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2098233178251018351",
+    "userId": "4650835518",
+    "username": "molsjames"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "4650835518",
+      "username": "molsjames",
+      "name": "Dr Mollie James"
+     },
+     {
+      "id": "1099579684981944320",
+      "username": "WallStreetApes",
+      "name": "Wall Street Apes"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098127504200311119",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098127504200311119",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098127504200311119",
+   "conversationId": "2098127504200311119",
+   "text": "If our government wasn’t paid off, maybe, just maybe, hospitals would suffer the consequences of not following the law.  Doubtful but maybe.",
+   "lang": "en",
+   "createdAt": "2026-09-10T19:12:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 22,
+    "bookmarks": 2,
+    "views": 861
+   },
+   "replyTo": null,
+   "quotedTweetId": "2098022664715505769",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098118509716775242",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098118509716775242",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098118509716775242",
+   "conversationId": "2097795281727414780",
+   "text": "@WallStreetApes Simon Imaging (all over the place in Palo Alto) charges $586.  16 miles away in Freemont, it's $446.  \n\nNEVER USE A HOSPITAL for anything other than major surgery or a true emergency.",
+   "lang": "en",
+   "createdAt": "2026-09-10T18:36:48.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 3,
+    "views": 197
+   },
+   "replyTo": {
+    "tweetId": "2097795281727414780",
+    "userId": "1099579684981944320",
+    "username": "WallStreetApes"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1099579684981944320",
+      "username": "WallStreetApes",
+      "name": "Wall Street Apes"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098116545683599824",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098116545683599824",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098116545683599824",
+   "conversationId": "2098084297475281073",
+   "text": "@RepJamesFrank EVERY ONE of them should be audited and their non-profit status taken away.",
+   "lang": "en",
+   "createdAt": "2026-09-10T18:29:00.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 95
+   },
+   "replyTo": {
+    "tweetId": "2098084297475281073",
+    "userId": "1112289313",
+    "username": "RepJamesFrank"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1112289313",
+      "username": "RepJamesFrank",
+      "name": "James Frank"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098039572298911941",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2098039572298911941",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2098039572298911941",
+   "conversationId": "2098037344058159493",
+   "text": "@TomOliverson All part of my daily life. 🙂",
+   "lang": "en",
+   "createdAt": "2026-09-10T13:23:08.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 37
+   },
+   "replyTo": {
+    "tweetId": "2098037344058159493",
+    "userId": "3060663253",
+    "username": "TomOliverson"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3060663253",
+      "username": "TomOliverson",
+      "name": "Tom Oliverson, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097739325727285698",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097739325727285698",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097739325727285698",
+   "conversationId": "2097739325727285698",
+   "text": "What happens when you get rid of brokers, PPO networks, percentage-of-savings fees and all the other nonsense — and actually PAY ATTENTION to the health plan?\n\nTHIS HAPPENS.\n\nNine years of real data.\n\nUsing KFF national averages for each year as the benchmark, this employer’s actual health plan costs came in $3.89 MILLION below the national-average benchmark over nine years.  That's for a group of less than 80 employees.  Do the math.\n\nNot projected savings.\nNot modeled savings.\nNot “discounts” off inflated hospital charges.\nActual costs.\nI have the receipts:\n\n• Actual stop-loss contracts\n• Actual claims reports\n• Actual administration fees\n• Actual enrollment\n• Actual plan expenses\n\nYour renewal is coming.\n\nAsk your broker to show you what your plan has actually cost over the last nine years — and then ask them to benchmark it.  Ask them for stop loss premiums, admin fees and claims data. \n\nAnd while you’re at it, ask them whether self-funding works for employers with fewer than 100 employees.\nMost will tell you it doesn’t.\n\nEvery group I manage has fewer than 100 employees.\nThe slide below is what one of them looks like.\n\nNo smoke. No mirrors. No made-up “savings.”\n\nJust receipts.\n\nIYKYK and you desperately need to know.",
+   "lang": "en",
+   "createdAt": "2026-09-09T17:30:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 4,
+    "quotes": 2,
+    "likes": 22,
+    "bookmarks": 8,
+    "views": 1515
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2097737253980459009",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRyo6w-b0AEgDPJ.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRyo6w-b0AEgDPJ.png",
+     "width": 1213,
+     "height": 756,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097584570308673789",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097584570308673789",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097584570308673789",
+   "conversationId": "2097492039235441117",
+   "text": "@PaleoOnc Exactly!!",
+   "lang": "en",
+   "createdAt": "2026-09-09T07:15:07.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 133
+   },
+   "replyTo": {
+    "tweetId": "2097512382058618910",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1581144323978133504",
+      "username": "PaleoOnc",
+      "name": "Paleoncologist"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097493890605486330",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097493890605486330",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097493890605486330",
+   "conversationId": "2097492039235441117",
+   "text": "@Cristotokos LOL - Me either but there's a fool born every minute.",
+   "lang": "en",
+   "createdAt": "2026-09-09T01:14:47.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 175
+   },
+   "replyTo": {
+    "tweetId": "2097493544512397323",
+    "userId": "3707978309",
+    "username": "Cristotokos"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3707978309",
+      "username": "Cristotokos",
+      "name": "TimothyOne"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097492039235441117",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097492039235441117",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097492039235441117",
+   "conversationId": "2097492039235441117",
+   "text": "Interesting conversation today.  A small city government called and asked if I'd quote them again.  \n\nMe:  Only if you guarantee that you'll try to understand how health insurance works and that self-funding carries no more risk than being fully insured.  We went down this road 3 years ago and you didn't want it bad enough.  I can't want it for you.\n\nHer:  But my broker said \"we can't wrap a self-funded plan around DPC\".\n\nMe:  Those words \"My broker said\".. is what ended our last meeting but I'll make you a deal.  Call \"your broker\" and tell him that if he will come to your office and present his quote at the same time I present mine, WITH the local news on-site with video, I'll quote it\".  \n\nHer:  He's not going to do that.\n\nMe:  Why not?  \n\nHer:  He just won't.\n\nMe:  OK - but I don't have enough hours in my day to run a quote that \"your broker\" isn't going to agree with and I will NOT place any business through him so he can continue to charge outrageous prices for doing nothing.\n\nHer:  What do I do?\n\nMe:  If you want it bad enough, give us the BOR.\n\nHer:  He'll get mad.\n\nMe:  OK - keep doing what you've been doing.  It was great talking to you.\n\nFYI, the last time I quoted this case 3 years ago, the quote was $800K less than what the broker presented with BCBS fully insured.  She made the adult decision to stay with that broker.  Today, I made the adult decision to not waste my time.",
+   "lang": "en",
+   "createdAt": "2026-09-09T01:07:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 4,
+    "quotes": 2,
+    "likes": 51,
+    "bookmarks": 3,
+    "views": 8331
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097489726710120866",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097489726710120866",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097489726710120866",
+   "conversationId": "2097392650953400435",
+   "text": "The non-profit hospitals should be audited and their non-profit status stripped if they aren't compliant (I haven't seen one yet that is).  All hospitals should be stopped from buying every practice in the region - that's called monopolization and it's illegal in virtually every other industry.",
+   "lang": "en",
+   "createdAt": "2026-09-09T00:58:14.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 137
+   },
+   "replyTo": {
+    "tweetId": "2097392650953400435",
+    "userId": "3060663253",
+    "username": "TomOliverson"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097489040337440890",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097489040337440890",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097489040337440890",
+   "conversationId": "2097355481576571276",
+   "text": "Either you or the patient needs to send an email or fax (not by phone) and simply state \"Is this a hospital medical-staff policy or an insurance-plan requirement? Please send me the written policy that requires the ordering physician to be employed by or privileged at this hospital for this specific outpatient service.\"",
+   "lang": "en",
+   "createdAt": "2026-09-09T00:55:31.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 137
+   },
+   "replyTo": {
+    "tweetId": "2097355481576571276",
+    "userId": "4650835518",
+    "username": "molsjames"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097335826698866961",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097335826698866961",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097335826698866961",
+   "conversationId": "2097319442829005220",
+   "text": "Brokers are the ultimate sales people!   Employers think they can’t live without them.  Never mind the fact that they are the primary cause of healthcare costs going up. The higher the premium the more they make.  Add that to PPO networks and their fake discounts so the insurance companies and meet their MLR.  😡",
+   "lang": "en",
+   "createdAt": "2026-09-08T14:46:42.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 157
+   },
+   "replyTo": {
+    "tweetId": "2097319442829005220",
+    "userId": "3634508187",
+    "username": "JohnGoldman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097334821873676543",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097334821873676543",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2097334821873676543",
+   "conversationId": "2097328596817691120",
+   "text": "@HeathVeuleman Infuriating!",
+   "lang": "en",
+   "createdAt": "2026-09-08T14:42:42.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 32
+   },
+   "replyTo": {
+    "tweetId": "2097328596817691120",
+    "userId": "1312884507972837377",
+    "username": "HeathVeuleman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096681269341917211",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2096681269341917211",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2096681269341917211",
+   "conversationId": "2096629646955802758",
+   "text": "@pgipe @DrDiGiorgio @NiklasAnzinger It's hard to put the words \"hospital\" and \"ethics\" in the same sentence these days.",
+   "lang": "en",
+   "createdAt": "2026-09-06T19:25:43.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 31
+   },
+   "replyTo": {
+    "tweetId": "2096664693351821659",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "60012398",
+      "username": "NiklasAnzinger",
+      "name": "Niklas Anzinger"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

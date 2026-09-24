@@ -11,6 +11,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 from app.analysis.pipeline import explain_pipeline
+from app.analysis.runner import resolve_parent_text
 from app.db.base import get_db
 from app.db.models import NormalizedItem
 
@@ -33,6 +34,8 @@ def explain(source: str, source_item_id: str, db: Session = Depends(get_db)):
         text=item.text,
         created_at=item.created_at,
         matched_keywords=matched_keywords,
+        parent_text=resolve_parent_text(db, item.source, item.parent_id),
+        source=item.source,
     )
 
     return {

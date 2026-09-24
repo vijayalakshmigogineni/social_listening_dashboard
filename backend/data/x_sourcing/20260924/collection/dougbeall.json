@@ -1,0 +1,774 @@
+{
+ "query": "from:dougbeall (denied OR denial OR denials OR denying OR \"prior auth\" OR \"prior authorization\" OR \"peer to peer\" OR reimbursement OR underpay OR unpaid OR downcode OR downcoding OR modifier OR IDR OR QPA OR \"fee schedule\" OR \"Medicare Advantage\" OR WISeR OR payment OR paid OR EOB OR \"out of network\" OR insurer OR insurance) since:2025-09-24 lang:en -filter:retweets",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087548121697952005",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2087548121697952005",
+   "url": "https://x.com/dougbeall/status/2087548121697952005",
+   "conversationId": "2087548121697952005",
+   "text": "83 year-old Caucasian male with 10 out of 10 back pain failed non-surgical management as and is in clear decline with a high rate of mortality in this situation. HUMATA denied Kyphoplasty due to the DEXA scan not showing osteoporosis. Osteoporosis does NOT depend only on DEXA https://x.com/dougbeall/status/2087548121697952005/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-12T14:33:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 276
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2087548114508898304",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh18yjW4AAIoq1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh18yjW4AAIoq1.jpg",
+     "width": 1320,
+     "height": 1573,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2087548114508890112",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPh18yjWwAA3Uv1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPh18yjWwAA3Uv1.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026403715192611123",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2026403715192611123",
+   "url": "https://x.com/dougbeall/status/2026403715192611123",
+   "conversationId": "2026403715192611123",
+   "text": "58-year-old female with metastatic breast cancer and a vertebral compression fracture and Blue Cross Blue Shield is denying radio frequency ablation of the tumor?! There’s also no option for a peer to peer or an appeal. Unbelievable! https://x.com/dougbeall/status/2026403715192611123/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-24T21:07:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 3,
+    "views": 4088
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2026403709421264896",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB87b_eWoAAKBNG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB87b_eWoAAKBNG.jpg",
+     "width": 2048,
+     "height": 1896,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026403709454807040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB87b_mWcAAGLfH.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB87b_mWcAAGLfH.jpg",
+     "width": 1320,
+     "height": 1678,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026353254771110209",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2026353254771110209",
+   "url": "https://x.com/dougbeall/status/2026353254771110209",
+   "conversationId": "2026353254771110209",
+   "text": "This is a subacute L1 vertebral compression fracture.  It was reported as no acute fracture but described as an inferior endplate wedging deformity likely subacute. If it’s not called a fracture theres confusion as to what this is and she has no insurance coverage for Kyphoplasty https://x.com/dougbeall/status/2026353254771110209/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-24T17:47:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 7,
+    "views": 3658
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2026353231194951680",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxbXEAANGgG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxbXEAANGgG.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026353231245234177",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxnWUAEURsG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxnWUAEURsG.jpg",
+     "width": 1296,
+     "height": 1152,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2026353231194963968",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB8NhxbXQAAzM_T.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB8NhxbXQAAzM_T.jpg",
+     "width": 2048,
+     "height": 1796,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019765215655858234",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2019765215655858234",
+   "url": "https://x.com/dougbeall/status/2019765215655858234",
+   "conversationId": "2013690975479021884",
+   "text": "@ChengaziMD @JacobFlemingMD Is it just an add-on to another case I was doing that does have reimbursement associated with it",
+   "lang": "en",
+   "createdAt": "2026-02-06T13:28:47.000Z",
+   "type": "reply",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 26
+   },
+   "replyTo": {
+    "tweetId": "2019591564406980705",
+    "userId": "975416098370732032",
+    "username": "reevention09"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "292900878",
+      "username": "ChengaziMD",
+      "name": "Harris"
+     },
+     {
+      "id": "22743176",
+      "username": "JacobFlemingMD",
+      "name": "Jacob Fleming, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019135035291627714",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2019135035291627714",
+   "url": "https://x.com/dougbeall/status/2019135035291627714",
+   "conversationId": "2019135035291627714",
+   "text": "CMS’s WISeR initiative is ridiculous requiring approval to treat painful VCFs that have a mortality rate of 8.6X age matched controls. 84 yr old male w/ severe and worsening back pain drove three hours here as required just for approval. This process is going to result in a death https://x.com/dougbeall/status/2019135035291627714/photo/1",
+   "lang": "en",
+   "createdAt": "2026-02-04T19:44:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 1,
+    "views": 1017
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2019135029100576768",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAVonHMWgAAb3O_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAVonHMWgAAb3O_.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2019135029356507136",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAVonIJXsAAL8DH.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAVonIJXsAAL8DH.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2016549710824165861",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2016549710824165861",
+   "url": "https://x.com/dougbeall/status/2016549710824165861",
+   "conversationId": "2016549710824165861",
+   "text": "Aetna denies sacroplasty for a very painful sacral insufficiency fracture. Did an appeal, peer to peer, and a 2nd appeal but they issued a final denial for this condition that has one year mortality rate of the 11.5% and a five-year mortality rate exceeding 25%. Unbelievable. https://x.com/dougbeall/status/2016549710824165861/photo/1",
+   "lang": "en",
+   "createdAt": "2026-01-28T16:31:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 19,
+    "bookmarks": 1,
+    "views": 4504
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2016549704541048832",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_w5RasWkAAlbFF.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_w5RasWkAAlbFF.jpg",
+     "width": 1320,
+     "height": 1583,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2016549704746565632",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_w5RbdWgAA-Zaw.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_w5RbdWgAA-Zaw.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2016549704545239040",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_w5RatWgAAJt2_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_w5RatWgAAJt2_.jpg",
+     "width": 1320,
+     "height": 689,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2016306212497658074",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2016306212497658074",
+   "url": "https://x.com/dougbeall/status/2016306212497658074",
+   "conversationId": "2016306212497658074",
+   "text": "SIR's newsletter on the onerous, unnecessary &amp; potentially dangerous preauthorization requirements from the CMS' WISeR initiative (in mandating prior auths for kyphoplasty\nhttps://iz3.me/Fqhx7zsobqQ1",
+   "lang": "en",
+   "createdAt": "2026-01-28T00:23:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 1073
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://iz3.me/Fqhx7zsobqQ1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014350049271042112",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2014350049271042112",
+   "url": "https://x.com/dougbeall/status/2014350049271042112",
+   "conversationId": "2014350049271042112",
+   "text": "Medicare is now targeting sacral fractures to deny treating them based on flawed conclusions. An example is a denial based on a statement that Medicare requires the vertebrae to either be thoracic or lumbar and not sacral when 22511 clearly states lumbosacral. https://x.com/dougbeall/status/2014350049271042112/photo/1",
+   "lang": "en",
+   "createdAt": "2026-01-22T14:50:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 829
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2014350024356847616",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_RorLcW4AAQ5TQ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_RorLcW4AAQ5TQ.jpg",
+     "width": 1306,
+     "height": 813,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2014350024352636929",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G_RorLbWoAERR0z.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G_RorLbWoAERR0z.jpg",
+     "width": 2048,
+     "height": 664,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2011101206937305213",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2011101206937305213",
+   "url": "https://x.com/dougbeall/status/2011101206937305213",
+   "conversationId": "2011101206937305213",
+   "text": "For sacral insufficiency fractures with 1 year, 3 year, and five 5 mortality rate rates of 11.5%, 23%, and 26.9% CMS and their WISeR initiative are now denying patients access to this procedure that has dramatic pain reductions, and functional improvements. #dangerouspolicy https://x.com/dougbeall/status/2011101206937305213/photo/1",
+   "lang": "en",
+   "createdAt": "2026-01-13T15:41:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 3,
+    "views": 3780
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2011101199995396096",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-jd4tkWYAAOnRf.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G-jd4tkWYAAOnRf.jpg",
+     "width": 1320,
+     "height": 1674,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2011101199995437056",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-jd4tkXAAA2CUo.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G-jd4tkXAAA2CUo.jpg",
+     "width": 1320,
+     "height": 689,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2011101199991209984",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G-jd4tjWgAAFgAB.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G-jd4tjWgAAFgAB.jpg",
+     "width": 2048,
+     "height": 1142,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "dangerouspolicy"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2003898781025320991",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2003898781025320991",
+   "url": "https://x.com/dougbeall/status/2003898781025320991",
+   "conversationId": "1995490709693153289",
+   "text": "@ChengaziMD @linemonkeymd @WillyRontgen @eliebalesh @keithppereira @IR_Ethics @darthglader @SDhandMD @t_intheleadcoat @DonGarbettMD @pparikhxr @drochohan Yes, I completely agree with you on that. I also think that. I also agree with Kavi on his comments, except for the KL’s getting paid lots of money to promote it…lol!! maybe some people do but not me.",
+   "lang": "en",
+   "createdAt": "2025-12-24T18:41:14.000Z",
+   "type": "reply",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 213
+   },
+   "replyTo": {
+    "tweetId": "2003834432298606881",
+    "userId": "975416098370732032",
+    "username": "reevention09"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "292900878",
+      "username": "ChengaziMD",
+      "name": "Harris"
+     },
+     {
+      "id": "1153426312889061376",
+      "username": "linemonkeymd",
+      "name": "Line Monkey MD"
+     },
+     {
+      "id": "1475084708983803905",
+      "username": "WillyRontgen",
+      "name": "Wil"
+     },
+     {
+      "id": "553972386",
+      "username": "eliebalesh",
+      "name": "Elie Balesh, MD"
+     },
+     {
+      "id": "2162735139",
+      "username": "keithppereira",
+      "name": "Keith Pereira MD, #VIrad"
+     },
+     {
+      "id": "2813846197",
+      "username": "IR_Ethics",
+      "name": "Eric J. Keller"
+     },
+     {
+      "id": "474634151",
+      "username": "darthglader",
+      "name": "Glade Roper, MD - MSK/IR"
+     },
+     {
+      "id": "807125447980904448",
+      "username": "SDhandMD",
+      "name": "Sabeen Dhand"
+     },
+     {
+      "id": "1152318128644329473",
+      "username": "t_intheleadcoat",
+      "name": "Venkat Tummala MD MBA"
+     },
+     {
+      "id": "136930732",
+      "username": "DonGarbettMD",
+      "name": "Don Garbett"
+     },
+     {
+      "id": "313613149",
+      "username": "pparikhxr",
+      "name": "Pankit Parikh, MD"
+     },
+     {
+      "id": "1043891989694095360",
+      "username": "drochohan",
+      "name": "Omar Chohan, DO"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2002020430786269422",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2002020430786269422",
+   "url": "https://x.com/dougbeall/status/2002020430786269422",
+   "conversationId": "2002020430786269422",
+   "text": "Aetna health insurance making up criteria for denying #kyphoplasty for a very painful and debilitating vertebral fracture. See #6…there’s no such contraindication or medical literature basis for denying kyphoplasty for a fracture extending through the posterior vertebral cortex https://x.com/dougbeall/status/2002020430786269422/photo/1",
+   "lang": "en",
+   "createdAt": "2025-12-19T14:17:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48784434",
+    "username": "dougbeall",
+    "name": "Douglas Beall",
+    "url": "https://x.com/dougbeall",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/271842754/In_lab_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 1,
+    "views": 653
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2002020426378067968",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G8ia-HtXQAAPv4v.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G8ia-HtXQAAPv4v.jpg",
+     "width": 1320,
+     "height": 1632,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "kyphoplasty"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

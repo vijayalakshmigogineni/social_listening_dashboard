@@ -1,0 +1,856 @@
+{
+ "query": "from:amyfaithho (denied OR denial OR denials OR denying OR \"prior auth\" OR \"prior authorization\" OR \"peer to peer\" OR reimbursement OR underpay OR unpaid OR downcode OR downcoding OR modifier OR IDR OR QPA OR \"fee schedule\" OR \"Medicare Advantage\" OR WISeR OR payment OR paid OR EOB OR \"out of network\" OR insurer OR insurance) since:2025-09-24 lang:en -filter:retweets",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077945853021405446",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077945853021405446",
+   "url": "https://x.com/amyfaithho/status/2077945853021405446",
+   "conversationId": "2077945853021405446",
+   "text": "A potentially groundbreaking highlight hidden in the @CMSGov 2027 PFS is also this gem:\n\nA formal request for information (RFI) to overhaul or eliminate the CPT coding system, specifically floating the ideas of using ICD10-PCS to establish payment or using broader categories (similar to how DRGs work for inpatient).\n\nA quick history lesson on CPTs:\n\n-The @AmerMedicalAssn created CPTs in 1966 to standardize medical billing terminology, which otherwise didn't exist at the time.\n\n-In 1983 then-CMS (known as HCFA) made CPTs (as HCPCS) the required code set for Medicare Part B\n\n-In 1992, the AMA created the RUC which is a committee of different specialties that recommend to CMS the RVU values for each CPT. CMS generally took the recommendation, until recent years it started layering in other data to augment it.\n\n-In 1996 HIPAA mandated standardizing electronic transactions and CPT was the required code set for any platform doing physician billing.\n\nThe @AmerMedicalAssn makes the majority (55-60%) of their revenue from royalties licensing the CPT code set. Every EHR, billing software vendor, hospital, practice, and payer that processes a claim pays to license the codes — and CMS itself pays to use CPT in Medicare billing. The government mandates the codes... and the AMA collects the licensing fees.\n\nThis monopoly has been criticized by @RFKJrHealthSec @SenBillCassidy @RepJamesComer and others...so it feels like this little section II.H in the 2027 CMS PFS is a very interesting move by the Administration to potentially completely revamp healthcare billing...",
+   "lang": "en",
+   "createdAt": "2026-07-17T02:37:52.000Z",
+   "type": "quote",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 18,
+    "bookmarks": 6,
+    "views": 4689
+   },
+   "replyTo": null,
+   "quotedTweetId": "2077197754825126019",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "1857591073746432001",
+      "username": "RFKJrHealthSec",
+      "name": "(Parody) Robert F. Kennedy Jr - Health Secretary"
+     },
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "1274852794206388225",
+      "username": "RepJamesComer",
+      "name": "Rep. James Comer"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077711418028122258",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077711418028122258",
+   "url": "https://x.com/amyfaithho/status/2077711418028122258",
+   "conversationId": "2077580961265434649",
+   "text": "@grok @kitdobyns @DrOz @CMSGov Remember that Medicare serves as the basis for private insurance — everything is priced as a percentage of Medicare, so the CMS rate doing down reflects all payors ultimately.",
+   "lang": "en",
+   "createdAt": "2026-07-16T11:06:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 68
+   },
+   "replyTo": {
+    "tweetId": "2077593588532179321",
+    "userId": "1720665183188922368",
+    "username": "grok"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1720665183188922368",
+      "username": "grok",
+      "name": "Grok"
+     },
+     {
+      "id": "2471532530",
+      "username": "kitdobyns",
+      "name": "Kit Dobyns"
+     },
+     {
+      "id": "38531995",
+      "username": "DrOz",
+      "name": "Dr. Mehmet Oz"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077708024014102756",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077708024014102756",
+   "url": "https://x.com/amyfaithho/status/2077708024014102756",
+   "conversationId": "2077580961265434649",
+   "text": "Yes…and the work has only gone up…more metrics, more documentation, more insurance bureaucracy (prior with barely existed in 1993…), more billing complexity (way more ICDs and CPTs now than 1993). Our work has gone UP, which the effective $ drastically down.\n\nNo wonder he exited clinical medicine in 2018…🤨",
+   "lang": "en",
+   "createdAt": "2026-07-16T10:52:49.000Z",
+   "type": "reply",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 27,
+    "bookmarks": 1,
+    "views": 1400
+   },
+   "replyTo": {
+    "tweetId": "2077602072849993930",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077580961265434649",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077580961265434649",
+   "url": "https://x.com/amyfaithho/status/2077580961265434649",
+   "conversationId": "2077580961265434649",
+   "text": "Hey @DrOz,\n\nWhen you started practicing medicine in 1993, the RVU reimbursement rate was $31.60. @CMSgov is proposing that in 2027, it is $33.40. \n\nAdjusted for inflation (+132%), \nthat’s a 54% cut…\n\nNo wonder you quit practicing medicine. The financials don’t make sense. \n\nCan you tell @CMSGov…oh, wait a minute…\n\n🤔🤨😒",
+   "lang": "en",
+   "createdAt": "2026-07-16T02:27:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 21,
+    "retweets": 114,
+    "quotes": 9,
+    "likes": 644,
+    "bookmarks": 33,
+    "views": 78152
+   },
+   "replyTo": null,
+   "quotedTweetId": "2077143476299293081",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "38531995",
+      "username": "DrOz",
+      "name": "Dr. Mehmet Oz"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSgov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077471856102191466",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077471856102191466",
+   "url": "https://x.com/amyfaithho/status/2077471856102191466",
+   "conversationId": "2077471856102191466",
+   "text": "For the @CMSGov proposal to reimburse 50% for same-day E/M and procedure, one nuance for emergency medicine:\n\nThis is NOT proposed currently (ahem, @ACEPAdvocacy @ACEPNation) for ED E/M, only O/O E/M (office/outpatient). So the MVC in the ED that gets a sedation/reduction would still be full reimbursement for all CPTs.\n\nStill problematic for outpatient specialties…seems silly of CMS to disincentivize doctors from being like “hey, let me take care of your procedure right now” for the patient…🤨 @AAOS1 @AADskin @aao_ophth @acog @AAOHNS",
+   "lang": "en",
+   "createdAt": "2026-07-15T19:14:22.000Z",
+   "type": "quote",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 5,
+    "quotes": 2,
+    "likes": 28,
+    "bookmarks": 3,
+    "views": 25062
+   },
+   "replyTo": null,
+   "quotedTweetId": "2077197754825126019",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2077471843980562432",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNSpoptWUAAC5R4.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNSpoptWUAAC5R4.jpg",
+     "width": 1156,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "3064008447",
+      "username": "ACEPAdvocacy",
+      "name": "ACEP Advocacy"
+     },
+     {
+      "id": "21906952",
+      "username": "ACEPNation",
+      "name": "ACEP Members"
+     },
+     {
+      "id": "31409605",
+      "username": "AAOS1",
+      "name": "AAOS"
+     },
+     {
+      "id": "319094338",
+      "username": "AADskin",
+      "name": "AAD"
+     },
+     {
+      "id": "26336959",
+      "username": "aao_ophth",
+      "name": "American Academy of Ophthalmology"
+     },
+     {
+      "id": "22784904",
+      "username": "acog",
+      "name": "ACOG"
+     },
+     {
+      "id": "26082358",
+      "username": "AAOHNS",
+      "name": "AmAcadOtolaryngology"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077198015056449813",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077198015056449813",
+   "url": "https://x.com/amyfaithho/status/2077198015056449813",
+   "conversationId": "2077197754825126019",
+   "text": "Here’s the @CMSGov proposed fee schedule:\n\nhttps://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule",
+   "lang": "en",
+   "createdAt": "2026-07-15T01:06:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 685
+   },
+   "replyTo": {
+    "tweetId": "2077197754825126019",
+    "userId": "523584326",
+    "username": "amyfaithho"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [
+     "https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077197754825126019",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077197754825126019",
+   "url": "https://x.com/amyfaithho/status/2077197754825126019",
+   "conversationId": "2077197754825126019",
+   "text": "@CMSGov’s 2027 proposed physician fee schedule is out, and *drumroll please*…\n\nIt’s another cut.\n\n1.68% cut in absolute RVU rate ($32.84 down from $33.40)…\nBut more like 5% real cut when you adjust for the ~3.5% inflation year over year.\n\nMultiplied over ~2.8billion RVUs/year for Medicare FFS, that’s ~$1.55billion being cut for Medicare reimbursement alone — not to mention all the insurances that use Medicare as their benchmark.\n\nSigh. #healthcare 😞",
+   "lang": "en",
+   "createdAt": "2026-07-15T01:05:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 9,
+    "quotes": 2,
+    "likes": 37,
+    "bookmarks": 5,
+    "views": 14079
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "healthcare"
+    ],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061066719087431994",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2061066719087431994",
+   "url": "https://x.com/amyfaithho/status/2061066719087431994",
+   "conversationId": "2060533141748543886",
+   "text": "@TEinsteinMD Indeed…no surprise that insurance is still just denying paying…🤡",
+   "lang": "en",
+   "createdAt": "2026-05-31T12:46:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 34
+   },
+   "replyTo": {
+    "tweetId": "2060793072712327488",
+    "userId": "1245890459030802432",
+    "username": "TEinsteinMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1245890459030802432",
+      "username": "TEinsteinMD",
+      "name": "Thomas Einstein"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2060533627830616442",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2060533627830616442",
+   "url": "https://x.com/amyfaithho/status/2060533627830616442",
+   "conversationId": "2060533141748543886",
+   "text": "@EdGainesIII has a great thread on the new CMS rule for IDR",
+   "lang": "en",
+   "createdAt": "2026-05-30T01:27:54.000Z",
+   "type": "quote",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 523
+   },
+   "replyTo": {
+    "tweetId": "2060533141748543886",
+    "userId": "523584326",
+    "username": "amyfaithho"
+   },
+   "quotedTweetId": "2059990976072946014",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2060533141748543886",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2060533141748543886",
+   "url": "https://x.com/amyfaithho/status/2060533141748543886",
+   "conversationId": "2060533141748543886",
+   "text": "It always amazes me how little people, doctors included, know about the No Surprises Act (NSA) and IDR (independent dispute resolution).\n\nThe TLDR is NSA banned physician groups from billing patients when physicians were out of network and insurances wouldn’t pay. Awesome and the right thing for patients, but then the legislation forced physician groups to recoup money from insurances via forced arbitration (IDR) with very high fees. Even if you won, it was still 6-12mos+ to get any cash in the bank...but the fees and cost get paid upfront…\n\nCMS just issued their updated rule on IDR, which dropped one of those fees by 87%, from $230 to $30. As an aggregate, this drop represents over $500M in fees.\n\nGood news, but obnoxious, since if insurances would just pay physicians in the first place, then the fees wouldn’t exist at all. Cheaper arbitration is still arbitration...\n\nJust another example of health care $ bloat from bad insurance practices. \n\nhttps://www.hhs.gov/press-room/federal-rule-takes-aim-health-care-bureaucracy-reducing-dispute-fees-boosting-transparency.html",
+   "lang": "en",
+   "createdAt": "2026-05-30T01:25:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 0,
+    "views": 1943
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.hhs.gov/press-room/federal-rule-takes-aim-health-care-bureaucracy-reducing-dispute-fees-boosting-transparency.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2052137484406911006",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2052137484406911006",
+   "url": "https://x.com/amyfaithho/status/2052137484406911006",
+   "conversationId": "2052137484406911006",
+   "text": "@UHC announces they’re going to cut prior authorization off 30% of medical services…call me a skeptic, but I think time will tell if they’re just cutting administrative burden on the front end to shift towards financial denials on the backend, which are even harder to identify and subsequently appeal.\n\nWill denials go up? Downcodes? What about retrospective medical necessity review (healthcare already performed, and then after the fact declared to not have medical necessity) or coverage exclusions?\n\nA current 92% prior authorization approval rate means that we already know prior auth is just annoying administrative burden…but the real answer of how impactful this is will lay in the denials rate…\n\n🤔\n\nhttps://www.unitedhealthgroup.com/newsroom/2026/2026-05-05-uhc-cuts-prior-authorization-requirements-by-30-percent.html",
+   "lang": "en",
+   "createdAt": "2026-05-06T21:24:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 566
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [
+     "https://www.unitedhealthgroup.com/newsroom/2026/2026-05-05-uhc-cuts-prior-authorization-requirements-by-30-percent.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2031016539369926670",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2031016539369926670",
+   "url": "https://x.com/amyfaithho/status/2031016539369926670",
+   "conversationId": "2031016539369926670",
+   "text": "Drug pricing is so complicated and inflated that we’ve had to come up with an entire arsenal of different tricks to try to make them somewhat affordable…@GoodRx, @realDonaldTrump TrumpRx, @markcuban @costplusdrugs , @amazon pharmacy, just to name a few.\n\nBut those are all hacks to keep the actually drug price high while just making the payment lower (for those in the know). Imagine if you went to the store, and bread had a sticker price of $100, but with a coupon you could buy it for $2…\n\nMaybe it’s just time to make the sticker price $2. For everyone. Once and for all. \n\nRead more from me on @Medscape on this topic:\n\nhttps://www.medscape.com/viewarticle/trumprx-or-not-trumprx-how-solve-drug-pricing-question-2026a10006g2",
+   "lang": "en",
+   "createdAt": "2026-03-09T14:37:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 20,
+    "bookmarks": 1,
+    "views": 997
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "356495526",
+      "username": "GoodRx",
+      "name": "GoodRx"
+     },
+     {
+      "id": "25073877",
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "id": "14365253",
+      "username": "markcuban",
+      "name": "Mark Cuban"
+     },
+     {
+      "id": "1284331089977151488",
+      "username": "costplusdrugs",
+      "name": "Mark Cuban Cost Plus Drug Company"
+     },
+     {
+      "id": "20793816",
+      "username": "amazon",
+      "name": "Amazon"
+     },
+     {
+      "id": "16892009",
+      "username": "Medscape",
+      "name": "Medscape"
+     }
+    ],
+    "urls": [
+     "https://www.medscape.com/viewarticle/trumprx-or-not-trumprx-how-solve-drug-pricing-question-2026a10006g2"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2021213600145113498",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2021213600145113498",
+   "url": "https://x.com/amyfaithho/status/2021213600145113498",
+   "conversationId": "2021213600145113498",
+   "text": "So the new #TrumpRx adds a new discount modality for drugs…unfortunately doesn’t address the root issue that US drug pricing is so astronomical that we have a patchwork quilt of basically coupon-clipping to try to make them somewhat affordable…\n\nLet’s go through them, shall we?\n\nTrumpRx by @realDonaldTrump - limited list of brand-name drugs for cash-paying patients. Several explicitly with limited time or # of fills. Acts like a government-branded coupon aggregator in many ways. \n\n@costplusdrugs by @mcuban - extensive list of generics for chronic diseases at low costs. Costs are transparent, stable and long-term. No brand name. No insurance required. \n\n@GoodRx - part of the underlying tech of TrumpRx, but on its own works as a discounted network of prices that @goodrx has negotiated with PBMs. Lots of generics, some brand names. Prices can be variable over time because @goodrx has to renegotiate rates. \n\n@amazon pharmacy - in many ways, vertically integrates coupon clipping into one flow. Contracts with insurance and also has its own cash pay prices. Auto-applies manufacturer coupons if available (brand-name drugs, insured patients). Throws on some Prime discounts when able on subscription bundling (especially for chronic generics). \n\nManufacturer coupons - did you know you can go to a drug company’s site and see if they have coupons for their brand name drugs? Many people don’t. Usually for commercially insured patients only (just decreases the patient portion of $), usually short term (a few fills). \n\nSemaglutide (Wegovy/Ozempic) brought @novonordisk over $38B a year, Humira got @abbvie $35B, and Eliquis @pfizer $22B a year. Discounts are nice…but maybe the fundamental issue is with the sticker price itself... 🤷🏻‍♀️\n\n#medtwitter #healthpolicy",
+   "lang": "en",
+   "createdAt": "2026-02-10T13:24:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "523584326",
+    "username": "amyfaithho",
+    "name": "Amy Faith Ho, MD MPH",
+    "url": "https://x.com/amyfaithho",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1640688406274404352/xn-oBo-q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 4,
+    "views": 742
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "TrumpRx",
+     "medtwitter",
+     "healthpolicy"
+    ],
+    "mentions": [
+     {
+      "id": "25073877",
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     },
+     {
+      "id": "1284331089977151488",
+      "username": "costplusdrugs",
+      "name": "Mark Cuban Cost Plus Drug Company"
+     },
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     },
+     {
+      "id": "356495526",
+      "username": "GoodRx",
+      "name": "GoodRx"
+     },
+     {
+      "id": "356495526",
+      "username": "goodrx",
+      "name": "GoodRx"
+     },
+     {
+      "id": "356495526",
+      "username": "goodrx",
+      "name": "GoodRx"
+     },
+     {
+      "id": "20793816",
+      "username": "amazon",
+      "name": "Amazon"
+     },
+     {
+      "id": "194037150",
+      "username": "novonordisk",
+      "name": "Novo Nordisk"
+     },
+     {
+      "id": "531892451",
+      "username": "abbvie",
+      "name": "AbbVie"
+     },
+     {
+      "id": "56488059",
+      "username": "pfizer",
+      "name": "Pfizer Inc."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

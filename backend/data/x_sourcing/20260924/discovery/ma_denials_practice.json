@@ -1,0 +1,2799 @@
+{
+ "key": "ma_denials_practice",
+ "query": "\"Medicare Advantage\" (denied OR denials OR \"prior auth\" OR clawback OR downcoding) (practice OR clinic OR physicians OR \"our patients\") lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092958077322412461",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2092958077322412461",
+   "url": "https://x.com/DrBruggeman/status/2092958077322412461",
+   "conversationId": "2092958077322412461",
+   "text": "The structural problems in Medicare Advantage are well documented, and they compound on each other.\n\nStart with the money. CBO's most recent baseline puts Medicare Advantage overpayments at roughly $1 trillion over the next decade, driven by a beneficiary switching from traditional Medicare to MA costing the federal government about 15 percent more on average. MedPAC's 2026 estimate is $76 billion for this year alone, 14 percent above the same beneficiaries' cost in fee for service Medicare. The Senate Joint Economic Committee traced these overpayments to Part B premiums directly, adding $212 per beneficiary in 2025 alone, a cost borne by everyone on Medicare, including those never enrolled in MA.\n\nThe excess payment is not evidence the underlying model cannot work. MedPAC's own Chapter 11 status report data show MA cost more than traditional Medicare in nearly every year from 2007 through 2014 even before coding intensity and favorable selection are counted, but that baseline gap has narrowed toward zero and turned negative in several recent years once those two effects are stripped out. The distortion is concentrated in gaming layered on the program, not the model itself, and that gaming does not yet include quality bonus spending, which sits on top of both.\n\nThis all matters for independent practices because Medicare runs under budget neutrality. Dollars flowing to MA overpayments and quality bonuses are dollars unavailable for fee schedule updates. Independent practices absorb the fallout of a payment fight they are not even engaged in.\n\nNetwork dynamics compound it. UnitedHealthcare has significantly narrowed its Medicare Advantage networks across multiple markets in 2026, citing elevated medical loss ratios. Becker's Hospital Review has tracked more than two dozen health systems terminating MA contracts with major insurers this year, most citing prior authorization denials and slow reimbursement, including Mayo Clinic and Brown University Health.\n\nVertical integration adds another layer. When an insurer also owns the largest physician employment network in the country, independent practices are negotiating against a counterparty that profits from steering patients toward its own employed physicians. Georgetown's CHIR research confirms this is not just a theory. The same insurer pays its own employed physicians more than independent physicians for identical services.\n\nNone of this reflects a program broken beyond repair. It reflects specific, identifiable mechanisms, coding intensity, favorable selection, and an unaccountable bonus program, layered onto a delivery model MedPAC's own data suggest could otherwise be cost competitive with traditional Medicare. The system is performing exactly as it was designed.",
+   "lang": "en",
+   "createdAt": "2026-08-27T12:51:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 7,
+    "quotes": 1,
+    "likes": 16,
+    "bookmarks": 5,
+    "views": 723
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2092958070695432192",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQuuRr2WkAAZnJC.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HQuuRr2WkAAZnJC.jpg",
+     "width": 2048,
+     "height": 1378,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102014528019914821",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102014528019914821",
+   "url": "https://x.com/ChuckBaggett/status/2102014528019914821",
+   "conversationId": "2102014528019914821",
+   "text": "Lawsuit Claims UnitedHealth AI Denied Elderly Care with 90% Error Rate\nA class-action suit in Minnesota federal court accuses UnitedHealth of using the nH Predict AI tool, with a claimed 90% error rate, to deny post-acute care to Medicare Advantage patients like Lokken. The company denies the tool drives decisions, insisting physicians make final calls while approving 98% of eligible claims overall; only 0.2% of patients appeal, though over 90% of those denials reverse. Public posts share personal denial stories and images linking to the case and the 2024 killing of CEO Brian Thompson, amid reports of doubled denial rates post-tool rollout and an ongoing Senate probe. The court has ordered more records on the tool as discovery proceeds. \nhttps://x.com/i/trending/2101797329439162840",
+   "lang": "en",
+   "createdAt": "2026-09-21T12:38:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "16659187",
+    "username": "ChuckBaggett",
+    "name": "@ChuckBaggett Chuck Baggett Peace Freedom Ad Astra",
+    "url": "https://x.com/ChuckBaggett",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2068667683105644544/S9tepi-i_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 55
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/trending/2101797329439162840"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102061180248293666",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102061180248293666",
+   "url": "https://x.com/FLDoctorMag/status/2102061180248293666",
+   "conversationId": "2102061180248293666",
+   "text": "UHC drops prior auth on 1,700 codes Oct. 1. About 120 reach Medicare Advantage. Lee Health is leaving anyway. The Florida fine print:\n\nhttps://floridadoctormagazine.com/unitedhealthcare-prior-authorization-cut-october-2026-florida-physicians/\n\nCreated with AI assistance. https://x.com/FLDoctorMag/status/2102061180248293666/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-21T15:43:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1869499285089464320",
+    "username": "FLDoctorMag",
+    "name": "Florida Doctor Magazine",
+    "url": "https://x.com/FLDoctorMag",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1869499947453698048/oP50Qr3m_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 11
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102061178042150913",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSwFgRVXcAEJsng.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSwFgRVXcAEJsng.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://floridadoctormagazine.com/unitedhealthcare-prior-authorization-cut-october-2026-florida-physicians/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087347845028511967",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2087347845028511967",
+   "url": "https://x.com/felipelourenco/status/2087347845028511967",
+   "conversationId": "2087347845028511967",
+   "text": "if you’re building AI in healthcare, SAVE THIS. you’ll come back to it.\n\nwe’re scaling AI agents faster than the trust infrastructure required to govern them. \n\nthis is where the next massive healthcare infrastructure layer may get built. http://x.com/i/article/2087342176141516800",
+   "lang": "en",
+   "createdAt": "2026-08-12T01:18:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "20591702",
+    "username": "felipelourenco",
+    "name": "Felipe Lourenço",
+    "url": "https://x.com/felipelourenco",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2014588284236894208/vOeOHz_P_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 4,
+    "views": 1974
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://x.com/i/article/2087342176141516800"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2046321408234631623",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2046321408234631623",
+   "url": "https://x.com/DrBruggeman/status/2046321408234631623",
+   "conversationId": "2046321408234631623",
+   "text": "This week I want to spend some time on prior authorization in Medicare Advantage and what it means for independent physician practices and their patients.\n\nMedicare Advantage now covers nearly 55% of all Medicare beneficiaries. 99% of those enrollees are subject to prior authorization requirements for at least some services. In 2024, Medicare Advantage plans denied 4.1 million prior authorization requests, a 56% increase over recent years. 81% of those denials were overturned on appeal. Only 11.5% of patients ever appealed.\n\nThat gap between the overturn rate and the appeal rate tells you everything you need to know about how this system functions in practice. It is built on the reasonable expectation that most patients and physicians will not have the time or resources to fight back.\n\nThis week I will cover the scale of the burden on independent practices, the growing role of artificial intelligence in denial decisions, the documented patient harm that has resulted, and the legislative solutions that are currently on the table.",
+   "lang": "en",
+   "createdAt": "2026-04-20T20:13:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 5,
+    "quotes": 2,
+    "likes": 8,
+    "bookmarks": 4,
+    "views": 2684
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2046321381986766848",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGX-dH2bkAAtojt.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HGX-dH2bkAAtojt.jpg",
+     "width": 2028,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2085803663197413567",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2085803663197413567",
+   "url": "https://x.com/nealkshah/status/2085803663197413567",
+   "conversationId": "2085803663197413567",
+   "text": "Medicare Just Shrank. Millions Will Get This Wrong (Part D 2027) A letter could be sitting in your mailbox right now saying the hospital you've trusted for years won't take your insurance anymore. In 2026, roughly 25 of America's biggest hospital systems; Mayo Clinic, Johns Hopkins, even the system half of New York depends on: dropped or narrowed Medicare Advantage. And there's one mistake seniors make when switching that can lock them out for life.\nI'm Neal K. Shah, a Johns Hopkins- and NIH-funded caregiving researcher and CEO of CareYaya, and I've helped thousands of families navigate aging, dementia, and insurance denials. Here I break down what's happening to Medicare Advantage right now, why hospitals are walking away, and the five moves that can keep a family from losing their doctor and their savings. If you or someone you love is on Medicare Advantage, this one's for you.  More than half of America's seniors are on Medicare Advantage and by one estimate, nearly 3 million were forced to change plans for 2026 after their plan pulled out, shrank, or cut benefits.",
+   "lang": "en",
+   "createdAt": "2026-08-07T19:02:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1856037848081936385",
+    "username": "nealkshah",
+    "name": "Neal K. Shah",
+    "url": "https://x.com/nealkshah",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2024904396979490816/QZo2aGwI_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 21,
+    "bookmarks": 25,
+    "views": 2064
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2085561892701945857",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2085561892701945857/vid/avc1/1080x1920/jJwiRJNVZqTv9GJx.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2085561892701945857/img/Z2ufYxtcmqz2Pvw1.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 612
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1811528476958294216",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1811528476958294216",
+   "url": "https://x.com/FastPayHealth/status/1811528476958294216",
+   "conversationId": "1811528476958294216",
+   "text": "Is your #optometry #ophthalmology practice struggling with Medicare Advantage claims denials? Review trends, requirements, and insurance billing tips to increase cash flow. \nhttps://www.fastpayhealth.com/blog/medicare-advantage-billing-tips-boost-revenue https://x.com/FastPayHealth/status/1811528476958294216/photo/1",
+   "lang": "en",
+   "createdAt": "2024-07-11T22:30:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "806565680308887553",
+    "username": "FastPayHealth",
+    "name": "Fast Pay Health",
+    "url": "https://x.com/FastPayHealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2028931568463663104/8xfLoWw8_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 42
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1811528322683404295",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GSPXaV4agAcCu4H.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GSPXaV4agAcCu4H.jpg",
+     "width": 1000,
+     "height": 615,
+     "altText": "Medicare Advantage Billing Tips That Boost Your Revenue",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "optometry",
+     "ophthalmology"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.fastpayhealth.com/blog/medicare-advantage-billing-tips-boost-revenue"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102436118058692822",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102436118058692822",
+   "url": "https://x.com/AxionNeuro/status/2102436118058692822",
+   "conversationId": "2102436118058692822",
+   "text": "UHC drops prior auth on 1,700 codes Oct. 1. About 120 reach Medicare Advantage. Lee Health is leaving anyway. The Florida fine print:\n\nhttps://floridadoctormagazine.com/unitedhealthcare-prior-authorization-cut-october-2026-florida-physicians/\n\nCreated with AI assistance. https://x.com/AxionNeuro/status/2102436118058692822/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:33:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "9880292",
+    "username": "AxionNeuro",
+    "name": "Sean Orr, M.D.",
+    "url": "https://x.com/AxionNeuro",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2039193891166109696/3CRDhrY5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 59
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102436116037074944",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS1agiNXgAAQtEn.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS1agiNXgAAQtEn.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://floridadoctormagazine.com/unitedhealthcare-prior-authorization-cut-october-2026-florida-physicians/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100417693824455009",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2100417693824455009",
+   "url": "https://x.com/MichaelARothman/status/2100417693824455009",
+   "conversationId": "2100417693824455009",
+   "text": "𝐎𝐅𝐅𝐈𝐂𝐄 𝐌𝐀𝐍𝐀𝐆𝐄𝐑: 𝐌𝐄𝐃𝐈𝐂𝐀𝐑𝐄 𝐀𝐃𝐕𝐀𝐍𝐓𝐀𝐆𝐄 𝐌𝐀𝐃𝐄 𝐀 𝐂𝐀𝐍𝐂𝐄𝐑 𝐏𝐀𝐓𝐈𝐄𝐍𝐓 𝐏𝐑𝐎𝐕𝐄 𝐇𝐄𝐑 𝐂𝐀𝐍𝐂𝐄𝐑 𝐓𝐖𝐈𝐂𝐄 𝐁𝐄𝐅𝐎𝐑𝐄 𝐀𝐏𝐏𝐑𝐎𝐕𝐈𝐍𝐆 𝐒𝐔𝐑𝐆𝐄𝐑𝐘\n\nA private surgical practice’s office manager posted a viral follow-up after her first video on insurance denials blew up — and the update is worse than the original complaint. The patient has colon cancer. The surgery in question is the one to remove it. Her Medicare Advantage plan still isn’t satisfied.\n\n“𝘛𝘩𝘦𝘺 𝘣𝘢𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘴𝘢𝘪𝘥 𝘵𝘩𝘦𝘺 𝘯𝘦𝘦𝘥 𝘮𝘰𝘳𝘦 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦 𝘸𝘰𝘮𝘢𝘯 𝘩𝘢𝘴 𝘤𝘢𝘯𝘤𝘦𝘳... 𝘴𝘰 𝘐 𝘴𝘦𝘯𝘵 21 𝘱𝘢𝘨𝘦𝘴 𝘰𝘧 𝘳𝘦𝘤𝘰𝘳𝘥𝘴 𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘢𝘨𝘢𝘪𝘯 𝘵𝘩𝘢𝘵 𝘴𝘩𝘦 𝘩𝘢𝘴 𝘤𝘢𝘯𝘤𝘦𝘳, 𝘢𝘯𝘥 𝘵𝘩𝘦𝘺 𝘵𝘰𝘭𝘥 𝘮𝘦 𝘵𝘩𝘦𝘺 𝘸𝘪𝘭𝘭 𝘳𝘦𝘷𝘪𝘦𝘸 𝘪𝘵 𝘪𝘯 48 𝘵𝘰 72 𝘩𝘰𝘶𝘳𝘴 𝘢𝘯𝘥 𝘭𝘦𝘵 𝘶𝘴 𝘬𝘯𝘰𝘸 𝘸𝘩𝘦𝘵𝘩𝘦𝘳 𝘰𝘳 𝘯𝘰𝘵 𝘵𝘩𝘪𝘴 𝘸𝘰𝘮𝘢𝘯 𝘤𝘢𝘯 𝘩𝘢𝘷𝘦 𝘤𝘢𝘯𝘤𝘦𝘳 𝘳𝘦𝘮𝘰𝘷𝘦𝘥 𝘧𝘳𝘰𝘮 𝘩𝘦𝘳 𝘣𝘰𝘥𝘺.”\n\nHer verdict after 22 years running the practice’s billing: “𝘐𝘯𝘴𝘶𝘳𝘢𝘯𝘤𝘦 𝘪𝘴 𝘢𝘯 𝘢𝘣𝘴𝘰𝘭𝘶𝘵𝘦 𝘴𝘤𝘢𝘮. 𝘛𝘩𝘦𝘺 𝘸𝘪𝘭𝘭 𝘶𝘴𝘦 𝘢𝘯𝘺 𝘦𝘹𝘤𝘶𝘴𝘦 𝘵𝘰 𝘥𝘦𝘯𝘺.” She says the practice bills roughly $5,000 for a multi-hour, multi-physician surgery and often collects 𝐚 𝐟𝐞𝐰 𝐡𝐮𝐧𝐝𝐫𝐞𝐝 𝐝𝐨𝐥𝐥𝐚𝐫𝐬 of it.\n\nThe numbers back her up, and they are shocking. A June 2026 federal watchdog review by the HHS Inspector General found taxpayer-funded Medicare Advantage insurers overturned 𝟗𝟓 𝐩𝐞𝐫𝐜𝐞𝐧𝐭 of their own denials for skilled nursing care once patients fought back on appeal — proof most of the original denials never should have happened. Physician-owned private practices, meanwhile, have collapsed from 𝟔𝟎 𝐩𝐞𝐫𝐜𝐞𝐧𝐭 𝐭𝐨 𝟒𝟐 𝐩𝐞𝐫𝐜𝐞𝐧𝐭 of all doctors in just twelve years, per the American Medical Association, as insurers squeeze independent practices out of business.\n\nThis isn’t a policy abstraction for the people running these offices. It’s a woman with cancer, an office fighting an insurer over a diagnosis already on paper, and a clock the insurance company controls.\n\n𝐏𝐫𝐨𝐯𝐞 𝐲𝐨𝐮𝐫 𝐜𝐚𝐧𝐜𝐞𝐫 𝐢𝐬 𝐫𝐞𝐚𝐥. 𝐓𝐡𝐞𝐧 𝐩𝐫𝐨𝐯𝐞 𝐢𝐭 𝐚𝐠𝐚𝐢𝐧.\n\nhttps://oig.hhs.gov/reports/all/2026/medicare-advantage-organizations-overturned-nearly-all-appealed-prior-authorization-denials-for-skilled-nursing-facility-admission-raising-concerns-about-initial-denials/",
+   "lang": "en",
+   "createdAt": "2026-09-17T02:52:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "24198415",
+    "username": "MichaelARothman",
+    "name": "M.A. Rothman",
+    "url": "https://x.com/MichaelARothman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1105334109155471360/ooNB9TH9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 871
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100417600887119872",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2100417600887119872/vid/avc1/720x1338/zyX3zyCzj5QKqTG6.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100417600887119872/img/A80LEbsymMoUgyL_.jpg",
+     "width": 1032,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 94
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://oig.hhs.gov/reports/all/2026/medicare-advantage-organizations-overturned-nearly-all-appealed-prior-authorization-denials-for-skilled-nursing-facility-admission-raising-concerns-about-initial-denials/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090747340676059555",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2090747340676059555",
+   "url": "https://x.com/VinoNStrosGal/status/2090747340676059555",
+   "conversationId": "2090747340676059555",
+   "text": "Last night, I got off the phone with a family member in New Jersey who is dealing with cancer.\n\nTheir doctor ordered an imaging study.\n\nTheir insurance company denied it.\n\nThink about how insane that sentence is.\n\nA physician treating a patient with cancer determined that imaging was medically necessary and somewhere between that examination room and the scanner, an insurance company decided otherwise.\n\nAfter we hung up, I couldn’t stop thinking about it.\n\nSo I started reading.\n\nAnd reading.\n\nAnd digging through the numbers.\n\nI wanted to understand how we got to a place where someone can have a doctor say, “You need this,” and still have to convince an insurance company that their doctor is right.\n\nWhat I found pissed me off even more.\n\nAmerica does not have a healthcare spending problem.\n\nAmerica has a healthcare accountability problem.\n\nOn May 28, 2026, a major international comparison of 20 countries found that the United States spends MORE on healthcare than any country studied.\n\n18% of our entire GDP.\n\nNearly TWICE the OECD average.\n\nAnd what do we get for it?\n\nAmericans still die younger.\n\nOur life expectancy is nearly FIVE YEARS shorter than Japan, Spain, and Switzerland.\n\nWe are more likely to skip medically necessary care because we cannot afford it.\n\nAnd while patients are trying to stay alive, insurance companies are still deciding whether the treatment their DOCTOR ordered is “medically necessary.”\n\nIn 2024 alone, Medicare Advantage insurers denied 4.1 MILLION prior-authorization requests.\n\nHere is the part that should make your blood boil:\n\nWhen those denials were appealed, more than 80% were overturned.\n\nSo I have a proposal.\n\nIf an insurance company overrules my physician, I want the name of the person who made that decision.\n\nTheir medical degree.\n\nTheir specialty.\n\nTheir license number.\n\nAnd their signature.\n\nNo hiding behind “internal policy.”\n\nNo hiding behind “utilization management.”\n\nNo anonymous committee.\n\nIf you have the authority to tell a cancer patient they cannot have a scan…\n\ntell a chronic pain patient they cannot have medication…\n\ntell a disabled person they cannot have therapy…\n\nor force someone who is already sick to fight an insurance company for treatment their doctor says they need…\n\nPUT YOUR NAME ON THE DENIAL.\n\nBecause this is not a spreadsheet.\n\nThis is someone’s mother.\n\nSomeone’s father.\n\nSomeone’s child.\n\nSomeone’s life.\n\nWe spend more than everybody else.\n\nPatients ration care.\n\nDoctors drown in paperwork.\n\nAnd corporations call it efficiency.\n\nEnough.\n\nHealthcare does not exist to protect an insurance company’s bottom line.\n\nInsurance exists to pay for healthcare.\n\nWe have somehow allowed those two things to become reversed.\n\nPut patients back in the center of medicine.\n\nPut physicians back in charge of medical decisions.\n\nAnd if you are going to stand between a sick human being and the care their doctor prescribed,\n\nhave the courage to put your fucking name on it.\n\nPUT YOUR NAME ON THE DENIAL.",
+   "lang": "en",
+   "createdAt": "2026-08-21T10:26:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1368889917057687555",
+    "username": "VinoNStrosGal",
+    "name": "Sassy Devil Dog 🔥",
+    "url": "https://x.com/VinoNStrosGal",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1849516508629618689/8bj5q76__normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 46,
+    "retweets": 87,
+    "quotes": 6,
+    "likes": 240,
+    "bookmarks": 25,
+    "views": 7404
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055244070742528213",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2055244070742528213",
+   "url": "https://x.com/kevinmd/status/2055244070742528213",
+   "conversationId": "2055244070742528213",
+   "text": "A private insurer just decided that a cancer patient could not have her chemotherapy in the cancer center. She walked away from treatment entirely. This is the rollout most clinicians have not noticed yet, and it is starting in rural America by design.\n \nBanu Symington has practiced hematology-oncology in highly rural settings for more than 20 years. In May, at a state oncology meeting, the room was told three things were \"coming down the pike\": white bagging, brown bagging, and off-site infusions. They were framed as remote possibilities.\n \nWithin a week, two of her insurance carriers sent her letters. They would no longer reimburse chemotherapy delivered inside the cancer center. She was to write orders sending her patients to an independent infusion suite owned by a community pharmacist, staffed only by nurses, with no oncologist on the floor, no nurse practitioner trained to manage an infusion reaction, no ER down the hall, no code blue team in the building. Infusion reactions can occur at any cycle, not just the first.\n \nShe appealed. The insurer denied the appeal. Her hospital's finance manager offered to match the off-site price so the chemotherapy could remain in a setting where a physician could intervene. The insurer refused to negotiate.\n \nOne of her patients withdrew from chemotherapy entirely. She would not go off-site, and she could not pay out of pocket. So the treatment ended.\n \nThe strategy is rural-first by design. Fewer rural physicians, fewer rural patients, less organized resistance. Once it scales there, urban centers are next. Medicare is not doing this. Private insurance is. Medicare Advantage, which is private insurance administering Medicare, is beginning to.\n \nSave the framework, three rollout vectors to watch in your market:\n1. Off-site infusion mandates: chemotherapy moved out of the cancer center to an unsupervised, for-profit suite\n2. White bagging: drugs shipped to the hospital pharmacy with no margin retained, eroding the only line that keeps rural cancer centers solvent\n3. Brown bagging: cytotoxic drugs shipped directly to the patient's home, then carried in, with no chain-of-custody guarantee on temperature or handling\n \nCancer centers do not break even on Medicare or Medicaid. The small margin on privately insured patients is what keeps them open. Strip that margin and the centers close. The patients then drive further, or stop.\n \nListen to the full conversation on The Podcast by KevinMD. Link in the replies.\n \nWhat is the first vector you have already seen land in your market?\n \n#PatientAdvocacy #ThePodcastbyKevinMD",
+   "lang": "en",
+   "createdAt": "2026-05-15T11:09:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "11274452",
+    "username": "kevinmd",
+    "name": "Kevin Pho, M.D.",
+    "url": "https://x.com/kevinmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1570116782035271682/MUM2ful0_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 13,
+    "retweets": 25,
+    "quotes": 6,
+    "likes": 43,
+    "bookmarks": 13,
+    "views": 6336
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055244010273308672",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIWxiccXAAAfuK3.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIWxiccXAAAfuK3.png",
+     "width": 2160,
+     "height": 2700,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PatientAdvocacy",
+     "ThePodcastbyKevinMD"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090838591396065488",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2090838591396065488",
+   "url": "https://x.com/TheRojasReport/status/2090838591396065488",
+   "conversationId": "2090838591396065488",
+   "text": "A Medicare Advantage insurer can leave a county. The senior cannot leave the consequences.\n\nUnitedHealthcare entered 2026 expecting to lose more than 1.1 million Medicare Advantage members after reducing its footprint to restore margins. Elevance, CVS, Centene, and other large insurers also shed members.\n\nHumana took the other side of the trade. It kept more generous benefits in its remaining markets and attracted more than one million new seniors. It may finish 2026 as the country’s largest Medicare Advantage insurer.\n\nNow Humana says it will exit more plans in 2027 to improve profitability.\n\nThis tells us something important about where the program places volatility.\n\nInsurers expand when benchmarks, risk adjustment, star ratings, and utilization produce attractive economics. When those economics deteriorate, they reduce benefits, narrow networks, close plans, or leave markets.\n\nThat may make financial sense for the insurer. It creates real disruption for everyone else.\n\nA senior must select new coverage, identify which physicians remain in-network, compare drug formularies, and start over with a new set of benefits.\n\nThe physician’s office must verify the coverage, learn another authorization system, resolve interrupted treatment, renegotiate contracts, and clean up denied claims.\n\nMedicare Advantage promises coordinated care. Coordination requires stability.\n\nA plan that disappears whenever its margin disappoints never absorbs the full cost of its own exit. It distributes that cost across seniors, families, physicians, pharmacies, and the rest of the delivery system.",
+   "lang": "en",
+   "createdAt": "2026-08-21T16:29:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1998228840351739904",
+    "username": "TheRojasReport",
+    "name": "The Rojas Report",
+    "url": "https://x.com/TheRojasReport",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2073415391951433728/qRDiBCGQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 12,
+    "quotes": 4,
+    "likes": 48,
+    "bookmarks": 10,
+    "views": 3587
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2016171843850309937",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2016171843850309937",
+   "url": "https://x.com/WallStreetApes/status/2016171843850309937",
+   "conversationId": "2016171843850309937",
+   "text": "House Compressional Hearing on US Health Insurance Companies\n\nRep Greg Murphy, MD says Health Insurance Companies have destroyed the healthcare industry and have made an entire industry around denying care for profit\n\n“I have been a physician for 35 years and sadly have had a front seat to witness the decay and decline of one of America's largest industries and that's the health insurance industry. \n\nI have had patients cry in my room, have had physicians cry to me, throw up their hands in disgust and quit because of actions of our health insurance industry.\n\nNothing you're going to say to me today is going to change that. You have put profits above patients and you put profits above those who care for patients. You're sitting here blaming hospitals, pharmaceutical companies, even physicians. There is blame to go away, to go around there. But you have squarely abused your privilege of authority”\n\n“There has been systematic denial and delay of care. It took me eight denials myself to get a medicine that I need to exist”\n\n“There's been a weaponization of prior authorization. You are killing people who are trying to get deliver healthcare. There's been abuse with the Medicare Advantage plans. My God, I could talk about that for hours. Deceiving and extorting taxpayer dollars”\n\n“There had been record profits. I don't want to hear about the fact you're not taking profits. We know how money gets moved around in these companies. The C-suite executive salary compensations is a slap in the face to the average American who goes bankrupt because they cannot afford health care.”\n\n“You've manipulated medical cost ratios by the way that you pay physicians and the way that you hide money through your PBMs. The vertical integration. You guys own PBMs. You own pharmacies. You own health agencies, physician groups. Good God, you own a bank.”\n\n“If I had my way, I'd turn all of you guys into dust. We'd start back from scratch. We'd have competition in the industry. We'd have associated health plans. And we would have nonprofit hospitals rather than profit being put over patients. Sadly enough, I'm not naive enough to believe that anything that's been said today is going to change boardroom behavior. I don't think it will happen. The bottom line is profit”",
+   "lang": "en",
+   "createdAt": "2026-01-27T15:30:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 379,
+    "retweets": 3202,
+    "quotes": 181,
+    "likes": 8412,
+    "bookmarks": 1012,
+    "views": 138996
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2016076958430601216",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2016076958430601216/vid/avc1/1140x588/yATphqACtpEnyi_E.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2016076958430601216/img/WF-tpfMey4jNt7zS.jpg",
+     "width": 1140,
+     "height": 588,
+     "altText": null,
+     "durationSeconds": 350
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1988945911049814521",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1988945911049814521",
+   "url": "https://x.com/JahangirAsgha10/status/1988945911049814521",
+   "conversationId": "1988945911049814521",
+   "text": "For all of the we’re trying crew….\n\nHere’s What CMS and the Executive Branch Could Do Tomorrow Without Congress\n\na concrete list of actions CMS and HHS can take under existing authority. No bills. No committees. No “we tried.” These are decisions — and they’re all sitting on some bought off administrators desk.\n\n1. Expand site-neutral payments.\nStop paying hospital-owned clinics more for the same service. It’s the single biggest driver of consolidation, and CMS can fix it with a pen.\n\n2. Restrict anti-competitive physician non-competes.\nCMS can condition Medicare/MA participation on fair employment terms instead of letting systems trap physicians and patients inside corporate fences.\n\n3. Rein in prior authorization abuse.\nGold-carding, real timelines, specialty-matched reviewers, penalties for bad-faith denials — all possible now, without Congress.\n\n4. Force Medicare Advantage transparency.\nPublish denial rates, appeals, overturns, steering patterns, and utilization rules. MA has gotten away with too much because no one forces sunlight.\n\n5. Fix Stark enforcement so it stops crushing small practices.\nClarify exceptions, stop weaponizing technical violations, and rewrite guidance that only massive systems can navigate.\n\n6. Update practice-expense RVUs to reflect reality.\nCMS controls RVU inputs. Adjusting them to match real private-practice overhead would stabilize half the physician economy.\n\n7. Expand ASC and office-based procedure lists.\nMore spine, ortho, neuro, pain. Safer, cheaper, faster access. No legislative barrier.\n\n8. Reform the audit and recoupment circus.\nEnd extrapolated audits below defined thresholds. Require specialist reviewers. Fix recoupment timelines so small practices aren’t bankrupted by process.\n\n9. Reduce the MIPS/MACRA administrative tax.\nSimplify measures. Cut redundant documentation. Expand exemptions. CMS can do all of this with rulemaking.\n\n10. Strengthen MA network adequacy.\nStop allowing MA plans to wall off independent physicians. Enforce real access standards and real specialist availability.\n\n11. Expand telehealth flexibilities.\nFix originating-site rules, clean up supervision requirements, modernize modalities — low-hanging fruit.\n\n12. Clean up enrollment and revalidation.\nPECOS, site visits, and redundant documentation are pure administrative friction. CMS created these headaches; CMS can remove them.\n\n13. Create physician-led models through CMMI (I hate CMMI, but if we’re going to spend money on it, this is the one good use of it.)\nIndependent specialist bundles, physician-led ACOs, and competition-friendly payment models are all within CMMI’s administrative authority.\n\n14. Tackle corporate vertical integration that hides behind federal rules.\nCMS can audit “steering,” offloading, and self-preferencing inside vertically integrated systems. They simply choose not to.\n\n15. Enforce competitive fairness as a condition of Medicare participation.\nCMS could take a harder stance on anti-competitive contracting, referral capture, and network manipulation — today.",
+   "lang": "en",
+   "createdAt": "2025-11-13T12:23:52.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 16,
+    "retweets": 31,
+    "quotes": 14,
+    "likes": 93,
+    "bookmarks": 31,
+    "views": 7855
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1988944955851604251",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1988944955851604251",
+   "url": "https://x.com/JahangirAsgha10/status/1988944955851604251",
+   "conversationId": "1988944955851604251",
+   "text": "Despite what you’re told about healthcare, a lot of the changes that would actually improve physician standing, improve access, and strengthen independent practices don’t require a single act of Congress. \n\nPeople keep pretending that everything hinges on some giant bipartisan bill. It doesn’t. Yes, unwinding the ACA and fixing the statutory mess is a legislative priority, and yes, there are structural problems only Congress can solve. \n\nBut the day-to-day realities that crush private practice — the regulatory burdens, the anti-competitive advantages given to hospitals, the games Medicare Advantage plays, the audits, the prior authorization hurdles, the facility-fee distortions, the non-competes — those are almost entirely executive-branch problems. They can be fixed tomorrow.\n\nThat’s my frustration with both parties. We keep hearing, “Well, we need legislation.” No, you don’t. Stop lying. Stop using Congress as the excuse for why nothing changes. \n\nThere are dozens of meaningful, practical actions CMS and HHS can take right now under existing authority. And these aren’t minor tweaks. They directly affect whether independent physicians survive. They directly affect whether patients can actually see a doctor without waiting months. They directly affect whether every year gets harder and more expensive for small practices to operate.\n\nPeople think improving physician standing is only about raising reimbursement. It’s not. In private practice, costs matter just as much — regulatory overhead, compliance burden, administrative requirements, audits, prior auth, MA games, Stark ambiguity, enrollment hassle, and the facility-fee bias. Every year I’m paid less. Every year my costs go up. Every year the regulatory demands multiply. If CMS and the Executive Branch simply cut the regulatory weight they themselves created, that alone would be a major win. But they don’t.\n\nSo when Republicans or Democrats or anyone in any party says, “We’ve tried,” my response is simple: no, you haven’t. You haven’t even scratched the surface of what you could do without Congress. There is a long list of actions that could materially improve life for physicians and patients tomorrow. And none of them require a 2,000-page bill. They require a decision.",
+   "lang": "en",
+   "createdAt": "2025-11-13T12:20:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 23,
+    "retweets": 56,
+    "quotes": 7,
+    "likes": 143,
+    "bookmarks": 30,
+    "views": 5615
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1893362779085582560",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1893362779085582560",
+   "url": "https://x.com/KassandraKuehl/status/1893362779085582560",
+   "conversationId": "1893362779085582560",
+   "text": "The FAUCET has opened.\nAs a MN resident with MANY clients that work for Optum, UHG, UHC (all many med. device companies)....\n\nWe know there's much to be divested here. This will take time, but with 3 leading stories in one week - If I held stock.  ....well, ya know.\n\n1. Miss Potter: Halting mid-surgery for a claim denial? Talk about medical errors.\n\n2. AI Lawsuit\nUnitedHealth Group (UHG) to proceed, alleging that its insurance unit, UnitedHealthCare (UHC), used AI tools to wrongfully deny Medicare Advantage claims for medically necessary care.\n\nUHC's AI tool, nH Predict AI Model, is used to deny post-acute care coverage, contradicting their insurance agreements that stated decisions would be made by clinical staff and physicians.\n\n3. Court: UnitedHealth Must Answer for AI-Based Claim Denials https://www.bankinfosecurity.com/court-unitedhealth-must-answer-for-ai-based-claim-denials-a-27534\n\n#RFK has his work cut out for him.",
+   "lang": "en",
+   "createdAt": "2025-02-22T18:10:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1409172272871575556",
+    "username": "KassandraKuehl",
+    "name": "𝐊𝐀𝐒𝐒𝐀𝐍𝐃𝐑𝐀",
+    "url": "https://x.com/KassandraKuehl",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1961442769945169920/7u7vy24e_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 100
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "RFK"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.bankinfosecurity.com/court-unitedhealth-must-answer-for-ai-based-claim-denials-a-27534"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1745896741075898727",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1745896741075898727",
+   "url": "https://x.com/JoanneLoethenMD/status/1745896741075898727",
+   "conversationId": "1745896741075898727",
+   "text": "“Prior authorization is overused, costly, inefficient, opaque and responsible for patient care delays and denials that often lead to poor health care outcomes. @AmerMedicalAssn consistently urges Congress to restrict its use in Medicare Advantage. \nPanel support of prior auth reform a victory for patients, physicians. https://www.ama-assn.org/press-center/press-releases/panel-support-prior-auth-reform-victory-patients-physicians?utm_medium=Social_AMA&utm_campaign=amaone_shared_articles&utm_source=twitter",
+   "lang": "en",
+   "createdAt": "2024-01-12T19:53:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "508234407",
+    "username": "JoanneLoethenMD",
+    "name": "Joanne Loethen, MD",
+    "url": "https://x.com/JoanneLoethenMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1849403132960182272/ooK7QlPt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 226
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     }
+    ],
+    "urls": [
+     "https://www.ama-assn.org/press-center/press-releases/panel-support-prior-auth-reform-victory-patients-physicians?utm_medium=Social_AMA&utm_campaign=amaone_shared_articles&utm_source=twitter"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089382134343405642",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2089382134343405642",
+   "url": "https://x.com/neurosurgery/status/2089382134343405642",
+   "conversationId": "2089382134343405642",
+   "text": "🚨 Medicare Advantage insurance companies overturned 81.7% of their own prior authorization denials when #patients and #physicians appealed. That’s even higher than the 75% overturn rate @OIGatHHS found in 2018.\n\nThese are seniors, veterans, and people with disabilities being told NO to care, only for the insurer to later reverse its decision.\n\nTo be clear, not every prior auth request should be approved. But when that many denials are reversed on appeal, we need to understand why and fix the failure modes that force patients and physicians to navigate mind-numbing, exhausting, expensive, and unnecessary bureaucracy to obtain medically necessary care. \n\nThe right application of prior authorization should come down to something simple: Are patients getting the medically necessary care their physicians recommend, when they need it?\n\nBecause an insurer eventually saying “yes” after weeks or months of fighting does not erase the harm caused by saying “no” in the first place. \n\nFor those of you who follow us, tell Congress to bring the Improving Seniors' Timely Access to Care Act (HR 3514) to the floor next month. It moves us meaningfully in the right direction by increasing accountability, strengthening oversight, and addressing some of #priorauth's worst failure modes. #FixPriorAuth\n\n@regrelief @SpecialtyDocs @AANSNeuro @CNS_Update @councilsns @spinesection @CMSGov  @NSTumorSection @painsection",
+   "lang": "en",
+   "createdAt": "2026-08-17T16:01:34.000Z",
+   "type": "quote",
+   "author": {
+    "id": "461301890",
+    "username": "neurosurgery",
+    "name": "Neurosurgery",
+    "url": "https://x.com/neurosurgery",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2052425675215101954/i56cXFkQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 2042
+   },
+   "replyTo": null,
+   "quotedTweetId": "2088301375746687380",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "patients",
+     "physicians",
+     "priorauth",
+     "FixPriorAuth"
+    ],
+    "mentions": [
+     {
+      "id": "291759889",
+      "username": "OIGatHHS",
+      "name": "OIG at HHS"
+     },
+     {
+      "id": "1135922375017533445",
+      "username": "regrelief",
+      "name": "Regulatory Relief Coalition"
+     },
+     {
+      "id": "23117477",
+      "username": "SpecialtyDocs",
+      "name": "Specialty Docs"
+     },
+     {
+      "id": "348471949",
+      "username": "AANSNeuro",
+      "name": "AANS"
+     },
+     {
+      "id": "123659292",
+      "username": "CNS_Update",
+      "name": "CNS"
+     },
+     {
+      "id": "326560055",
+      "username": "councilsns",
+      "name": "CSNS"
+     },
+     {
+      "id": "262232159",
+      "username": "spinesection",
+      "name": "AANS/CNS Spine Section"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "820343541255782400",
+      "username": "NSTumorSection",
+      "name": "NS Tumor Section"
+     },
+     {
+      "id": "1114256950739591174",
+      "username": "painsection",
+      "name": "AANS/CNS Joint Section on Pain"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102066422763381243",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102066422763381243",
+   "url": "https://x.com/AxionNeuro/status/2102066422763381243",
+   "conversationId": "2102066422763381243",
+   "text": "UHC drops prior auth on 1,700 codes Oct. 1. About 120 reach Medicare Advantage. Lee Health is leaving anyway. The Florida fine print:\n\nhttps://floridadoctormagazine.com/unitedhealthcare-prior-authorization-cut-october-2026-florida-physicians/\n\nCreated with AI assistance. https://x.com/AxionNeuro/status/2102066422763381243/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-21T16:04:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "9880292",
+    "username": "AxionNeuro",
+    "name": "Sean Orr, M.D.",
+    "url": "https://x.com/AxionNeuro",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2039193891166109696/3CRDhrY5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 60
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102066420393672704",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSwKRanXgAAhFOu.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSwKRanXgAAhFOu.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://floridadoctormagazine.com/unitedhealthcare-prior-authorization-cut-october-2026-florida-physicians/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2046564004521296031",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2046564004521296031",
+   "url": "https://x.com/DrBruggeman/status/2046564004521296031",
+   "conversationId": "2046564004521296031",
+   "text": "Continuing this week's focus on prior authorization in Medicare Advantage, today I want to look at what the data actually shows about the burden on independent physician practices.\n\nThe Medical Group Management Association's Regulatory Burden Report found that 97% of providers have experienced delays or denials for medically necessary care due to prior authorization requirements. For independent practices, this burden is not absorbed by a large administrative infrastructure. It falls on physicians, nurses, and front office staff who are already stretched thin.\n\nPhysicians in independent practice describe a cyclical pattern of denial. The same treatment plans are challenged repeatedly. Peer-to-peer reviews consume clinical time without consistent outcomes and typically without a real peer. Standards vary from insurer to insurer and even plan to plan within the same insurer frustrating physicians trying to navigate the gauntlet of varied protocols.\n\nAgainst that backdrop, the health insurance industry announced a voluntary commitment earlier this year to reduce prior authorization volume by 11% in 2026, benchmarked against 2024 claim volume. That is the same period in which Medicare Advantage denial rates had increased 56%! \n\nThe American Medical Group Association, which represents 400 medical groups, called it \"barely scratching the surface\" and noted that the reduction does not apply to prescription drug prior authorizations at all, which many physicians identify as their most significant daily burden.\n\nOne retinal specialist was direct about what meaningful reform requires: if insurers want credit for change, they need to be transparent enough for independent verification. Voluntary pledges with aggregate numbers that cannot be audited at the CPT code level are not accountability.\n\nIndependent practices cannot sustain this. The administrative cost is real, and it ultimately comes at the expense of patient care.",
+   "lang": "en",
+   "createdAt": "2026-04-21T12:17:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 293
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2046563998972235776",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGbbHSjX0AAjAkv.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HGbbHSjX0AAjAkv.jpg",
+     "width": 2048,
+     "height": 2018,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1658172927143993372",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1658172927143993372",
+   "url": "https://x.com/KFF/status/1658172927143993372",
+   "conversationId": "1658172927143993372",
+   "text": "Medicare Advantage plans denied 2 million prior authorization requests for health care services in 2021, or 6%. Virtually all #MedicareAdvantage enrollees are in a plan that requires #priorauth for some services. We examine how it works in practice. https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021 https://x.com/KFF/status/1658172927143993372/photo/1",
+   "lang": "en",
+   "createdAt": "2023-05-15T18:10:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "84614572",
+    "username": "KFF",
+    "name": "KFF",
+    "url": "https://x.com/KFF",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1645808399186300930/jXp7S7dL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 8,
+    "bookmarks": 2,
+    "views": 4455
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1658172906210316288",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FwMDeQrX0AArRo-.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FwMDeQrX0AArRo-.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage",
+     "priorauth"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1782527667675304095",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1782527667675304095",
+   "url": "https://x.com/PNHP/status/1782527667675304095",
+   "conversationId": "1782527667675304095",
+   "text": "“Medicare Advantage plans mislead patients and physicians into believing that they are giving top-notch care for the price, when in actuality, care is subverted due to denials, delays, and high out-of-pocket costs, forcing patients sometimes to pay the ultimate price.” https://x.com/PNHP/status/1782527667675304095/photo/1",
+   "lang": "en",
+   "createdAt": "2024-04-22T21:51:28.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48081662",
+    "username": "PNHP",
+    "name": "Physicians for a National Health Program",
+    "url": "https://x.com/PNHP",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1095030906425958400/Y4Bn347k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 24,
+    "quotes": 2,
+    "likes": 37,
+    "bookmarks": 0,
+    "views": 1242
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1782527491791265792",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GLzPTz6WIAAmVZg.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GLzPTz6WIAAmVZg.jpg",
+     "width": 1170,
+     "height": 793,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1728414630794420393",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1728414630794420393",
+   "url": "https://x.com/CRCook1978/status/1728414630794420393",
+   "conversationId": "1728414630794420393",
+   "text": "Surging enrollments in @AHIPCoverage's Member Medicare Advantage plans due to “Cheaper Premiums” contrast starkly with increasing care denials & delays. Over 30 million #seniors &  @aarp members face #priorauth hurdles, often leading to 94% of necessary treatments being delayed & many patients abandoning care. #healthplan tactics, while claiming to curb costs, are causing harm: 33% of physicians report serious adverse events due to PriorAuth including hospitalization & life-threatening situations. There is Bipartisan anger, but immediate action is needed to protect our families including parents, & grandparents from these #healthinsurance driven predatory practices. #FIXPRIORAUTH #ENDPRIORAUTH for timely, deserved healthcare access.\" https://www.politico.com/news/2023/11/24/medicare-advantage-plans-congress-00128353 #medtwitter @ASALifeline @ASAGrassroots @texmed @AmerMedicalAssn @A4Horg @Free2CareHC @RogerMarshallMD @TSAPhysicians",
+   "lang": "en",
+   "createdAt": "2023-11-25T14:05:35.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 18,
+    "quotes": 2,
+    "likes": 22,
+    "bookmarks": 1,
+    "views": 5016
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "seniors",
+     "priorauth",
+     "healthplan",
+     "healthinsurance",
+     "FIXPRIORAUTH",
+     "ENDPRIORAUTH",
+     "medtwitter"
+    ],
+    "mentions": [
+     {
+      "id": "22797378",
+      "username": "AHIPCoverage",
+      "name": "AHIP"
+     },
+     {
+      "id": "80628196",
+      "username": "aarp",
+      "name": "AARP"
+     },
+     {
+      "id": "27682840",
+      "username": "ASALifeline",
+      "name": "ASA®"
+     },
+     {
+      "id": "37000133",
+      "username": "ASAGrassroots",
+      "name": "ASAGrassrootsNetwork"
+     },
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     },
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "1224894126346383360",
+      "username": "A4Horg",
+      "name": "Action for Health"
+     },
+     {
+      "id": "1077707749893554176",
+      "username": "Free2CareHC",
+      "name": "Free2Care"
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "2794740865",
+      "username": "TSAPhysicians",
+      "name": "TSAPhysicians"
+     }
+    ],
+    "urls": [
+     "https://www.politico.com/news/2023/11/24/medicare-advantage-plans-congress-00128353"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082445183023558854",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2082445183023558854",
+   "url": "https://x.com/DrBruggeman/status/2082445183023558854",
+   "conversationId": "2082445183023558854",
+   "text": "On July 6, WISeR's gold-carding exemption went live. To qualify, a physician needs at least 10 prior authorization submissions and a 90 percent affirmation rate during the assessment period. Physicians who clear that bar are exempted entirely from prior authorization and pre-payment review on WISeR-covered services for a defined period, subject to periodic re-evaluation. Cohere Health, the model participant for Texas, has told the Texas Medical Association that gold-carded claims will be automatically identified and pushed through without manual review.\n\nGold carding has been a physician ask for years, and until now it has existed mainly at the state level. Texas passed its own gold-card law for state-regulated plans in 2021 and amended it in 2025. No Medicare Advantage plan has built a comparable federal exemption pathway for physicians with strong track records. WISeR did it in just six months.\n\nThe early data is not clean. Reporting on Texas found initial prior authorization approval rates running around 62 percent, rising to 84 percent after peer-to-peer review, lower than approval rates typically reported in Medicare Advantage, though those figures reflect a single state in a limited early window. There have been real technical problems with contractor portals, and the Electronic Frontier Foundation has an open Freedom of Information Act lawsuit against CMS seeking more detail on the AI tools model participants use. Those are legitimate accountability questions that CMS will need to answer in full.\n\nThat being said, the honest comparison is not WISeR against a perfect system. It is WISeR against the Medicare Advantage prior authorization physicians already live with, where initial denials are overturned on appeal at strikingly high rates, contractors carry no gold-card obligation at all, and physicians frequently cannot get a real peer-to-peer review with a same-specialty clinician. Measured against that baseline, WISeR's early numbers are a starting point for improvement, not a reason to scrap a model that is structurally built better than the alternative.",
+   "lang": "en",
+   "createdAt": "2026-07-29T12:36:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 2,
+    "views": 1021
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2082445179169001472",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOZU23CX0AAnvBp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HOZU23CX0AAnvBp.jpg",
+     "width": 2048,
+     "height": 1356,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1864361010267865380",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1864361010267865380",
+   "url": "https://x.com/YourAnonCentral/status/1864361010267865380",
+   "conversationId": "1864361010267865380",
+   "text": "UnitedHealthcare CEO Brian Thompson was assassinated in  in New York before an investors meeting. Stocks increased after the killing and online users created flurry of jokes. UnitedHealthcare was hacked earlier this year and was embroiled in a DOJ anti-trust investigation. \n\nA class action lawsuit was filed against UnitedHealth Group and its subsidiary NaviHealth in 2023, that they illegally use a flawed algorithm to deny rehabilitation care for seriously ill Medicare Advantage patients. Filed by the Clarkson Law Firm on behalf of deceased patients and their families, the lawsuit follows a STAT investigation revealing that UnitedHealth pressured employees to adhere to an algorithm predicting patient stay durations to issue payment denials. Managers reportedly set goals to limit patient stays within 1% of the algorithm's projections.\n\nThe lawsuit, filed in the U.S. District Court of Minnesota, said UnitedHealth of systematically denying care to Medicare beneficiaries recovering from severe illnesses in nursing homes, prioritizing financial gain over patient care. It claims that this practice forces elderly patients to either leave facilities prematurely or deplete family savings to continue treatment. The complaint argues that the algorithm's decisions often contradict medical professionals' recommendations, compromising patient well-being for profit.",
+   "lang": "en",
+   "createdAt": "2024-12-04T17:27:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "373157754",
+    "username": "YourAnonCentral",
+    "name": "Anonymous",
+    "url": "https://x.com/YourAnonCentral",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1803298315444035588/EfL53U4__normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 71,
+    "retweets": 492,
+    "quotes": 43,
+    "likes": 1222,
+    "bookmarks": 144,
+    "views": 81714
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1864357166104358912",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gd-G9vwasAAl7Fa.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gd-G9vwasAAl7Fa.png",
+     "width": 757,
+     "height": 594,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1864357228482056194",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gd-HBYIa0AIm9ZF.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gd-HBYIa0AIm9ZF.png",
+     "width": 751,
+     "height": 690,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1864359295833526278",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gd-I5tna0AYM6Lp.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gd-I5tna0AYM6Lp.png",
+     "width": 794,
+     "height": 734,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2047396209690612094",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2047396209690612094",
+   "url": "https://x.com/DrBruggeman/status/2047396209690612094",
+   "conversationId": "2047396209690612094",
+   "text": "Today I want to focus on the human side of the prior authorization data we have been discussing this week.\n\nOn February 11, 2026, the Senate Special Committee on Aging convened a hearing titled \"The Doctor is Out: How Washington's Rules Drove Physicians Out of Medicine.\" Prior authorization was a central topic. Members of both parties and every witness who testified agreed that administrative burden, with prior authorization at the top of the list, is a primary driver of physician burnout and a direct threat to the quality of patient care.\n\nThe underlying data supports that conclusion. 89% of physicians report that prior authorization often or sometimes leads to delays in patient care. More than one in four physicians say that a prior authorization issue led to a serious adverse event for a patient in their care, including hospitalization or permanent damage. A federal investigation by the Department of Health and Human Services found that 13% of Medicare Advantage prior authorization denials were for requests that actually met Medicare's own coverage criteria.\n\nFor independent practices, this is not an abstract policy problem. These are physicians who have treated the same patients for years, sometimes for decades. When a prior authorization delay holds up a cancer treatment, a surgical procedure, or a skilled nursing placement, the physician on the other end of that denial knows exactly what it means for that specific patient. The peer-to-peer review that follows takes that physician out of the exam room, away from other patients, to argue for care that should not require an argument.\n\nEvery hour spent on prior authorization administration is an hour that does not go to patient care. Every denial that goes unchallenged because a small practice cannot absorb another round of appeals represents a patient who received less care than they were entitled to.\n\nTomorrow I will outline the specific legislative steps that can address this. The February Senate hearing demonstrated genuine bipartisan interest in reform. The policy solutions exist. What has been missing is the will to move them forward.",
+   "lang": "en",
+   "createdAt": "2026-04-23T19:24:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 276
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2047396205936705537",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGnQAHFXAAEMZKO.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HGnQAHFXAAEMZKO.jpg",
+     "width": 1292,
+     "height": 1231,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1666855201439924224",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1666855201439924224",
+   "url": "https://x.com/KFF/status/1666855201439924224",
+   "conversationId": "1666855201439924224",
+   "text": "Medicare Advantage plans denied 2 million prior authorization requests for health care services in 2021, or 6%. Virtually all #MedicareAdvantage enrollees are in a plan that requires #priorauth for some services. We examine how it works in practice. https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021 https://x.com/KFF/status/1666855201439924224/photo/1",
+   "lang": "en",
+   "createdAt": "2023-06-08T17:10:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "84614572",
+    "username": "KFF",
+    "name": "KFF",
+    "url": "https://x.com/KFF",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1645808399186300930/jXp7S7dL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 1780
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1666855191335903232",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FyHb9xOXoAACiA2.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FyHb9xOXoAACiA2.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage",
+     "priorauth"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2044517429510853066",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2044517429510853066",
+   "url": "https://x.com/neurosurgery/status/2044517429510853066",
+   "conversationId": "2044517429510853066",
+   "text": "ICYMI: @MGMA data confirms what physicians and practices have been saying all along — the administrative burden is still growing.\n\n📈 95% say burden has increased\n🧾 Medicare Advantage remains the leading source, driven by prior auth, denials, and downcoding\n⚠️ 77% say it is contributing to physician burnout\n\nThis is exactly why voluntary industry pledges are not enough... @HHSGov should try enforceable standards.▶️ \n\n🔗 Read the full report: https://bit.ly/4vpmKfS\n\n#FixPriorAuth #MedicareAdvantage #HealthPolicy #PhysicianBurnout @regrelief",
+   "lang": "en",
+   "createdAt": "2026-04-15T20:45:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "461301890",
+    "username": "neurosurgery",
+    "name": "Neurosurgery",
+    "url": "https://x.com/neurosurgery",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2052425675215101954/i56cXFkQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 526
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "FixPriorAuth",
+     "MedicareAdvantage",
+     "HealthPolicy",
+     "PhysicianBurnout"
+    ],
+    "mentions": [
+     {
+      "id": "25081344",
+      "username": "MGMA",
+      "name": "Medical Group Management Association"
+     },
+     {
+      "id": "44783853",
+      "username": "HHSGov",
+      "name": "HHS"
+     },
+     {
+      "id": "1135922375017533445",
+      "username": "regrelief",
+      "name": "Regulatory Relief Coalition"
+     }
+    ],
+    "urls": [
+     "https://bit.ly/4vpmKfS"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1623426512534872065",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1623426512534872065",
+   "url": "https://x.com/KFF/status/1623426512534872065",
+   "conversationId": "1623426512534872065",
+   "text": "Medicare Advantage plans denied 2 million prior authorization requests for health care services in 2021, or 6%. Virtually all #MedicareAdvantage enrollees are in a plan that requires #priorauth for some services. We examine how it works in practice. https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021 https://x.com/KFF/status/1623426512534872065/photo/1",
+   "lang": "en",
+   "createdAt": "2023-02-08T21:00:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "84614572",
+    "username": "KFF",
+    "name": "KFF",
+    "url": "https://x.com/KFF",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1645808399186300930/jXp7S7dL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 1327
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1623426491512942596",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FoeRyvGWcAQXTgb.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FoeRyvGWcAQXTgb.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage",
+     "priorauth"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2000183053457519071",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2000183053457519071",
+   "url": "https://x.com/JahangirAsgha10/status/2000183053457519071",
+   "conversationId": "2000183053457519071",
+   "text": "Just a reminder…\nWhile everyone waits on Congress, a hard truth keeps being ignored. \n\nMuch of what is broken in U.S. healthcare persists because CMS and HHS refuse to fully use the authority they already have. \n\nThese are not legislative fantasies. \n\nThey are administrative decisions that can be implemented through rulemaking, contracting, and enforcement. Where statute limits action, CMS should say so plainly instead of hiding behind inertia.\n\nFirst, expand site-neutral payments wherever statutory flexibility exists. CMS can continue narrowing unjustified payment differentials between hospital-owned clinics and independent practices. Full site-neutrality may require Congress, but meaningful progress does not.\n\nSecond, address physician non-competes through Medicare participation and access standards where legally defensible. CMS cannot rewrite state contract law, but it can stop tolerating employment practices that restrict patient choice and physician mobility.\n\nThird, rein in prior authorization abuse in Medicare Advantage. CMS already regulates MA operations and can enforce real timelines, specialty-matched reviewers, and consequences for bad-faith denials. Weak enforcement is a choice.\n\nFourth, restore and expand Medicare Advantage transparency. CMS has authority to require reporting of denial rates, appeals, overturns, utilization controls, and steering behavior. Pausing transparency reflects policy preference, not lack of power.\n\nFifth, modernize Stark enforcement. Stark is statutory, but CMS controls guidance and enforcement posture. Technical foot-faults should not function as a consolidation weapon that only large systems can survive.\n\nSixth, update practice-expense RVUs to reflect real private-practice overhead. Budget neutrality constrains totals, but CMS controls methodology and can stop systematically disadvantaging independent practices.\n\nSeventh, aggressively expand ASC and office-based procedure lists. CMS has clear authority to add procedures through rulemaking. More spine, ortho, neuro, and pain care can safely move out of hospitals with lower cost and better access.\n\nEighth, reform audits and recoupment. CMS controls contractor behavior, extrapolation thresholds, reviewer qualifications, and timelines. Small practices should not be bankrupted by process alone.\n\nNinth, reduce the MIPS and MACRA administrative burden. CMS cannot eliminate MACRA, but it can simplify measures, cut redundant documentation, and broaden exemptions.\n\nTenth, enforce real Medicare Advantage network adequacy. CMS already sets standards and can penalize plans that exclude independent physicians while claiming adequate access.\n\nEleventh, expand telehealth flexibilities where CMS retains authority, including supervision, documentation, coding, and modality rules.\n\nTwelfth, clean up enrollment and revalidation. PECOS dysfunction and redundant site visits are administrative creations that CMS can fix.\n\nThirteenth, prioritize physician-led models through CMMI. Independent bundles and physician-led ACOs are well within CMMI’s authority and would introduce real competition.\n\nFourteenth, expose and penalize steering and self-preferencing inside vertically integrated Medicare Advantage organizations and refer anticompetitive conduct to DOJ and FTC.\n\nFifteenth, enforce competitive fairness through existing Medicare participation standards tied to access, nondiscrimination, and payment integrity.\n\nThis is not about pretending CMS can rewrite statutes overnight. Consolidation, access shortages, and physician attrition were engineered by payment rules, weak enforcement, opaque Medicare Advantage behavior, and an administrative tax that punishes independence. CMS and HHS already control many of those levers. Continued inaction is not bureaucratic. It is deliberate.",
+   "lang": "en",
+   "createdAt": "2025-12-14T12:36:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 4,
+    "quotes": 2,
+    "likes": 30,
+    "bookmarks": 4,
+    "views": 1660
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1950938619524293119",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1950938619524293119",
+   "url": "https://x.com/JamesTate121/status/1950938619524293119",
+   "conversationId": "1950938619524293119",
+   "text": "Republicans are EVIL\n\nSomething underhanded is happening inside Medicare and Medicaid, and no one’s talking about it, but it’s about to change how millions get treated.\nAn oncologist I spoke with recently told me something that stopped me cold. Starting next year, she said, every cancer treatment she prescribes for patients on Medicare Advantage or Medicaid will require prior approval. Not just for experimental therapies or risky procedures—everything. Even the routine. The decisions are no longer hers to make. They’re deferred to remote systems, reviewed by people she’s never met, many of whom may not be physicians at all.\nShe didn’t use the term, but what she described sounded eerily close to what critics once called death panels. It’s probably too strong a phrase. Still, it captures something about the shift underway: the way life-preserving care is now filtered through layers of authorization, delay, and denial. None of it is accountable to the patient.\nWe’ve been told that privatizing Medicare would lead to innovation, flexibility, and smarter use of resources. It’s a story that’s been repeated long enough to sound like common sense. But for patients navigating serious illness, especially those living on fixed incomes, the promises vanish the moment treatment is needed. Beginning January 1, 2026, a new set of policies will require physicians treating cancer patients under Medicare Advantage and Medicaid managed care to submit for prior approval before delivering care that used to be routine. These changes aren’t theoretical—they’re already being implemented and modeled in anticipation.\nWhat was once a matter of clinical judgment between doctor and patient is being rerouted through an administrative gauntlet. Treatment plans will be paused while paperwork moves through opaque systems. Approvals that used to be immediate will be delayed. Appeals may stretch out over days or weeks. This isn’t about rare procedures or experimental therapies. The requirements will extend to standard care. The review won’t be performed by someone with direct knowledge of the patient—or necessarily by a physician at all. The rationale won’t be medical. It will be financial.\nDelay isn’t a side effect. It’s the strategy. Every treatment deferred, every procedure denied, becomes a line of surplus in a system where profit is made not by healing, but by avoiding the cost of it. The fewer approvals processed, the more money retained. These are not decisions shaped by care. They are decisions shaped by silence—by hesitation, by distance, by the absence of resistance.\nThis is how rationing works in a privatized state. Not through force. Through systems. Through thresholds that move. Through policies that sound reasonable until you need them to respond. And when they don’t, there’s no one to appeal to. The system isn’t broken. It’s sealed.\nFor those enrolled in Medicare Advantage—plans marketed as more efficient, more integrated, more modern—this is the tradeoff. Lower up-front costs come at the price of discretion. You may no longer be free to act on your doctor’s recommendation without additional steps. Those steps aren’t about safety. They’re about managing expenditures in a system that rewards denial.\nThis isn’t just a bureaucratic failure. It’s the cultural reengineering of care. What was once an ethic of shared protection has been repackaged as managed risk. The patient becomes a cost center. Illness becomes a data point. Survival is now negotiated—case by case, code by code.\nThe consequences are not evenly distributed. They follow the same lines they always have—income, geography, race, insurance class. What presents as efficiency is more often a gatekeeping device. Those already on the margins are the first to wait. The last to be approved. The easiest to disappear into the backlog.\nThis is power not in its spectacular form, but in its administrative mode—the kind that decides who waits and who moves forward, who receives care as a right and who receives it as a favor. It governs not by issuing decrees, but by deciding which lives can afford to be delayed. This is how life is managed, and death is administered—not by violence, but by withdrawal.\nFrom a political ecology perspective, this is a system designed to manage vulnerability, not by addressing it, but by distributing it. It governs not through direct care, but through selective abandonment, allocating life chances through a logic of scarcity. What gets called efficiency is often just rationing by another name.\nFrom an anthropological perspective, these systems don’t impose power from above. They embed it in routine. They normalize it through repetition. Waiting, in this context, becomes a tool of governance—an ordinary mechanism for deciding who can afford to endure delay and who cannot. It is a slow, administrative form of violence, harder to detect than force, but no less consequential.\nSome argue these policies are necessary to contain costs in an aging society. But cost containment isn’t neutral. It always lands hardest on those with the least time and the fewest resources. While administrators speak of oversight and sustainability, patients are left to wait. Sometimes too long.\nThis wasn’t the promise of Medicare. It was supposed to be a bulwark—a collective safeguard against the precarity of aging and illness. Medicare Advantage has reframed that promise through market logic. What began as a public good is now filtered through private incentives. What was once a guarantee is now a margin call.\nThese aren’t simply budget decisions. They’re life decisions, managed through process. A quiet calculus unfolds in the background—who gets to live well, and who can be left to linger in the queue.\nThis is what happens when governance is reorganized around cost rather than care—when what we call reform becomes a mechanism of controlled exposure. The system doesn’t collapse. It tightens. It hardens. It withdraws.\nThis is not a malfunction. It’s the system doing exactly what it was built to do. VIA James Greenberg",
+   "lang": "en",
+   "createdAt": "2025-07-31T15:16:28.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1356786368656138241",
+    "username": "JamesTate121",
+    "name": "James Tate",
+    "url": "https://x.com/JamesTate121",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2102821805035569152/SuFjhv67_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 18,
+    "quotes": 2,
+    "likes": 20,
+    "bookmarks": 4,
+    "views": 980
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1950938609319579649",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GxMgVCMWkAEFAFt.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GxMgVCMWkAEFAFt.jpg",
+     "width": 960,
+     "height": 502,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102182321730498882",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2102182321730498882",
+   "url": "https://x.com/VOXofSU/status/2102182321730498882",
+   "conversationId": "2102182321730498882",
+   "text": "I can’t emphasize this enough…\n\nIf you go to the doctors for anything…\n\nGet a print out of the record, that day, for your visit. \n\nIf you have an elderly family member, make sure they have a healthcare advocate.\n\nThere have been documented cases involving retroactively added diagnoses, backdated notes, altered charts, and records created after the fact. While some may be ordinary late-entry corrections, others have involved billing fraud or attempts to make an existing record support something it did not originally support.\n\nOne recent example is the Kaiser Permanente Medicare Advantage case. The DOJ alleged that Kaiser pressured physicians to add diagnoses retrospectively to patients’ medical records, sometimes more than a year after the original encounter, so those diagnoses could be submitted to Medicare and increase risk-adjusted reimbursement. Kaiser denied wrongdoing, but several Kaiser entities agreed in January 2026 to pay $556 million to settle the False Claims Act allegations. \n\nIn FY2025, Medicare Advantage had an estimated 6.09% improper-payment rate, $23.67 billion, resulted from documentation failing to substantiate submitted diagnoses. \n\nIn a 2025 CMS inspection of a Colorado home-health agency, inspectors reported that after they began reviewing the records, the electronic chart changed. Visit notes had been backdated and changed.\n\nIn the New Jersey disciplinary case involving Dr. Kieran Slevin, regulators compared two versions of patient records and found material alterations. The changes weren’t identified, dated, or initialed. The medical board concluded that this demonstrated an attempt to make the alterations invisible to someone reading the records. \n \nDOJ’s 2024 healthcare-fraud cases also included practitioners accused of fabricating patient files and clinical notes to make nonexistent or medically unsupported services appear legitimate for billing purposes. \n\nHow many people are going to have backdated diagnoses that predate COVID vaccines? \n\nI am in the process of reviewing a family members medical records for this reason…\n\nShe had a vaccine-related injury in 2021 from the flu shot + COVID booster. \n\nShe was told today, she had a diagnosis 6 years ago with something she had never been diagnosed with, and she would have definitely remembered this particular diagnosis. \n\nHad I not been there, she would have tried convincing her otherwise. She tried to backtrack, but the damage was already done. \n\nHer tune changed when she found out I was a scientist that worked clinical research. Unfortunate it had to come to that for her to have a bedside manner. \n\nIf a doctor or nurse practitioner is that rude to their patients, who’s to say if they have scruples with backdating records on a Medicare patient. \n\nI am not saying that is what was done…\nBut I am reviewing and comparing all her records for good reason. \n\nHHS-OIG compared Medicare Advantage practices using 2016 versus 2022 data. Investigators specifically examined diagnoses generated through health-risk assessments and chart reviews, meaning diagnoses extracted or added by reviewing medical records rather than necessarily arising from the patient’s normal treatment encounter.\n\nBy 2022, diagnoses appearing only on health-risk assessments or associated chart reviews, with no corresponding diagnosis on another service record, generated an estimated $7.5 billion in additional Medicare Advantage payments involving 1.7 million people.\n\nOIG explicitly said this raised two possibilities: either some diagnoses were inaccurate and payments improper, or patients weren’t receiving appropriate follow-up care for serious conditions supposedly identified in their records.",
+   "lang": "en",
+   "createdAt": "2026-09-21T23:44:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2072864005505552384",
+    "username": "VOXofSU",
+    "name": "SU",
+    "url": "https://x.com/VOXofSU",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2072864890201821184/P6EY7E5H_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 32,
+    "bookmarks": 2,
+    "views": 909
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100683856131039674",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2100683856131039674",
+   "url": "https://x.com/AtlasMD/status/2100683856131039674",
+   "conversationId": "2100683856131039674",
+   "text": "Walmart is getting back into Medicare Advantage — co-branded plan with SCAN in two states.\n\nPharmacy. Vision. Food. OTC.\nAnd shopping data to “personalize” wellness.\n\nThat’s not a clinic.\nThat’s a funnel.\n\nWhen the aisle sells the plan and the plan steers you back to the aisle, ask the honest question:\nIs this about affordable care — or about moving more product?\n\nSam built everyday low prices.\nMedicare Advantage built everyday prior auth.\n\nDirect care still puts the price on the door — without the loyalty card for your blood pressure meds.\n\nhttps://www.beckershospitalreview.com/finance/walmart-bets-on-medicare-advantage-again-with-co-branded-scan-plan/",
+   "lang": "en",
+   "createdAt": "2026-09-17T20:30:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "13284722",
+    "username": "AtlasMD",
+    "name": "AtlasMD",
+    "url": "https://x.com/AtlasMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/875392966260531200/F4gzvHt3_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 926
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.beckershospitalreview.com/finance/walmart-bets-on-medicare-advantage-again-with-co-branded-scan-plan/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077026256801976472",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2077026256801976472",
+   "url": "https://x.com/DrBruggeman/status/2077026256801976472",
+   "conversationId": "2077026256801976472",
+   "text": "The Inpatient-Only List Is Disappearing, But New Problems Are Appearing\n\nFor decades, Medicare maintained a list of procedures that could only be billed as inpatient hospital admissions known as the Inpatient-Only list or IPO. If an orthopedic surgeon performed a complex spinal fusion or a major joint reconstruction, Medicare required an inpatient stay and paid through the IPPS. That process is ending (again).\n\nIn the CY 2026 OPPS final rule, CMS began a three-year phase-out of the IPO list, removing 285 mostly musculoskeletal procedures on January 1, 2026, including complex spine and orthopedic surgical codes. CMS proposes to remove an additional 637 procedures in 2027, and to complete the elimination by January 1, 2028. CMS frames this as restoring physician clinical judgment about the appropriate setting of care. The reality is that the decision is more nuanced than purely clinical judgment.\n\nRemoval from the inpatient-only list does not automatically place a procedure on the ASC covered procedures list. Those are two distinct lists governed by separate criteria. Some procedures removed from the IPO list were simultaneously added to the ASC covered procedures list in 2026, but that is a separate CMS determination and not automatic. CMS added 547 procedures to the ASC covered procedures list in 2026, but that figure includes procedures moved there by multiple policy pathways. Independent surgeons considering whether IPO removal opens ASC access for a specific procedure need to confirm ASC list eligibility separately.\n\nThe more immediate problem for independent physicians is what happens at the hospital and at the payer. On the hospital side, some systems have begun requiring surgeons to obtain inpatient authorization from the payer before the hospital will book the case. If authorization is denied, which is the expected outcome when a payer treats IPO removal as evidence that inpatient admission is never medically necessary, the case cannot be scheduled until the surgeon fights through an appeals process. That delay is an access problem for patients who need the procedure, and the administrative burden lands entirely on the surgeon and their office.\n\nOn the payer side, insurers and Medicare Advantage plans treat CMS's removal of a procedure from the IPO list as a policy signal that every such case should be performed outpatient. They issue blanket inpatient denials, require physicians and hospitals to seek case-by-case inpatient authorization, and rarely grant it even when the patient's comorbidities, anesthesia risk, or expected recovery course clearly warrant inpatient monitoring. CMS finalized an exemption from Recovery Audit Contractor patient status review for procedures removed from the IPO list, but that exemption does not bind commercial payers or Medicare Advantage plans.\n\nThis is prior authorization by another mechanism. The IPO list gave surgeons a defensible, preauthorized pathway for complex inpatient cases. Its elimination replaces that clarity with a claim-by-claim fight that independent physicians are poorly positioned to win consistently. CMS gave physicians clinical flexibility and handed payers an authorization weapon.",
+   "lang": "en",
+   "createdAt": "2026-07-14T13:43:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 4,
+    "views": 1533
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2077026252293111808",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNMUXzUXgAAcRxV.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNMUXzUXgAAcRxV.jpg",
+     "width": 1370,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089361047811399729",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2089361047811399729",
+   "url": "https://x.com/STzorfas/status/2089361047811399729",
+   "conversationId": "2089361047811399729",
+   "text": "PRIVATE PRACTICE PHYSICIANS:\nDo yourself a favor, do not see Medicare advantage plans. On one EOB a Medicare advantage insurance company denied two codes 99489 and  G2212.  These codes reflect time and effort and additional work that I did that they bundle and won’t pay for. Just see Medicare or a commercial insurer that pays better.  And that’s not the only stuff they bundle and don’t pay for !\n@AIMPA_US @MedEconomics @aao_ophth",
+   "lang": "en",
+   "createdAt": "2026-08-17T14:37:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 16,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 27,
+    "bookmarks": 1,
+    "views": 5395
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1769763958120910848",
+      "username": "AIMPA_US",
+      "name": "American Independent Medical Practice Association"
+     },
+     {
+      "id": "24174295",
+      "username": "MedEconomics",
+      "name": "Medical Economics"
+     },
+     {
+      "id": "26336959",
+      "username": "aao_ophth",
+      "name": "American Academy of Ophthalmology"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2001261487910801877",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2001261487910801877",
+   "url": "https://x.com/JahangirAsgha10/status/2001261487910801877",
+   "conversationId": "2001261487910801877",
+   "text": "@mcuban.\nMedicare Advantage is broken. It is a regulatory arbitrage model built around risk scoring, coding intensity, and denials rather than care delivery. \n\nBut Medicare Part A and B are also failing, just more quietly, because the damage is hidden on the back end rather than at the point of care.\n\n• Medicare physician reimbursement has fallen roughly 25 to 30 percent in inflation adjusted terms since 2001.\n• Cumulative inflation over that period exceeds 75 percent, while the Medicare Physician Fee Schedule has increased less than 15 percent nominally.\n• Practice expenses measured by the Medicare Economic Index have consistently outpaced payment updates, leaving many services paid below cost.\n• Independent practices increasingly limit new Medicare patients, cut service lines, or sell to hospital systems in response to sustained underpayment.\n• Hospital employment of physicians has risen from roughly 25 percent in the early 2000s to over 55 percent today, allowing Medicare losses to be hidden through cross subsidization and facility fees rather than visible access denial.\n• Access erosion under traditional Medicare shows up as longer wait times, fewer participating physicians, and geographic care deserts, not denial letters.\n• Medicaid pays about 70 percent of Medicare on average, and its chronic access problems show the predictable endpoint when payment stays below cost. Medicare is moving in the same direction, just more slowly.\n\nMedicare Advantage fails loudly. Medicare A and B fail quietly. Different mechanics, same destination, unless the payment reality is addressed.",
+   "lang": "en",
+   "createdAt": "2025-12-17T12:01:35.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 182
+   },
+   "replyTo": null,
+   "quotedTweetId": "2000409219695088124",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1583820196313108480",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1583820196313108480",
+   "url": "https://x.com/BythePeople18/status/1583820196313108480",
+   "conversationId": "1583820196313108480",
+   "text": "Mayo Clinic will no longer accept Medicare Advantage plans b/c many plans have denied care, exaggerated the severity of illnesses to get paid more &amp; delayed care with lengthy prior authorization requirements. M.A. is what privatization looks like.\n\nhttps://www.medpagetoday.com/special-reports/exclusives/101320",
+   "lang": "en",
+   "createdAt": "2022-10-22T13:58:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2385660031",
+    "username": "BythePeople18",
+    "name": "BythePeople",
+    "url": "https://x.com/BythePeople18",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2001659013998501888/TrIkgluy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 12,
+    "quotes": 1,
+    "likes": 17,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.medpagetoday.com/special-reports/exclusives/101320"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1846924346687684680",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1846924346687684680",
+   "url": "https://x.com/DrBruggeman/status/1846924346687684680",
+   "conversationId": "1846924346687684680",
+   "text": "New report out of the Senate on Prior Authorization shows that use of prior authorization is significantly up in Medicare Advantage.  \n\nInsurers \"are using prior authorization to protect billions in profits while forcing vulnerable patients into impossible choices,\" the subcommittee's report concluded.\n\n\"This is particularly troubling when recent analyses indicate that Medicare Advantage is more expensive than traditional Medicare,\" the report continued. \"There is a role for the free market to improve the delivery of healthcare to America's seniors, but there is nothing inevitable about the harms done by the current arrangement. Insurers can and must do better, for the sake of the American healthcare system and the patients the government entrusts to them.\"\n\nIn particular for surgeons, the report highlights the difficulty in physicians obtaining inpatient admission for their sickest and most vulnerable patients.  \n\nIn a May 2019 presentation, CVS determined that it had saved more than $660 million the previous year by denying prior authorization requests its Medicare Advantage beneficiaries submitted for inpatient facilities. A majority of these savings came from \"denied admissions.\"\n\nhttps://www.medpagetoday.com/publichealthpolicy/medicare/112434",
+   "lang": "en",
+   "createdAt": "2024-10-17T14:40:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 17,
+    "retweets": 45,
+    "quotes": 6,
+    "likes": 129,
+    "bookmarks": 28,
+    "views": 19800
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.medpagetoday.com/publichealthpolicy/medicare/112434"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1632509816491892746",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1632509816491892746",
+   "url": "https://x.com/aafp/status/1632509816491892746",
+   "conversationId": "1632509816491892746",
+   "text": "The #AAFP’s fight to reform #priorauthorization is getting results. A proposed Medicare Advantage rule would reduce inappropriate care denials while simplifying administrative processes for physicians. https://x.com/aafp/status/1632509816491892746/photo/1",
+   "lang": "en",
+   "createdAt": "2023-03-05T22:34:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "14500190",
+    "username": "aafp",
+    "name": "AAFP",
+    "url": "https://x.com/aafp",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1882448051475828736/xrCNcdbW_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 0,
+    "views": 2703
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1632509795612651521",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FqfXAnvWcAE3hr1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FqfXAnvWcAE3hr1.jpg",
+     "width": 1200,
+     "height": 627,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "AAFP",
+     "priorauthorization"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2011539762738540725",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2011539762738540725",
+   "url": "https://x.com/realdocspeaks/status/2011539762738540725",
+   "conversationId": "2011539762738540725",
+   "text": "The problem with Medicare Advantage is there is a high rate of claims denials.\n\nThen there is the issue of narrow networks.  Often the best hospitals and physicians are not included,\n\nPeople on this platform understand this issue because we work in it.",
+   "lang": "en",
+   "createdAt": "2026-01-14T20:43:46.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 20,
+    "bookmarks": 0,
+    "views": 992
+   },
+   "replyTo": null,
+   "quotedTweetId": "2011274531470778394",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1797308776497697094",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1797308776497697094",
+   "url": "https://x.com/realdocspeaks/status/1797308776497697094",
+   "conversationId": "1797308776497697094",
+   "text": "https://www.beckershospitalreview.com/finance/health-system-payer-negotiations-coming-to-a-head.html?origin=BHRSUN&utm_source=BHRSUN&utm_medium=email&utm_content=newsletter&oly_enc_id=3891B5204256F6X This article describes another healthcare issue that the government created.  The payers are now so much larger that they can squeeze the hospital systems.  The hospital systems can't afford the delay and denials of care with the Medicare Advanatge plans.\n\nThe large payers have grown much larger since the ACA was passed and they aggresively use that market power to lower their payments to hospitals and physicians.\n\nLong term, we would all benefit from self-funded plans moving away from the large payers and to third party payers and direct patient care along with Cost Plus Drugs.  Medicare Advantage should be discontinued and all of those patients in it, should be alllowed to purchase a Medigap policy without underwriting.\n\nThe system created out of the ACA has proven to be more expensive and also provides less coverage.  It is time for a change in the system.  I am not advocating repeal of the ACA, but to ammend it and improve it.  This time the process should be transparent and bipartisan.  \n\nThe goal should be simple, get us better care at lower prices.  Get rid of insurance mandates and let indiviuals purchase their own policies and the coverage that suits them.  Eliminate middle men and mandates from the government.",
+   "lang": "en",
+   "createdAt": "2024-06-02T16:46:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 10,
+    "quotes": 1,
+    "likes": 23,
+    "bookmarks": 1,
+    "views": 2038
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.beckershospitalreview.com/finance/health-system-payer-negotiations-coming-to-a-head.html?origin=BHRSUN&utm_source=BHRSUN&utm_medium=email&utm_content=newsletter&oly_enc_id=3891B5204256F6X"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054184943710859632",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2054184943710859632",
+   "url": "https://x.com/MGMA/status/2054184943710859632",
+   "conversationId": "2054184943710859632",
+   "text": "Regulatory burden isn’t just an administrative issue — it’s a workforce crisis.\n\nIn the 2026 MGMA Regulatory Burden Report, more than three‑quarters of medical practices (77%) say regulatory and administrative requirements are a significant contributor to physician burnout.\n\nWhat’s driving that burnout?\n\n➡️ Prior authorization and appeals that pull clinicians into uncompensated work\n➡️ Medicare Advantage denials and downcoding that undermine payment predictability\n➡️ Reporting and documentation requirements that crowd out time for patient care\n\nFor many practices, this isn’t about inconvenience — it’s about sustainability. Burnout is pushing physicians to reduce hours, leave practice, or retire early, worsening access challenges for patients nationwide.\n\nMGMA Government Affairs continues to advocate for administrative simplification, stronger oversight of Medicare Advantage plans, and regulatory reforms that let physicians focus on care — not paperwork.\n\nView the full report: https://bit.ly/3PvKxdQ",
+   "lang": "en",
+   "createdAt": "2026-05-12T13:00:30.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "25081344",
+    "username": "MGMA",
+    "name": "Medical Group Management Association",
+    "url": "https://x.com/MGMA",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2049249668736184320/dtFy6mgF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2054184923079069696",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIHuTdMXUAA7-aF.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIHuTdMXUAA7-aF.jpg",
+     "width": 1080,
+     "height": 1350,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3PvKxdQ"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1865020309004226995",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1865020309004226995",
+   "url": "https://x.com/realdocspeaks/status/1865020309004226995",
+   "conversationId": "1865020309004226995",
+   "text": "The killing of Brian Thompson is a great tragedy, and I send condolences to his loved ones, co-workers, and friends.\n\nThe social media posts have revealed a widespread antipathy to the health insurance industry.\n\nPeople are frustrated with health insurance for the following reasons:\n\n• The costs of premiums have exploded, and They \n   have increased year over year.  Family coverage in \n   2025 will be over $25,000.\n\n• But the premiums don't really purchase coverage, you \n   have to pay the deductible first.   The deductibles \n  range from $1,400 to $7,258 on the healthcare \n  exchange in 2024.   \n\n• Once the deductible is paid, then you have co-pays, \n   co-insurance and maximum out-of-pocket.  \n    The maximum out-of-pocket range max on the health\n   care exchange is $9,450 for an individual to $18,900 \n    for a family.\n\n• Then the insurance games begin, prior authorization,\n    delays, and denials of care.\n\n• Then, the subsidiaries of the health insurance \n   companies overcharge you.  These include the PBMs\n   for drugs and the owned physicians.\n\n• Then you find out that the insurance companies use AI\n   to deny care, bill Medicare Advantage for diagnoses \n   that aren't real, insiders sell massive amounts of stock\n   because they have material information that is not\n   public, make medications unaffordable for patients \n  who then suffer and die.\n\n  And the HHS OIG, CMS, DOJ all look the other way.\n\n• Insurance companies receive $1.8 Trillion in subsidies \n  from the US Government, which is really YOU and I.\n\n• We are getting less and less each year from our health \n  insurance inspite of paying a fortune.  To make matters\n  worse we are subsidizing multi million dollar salaries\n  through our tax dollars.\n\nNo more subsidies for CEO salaries.\n\nThe new administration needs to reform the health insurance industry and make sure that they have to follow the laws like the rest of us.\n\nWe need more competition in health insurance\n\nWe need to break up the healthcare conglomerates\n\nSubsidize people in need and not corporations with greed!",
+   "lang": "en",
+   "createdAt": "2024-12-06T13:07:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 97,
+    "retweets": 200,
+    "quotes": 33,
+    "likes": 658,
+    "bookmarks": 117,
+    "views": 35222
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1791915856240255175",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1791915856240255175",
+   "url": "https://x.com/realdocspeaks/status/1791915856240255175",
+   "conversationId": "1791915856240255175",
+   "text": "https://www.beckerspayer.com/contracting/nebraska-health-system-to-drop-all-medicare-advantage-plans.html?origin=PayerE&utm_source=PayerE&utm_medium=email&utm_content=newsletter&oly_enc_id=3891B5204256F6X The bad news keeps coming for Medicare Advantage.  This article reviews that Great Plains Health in North Platte, Nebraska will drop MA in 2025.  The CMO said that they can no longer contract with MA because of delays, denials, and longer hospital stays.  MA covers 24% of patients in their area.\n\nThe Nebraska Hospital Association reports 9 of 10 hospitals report that MA negatively affects patient care.\n\nHere is what we know about MA:\n1.  It costs Billions more per year than traditional Medicare.\n2.  It was developed to save money and it has failed to do so.\n3.  It provides narrow networks of hospitals and physicians for patients.\n4.  It has provided huge profits for insurance companies.\n5.  Insurance companies have used AI to deny care under this program.\n6.  Many hospitals and physicians across the country refuse to accept it.\n7.  Patients are usually unable to return to traditional Medicare as the Gap plans will underwrite the patients and often refuse them.\n\nMedicare Advantage is an experiment that has failed.  It should be ended, and the money saved from the program should be used to support the transfer of patients back to traditional Medicare.",
+   "lang": "en",
+   "createdAt": "2024-05-18T19:36:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 8,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 4,
+    "views": 1124
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.beckerspayer.com/contracting/nebraska-health-system-to-drop-all-medicare-advantage-plans.html?origin=PayerE&utm_source=PayerE&utm_medium=email&utm_content=newsletter&oly_enc_id=3891B5204256F6X"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1621164568822140934",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1621164568822140934",
+   "url": "https://x.com/KFF/status/1621164568822140934",
+   "conversationId": "1621164568822140934",
+   "text": "NEW: Medicare Advantage plans denied 2 million prior authorization requests for health care services in 2021, or 6%. Virtually all #MedicareAdvantage enrollees are in a plan that requires #priorauth for some services. We examine how it works in practice. https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021 https://x.com/KFF/status/1621164568822140934/photo/1",
+   "lang": "en",
+   "createdAt": "2023-02-02T15:12:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "84614572",
+    "username": "KFF",
+    "name": "KFF",
+    "url": "https://x.com/KFF",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1645808399186300930/jXp7S7dL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 5593
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1621164547833794562",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Fn-IkSQXEAIsbYr.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Fn-IkSQXEAIsbYr.jpg",
+     "width": 1280,
+     "height": 720,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage",
+     "priorauth"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.kff.org/medicare/issue-brief/over-35-million-prior-authorization-requests-were-submitted-to-medicare-advantage-plans-in-2021"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1567165742595940352",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1567165742595940352",
+   "url": "https://x.com/PhysGrassroots/status/1567165742595940352",
+   "conversationId": "1567165742595940352",
+   "text": "Prior authorization requirements burden physicians and their staff and cause delays in care for patients. Tell Congress to support H.R. 8487, which would streamline and standardize prior auth under the #Medicare Advantage program.",
+   "lang": "en",
+   "createdAt": "2022-09-06T15:00:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "4203520763",
+    "username": "PhysGrassroots",
+    "name": "Physicians Grassroots Network",
+    "url": "https://x.com/PhysGrassroots",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/966070925270528000/YcQk6w_3_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Medicare"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2056805860253343919",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2056805860253343919",
+   "url": "https://x.com/MattZirwas/status/2056805860253343919",
+   "conversationId": "2056805860253343919",
+   "text": "Health insurance companies delay care to increase profit.\n\nIt killed two of my patients.\nTheir families can't sue.  That's the law.\nThat's why they keep doing it.  Because there's no reason for them not to.\n\nIf your doctor delayed a needed prescription for weeks and you died because of it, your family would rightly sue them into oblivion.\n\nIf your insurance company does it?\n\nNo accountability, just more profit.\n\nIt's federal law.  ERISA preemption.  Health insurance got carved out of normal liability.\n\nThat's why Paulina's health insurance killed her.\n\nShe was one of the kindest patients I've ever had.  I still think about her.\n\nShe had a rare, painful skin disease.  No FDA-approved treatments.  Still kept a great attitude.\n\nThere was a drug that worked like magic for patients like her.  Insurance denied it.\n\nTried everything while we fought to get it for her, but the only things that kept her out of excruciating pain had horrible side effects.\n\nWhile we appealed, the side effects won.  She died.  The delay didn't just make her suffer longer, it actually killed her.\n\nBut it increased profits for her insurance company.\n\nFrank drove hours with his wife to see me.  His little girl was in school.\n\nSevere hand eczema destroying his life.  Constant pain, constant itch, people treating him like he was contagious.\n\nThought we found the answer - allergic to an ingredient in hand soap.  But avoiding it didn't help.\n\nThere's a drug that works great in exactly this situation.  But hands are only 4% of body surface.  Insurance said no need for that drug unless the rash covers 10%.\n\nThrew the kitchen sink at his hands while we fought his insurance.  Kitchen sink didn't help.\n\nApproval came days too late.  His daughter lost her dad.\n\nBut more profit for his insurance company.\n\nThe economics of drug prior auth are indefensible.\n\nNet savings to the entire US healthcare system: roughly 0.25%.\n\nAnd that's before you count the dead patients, the hurt patients, the extra care people need while the disease gets worse and the doctor hours pissed away.\n\nIn Medicare Advantage, 82% of appealed denials get overturned.  Insurers themselves admit they were wrong four out of five times.\n\n26% of physicians say prior auth has led to a serious adverse event for a patient in their care.  8% say it has led to disability, permanent bodily damage, or death.\n\nThat's not a fringe number.  One in twelve doctors has watched it kill or cripple someone.\n\nPAs aren't stopping bad prescribing or saving anyone money.\n\nThey're grinding down the patients too sick to fight back.  The people working two jobs.  The people who don't have 4 hours a day to spend on the phone.\n\nI pay my employees' health insurance.  Drug costs come out of my pocket too.  Doctors don't prescribe them for fun.\n\nWe have skin in the game.  We don't just prescribe expensive drugs willy-nilly.\n\nSo, if not to control costs like they claim, why do prior auths exist?\n\nLeverage.\n\nWithout PAs, doctors would, lord forbid, just prescribe whatever drug was best for each patient.\n\nInstead, PBMs use PAs to decide which drugs flow and which get buried in paperwork.  Guess which drugs they push?  The ones that generate the most profit for them.\n\nYou're shocked, I know.\n\nAnd they use it as a tool to maximize the profit.  How?  If a pharma company wants easy prior auth, they have to give a huge rebate.\n\nManufacturers paid PBMs and the payers behind them roughly $170 billion in rebates and fees in 2023.\n\nWonder why drugs are so expensive?  Because the more expensive the drug, the bigger the rebate, and the PBM keeps a cut of the rebate.\n\nThis is the lowest hanging fruit in American healthcare.\n\nThere's an easy fix.  Just take away the protection that allows insurance companies to get away with it.\n\nIf they delay care the policy said should be covered and it hurts someone, they should be liable.\n\nMake them responsible for hurting people instead of rewarding them.  No complicated policies, just simple 'law of natural consequences'.\n\nWe can't bring back Paulina or Frank.\n\nAnd it's still happening to more people.\n\nEvery day.\n\nThere's an easy fix.\n\nJust stop protecting the health insurance companies.",
+   "lang": "en",
+   "createdAt": "2026-05-19T18:35:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2033947948997083136",
+    "username": "MattZirwas",
+    "name": "Matthew Zirwas, MD",
+    "url": "https://x.com/MattZirwas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2059425866212364289/AN4xZSoY_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 10,
+    "retweets": 25,
+    "quotes": 3,
+    "likes": 75,
+    "bookmarks": 17,
+    "views": 91949
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2056804187447472128",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIs8gtVXsAAg6S6.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIs8gtVXsAAg6S6.png",
+     "width": 930,
+     "height": 295,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1715467596621861183",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1715467596621861183",
+   "url": "https://x.com/RepLarryBucshon/status/1715467596621861183",
+   "conversationId": "1715467596621861183",
+   "text": "In this week’s @HouseCommerce subcommittee on Health hearing, I was proud to highlight my efforts to remove certain prior auth restrictions from Medicare Advantage, ensure physicians are reimbursed appropriately, &amp; promote value-based care.\n\nWatch my opening remarks below: https://x.com/RepLarryBucshon/status/1715467596621861183/video/1",
+   "lang": "en",
+   "createdAt": "2023-10-20T20:38:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "234812598",
+    "username": "RepLarryBucshon",
+    "name": "Larry Bucshon, MD",
+    "url": "https://x.com/RepLarryBucshon",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1923921826876358656/WcMFjqTW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1268
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1715467212511678464",
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/1715467212511678464/pu/vid/avc1/886x494/3ofJFXGBGdK9w6DH.mp4?tag=12",
+     "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1715467212511678464/pu/img/SJWYXjZs7bDCyUOr.jpg",
+     "width": 886,
+     "height": 494,
+     "altText": null,
+     "durationSeconds": 121
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "114756202",
+      "username": "HouseCommerce",
+      "name": "Energy and Commerce Committee"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1976258835472875812",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1976258835472875812",
+   "url": "https://x.com/EdGainesIII/status/1976258835472875812",
+   "conversationId": "1976258835472875812",
+   "text": "More on the newly announced commercial health plans AI tools to downcode, deny and/or create systemic pre payment reviews, per Modern Healthcare.\n\nLetters and advocacy are a great initial step by the physician advocacy community but ultimately litigation may be the answer for groups that are significantly damaged .\n\nAetna and Cigna are under fire over new payment polices.  (Modern Healthcare Illustration/Adobe Stock)\n\n📷\nBy\nNoah Tong\n\nOctober 08, 2025 05:00 AM\nPhysicians and hospitals are up in arms about new tactics some health insurance companies are using to reduce payments.Under a policy Cigna is rolling out this month, six Current Procedural Terminology Evaluation and Management billing codes are being “downcoded” through an automated process that results in lower reimbursements for services such as office visits and outpatient consultations.Separately, CVS Health subsidiary Aetna is instituting a policy under which some hospital admissions will be automatically approved but reimbursed at lower observation rates.Related: AI, remote monitoring highlighted in AMA’s billing code changesHere’s what you need to know about these new approaches to provider reimbursement.\n\nWhat is Cigna’s rationale?\nHealth insurance companies, the Centers for Medicare and Medicaid Services and the Health and Human Services Department Office of Inspector General have identified providers “upcoding” claims to generate higher payments as a problem to address.Cigna aims to curtail upcoding by a small group of outliers that affix codes for complex services to claims for basic care, such as treatments for ear infections and sore throats, a Cigna spokesperson said the evaluation and management, or E/M, policy applies to just 1% of in-network providers and providers may appeal for higher payments or apply for exemptions, the Cigna spokesperson said.Cigna Healthcare, the company’s insurance subsidiary, implemented this methodology last Wednesday everywhere except California, where it’s under regulatory review. The company expects the state to allow it to move forward, the spokesperson said.Why do providers object to the Cigna E/M policy?\n\nProvider groups such as the American Medical Association, the American Academy of Family Physicians, the Texas Medical Association and the California Medical Association have expressed concerns that their members will be underpaid, and complained that Cigna is using an opaque process to determine reimbursements and pressuring them to avoid high-level billing codes.Moreover, automatically downcoding claims and instructing providers to appeal adds more red tape and administrative expense to the system, California Medical Association Chief of Staff Janice Rocco wrote in a letter to Peter Welch, president of Cigna Healthcare’s Northern California and the Pacific Northwest operations Aug. 20.“CMA opposes automatic or unwarranted downcoding of claims, and we strongly disagree that simply reducing the E/M [Current Procedural Terminology] code by a single level would result in improved claims accuracy,” Rocco wrote. The practice also conflicts with federal and state policy, she wrote.Sen. Richard Blumenthal (D-Conn.) criticized the policy in a letter sent to Cigna Healthcare Chief Medical Officer Dr. Amy Flaster on Sept. 11. “This new policy will significantly increase administrative burdens and costs for physicians while jeopardizing patient care. I urge you to reverse this decision,” he wrote.The Cigna policy also stoked worry among providers about the growing use of software to automate claims and reimbursements. Cigna doesn’t use artificial intelligence to make final determinations and doesn’t deploy AI for the evaluation and management policy, a spokesperson said.CMS is aware of provider complaints regarding coding practices and AI, and instructs insurers to comply with the Affordable Care Act of 2010, the No Surprises Act, and other federal and state regulations, a spokesperson said.Are other insurers ‘downcoding’ E/M claims?\n\nAetna, Humana and some Blue Cross and Blue Shield companies have taken similar approaches to E/M claims, provoking ire from providers. Rather than standard denials of payment on a case-by-case basis, insurers increasingly are systematically downcoding them, providers have http://said.Aetna’s program is “highly targeted” and only applies to the 3% of its in-network providers that submit higher-intensity codes than CMS or the AMA recommends, a spokesperson said.The Association for Clinical Oncology asked CMS to scrutinize how UnitedHealth Group subsidiary UnitedHealthcare, Elevance Health, Centene and Molina Healthcare handle E/M claims in a letter sent Sept. 22.These companies did not respond to requests for comment.What is Aetna’s ‘two-midnight’ policy?\nAetna will implement a “level of severity inpatient payment policy” for hospital services under its Medicare Advantage plans on Nov. 15.Under this twist on the “two-midnight rule,” Aetna will approve admissions for more than one midnight for members who “urgently or emergently” present to hospitals. Although not subject to medical necessity reviews, those services will be reimbursed at the observation rate if Aetna deems they aren’t in accordance with Milliman Care Guidelines for inpatient http://care.Aetna did not respond to a request for comment.Why do providers object to the Aetna Medicare Advantage inpatient policy?\n\nThe American Hospital Association, the Federation of American Hospitals and other industry organizations characterized Aetna’s policy as an evasion of the two-midnight standard intended to ensure that hospitals are appropriately paid for inpatient care. Under the two-midnight rule, Medicare Advantage plans and fee-for-service Medicare must pay inpatient rates if patients remain in the hospital for at least two midnights.“This policy could erode the transparency consumers rely on to make informed decisions about their care, undermine important regulatory protections that safeguard patients’ coverage and jeopardize the ability of hospitals to provide high-quality, accessible care to all who need it,” AHA President and CEO Rick Pollack wrote to Aetna President Steve Nelson on Sept. 15.This reimbursement policy violates Aetna’s contracts with providers and will depress reimbursements, the Healthcare Association of New York State, which represents hospitals, wrote in a letter to CMS Administrator Dr. Mehmet Oz on Aug. 20.The AHA and the Federation also contend that this policy will distort the Medicare Advantage quality scores Aetna receives.“By automatically approving inpatient stays but then depriving full coverage for inpatient stays through severity coverage and partial payments, it appears that Aetna intends to inflate its approval numbers and obfuscate its ultimate inpatient coverage denials, misleading regulators and the public,” Federation of American Hospitals President and CEO Chip Kahn wrote Oz on Sept. 24. “Likewise, by failing to provide notice of adverse organization determinations, Aetna will suppress appeals in ways that directly impact Aetna’s performance on key measures in the Medicare Advantage Star Ratings program.”\nhttp://www.modernhealthcare.com/insurance/mh-aetna-cigna-downcoding-policy-explainer/",
+   "lang": "en",
+   "createdAt": "2025-10-09T12:09:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 393
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://said.aetna/",
+     "http://care.aetna/",
+     "http://www.modernhealthcare.com/insurance/mh-aetna-cigna-downcoding-policy-explainer/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1960664219583439118",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1960664219583439118",
+   "url": "https://x.com/EdGainesIII/status/1960664219583439118",
+   "conversationId": "1960664219583439118",
+   "text": "The health plans have definitely ramped up their denials, downcoding and/or pre payment reviews and it appears to be hitting every specialty.  \n\nCould it be tied to the fact that the plans are collectively having the worst $ performance in nearly 10 yrs?  @UHC stock cut in half, a criminal probe into their Medicare Advantage program that has now reportedly spread by US DOJ into Optum Rx and how they compensate their employed physicians, + the sudden resignation of their CEO and from the board + pulling their ‘25 Wall Street guidance.",
+   "lang": "en",
+   "createdAt": "2025-08-27T11:22:31.000Z",
+   "type": "quote",
+   "author": {
+    "id": "624969131",
+    "username": "EdGainesIII",
+    "name": "Ed Gaines",
+    "url": "https://x.com/EdGainesIII",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/824986503688380416/_XHyceuH_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 12,
+    "quotes": 2,
+    "likes": 45,
+    "bookmarks": 7,
+    "views": 8127
+   },
+   "replyTo": null,
+   "quotedTweetId": "1960484224148103197",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

@@ -1,0 +1,721 @@
+{
+ "group_id": "153075608691474",
+ "group_url": "https://www.facebook.com/groups/153075608691474",
+ "items": [
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994941594504857/",
+   "time": "2026-09-24T02:45:31.000Z",
+   "user": {
+    "id": "pfbid0NfsFns1WPNUNGms1613nugfJngLDunfy8DyhxXMKRep1pNHyEYXkM5DNUBiU3Juyl",
+    "name": "Melissa Johnson",
+    "profilePic": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/649832958_26953531954244374_7129376753142315420_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx2042x2048&ctp=s50x50&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=5sAEeQpc0OEQ7kNvwFnDmhG&_nc_oc=AdoTAd7_HdQgh5MXDia2l9QNmLXaHXtRWdy5YV4YUFOtUcCHldY2dOSodLEE_VCvR7pDWA_cIsQqHZW4Gs61jUKn&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQIJV94SBcpiuvS9XHDgRx5KRPIXxleGdU2npvjAcEnKOg&oe=6ABAA8FB"
+   },
+   "collaborators": [],
+   "text": "How do we set-up the provider signature to show the specific date and time that they signed the progress notes and the specific date and time that their supervisor signed the progress note?",
+   "topReactionsCount": 0,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDk0MTU5NDUwNDg1Nw==",
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994941594504857/?comment_id=1994948534504163",
+     "commentId": "1994948534504163",
+     "id": "Y29tbWVudDoxOTk0OTQxNTk0NTA0ODU3XzE5OTQ5NDg1MzQ1MDQxNjM=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDk0MTU5NDUwNDg1N18xOTk0OTQ4NTM0NTA0MTYz",
+     "date": "2026-09-24T02:58:32.000Z",
+     "text": "I think, this is handled through the progress-note/signature configuration and provider settings!",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid02QN9xr3NWVAYqsTErNriNV6eSdoUXcPw5CgarGUbmQvjrREnc351W5QmwPzDGGhNQl",
+      "name": "Anushka Katyal",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwG0dSbs&_nc_oc=AdqB_9Ia2n3z9GjNUYFx6OTuIHnKHxb0vVmTXk_IDzU_98Ou10qg4Rz7Rv6rKk1TlYlKQ8bTVI9F8v936fWwxY32&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJf-sQ5bvnVWNy__OFeGzaAhBK6-kSdQsFwtMOODdlD7w&oe=6ABAA383"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s40x40&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwG0dSbs&_nc_oc=AdqB_9Ia2n3z9GjNUYFx6OTuIHnKHxb0vVmTXk_IDzU_98Ou10qg4Rz7Rv6rKk1TlYlKQ8bTVI9F8v936fWwxY32&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJf-sQ5bvnVWNy__OFeGzaAhBK6-kSdQsFwtMOODdlD7w&oe=6ABAA383"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s24x24&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwG0dSbs&_nc_oc=AdqB_9Ia2n3z9GjNUYFx6OTuIHnKHxb0vVmTXk_IDzU_98Ou10qg4Rz7Rv6rKk1TlYlKQ8bTVI9F8v936fWwxY32&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJf-sQ5bvnVWNy__OFeGzaAhBK6-kSdQsFwtMOODdlD7w&oe=6ABAA383"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": "https://www.facebook.com/anushka.3101",
+      "work_info": null
+     },
+     "profileUrl": "https://www.facebook.com/anushka.3101",
+     "profilePicture": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwG0dSbs&_nc_oc=AdqB_9Ia2n3z9GjNUYFx6OTuIHnKHxb0vVmTXk_IDzU_98Ou10qg4Rz7Rv6rKk1TlYlKQ8bTVI9F8v936fWwxY32&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJf-sQ5bvnVWNy__OFeGzaAhBK6-kSdQsFwtMOODdlD7w&oe=6ABAA383",
+     "profileId": "pfbid02QN9xr3NWVAYqsTErNriNV6eSdoUXcPw5CgarGUbmQvjrREnc351W5QmwPzDGGhNQl",
+     "profileName": "Anushka Katyal",
+     "likesCount": "0",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTEwMDAwMDQyODAzNDY1NDpWSzoxOTk0OTQxNTk0NTA0ODU3",
+   "legacyId": "1994941594504857",
+   "likesCount": 0,
+   "sharesCount": 0,
+   "commentsCount": 1,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994893957842954/",
+   "time": "2026-09-24T01:17:40.000Z",
+   "user": {
+    "id": "1081615124649580",
+    "name": "Anonymous participant",
+    "profilePic": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.35477-6/480424763_9499112296775885_2098664702354381518_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=VtAWOcB_dnwQ7kNvwHFSDKB&_nc_oc=AdrJRn_9W8sh1Wr8oNtF0gyDbUIGSgGnhlZaNpno4AEhxMh6-_CDwu2Em-XsX4FrWx5hf2F7Ahyevd1pCGzUatM0&_nc_zt=14&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQKDgdWVjHn7sdbqgPLIICMqNM77NXsXmFnsvGKYKV2Qdw&oe=6ABAAA93"
+   },
+   "collaborators": [],
+   "text": "How can we double-check if a quality measure has been met? For example, under the Colorectal Cancer Screening measure, ECW shows the patient as non-compliant. However, when reviewing the chart, the patient was seen and was given a referral for the screening, and the patient subsequently saw the gastroenterologist. How can we verify whether the measure should be considered met?",
+   "topReactionsCount": 0,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDg5Mzk1Nzg0Mjk1NA==",
+   "paidPartnership": false,
+   "id": "UzpfSTEwODE2MTUxMjQ2NDk1ODA6Vks6MTk5NDg5Mzk1Nzg0Mjk1NA==",
+   "legacyId": "1994893957842954",
+   "likesCount": 0,
+   "sharesCount": 0,
+   "commentsCount": 0,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994867434512273/",
+   "time": "2026-09-24T00:26:52.000Z",
+   "user": {
+    "id": "pfbid02nV9z2yzpyDibQXZgZ87bTmdSqHNxmg6JXRA2oVdaK37vej29PyDge8BGwBYXvM4wl",
+    "name": "Cindy LaDue",
+    "profilePic": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/768310555_28966566462945054_3871168569686845462_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=B6j0nhT99hkQ7kNvwH7ZrrE&_nc_oc=Ado6NMbOsBvUZFuxLNvrHGbnnkRorM0Udvxl3Qp84zniviNJXH4nlx39fmq-Xr7gjUZGZlv9hO2JSSYkuc0FDhqg&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQK-e3n3XNInBc7yhSMrkwQw_8exoWhDbR8dl1ddEgW-xw&oe=6ABAD0BE"
+   },
+   "collaborators": [],
+   "text": "Can anyone tell me how to run a report of the CPT codes we use in ecw? I am wanting to import the Medicare fee schedule into ecw and then see if we are losing money in any department. In the report I just want the CPT code and our billed amount for now.",
+   "topReactionsCount": 2,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDg2NzQzNDUxMjI3Mw==",
+   "reactionLikeCount": 1,
+   "reactionLoveCount": 1,
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994867434512273/?comment_id=1994888974510119",
+     "commentId": "1994888974510119",
+     "id": "Y29tbWVudDoxOTk0ODY3NDM0NTEyMjczXzE5OTQ4ODg5NzQ1MTAxMTk=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDg2NzQzNDUxMjI3M18xOTk0ODg4OTc0NTEwMTE5",
+     "date": "2026-09-24T01:09:30.000Z",
+     "text": "371.05 also gives you CPT codes and charges",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid081Ldwimp5meFivTZoAU1TU9vMy3MrZCUABuPfvCjZuBzK6qEnjb8TeqLNwPdVY84l",
+      "name": "Kathy Britt",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/668298718_10214891410796319_3654879696065170365_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=LNI_bJowy2cQ7kNvwEmgDvu&_nc_oc=AdoKPr67Ijdcd2Vx4ADOheAjU4soqZHEcC80mSgvv4yHvdbhSLjaWM4AXGRGFfOFuDRfRt37sNb4QWKu0dsqBAHt&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJIDoQ4o6ouFixV5xZNojqNGLnnLgZ3-CezmZFxoRdyrg&oe=6ABAB005"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/668298718_10214891410796319_3654879696065170365_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s40x40&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=LNI_bJowy2cQ7kNvwEmgDvu&_nc_oc=AdoKPr67Ijdcd2Vx4ADOheAjU4soqZHEcC80mSgvv4yHvdbhSLjaWM4AXGRGFfOFuDRfRt37sNb4QWKu0dsqBAHt&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJIDoQ4o6ouFixV5xZNojqNGLnnLgZ3-CezmZFxoRdyrg&oe=6ABAB005"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/668298718_10214891410796319_3654879696065170365_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s24x24&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=LNI_bJowy2cQ7kNvwEmgDvu&_nc_oc=AdoKPr67Ijdcd2Vx4ADOheAjU4soqZHEcC80mSgvv4yHvdbhSLjaWM4AXGRGFfOFuDRfRt37sNb4QWKu0dsqBAHt&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJIDoQ4o6ouFixV5xZNojqNGLnnLgZ3-CezmZFxoRdyrg&oe=6ABAB005"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": null,
+      "work_info": null
+     },
+     "profilePicture": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/668298718_10214891410796319_3654879696065170365_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=LNI_bJowy2cQ7kNvwEmgDvu&_nc_oc=AdoKPr67Ijdcd2Vx4ADOheAjU4soqZHEcC80mSgvv4yHvdbhSLjaWM4AXGRGFfOFuDRfRt37sNb4QWKu0dsqBAHt&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQJIDoQ4o6ouFixV5xZNojqNGLnnLgZ3-CezmZFxoRdyrg&oe=6ABAB005",
+     "profileId": "pfbid081Ldwimp5meFivTZoAU1TU9vMy3MrZCUABuPfvCjZuBzK6qEnjb8TeqLNwPdVY84l",
+     "profileName": "Kathy Britt",
+     "likesCount": "0",
+     "threadingDepth": 0
+    },
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994867434512273/?comment_id=1994871727845177",
+     "commentId": "1994871727845177",
+     "id": "Y29tbWVudDoxOTk0ODY3NDM0NTEyMjczXzE5OTQ4NzE3Mjc4NDUxNzc=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDg2NzQzNDUxMjI3M18xOTk0ODcxNzI3ODQ1MTc3",
+     "date": "2026-09-24T00:34:50.000Z",
+     "text": "EBO report 37.08. You can choose your specifics",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid02egootmXRWAqVktUmP6qeYtucDVERpFChW6mdAZ2gnoADFM9dgc669con8eYtACZzl",
+      "name": "Wendy Phillips Cain",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/798042025_10236676417025256_7699213378466322427_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=w86sMRgDIC0Q7kNvwEnbNIT&_nc_oc=Adp0pbgbC_ngNkGWmHh1Uc0Y4o1pYRTGvMBX9f_SJDvOgRMrI0USH5VZlobXl8V_BeltjvJGO9cl-ouiDIXnD6tp&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQIJ6zKMd3C4Gr3U0FoxM6PwuD5H75_C6X59AZO0lAk3Fw&oe=6ABAAD2B"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/798042025_10236676417025256_7699213378466322427_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s40x40&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=w86sMRgDIC0Q7kNvwEnbNIT&_nc_oc=Adp0pbgbC_ngNkGWmHh1Uc0Y4o1pYRTGvMBX9f_SJDvOgRMrI0USH5VZlobXl8V_BeltjvJGO9cl-ouiDIXnD6tp&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQIJ6zKMd3C4Gr3U0FoxM6PwuD5H75_C6X59AZO0lAk3Fw&oe=6ABAAD2B"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/798042025_10236676417025256_7699213378466322427_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s24x24&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=w86sMRgDIC0Q7kNvwEnbNIT&_nc_oc=Adp0pbgbC_ngNkGWmHh1Uc0Y4o1pYRTGvMBX9f_SJDvOgRMrI0USH5VZlobXl8V_BeltjvJGO9cl-ouiDIXnD6tp&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQIJ6zKMd3C4Gr3U0FoxM6PwuD5H75_C6X59AZO0lAk3Fw&oe=6ABAAD2B"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": null,
+      "work_info": null
+     },
+     "profilePicture": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/798042025_10236676417025256_7699213378466322427_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=w86sMRgDIC0Q7kNvwEnbNIT&_nc_oc=Adp0pbgbC_ngNkGWmHh1Uc0Y4o1pYRTGvMBX9f_SJDvOgRMrI0USH5VZlobXl8V_BeltjvJGO9cl-ouiDIXnD6tp&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=yqCsA6FphgCxN6Fn2KbRvg&_nc_ss=73289&oh=00_AQIJ6zKMd3C4Gr3U0FoxM6PwuD5H75_C6X59AZO0lAk3Fw&oe=6ABAAD2B",
+     "profileId": "pfbid02egootmXRWAqVktUmP6qeYtucDVERpFChW6mdAZ2gnoADFM9dgc669con8eYtACZzl",
+     "profileName": "Wendy Phillips Cain",
+     "likesCount": "2",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTEwMDAwMDU1MjU2NTExNjpWSzoxOTk0ODY3NDM0NTEyMjcz",
+   "legacyId": "1994867434512273",
+   "likesCount": 2,
+   "sharesCount": 0,
+   "commentsCount": 3,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994861297846220/",
+   "time": "2026-09-24T00:12:25.000Z",
+   "user": {
+    "id": "2060986637665530",
+    "name": "Anonymous participant",
+    "profilePic": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.35477-6/480295029_8309457052490122_5764708506034413611_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=cTkfqweqdEAQ7kNvwEGqYW-&_nc_oc=AdrmICcjp_EQ4sShpfO5NMyv3xLwhzC2RLlqTGW2eUCkfH80NihApehk5u0dRXJR7c8&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQIlvaZtmBu6tV3shZOYnHuLfDDnfS0KiBHInBsaqYCpvQ&oe=6ABAB96D"
+   },
+   "collaborators": [],
+   "text": "What reports do you run on a weekly/ monthly basis?",
+   "topReactionsCount": 1,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDg2MTI5Nzg0NjIyMA==",
+   "reactionLikeCount": 1,
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994861297846220/?comment_id=1994863524512664",
+     "commentId": "1994863524512664",
+     "id": "Y29tbWVudDoxOTk0ODYxMjk3ODQ2MjIwXzE5OTQ4NjM1MjQ1MTI2NjQ=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDg2MTI5Nzg0NjIyMF8xOTk0ODYzNTI0NTEyNjY0",
+     "date": "2026-09-24T00:17:24.000Z",
+     "text": "My questions\nIs what report should I be running weekly and monthly with an outside Billing source",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid0296a57qsAB7BB6xqPTbsRWTtPzRxEBd4ekh4P6xZ7iGmfvrK3RNCxnobBGcGH72KNl",
+      "name": "Louise Byrne",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/554936952_25717974134508035_4826872720299556008_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx906x906&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=KI36A1fOlU0Q7kNvwFYIMuE&_nc_oc=AdqgIIUMFUnF8KVg0mLRFehtbieM8eZ6fGp54iLWIIGYsrLvZOd5l3Cjvq10hkF5pvU&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQLpyTXIYkaJxFt4D6SjSGooyfkN_NBwFduWUc6PHhYXrQ&oe=6ABAC4C2"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/554936952_25717974134508035_4826872720299556008_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx906x906&ctp=s40x40&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=KI36A1fOlU0Q7kNvwFYIMuE&_nc_oc=AdqgIIUMFUnF8KVg0mLRFehtbieM8eZ6fGp54iLWIIGYsrLvZOd5l3Cjvq10hkF5pvU&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQLpyTXIYkaJxFt4D6SjSGooyfkN_NBwFduWUc6PHhYXrQ&oe=6ABAC4C2"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/554936952_25717974134508035_4826872720299556008_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx906x906&ctp=s24x24&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=KI36A1fOlU0Q7kNvwFYIMuE&_nc_oc=AdqgIIUMFUnF8KVg0mLRFehtbieM8eZ6fGp54iLWIIGYsrLvZOd5l3Cjvq10hkF5pvU&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQLpyTXIYkaJxFt4D6SjSGooyfkN_NBwFduWUc6PHhYXrQ&oe=6ABAC4C2"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": "https://www.facebook.com/louise.byrne.9634",
+      "work_info": null
+     },
+     "profileUrl": "https://www.facebook.com/louise.byrne.9634",
+     "profilePicture": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/554936952_25717974134508035_4826872720299556008_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx906x906&ctp=s32x32&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_ohc=KI36A1fOlU0Q7kNvwFYIMuE&_nc_oc=AdqgIIUMFUnF8KVg0mLRFehtbieM8eZ6fGp54iLWIIGYsrLvZOd5l3Cjvq10hkF5pvU&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQLpyTXIYkaJxFt4D6SjSGooyfkN_NBwFduWUc6PHhYXrQ&oe=6ABAC4C2",
+     "profileId": "pfbid0296a57qsAB7BB6xqPTbsRWTtPzRxEBd4ekh4P6xZ7iGmfvrK3RNCxnobBGcGH72KNl",
+     "profileName": "Louise Byrne",
+     "likesCount": "1",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTIwNjA5ODY2Mzc2NjU1MzA6Vks6MTk5NDg2MTI5Nzg0NjIyMA==",
+   "legacyId": "1994861297846220",
+   "likesCount": 1,
+   "sharesCount": 0,
+   "commentsCount": 7,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994847964514220/",
+   "time": "2026-09-23T23:41:48.000Z",
+   "user": {
+    "id": "pfbid0qXrkt84LWHgCVwNjkjZSDYRrke7Kt5VqtKEHQtMLjZpxtnw8XZ1gSmf9AbXMu517l",
+    "name": "Suki Amy Mujkic",
+    "profilePic": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/499865220_10229038103564852_5305267018408145199_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s50x50&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=vXuxaWxnuiUQ7kNvwG9FfxI&_nc_oc=AdqJj9oKI48ygjj_1yRkoj-zl95lk87spUc8D8Ffnhosr0awFbvoYbvwWw01CXNBtjQ&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQKOubZhbg4QcJmWXwuG1lew8SfF0slzAT_l9D38tuL6vQ&oe=6ABAB6DC"
+   },
+   "collaborators": [],
+   "text": "Heidi AI\nIs anyone using Heidi AI as a scribe? Thoughts?",
+   "topReactionsCount": 0,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDg0Nzk2NDUxNDIyMA==",
+   "paidPartnership": false,
+   "id": "UzpfSTE0NjA1NjA0NzE6Vks6MTk5NDg0Nzk2NDUxNDIyMA==",
+   "legacyId": "1994847964514220",
+   "likesCount": 0,
+   "sharesCount": 0,
+   "commentsCount": 0,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994840981181585/",
+   "time": "2026-09-23T23:26:15.000Z",
+   "user": {
+    "id": "pfbid02Cqa5KJtF1TLMMvLN9kEBmUhiY1VQWUCdxdWXC7iJSyMyQyL6prXZhphWy4AaX6HWl",
+    "name": "Beck Vannie",
+    "profilePic": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/818353595_10241544699106227_1436238670450785957_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s50x50&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_ohc=z8g3iDgvOccQ7kNvwHIiUR_&_nc_oc=AdoypKDi3Jm5RQ3zjRwPy3UlDeDN2e-xQ9YVoT6fooeSQvorThrkffJwoZuDvmnNsm8&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=sms0WMit2bqL4J8GQZ-DsQ&_nc_ss=73289&oh=00_AQKyz9mj9-QDuSesMK2bWO2EVfkFEiiY8i5vcAU7Ds-ktg&oe=6ABA9D5F"
+   },
+   "collaborators": [],
+   "text": "For anyone not using standalone dental and do not have the dental eBO package. Has anyone found a way to pull a report for predictability per provider productivity? I have built reports in eBO but they will only show me previous productivity, only if the note has procedure codes in them, opened and/or closed notes. I really want to find a way to “predict” what the providers is predictable per day/week/month. Thanks ahead of time!",
+   "topReactionsCount": 1,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDg0MDk4MTE4MTU4NQ==",
+   "reactionLikeCount": 1,
+   "paidPartnership": false,
+   "id": "UzpfSTE1ODk2NTU2OTc6Vks6MTk5NDg0MDk4MTE4MTU4NQ==",
+   "legacyId": "1994840981181585",
+   "likesCount": 1,
+   "sharesCount": 0,
+   "commentsCount": 0,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994837881181895/",
+   "time": "2026-09-23T23:19:50.000Z",
+   "user": {
+    "id": "100094652418425",
+    "name": "Glenda Jane",
+    "profilePic": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/491935647_521936280971448_2110515080934394027_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx828x828&ctp=s50x50&_nc_cat=108&ccb=1-7&_nc_sid=1d2534&_nc_ohc=8kXoVVvtICkQ7kNvwEk0pwO&_nc_oc=AdookFp9XQFaYEaMcB62LM09UbbO7T1dbkWHqtqr2Hr8GXarbHscRHjK6pI5TetIUW8Fqfi4yAPjNguB2LfRlL6e&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLQwhJegS4pX1TiF-qqgBQQKEP6qKDmsdEGHexUFQOMWQ&oe=6ABACD73"
+   },
+   "collaborators": [],
+   "text": "To my friends on Medicare!  Stay away from Devoted Medicare Advantage!  They will resend a hospital payment and YOU will be responsible for that amount out of pocket!  This will be on top of what you’ve already paid to the hospital for the contracted amount for the procedure!",
+   "topReactionsCount": 0,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDgzNzg4MTE4MTg5NQ==",
+   "paidPartnership": false,
+   "id": "UzpfSTEwMDA5NDY1MjQxODQyNTpWSzoxOTk0ODM3ODgxMTgxODk1",
+   "legacyId": "1994837881181895",
+   "likesCount": 0,
+   "sharesCount": 0,
+   "commentsCount": 0,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994835777848772/",
+   "time": "2026-09-23T23:15:30.000Z",
+   "user": {
+    "id": "pfbid0A4pDJCp9ssR2qaonDWuS3CQvmoCoBXzYjN4nJwKPLnTZ7wKK6dkPgw2e7S9KTtdDl",
+    "name": "Sarah Hudson Owrey",
+    "profilePic": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-1/92812238_10163263330050243_7282881618971197440_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx959x960&ctp=s50x50&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=l8dzD9nHF1cQ7kNvwEHvsBe&_nc_oc=AdpLrRbrOh24eYoEGsmD2AKYTVzFsm_Y6w6S2HFjidqo-NdteESHQrr9Uz7mMCg-o68FJBfGiy541D2PKQW_Zr2N&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQK-g2oeGLo88Rwi5e_bkr6U5d2JWqVSWlKsBtnuLPmnvg&oe=6ADC6763"
+   },
+   "collaborators": [],
+   "text": "Report/log to show how many blocks someone is inserting into the schedule?\nTrying to find a concrete way to show how often providers are putting blocks in and also hoping to be able to tell if they are appropriate or just I’m blocking this so I can leave early stuff. Thanks!",
+   "topReactionsCount": 1,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDgzNTc3Nzg0ODc3Mg==",
+   "reactionLikeCount": 1,
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994835777848772/?comment_id=1994854287846921",
+     "commentId": "1994854287846921",
+     "id": "Y29tbWVudDoxOTk0ODM1Nzc3ODQ4NzcyXzE5OTQ4NTQyODc4NDY5MjE=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDgzNTc3Nzg0ODc3Ml8xOTk0ODU0Mjg3ODQ2OTIx",
+     "date": "2026-09-23T23:56:14.000Z",
+     "text": "There is none. You have to chceknthe log in each individual block to see who placed it when",
+     "author": {
+      "__typename": "GroupAnonAuthorProfile",
+      "id": "1789463378739827",
+      "name": "Anonymous participant 107",
+      "__isActor": "GroupAnonAuthorProfile",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35477-6/480548272_28668883916060800_4666502728748875688_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s34x34&_nc_cat=109&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=F0tjvXw5gJgQ7kNvwHBPzpb&_nc_oc=AdopZXu6Mv9L-0oUYc9mn9qMxHTzEm3jsYEKPhcsT5qHwoq5n8NqchncJWE20k7v1ndjv1Ss_oi2oSlJ8NH6VRn6&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLWI72x4_O2FOQC-zq6J07Z95h52-qTW1C3DaQ2HcxqPw&oe=6ABAD0B9"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35477-6/480548272_28668883916060800_4666502728748875688_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s50x50&_nc_cat=109&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=F0tjvXw5gJgQ7kNvwHBPzpb&_nc_oc=AdopZXu6Mv9L-0oUYc9mn9qMxHTzEm3jsYEKPhcsT5qHwoq5n8NqchncJWE20k7v1ndjv1Ss_oi2oSlJ8NH6VRn6&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLWI72x4_O2FOQC-zq6J07Z95h52-qTW1C3DaQ2HcxqPw&oe=6ABAD0B9"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35477-6/480548272_28668883916060800_4666502728748875688_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s34x34&_nc_cat=109&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=F0tjvXw5gJgQ7kNvwHBPzpb&_nc_oc=AdopZXu6Mv9L-0oUYc9mn9qMxHTzEm3jsYEKPhcsT5qHwoq5n8NqchncJWE20k7v1ndjv1Ss_oi2oSlJ8NH6VRn6&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLWI72x4_O2FOQC-zq6J07Z95h52-qTW1C3DaQ2HcxqPw&oe=6ABAD0B9"
+      },
+      "is_nickname": false,
+      "__isEntity": "GroupAnonAuthorProfile",
+      "url": null
+     },
+     "profilePicture": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.35477-6/480548272_28668883916060800_4666502728748875688_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s34x34&_nc_cat=109&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=F0tjvXw5gJgQ7kNvwHBPzpb&_nc_oc=AdopZXu6Mv9L-0oUYc9mn9qMxHTzEm3jsYEKPhcsT5qHwoq5n8NqchncJWE20k7v1ndjv1Ss_oi2oSlJ8NH6VRn6&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLWI72x4_O2FOQC-zq6J07Z95h52-qTW1C3DaQ2HcxqPw&oe=6ABAD0B9",
+     "profileId": "1789463378739827",
+     "profileName": "Anonymous participant 107",
+     "likesCount": "1",
+     "threadingDepth": 0
+    },
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994835777848772/?comment_id=1994978671167816",
+     "commentId": "1994978671167816",
+     "id": "Y29tbWVudDoxOTk0ODM1Nzc3ODQ4NzcyXzE5OTQ5Nzg2NzExNjc4MTY=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDgzNTc3Nzg0ODc3Ml8xOTk0OTc4NjcxMTY3ODE2",
+     "date": "2026-09-24T03:54:21.000Z",
+     "text": "There is a way to see all blocks and deleted blocks.",
+     "author": {
+      "__typename": "GroupAnonAuthorProfile",
+      "id": "2366953683837440",
+      "name": "SincereElk9580",
+      "__isActor": "GroupAnonAuthorProfile",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35477-6/554103908_23866651679676242_3753591335021998878_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=heGua5ueRMEQ7kNvwGqDZ73&_nc_oc=AdpDrZibFTKWZEq5S1Ax1y5lnDewk9TUC-IFkJhIBRQUjKxAHEYKeC5WyJskRfXry08WxslW1elskkqzt5lmXRrq&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLeO1dFI9O2faoS38Gaexo227-DJ4pqopwoNj6vvpNOuQ&oe=6ABAC330"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35477-6/554103908_23866651679676242_3753591335021998878_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=heGua5ueRMEQ7kNvwGqDZ73&_nc_oc=AdpDrZibFTKWZEq5S1Ax1y5lnDewk9TUC-IFkJhIBRQUjKxAHEYKeC5WyJskRfXry08WxslW1elskkqzt5lmXRrq&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLeO1dFI9O2faoS38Gaexo227-DJ4pqopwoNj6vvpNOuQ&oe=6ABAC330"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35477-6/554103908_23866651679676242_3753591335021998878_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=heGua5ueRMEQ7kNvwGqDZ73&_nc_oc=AdpDrZibFTKWZEq5S1Ax1y5lnDewk9TUC-IFkJhIBRQUjKxAHEYKeC5WyJskRfXry08WxslW1elskkqzt5lmXRrq&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLeO1dFI9O2faoS38Gaexo227-DJ4pqopwoNj6vvpNOuQ&oe=6ABAC330"
+      },
+      "is_nickname": true,
+      "__isEntity": "GroupAnonAuthorProfile",
+      "url": null
+     },
+     "profilePicture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.35477-6/554103908_23866651679676242_3753591335021998878_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=heGua5ueRMEQ7kNvwGqDZ73&_nc_oc=AdpDrZibFTKWZEq5S1Ax1y5lnDewk9TUC-IFkJhIBRQUjKxAHEYKeC5WyJskRfXry08WxslW1elskkqzt5lmXRrq&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLeO1dFI9O2faoS38Gaexo227-DJ4pqopwoNj6vvpNOuQ&oe=6ABAC330",
+     "profileId": "2366953683837440",
+     "profileName": "SincereElk9580",
+     "likesCount": "0",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTU0MDY2NTI0MjpWSzoxOTk0ODM1Nzc3ODQ4Nzcy",
+   "legacyId": "1994835777848772",
+   "likesCount": 1,
+   "sharesCount": 0,
+   "commentsCount": 6,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994831077849242/",
+   "time": "2026-09-23T23:04:30.000Z",
+   "user": {
+    "id": "pfbid0gmbUk9AKiJoGe2s75KjBgLWLMR9iBguodUHPcLt2F2Zz8bpaQPBFaow46w5XyyEil",
+    "name": "Alison Dixon",
+    "profilePic": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/458306835_2146692519034102_1264428270567539372_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x960&ctp=s50x50&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=__7cwQpLbfMQ7kNvwHjVA8q&_nc_oc=Adq-kGvrZgt0MENwlyNFLXEdvpZjuN-fdUfYZQQJS29DRK3aA2BqWVxFYN0T2YOBQLKQgXk5qDxTlm1Fmx0KzJAp&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLaQOctiiF2-bvtTLNuFRvc2ybPDYSIlqCTiwKToPG5mQ&oe=6ABAC0D2"
+   },
+   "collaborators": [],
+   "text": "This may be an odd question, but I’m hoping someone here may have some experience with this.\n\nI work in Pre-Admission Testing for a privately owned outpatient surgery center (we don’t use epic. )Part of my job is obtaining medical clearances, cardiology clearances, office notes, EKGs, test results, and other records for patients who are scheduled for surgery.\n\nDoes anyone know if there is a way for someone in my position to obtain outside access to another health system’s Epic—for example, Prisma Health Epic—to view or pull records for mutual patients?\n\nI don’t work for Prisma, so I’m wondering if they offer something like EpicCare Link or another type of provider access for outside facilities.",
+   "topReactionsCount": 0,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDgzMTA3Nzg0OTI0Mg==",
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994831077849242/?comment_id=1994978324501184",
+     "commentId": "1994978324501184",
+     "id": "Y29tbWVudDoxOTk0ODMxMDc3ODQ5MjQyXzE5OTQ5NzgzMjQ1MDExODQ=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDgzMTA3Nzg0OTI0Ml8xOTk0OTc4MzI0NTAxMTg0",
+     "date": "2026-09-24T03:53:37.000Z",
+     "text": "We utilize prisma and Epic Carelink. We have 2 hospitals that use EPiC so we PDF the records we need and attach to pt docs.",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid0TweyeLGTpT4whggZkVB4J7tLHLHAebkiMbj9jnT6ckUnEU2nutuL78wRgM5uHDntl",
+      "name": "Melissa Anderson Rosene",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-1/50080202_10157128979564736_2242960036550672384_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x959&ctp=s32x32&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=AwTZabzk-NMQ7kNvwE0kaTT&_nc_oc=Adr_dcxC66G1cardaaVSniepxp5PIUYi9bSuTOwDhx7zzleTl9thExQY_JPBnRvPrajEZZy-il2qnY3nQwBdBnPt&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQIx9kiB1eIUYukZTWGpdQY_SSRZRI0GwLId-Osqs8FiwA&oe=6ADC5585"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-1/50080202_10157128979564736_2242960036550672384_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x959&ctp=s40x40&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=AwTZabzk-NMQ7kNvwE0kaTT&_nc_oc=Adr_dcxC66G1cardaaVSniepxp5PIUYi9bSuTOwDhx7zzleTl9thExQY_JPBnRvPrajEZZy-il2qnY3nQwBdBnPt&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQIx9kiB1eIUYukZTWGpdQY_SSRZRI0GwLId-Osqs8FiwA&oe=6ADC5585"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-1/50080202_10157128979564736_2242960036550672384_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x959&ctp=s24x24&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=AwTZabzk-NMQ7kNvwE0kaTT&_nc_oc=Adr_dcxC66G1cardaaVSniepxp5PIUYi9bSuTOwDhx7zzleTl9thExQY_JPBnRvPrajEZZy-il2qnY3nQwBdBnPt&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQIx9kiB1eIUYukZTWGpdQY_SSRZRI0GwLId-Osqs8FiwA&oe=6ADC5585"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": null,
+      "work_info": null
+     },
+     "profilePicture": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-1/50080202_10157128979564736_2242960036550672384_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x959&ctp=s32x32&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=AwTZabzk-NMQ7kNvwE0kaTT&_nc_oc=Adr_dcxC66G1cardaaVSniepxp5PIUYi9bSuTOwDhx7zzleTl9thExQY_JPBnRvPrajEZZy-il2qnY3nQwBdBnPt&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQIx9kiB1eIUYukZTWGpdQY_SSRZRI0GwLId-Osqs8FiwA&oe=6ADC5585",
+     "profileId": "pfbid0TweyeLGTpT4whggZkVB4J7tLHLHAebkiMbj9jnT6ckUnEU2nutuL78wRgM5uHDntl",
+     "profileName": "Melissa Anderson Rosene",
+     "likesCount": "0",
+     "threadingDepth": 0
+    },
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994831077849242/?comment_id=1994858037846546",
+     "commentId": "1994858037846546",
+     "id": "Y29tbWVudDoxOTk0ODMxMDc3ODQ5MjQyXzE5OTQ4NTgwMzc4NDY1NDY=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDgzMTA3Nzg0OTI0Ml8xOTk0ODU4MDM3ODQ2NTQ2",
+     "date": "2026-09-24T00:04:58.000Z",
+     "text": "Yes. You need Epic Care Link access from the hospital in question. This is how we access all the records on our patients from our local Children’s Hospital and from the newborn nurseries at community hospitals that we round at. They are all on Epic. We are on ECW.",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid0vbdk4XwBf8GvPam65BW81TWpiuQUYW6pKwj995ZzUyUUJsBa2mHM6612p5Lmddmrl",
+      "name": "Amy Voelker",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/700854063_27431656986439349_8529192339666742377_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1170x1170&ctp=s32x32&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=eYYew5B38HwQ7kNvwFYJT9H&_nc_oc=AdotuKMDNhh-I9TG96wFaxw0Uzp04EMeE4wPPNgObF4P_M8d_5nvuRRiUJZNmOK64eRlTbAIIAglnpXGl0_4pOLg&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLQn2CleXQK02sHV-VfsYSKlQdUmFqTrv2tsv4r3Q5f7A&oe=6ABAC3CD"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/700854063_27431656986439349_8529192339666742377_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1170x1170&ctp=s40x40&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=eYYew5B38HwQ7kNvwFYJT9H&_nc_oc=AdotuKMDNhh-I9TG96wFaxw0Uzp04EMeE4wPPNgObF4P_M8d_5nvuRRiUJZNmOK64eRlTbAIIAglnpXGl0_4pOLg&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLQn2CleXQK02sHV-VfsYSKlQdUmFqTrv2tsv4r3Q5f7A&oe=6ABAC3CD"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/700854063_27431656986439349_8529192339666742377_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1170x1170&ctp=s24x24&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=eYYew5B38HwQ7kNvwFYJT9H&_nc_oc=AdotuKMDNhh-I9TG96wFaxw0Uzp04EMeE4wPPNgObF4P_M8d_5nvuRRiUJZNmOK64eRlTbAIIAglnpXGl0_4pOLg&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLQn2CleXQK02sHV-VfsYSKlQdUmFqTrv2tsv4r3Q5f7A&oe=6ABAC3CD"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": null,
+      "work_info": null
+     },
+     "profilePicture": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/700854063_27431656986439349_8529192339666742377_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1170x1170&ctp=s32x32&_nc_cat=104&ccb=1-7&_nc_sid=e99d92&_nc_ohc=eYYew5B38HwQ7kNvwFYJT9H&_nc_oc=AdotuKMDNhh-I9TG96wFaxw0Uzp04EMeE4wPPNgObF4P_M8d_5nvuRRiUJZNmOK64eRlTbAIIAglnpXGl0_4pOLg&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=M99D-vVt5p8CSifP_9yZhg&_nc_ss=73289&oh=00_AQLQn2CleXQK02sHV-VfsYSKlQdUmFqTrv2tsv4r3Q5f7A&oe=6ABAC3CD",
+     "profileId": "pfbid0vbdk4XwBf8GvPam65BW81TWpiuQUYW6pKwj995ZzUyUUJsBa2mHM6612p5Lmddmrl",
+     "profileName": "Amy Voelker",
+     "likesCount": "0",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTEwMDAxMDgwMTIzMjU0MjpWSzoxOTk0ODMxMDc3ODQ5MjQy",
+   "legacyId": "1994831077849242",
+   "likesCount": 0,
+   "sharesCount": 0,
+   "commentsCount": 4,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994817091183974/",
+   "time": "2026-09-23T22:32:21.000Z",
+   "user": {
+    "id": "1863372578351082",
+    "name": "ModestLlama5805",
+    "profilePic": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/553505969_31979070528350808_8500937948890318604_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=mJryM4e2PxQQ7kNvwG8-zgE&_nc_oc=AdqL_XOgzG6JCURdn1ejNF1cujLUWhU_Mnkx8JuG1qCfhKop8wxew5_JHHSbro8prkI&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQIrJc868Y5ijyJed9gspK9hEQJihks3tVsxj1ABX9e_1w&oe=6ABAB1AA"
+   },
+   "collaborators": [],
+   "text": "Needing some information for Prior authorization on DI from a RHC stand point.",
+   "topReactionsCount": 1,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDgxNzA5MTE4Mzk3NA==",
+   "reactionLikeCount": 2,
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994817091183974/?comment_id=1994819271183756",
+     "commentId": "1994819271183756",
+     "id": "Y29tbWVudDoxOTk0ODE3MDkxMTgzOTc0XzE5OTQ4MTkyNzExODM3NTY=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDgxNzA5MTE4Mzk3NF8xOTk0ODE5MjcxMTgzNzU2",
+     "date": "2026-09-23T22:37:21.000Z",
+     "text": "I work with RHCs across the country. DI?",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid02Zk2EeZbFc8j2gjowCqq7r8xX9vcQT2nKx2KS1osCs4gTaRwM44pdUMLAQVXeubpSl",
+      "name": "Charles James",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/464746718_10161507920590259_7750523535433989003_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1900x1900&ctp=s32x32&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GfAmyPm6wyIQ7kNvwG6r_Ji&_nc_oc=AdrKQmdZoyXC8mWmisrTsv4uM2hy1aMeJFw4CFTxKwAmycQo2bL-cv8b8_u4Sjk-N-I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQI7yCS14DhjPO4nyj3tpFnLBSWX-4SfovgZdFjjOhKlzw&oe=6ABACDA8"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/464746718_10161507920590259_7750523535433989003_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1900x1900&ctp=s40x40&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GfAmyPm6wyIQ7kNvwG6r_Ji&_nc_oc=AdrKQmdZoyXC8mWmisrTsv4uM2hy1aMeJFw4CFTxKwAmycQo2bL-cv8b8_u4Sjk-N-I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQI7yCS14DhjPO4nyj3tpFnLBSWX-4SfovgZdFjjOhKlzw&oe=6ABACDA8"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/464746718_10161507920590259_7750523535433989003_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1900x1900&ctp=s24x24&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GfAmyPm6wyIQ7kNvwG6r_Ji&_nc_oc=AdrKQmdZoyXC8mWmisrTsv4uM2hy1aMeJFw4CFTxKwAmycQo2bL-cv8b8_u4Sjk-N-I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQI7yCS14DhjPO4nyj3tpFnLBSWX-4SfovgZdFjjOhKlzw&oe=6ABACDA8"
+      },
+      "gender": "MALE",
+      "__isEntity": "User",
+      "url": null,
+      "work_info": null
+     },
+     "profilePicture": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/464746718_10161507920590259_7750523535433989003_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx1900x1900&ctp=s32x32&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=GfAmyPm6wyIQ7kNvwG6r_Ji&_nc_oc=AdrKQmdZoyXC8mWmisrTsv4uM2hy1aMeJFw4CFTxKwAmycQo2bL-cv8b8_u4Sjk-N-I&_nc_zt=24&_nc_ht=scontent-sjc3-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQI7yCS14DhjPO4nyj3tpFnLBSWX-4SfovgZdFjjOhKlzw&oe=6ABACDA8",
+     "profileId": "pfbid02Zk2EeZbFc8j2gjowCqq7r8xX9vcQT2nKx2KS1osCs4gTaRwM44pdUMLAQVXeubpSl",
+     "profileName": "Charles James",
+     "likesCount": "0",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTE4NjMzNzI1NzgzNTEwODI6Vks6MTk5NDgxNzA5MTE4Mzk3NA==",
+   "legacyId": "1994817091183974",
+   "likesCount": 2,
+   "sharesCount": 0,
+   "commentsCount": 4,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994799644519052/",
+   "time": "2026-09-23T21:55:55.000Z",
+   "user": {
+    "id": "1073942785347763",
+    "name": "Monday3885",
+    "profilePic": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/553484615_24231096156572496_4643088772695871394_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=RjnsMyMOQVAQ7kNvwGD_WME&_nc_oc=Adrf8NVgJn0kK-c5KmT5CIe4f0vxYTO0v569KaOzvBSq0o7nKqtNLHTua7IZ5QgYM3c&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQIoLwBXFMqjmoAu-9lkFrbygxs3pRqaBj8aP3V2OwQeHA&oe=6ABAB829"
+   },
+   "collaborators": [],
+   "text": "Anybody care to share your incoming referral workflow for when a provider refers someone to your office as a specialist or for a procedure? We're having a tremendously difficult time following the preloaded status and substatus option, especially since we cannot change the date to know when we need to work on the next step since that's a hard coded/locked field.",
+   "topReactionsCount": 1,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDc5OTY0NDUxOTA1Mg==",
+   "reactionLikeCount": 1,
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994799644519052/?comment_id=1994949717837378",
+     "commentId": "1994949717837378",
+     "id": "Y29tbWVudDoxOTk0Nzk5NjQ0NTE5MDUyXzE5OTQ5NDk3MTc4MzczNzg=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDc5OTY0NDUxOTA1Ml8xOTk0OTQ5NzE3ODM3Mzc4",
+     "date": "2026-09-24T03:00:27.000Z",
+     "text": "We only use the eCW referral module to keep track of referral due dates for patients whose plan requires a referral. \n\nFor referrals from PCPs, we triage them from the fax inbox to a user we created named “new patient referral inbox.” Anyone can go to their d jellybean, select that user, and see all of the incoming referral faxes. We have one staff member who goes through those documents, makes a patient profile with all of the info from the referral, and calls the patient to schedule. If they reach the patient and schedule them, they mark the document reviewed and it falls out of the list. If they don’t reach the pt, they make a note in the document box about when they called, and leave it unreviewed.",
+     "author": {
+      "__typename": "GroupAnonAuthorProfile",
+      "id": "1604665491032672",
+      "name": "MysticalPenguin1036",
+      "__isActor": "GroupAnonAuthorProfile",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/554405331_25142391282035856_5008495452132805312_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=9ER-5wJ1n2wQ7kNvwHCfjfh&_nc_oc=AdrsQkY1avP8YQaT70S8t27qzoNid1V52ih-FgAq7LKfxEiC0H1M8sRZ_6a6ZYWHtjw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKa5AHzOezBfwONcCFc_rEdAgljDVw2NxcrjqDRjWBDfg&oe=6ABACE08"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/554405331_25142391282035856_5008495452132805312_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=9ER-5wJ1n2wQ7kNvwHCfjfh&_nc_oc=AdrsQkY1avP8YQaT70S8t27qzoNid1V52ih-FgAq7LKfxEiC0H1M8sRZ_6a6ZYWHtjw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKa5AHzOezBfwONcCFc_rEdAgljDVw2NxcrjqDRjWBDfg&oe=6ABACE08"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/554405331_25142391282035856_5008495452132805312_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=9ER-5wJ1n2wQ7kNvwHCfjfh&_nc_oc=AdrsQkY1avP8YQaT70S8t27qzoNid1V52ih-FgAq7LKfxEiC0H1M8sRZ_6a6ZYWHtjw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKa5AHzOezBfwONcCFc_rEdAgljDVw2NxcrjqDRjWBDfg&oe=6ABACE08"
+      },
+      "is_nickname": true,
+      "__isEntity": "GroupAnonAuthorProfile",
+      "url": null
+     },
+     "profilePicture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/554405331_25142391282035856_5008495452132805312_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx688x688&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=d7e6db&_nc_ohc=9ER-5wJ1n2wQ7kNvwHCfjfh&_nc_oc=AdrsQkY1avP8YQaT70S8t27qzoNid1V52ih-FgAq7LKfxEiC0H1M8sRZ_6a6ZYWHtjw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKa5AHzOezBfwONcCFc_rEdAgljDVw2NxcrjqDRjWBDfg&oe=6ABACE08",
+     "profileId": "1604665491032672",
+     "profileName": "MysticalPenguin1036",
+     "likesCount": "2",
+     "threadingDepth": 0
+    },
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994799644519052/?comment_id=1994953887836961",
+     "commentId": "1994953887836961",
+     "id": "Y29tbWVudDoxOTk0Nzk5NjQ0NTE5MDUyXzE5OTQ5NTM4ODc4MzY5NjE=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDc5OTY0NDUxOTA1Ml8xOTk0OTUzODg3ODM2OTYx",
+     "date": "2026-09-24T03:08:47.000Z",
+     "text": "What I do is keep the status for the referral stage and track the actual next follow-up separately. For example: referral received → verify insurance/auth → schedule appointment → confirm appointment → close once records/consult are received. This makes it easier for my team to know what needs to be worked next.",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid02QN9xr3NWVAYqsTErNriNV6eSdoUXcPw5CgarGUbmQvjrREnc351W5QmwPzDGGhNQl",
+      "name": "Anushka Katyal",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwE5R1Jg&_nc_oc=Ado2IhoYv3gcc1DH_CeYwIM_mHfDOFVve0R6Mj_Xg_OKTTC4uZE_iC2KkNFlsgl6Ddg&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQIN80npRSDGNZofda8S4baatkGF8_MrjH2rKKRPknhlCw&oe=6ABAA383"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s40x40&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwE5R1Jg&_nc_oc=Ado2IhoYv3gcc1DH_CeYwIM_mHfDOFVve0R6Mj_Xg_OKTTC4uZE_iC2KkNFlsgl6Ddg&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQIN80npRSDGNZofda8S4baatkGF8_MrjH2rKKRPknhlCw&oe=6ABAA383"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s24x24&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwE5R1Jg&_nc_oc=Ado2IhoYv3gcc1DH_CeYwIM_mHfDOFVve0R6Mj_Xg_OKTTC4uZE_iC2KkNFlsgl6Ddg&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQIN80npRSDGNZofda8S4baatkGF8_MrjH2rKKRPknhlCw&oe=6ABAA383"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": "https://www.facebook.com/anushka.3101",
+      "work_info": null
+     },
+     "profileUrl": "https://www.facebook.com/anushka.3101",
+     "profilePicture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/608145360_2214529619091811_6260669956650201233_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx960x958&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=PilU7ER2ThEQ7kNvwE5R1Jg&_nc_oc=Ado2IhoYv3gcc1DH_CeYwIM_mHfDOFVve0R6Mj_Xg_OKTTC4uZE_iC2KkNFlsgl6Ddg&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQIN80npRSDGNZofda8S4baatkGF8_MrjH2rKKRPknhlCw&oe=6ABAA383",
+     "profileId": "pfbid02QN9xr3NWVAYqsTErNriNV6eSdoUXcPw5CgarGUbmQvjrREnc351W5QmwPzDGGhNQl",
+     "profileName": "Anushka Katyal",
+     "likesCount": "1",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTEwNzM5NDI3ODUzNDc3NjM6Vks6MTk5NDc5OTY0NDUxOTA1Mg==",
+   "legacyId": "1994799644519052",
+   "likesCount": 1,
+   "sharesCount": 0,
+   "commentsCount": 2,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  },
+  {
+   "facebookUrl": "https://www.facebook.com/groups/153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474/permalink/1994758627856487/",
+   "time": "2026-09-23T20:39:37.000Z",
+   "user": {
+    "id": "pfbid0k35HumdJS5mVG8JkzM3ZPuDNF7Uouo82Nx9m5mheKQDrMhnNTovuVwKCgMVv8woyl",
+    "name": "Shawna Kersey Talkington",
+    "profilePic": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/802659723_10236187215600951_6758525869054351271_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx1284x1284&ctp=s50x50&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=NI4nroX1YXcQ7kNvwENyZPs&_nc_oc=AdqUGSDHPRjjyDZLI6WHh580rjAZE5_hmCclZpd1rrSF3UKW6jmlj4Xf-0J57N4tw-8&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQLY3CXPVKjeo9JM-wDQc-hI9a9Vvp4lZnYolXj6XtDcmQ&oe=6ABAD0B0"
+   },
+   "collaborators": [],
+   "text": "Any report that shows copayments/coinsurance collected vs what eligibility shows should have been collected if different ? As in we continue to have staff never look or update it , so we continue to have patients left $5 $10 small balances left from not looking and updating the copay amount in ecw and collecting that amount ! Would be great if they could make a patch to flash red -copay listed on info screen is different from amount on insurance eligibility !",
+   "topReactionsCount": 1,
+   "feedbackId": "ZmVlZGJhY2s6MTk5NDc1ODYyNzg1NjQ4Nw==",
+   "reactionLikeCount": 2,
+   "paidPartnership": false,
+   "topComments": [
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994758627856487/?comment_id=1994849861180697",
+     "commentId": "1994849861180697",
+     "id": "Y29tbWVudDoxOTk0NzU4NjI3ODU2NDg3XzE5OTQ4NDk4NjExODA2OTc=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDc1ODYyNzg1NjQ4N18xOTk0ODQ5ODYxMTgwNjk3",
+     "date": "2026-09-23T23:45:51.000Z",
+     "text": "Always use a provider portal to verify insurance. Availity, CGS, One Healthcare ID, etc.  Not only it will verify but make sure it’s in network and what their co payment/co insurance. Then go in  to patient insurance screen and manually change/add co pay. Then it will show up when you check the patient in for visit.",
+     "author": {
+      "__typename": "User",
+      "id": "pfbid025V75TteKj2QVRoCxjAGHNhYgaCT5vzvphaSzwzvdEwN5SYtR7q6A2A36ZEbSAAo8l",
+      "name": "Mary Lynn Hopper Wilson",
+      "__isActor": "User",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/728503146_28113487191570081_5729513885758664943_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=driMZmI13ckQ7kNvwEtriWb&_nc_oc=AdrJbrkcMvUQxcx9vtwpolur5pCtvDIkYdj_mc6T17ugGjPCEb5fAU_N5TET2P2EjIM&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQILSQ-_Ndm8_VxR7RojkHOCooaFBegFqF5tjqGaqkZ-5w&oe=6ABAB9E0"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/728503146_28113487191570081_5729513885758664943_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s40x40&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=driMZmI13ckQ7kNvwEtriWb&_nc_oc=AdrJbrkcMvUQxcx9vtwpolur5pCtvDIkYdj_mc6T17ugGjPCEb5fAU_N5TET2P2EjIM&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQILSQ-_Ndm8_VxR7RojkHOCooaFBegFqF5tjqGaqkZ-5w&oe=6ABAB9E0"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/728503146_28113487191570081_5729513885758664943_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s24x24&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=driMZmI13ckQ7kNvwEtriWb&_nc_oc=AdrJbrkcMvUQxcx9vtwpolur5pCtvDIkYdj_mc6T17ugGjPCEb5fAU_N5TET2P2EjIM&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQILSQ-_Ndm8_VxR7RojkHOCooaFBegFqF5tjqGaqkZ-5w&oe=6ABAB9E0"
+      },
+      "gender": "FEMALE",
+      "__isEntity": "User",
+      "url": null,
+      "work_info": null
+     },
+     "profilePicture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/728503146_28113487191570081_5729513885758664943_n.jpg?stp=cp6_dst-jpg_tt6&cstp=mx2048x2048&ctp=s32x32&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_ohc=driMZmI13ckQ7kNvwEtriWb&_nc_oc=AdrJbrkcMvUQxcx9vtwpolur5pCtvDIkYdj_mc6T17ugGjPCEb5fAU_N5TET2P2EjIM&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQILSQ-_Ndm8_VxR7RojkHOCooaFBegFqF5tjqGaqkZ-5w&oe=6ABAB9E0",
+     "profileId": "pfbid025V75TteKj2QVRoCxjAGHNhYgaCT5vzvphaSzwzvdEwN5SYtR7q6A2A36ZEbSAAo8l",
+     "profileName": "Mary Lynn Hopper Wilson",
+     "likesCount": "2",
+     "threadingDepth": 0
+    },
+    {
+     "commentUrl": "https://www.facebook.com/groups/153075608691474/posts/1994758627856487/?comment_id=1994760877856262",
+     "commentId": "1994760877856262",
+     "id": "Y29tbWVudDoxOTk0NzU4NjI3ODU2NDg3XzE5OTQ3NjA4Nzc4NTYyNjI=",
+     "feedbackId": "ZmVlZGJhY2s6MTk5NDc1ODYyNzg1NjQ4N18xOTk0NzYwODc3ODU2MjYy",
+     "date": "2026-09-23T20:44:16.000Z",
+     "text": "Practice management report in eobs. The current problem we have is that our version of ecw shows the wrong co-pays in the appointment screen and they don't always have time to check in the info screen or to re-run eligibility",
+     "author": {
+      "__typename": "GroupAnonAuthorProfile",
+      "id": "1409074251292571",
+      "name": "Anonymous participant 630",
+      "__isActor": "GroupAnonAuthorProfile",
+      "profile_picture_depth_0": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/480295029_8309457052490122_5764708506034413611_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=cTkfqweqdEAQ7kNvwEvkG_9&_nc_oc=Adr40TNOSAPM6HgVM3hmmFepOCADCePUZ-zog0DFj5eRnivmR00WIvf1exEXD-kgyaE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKY0d9zUVrLPbTBt8um0P4utIktTCZ14DpBxrJIIxTFuw&oe=6ABAB96D"
+      },
+      "profile_picture_depth_0_increased": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/480295029_8309457052490122_5764708506034413611_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s50x50&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=cTkfqweqdEAQ7kNvwEvkG_9&_nc_oc=Adr40TNOSAPM6HgVM3hmmFepOCADCePUZ-zog0DFj5eRnivmR00WIvf1exEXD-kgyaE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKY0d9zUVrLPbTBt8um0P4utIktTCZ14DpBxrJIIxTFuw&oe=6ABAB96D"
+      },
+      "profile_picture_depth_1": {
+       "uri": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/480295029_8309457052490122_5764708506034413611_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=cTkfqweqdEAQ7kNvwEvkG_9&_nc_oc=Adr40TNOSAPM6HgVM3hmmFepOCADCePUZ-zog0DFj5eRnivmR00WIvf1exEXD-kgyaE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKY0d9zUVrLPbTBt8um0P4utIktTCZ14DpBxrJIIxTFuw&oe=6ABAB96D"
+      },
+      "is_nickname": false,
+      "__isEntity": "GroupAnonAuthorProfile",
+      "url": null
+     },
+     "profilePicture": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35477-6/480295029_8309457052490122_5764708506034413611_n.jpg?stp=cp0_dst-jpg_tt6&cstp=mx160x160&ctp=s34x34&_nc_cat=1&ccb=1-7&_nc_sid=ee2d7f&_nc_ohc=cTkfqweqdEAQ7kNvwEvkG_9&_nc_oc=Adr40TNOSAPM6HgVM3hmmFepOCADCePUZ-zog0DFj5eRnivmR00WIvf1exEXD-kgyaE&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=cyGJSa9srp6ejaLN9RG3ww&_nc_ss=73289&oh=00_AQKY0d9zUVrLPbTBt8um0P4utIktTCZ14DpBxrJIIxTFuw&oe=6ABAB96D",
+     "profileId": "1409074251292571",
+     "profileName": "Anonymous participant 630",
+     "likesCount": "0",
+     "threadingDepth": 0
+    }
+   ],
+   "id": "UzpfSTEyNDM1NTcyNjA6Vks6MTk5NDc1ODYyNzg1NjQ4Nw==",
+   "legacyId": "1994758627856487",
+   "likesCount": 2,
+   "sharesCount": 0,
+   "commentsCount": 6,
+   "facebookId": "153075608691474",
+   "groupTitle": "eCW users forum",
+   "inputUrl": "https://www.facebook.com/groups/153075608691474"
+  }
+ ]
+}

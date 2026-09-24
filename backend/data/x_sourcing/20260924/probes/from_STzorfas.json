@@ -1,0 +1,1689 @@
+{
+ "key": "from_STzorfas",
+ "query": "from:STzorfas lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102911243119907106",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102911243119907106",
+   "url": "https://x.com/STzorfas/status/2102911243119907106",
+   "conversationId": "2102747593755202046",
+   "text": "@lakeboating2021 Maybe.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:01:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 13
+   },
+   "replyTo": {
+    "tweetId": "2102901609231700351",
+    "userId": "1622946714784071681",
+    "username": "STzorfas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1267106639490023424",
+      "username": "lakeboating2021",
+      "name": "@hillbilly007"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102893204307574888",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102893204307574888",
+   "url": "https://x.com/STzorfas/status/2102893204307574888",
+   "conversationId": "2102770274403770494",
+   "text": "Have you ever seen the show \"The Good Place\" with Ted Danson and Kristen Bell.  Unfortunately, you are in \"The Good Place\", which is really \"The Bad Place\".  You are in eternal hell and just like the show it is all done to torture you.  It is all done at your expense.  It is one big circus. \nYou are being used and being played.  I doubt this will ever change.  As George Carlin said \"it's one big club and you ain't in it\".  Its really that simple.  It is one uniparty.\n\nI won't lie because it is deeply disappointing.  our founding fathers would be disgusted.",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:49:44.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 34
+   },
+   "replyTo": {
+    "tweetId": "2102770274403770494",
+    "userId": "1513897058134069258",
+    "username": "ArkansasAngie"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102817072887550247",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102817072887550247",
+   "url": "https://x.com/STzorfas/status/2102817072887550247",
+   "conversationId": "2102817072887550247",
+   "text": "In addition to site-neutral payments, decreasing governmental regulation, and increasing payment to private practice physicians.  Lets see this:\nTax incentives- allow  private practice physicians to qualify for the FULL QBI tax deduction, just like a trade.  Medicine is classified as a specified service trade.  If we want more independent doctors, we have to make independence economically viable. We give tax incentives to businesses because we want those businesses to exist. Why wouldn't we do the same thing for independent medical practices? The beneficiary isn't just the doctor. The beneficiary is the patient who gets another choice .  We want to make it easier for small private practices to thrive. @SecScottBessent @WaysandMeansGOP @DrOzCMS",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:47:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 349
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1889019333960998912",
+      "username": "SecScottBessent",
+      "name": "Treasury Secretary Scott Bessent"
+     },
+     {
+      "id": "12788332",
+      "username": "WaysandMeansGOP",
+      "name": "Ways and Means Committee"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102799003133857945",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102799003133857945",
+   "url": "https://x.com/STzorfas/status/2102799003133857945",
+   "conversationId": "2102422934119678244",
+   "text": "Have you ever seen the show \"The Good Place\" with Ted Danson and Kristen Bell.  Unfortunately, you are in \"The Good Place\", which is really \"The Bad Place\".  You are in eternal hell and just like the show it is all done to torture you.  It is all done at your expense.  It is one big circus. \nYou are being used and being played.  I doubt this will ever change.  As George Carlin said \"it's one big club and you ain't in it\".  Its really that simple.  It is one uniparty.\n\nI won't lie because it is deeply disappointing.  our founding fathers would be disgusted.",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:35:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 55
+   },
+   "replyTo": {
+    "tweetId": "2102422934119678244",
+    "userId": "2087321767715221504",
+    "username": "StephenMil48"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102341987626000489",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102341987626000489",
+   "url": "https://x.com/STzorfas/status/2102341987626000489",
+   "conversationId": "2102261351846740471",
+   "text": "@gc22gc You forgot what private equity and large healthcare systems did to your independent private practice doctor",
+   "lang": "en",
+   "createdAt": "2026-09-22T10:19:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 0,
+    "views": 860
+   },
+   "replyTo": {
+    "tweetId": "2102261351846740471",
+    "userId": "1347365630601617410",
+    "username": "gc22gc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1347365630601617410",
+      "username": "gc22gc",
+      "name": "Grace Chong, MBI"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102192216261186013",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102192216261186013",
+   "url": "https://x.com/STzorfas/status/2102192216261186013",
+   "conversationId": "2101875100614291463",
+   "text": "@NanLee1124 You forgot that he destroyed American medicine as we know it",
+   "lang": "en",
+   "createdAt": "2026-09-22T00:24:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 18
+   },
+   "replyTo": {
+    "tweetId": "2101875100614291463",
+    "userId": "1479290779709239296",
+    "username": "NanLee1124"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1479290779709239296",
+      "username": "NanLee1124",
+      "name": "Natalia Marie Carissimi"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102185846266851733",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102185846266851733",
+   "url": "https://x.com/STzorfas/status/2102185846266851733",
+   "conversationId": "2102185846266851733",
+   "text": "The below is from Dr. Oz. So wait a minute, Dr. Oz is telling us that this is more important than site – neutral payments, increasing private practice physician payment to match inflation, reducing unnecessary government regulation like MIPS,  allowing physicians to own hospitals again, or just giving patients a choice to see the physiclan of their choosing.\n\nMedicare has been paying about 16% more for laboratory services than private insurers. That needs to change.\n\nCMS plans to better align 2027 laboratory payment rates with private-sector rates — which would be estimated to save taxpayers over $1 BILLION annually once the reductions are fully phased in, lowering Medicare patients’ premium costs.\n\nProtecting Medicare means rooting out waste https://x.com/DrOzCMS/status/2102135026200764664/video/1",
+   "lang": "en",
+   "createdAt": "2026-09-21T23:58:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 1020
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102134720452575233",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102134720452575233/vid/avc1/3840x2160/TjEpVo0xyO0vv4xQ.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102134720452575233/img/FZ3Mumx-7sgH02tl.jpg",
+     "width": 3840,
+     "height": 2160,
+     "altText": null,
+     "durationSeconds": 153
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/DrOzCMS/status/2102135026200764664/video/1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101832983791489477",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101832983791489477",
+   "url": "https://x.com/STzorfas/status/2101832983791489477",
+   "conversationId": "2101622004289876220",
+   "text": "@ARodge79 @HeathVeuleman Exceptionally well put.  You can put the American Academynof Neurology in there too!",
+   "lang": "en",
+   "createdAt": "2026-09-21T00:36:48.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": {
+    "tweetId": "2101713731453325726",
+    "userId": "2090094437363789824",
+    "username": "ARodge79"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2090094437363789824",
+      "username": "ARodge79",
+      "name": "Dr. Why, MD"
+     },
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101791378531307610",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101791378531307610",
+   "url": "https://x.com/STzorfas/status/2101791378531307610",
+   "conversationId": "2101112408114897004",
+   "text": "@BKRBusinessMin @HeathVeuleman All doctors should be paid the same amount for whatever service they provide whether it’s in a hospital or in  a private practice doctors office",
+   "lang": "en",
+   "createdAt": "2026-09-20T21:51:28.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 38
+   },
+   "replyTo": {
+    "tweetId": "2101112408114897004",
+    "userId": "1613586957329731623",
+    "username": "BKRBusinessMin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1613586957329731623",
+      "username": "BKRBusinessMin",
+      "name": "Scott Becker"
+     },
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101791165536235758",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101791165536235758",
+   "url": "https://x.com/STzorfas/status/2101791165536235758",
+   "conversationId": "2101757431479247078",
+   "text": "@PaleoOnc I do this crap.  The ones that I do intentionally try to trip you up. It’s nitty-gritty minutia specifically meant to be a roadblock.  It’s a disgrace that we’ve been reduced to this level.",
+   "lang": "en",
+   "createdAt": "2026-09-20T21:50:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2101757431479247078",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1581144323978133504",
+      "username": "PaleoOnc",
+      "name": "Paleoncologist"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101781842072334812",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101781842072334812",
+   "url": "https://x.com/STzorfas/status/2101781842072334812",
+   "conversationId": "2100965812194398386",
+   "text": "@HeathVeuleman @PatientsandDocs The mission unfortunately is to screw independent physicians until there are no more of us left. What a horrible government-  picking winners and losers.",
+   "lang": "en",
+   "createdAt": "2026-09-20T21:13:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 13
+   },
+   "replyTo": {
+    "tweetId": "2100965812194398386",
+    "userId": "1312884507972837377",
+    "username": "HeathVeuleman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     },
+     {
+      "id": "839616233859399680",
+      "username": "PatientsandDocs",
+      "name": "PatientsandPhysician"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101713224118747538",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101713224118747538",
+   "url": "https://x.com/STzorfas/status/2101713224118747538",
+   "conversationId": "2101713224118747538",
+   "text": "BREAKING NEWS…  I’m officially on TikTok!  Follow along for updates on our efforts to make America affordable AND our ongoing War on Fraud.\n\nhttps://x.com/DrOzCMS/status/2079658077700141144/video/1\n\nIs Medicare ever going to get around to caring about patients AND doctors?\nWill Medicare meaningfully reduce government regulation and increase reimbursement to independent private-practice physicians? \nAt the rate we're going, in 5–10 years there may be very few independent doctors left.\n\nAnd this is NOT just a doctor issue.\n\nIt is very much a PATIENT issue.\n\nWhen independent doctors disappear, patients lose choice, continuity, access and—perhaps most importantly—a physician who is free to put the patient first.\n\nWe need policies that make independent medical practice viable again.  @DrOzCMS @CMSGov @WhiteHouse @SecKennedy",
+   "lang": "en",
+   "createdAt": "2026-09-20T16:40:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 132
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2079656774697705472",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2079656774697705472/vid/avc1/1080x1920/JcNLpfSpeb6Yj6jz.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNxtFK7WAAAkkVJ.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 42
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "1879644163769335808",
+      "username": "WhiteHouse",
+      "name": "The White House"
+     },
+     {
+      "id": "1886875846473879552",
+      "username": "SecKennedy",
+      "name": "Secretary Kennedy"
+     }
+    ],
+    "urls": [
+     "https://x.com/DrOzCMS/status/2079658077700141144/video/1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101382571594506280",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101382571594506280",
+   "url": "https://x.com/STzorfas/status/2101382571594506280",
+   "conversationId": "2100237754416210223",
+   "text": "@Lisa555lc @Radiologysheep Thank you!",
+   "lang": "en",
+   "createdAt": "2026-09-19T18:47:01.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 29
+   },
+   "replyTo": {
+    "tweetId": "2101332969688596889",
+    "userId": "1422563919328124932",
+    "username": "Lisa555lc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1422563919328124932",
+      "username": "Lisa555lc",
+      "name": "lisa"
+     },
+     {
+      "id": "2084059586760200192",
+      "username": "Radiologysheep",
+      "name": "The Radiology Sheep"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100990454535729237",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100990454535729237",
+   "url": "https://x.com/STzorfas/status/2100990454535729237",
+   "conversationId": "2100714293410840721",
+   "text": "What would the accomplish the most?  Doctors standing up for themselves.  Refusing to be bought out.  Taking control of our destiny.  Having the desire to be entrepreneurs.  Unfortunately,  the spirit to do all of  this does not exist.  Young medical students aren’t even given the option to be entrepreneurs.  Nothing moves without us.",
+   "lang": "en",
+   "createdAt": "2026-09-18T16:48:53.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 168
+   },
+   "replyTo": {
+    "tweetId": "2100740349409050773",
+    "userId": "726767006905573376",
+    "username": "DGlaucomflecken"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100738164977520783",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100738164977520783",
+   "url": "https://x.com/STzorfas/status/2100738164977520783",
+   "conversationId": "2100338905245466935",
+   "text": "@2CynicAl65 In college I had a 1972 Buick Electra 225 Limited. It was champagne gold with a white vinyl top. I loved that car and it drove like a dream. When I was a child my dad had a 1973 Lincoln Continental and that thing floated everywhere we went.",
+   "lang": "en",
+   "createdAt": "2026-09-18T00:06:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 29
+   },
+   "replyTo": {
+    "tweetId": "2100338905245466935",
+    "userId": "40986998",
+    "username": "2CynicAl65"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "40986998",
+      "username": "2CynicAl65",
+      "name": "𝓐𝓵𝓵𝓮𝓷 𝓡𝓪𝔂"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100589204677742908",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100589204677742908",
+   "url": "https://x.com/STzorfas/status/2100589204677742908",
+   "conversationId": "2100373573596492274",
+   "text": "You are in the fourth turning and it indeed will be ugly. You are watching human nature unfold. It’s very sad that our founding fathers who tried to prevent all this really couldn’t do it. As Franklin said, “it’s your Republic if you can keep it”. This country cannot function indefinitely if people do not have good morals and ethics.  Many people in Congress do not understand human nature. And if socialism comes to be, we as a people will have to endure it probably for decades. This country is not very good at teaching our young people history. Not only is our medical system corrupt, but our teaching system is just as corrupt.  Human nature is that people have to literally relive the same failed policies over and over again.",
+   "lang": "en",
+   "createdAt": "2026-09-17T14:14:28.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2100373573596492274",
+    "userId": "1312884507972837377",
+    "username": "HeathVeuleman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100261665937690863",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100261665937690863",
+   "url": "https://x.com/STzorfas/status/2100261665937690863",
+   "conversationId": "2100237754416210223",
+   "text": "When I went to the hospital, the first thing I did was go down to the reading room asked the radiology tech there to pull all my patients films. I would give her a list she would pull them. I would chat with her and we’d have lots of pleasant things to talk about.  Then I’d go back and read the films and any questions I had I would go to the radiologist. It is really sad that this is gone. Technology wittles away st our humanity one small etch at a time. How I just sit in front of a computer by myself and read the studies.",
+   "lang": "en",
+   "createdAt": "2026-09-16T16:32:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 862
+   },
+   "replyTo": {
+    "tweetId": "2100237754416210223",
+    "userId": "2084059586760200192",
+    "username": "Radiologysheep"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097737457122882010",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097737457122882010",
+   "url": "https://x.com/STzorfas/status/2097737457122882010",
+   "conversationId": "2097737457122882010",
+   "text": "I am involved in almost all aspects of my practice.  Something I noticed for a long time depositing secondary-insurance checks.  Checks labeled Aetna, HealthSpring, United American, ACE Property & Casualty, Aflac, American Retirement, Loyal American Life all appear to be drawn on the same UMB Bank account and have the same routing information.  All have check numbers beginning with the same series, ie. 136…., 137……..\n\nDoes anyone in insurance/payment processing know why multiple apparently unrelated insurers would issue claims payments from the same bank account/payment system? Is this simply a centralized payment processor, or is there a corporate relationship I’m missing?  I still like to do everything on paper and I do whatever I can to get paper checks. Is this why they don’t want anybody getting paper checks?\n\n@AAPSonline @AARP @AMACforAmerica",
+   "lang": "en",
+   "createdAt": "2026-09-09T17:22:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 196
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "42769016",
+      "username": "AAPSonline",
+      "name": "Association of American Physicians & Surgeons"
+     },
+     {
+      "id": "80628196",
+      "username": "AARP",
+      "name": "AARP"
+     },
+     {
+      "id": "188335086",
+      "username": "AMACforAmerica",
+      "name": "AMAC"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095260956049707448",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095260956049707448",
+   "url": "https://x.com/STzorfas/status/2095260956049707448",
+   "conversationId": "2095219341780291899",
+   "text": "@CharlesLutzMD You are absolutely correct.  The private practice doctor is the model of small business in America. So sad what has happened to it.",
+   "lang": "en",
+   "createdAt": "2026-09-02T21:21:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": {
+    "tweetId": "2095219341780291899",
+    "userId": "1519306180669157376",
+    "username": "CharlesLutzMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1519306180669157376",
+      "username": "CharlesLutzMD",
+      "name": "Charles Lutz"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2091309542835437637",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2091309542835437637",
+   "url": "https://x.com/STzorfas/status/2091309542835437637",
+   "conversationId": "2091263617865851357",
+   "text": "@PaleoOnc Very thorough!!  I took my Hippocratic oath in 1990.  I think it  was similar to yours. But,   In my aged memory, it was not lengthy. I’ve worked hard and done my best to adhere to this oath and do what is best for my patients.",
+   "lang": "en",
+   "createdAt": "2026-08-22T23:40:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 42
+   },
+   "replyTo": {
+    "tweetId": "2091263617865851357",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1581144323978133504",
+      "username": "PaleoOnc",
+      "name": "Paleoncologist"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090942488643026978",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090942488643026978",
+   "url": "https://x.com/STzorfas/status/2090942488643026978",
+   "conversationId": "2090807291821842575",
+   "text": "@RG61424549 @DrBruggeman @noahkaufmanmd Thank you for the kind words.",
+   "lang": "en",
+   "createdAt": "2026-08-21T23:21:51.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2090828920715161897",
+    "userId": "1521290645452865536",
+    "username": "RG61424549"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1521290645452865536",
+      "username": "RG61424549",
+      "name": "RG 🇺🇸"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     },
+     {
+      "id": "392805846",
+      "username": "noahkaufmanmd",
+      "name": "Noah Kaufman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090810100646560253",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090810100646560253",
+   "url": "https://x.com/STzorfas/status/2090810100646560253",
+   "conversationId": "2090807291821842575",
+   "text": "@DrBruggeman Absolutely. How do we get Congress to reverse the ACA and get doctors out of hospitals and back into private practice?",
+   "lang": "en",
+   "createdAt": "2026-08-21T14:35:48.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 48
+   },
+   "replyTo": {
+    "tweetId": "2090807291821842575",
+    "userId": "2569441044",
+    "username": "DrBruggeman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090451376518156346",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090451376518156346",
+   "url": "https://x.com/STzorfas/status/2090451376518156346",
+   "conversationId": "2090451376518156346",
+   "text": "Patients Are Telling Us What’s Wrong\n\nEvery day, I see patients who were evaluated at local hospital clinics one or two months before they see me. Many come to me because they feel they didn’t receive the depth of evaluation they needed.\n\nI understand the enormous difficulty doctors face negotiating with insurers. But we need to get back to where we were: more independent, private-practice physicians with the autonomy to practice medicine the way it should be practiced.\n\nAnd here’s the interesting part: if you build a good private practice, you will be busy.\n\nPatients will find you.\n\nHospital systems are often overwhelmed, inefficient, and unable to meet the demand for timely, thorough care. That creates an opportunity for private practice.\n\nWe need more private-practice doctors—and we need to start using our collective leverage.\n\nDo that, and you can regain your autonomy while providing the kind of personalized, in-depth care that patients are actively seeking.",
+   "lang": "en",
+   "createdAt": "2026-08-20T14:50:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 2,
+    "views": 471
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090424513724866711",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090424513724866711",
+   "url": "https://x.com/STzorfas/status/2090424513724866711",
+   "conversationId": "2090029273180504282",
+   "text": "@DrDimitrios Agreed.  Then go into independent private practice and do what is best for yourself and your patients.",
+   "lang": "en",
+   "createdAt": "2026-08-20T13:03:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 82
+   },
+   "replyTo": {
+    "tweetId": "2090029273180504282",
+    "userId": "1200890869886455808",
+    "username": "DrDimitrios"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1200890869886455808",
+      "username": "DrDimitrios",
+      "name": "Dimitrios Tsatiris MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090403015568019719",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090403015568019719",
+   "url": "https://x.com/STzorfas/status/2090403015568019719",
+   "conversationId": "2090231690740609362",
+   "text": "@SteviKelly Agreed.  You can’t hide your head in the sand. I do find AI helpful especially when I see difficult patients.  I think It will be ancillary, not replacement.",
+   "lang": "en",
+   "createdAt": "2026-08-20T11:38:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 86
+   },
+   "replyTo": {
+    "tweetId": "2090391745330663853",
+    "userId": "391573569",
+    "username": "SteviKelly"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "391573569",
+      "username": "SteviKelly",
+      "name": "Stevi Jenkins-Kelly PharmD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090231690740609362",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090231690740609362",
+   "url": "https://x.com/STzorfas/status/2090231690740609362",
+   "conversationId": "2090231690740609362",
+   "text": "As a neurologist, I’m not worried about AI replacing me.\n\nTake Alzheimer’s disease. I have to talk to the patient, examine them, perform a mental status exam, look for Parkinsonism, order and interpret bloodwork, assess APO E genetic risk, and integrate biomarkers such as Ptau217/Aβ42 ratio, amyloid PET scan and EEG.\nThen, are they a candidate for IV anti- amyloid therapy. \n\nTremor? I need to determine whether it’s resting, action, postural, or evidence of Parkinsonism or maybe something else like due to meds —and then examine for the associated signs.\n\nWeakness, numbness or burning? EMG/NCS requires interpreting motor and sensory responses and recognizing abnormalities in the waveforms and even the characteristic sounds of fibrillation potentials and denervation.\n\nThose are just three examples.\n\nWill AI assist neurologists- probably yes. Will they replace neurologists – doubtful! Lastly, I kind of think most patients are going to want to talk to a human being about all of this.",
+   "lang": "en",
+   "createdAt": "2026-08-20T00:17:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 18,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 45,
+    "bookmarks": 13,
+    "views": 5909
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090224341027836062",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090224341027836062",
+   "url": "https://x.com/STzorfas/status/2090224341027836062",
+   "conversationId": "2090181425807135205",
+   "text": "@itssolatime @Benefitsguynick @DrDeepMD @DrDiGiorgio @CoffeeBlackMD @jalbright22 In the office, I should be paid at the time of service for all services.",
+   "lang": "en",
+   "createdAt": "2026-08-19T23:48:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 69
+   },
+   "replyTo": {
+    "tweetId": "2090223381496897723",
+    "userId": "513736470",
+    "username": "itssolatime"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "513736470",
+      "username": "itssolatime",
+      "name": "Sola Olateju"
+     },
+     {
+      "id": "1703223304729821185",
+      "username": "Benefitsguynick",
+      "name": "Nick Lease"
+     },
+     {
+      "id": "1471281702307827712",
+      "username": "DrDeepMD",
+      "name": "Sandeep Palakodeti, MD MPH"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "1567619837660372992",
+      "username": "CoffeeBlackMD",
+      "name": "CoffeeBlackMD"
+     },
+     {
+      "id": "162148576",
+      "username": "jalbright22",
+      "name": "Justin Albright"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090221240845758968",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090221240845758968",
+   "url": "https://x.com/STzorfas/status/2090221240845758968",
+   "conversationId": "2090181425807135205",
+   "text": "Absolutely. I have bills and huge expenses.  Why should I wait 4 weeks to get paid. Or worse, administrator plans take 6 to 8 weeks to get paid. Why am I different from anybody else? Why should I get abused by middle men all day long.  My day starts with a middleman and ends with a middleman.  I have a very small practice and I run it as efficiently as possible.",
+   "lang": "en",
+   "createdAt": "2026-08-19T23:35:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 2,
+    "views": 1212
+   },
+   "replyTo": {
+    "tweetId": "2090219998744854810",
+    "userId": "1703223304729821185",
+    "username": "Benefitsguynick"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090217114191679667",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2090217114191679667",
+   "url": "https://x.com/STzorfas/status/2090217114191679667",
+   "conversationId": "2090181425807135205",
+   "text": "I go to a barber or electrician or Walmart or the supermarket or any freakin business on the planet and everyone gets paid at the time of service. Very few people are left in the world that don’t get paid at the time of service. Please! I should be no different. The fact that this has been going on for decades is ridiculous. You’re providing a professional service and it should be paid at the time of service.",
+   "lang": "en",
+   "createdAt": "2026-08-19T23:19:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 1907
+   },
+   "replyTo": {
+    "tweetId": "2090181425807135205",
+    "userId": "1703223304729821185",
+    "username": "Benefitsguynick"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089385754573111544",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2089385754573111544",
+   "url": "https://x.com/STzorfas/status/2089385754573111544",
+   "conversationId": "2089361047811399729",
+   "text": "@pgipe I bill those two codes with other codes that Medicare pays, I don’t bill those two together together. I was talking about billing them with the other codes that Medicare advantage won’t pay for",
+   "lang": "en",
+   "createdAt": "2026-08-17T16:15:57.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1622946714784071681",
+    "username": "STzorfas",
+    "name": "Scott Tzorfas, MD",
+    "url": "https://x.com/STzorfas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2044907909985816578/kdho6ClW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 176
+   },
+   "replyTo": {
+    "tweetId": "2089378936744488974",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

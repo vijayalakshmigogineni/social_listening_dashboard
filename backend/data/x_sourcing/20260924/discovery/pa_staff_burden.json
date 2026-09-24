@@ -1,0 +1,2974 @@
+{
+ "key": "pa_staff_burden",
+ "query": "(\"prior authorization\" OR \"prior auth\" OR \"prior auths\") (staff OR \"full-time\" OR \"hours a week\" OR \"on hold\") (practice OR clinic OR office) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1215416735609671680",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1215416735609671680",
+   "url": "https://x.com/DGlaucomflecken/status/1215416735609671680",
+   "conversationId": "1215416735609671680",
+   "text": "Avoiding burnout in medicine is simple, all you need is staff to handle billing/coding, someone to coordinate referrals/prior auths, an IT person, a scribe, a practice manager, a personal chef, a sleep coach, &amp; somebody to whisper in your ear how amazing you are every couple hrs.",
+   "lang": "en",
+   "createdAt": "2020-01-09T23:35:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "726767006905573376",
+    "username": "DGlaucomflecken",
+    "name": "Dr. Glaucomflecken",
+    "url": "https://x.com/DGlaucomflecken",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1548123401683738628/VxXLFBiF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 51,
+    "retweets": 460,
+    "quotes": 56,
+    "likes": 3049,
+    "bookmarks": 44,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1340369624454447105",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1340369624454447105",
+   "url": "https://x.com/kaitlancollins/status/1340369624454447105",
+   "conversationId": "1340369624454447105",
+   "text": "Campaign staff received this legal memo today: \"Please make sure that relevant personnel are aware that these records must be maintained. The files or boxes should be labeled, 'DO NOT DESTROY WITHOUT PRIOR AUTHORIZATION FROM THE GENERAL COUNSEL'S OFFICE.'\"\nhttps://www.cnn.com/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html",
+   "lang": "en",
+   "createdAt": "2020-12-19T18:53:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "180107694",
+    "username": "kaitlancollins",
+    "name": "Kaitlan Collins",
+    "url": "https://x.com/kaitlancollins",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2023772782937673728/_A6j2tmi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 119,
+    "retweets": 283,
+    "quotes": 49,
+    "likes": 1327,
+    "bookmarks": 19,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.cnn.com/2020/12/19/politics/trump-campaign-sidney-powell-dominion-voting-systems/index.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097731763883696415",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2097731763883696415",
+   "url": "https://x.com/MooreForPA/status/2097731763883696415",
+   "conversationId": "2097731763883696415",
+   "text": "One of the biggest problems with American healthcare is that we have built an entire system around managing problems instead of actually trying to solve them.\n\nYou go in with a problem. You get bounced around. Another appointment. Another copay. Another prescription. Another referral. Another prior authorization. Another bill. Six months later you may still not know what the hell was actually wrong in the first place.\n\nMy healthcare reform starts with a principle I think should be obvious: treat the problem, not manage it forever.\n\nThat means putting more emphasis on getting the diagnosis right, finding underlying causes when possible, early intervention, prevention, appropriate testing, and coordinating care instead of forcing patients to become their own full-time case managers.\n\nIt also means admitting that affordability is part of healthcare. A treatment somebody cannot afford might as well not exist for that person. Medical debt can destroy a family financially even when they did everything right, carried insurance, worked, and paid their premiums.\n\nMedicaid needs the same kind of accountability. I support protecting healthcare for people who legitimately need it, but protecting Medicaid also means protecting it from fraud, improper payments, duplicate coverage, bad managed-care practices, and government systems that take forever to update basic information.\n\nI don't accept the argument that our only two choices are endlessly throwing more money into healthcare or ripping coverage away from people.\n\nThat's lazy politics.\n\nFix the damn system.\n\nMake it easier for doctors to practice medicine instead of paperwork. Make insurers and managed-care organizations answer for unnecessary delays. Give patients a real appeals process when care is denied. Go after fraud without treating every legitimate patient like a criminal. Protect people from crushing medical debt while still expecting accountability throughout the system.\n\nPennsylvania can't fix the entire American healthcare system by itself.\n\nBut a Governor sure as hell can stop pretending Pennsylvania has no power to make it better.\n\nJames Moore for Governor\n\nThey counted us out. Now write us in.\n\nUnbought. Unafraid.\n\nhttp://www.mooreforpa.com\n\n#MooreForPA #JamesMooreForGovernor #HealthcareReform #Pennsylvania #WriteInJamesMoore",
+   "lang": "en",
+   "createdAt": "2026-09-09T17:00:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2040200380311547904",
+    "username": "MooreForPA",
+    "name": "James Moore",
+    "url": "https://x.com/MooreForPA",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2091939896323629056/S7T60EA3_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 18,
+    "bookmarks": 1,
+    "views": 784
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "MooreForPA",
+     "JamesMooreForGovernor",
+     "HealthcareReform",
+     "Pennsylvania",
+     "WriteInJamesMoore"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://www.mooreforpa.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1780976367062090093",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1780976367062090093",
+   "url": "https://x.com/RenoDrew/status/1780976367062090093",
+   "conversationId": "1780976367062090093",
+   "text": "My staff approached me because the prior auths are getting overwhelming.  With one patient, they spent 90 min trying for PA and still couldn't get approval.  Their solution is to hire more staff.  Given we're a small FP office, we don't have that budget.  The system is broken 1/",
+   "lang": "en",
+   "createdAt": "2024-04-18T15:07:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1493286566",
+    "username": "RenoDrew",
+    "name": "Andy Pasternak, MD, MS",
+    "url": "https://x.com/RenoDrew",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1325473757910110211/BYwCN6IN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 31,
+    "retweets": 49,
+    "quotes": 9,
+    "likes": 454,
+    "bookmarks": 15,
+    "views": 55579
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1927326765543805081",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1927326765543805081",
+   "url": "https://x.com/JahangirAsgha10/status/1927326765543805081",
+   "conversationId": "1927326765543805081",
+   "text": "Everyone talks about physician compensation.\nAlmost no one talks about overhead.\n\nWe debate how much CMS pays.\nWhy procedural specialties are paid more.\nHow physicians are reimbursed.\n\nBut that misses the real driver of dysfunction:\nThe single most expensive, least addressed force in U.S. healthcare is overhead.\n\nSince 2000, the cost to run a medical practice has exploded—not because of waste, but because of structural demands:\n•Labor inflation: Support staff wages up 20–30%\n•IT requirements: EHR systems cost $100K+ to implement, plus ongoing fees\n•Administrative burden: Prior auths, audits, quality metrics, and regulatory reporting—all requiring more staff and more unpaid physician hours\n\nToday, 60–70% of practice revenue goes to overhead.\nAnd that’s just at the practice level.\n\nAt the national level?\nAdministrative costs now exceed $1.4 trillion—about 25% of all U.S. healthcare spending.\n\nLet that sink in.\n\nCompare that to peer nations:\n•Germany: 5%\n•France: 6.5%\n•Switzerland: 6.2%\n•Canada: 3.8%\n•U.K.: 3.5%\n\nWhen we spend 3-5x more on bureaucracy than comparable countries, it’s no wonder we’re struggling.\n\nAnd yet, the federal government continues to pour tax dollars and subsidies into hospital systems—without addressing the underlying cost drivers.\n\nNow combine that with revenue trends:\n•Medical Economic Index (MEI): +76%\n•General Inflation (CPI): +70%\n•Practice Overhead: +100% or more\n•Medicare Conversion Factor: –5.5% (nominal)\n•Inflation-adjusted CMS payments: ~26% decline\n\nRising costs. Flat and falling revenue.\n\nThis is the math problem that’s breaking medicine:\n•Independent practices are disappearing\n•Physician burnout is soaring\n•Access in underserved communities is collapsing\n\nThis is what I mean when I say Medicare, Medicaid and healthcare need structural reform.",
+   "lang": "en",
+   "createdAt": "2025-05-27T11:31:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 37,
+    "retweets": 155,
+    "quotes": 24,
+    "likes": 575,
+    "bookmarks": 151,
+    "views": 46609
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1927326760699297792",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gr89ejmWAAAx6iZ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gr89ejmWAAAx6iZ.jpg",
+     "width": 1979,
+     "height": 1180,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2046517680778232250",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2046517680778232250",
+   "url": "https://x.com/DrDeepMD/status/2046517680778232250",
+   "conversationId": "2046517680778232250",
+   "text": "My long-term dream is to be in a position to buy an entire health system. The full hospital infrastructure, outpatient, all the payor contracts etc\n\nAnd totally flip the script\n\nNo need to take a pay cut. We can and should do all the following:\n\nPhysicians will be forbidden from charting\n\nThere will be no “admin” - they will all have non-executive titles and all report to physician leaders\n\nAll physician leaders will still see patients \n\nWe will not accept any payor contract that requires prior auth\n\nEvery payor contract will be publicly published\n\nEvery single price of every single widget and service will be known and published publicly \n\nDoctors and clinicians will get paid MORE but will be required to form real relationships with patients - all appointments 30 minutes minimum, regardless of specialty\n\nNo charting, ever\n\nNo RVUs or volume quotas ever, comp based on combination of basic and specialty specific volumes, and on outcomes, continuity, and real patient relationships\n\nZero non-compete clauses ever. Physicians own their careers and can practice wherever they want\n\nEnterprise liability for all malpractice with physicians not practicing defensive medicine and ordering unnecessary tests\n\nAll clinical outcomes, complication rates, readmissions, and success data published publicly alongside prices\n\nPhysicians control all hiring, firing, scheduling, and staffing with no corporate or admin interference\n\nNo mandatory meetings, committees, compliance modules, DEI trainings, or “quality improvement” busywork\n\nMOC and board cert NOT required, we credential our own people and make sure they are competent already\n\nEvery physician receives real equity and ownership stake in the health system\n\nEvery patient has opportunity to vote and control community-based decisions in a decentralized framework\n\nEvery patient gets same-day or next-day appointments\n\nZero surprise bills ever with all costs known, itemized, and locked in before you say yes. No collections department \n\nFull, plain-English access to all test results, notes, and imaging the second they’re ready\n\nReal continuity, patients see the same physician and team for every visit, forever\n\nDischarge includes same-day meds, follow-up appointment, and transportation\n\nPreferred formularies from transparent pricing shops like @costplusdrugs\n\nHospital food upgraded to chef-prepared, patient-chosen meals with focus on whole foods tailored to patient situation\n\nNo backless paper gowns that flash the goods, only comfortable, dignified clothing provided\n\nFree valet parking and shuttles for every patient and family, no paid parking scams (this is sometimes the largest revenue driver for a health system, look it up)\n\nNo 4 am vital signs or blood draws unless absolutely medically necessary, sleep tracked and prioritized on all inpatients \n\nAudible patient alarms are banned, all real-time alerts controlled by central command station that has eyes and ears on all patients at all times remotely, deploys as needed\n\nSunlight exposure required during hospitalization \n\nReal pillows, real beds, and real blankets with no more torture-rack mattresses or 2-ply sheets\n\nHospital smell officially banned, every room smells like fresh air and lavender instead of diarrhea and despair\n\nAI will replace 80% of the admins and probably 50% of the clinical staff to make this all happen… \n\nBut. This is the future. What else would you add to the list??",
+   "lang": "en",
+   "createdAt": "2026-04-21T09:13:32.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1471281702307827712",
+    "username": "DrDeepMD",
+    "name": "Sandeep Palakodeti, MD MPH",
+    "url": "https://x.com/DrDeepMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1919151413906604032/4KTQck2k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 63,
+    "retweets": 19,
+    "quotes": 7,
+    "likes": 203,
+    "bookmarks": 72,
+    "views": 33893
+   },
+   "replyTo": null,
+   "quotedTweetId": "2046309726703804439",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1284331089977151488",
+      "username": "costplusdrugs",
+      "name": "Mark Cuban Cost Plus Drug Company"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092027287105683914",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2092027287105683914",
+   "url": "https://x.com/CareDenied/status/2092027287105683914",
+   "conversationId": "2092027287105683914",
+   "text": "Health insurance conglomerates say prior authorization controls costs. But a new report finds that doctors and staff spend ~650 million hours each year navigating it — work equivalent to 99,290 full-time physicians and advanced practice clinicians. ➡️Estimated annual cost: up to $32.7 billion.\nhttps://www.economicliberties.us/our-work/ban-prior-auth/",
+   "lang": "en",
+   "createdAt": "2026-08-24T23:12:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1253400264846872576",
+    "username": "CareDenied",
+    "name": "HealthCareDenied",
+    "url": "https://x.com/CareDenied",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2061920396354727936/j7BVU3Hs_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 11,
+    "quotes": 5,
+    "likes": 27,
+    "bookmarks": 3,
+    "views": 4985
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2092026726163652608",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQhfOTGboAAonH7.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HQhfOTGboAAonH7.jpg",
+     "width": 1254,
+     "height": 1254,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.economicliberties.us/our-work/ban-prior-auth/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102428651375702507",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102428651375702507",
+   "url": "https://x.com/yaybeedee/status/2102428651375702507",
+   "conversationId": "2102428651375702507",
+   "text": "asmi ai called my pharmacy this morning when my refill got stuck in prior-auth limbo. it waited on hold, got the doctor's office on the line, and texted me when it was ready for pickup. zero phone time for me.",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:03:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "315054788",
+    "username": "yaybeedee",
+    "name": "Abdul Gaffoor",
+    "url": "https://x.com/yaybeedee",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2099995322348945408/GpwgtDXd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 38
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2049173422815793485",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2049173422815793485",
+   "url": "https://x.com/nexusvp/status/2049173422815793485",
+   "conversationId": "2049173422815793485",
+   "text": "The phone in a speciality clinic never stops ringing.\nReferrals pile up. Prior auths stall. Staff juggle paperwork while patients sit on hold. And the fix for decades has been: hire more people.\n\n@Trifetchai is building the automation layer that clinics have needed, all this while. \n\nTrifetch automates the three workflows eating clinic time: patient calls, referral processing & prior authorisations without touching how a clinic already operates. No migration. No retraining. 50%+ reduction in admin costs. $1M+ back for a mid-size practice.\n\nOne GI clinic. 16 staff hours freed a day. $200K+ recovered annually.\n\nWe are thrilled to back @sarwal_varuni  and @rosemary0680 on this vision! \n\n@b_jishnu  | @746watt",
+   "lang": "en",
+   "createdAt": "2026-04-28T17:06:30.000Z",
+   "type": "quote",
+   "author": {
+    "id": "613235400",
+    "username": "nexusvp",
+    "name": "Nexus",
+    "url": "https://x.com/nexusvp",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2032007739329921024/XjkWFsth_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 805
+   },
+   "replyTo": null,
+   "quotedTweetId": "2049167597745156188",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1989896174464372741",
+      "username": "Trifetchai",
+      "name": "TriFetch.ai"
+     },
+     {
+      "id": "1948866728701952000",
+      "username": "sarwal_varuni",
+      "name": "Varuni Sarwal"
+     },
+     {
+      "id": "1134579055540314114",
+      "username": "rosemary0680",
+      "name": "Rosemary He"
+     },
+     {
+      "id": "17687209",
+      "username": "b_jishnu",
+      "name": "Jishnu Bhattacharjee"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2079922662323929398",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2079922662323929398",
+   "url": "https://x.com/AriReddy/status/2079922662323929398",
+   "conversationId": "2079922662323929398",
+   "text": "Prior authorization runs on labor the payer never pays for. Physicians report 43 prior auth requests a week, consuming about 12 hours of physician and staff time. More than a third of practices now employ someone whose entire job is prior authorization.\n\nThe insurer runs its utilization review department inside the doctor's office, staffs it with the doctor's employees, and pays nothing for it. Then it books the resulting slowdown as savings.\n\nEvery hour a nurse spends on hold with a plan is clinical capacity the practice bought and the insurer spent.",
+   "lang": "en",
+   "createdAt": "2026-07-22T13:33:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "108484541",
+    "username": "AriReddy",
+    "name": "Ari Reddy MD",
+    "url": "https://x.com/AriReddy",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1764097949498294272/lrQ7WhZx_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 287
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102474008344088635",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102474008344088635",
+   "url": "https://x.com/ChiefEngineerCE/status/2102474008344088635",
+   "conversationId": "2102474008344088635",
+   "text": "Medical Tuesday.\n\nPrior Authorization Explosion Under Managed Care\n\nOne practice that screwed American healthcare.\n\nPrior authorization requirements were introduced to control unnecessary procedures and costs. Intended as a reasonable check on overuse.\n\nThey evolved into a massive bureaucratic nightmare. Physicians and staff now spend hours fighting insurers for approvals that should be routine. Care is delayed, patients suffer, and administrative costs skyrocket.",
+   "lang": "en",
+   "createdAt": "2026-09-22T19:04:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "21159645",
+    "username": "ChiefEngineerCE",
+    "name": "Chief_Engineer",
+    "url": "https://x.com/ChiefEngineerCE",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2045917978949222400/fJ0b2JGK_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 21,
+    "retweets": 53,
+    "quotes": 0,
+    "likes": 155,
+    "bookmarks": 7,
+    "views": 1877
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2085118043739377772",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2085118043739377772",
+   "url": "https://x.com/notoveai/status/2085118043739377772",
+   "conversationId": "2085118043739377772",
+   "text": "“We need to reschedule. Prior auth wasn’t approved.”\n\nA sentence no clinic wants to say.\n\nWhen PA requirements are discovered after the patient arrives, schedules fall apart, staff scramble, and patients lose trust.\n\nThe fix? Identify PA requirements at scheduling not at check-in https://x.com/notoveai/status/2085118043739377772/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-05T21:37:35.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1576036606061985792",
+    "username": "notoveai",
+    "name": "Notove AI",
+    "url": "https://x.com/notoveai",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1939427403421401088/so24qC9u_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 19
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2085118029197676544",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HO_TzNUXEAAVpOj.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HO_TzNUXEAAVpOj.jpg",
+     "width": 1320,
+     "height": 1306,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1653058886968934400",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1653058886968934400",
+   "url": "https://x.com/psufka/status/1653058886968934400",
+   "conversationId": "1653058886968934400",
+   "text": "*Long tweet* on Optimizing practice for the rheumatologist shortage\n\nRheumatologists are well aware of the massive rheumatologist shortage just based on their daily practices — completely filled schedules for months, having to squeeze urgent patients in, and upset patients who have to wait. \n\nWe also know from the 2015 @ACRheum workforce study (https://onlinelibrary.wiley.com/doi/ftr/10.1002/acr.23518), that this is worsening, badly (see image from https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltb4276e6740a51375/632a340a27a8dd5d8cd3ddc0/rheumatology-workforce-study-2015.pdf). By 2023, we're expected to have under 4000 FTE of rheumatology providers. \n\nWhy is there such a shortage?\n\n1. Aging rheumatology workforce — with numbers of rheumatologists being trained unable to replace those retiring.\n2. Limited training positions — despite the majority of rheumatology fellowship positions being filled, the number of rheumatology training positions isn't sufficient to replace people leaving/retiring. \n3. Rheumatologists working lower FTEs — it has become common for rheumatologists to work less than 1.0 FTE, for work-life balance. \n\nI won't touch on how we can increase training positions, as this is a big/complex issue. And I won't criticize anyone working less than 1.0 FTE, since work-life balance is extremely important, and helps with physician mental health and prevents burnout. \n\nOn an individual basis, here's what I think rheumatologists can do:\n\nOptimize clinic for care of patients. Personally, I don't think it's possible to significantly optimize your time spent in the room with your patients — if your patient needs you to explain their condition multiple times, or has numerous questions about treatments/side effects, that'd time well spent. \n\nBut everything around patient care should be optimized. \n\nCurrently, I think physicians spend way too much time on \n\nBasically, everything that can be done to keep the rheumatologist spending the majority of their time on patient care should be done. \n\nA few ideas I'll throw out there, although I'm interested in other ideas:\n- Optimize check-in: Design systems to make sure non-clinical has acquired everything the  physician may need for the visit, such as an updated updated med list and any outside records.\n- Prior authorization appeals: Most of the time, these can be done via a letter explaining that you think the medication is absolutely medically necessary, and by listing what the patient has tried/failed. These can be done by non-physician staff. \n- Offload any possible non-clinical tasks from physicians. These are likely a bit EHR and practice specific, but if they result in the rheumatologist able to see even 1 more patient per day, that helps. \n\nThat's it for now... curious what everyone else is doing?",
+   "lang": "en",
+   "createdAt": "2023-05-01T15:28:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "16553366",
+    "username": "psufka",
+    "name": "Paul Sufka, MD",
+    "url": "https://x.com/psufka",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1662161918209974272/YbpQLJq2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 21,
+    "bookmarks": 2,
+    "views": 5247
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1653052641247735810",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FvDSnnSXsAIpNqY.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FvDSnnSXsAIpNqY.jpg",
+     "width": 1244,
+     "height": 880,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "145378129",
+      "username": "ACRheum",
+      "name": "American College of Rheumatology"
+     }
+    ],
+    "urls": [
+     "https://onlinelibrary.wiley.com/doi/ftr/10.1002/acr.23518",
+     "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltb4276e6740a51375/632a340a27a8dd5d8cd3ddc0/rheumatology-workforce-study-2015.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1798337500618080299",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1798337500618080299",
+   "url": "https://x.com/hospital_adm/status/1798337500618080299",
+   "conversationId": "1798313007908549044",
+   "text": "@ForteJP_212 Yeah- in writing but commitment to top notch patient care on the part of 🏥 execs is not evident in practice:\nEx: \n-15 min clinic slots w/ minimal care coordination staff support \n-Lack of clinical staff support for prior auths/ins\n-expanding admin side &amp; rejecting clinical needs",
+   "lang": "en",
+   "createdAt": "2024-06-05T12:54:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1419712061228175362",
+    "username": "hospital_adm",
+    "name": "Hospital Executive,MHA,CMM, FACHE,CFHP,CPHQ,WTF",
+    "url": "https://x.com/hospital_adm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1419713383092428804/wMNbOUmO_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 97
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1916899519175795021",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1916899519175795021",
+   "url": "https://x.com/Sentdex/status/1916899519175795021",
+   "conversationId": "1916899519175795021",
+   "text": "Think of how many full time jobs, payment txns, and taxes sit between you and your doctor and whatever procedures they might do.\n\nYour doctor's office:\nMedical billers, medical coders, utilization review specialists, prior auth specialists, lawyers\n\nInsurance side: \nCustomer service, claims managers, medical directors, utilization management, network managers, actuaries to calc risk, policy specialists, appeals specialists, more lawyers.\n\nOthers in between: \npharmacies, consultants, insurance brokers, a bunch of payment processing and taxation each time, more lawyers, patient advocates.\n\nThat's a whole lot of crap in between you going to get a physical and your blood drawn or to get a laceration stitched up.",
+   "lang": "en",
+   "createdAt": "2025-04-28T16:57:14.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1401204486",
+    "username": "Sentdex",
+    "name": "Harrison Kinsley",
+    "url": "https://x.com/Sentdex",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1027673085162528768/VbktJ2Jz_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 58,
+    "bookmarks": 9,
+    "views": 8444
+   },
+   "replyTo": null,
+   "quotedTweetId": "1916677603299414361",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089355316865470904",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2089355316865470904",
+   "url": "https://x.com/txpatients/status/2089355316865470904",
+   "conversationId": "2089355316865470904",
+   "text": "According to the @AmerMedicalAssn 2025 Prior Authorization Physician Survey, prior authorization takes about 13 hours a week from a physician's practice.\n\nA primary care visit runs 15 to 20 minutes. That's roughly 39 appointments a week, gone to forms and hold music.\n\nIn 2020, 32 Texas counties had no primary care physician. Last year, that number went up to 40.\n\nTwo in five physicians now employ staff who do nothing but insurance approvals. Not scheduling. Not billing. Not patient care.\n\n94% say it's contributing to burnout.\n\nThirteen hours a week. None of it is spent on care.\n\n#TexasPatientsOverProfits",
+   "lang": "en",
+   "createdAt": "2026-08-17T14:15:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1766214402737311744",
+    "username": "txpatients",
+    "name": "Texas Coalition for Patients",
+    "url": "https://x.com/txpatients",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1778822823152070656/LnF3Gd6c_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 179
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2088290840560934912",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2088290840560934912/vid/avc1/1600x900/VO8pGfvD9mrRqkNc.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2088290840560934912/img/jvFHojHD2nQYWi_Y.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": 10
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "TexasPatientsOverProfits"
+    ],
+    "mentions": [
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090831604964892797",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2090831604964892797",
+   "url": "https://x.com/notoveai/status/2090831604964892797",
+   "conversationId": "2090831604964892797",
+   "text": "Prior auth approved. \n\nClinic teams know that feeling after the notes, portals, payer rules, follow-ups…and endless “still pending.” 😅\n\nBut approval should feel routine—not miraculous.\n\nAI can handle the busywork and give staff time back.\n\n#PriorAuthorization #MedicalPractice https://x.com/notoveai/status/2090831604964892797/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-21T16:01:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1576036606061985792",
+    "username": "notoveai",
+    "name": "Notove AI",
+    "url": "https://x.com/notoveai",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1939427403421401088/so24qC9u_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2090831598988013568",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQQgQvbXsAATp2p.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HQQgQvbXsAATp2p.jpg",
+     "width": 1320,
+     "height": 1311,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PriorAuthorization",
+     "MedicalPractice"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1729747285297258787",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1729747285297258787",
+   "url": "https://x.com/CMS_Burden_GOV/status/1729747285297258787",
+   "conversationId": "1729747285297258787",
+   "text": "Official Statement from @CMSGov Office Of Burden Reduction (#OBRHI) Leadership\n\nWe received an immense response to CMS-0057-P - Prior Authorization Standards.  \n\nIt seems that we have a problem. @WEDIonline advises us that \"Complexity is Great!\"\n\nSample Responses:\n\n\"\"Too often the complex gets even more complex, and the multiplicity of such firms with their different ways of “helping” fosters greater complexity.\"\"\n\n\"@OSUWexMed staff are experiencing an increasingly complex prior authorization process environment which involves payers hiring more intermediaries to facilitate aspects of their prior authorization (PA) requirements. Some payers are using multiple such firms, often with no clarity of which firm to use for which type of service and little coordination between all of the firms and the payer itself. Examples of intermediary firms OSU staff work with include Availity, Turning Point, AIM, NIA, Humana Health Help, Navinet, Reviewlink, Evicore, and New Century Health (and more firms keep coming into this line of business).\n\n#AdminSimp #PriorAuth #FixPriorAuth #MedicareDisAdvantage #CMS1984onSteroids\n\n@BrooksLaSureCMS @Policy2Progress @HealthIT_Policy @mswain37 @ecm104 @PrivacyJD @AMugge @StephenKonya @mickytripathi1  @ONC_HealthIT @AviShanbhag @ryanargentieri @GraceCordovano @mass_marion @pppforpatients @AAPSonline @TakeWeightOffMD @TEinsteinMD   @txsportsdoc @peterbachmd @VPrasadMDMPH @GeBaiDC @sonodoc99 @charlesornstein @RepLarryBucshon  @TakeMedBack  @TexasOncologist @txsportsdoc @ArthritisSTL  @DrJBhattacharya @marklewismd @BrantMDJD @JJWUrology @drricardocorrea @EdGainesIII @JAFERDIAN  @udaya_bhaskar49 @CRCook1978 @NarramoreOf @HITeaWithGrace @nocorporatemed @Jim__Jackson @j_luh @medicalquack @FeinsteinMD @gmathews71",
+   "lang": "en",
+   "createdAt": "2023-11-29T06:21:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1648534720513208322",
+    "username": "CMS_Burden_GOV",
+    "name": "CMS Office of Healthcare Experience - Parody",
+    "url": "https://x.com/CMS_Burden_GOV",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1648555203040296960/bdvz737n_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 7,
+    "quotes": 2,
+    "likes": 10,
+    "bookmarks": 4,
+    "views": 2441
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1729746723017228289",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/GAFLeuDWgAE9qEh.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/GAFLeuDWgAE9qEh.jpg",
+     "width": 480,
+     "height": 360,
+     "altText": "Freaking Out Oh No GIF by NickRewind",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "OBRHI",
+     "AdminSimp",
+     "PriorAuth",
+     "FixPriorAuth",
+     "MedicareDisAdvantage",
+     "CMS1984onSteroids"
+    ],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "418733011",
+      "username": "WEDIonline",
+      "name": "WEDI"
+     },
+     {
+      "id": "14686098",
+      "username": "OSUWexMed",
+      "name": "The Ohio State University Wexner Medical Center"
+     },
+     {
+      "id": "1364298677804797953",
+      "username": "BrooksLaSureCMS",
+      "name": "Chiquita Brooks-LaSure"
+     },
+     {
+      "id": "3913934788",
+      "username": "Policy2Progress",
+      "name": "Elise Anthony"
+     },
+     {
+      "id": "574033852",
+      "username": "HealthIT_Policy",
+      "name": "Steven Posnack"
+     },
+     {
+      "id": "231227509",
+      "username": "mswain37",
+      "name": "Matt Swain"
+     },
+     {
+      "id": "925753517029064704",
+      "username": "PrivacyJD",
+      "name": "Kathryn Marchesini"
+     },
+     {
+      "id": "139902249",
+      "username": "AMugge",
+      "name": "Alexandra Mugge"
+     },
+     {
+      "id": "127553108",
+      "username": "StephenKonya",
+      "name": "Stephen Konya"
+     },
+     {
+      "id": "757622714123378689",
+      "username": "mickytripathi1",
+      "name": "micky tripathi"
+     },
+     {
+      "id": "108638625",
+      "username": "ONC_HealthIT",
+      "name": "Office of the National Coordinator for Health IT"
+     },
+     {
+      "id": "1530904967417974784",
+      "username": "AviShanbhag",
+      "name": "Avinash Shanbhag"
+     },
+     {
+      "id": "2573873419",
+      "username": "ryanargentieri",
+      "name": "Ryan Dempsey Argentieri"
+     },
+     {
+      "id": "791273134208999425",
+      "username": "GraceCordovano",
+      "name": "Enlightening Results 💡"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     },
+     {
+      "id": "980925823518740482",
+      "username": "pppforpatients",
+      "name": "PPP - Putting Patients First"
+     },
+     {
+      "id": "42769016",
+      "username": "AAPSonline",
+      "name": "Association of American Physicians & Surgeons"
+     },
+     {
+      "id": "481703086",
+      "username": "TakeWeightOffMD",
+      "name": "Dr Murphy Longevity Expert"
+     },
+     {
+      "id": "1245890459030802432",
+      "username": "TEinsteinMD",
+      "name": "Thomas Einstein"
+     },
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "277191527",
+      "username": "peterbachmd",
+      "name": "Peter B. Bach, MD"
+     },
+     {
+      "id": "1194962714",
+      "username": "VPrasadMDMPH",
+      "name": "Vinay Prasad MD MPH"
+     },
+     {
+      "id": "4497753743",
+      "username": "GeBaiDC",
+      "name": "Ge Bai"
+     },
+     {
+      "id": "80845534",
+      "username": "sonodoc99",
+      "name": "Art Fougner PGY50"
+     },
+     {
+      "id": "22278303",
+      "username": "charlesornstein",
+      "name": "Charles Ornstein"
+     },
+     {
+      "id": "234812598",
+      "username": "RepLarryBucshon",
+      "name": "Larry Bucshon, MD"
+     },
+     {
+      "id": "1239618085578924032",
+      "username": "TakeMedBack",
+      "name": "Take Medicine Back"
+     },
+     {
+      "id": "740759420397817856",
+      "username": "TexasOncologist",
+      "name": "Texas Oncologist"
+     },
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "1219842329521029120",
+      "username": "ArthritisSTL",
+      "name": "ArthritisCenterSTL"
+     },
+     {
+      "id": "1427361863830949908",
+      "username": "DrJBhattacharya",
+      "name": "Jay Bhattacharya"
+     },
+     {
+      "id": "807337182",
+      "username": "marklewismd",
+      "name": "Mark Lewis, MD, FASCO"
+     },
+     {
+      "id": "3068552613",
+      "username": "BrantMDJD",
+      "name": "Brant Mittler"
+     },
+     {
+      "id": "932267081323765760",
+      "username": "JJWUrology",
+      "name": "Jared J Wallen MD MBA"
+     },
+     {
+      "id": "62438316",
+      "username": "drricardocorrea",
+      "name": "Ricardo Correa MD, EdD, FACP, FACE, FAPCR, FACMQ"
+     },
+     {
+      "id": "624969131",
+      "username": "EdGainesIII",
+      "name": "Ed Gaines"
+     },
+     {
+      "id": "1213909790981677056",
+      "username": "JAFERDIAN",
+      "name": "Jaferdian, M.D."
+     },
+     {
+      "id": "255318660",
+      "username": "udaya_bhaskar49",
+      "name": "BHASKAR"
+     },
+     {
+      "id": "1830264295",
+      "username": "CRCook1978",
+      "name": "Christopher Cook, D.O., FASA"
+     },
+     {
+      "id": "1135612638283599874",
+      "username": "NarramoreOf",
+      "name": "Leslie Narramore, AGA, Regulatory Affairs Director"
+     },
+     {
+      "id": "186268977",
+      "username": "HITeaWithGrace",
+      "name": "Grace Vinton"
+     },
+     {
+      "id": "1629250652823076864",
+      "username": "nocorporatemed",
+      "name": "@nocorporatemedicine"
+     },
+     {
+      "id": "856124744818720768",
+      "username": "Jim__Jackson",
+      "name": "Jim Jackson"
+     },
+     {
+      "id": "1340556038",
+      "username": "j_luh",
+      "name": "Join Y. Luh, MD (he/him/dude/他)"
+     },
+     {
+      "id": "15248550",
+      "username": "medicalquack",
+      "name": "MedicalQuack"
+     },
+     {
+      "id": "422933152",
+      "username": "FeinsteinMD",
+      "name": "Aaron Feinstein"
+     },
+     {
+      "id": "15068610",
+      "username": "gmathews71",
+      "name": "dhnomad"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1590889405409296384",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1590889405409296384",
+   "url": "https://x.com/eileenkcarpente/status/1590889405409296384",
+   "conversationId": "1590889405409296384",
+   "text": "@ibx @OptumRx\nWhy are you sending our medical office a request to prior auth 25 mg atenolol, which costs $0.70/month cash. Cost of staff and fax toner for you and us together processing this nonsense is far more than that.",
+   "lang": "en",
+   "createdAt": "2022-11-11T02:09:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "63856464",
+    "username": "eileenkcarpente",
+    "name": "Eileen",
+    "url": "https://x.com/eileenkcarpente",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1586119478093369344/2VOd-7v9_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "34371172",
+      "username": "ibx",
+      "name": "Independence Blue Cross"
+     },
+     {
+      "id": "277583373",
+      "username": "OptumRx",
+      "name": "OptumRx"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2023803931034611744",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2023803931034611744",
+   "url": "https://x.com/Optexity/status/2023803931034611744",
+   "conversationId": "2023803931034611744",
+   "text": "Before a doctor can submit a prior authorization, they need to check if the patient's insurance is even active. They need to know the copay, the coinsurance, the deductible status, all of it. Because patients need to be charged correctly and they deserve to know what they're paying upfront.\n\nThis isn't optional. It's a required step in the workflow.\nMost clinics pull this data from clearinghouses like @Availity . Real time eligibility verification, benefits information, coverage details. It's all there. But there's a problem.\n\n@Availity doesn't have an API.\n\nWhich means staff have to log into the portal manually. Search for each patient. Pull the eligibility data. Copy it into their system. Then move on to the next patient and do it all over again.\n\nWhen you're running 30, 40, 50 patients a day, this adds up fast. One clinic told us their front desk was spending close to 2 hours every day just on eligibility checks. Not answering calls, not scheduling appointments, not helping patients. Just logging into Availity and copying information. That's almost 10 hours a week. Per person. On something that should take seconds.\n\nThis demo shows what we at @Optexity  built to fix it. You send patient details to Optexity, and it handles the entire @Availity lookup automatically. What comes back is structured data you can actually use. Member status, total deductible, remaining deductible, PCP copay, specialist copay. All formatted and ready to plug into whatever system you're running.\n\n@Availity doesn't offer an API. But now you have one anyway. The data flows out automatically, and your team never has to touch the portal again.\n\nWe're in production now serving companies across the US Healthcare System. If your team is still doing eligibility checks manually, you can start using Optexity today.\n\nOpen source. Free to use. Reach out if you want help getting set up.",
+   "lang": "en",
+   "createdAt": "2026-02-17T16:57:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1803115962155094016",
+    "username": "Optexity",
+    "name": "Optexity",
+    "url": "https://x.com/Optexity",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1803117706440290304/Eg4LvbcU_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 444
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2023803283522109440",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2023803283522109440/vid/avc1/3840x2160/-fsfF_m7jx0diQbB.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2023803283522109440/img/m2QmxwcAGgrBGe6i.jpg",
+     "width": 3840,
+     "height": 2160,
+     "altText": null,
+     "durationSeconds": 47
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     },
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     },
+     {
+      "id": "1803115962155094016",
+      "username": "Optexity",
+      "name": "Optexity"
+     },
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     },
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1666182101425635329",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1666182101425635329",
+   "url": "https://x.com/Picklenose1/status/1666182101425635329",
+   "conversationId": "1666142329126748160",
+   "text": "@DrGRuralMD I wish the insurance would stop asking for prior authorization to be redone on a chronic medication.\n(I take quarterly migraine shots and at random times they deny the injectors for prior authorization leading to an unmedicated week or two and extra work for office staff.)",
+   "lang": "en",
+   "createdAt": "2023-06-06T20:35:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "430018807",
+    "username": "Picklenose1",
+    "name": "Virginia Dreaming",
+    "url": "https://x.com/Picklenose1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/965886152816259072/hgretlsW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 198
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1152038193115611136",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1152038193115611136",
+   "url": "https://x.com/AKolostomyBag/status/1152038193115611136",
+   "conversationId": "1151894724250390528",
+   "text": "@GrouchyYid @CAW360 @ChrisPe60062032 @ravensspirit68 @LelenaPeacock @PACRiseUp @Angelsgal02 You are WRONG, my PMP kept taking on office staff to deal w/ ever increasing # of Prior Auth requests, &amp; extra paperwork to ensure DEA compliance, he  told me that he had a lawyer &amp; knew they would come after his Practice but he wouldn't abandon Patients; DEA raided him last year",
+   "lang": "en",
+   "createdAt": "2019-07-19T02:11:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "923995321667072002",
+    "username": "AKolostomyBag",
+    "name": "Andrew Kolostomy Bag",
+    "url": "https://x.com/AKolostomyBag",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1436243046451064833/UjSTAoMP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "848928073529659396",
+      "username": "CAW360",
+      "name": "CAW360 NETWORK"
+     },
+     {
+      "id": "3230227430",
+      "username": "ChrisPe60062032",
+      "name": "Kit Carson Perry"
+     },
+     {
+      "id": "224668336",
+      "username": "ravensspirit68",
+      "name": "Arianne"
+     },
+     {
+      "id": "795402912151244800",
+      "username": "LelenaPeacock",
+      "name": "Lelena"
+     },
+     {
+      "id": "925763864964354048",
+      "username": "PACRiseUp",
+      "name": "PAC"
+     },
+     {
+      "id": "3616682780",
+      "username": "Angelsgal02",
+      "name": "Peppermint  Patti"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:980853406213402624",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "980853406213402624",
+   "url": "https://x.com/FamilyHeartFdn/status/980853406213402624",
+   "conversationId": "980853406213402624",
+   "text": "Thanks to doctors, NPs &amp; office staff working hard to get FH patients treatments they need, tackling Prior Authorization paperwork for PCSK9i &amp; even for statins! Denials delay care for real people. Watch and share @mackenzieames story: https://youtu.be/1KlYItaNdrM #FHCantWait #KnowFH https://x.com/TheFHFoundation/status/980853406213402624/photo/1",
+   "lang": "en",
+   "createdAt": "2018-04-02T17:04:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "530038050",
+    "username": "FamilyHeartFdn",
+    "name": "Family Heart Foundation",
+    "url": "https://x.com/FamilyHeartFdn",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1468371470686457857/IvbKVMHL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 5,
+    "quotes": 1,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "980853391709552642",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DZyw9oWVwAIOD5S.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DZyw9oWVwAIOD5S.jpg",
+     "width": 2133,
+     "height": 1067,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "FHCantWait",
+     "KnowFH"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://youtu.be/1KlYItaNdrM"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1152458745777197058",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1152458745777197058",
+   "url": "https://x.com/AKolostomyBag/status/1152458745777197058",
+   "conversationId": "1151894724250390528",
+   "text": "@GrouchyYid @CAW360 @ChrisPe60062032 @ravensspirit68 @LelenaPeacock @PACRiseUp @Angelsgal02 It was so disheartening to see my PMP, as last one in area taking on Pain Pats discarded by other Docs, take on more &amp; more office staff &amp; leave papers out for Patients telling them @ how overrun they were w/Prior Auth requests from Ins cos, &amp; warning about DEA threats, shut down",
+   "lang": "en",
+   "createdAt": "2019-07-20T06:02:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "923995321667072002",
+    "username": "AKolostomyBag",
+    "name": "Andrew Kolostomy Bag",
+    "url": "https://x.com/AKolostomyBag",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1436243046451064833/UjSTAoMP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "848928073529659396",
+      "username": "CAW360",
+      "name": "CAW360 NETWORK"
+     },
+     {
+      "id": "3230227430",
+      "username": "ChrisPe60062032",
+      "name": "Kit Carson Perry"
+     },
+     {
+      "id": "224668336",
+      "username": "ravensspirit68",
+      "name": "Arianne"
+     },
+     {
+      "id": "795402912151244800",
+      "username": "LelenaPeacock",
+      "name": "Lelena"
+     },
+     {
+      "id": "925763864964354048",
+      "username": "PACRiseUp",
+      "name": "PAC"
+     },
+     {
+      "id": "3616682780",
+      "username": "Angelsgal02",
+      "name": "Peppermint  Patti"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:975874145690050560",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "975874145690050560",
+   "url": "https://x.com/FredWuMD/status/975874145690050560",
+   "conversationId": "975874145690050560",
+   "text": "Finished evening clinic and now sitting on hold with an insurance company, trying to get a decision on prior authorization before a patient comes tomorrow for a procedure that we scheduled over a month ago. #21stCenturyDoctoring",
+   "lang": "en",
+   "createdAt": "2018-03-19T23:18:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2885239252",
+    "username": "FredWuMD",
+    "name": "Fred Wu, MD 🫀 吳明杰",
+    "url": "https://x.com/FredWuMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/958421850601779201/Pb64nJS6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 8,
+    "quotes": 3,
+    "likes": 37,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "21stCenturyDoctoring"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1772801135650414775",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1772801135650414775",
+   "url": "https://x.com/Jaylee2076/status/1772801135650414775",
+   "conversationId": "1772801135650414775",
+   "text": "My private insurance covered everything. No prior authorizations needed. Things I miss because now I'm on Medicaid.\n\nLimit the amount of pain medication I can have a month even though I'm a 2X cancer patient. Not everyone is a pill popping drug abuser. If my doctor is okay with it, my insurance company should keep their mouth shut . 1 box (10 in box) per month of ostomy bags. I can sometimes change it 14 times in one day because it leaks. Overriding of the refill too soon. \n\nThis is just a small sample. If I want any of the things I have listed, I have to have my doctor's office submit a prior authorization & chart notes explaining why I need what I need.\n\nWhile I appreciate having the insurance as I'm battling cancer, having to go through these extra hoops just to get what I need to live is ridiculous. I apologized to my doctors when I told them this is what I needed. Thankfully my doctors & their staff totally understood because they deal with it daily.  I worked 17 years in private healthcare insurance. An insurance company should never have the final say on whether you get the medication or supplies you need to live & continue battling cancer. \n#ThanksCancer",
+   "lang": "en",
+   "createdAt": "2024-03-27T01:41:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1466246500963405825",
+    "username": "Jaylee2076",
+    "name": "🌻Jaylee 🇺🇲 🇺🇦🌎🌻🏳️‍🌈",
+    "url": "https://x.com/Jaylee2076",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1602072274685026305/7bPBXqGn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 33,
+    "retweets": 18,
+    "quotes": 1,
+    "likes": 226,
+    "bookmarks": 2,
+    "views": 9291
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "ThanksCancer"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1389710177796956161",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1389710177796956161",
+   "url": "https://x.com/BeingCharisBlog/status/1389710177796956161",
+   "conversationId": "1389710177796956161",
+   "text": "[Gender medicine]\n\nI was so excited to pick up &amp; begin my T today after 3 weeks of delay on my Ob's end &amp; a week delay on a prior auth., only to arrive at the pharmacy to find she prescribed the wrong T.\n\nWhen I called her office I was misgendered repeatedly by her staff.\n\nFuck",
+   "lang": "en",
+   "createdAt": "2021-05-04T22:35:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "809229324813352960",
+    "username": "BeingCharisBlog",
+    "name": "Charis Hill | they/them | 🇵🇸 😷",
+    "url": "https://x.com/BeingCharisBlog",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989601346384015360/hKq4nm3O_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 71,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1746877548229734763",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1746877548229734763",
+   "url": "https://x.com/BevTchangMD/status/1746877548229734763",
+   "conversationId": "1746877548229734763",
+   "text": "The truth is, taking care of a patient in the past just needed a doctor +\\- a nurse\n\nToday, ONE patient requires:\n- a doctor\n- a nurse\n- a medical secretary\n- an administrative assistant\n- a medical assistant\n- a prior authorization staff\n- a scheduler \n- a billing assistant \n- an IT technician \n- a staff manager\n- and backups for all of the above for when they are out of office \n\nWho wants to guess why “medical” care has become 90% administrative? \n\n#medicine #MedTwitter #medX",
+   "lang": "en",
+   "createdAt": "2024-01-15T12:50:37.000Z",
+   "type": "quote",
+   "author": {
+    "id": "874601238062657536",
+    "username": "BevTchangMD",
+    "name": "Beverly G. Tchang, MD",
+    "url": "https://x.com/BevTchangMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2028136303896801280/Xc2z3xSW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 5,
+    "quotes": 2,
+    "likes": 28,
+    "bookmarks": 4,
+    "views": 10808
+   },
+   "replyTo": null,
+   "quotedTweetId": "1746194233617174741",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "medicine",
+     "MedTwitter",
+     "medX"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1468202670242553859",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1468202670242553859",
+   "url": "https://x.com/knittykitty/status/1468202670242553859",
+   "conversationId": "1468202670242553859",
+   "text": "Last year at the start of my health issues, I told my cardiologist’s office that I was waiting on my new insurance card and asked if it would be a problem. They said no, I had an EKG, and AFTER it had been performed, office staff told me they might have needed prior authorization",
+   "lang": "en",
+   "createdAt": "2021-12-07T12:56:09.000Z",
+   "type": "quote",
+   "author": {
+    "id": "437272530",
+    "username": "knittykitty",
+    "name": "Laurmageddon",
+    "url": "https://x.com/knittykitty",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1982600006965035008/tBmyeoU7_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1877369908121743375",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1877369908121743375",
+   "url": "https://x.com/txsportsdoc/status/1877369908121743375",
+   "conversationId": "1877369908121743375",
+   "text": "I’m a surgeon and this isn’t true. Prior Auth and P2P should be banned it’s only purpose is to generate more money for INS and harms/not helps patients. Having said that, we schedule a time,it’s on my calendar,almost always call exactly at that time and we give office phone so answered,put on hold and I pick up. Our phone system allows me to pick up “office callas” remotely. Having said that, no way I’m ever leaving my patient asleep while\nI’m operating to talk to an INS co…ever. Once im operating,we have already gone past point of no return. I’m going to care for the patient to best of my ability and nothing INS co would say is gonna change anything at that point. What if they denied care? You gonna stop the operation? Of course not,so focus on the patient. I really wonder if this is a hosp employed surgeon who was pressured to do this. That would be the story here. Anyone interrupting me while I’m operating and patient asleep for anything other than an emergency involving another patient can go pound sand.",
+   "lang": "en",
+   "createdAt": "2025-01-09T15:00:40.000Z",
+   "type": "quote",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 41,
+    "bookmarks": 6,
+    "views": 9585
+   },
+   "replyTo": null,
+   "quotedTweetId": "1877173308631953888",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1172566662903734272",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1172566662903734272",
+   "url": "https://x.com/MarilynHeineMD/status/1172566662903734272",
+   "conversationId": "1172566662903734272",
+   "text": "Great discussion at Bucks CMS Legislative Breakfast: Prior auth, surprise billing, scope of practice, opioids, fixing reg’s. Many issues impact patients &amp; practices. We appreciate time legislators, their staff, &amp; area physicians took to be engaged. @PAMEDSociety #PaDocs https://x.com/MarilynHeineMD/status/1172566662903734272/photo/1",
+   "lang": "en",
+   "createdAt": "2019-09-13T17:44:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2452941901",
+    "username": "MarilynHeineMD",
+    "name": "Marilyn Heine",
+    "url": "https://x.com/MarilynHeineMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/484766424565424132/r6P2AQdf_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1172566657379778560",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EEXLKZCWwAAfQSk.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EEXLKZCWwAAfQSk.jpg",
+     "width": 552,
+     "height": 552,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PaDocs"
+    ],
+    "mentions": [
+     {
+      "id": "171926859",
+      "username": "PAMEDSociety",
+      "name": "Pennsylvania Medical Society"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1888419038788768157",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1888419038788768157",
+   "url": "https://x.com/JahangirAsgha10/status/1888419038788768157",
+   "conversationId": "1888419038788768157",
+   "text": "My office manager was on hold a total of 11\nHours over 2 days (this past Thursday afternoon and subsequently Friday morning)trying to get a pre-authorization from BCBS of South Carolina completed for patient… \n\nShe was waking around with the office phone headset and a set of AirPods… one was for the prior auth the other for the other work she has to do in the office…\n\nGiven the number of hours spent to obtain the auth…. The procedure loses money before even getting approved",
+   "lang": "en",
+   "createdAt": "2025-02-09T02:45:58.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 2312
+   },
+   "replyTo": null,
+   "quotedTweetId": "1888396520707305485",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:656912992534052864",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "656912992534052864",
+   "url": "https://x.com/ACCCBuzz/status/656912992534052864",
+   "conversationId": "656912992534052864",
+   "text": "What can hosp pharmacy learn from practice pharmacy?  Estab 1 process to get prior auths. Make sure staff understands &amp; follows it. #ACCCNOC",
+   "lang": "en",
+   "createdAt": "2015-10-21T19:20:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "49718615",
+    "username": "ACCCBuzz",
+    "name": "ACCC",
+    "url": "https://x.com/ACCCBuzz",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1758184114769809408/nuuEYHlk_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "ACCCNOC"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1838034269144543572",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1838034269144543572",
+   "url": "https://x.com/theangrypharm/status/1838034269144543572",
+   "conversationId": "1838034269144543572",
+   "text": "Do you? Really? You really know what retail is like?\nFloating a few days a month where you just get to leave all your issues on the counter doesn't give you any sort of realistic barometer on how retail is.  You work a day, pat yourself on the back that \"I worked retail\" only to escape to your ivory tower of academia while leaving any loose ends for the poor full-time person that has to clean up.\n\nWork full time.  Deal with issues at work, only to come back to the same issues because they didnt get resolved the night before.  Harass that doctors office about a prior auth because the patient wont stop calling you.  Tell patients why their copays are so high because they are in the coverage gap.  You gonna tell a patient that half their meds arent covered anymore because they listened to their 'neighbor' and switched part-d plans?\n\nThe ivory tower 'pharmacists' need to quit pretending they know how retail is when the last time they stepped behind a counter was 20 years ago right out of school.  \"Floating\" a few days doesn't cut it if you want to pretend you know 'retail'.\n\nGo grade some papers and fill students heads with the candy-canes and lollypops of what you believe retail is, and let the people who have slung shit for 20+ years talk about community pharmacy.",
+   "lang": "en",
+   "createdAt": "2024-09-23T01:54:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "38688930",
+    "username": "theangrypharm",
+    "name": "The Angry Pharmacist",
+    "url": "https://x.com/theangrypharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/203339131/angryPharm_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 78,
+    "bookmarks": 3,
+    "views": 8650
+   },
+   "replyTo": null,
+   "quotedTweetId": "1837896795298340937",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1138507473634115585",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1138507473634115585",
+   "url": "https://x.com/Surescripts/status/1138507473634115585",
+   "conversationId": "1138507473634115585",
+   "text": ".@AdvocateAurora automated its prior auth process with our #ElectronicPriorAuthorization solution. Per Dr. Scott Hardin, “The clinic staff never need to touch about 80 to 85 percent of authorizations for our patients.” #SurescriptsNetworkAlliance https://sure.sc/2ZknhQu https://x.com/Surescripts/status/1138507473634115585/photo/1",
+   "lang": "en",
+   "createdAt": "2019-06-11T18:05:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48357989",
+    "username": "Surescripts",
+    "name": "Surescripts",
+    "url": "https://x.com/Surescripts",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1197528479597842433/THVjUb8W_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1138507471406993412",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/D8zKg19XkAQMZtr.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/D8zKg19XkAQMZtr.jpg",
+     "width": 1200,
+     "height": 628,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "ElectronicPriorAuthorization",
+     "SurescriptsNetworkAlliance"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://sure.sc/2ZknhQu"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1637878222225285129",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1637878222225285129",
+   "url": "https://x.com/synapticure/status/1637878222225285129",
+   "conversationId": "1637878222225285129",
+   "text": "In ALS and PD, both access to and support staff for physicians are limited. \n\nWe partner with clinics to take on prior authorization, genetic counseling, ancillary care and more, so that those clinics can see more patients and provide high value in-clinic services. Our goal is...",
+   "lang": "en",
+   "createdAt": "2023-03-20T18:06:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1333955320759132160",
+    "username": "synapticure",
+    "name": "Synapticure",
+    "url": "https://x.com/synapticure",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1426241139854741508/OoSkTbLP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 883
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1172990770070077440",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1172990770070077440",
+   "url": "https://x.com/Impact2HEAL/status/1172990770070077440",
+   "conversationId": "1172940748670590977",
+   "text": "@mattbc This is why need Congress to do away w/ most Prior Auths or make insurance co responsible 4 this.\nI have 2 HCPs that had to hire extra staff just to handle these forms, and still about 1/2 the forms they submit come up missing somewhere between office &amp; ins co! It’s TOO much!",
+   "lang": "en",
+   "createdAt": "2019-09-14T21:49:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1002755560582860802",
+    "username": "Impact2HEAL",
+    "name": "TameraLynn Stewart, #P3 & PWU",
+    "url": "https://x.com/Impact2HEAL",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1767638662387281920/mEBNG-8C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1172940748670590977",
+    "userId": "276688330",
+    "username": "mattbc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "276688330",
+      "username": "mattbc",
+      "name": "Matthew Cortland, Esq. they"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1781288710622863599",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1781288710622863599",
+   "url": "https://x.com/karma_police2/status/1781288710622863599",
+   "conversationId": "1780598960627110068",
+   "text": "The number of prior authorizations keeps growing .  It is now for many cheap meds too.\n\nInsurance companies have realized if they create friction for high volume, urgent, cheap things - it overwhelms ability of physicians and clinical staff to submit the prior auths.  \n\nI don’t have time to be on a 15-20 min call for every single med or study I order.  I barely have that time for the exam and documentation for one visit.\n\n You would  never have thought to need approval for $25 generic pain medication often prescribed off hours for a broken bone or postoperative pain.\n\nBut if the pharmacy tells patient it’s not covered unless your doctor calls the insurance company (what patients are told for prior authorization)- blame is on the physician.  We get paged after hours, or in the middle of surgery or office hours.  \n\nIf there is a delay or can’t happen before pharmacy closes, often patient just paysout of pocket.  \n\nInsurance wins - they didn’t have to cover the med.  Patient upset and blames physician.\n\nThis also has an uptick towards the end of the year, and suspiciously often in patients that have hit their  deductibles.  Insurance companies know who are their most expensive customers.\n\nPrior authorizations are abusive and out of hand.",
+   "lang": "en",
+   "createdAt": "2024-04-19T11:48:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1511874003991941124",
+    "username": "karma_police2",
+    "name": "Detuned radio",
+    "url": "https://x.com/karma_police2",
+    "avatarUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 128
+   },
+   "replyTo": {
+    "tweetId": "1780644662836908443",
+    "userId": "117197307",
+    "username": "sgremminger"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1582535272843317249",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1582535272843317249",
+   "url": "https://x.com/ZekeMD/status/1582535272843317249",
+   "conversationId": "1582535272843317249",
+   "text": "New study hypothesis:\n\nthe ratio of\n\n[insurer money spent making my patients, my clinic, and me complete prior auths]\n\nto\n\n[(the cost of money to just have insurer staff just call the clinic to get their answer) - (the costs saved by letting me treat my patient)]\n\nis &gt; 10",
+   "lang": "en",
+   "createdAt": "2022-10-19T00:53:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "774684408762757120",
+    "username": "ZekeMD",
+    "name": "Zeke McKinney, MD, MHI, MPH",
+    "url": "https://x.com/ZekeMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1677911453141987329/Tzzi6HaA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1945198838123212953",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1945198838123212953",
+   "url": "https://x.com/JoshCMandel/status/1945198838123212953",
+   "conversationId": "1945198838123212953",
+   "text": "Which healthcare regulations should we kill?\n\nYesterday, the comment period closed on the Agency for Healthcare Research and Quality RFI titled \"Ensuring Lawful Regulation and Unleashing Innovation to Make America Healthy Again.\" The RFI asked stakeholders to pinpoint specific regulations that: increase costs without benefits, impede innovation or competition, are obsolete or based on outdated technology, or require excessive reporting or recordkeeping.\n\nThe response included 646 comments from every corner of American healthcare. I fired up my open-source comment analysis pipeline (https://github.com/jmandel/regulations.gov-comment-browser) to get an early look at what people said, creating this theme hierarchy (https://joshuamandel.com/regulations.gov-comment-browser/). Then using this open data set through my http://Regulations.gov MCP (https://www.linkedin.com/pulse/cms-rfi-mcp-now-its-your-turn-analyze-10k-pages-josh-mandel-md-qm4mc), I asked Claude Opus 4 to synthesize the formal, data-heavy responses from major organizations together with the raw, often heartbreaking, stories from individual patients, clinicians, and families. The result is a sampling from many stories, with substantial areas of alignment.\n\nA Universal Villain: Prior Authorization\nNo single issue united commenters more than prior authorization. The organizational data paints a grim national picture, while the individual stories reveal the human cost. The American Medical Association (AMA) laid out the systemic failure: 93% of physicians report that prior authorization delays patient care, and 29% report it has led to a serious adverse event, including hospitalization, disability, and death. The AMA found that 82% of patients simply abandon treatment due to these bureaucratic hurdles, and 40% of physician practices employ staff exclusively for PA (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0490). That's not an abstract statistic. That's the daily reality for Dr. Margaret Chustecki, an Associate Clinical Professor at Yale. Her practice spends 13 hours every week on prior authorization alone—time that could be spent with patients (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0020). Her story is a perfect ground-truth validation of the AMA's national finding that physicians average 13 hours of staff time per week on PA.\n\nDrowning in Clicks: The Administrative Burden\nBeyond prior authorization, the sheer weight of compliance is crushing clinicians with work that has no bearing on patient outcomes. The Cleveland Clinic highlighted the absurdity: \"The notion that a provider's ability to perform a basic wet mount or urine sediment review must be annually documented, while their ability to prescribe controlled substances, interpret imaging, or perform in-office procedures does not require such documentation, reflects a fundamental misalignment of regulatory scrutiny\" (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0517). This misalignment has a staggering cost. The Merit-based Incentive Payment System (MIPS) earned universal condemnation. The AMA cited data showing practices spend $12,800 and 202 hours annually on MIPS compliance, while a JAMA study found the program \"approximately as effective as chance\" in identifying quality (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0490). CMS's own 2025 estimate puts the total system-wide cost at $70,166,672. This isn't just about money; it's about time stolen from care and the well-being of clinicians. An anonymous Director of Nursing with 30 years of experience reported that NHSN/SAMS COVID reporting requirements, which have never been reversed, \"take 8 hours per week from bedside care for an RN.\" She lives in daily fear: \"Everyday we fear for our licenses while state boards of nursing hold a power that is not warranted\" (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0013). This burden extends to social services, where a Head Start worker described an annual renewal process that takes \"months to complete\" and is \"consistently returned multiple times\" for publicly available information (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0231).\n\nWhen Rules Actively Deny Care\nIn the most extreme cases, regulations designed to protect patients create insurmountable barriers to necessary treatment.\n\nThe ADHD Medication Crisis\nSeveral individual comments described the struggle to access Schedule II ADHD medications. An entrepreneur described failing three businesses before getting treated, after which they successfully reopened and maintained their business (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0473). But access remains a \"full-time job,\" as one nursing student put it (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0366). The regulatory disconnect is stark: ADHD treatments remain classified with \"fentanyl and methadone\" despite a long safety record. An anonymous drug policy researcher explained the systemic cause: DEA quota systems create artificial shortages that drive patients toward counterfeit street drugs (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0024).\n\nFour Decades of Fighting for Treatment\nLeo and Claudia Soucy, both 81, have been fighting regulatory battles since 1986 for their 56-year-old son Brendon, who has severe autism. They seek access to electrical stimulation devices (ESDs) to treat his self-injurious behavior after other approaches failed catastrophically: \"Seclusion, restraint and isolation... was a heartbreaking failure,\" while heavy medications left him \"toothless and has tardive dyskinesia.\" When Massachusetts banned ESDs, \"Brendon regressed terribly.\" Now, the FDA proposes a national ban, forcing them to start over. \"It is very unfair that my wife & I at our age 81 must fight & fight for this treatment,\" they wrote (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0107). The Soucys' personal, decades-long battle mirrors the systemic fight from organizations like Eli Lilly, which challenged CMS's Coverage with Evidence Development (CED) framework for creating access barriers to FDA-approved drugs. Lilly's core argument: \"Access should never be contingent on enrollment in a research protocol\" (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0526).\nInnovation Blocked by Outdated Frameworks\nThe regulatory system is consistently years, if not decades, behind the technology it governs. Epic detailed how 2016 FDA guidance threatens to regulate \"over 150,000 unique CDS tools\" because it misinterprets how clinical recommendations work, and how OCR rules still require \"human translators\" despite superior AI performance (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0630). Zocdoc pointed out that the 1972 Anti-Kickback Statute \"predates digital technology\" and creates ambiguity that blocks platforms from fixing scheduling inefficiencies that waste 20-30% of provider time (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0486). Anthony Leo, an innovator, challenged CLIA rules requiring credentialed Lab Directors who earn $160,000+ for minimal oversight, creating \"de facto licensing cartels\" that throttle new AI diagnostic tools (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0010). Kassie Genna, a patient with dysautonomia, proposed a zero-cost innovation: adding one question—\"Do you taste saline when your IV is flushed?\"—to intake forms. This patient-observed phenomenon could help identify patients needing early autonomic testing, but there's no regulatory pathway for such simple, patient-driven improvements (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0081).\nSystemic Dysfunction & Unintended Consequences\nThe comments reveal a system where rules create perverse incentives and impossible choices. Rural Realities: The National Rural Health Association reported that \"190 rural hospitals closed since 2010,\" with \"46% of rural hospitals operating with negative margins\" (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0631). Christa Jones, a rural Kansas provider, described how conflict-of-interest rules designed for urban areas create \"impossible choices,\" forcing providers to \"divest parts of their organizations\" they cannot replace (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0090). Cost-Sharing Burden: The Cleveland Clinic argued for \"shifting cost-sharing collection responsibilities to insurers,\" since they set the amounts. The clinic reported that in 2024, \"50% of co-pays for visits and services... were not paid, accounting for $70M in lost revenue\" (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0517). Inside the VA: Whistleblower Gregory Romeu, with insider experience, exposed systematic fraud draining \"BILLIONS of tax dollars\" from VA homeless veteran programs. He stated that VA oversight uses only \"Yes Men\" to suppress negative findings and argued for transferring housing control to DHHS (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0028).\n\nA Mandate for Change\nThese 646 comments are not a call for a regulatory bonfire. The child care owner who opposed deregulation saw safety rules as essential business infrastructure (http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0603). The parents fighting for ESDs accept court-ordered treatment reviews. What they oppose are regulations that are ineffective, outdated, or misaligned with the goal of patient care. The most striking finding is the consensus. The work for policymakers begins now.\nMethodology and Resources\nYou can explore this data and the tools used to analyze it yourself. To browse the comments by theme and read the full text of every submission cited here, use the user-friendly comment browser (https://joshuamandel.com/regulations.gov-comment-browser/). For the official, unfiltered source material, visit the AHRQ docket on http://regulations.gov (https://www.regulations.gov/document/AHRQ-2025-0001-0001). The open-source code for the entire analysis pipeline is available on GitHub (https://github.com/jmandel/regulations.gov-comment-browser). For a detailed write-up on the methodology, including the use of the Model Context Protocol (MCP) server and Claude Code, see my post on LinkedIn (https://www.linkedin.com/pulse/cms-rfi-mcp-now-its-your-turn-analyze-10k-pages-josh-mandel-md-qm4mc).",
+   "lang": "en",
+   "createdAt": "2025-07-15T19:08:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "619392780",
+    "username": "JoshCMandel",
+    "name": "Josh Mandel, MD",
+    "url": "https://x.com/JoshCMandel",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2416468374/a260haw30xsxmli739bu_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 10,
+    "views": 2027
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://github.com/jmandel/regulations.gov-comment-browser",
+     "https://joshuamandel.com/regulations.gov-comment-browser/",
+     "http://regulations.gov/",
+     "https://www.linkedin.com/pulse/cms-rfi-mcp-now-its-your-turn-analyze-10k-pages-josh-mandel-md-qm4mc",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0490",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0020",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0517",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0490",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0013",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0231",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0473",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0366",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0024",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0107",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0526",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0630",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0486",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0010",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0081",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0631",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0090",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0517",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0028",
+     "http://joshuamandel.com/regulations.gov-comment-browser/AHRQ-2025-0001-0001/#/comments/AHRQ-2025-0001-0603",
+     "https://joshuamandel.com/regulations.gov-comment-browser/",
+     "http://regulations.gov/",
+     "https://www.regulations.gov/document/AHRQ-2025-0001-0001",
+     "https://github.com/jmandel/regulations.gov-comment-browser",
+     "https://www.linkedin.com/pulse/cms-rfi-mcp-now-its-your-turn-analyze-10k-pages-josh-mandel-md-qm4mc"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1798869316680745096",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1798869316680745096",
+   "url": "https://x.com/rachelbotkinPT/status/1798869316680745096",
+   "conversationId": "1798869316680745096",
+   "text": "Sitting on hold with Carelon to plead another prior auth case for a patient, @SFFOSDF and googling \"best countries for autonomous PT practice?\"  🇳🇴 (Norway) looks promising https://x.com/rachelbotkinPT/status/1798869316680745096/photo/1",
+   "lang": "en",
+   "createdAt": "2024-06-07T00:07:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "777076071464185856",
+    "username": "rachelbotkinPT",
+    "name": "Rachel Botkin",
+    "url": "https://x.com/rachelbotkinPT",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1951135769587793920/UXpzZZqj_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 75
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1798869310183813121",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/GPbeG1bbsAET8E_.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/GPbeG1bbsAET8E_.jpg",
+     "width": 384,
+     "height": 384,
+     "altText": "Thor Vikings GIF by THE BEARD STRUGGLE",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1466444981950889995",
+      "username": "SFFOSDF",
+      "name": "Carelon Health"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:959540152631775232",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "959540152631775232",
+   "url": "https://x.com/PoojaLakshmin/status/959540152631775232",
+   "conversationId": "959540152631775232",
+   "text": "Things accomplished today \n- ✅ saw patients\n- ✅ got good start on new IRB\n- ✅ supervised resident psychotherapy clinic \n\nNot bad for a Friday! (I’m not counting the 40 min spent on hold for a prior auth grrrr) \n\n#AcademicTwitter #MedEd #physicianwellness",
+   "lang": "en",
+   "createdAt": "2018-02-02T21:32:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1170498764",
+    "username": "PoojaLakshmin",
+    "name": "Pooja Lakshmin MD",
+    "url": "https://x.com/PoojaLakshmin",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1622353238996426753/FLI1uxi6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "AcademicTwitter",
+     "MedEd",
+     "physicianwellness"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1462798864029728773",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1462798864029728773",
+   "url": "https://x.com/AHIMAResources/status/1462798864029728773",
+   "conversationId": "1462798864029728773",
+   "text": "Through the use of AI, the team of #healthinformation, IT, registration, and business office staff at WRMC eliminated the prior authorization backlog and dramatically improved patient throughput. @Jenniferqueenvp tells the story in the Journal of #AHIMA. https://journal.ahima.org/field-notes-medical-center-uses-ai-for-prior-authorization-process/",
+   "lang": "en",
+   "createdAt": "2021-11-22T15:03:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "19730589",
+    "username": "AHIMAResources",
+    "name": "AHIMA",
+    "url": "https://x.com/AHIMAResources",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1803168034858700800/_l7oIlZL_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "healthinformation",
+     "AHIMA"
+    ],
+    "mentions": [
+     {
+      "id": "569423462",
+      "username": "Jenniferqueenvp",
+      "name": "Jennifer Mueller"
+     }
+    ],
+    "urls": [
+     "https://journal.ahima.org/field-notes-medical-center-uses-ai-for-prior-authorization-process/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1678814571958501410",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1678814571958501410",
+   "url": "https://x.com/lifesizemind/status/1678814571958501410",
+   "conversationId": "1678814571958501410",
+   "text": "Word this. When a small doctors office has to employ 1.5 full-time equivalents to perform prior auths on tests we don't perform or get paid for, it adds one more nail to the house that is our broken health care system.  https://nymag.com/intelligencer/2023/07/how-prior-authorization-makes-health-care-a-nightmare.html",
+   "lang": "en",
+   "createdAt": "2023-07-11T17:12:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "14882424",
+    "username": "lifesizemind",
+    "name": "Johnny O'Connor",
+    "url": "https://x.com/lifesizemind",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1604139772083306502/OQ-B9yLT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 239
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://nymag.com/intelligencer/2023/07/how-prior-authorization-makes-health-care-a-nightmare.html"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1565784006473515009",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1565784006473515009",
+   "url": "https://x.com/MBP_IM_PD/status/1565784006473515009",
+   "conversationId": "1565784006473515009",
+   "text": "Today I personally spent over one hour obtaining prior authorization on *one* medication for one pt. After office staff already tried. Despite same ins approving same med w same info already provided a year ago. #overit #aintnobodygottimeforthat",
+   "lang": "en",
+   "createdAt": "2022-09-02T19:29:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1924452313",
+    "username": "MBP_IM_PD",
+    "name": "Mary Beth Poston",
+    "url": "https://x.com/MBP_IM_PD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1502678308705689614/aV2dpsRC_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "overit",
+     "aintnobodygottimeforthat"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1154823958430126082",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1154823958430126082",
+   "url": "https://x.com/Surescripts/status/1154823958430126082",
+   "conversationId": "1154823958430126082",
+   "text": ".@Aurora_Health greatly reduced clinic staff overtime with Electronic Prior Authorization. Learn how easy it was. #PriorAuth https://sure.sc/2OgROxK https://x.com/Surescripts/status/1154823958430126082/photo/1",
+   "lang": "en",
+   "createdAt": "2019-07-26T18:41:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48357989",
+    "username": "Surescripts",
+    "name": "Surescripts",
+    "url": "https://x.com/Surescripts",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1197528479597842433/THVjUb8W_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1154823953938096128",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EAbCRICXoAAECxC.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EAbCRICXoAAECxC.jpg",
+     "width": 2501,
+     "height": 1313,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PriorAuth"
+    ],
+    "mentions": [
+     {
+      "id": "16316655",
+      "username": "Aurora_Health",
+      "name": "Aurora Health Care"
+     }
+    ],
+    "urls": [
+     "https://sure.sc/2OgROxK"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:984509304848953345",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "984509304848953345",
+   "url": "https://x.com/JaimeLynMoy/status/984509304848953345",
+   "conversationId": "984509304848953345",
+   "text": "A1. @Clara_Health Incompetent office staff who can't fill out a prior authorization form correctly and leaves off the same important information three times in a row. Medication delayed 6 weeks. #patientshavepower",
+   "lang": "en",
+   "createdAt": "2018-04-12T19:11:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "38050233",
+    "username": "JaimeLynMoy",
+    "name": "Jaime Lyn Moy",
+    "url": "https://x.com/JaimeLynMoy",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1317101806393135110/9N__vqL8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "patientshavepower"
+    ],
+    "mentions": [
+     {
+      "id": "1444013227738861576",
+      "username": "Clara_Health",
+      "name": "Clara"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:778986039960559616",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "778986039960559616",
+   "url": "https://x.com/WarnerPR/status/778986039960559616",
+   "conversationId": "778986039960559616",
+   "text": "Introducing \"PASSing Thoughts\" from PARx, a monthly blog helping DRs &amp; practice staff meet the prior auth challenge http://bit.ly/2d2OzGe",
+   "lang": "en",
+   "createdAt": "2016-09-22T15:55:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "24910297",
+    "username": "WarnerPR",
+    "name": "WarnerPR",
+    "url": "https://x.com/WarnerPR",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1542651630738214912/nbFFxy_R_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/2d2OzGe"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1897030293166678378",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1897030293166678378",
+   "url": "https://x.com/JasonJamesonMD/status/1897030293166678378",
+   "conversationId": "1897030293166678378",
+   "text": "Thanks to staff at @SenMarkKelly office for meeting today to discuss  Workforce, Drug shortages\nPrior auth, Medicare reimbursement cuts at the #auasummit25.\n\n@AmerUrological \n@AZurological \n@ArizonaMedicine \n@AmerMedicalAssn https://x.com/JasonJamesonMD/status/1897030293166678378/photo/1",
+   "lang": "en",
+   "createdAt": "2025-03-04T21:04:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2903129653",
+    "username": "JasonJamesonMD",
+    "name": "Jason Jameson MD",
+    "url": "https://x.com/JasonJamesonMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/534486026513694721/hjeqJPGw_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 1092
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1897030288972095488",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GlOa_zZWoAAPS0p.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GlOa_zZWoAAPS0p.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "auasummit25"
+    ],
+    "mentions": [
+     {
+      "id": "1324926274888888320",
+      "username": "SenMarkKelly",
+      "name": "Senator Mark Kelly"
+     },
+     {
+      "id": "27122310",
+      "username": "AmerUrological",
+      "name": "Amer. Urol. Assn."
+     },
+     {
+      "id": "1149103633612414978",
+      "username": "AZurological",
+      "name": "Arizona Urological Society"
+     },
+     {
+      "id": "500210501",
+      "username": "ArizonaMedicine",
+      "name": "Arizona Medical Association (ArMA)"
+     },
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2046564004521296031",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2046564004521296031",
+   "url": "https://x.com/DrBruggeman/status/2046564004521296031",
+   "conversationId": "2046564004521296031",
+   "text": "Continuing this week's focus on prior authorization in Medicare Advantage, today I want to look at what the data actually shows about the burden on independent physician practices.\n\nThe Medical Group Management Association's Regulatory Burden Report found that 97% of providers have experienced delays or denials for medically necessary care due to prior authorization requirements. For independent practices, this burden is not absorbed by a large administrative infrastructure. It falls on physicians, nurses, and front office staff who are already stretched thin.\n\nPhysicians in independent practice describe a cyclical pattern of denial. The same treatment plans are challenged repeatedly. Peer-to-peer reviews consume clinical time without consistent outcomes and typically without a real peer. Standards vary from insurer to insurer and even plan to plan within the same insurer frustrating physicians trying to navigate the gauntlet of varied protocols.\n\nAgainst that backdrop, the health insurance industry announced a voluntary commitment earlier this year to reduce prior authorization volume by 11% in 2026, benchmarked against 2024 claim volume. That is the same period in which Medicare Advantage denial rates had increased 56%! \n\nThe American Medical Group Association, which represents 400 medical groups, called it \"barely scratching the surface\" and noted that the reduction does not apply to prescription drug prior authorizations at all, which many physicians identify as their most significant daily burden.\n\nOne retinal specialist was direct about what meaningful reform requires: if insurers want credit for change, they need to be transparent enough for independent verification. Voluntary pledges with aggregate numbers that cannot be audited at the CPT code level are not accountability.\n\nIndependent practices cannot sustain this. The administrative cost is real, and it ultimately comes at the expense of patient care.",
+   "lang": "en",
+   "createdAt": "2026-04-21T12:17:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 293
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2046563998972235776",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGbbHSjX0AAjAkv.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HGbbHSjX0AAjAkv.jpg",
+     "width": 2048,
+     "height": 2018,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 """
-SQLAlchemy models. Two tables, matching the required separation between
+SQLAlchemy models. Two core tables, matching the required separation between
 collection data and analysis/classification data:
 
   normalized_items  -- canonical, source-agnostic collection record.
@@ -23,6 +23,7 @@ from sqlalchemy import (
     Float,
     ForeignKey,
     Index,
+    Integer,
     String,
     UniqueConstraint,
 )
@@ -133,3 +134,68 @@ class AnalysisResult(Base):
         primaryjoin="foreign(AnalysisResult.source_item_id)==NormalizedItem.source_item_id",
         viewonly=True,
     )
+
+
+# ---------------------------------------------------------------------------
+# Collection / analysis jobs started from the dashboard's Data Collection page.
+# They only record what a run did -- the collected posts still go through
+# normalized_items and the scores through analysis_results, exactly as the
+# terminal scripts write them.
+# ---------------------------------------------------------------------------
+
+
+class CollectionJob(Base):
+    __tablename__ = "collection_jobs"
+
+    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
+    mode: Mapped[str] = mapped_column(String, nullable=False)  # since_last_sweep | custom_range | latest_n
+    sources: Mapped[list] = mapped_column(JSON, nullable=False)
+    start_date: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    end_date: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    post_limit: Mapped[int | None] = mapped_column(Integer, nullable=True)  # per source
+    # queued | running | completed | completed_with_errors | failed | interrupted
+    status: Mapped[str] = mapped_column(String, nullable=False, default="queued")
+    posts_fetched: Mapped[int] = mapped_column(Integer, default=0)
+    posts_new: Mapped[int] = mapped_column(Integer, default=0)
+    posts_duplicate: Mapped[int] = mapped_column(Integer, default=0)
+    posts_skipped: Mapped[int] = mapped_column(Integer, default=0)
+    # {source: {status, fetched, new, duplicate, window_start, errors, ...}}
+    source_results: Mapped[dict] = mapped_column(JSON, default=dict)
+    errors: Mapped[list] = mapped_column(JSON, default=list)
+    retry_of: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_utcnow)
+    started_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+
+
+class CollectionCheckpoint(Base):
+    """Per-source "collected up to" mark for Since Last Sweep. Only advanced
+    when that source's sweep finished with no errors."""
+
+    __tablename__ = "collection_checkpoints"
+
+    source: Mapped[str] = mapped_column(String, primary_key=True)
+    last_successful_fetch: Mapped[datetime] = mapped_column(DateTime(timezone=True), nullable=False)
+    last_job_id: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow, onupdate=_utcnow
+    )
+
+
+class AnalysisJob(Base):
+    __tablename__ = "analysis_jobs"
+
+    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
+    source: Mapped[str | None] = mapped_column(String, nullable=True)  # None = all sources
+    collection_job_id: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    status: Mapped[str] = mapped_column(String, nullable=False, default="queued")
+    total_posts: Mapped[int] = mapped_column(Integer, default=0)
+    processed_posts: Mapped[int] = mapped_column(Integer, default=0)
+    failed_posts: Mapped[int] = mapped_column(Integer, default=0)
+    current_stage: Mapped[str | None] = mapped_column(String, nullable=True)
+    errors: Mapped[list] = mapped_column(JSON, default=list)
+    # {"v1": [final_score, ...], "v2": [...]} for the posts this job scored
+    scores: Mapped[dict] = mapped_column(JSON, default=dict)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_utcnow)
+    started_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)

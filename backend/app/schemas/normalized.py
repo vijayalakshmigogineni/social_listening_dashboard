@@ -68,7 +68,7 @@ FORBIDDEN_ANALYSIS_FIELDS = {
     "analysis_version",
 }
 
-SOURCES = {"reddit", "aapc", "linkedin"}
+SOURCES = {"reddit", "aapc", "linkedin", "facebook", "x"}
 
 
 class NormalizedItem(BaseModel):

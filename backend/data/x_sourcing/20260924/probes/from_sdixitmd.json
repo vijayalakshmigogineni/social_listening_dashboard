@@ -1,0 +1,1699 @@
+{
+ "key": "from_sdixitmd",
+ "query": "from:sdixitmd lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102956492974395501",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102956492974395501",
+   "url": "https://x.com/sdixitmd/status/2102956492974395501",
+   "conversationId": "2102956492974395501",
+   "text": "\"More is lost with indecision than with wrong decision.\"\n\nMan this is so good....",
+   "lang": "en",
+   "createdAt": "2026-09-24T03:01:13.000Z",
+   "type": "quote",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 2,
+    "views": 591
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102752337249071329",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102950786233712840",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102950786233712840",
+   "url": "https://x.com/sdixitmd/status/2102950786233712840",
+   "conversationId": "2102594982943301639",
+   "text": "@NateLorenzen @bennycraven @higgsfield How you know it's AI:\n1. No way J-Cal would play a maple neck\n2. They put Tommy Shannon in a tux.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:38:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2102794804006699251",
+    "userId": "1552654189557215233",
+    "username": "NateLorenzen"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1552654189557215233",
+      "username": "NateLorenzen",
+      "name": "Nate Lorenzen"
+     },
+     {
+      "id": "61950339",
+      "username": "bennycraven",
+      "name": "Ben"
+     },
+     {
+      "id": "1895453094361890816",
+      "username": "higgsfield",
+      "name": "Higgsfield AI 🧩"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102888360268222542",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102888360268222542",
+   "url": "https://x.com/sdixitmd/status/2102888360268222542",
+   "conversationId": "2102877190610186462",
+   "text": "@OGdukeneurosurg Gross.",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:30:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 369
+   },
+   "replyTo": {
+    "tweetId": "2102877190610186462",
+    "userId": "559746910",
+    "username": "OGdukeneurosurg"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "559746910",
+      "username": "OGdukeneurosurg",
+      "name": "Oren Gottfried, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102840555164013003",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102840555164013003",
+   "url": "https://x.com/sdixitmd/status/2102840555164013003",
+   "conversationId": "2102828366487261511",
+   "text": "@txmedai Doctors are notoriously conservative when it comes to finance/investments.\n\nCorrespondingly they’re also very apt to succumb to lifestyle creep.",
+   "lang": "en",
+   "createdAt": "2026-09-23T19:20:31.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 29
+   },
+   "replyTo": {
+    "tweetId": "2102828366487261511",
+    "userId": "1867375019472650240",
+    "username": "txmedai"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1867375019472650240",
+      "username": "txmedai",
+      "name": "Colin Son"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102837968410972341",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102837968410972341",
+   "url": "https://x.com/sdixitmd/status/2102837968410972341",
+   "conversationId": "2102826376449376276",
+   "text": "@BernieSanders Recidivist Luddite grifter.",
+   "lang": "en",
+   "createdAt": "2026-09-23T19:10:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 18
+   },
+   "replyTo": {
+    "tweetId": "2102826376449376276",
+    "userId": "216776631",
+    "username": "BernieSanders"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "216776631",
+      "username": "BernieSanders",
+      "name": "Bernie Sanders"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102837811254862188",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102837811254862188",
+   "url": "https://x.com/sdixitmd/status/2102837811254862188",
+   "conversationId": "2102835612407775692",
+   "text": "@operationdanish I was told there would be cake….",
+   "lang": "en",
+   "createdAt": "2026-09-23T19:09:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 47
+   },
+   "replyTo": {
+    "tweetId": "2102835612407775692",
+    "userId": "2521712738",
+    "username": "operationdanish"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2521712738",
+      "username": "operationdanish",
+      "name": "Dr Danish"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102837337419927755",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102837337419927755",
+   "url": "https://x.com/sdixitmd/status/2102837337419927755",
+   "conversationId": "2102837337419927755",
+   "text": "Start up 101: find a meaningful problem to solve with an actual pain point you can describe in less than one second.",
+   "lang": "en",
+   "createdAt": "2026-09-23T19:07:44.000Z",
+   "type": "quote",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 193
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102829061383008557",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102837169627017318",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102837169627017318",
+   "url": "https://x.com/sdixitmd/status/2102837169627017318",
+   "conversationId": "2102829047554376005",
+   "text": "@PeterDiamandis We need more chatbots like we need another RCM product in healthcare.\n\nSome interesting iterations and pretty decent looking markets.\n\nPitch days, like hackathons, are a lot of fun.",
+   "lang": "en",
+   "createdAt": "2026-09-23T19:07:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 9
+   },
+   "replyTo": {
+    "tweetId": "2102829061383008557",
+    "userId": "14710129",
+    "username": "PeterDiamandis"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "14710129",
+      "username": "PeterDiamandis",
+      "name": "Peter H. Diamandis, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102828778104012965",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102828778104012965",
+   "url": "https://x.com/sdixitmd/status/2102828778104012965",
+   "conversationId": "2102809900870947298",
+   "text": "@avidseries Dig into that MAID dataset a bit more. My neurosurgery colleague @JPGK_MD has written/commented on this.",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:33:44.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 39
+   },
+   "replyTo": {
+    "tweetId": "2102809900870947298",
+    "userId": "1549461766983360512",
+    "username": "avidseries"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1549461766983360512",
+      "username": "avidseries",
+      "name": "i/o"
+     },
+     {
+      "id": "1090953222448136192",
+      "username": "JPGK_MD",
+      "name": "John Paul G. Kolcun"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102824804885664218",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102824804885664218",
+   "url": "https://x.com/sdixitmd/status/2102824804885664218",
+   "conversationId": "2102773301160358308",
+   "text": "@neoavatara I’d be concerned if you moved into my neighborhood, largely because you’re a Michigan fan.\n\nDoes that count?",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:17:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 214
+   },
+   "replyTo": {
+    "tweetId": "2102773301160358308",
+    "userId": "20729667",
+    "username": "neoavatara"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "20729667",
+      "username": "neoavatara",
+      "name": "Pradheep J. Shanker, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102824383329063403",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102824383329063403",
+   "url": "https://x.com/sdixitmd/status/2102824383329063403",
+   "conversationId": "2102813720019902642",
+   "text": "@RichardHanania Don’t care what they think.\nDon’t think about them at all.",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:16:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 374
+   },
+   "replyTo": {
+    "tweetId": "2102813721987035329",
+    "userId": "1041044330092195840",
+    "username": "RichardHanania"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1041044330092195840",
+      "username": "RichardHanania",
+      "name": "Richard Hanania"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102822851648835865",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102822851648835865",
+   "url": "https://x.com/sdixitmd/status/2102822851648835865",
+   "conversationId": "2102813720019902642",
+   "text": "@RichardHanania Harsh reality - Indians get it from both sides. A few years ago the left decried Indians as privileged and “white adjacent “ ergo worthy of being discriminated against.  It’s not worth covering approval from either side.",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:10:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 45,
+    "bookmarks": 1,
+    "views": 1842
+   },
+   "replyTo": {
+    "tweetId": "2102813720019902642",
+    "userId": "1041044330092195840",
+    "username": "RichardHanania"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1041044330092195840",
+      "username": "RichardHanania",
+      "name": "Richard Hanania"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102805766529052988",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102805766529052988",
+   "url": "https://x.com/sdixitmd/status/2102805766529052988",
+   "conversationId": "2102778042422882533",
+   "text": "@DrDiGiorgio Their chairman of the board is the head of the Kraft  group-they own New England Patriots.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:02:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 80
+   },
+   "replyTo": {
+    "tweetId": "2102778042422882533",
+    "userId": "1101092814",
+    "username": "DrDiGiorgio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102795445131243635",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102795445131243635",
+   "url": "https://x.com/sdixitmd/status/2102795445131243635",
+   "conversationId": "2102795445131243635",
+   "text": "This is a good thing.\n\nhttps://www.beckerspayer.com/payer/aca/cms-cancels-aca-policies-for-760000-people-freezes-broker-registrations/",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:21:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 363
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.beckerspayer.com/payer/aca/cms-cancels-aca-policies-for-760000-people-freezes-broker-registrations/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102541236858953995",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102541236858953995",
+   "url": "https://x.com/sdixitmd/status/2102541236858953995",
+   "conversationId": "2102539900012872055",
+   "text": "@neoavatara And yet….. https://x.com/sdixitmd/status/2102541236858953995/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:31:08.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 72
+   },
+   "replyTo": {
+    "tweetId": "2102539900012872055",
+    "userId": "20729667",
+    "username": "neoavatara"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102541200137801728",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS26FO_WUAArja1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS26FO_WUAArja1.jpg",
+     "width": 1536,
+     "height": 864,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "20729667",
+      "username": "neoavatara",
+      "name": "Pradheep J. Shanker, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102535827419189527",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102535827419189527",
+   "url": "https://x.com/sdixitmd/status/2102535827419189527",
+   "conversationId": "2099143978406892009",
+   "text": "@mikesaunders @shyamraghavan Lost both parents in HS and almost dropped out of school. Couch surfed w friends before graduation. Was a soccer player and wanted to play a sport at Georgia, but they weren’t taking walk ones. So he decided to try football.\n\nThe kids got something.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:09:39.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 32
+   },
+   "replyTo": {
+    "tweetId": "2099302162475954267",
+    "userId": "5161481",
+    "username": "mikesaunders"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "5161481",
+      "username": "mikesaunders",
+      "name": "Mike Saunders"
+     },
+     {
+      "id": "87863876",
+      "username": "shyamraghavan",
+      "name": "Shyam Raghavan"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102533842733080821",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102533842733080821",
+   "url": "https://x.com/sdixitmd/status/2102533842733080821",
+   "conversationId": "2102401695984804295",
+   "text": "@JackPosobiec @bofrench Congrats Bo French! https://x.com/sdixitmd/status/2102533842733080821/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:01:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 51
+   },
+   "replyTo": {
+    "tweetId": "2102401695984804295",
+    "userId": "592730371",
+    "username": "JackPosobiec"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102533665557188608",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS2zOqfWEAAfVN1.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS2zOqfWEAAfVN1.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "592730371",
+      "username": "JackPosobiec",
+      "name": "Jack Posobiec"
+     },
+     {
+      "id": "1484688530072911875",
+      "username": "bofrench",
+      "name": "Bo French"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102532431106769352",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102532431106769352",
+   "url": "https://x.com/sdixitmd/status/2102532431106769352",
+   "conversationId": "2102506236688351317",
+   "text": "@Noahpinion Running joke amongst my circle growing up was you had to literally discover a new element to be admitted to Harvard/MIT as a middle class Indian kid.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:56:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 47,
+    "bookmarks": 1,
+    "views": 911
+   },
+   "replyTo": {
+    "tweetId": "2102506236688351317",
+    "userId": "281877818",
+    "username": "Noahpinion"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "281877818",
+      "username": "Noahpinion",
+      "name": "Noah Smith 🐇🇺🇸🇺🇦🇹🇼"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102531934605717562",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102531934605717562",
+   "url": "https://x.com/sdixitmd/status/2102531934605717562",
+   "conversationId": "2102515421492519208",
+   "text": "@FreddyLA7 Horse farms and palm trees. Gorgeous place.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:54:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 67
+   },
+   "replyTo": {
+    "tweetId": "2102515421492519208",
+    "userId": "1372983710644068355",
+    "username": "FreddyLA7"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1372983710644068355",
+      "username": "FreddyLA7",
+      "name": "Freddy🇩🇪"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102529025700999377",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102529025700999377",
+   "url": "https://x.com/sdixitmd/status/2102529025700999377",
+   "conversationId": "2102478039892320415",
+   "text": "@ajlamesa Try using that argument come tax time. Let me know how it goes.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:42:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": {
+    "tweetId": "2102481469679734911",
+    "userId": "277851432",
+    "username": "ajlamesa"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "277851432",
+      "username": "ajlamesa",
+      "name": "Anthony LaMesa"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102525791208714619",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102525791208714619",
+   "url": "https://x.com/sdixitmd/status/2102525791208714619",
+   "conversationId": "2102493526386966674",
+   "text": "@LauraPowellEsq Great. Now do the NBA.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:29:46.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 94
+   },
+   "replyTo": {
+    "tweetId": "2102493526386966674",
+    "userId": "374174560",
+    "username": "LauraPowellEsq"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "374174560",
+      "username": "LauraPowellEsq",
+      "name": "Laura Powell"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102515726678684090",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102515726678684090",
+   "url": "https://x.com/sdixitmd/status/2102515726678684090",
+   "conversationId": "2102515726678684090",
+   "text": "“Underinsured” instead of “overcharged.”\n\nSocialist neologisms know no end and deserve to be mocked.\n\nP.S. I’ve humbly suggested this progressive reporter have a conversation w us on @DRsLoungePod on this and other matters; because dialogue is good.\n\nAnd I promise to be nice.\n\n@anish_koka @DrDiGiorgio",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:49:46.000Z",
+   "type": "quote",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 585
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101776302441193803",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1957956452447879168",
+      "username": "DRsLoungePod",
+      "name": "The Doctor’s Lounge Podcast"
+     },
+     {
+      "id": "725172428339568640",
+      "username": "anish_koka",
+      "name": "Anish Koka, MD"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102508844500873649",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102508844500873649",
+   "url": "https://x.com/sdixitmd/status/2102508844500873649",
+   "conversationId": "2102462835926417470",
+   "text": "@DrDiGiorgio @AtlasMD @noahkaufmanmd Americans aren't \"underinsured\", they're \"overcharged.\"",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:22:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 1,
+    "views": 212
+   },
+   "replyTo": {
+    "tweetId": "2102462835926417470",
+    "userId": "1101092814",
+    "username": "DrDiGiorgio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "13284722",
+      "username": "AtlasMD",
+      "name": "AtlasMD"
+     },
+     {
+      "id": "392805846",
+      "username": "noahkaufmanmd",
+      "name": "Noah Kaufman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102508310960205848",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102508310960205848",
+   "url": "https://x.com/sdixitmd/status/2102508310960205848",
+   "conversationId": "2102387350672134425",
+   "text": "@anish_koka @RosenthalRC @Bloomberg Agreed. Wish there were more like her. Great episode.",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:20:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 24
+   },
+   "replyTo": {
+    "tweetId": "2102387350672134425",
+    "userId": "725172428339568640",
+    "username": "anish_koka"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "725172428339568640",
+      "username": "anish_koka",
+      "name": "Anish Koka, MD"
+     },
+     {
+      "id": "374599530",
+      "username": "RosenthalRC",
+      "name": "Rachel Rosenthal"
+     },
+     {
+      "id": "104237736",
+      "username": "Bloomberg",
+      "name": "Bloomberg"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102507834546221255",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102507834546221255",
+   "url": "https://x.com/sdixitmd/status/2102507834546221255",
+   "conversationId": "2102498476315513294",
+   "text": "@visishs Satisfying.",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:18:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": {
+    "tweetId": "2102498483307765872",
+    "userId": "16059227",
+    "username": "visishs"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16059227",
+      "username": "visishs",
+      "name": "Visish M. Srinivasan, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102507331883844064",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102507331883844064",
+   "url": "https://x.com/sdixitmd/status/2102507331883844064",
+   "conversationId": "2102499258222170164",
+   "text": "@anish_koka Worse. They bought the Roosevelt Hotel in NYC. https://www.reuters.com/world/asia-pacific/pakistan-us-sign-pact-redevelop-new-yorks-roosevelt-hotel-2026-02-19/",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:16:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 167
+   },
+   "replyTo": {
+    "tweetId": "2102499258222170164",
+    "userId": "725172428339568640",
+    "username": "anish_koka"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "725172428339568640",
+      "username": "anish_koka",
+      "name": "Anish Koka, MD"
+     }
+    ],
+    "urls": [
+     "https://www.reuters.com/world/asia-pacific/pakistan-us-sign-pact-redevelop-new-yorks-roosevelt-hotel-2026-02-19/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102503445005521234",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102503445005521234",
+   "url": "https://x.com/sdixitmd/status/2102503445005521234",
+   "conversationId": "2102433453178323039",
+   "text": "@policywishes The hospital's need for cheap labor until they can get an AI licensure parity (i.e. they don't need a person w a medical license to do their bidding.)",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:00:58.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 75
+   },
+   "replyTo": {
+    "tweetId": "2102433453178323039",
+    "userId": "1945098684095512576",
+    "username": "policywishes"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1945098684095512576",
+      "username": "policywishes",
+      "name": "𝓟𝓸𝓵𝓲𝓽𝓲𝓬𝓼, 𝓟𝓸𝓵𝓲𝓬𝓲𝓮𝓼, 𝓟𝓸𝓹 𝓒𝓾𝓵"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102236247884234987",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102236247884234987",
+   "url": "https://x.com/sdixitmd/status/2102236247884234987",
+   "conversationId": "2102234145909010803",
+   "text": "@TracyBethHoeg @bgurley That any of this was ever controversial is astounding",
+   "lang": "en",
+   "createdAt": "2026-09-22T03:19:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 113
+   },
+   "replyTo": {
+    "tweetId": "2102234145909010803",
+    "userId": "560246892",
+    "username": "TracyBethHoeg"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "560246892",
+      "username": "TracyBethHoeg",
+      "name": "Tracy Beth Høeg, MD, PhD"
+     },
+     {
+      "id": "5252591",
+      "username": "bgurley",
+      "name": "Bill Gurley"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102231331967283667",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102231331967283667",
+   "url": "https://x.com/sdixitmd/status/2102231331967283667",
+   "conversationId": "2102231331967283667",
+   "text": "A must-read for every young man.\n\n(Pressfield also wrote Legend of Bagger Vance.)",
+   "lang": "en",
+   "createdAt": "2026-09-22T02:59:41.000Z",
+   "type": "quote",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 4,
+    "views": 487
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102224742065332339",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102230989955334241",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102230989955334241",
+   "url": "https://x.com/sdixitmd/status/2102230989955334241",
+   "conversationId": "2102224742065332339",
+   "text": "@PhilipDBunn Must read for any young man.",
+   "lang": "en",
+   "createdAt": "2026-09-22T02:58:20.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 102
+   },
+   "replyTo": {
+    "tweetId": "2102224742065332339",
+    "userId": "156254392",
+    "username": "PhilipDBunn"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "156254392",
+      "username": "PhilipDBunn",
+      "name": "Philip Bunn"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

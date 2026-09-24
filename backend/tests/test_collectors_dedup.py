@@ -23,18 +23,20 @@ def _make_session():
     return sessionmaker(bind=engine, autoflush=False, autocommit=False)()
 
 
-def _raw_post(urn: str) -> dict:
+def _raw_post(post_id: str) -> dict:
+    # Shape of harvestapi/linkedin-post-search output, which is what
+    # linkedin.normalize_post reads (id / linkedinUrl / content / postedAt).
     return {
-        "urn": urn,
-        "text": "Our billing team is looking for a better way to handle denials.",
-        "url": f"https://www.linkedin.com/feed/update/{urn}",
-        "postedAtISO": "2026-09-20T00:00:00.000Z",
-        "author": {"id": "u1", "name": "Jane Biller"},
+        "id": post_id,
+        "content": "Our billing team is looking for a better way to handle denials.",
+        "linkedinUrl": f"https://www.linkedin.com/feed/update/urn:li:activity:{post_id}",
+        "postedAt": {"date": "2026-09-20T00:00:00.000Z"},
+        "author": {"linkedinUrl": "https://www.linkedin.com/in/u1", "name": "Jane Biller"},
     }
 
 
 def test_same_post_from_two_query_families_upserts_to_one_row():
-    same_post = _raw_post("urn:li:activity:12345")
+    same_post = _raw_post("12345")
     record_a = normalize_post(same_post, search_query="practice_voice family")
     record_b = normalize_post(same_post, search_query="denials_reimbursement family")
     assert record_a["source_item_id"] == record_b["source_item_id"]

@@ -1,0 +1,438 @@
+{
+ "budget_usd": 3.5,
+ "spent_estimate_usd": 3.237,
+ "runs": [
+  {
+   "at": "2026-09-24T08:47:03.180506+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:claim denied need help with appeal",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:47:25.775195+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:prior authorization denied again help",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:47:48.742988+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:has anyone had issues with UHC denying claims",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:48:17.571485+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:Aetna denying claims medical necessity",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:48:46.726162+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:Medicare denial modifier help biller",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:49:09.904414+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:credentialing taking forever with payer",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:49:19.912505+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:AR backlog billing help practice",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:49:30.022945+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:clearinghouse rejections help",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:49:53.274114+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:underpaid claims fee schedule payer",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:50:03.594241+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:timely filing denial appeal help",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:50:32.477114+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:modifier 25 denial coding question",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:50:42.589328+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:eligibility denial claims billing office",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:50:59.072882+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:spinal cord stimulator prior authorization denied",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T08:51:09.164259+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:our billing company claims not paid",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:51:19.111599+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:denial code help biller EOB",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:51:29.208557+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:Cigna Humana BCBS denying claims billers",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T08:52:27.524733+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1594069521337374",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:52:56.889301+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1503414633296362",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:53:14.654531+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1234383310708351",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:53:38.586057+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1609888809770903",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:53:47.987121+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1123047789852358",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:54:04.055597+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:368427913735844",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:54:20.564402+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:153075608691474",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:54:37.568628+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:667837087205621",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:54:54.386254+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:2832083760354364",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:55:17.381464+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:541137026613054",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:55:34.164256+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:892459929806231",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:55:51.282050+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:41571027412",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:56:07.862349+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:143178773693527",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:56:31.180484+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:295682304556086",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:56:47.491230+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:ChiropracticBilling",
+   "max_items": 12,
+   "returned": 1,
+   "estimated_usd": 0.015
+  },
+  {
+   "at": "2026-09-24T08:56:57.716981+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:massageinsurancebilling",
+   "max_items": 12,
+   "returned": 1,
+   "estimated_usd": 0.015
+  },
+  {
+   "at": "2026-09-24T08:57:20.426111+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:553528670079750",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:57:37.056080+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:399772054694602",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:57:53.359094+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:405137378221444",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T08:58:35.537200+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:266108444522",
+   "max_items": 12,
+   "returned": 7,
+   "estimated_usd": 0.045
+  },
+  {
+   "at": "2026-09-24T08:58:58.440446+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:270611999954483",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T09:00:18.833926+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:claim denials",
+   "max_items": 20,
+   "returned": 20,
+   "estimated_usd": 0.062
+  },
+  {
+   "at": "2026-09-24T09:00:35.327609+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:prior auth denied",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:00:45.195173+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:billers help",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:00:56.217005+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:coding denial",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:01:06.292044+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:orthopedic billing",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:01:16.100245+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:ASC billing",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:01:25.759712+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:practice manager insurance",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:01:35.747126+00:00",
+   "actor": "scraper_one/facebook-posts-search",
+   "label": "discover:Medicaid denial billing",
+   "max_items": 20,
+   "returned": 0,
+   "estimated_usd": 0.01
+  },
+  {
+   "at": "2026-09-24T09:09:03.510862+00:00",
+   "actor": "easyapi/facebook-groups-search-scraper",
+   "label": "group-search:rural health clinic billing",
+   "max_items": 15,
+   "returned": 10,
+   "estimated_usd": 0.17
+  },
+  {
+   "at": "2026-09-24T09:09:32.366453+00:00",
+   "actor": "easyapi/facebook-groups-search-scraper",
+   "label": "group-search:home health billing",
+   "max_items": 15,
+   "returned": 15,
+   "estimated_usd": 0.25
+  },
+  {
+   "at": "2026-09-24T09:10:01.678097+00:00",
+   "actor": "easyapi/facebook-groups-search-scraper",
+   "label": "group-search:billing and coding questions",
+   "max_items": 15,
+   "returned": 15,
+   "estimated_usd": 0.25
+  },
+  {
+   "at": "2026-09-24T09:10:49.880027+00:00",
+   "actor": "easyapi/facebook-groups-search-scraper",
+   "label": "group-search:practice administrators",
+   "max_items": 15,
+   "returned": 7,
+   "estimated_usd": 0.122
+  },
+  {
+   "at": "2026-09-24T09:11:51.580494+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:2442249056164644",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T09:12:08.981937+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:3236340703349555",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T09:12:26.218013+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1192041616270325",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T09:12:44.057222+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1622691768952692",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  },
+  {
+   "at": "2026-09-24T09:13:01.615171+00:00",
+   "actor": "apify/facebook-groups-scraper",
+   "label": "probe:1566359524390709",
+   "max_items": 12,
+   "returned": 12,
+   "estimated_usd": 0.07
+  }
+ ]
+}

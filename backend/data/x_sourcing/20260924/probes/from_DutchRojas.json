@@ -1,0 +1,1663 @@
+{
+ "key": "from_DutchRojas",
+ "query": "from:DutchRojas lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102906826928873924",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102906826928873924",
+   "url": "https://x.com/DutchRojas/status/2102906826928873924",
+   "conversationId": "2102555300691583043",
+   "text": "@BrookJoshuaFL Thank you Sir! Kind words.",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:43:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2102906208944353499",
+    "userId": "1229091216471580673",
+    "username": "BrookJoshuaFL"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1229091216471580673",
+      "username": "BrookJoshuaFL",
+      "name": "BrookJoshua"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102891611210600837",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102891611210600837",
+   "url": "https://x.com/DutchRojas/status/2102891611210600837",
+   "conversationId": "2102878256664019343",
+   "text": "@DrHalMDMBA Yes!! Go get em!",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:43:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 87
+   },
+   "replyTo": {
+    "tweetId": "2102878256664019343",
+    "userId": "1815577275787550720",
+    "username": "DrHalMDMBA"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1815577275787550720",
+      "username": "DrHalMDMBA",
+      "name": "HalMD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102811247515472201",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102811247515472201",
+   "url": "https://x.com/DutchRojas/status/2102811247515472201",
+   "conversationId": "2102230896338178226",
+   "text": "@DaveLemox @RepSaraJacobs What is, “why is healthcare expensive?”",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:24:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 31
+   },
+   "replyTo": {
+    "tweetId": "2102803769633460322",
+    "userId": "46527196",
+    "username": "DaveLemox"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "46527196",
+      "username": "DaveLemox",
+      "name": "Dave Lemox"
+     },
+     {
+      "id": "1345103905869455361",
+      "username": "RepSaraJacobs",
+      "name": "Congresswoman Sara Jacobs"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102811124563361826",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102811124563361826",
+   "url": "https://x.com/DutchRojas/status/2102811124563361826",
+   "conversationId": "2102431670502613180",
+   "text": "@Mahek_MD This is so good! Thank you.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:23:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 23
+   },
+   "replyTo": {
+    "tweetId": "2102806557456990483",
+    "userId": "284874176",
+    "username": "Mahek_MD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "284874176",
+      "username": "Mahek_MD",
+      "name": "Mahek"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102800149009342769",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102800149009342769",
+   "url": "https://x.com/DutchRojas/status/2102800149009342769",
+   "conversationId": "2102431670502613180",
+   "text": "@X0_1_7ex 🔥🔥🔥🙏🙏🙏Thank you!!!",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:39:58.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 30
+   },
+   "replyTo": {
+    "tweetId": "2102794723421270462",
+    "userId": "1891202359562215424",
+    "username": "X0_1_7ex"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1891202359562215424",
+      "username": "X0_1_7ex",
+      "name": "JLee🟧"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102791175740547365",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102791175740547365",
+   "url": "https://x.com/DutchRojas/status/2102791175740547365",
+   "conversationId": "2102431670502613180",
+   "text": "@Mahek_MD The fellas brought an Anniversario Double R … It was brilliant.",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:04:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2102789556835700941",
+    "userId": "284874176",
+    "username": "Mahek_MD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "284874176",
+      "username": "Mahek_MD",
+      "name": "Mahek"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102785272718983636",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102785272718983636",
+   "url": "https://x.com/DutchRojas/status/2102785272718983636",
+   "conversationId": "2101776302441193803",
+   "text": "@ajlamesa You’re angry at the results for which you…",
+   "lang": "en",
+   "createdAt": "2026-09-23T15:40:51.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2101776302441193803",
+    "userId": "277851432",
+    "username": "ajlamesa"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "277851432",
+      "username": "ajlamesa",
+      "name": "Anthony LaMesa"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102768318620836011",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102768318620836011",
+   "url": "https://x.com/DutchRojas/status/2102768318620836011",
+   "conversationId": "2102555300691583043",
+   "text": "@AIHealthUncut Thank you Sir! Love your content and work.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:33:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 23
+   },
+   "replyTo": {
+    "tweetId": "2102731214029238622",
+    "userId": "1451734213691052035",
+    "username": "AIHealthUncut"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1451734213691052035",
+      "username": "AIHealthUncut",
+      "name": "Sergei Polevikov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102730595419787655",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102730595419787655",
+   "url": "https://x.com/DutchRojas/status/2102730595419787655",
+   "conversationId": "2102721152682447054",
+   "text": "@Laffincrow Thank you!",
+   "lang": "en",
+   "createdAt": "2026-09-23T12:03:35.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 45
+   },
+   "replyTo": {
+    "tweetId": "2102721152682447054",
+    "userId": "22772880",
+    "username": "Laffincrow"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "22772880",
+      "username": "Laffincrow",
+      "name": "Laffincrow"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102724663973736830",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102724663973736830",
+   "url": "https://x.com/DutchRojas/status/2102724663973736830",
+   "conversationId": "2102555300691583043",
+   "text": "@LaneCoale All day!",
+   "lang": "en",
+   "createdAt": "2026-09-23T11:40:01.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2102629309185687835",
+    "userId": "1822371229652660224",
+    "username": "LaneCoale"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1822371229652660224",
+      "username": "LaneCoale",
+      "name": "James Coale"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102722712946766195",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102722712946766195",
+   "url": "https://x.com/DutchRojas/status/2102722712946766195",
+   "conversationId": "2102555300691583043",
+   "text": "@ShawnNeedham2 Also good!!!",
+   "lang": "en",
+   "createdAt": "2026-09-23T11:32:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 30
+   },
+   "replyTo": {
+    "tweetId": "2102627985312649648",
+    "userId": "2875753064",
+    "username": "ShawnNeedham2"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2875753064",
+      "username": "ShawnNeedham2",
+      "name": "Shawn Needham RPh"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102722628964520228",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102722628964520228",
+   "url": "https://x.com/DutchRojas/status/2102722628964520228",
+   "conversationId": "2102555300691583043",
+   "text": "@H2HealthLLC Happy Birthday!!! Enjoy the cigar.",
+   "lang": "en",
+   "createdAt": "2026-09-23T11:31:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2102583295074791763",
+    "userId": "1675622297112068096",
+    "username": "H2HealthLLC"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1675622297112068096",
+      "username": "H2HealthLLC",
+      "name": "H2 Healthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102569102321619311",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102569102321619311",
+   "url": "https://x.com/DutchRojas/status/2102569102321619311",
+   "conversationId": "2102555300691583043",
+   "text": "@curtinity FYI, my old house just sold for $1,800+ a foot in Burlingame. My brain cannot comprehend the prices.",
+   "lang": "en",
+   "createdAt": "2026-09-23T01:21:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 88
+   },
+   "replyTo": {
+    "tweetId": "2102565628460876151",
+    "userId": "2861069495",
+    "username": "curtinity"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2861069495",
+      "username": "curtinity",
+      "name": "Curtis"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102568959220322656",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102568959220322656",
+   "url": "https://x.com/DutchRojas/status/2102568959220322656",
+   "conversationId": "2102555300691583043",
+   "text": "@RWNorse Make time in November. Let’s get to NW Arkansas.",
+   "lang": "en",
+   "createdAt": "2026-09-23T01:21:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 94
+   },
+   "replyTo": {
+    "tweetId": "2102565845759041968",
+    "userId": "796385394002640896",
+    "username": "RWNorse"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "796385394002640896",
+      "username": "RWNorse",
+      "name": "Ryan W. Norris"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102568694727749671",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102568694727749671",
+   "url": "https://x.com/DutchRojas/status/2102568694727749671",
+   "conversationId": "2102458346359992391",
+   "text": "@WhipKClark This is nonsense. You are responsible for the high prices you old skunk! \n\nGet rid of site of service arbitrage, stop taking money from the hospital association, get rid of CON laws, stop pretending less supply = lower prices. \n\nDo they teach arithmetic in Massachusetts?",
+   "lang": "en",
+   "createdAt": "2026-09-23T01:20:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 89,
+    "bookmarks": 1,
+    "views": 672
+   },
+   "replyTo": {
+    "tweetId": "2102458346359992391",
+    "userId": "2293131060",
+    "username": "WhipKClark"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2293131060",
+      "username": "WhipKClark",
+      "name": "Katherine Clark"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102555300691583043",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102555300691583043",
+   "url": "https://x.com/DutchRojas/status/2102555300691583043",
+   "conversationId": "2102555300691583043",
+   "text": "I turn 51 today. Washington has spent 16 of those years restricting physicians from opening and expanding hospitals.\n\nAfter more than 25 years building healthcare businesses, here’s my birthday wish list:\n\n1. HHS, CMS, and Congress: end Medicare’s hospital markup. Why the hell are taxpayers paying hospitals more for the same procedures independent surgery centers already perform?\n\n2. Ban Certificate of Need laws nationwide. Repeal Section 6001’s restrictions on physician-owned hospitals. Stop choking off competition and acting shocked at the prices.\n\n3. Require prices patients and employers can compare before treatment and enforce when the bill arrives.\n\n4. Reform the 340B drug discount program. Show what hospitals pay, what they collect, and what patients receive in financial assistance. Tie the benefit to documented help for patients.\n\nDemocrats and Republicans have fundraisers. I have a birthday wish list.\n\nSomehow, their guests always get their wishes granted.\n\nP.S. Thanks to my Mom for the awesome Ai bday card.",
+   "lang": "en",
+   "createdAt": "2026-09-23T00:27:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 62,
+    "retweets": 54,
+    "quotes": 6,
+    "likes": 245,
+    "bookmarks": 25,
+    "views": 6917
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102555297604612097",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS3G50JWsAEJwiX.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS3G50JWsAEJwiX.jpg",
+     "width": 1440,
+     "height": 1800,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102548034403856792",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102548034403856792",
+   "url": "https://x.com/DutchRojas/status/2102548034403856792",
+   "conversationId": "2102228216500900064",
+   "text": "@polmom @DrOzCMS Yes it does",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:58:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 32
+   },
+   "replyTo": {
+    "tweetId": "2102440969501294777",
+    "userId": "21920593",
+    "username": "polmom"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "21920593",
+      "username": "polmom",
+      "name": "Polmom"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102545489266962556",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102545489266962556",
+   "url": "https://x.com/DutchRojas/status/2102545489266962556",
+   "conversationId": "2102531461731484029",
+   "text": "@DrLGarl Get it! You’re doing G-D’s work amigo.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:48:02.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 89
+   },
+   "replyTo": {
+    "tweetId": "2102531461731484029",
+    "userId": "1587757932418142208",
+    "username": "DrLGarl"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1587757932418142208",
+      "username": "DrLGarl",
+      "name": "Lucas Myers"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102544594978161009",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102544594978161009",
+   "url": "https://x.com/DutchRojas/status/2102544594978161009",
+   "conversationId": "2102355479259140524",
+   "text": "@gavinnellii_0 Gavin, $24 million in revenue at a 5% EBITDA margin produces $1.2 million. A $1.2 million expense reduction produces the same earnings benefit over the same period.\n\nNeither comes with a lifetime warranty. Both deserve the CEO’s attention.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:44:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 24
+   },
+   "replyTo": {
+    "tweetId": "2102371542411952565",
+    "userId": "1843712904203264000",
+    "username": "gavinnellii_0"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1843712904203264000",
+      "username": "gavinnellii_0",
+      "name": "gavin ellison"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102544113526595737",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102544113526595737",
+   "url": "https://x.com/DutchRojas/status/2102544113526595737",
+   "conversationId": "2102355479259140524",
+   "text": "@HelenGinna Agreed, Helen. I compared the earnings impact in a single year. Every year that $1.2 million saving holds, the business would need another $24 million in revenue at a 5% margin to match it.\n\nWhich makes handing the renewal to HR even more expensive.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:42:34.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 20
+   },
+   "replyTo": {
+    "tweetId": "2102542468247961929",
+    "userId": "1463479158609039372",
+    "username": "HelenGinna"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1463479158609039372",
+      "username": "HelenGinna",
+      "name": "Helen Gill"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102537269642985754",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102537269642985754",
+   "url": "https://x.com/DutchRojas/status/2102537269642985754",
+   "conversationId": "2102431670502613180",
+   "text": "@DrVDV Thank you Sir. \nYou guys do the heavy lifting. Appreciate all you do for the patients.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:15:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 36
+   },
+   "replyTo": {
+    "tweetId": "2102535946793328965",
+    "userId": "701438819",
+    "username": "DrVDV"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "701438819",
+      "username": "DrVDV",
+      "name": "Jon Van Der Veer"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102526404080316859",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102526404080316859",
+   "url": "https://x.com/DutchRojas/status/2102526404080316859",
+   "conversationId": "2102514506396266917",
+   "text": "@Methodical001 These guys… I pay no attention any more. We have had this convo so many times.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:32:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2102514506396266917",
+    "userId": "1843259057261424640",
+    "username": "Methodical001"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1843259057261424640",
+      "username": "Methodical001",
+      "name": "Method Man"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102526398116053041",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102526398116053041",
+   "url": "https://x.com/DutchRojas/status/2102526398116053041",
+   "conversationId": "2102431670502613180",
+   "text": "@Jtfawver Thank you!🙏",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:32:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2102519467569775037",
+    "userId": "355213790",
+    "username": "Jtfawver"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "355213790",
+      "username": "Jtfawver",
+      "name": "VP of pizza consumption"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102470288495755509",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102470288495755509",
+   "url": "https://x.com/DutchRojas/status/2102470288495755509",
+   "conversationId": "2102431670502613180",
+   "text": "@SevenDivinity Thank you!!!",
+   "lang": "en",
+   "createdAt": "2026-09-22T18:49:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 39
+   },
+   "replyTo": {
+    "tweetId": "2102464624797102579",
+    "userId": "1011011440025600000",
+    "username": "SevenDivinity"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1011011440025600000",
+      "username": "SevenDivinity",
+      "name": "Divinity Seven📚🏥🌏🪧"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102454441257710063",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102454441257710063",
+   "url": "https://x.com/DutchRojas/status/2102454441257710063",
+   "conversationId": "2102431670502613180",
+   "text": "@policywishes Nice!!!",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:46:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 34
+   },
+   "replyTo": {
+    "tweetId": "2102444415612506382",
+    "userId": "1945098684095512576",
+    "username": "policywishes"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1945098684095512576",
+      "username": "policywishes",
+      "name": "𝓟𝓸𝓵𝓲𝓽𝓲𝓬𝓼, 𝓟𝓸𝓵𝓲𝓬𝓲𝓮𝓼, 𝓟𝓸𝓹 𝓒𝓾𝓵"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102454411591393338",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102454411591393338",
+   "url": "https://x.com/DutchRojas/status/2102454411591393338",
+   "conversationId": "2101767796753617343",
+   "text": "@PradGeorge Yes. When we do our own event next year we will post all.",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:46:08.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 59
+   },
+   "replyTo": {
+    "tweetId": "2102447068610765100",
+    "userId": "1518988064911241218",
+    "username": "PradGeorge"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1518988064911241218",
+      "username": "PradGeorge",
+      "name": "Prad George"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102433731298693142",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102433731298693142",
+   "url": "https://x.com/DutchRojas/status/2102433731298693142",
+   "conversationId": "2102431670502613180",
+   "text": "My pals found an orange cake! How great is that…",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:23:57.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 295
+   },
+   "replyTo": {
+    "tweetId": "2102431670502613180",
+    "userId": "475043222",
+    "username": "DutchRojas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102431670502613180",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102431670502613180",
+   "url": "https://x.com/DutchRojas/status/2102431670502613180",
+   "conversationId": "2102431670502613180",
+   "text": "Cigars and cake! https://x.com/DutchRojas/status/2102431670502613180/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:15:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 35,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 129,
+    "bookmarks": 0,
+    "views": 2377
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102431666023137280",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS1WdgnXgAAQowW.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS1WdgnXgAAQowW.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102415065404334259",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102415065404334259",
+   "url": "https://x.com/DutchRojas/status/2102415065404334259",
+   "conversationId": "2102230896338178226",
+   "text": "@mikethomas1776 It was a payoff for votes.",
+   "lang": "en",
+   "createdAt": "2026-09-22T15:09:47.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 30
+   },
+   "replyTo": {
+    "tweetId": "2102387691904217289",
+    "userId": "2001692157099331584",
+    "username": "mikethomas1776"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2001692157099331584",
+      "username": "mikethomas1776",
+      "name": "Mike Thomas"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102415012581015636",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102415012581015636",
+   "url": "https://x.com/DutchRojas/status/2102415012581015636",
+   "conversationId": "2102388903554547746",
+   "text": "@HolderOfLight Well written!",
+   "lang": "en",
+   "createdAt": "2026-09-22T15:09:34.000Z",
+   "type": "reply",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 101
+   },
+   "replyTo": {
+    "tweetId": "2102388903554547746",
+    "userId": "1591126859873386533",
+    "username": "HolderOfLight"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1591126859873386533",
+      "username": "HolderOfLight",
+      "name": "Rab Mal'akha"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

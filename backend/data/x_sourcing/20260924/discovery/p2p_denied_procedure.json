@@ -1,0 +1,2113 @@
+{
+ "key": "p2p_denied_procedure",
+ "query": "(\"peer to peer\" OR \"peer-to-peer\") insurance denied (MRI OR surgery OR procedure OR injection) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082267141546394092",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2082267141546394092",
+   "url": "https://x.com/USADocumented/status/2082267141546394092",
+   "conversationId": "2082267141546394092",
+   "text": "Our healthcare system has been funding the needs of illegals and ObamaCare made it a disaster. These insurance companies are now denying legitimate care to American cancer patients while doctors waste hours fighting them.\n\nThis doctor just finished a peer-to-peer with Blue Cross Blue Shield of Missouri.\nHis patient had a mastectomy 15 years ago. \n\nShe needs a revision for the natural asymmetry. Insurance denied it as “cosmetic.”\n\nThe reviewer was an ENT who started attacking him, trying to paint it as elective vanity surgery.\n\nHis response was perfect:\n“There’s nothing cosmetic about a patient who had their breast removed needing a revision 15 years later.”\n\nInsurance companies will fight tooth and nail to deny legitimate care. Doctors are stuck in these absurd battles every day. \n\nThis system is broken.",
+   "lang": "en",
+   "createdAt": "2026-07-29T00:49:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "928319559291015169",
+    "username": "USADocumented",
+    "name": "DocumentingLibs",
+    "url": "https://x.com/USADocumented",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2100727136151642112/2fcAgQ9b_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 76,
+    "retweets": 663,
+    "quotes": 20,
+    "likes": 1055,
+    "bookmarks": 77,
+    "views": 15759
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2082267077260242944",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2082267077260242944/vid/avc1/720x1280/6APAd6meFG7D-8AY.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2082267077260242944/img/S8v-qD0s3w9oKHzv.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 78
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1934671668238311645",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1934671668238311645",
+   "url": "https://x.com/WallStreetApes/status/1934671668238311645",
+   "conversationId": "1934671668238311645",
+   "text": "This is a Neurosurgeon at UCLA\n\nHe has a patient that has brain tumors\n\n🚨 UnitedHealthcare has denied his patient a MRI for lifesaving imaging and THEY’RE DENYING DOING PEER TO PEERS\n\nA Peer to Peer is how doctors could appeal the insurance company decision\n\n“So UnitedHealthcare has once again disappointed me as an insurance company because they not only denied an MRI for one of my patients that needed advanced sequences for tumor surgery, but they denied a peer to peer. \n\nNow, I thought things were supposed to get better after all the complaints on social media, the heat that they've had from all the public opinion. But to take away the peer to peer process and have us fill out a form that they're going to fax to us at some unknown time and date, this patient literally needs the SARI so that we can do a safer brain tumor surgery, and yet now they're removing the avenues through which we can even apply for that. \n\n— UnitedHealth, if you are going to deny our ability to order scans or labs that are crucial for carrying out safe patient care, at least make the appeal process easier so that we can do so”",
+   "lang": "en",
+   "createdAt": "2025-06-16T17:57:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1116,
+    "retweets": 7837,
+    "quotes": 447,
+    "likes": 18161,
+    "bookmarks": 1195,
+    "views": 783053
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1934671518031917056",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1934671518031917056/vid/avc1/720x1280/IAT6HmELS9lkkj1b.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1934671518031917056/img/MUwSkStH5EhMZYD8.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 71
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2076027381345648730",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2076027381345648730",
+   "url": "https://x.com/jeremyct/status/2076027381345648730",
+   "conversationId": "2076027381345648730",
+   "text": "Insurance denied my friend’s MRI last month.\n\nDoctor ordered it. Said it was medically necessary.\n\nInsurance said they needed more documentation.\nDoctor sent more documentation.\nInsurance said they needed a peer to peer review.\n\nPeer to peer happened.\n\nInsurance denied it again.\nMy friend paid $2,400 out of pocket.\nThe person who denied it was not a doctor.\n\nWas not reviewed by a doctor.\nWas an algorithm trained to find reasons to say no.\n\nThis is legal.\nThis is standard practice.\n\nThis happens 50,000 times a day in America.",
+   "lang": "en",
+   "createdAt": "2026-07-11T19:34:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1778110452335095808",
+    "username": "jeremyct",
+    "name": "Jeremy",
+    "url": "https://x.com/jeremyct",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2099386885047037960/ArvWuhFJ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 679,
+    "retweets": 5291,
+    "quotes": 250,
+    "likes": 17284,
+    "bookmarks": 446,
+    "views": 390280
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2049104355513532870",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2049104355513532870",
+   "url": "https://x.com/kevinmd/status/2049104355513532870",
+   "conversationId": "2049104355513532870",
+   "text": "A hematologist-oncologist found herself on a peer-to-peer call literally begging an insurance reviewer for her patient's life.\n \nThe chemo was working. They paused it for six weeks so the patient could have surgery, then restarted it. Not for toxicity. Not for progression. The reviewer denied the restart.\n \nShe refused to hang up until she got the approval. She also walked away from medicine for a year because of calls like that one.\n \nJennifer Lycette, MD, a community hematologist-oncologist with 15 years post-fellowship, left the practice of medicine for a year. No plan. She thought six months. Six months in, the pandemic hit and a 20-year physician whose calling started at age 12 watched the medical crisis of her lifetime from the outside.\n \nThe signs she missed before the prior auth call:\n \nA colleague asked, \"How is your joy in practice?\" She felt the answer land in her body and said the thing every clinician says: \"Fine. I'm fine. Everything's fine.\"\n \nHer husband sat across from her in the same room and said he was about to email her, because she had \"that look.\" She knew which look he meant. The look of not being there.\n \nThe triad she eventually named in herself, in her own words, the triad of physician burnout:\n \n1. Perfectionism\n2. Lack of self-compassion\n3. A subconscious need for external validation\n \nPerfectionism and striving for excellence are not the same thing. Perfectionism is a maladaptive coping mechanism, and most of us have built a 20-year career on top of one without ever naming it. She took Kristin Neff's self-compassion assessment and scored low across the board. The \"common humanity\" subscore was the one that broke her open. The thing we recognize in our patients (stress lives in the body, the workup comes back negative, something else is going on) does not exempt the clinician doing the workup.\n \nShe came back part-time, in a different practice. When patients ask what she does on the days she is not in clinic, she stopped saying \"I'm with my family\" and started saying \"I work from home.\" Chart messages. Chemo orders. Inbox triage. The work that does not fit inside the clinic day is the work that builds the burnout in the first place.\n \nThe pandemic, of all things, broke the cultural prohibition on part-time clinical practice. Administrative meetings went virtual. Telehealth normalized. The path back for her was a part-time role she could not have negotiated five years earlier.\n \nListen to the full conversation on The Podcast by KevinMD. Link in the replies.\n \nWhere on the curve from striving for excellence to perfectionism did you first realize you had crossed over?\n \n#PhysicianBurnout #ThePodcastbyKevinMD",
+   "lang": "en",
+   "createdAt": "2026-04-28T12:32:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "11274452",
+    "username": "kevinmd",
+    "name": "Kevin Pho, M.D.",
+    "url": "https://x.com/kevinmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1570116782035271682/MUM2ful0_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 25,
+    "bookmarks": 10,
+    "views": 3902
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2049104175691370496",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HG_hZCPakAAIRct.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HG_hZCPakAAIRct.png",
+     "width": 2160,
+     "height": 2700,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PhysicianBurnout",
+     "ThePodcastbyKevinMD"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1960801496666181933",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1960801496666181933",
+   "url": "https://x.com/WallStreetMav/status/1960801496666181933",
+   "conversationId": "1960801496666181933",
+   "text": "🚨Neurosurgeon at UCLA dealing with a patient that suffers brain tumors\n\nUnitedHealthcare has denied his patient a MRI for lifesaving imaging!!\n\n“So UnitedHealthcare has once again disappointed me as an insurance company because they not only denied an MRI for one of my patients that needed advanced sequences for tumor surgery, but they denied a peer to peer.\n\n\"Now, I thought things were supposed to get better after all the complaints on social media, the heat that they've had from all the public opinion. But to take away the peer to peer process and have us fill out a form that they're going to fax to us at some unknown time and date, this patient literally needs the SARI so that we can do a safer brain tumor surgery, and yet now they're removing the avenues through which we can even apply for that.\"\n\n\"UnitedHealth, if you are going to deny our ability to order scans or labs that are crucial for carrying out safe patient care, at least make the appeal process easier so that we can do so”",
+   "lang": "en",
+   "createdAt": "2025-08-27T20:28:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1366565625401909249",
+    "username": "WallStreetMav",
+    "name": "Wall Street Mav",
+    "url": "https://x.com/WallStreetMav",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1482179968083836928/7prxRZ4M_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 42,
+    "retweets": 96,
+    "quotes": 5,
+    "likes": 337,
+    "bookmarks": 19,
+    "views": 41022
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1960571062581633024",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1960571062581633024/vid/avc1/480x852/Hz10w4qQfLUS2s5A.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1960571062581633024/img/dVreOx6JGpxgydUe.jpg",
+     "width": 480,
+     "height": 852,
+     "altText": null,
+     "durationSeconds": 71
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1960766922712142163",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1960766922712142163",
+   "url": "https://x.com/sdixitmd/status/1960766922712142163",
+   "conversationId": "1960766922712142163",
+   "text": "Ditto that for spine surgery. Never seen this level of friction for approvals that would have been routine not even 24 months ago.  \n\nThe latest tactic - need to specify the vendor for any spine implants as well as the corresponding CPT code. Any mismatch? They get to deny solely on that basis. Have multiple patients who had their surgeries approved, but not the spinal implant. That would require - you guessed it - another peer to peer query and probably a formal appeal.\n\nAlso never had to send so many people for direct hospital admission w progressive neurologic deficits because of delays w these insurance approvals. (Literal bladder incontinence and weak leg where our pre cert folks spent 17 HOURS trying to navigate the approvals process and they still denied surgery.)\n\n4 years of med school\n8 years of post graduate clinical training\n24 years in clinical practice\n\nYet I am still at the mercy of a consolidated financial bureaucracy run by an accounting major/MBA from Snickerdoodle University who managed to pledge the right fraternity and played golf w the third cousin of someone who knew Paul Tsongas' grandkids barber.",
+   "lang": "en",
+   "createdAt": "2025-08-27T18:10:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "63372945",
+    "username": "sdixitmd",
+    "name": "Sanat Dixit MD FACS",
+    "url": "https://x.com/sdixitmd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1999489761526870023/mAs8yM9k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 20,
+    "quotes": 5,
+    "likes": 120,
+    "bookmarks": 23,
+    "views": 21862
+   },
+   "replyTo": null,
+   "quotedTweetId": "1960484224148103197",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1912533356312404465",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1912533356312404465",
+   "url": "https://x.com/EPotterMD/status/1912533356312404465",
+   "conversationId": "1912533356312404465",
+   "text": "The insurance company denied a stay for a surgery without even knowing what the surgery IS.\n\nMy patient and I are planning a DIEP flap breast reconstruction and I want her to stay inpatient for monitoring for more than 23 hours. I am an expert in microsurgery and have done this for over a decade. The insurance company denied the preauthorization for surgery saying that they would approve outpatient surgery, but not an inpatient stay. That’s not safe for this patient and this surgery.\n\nI requested a peer to peer conversation to explain to a doctor at the insurance company why an inpatient stay is needed for this patient.\n\nThe call came 1 hour and 15 minutes late, in the middle of my operative day.\n\nAnd the doctor who was supposed to be my peer was not a surgeon.\n\nAnd the doctor didn’t even know what a DIEP flap is.\n\nSo…that’s where we are.",
+   "lang": "en",
+   "createdAt": "2025-04-16T15:47:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 59,
+    "retweets": 306,
+    "quotes": 28,
+    "likes": 1206,
+    "bookmarks": 50,
+    "views": 56992
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1912533118671540224",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1912533118671540224/vid/avc1/720x1280/1dC44R15qO6OSBYJ.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1912533118671540224/img/EZwhvA-lDjla810z.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 72
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1151183719165759495",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1151183719165759495",
+   "url": "https://x.com/RamalingamMD/status/1151183719165759495",
+   "conversationId": "1151183719165759495",
+   "text": "Dilemma in clinic:( Insurance denied MRI brain for lung cancer ptient with brain Mets- requests peer to peer. Should I do it now and have clinic patients waiting or risk missing the call by the time my clinic ends ~6 pm? #lcsm https://x.com/RamalingamMD/status/1151183719165759495/photo/1",
+   "lang": "en",
+   "createdAt": "2019-07-16T17:36:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "61662547",
+    "username": "RamalingamMD",
+    "name": "Suresh S. Ramalingam, MD, FASCO",
+    "url": "https://x.com/RamalingamMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1280223113100353538/p71784zD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 20,
+    "retweets": 6,
+    "quotes": 6,
+    "likes": 42,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1151183715965575168",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/D_nTfY1XoAA-Wax.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/D_nTfY1XoAA-Wax.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "lcsm"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082078403008852221",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2082078403008852221",
+   "url": "https://x.com/DrBruggeman/status/2082078403008852221",
+   "conversationId": "2082078403008852221",
+   "text": "WISeR Primer\n\nLet’s start with what WISeR actually requires. The model applies to a defined list of service categories that CMS identified, using its own fraud, waste, and abuse data, as disproportionately prone to unnecessary or fraudulent billing, among them skin substitutes and mostly pain management procedures. It excludes inpatient-only services and true emergencies entirely. That is a narrow slice of Part B billing, not a blanket gate on every claim. This is in contrast to Medicare Advantage plans that apply prior authorization broadly, often to routine, low-risk services, because the incentive runs toward volume of denials rather than accuracy.\n\nInside that narrow scope, the physician has a real choice. A physician can submit a request before the procedure and get a coverage determination, standard decisions within 72 hours, expedited within 48. Otherwise, a physician can perform the service and submit the claim, in which case the Medicare Administrative Contractor routes it to the WISeR participant for review before payment against the same published criteria. There is no separate penalty for choosing the second path beyond the ordinary risk of a denial. A physician confident in their documentation and their read of coverage policy can proceed on their own judgment.\n\nThat is a structural difference from Medicare Advantage prior authorization, where treatment typically cannot proceed at all until the plan affirmatively approves it, using fluctuating criteria that could be the plan’s criteria or a third party’s criteria and is usually hidden from the physician seeking approval. WISeR's contractors are explicitly barred from creating new coverage criteria. CMS has stated directly that WISeR supports compliance with existing coverage policy already set out in statute, regulation, and the National and Local Coverage Determinations are published and easy to look up. If a prior authorization request is not affirmed, the physician learns the specific reason, can request a peer-to-peer review with an actual clinician at the contractor, and can resubmit the request with no limit on the number of attempts. If a claim itself is ultimately denied, whether after a non-affirmed prior authorization or through pre-payment review on a claim submitted without one, the physician has the same standard Medicare appeals process already in place today, redetermination, reconsideration, and on up, not an unlimited resubmission loop. CMS Innovation Center officials have said contractors are paid/incentivized to get the determination right, not to maximize denials.\n\nNone of that describes how prior authorization has functioned under Medicare Advantage or private health insurance for the last fifteen years.",
+   "lang": "en",
+   "createdAt": "2026-07-28T12:19:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 3,
+    "views": 752
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2082078398474571776",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HOUHRaeXUAANyfw.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HOUHRaeXUAANyfw.jpg",
+     "width": 2048,
+     "height": 1336,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1918733671143743823",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1918733671143743823",
+   "url": "https://x.com/WallStreetApes/status/1918733671143743823",
+   "conversationId": "1918733671143743823",
+   "text": "INSANE 🚨 This surgeon has a patient who needs a “deep flap” surgery. Insurance denied it\n\nTo appeal she had to speak to her patients insurance. “I actually asked, do you know what a deep flap is? THE DOCTOR SAID NO.” \n\nThe insurance companies deciding if Americans get their procedures DONT EVEN KNOW what the procedures are. How is this okay?!\n\nTHIS is the state of American healthcare…\n\n“You may remember I had a patient who needs a deep flap, and the insurance company denied an inpatient stay for her. So I had to schedule a peer to peer call and schedule time out of my day to ask for a conversation directly with someone who is my peer to discuss deep flap surgery and why that patient needed to be overnight. \n\nThat call was scheduled for 11AM, and eleven came around 11: 30, 11: 45 and no call still. And then we emailed the insurance company because, of course, they don't give me the call number. They only let me receive the call. So finally at 12: 15, I received the call that was initially scheduled for 11. And the doctor who called me was not a surgeon. \n\nAnd I actually asked the doctor, do you know what a deep flap is? And the doctor said no. So that's where we are. \n\nMy patient has insurance. She's seeing someone who's fellowship trained in microsurgery, me, to do her breast reconstruction, and I'm having to teach another doctor what a deep flap is in order to justify her overnight stay to navigate her insurance. \n\nThis is completely ridiculous.”",
+   "lang": "en",
+   "createdAt": "2025-05-03T18:25:30.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 784,
+    "retweets": 2460,
+    "quotes": 133,
+    "likes": 11125,
+    "bookmarks": 625,
+    "views": 1292577
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1918733179466469376",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1918733179466469376/vid/avc1/720x1280/WQSl2C3bratbLFH_.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1918733179466469376/img/DjXo5hG5_kJ4EJkO.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 72
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1213232365717393410",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1213232365717393410",
+   "url": "https://x.com/DrBenRodgers/status/1213232365717393410",
+   "conversationId": "1213232365717393410",
+   "text": "“So, first schedule the surgery &amp; submit to insurance for prior auth. Denied. Then you do what’s called a peer to peer, usually with someone not your peer. Denied. Then you do a specialty P2P, they say oh, of course. These are the steps.”\n@cardiojaydoc02 \nhttps://x.com/MomoMaicon/status/1210638710649368578/video/1",
+   "lang": "en",
+   "createdAt": "2020-01-03T22:55:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "893885056460214273",
+    "username": "DrBenRodgers",
+    "name": "Ben Rodgers",
+    "url": "https://x.com/DrBenRodgers",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/893888130184613892/BjdcZhRB_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 24,
+    "retweets": 102,
+    "quotes": 11,
+    "likes": 603,
+    "bookmarks": 11,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "339455443",
+      "username": "cardiojaydoc02",
+      "name": "Dorian L. Beasley MD, FACC"
+     }
+    ],
+    "urls": [
+     "https://x.com/MomoMaicon/status/1210638710649368578/video/1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1991653306955862167",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1991653306955862167",
+   "url": "https://x.com/SPuro88/status/1991653306955862167",
+   "conversationId": "1991653306955862167",
+   "text": "Another story about the crap doctors who work for insurance. Had to do a peer to peer with one who denied BPH surgery for my pt living with a foley. I asked his name, turned out to be one of my old attendings who go fired for sexual harassment. Made small talk &amp; then approved it.",
+   "lang": "en",
+   "createdAt": "2025-11-20T23:42:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 19,
+    "retweets": 23,
+    "quotes": 3,
+    "likes": 473,
+    "bookmarks": 13,
+    "views": 27260
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1818789621150498892",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1818789621150498892",
+   "url": "https://x.com/5co77y_Mac/status/1818789621150498892",
+   "conversationId": "1818789621150498892",
+   "text": "so my insurance assigned an OBGYN to my neurosurgeon’s peer-to-peer for appealing my already twice-denied MRI. Aside from that being nonsensical, the last time an OBGYN was involved in my healthcare they cut off a body part without consent. So I want nothing to do with any OBGYN",
+   "lang": "en",
+   "createdAt": "2024-07-31T23:23:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "942627379",
+    "username": "5co77y_Mac",
+    "name": "scoot 🔊",
+    "url": "https://x.com/5co77y_Mac",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1364272906256211971/4W4CgV_W_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 103
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1968996449858748646",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1968996449858748646",
+   "url": "https://x.com/happilyMrsJ/status/1968996449858748646",
+   "conversationId": "1968996449858748646",
+   "text": "“I’m sorry, your insurance denied your procedure, however there are still two options. A peer to peer, and if that fails, an appeal. We will update you on the status as it processes.”",
+   "lang": "en",
+   "createdAt": "2025-09-19T11:11:50.000Z",
+   "type": "quote",
+   "author": {
+    "id": "3027295930",
+    "username": "happilyMrsJ",
+    "name": "♛Queen J♛",
+    "url": "https://x.com/happilyMrsJ",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1853199621050503168/4D1CBTaU_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 254
+   },
+   "replyTo": null,
+   "quotedTweetId": "1968560316234584398",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1390066383891963907",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1390066383891963907",
+   "url": "https://x.com/generalorthomd/status/1390066383891963907",
+   "conversationId": "1390066383891963907",
+   "text": "BCBS denied an MRI on a patient with a recent injury, positive Lachman, + effusions, + joint line pain, AND refused to even allow a peer to peer because they hadn't done 6 weeks of therapy. \n\nHow is this legal? \n\nFor profit insurance companies are not our friends.",
+   "lang": "en",
+   "createdAt": "2021-05-05T22:10:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1286688607294468096",
+    "username": "generalorthomd",
+    "name": "Very General Orthopaedist",
+    "url": "https://x.com/generalorthomd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1515796467360751617/jjeTWagK_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 32,
+    "retweets": 17,
+    "quotes": 5,
+    "likes": 300,
+    "bookmarks": 3,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1934682214937059337",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1934682214937059337",
+   "url": "https://x.com/WallStreetMav/status/1934682214937059337",
+   "conversationId": "1934682214937059337",
+   "text": "🩻A neurosurgeon at UCLA is treating a patient with brain tumors, but UnitedHealthcare has denied access to a vital MRI scan.\n\nEven more alarming—they’re refusing to do a peer-to-peer consultation with the physician.\n\nInsurance takes your money and gives you nothing in return",
+   "lang": "en",
+   "createdAt": "2025-06-16T18:39:19.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1366565625401909249",
+    "username": "WallStreetMav",
+    "name": "Wall Street Mav",
+    "url": "https://x.com/WallStreetMav",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1482179968083836928/7prxRZ4M_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 77,
+    "retweets": 296,
+    "quotes": 12,
+    "likes": 731,
+    "bookmarks": 59,
+    "views": 99947
+   },
+   "replyTo": null,
+   "quotedTweetId": "1934671668238311645",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1734356564218110324",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1734356564218110324",
+   "url": "https://x.com/SPuro88/status/1734356564218110324",
+   "conversationId": "1734356564218110324",
+   "text": "One of the most unbelievable things in my career happened today. The insurance doc on my peer to peer after they initially denied a patient’s surgery was actually a urologist! Truly remarkable. Sometimes I don’t even get a physician, I’m lucky if I do, but this was unbelievable!",
+   "lang": "en",
+   "createdAt": "2023-12-11T23:36:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1237172171245568001",
+    "username": "SPuro88",
+    "name": "Sravan Panuganti, DO, FACOS",
+    "url": "https://x.com/SPuro88",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1906749466113150976/W-NlrFV6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 0,
+    "views": 4634
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1587834547533541376",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1587834547533541376",
+   "url": "https://x.com/ChrisLeeNeuro/status/1587834547533541376",
+   "conversationId": "1587834547533541376",
+   "text": "Me: this patient has pathologic reflexes, leg weakness, imbalance, they need an MRI C Spine.\nInsurance: denied, need an X ray first\nMe: they will need the C spine MRI regardless of what an X ray would show\nInsurance: denied. you must do a Peer to Peer\nMe: calling for 20 min",
+   "lang": "en",
+   "createdAt": "2022-11-02T15:50:31.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "547241596",
+    "username": "ChrisLeeNeuro",
+    "name": "Chris Lee",
+    "url": "https://x.com/ChrisLeeNeuro",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/502285006044028928/GzC0eBu-_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098082123697578487",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2098082123697578487",
+   "url": "https://x.com/jeremyct/status/2098082123697578487",
+   "conversationId": "2098082123697578487",
+   "text": "Insurance denied my cousin's MRI back in the spring.\n\nNeurologist ordered it, documented it as medically necessary in detail.\n\nInsurance came back asking for more documentation.\n\nDoctor sent it.\n\nInsurance then requested a peer to peer review.\n\nThat happened too, doctor to doctor, actual conversation.\n\nDenied again anyway.\n\nMy cousin ended up paying $2,600 out of pocket for something a licensed neurologist said she needed.\n\nThe denial itself wasn't made by a doctor. Wasn't reviewed by one at any point in that final decision.\n\nIt was a system built to look for a defensible reason to say no, and it found one.\n\nThis is completely legal.\n\nThis happens constantly, all across America, every single day, to people who did everything the process asked of them and still lost.",
+   "lang": "en",
+   "createdAt": "2026-09-10T16:12:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1778110452335095808",
+    "username": "jeremyct",
+    "name": "Jeremy",
+    "url": "https://x.com/jeremyct",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2099386885047037960/ArvWuhFJ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 49,
+    "retweets": 19,
+    "quotes": 3,
+    "likes": 136,
+    "bookmarks": 6,
+    "views": 11834
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1903409001880248755",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1903409001880248755",
+   "url": "https://x.com/OwenGregorian/status/1903409001880248755",
+   "conversationId": "1903409001880248755",
+   "text": "They Hated Health Insurance. So They Started Paying For Each Other’s Care. | Alana Semuels, TIME\n\nWhen Geoff Perlman’s 20-year-old son broke his arm in December 2022, the bill was paid by strangers who chipped in to cover the costs.\n\nAnd rather than paying a monthly premium to a health care company, Perlman writes a check each month, never exceeding $420 for his family of four, to foot strangers’ health care bills, covering part of a pregnancy for one family or chemotherapy for another.\n\nPerlman, a 61-year-old tech CEO from Austin, Texas, is a member of CrowdHealth, a health care startup that seeks to replace health insurance with a crowd-funding model that the company says lowers costs and diverts money from insurance conglomerates to real people. Perlman likes the company because he says it sidesteps insurers’ incentive to deny claims and seek profit, while erasing patients’ ignorance about what health care actually costs.\n\n“You have a feeling you’re part of a community and you’re looking out for them,” says Perlman. “It feels like the money I am paying is helping other people.”\n\nCrowdHealth, which was founded in 2021, offers a new take on an old idea. For decades, religious health-sharing ministries with names like Medi-Share and Samaritan Ministries have asked communities to pitch in for the medical bills of strangers. CrowdHealth has no spiritual affiliation; it’s a peer-to-peer financial-technology company that allows its roughly 10,000 paying members to make payments toward fellow members’ medical expenses.\n\nTo join, members pay an administrative fee of about $55 a month. Each month, they get a message from CrowdHealth informing them that another member needs financial assistance for a specific medical issue. Members can agree to pay their share of the bill, which doesn’t exceed $140 per month for a single person under 55, or $420 for a family of four. Or they can decline—at the cost of eroding their rating on CrowdHealth’s site, making it less likely that fellow members will contribute to their own needs.\n\nWhen a member has a health care expense, they’re instructed to pay in cash, or tell a hospital that they are a self-pay customer, save the receipts, and submit them to CrowdHealth for compensation. (CrowdHealth sometimes negotiates the price of planned labs or procedures ahead of time.) The company says it covers 99.8% of claims, though it does not specify what exactly is counted in that statistic.\n\nWhat draws people to CrowdHealth is deep discontent with the U.S. health insurance system. The share of Americans who said that the quality of health care in the U.S. is excellent or good—44%—is the lowest since at least 2001, according to a December Gallup poll. Even many of those with good insurance coverage are frustrated at the system’s perverse incentives, byzantine regulations, and opaque processes. It’s this frustration, in part, that led to a groundswell of public support for Luigi Mangione, who was charged with first-degree murder in December for allegedly gunning down UnitedHealthcare CEO Brian Thompson in Manhattan. (Mangione has pleaded not guilty.)\n\n“There’s certainly a growing voice of people saying, ‘What do we need health insurance for if it’s just denying care?’” says Michelle Long, senior policy manager at KFF, a health care research group.\n\nFor better or worse, CrowdHealth is not health insurance, and there are caveats to the coverage it will provide. CrowdHealth won’t pay for procedures related to preexisting conditions, including pregnancy, until you have been a member for nine months. They won’t accept smokers, heavier individuals, or anyone age 65 and over. It doesn’t cover long-term prescription or fertility treatment. And the company expects members to spend time on the phone with medical providers negotiating a cash price, as well as sometimes putting money up front to pay the bill before waiting for reimbursement. There is no guarantee that CrowdHealth will pay for your medical procedures.\n\nStill, for some people, the idea of health-care sharing is more appealing than dealing with insurance companies. “What resonates with people is that they’re just tired of health insurance. They’re tired of these bills and these claims getting denied,” says Andy Schoonover, the CEO and founder of CrowdHealth.\n\nSchoonover says his own frustrations with health insurance motivated him to create CrowdHealth. After he sold a company and lost his employer-sponsored health insurance, he went on the health care marketplace and purchased insurance for himself, his wife, and two children, paying about $1,200 per month.\n\nLike many Americans, Schoonover had a plan through the Affordable Care Act, which dramatically expanded access to health care in America. But many consumers have reported problems getting claims approved through these plans. Nationwide, about 20% of claims through http://healthcare.gov insurers were denied in 2023, according to a KFF analysis.\n\nSchoonover says that his insurer refused to pay $8,000 for ear tubes to treat his one-year-old’s recurring ear infections—a treatment doctors said was medically necessary, but the insurer said was not. So Schoonover started thinking about alternatives.\n\n“I said to them, ‘Look, if you’re not willing to pay my bills, I won’t pay your bill,’” he recalls. He dropped his insurance, started to pay cash for procedures, and began looking at better ways to cover health care bills without insurance.\n\nSchoonover says he was surprised how much money he could save by offering to pay cash rather than offering up his insurance card, since he spared doctor’s offices administrative costs. But that still left the question of how to cover the crushing fees of a major health problem like cancer. That’s where the idea of CrowdHealth came in.\n\n“My next thought was, ‘If I could get a group of people willing to go the same route as me, then there could be others out there to help me in the case of a large medical event,” he says.\n\nSchoonover took to dozens of podcasts—many of which focused on Bitcoin or cryptocurrency—to promote CrowdHealth, in search of an audience already thinking of alternatives to current systems. One of them was Kyle Ward, now 33, who had gone without health insurance for 10 years after realizing that he wasn’t using his employer-sponsored health insurance yet was paying hundreds of dollars a month for coverage.\n\nWard had weighed the pros and cons of going without health care, and when the Affordable Care Act came out, he and his wife thought about signing up for a plan. But on his $44,000 per year salary, a premium of $300 per month plus a $7,000 deductible didn’t seem worth the money, he says. He and his wife decided it was a better financial decision to invest the money they would otherwise spend on health insurance and just pay cash for health expenses.\n\nDoing so led to significant discounts, according to Ward, who says a doctor’s visit near where he lives in rural Texas was $80 if he paid cash, while his wife’s asthma medication was about $280 every three months. A gallbladder surgery that he had been told would cost $34,000 through insurance went down to $8,000 when he offered to pay cash, Ward says. Childbirth was $6,000 through a midwife who took cash.\n\nBut Ward was still worried about catastrophic health events. So when he heard about CrowdHealth, he decided to sign up. It wasn’t a perfect solution. Ward has a preexisting condition that requires frequent colonoscopies, and he knew that CrowdHealth would not cover those. But CrowdHealth helped him find a place willing to do the procedure for $950 cash, he says, and he figured that CrowdHealth was still worth it.\n\n“Traditional health insurance is not working,” he says. “Maybe I’ve bought into the sales pitch, but CrowdHealth makes sense to me financially and morally—and it really feels like they want to do good.”\n\nCrowdHealth appears to be popular with users—on the website Trustpilot, it received 4.8 stars out of 5, with 411 reviews. But it won’t be the right solution for many families. It is not regulated like health insurance, and so if your claim is denied, there’s no regulator to turn to.\n\nCaroline Niziol was a member of Medi-Share, one of the largest religious health-sharing ministries, from 2015 to 2017. It saved Niziol’s family a lot of money: Medi-share cost them around $350 per month, while their traditional health insurance premium was around $850. But the ministry did not cover vaccines, physical therapy, or mental health care, and had an annual household ceiling for medical costs.\n\nWhen her husband had a procedure related to a chronic health condition that cost $10,000, Medi-Share refused to cover it, Niziol says, even though she believes they should have. Niziol says she had to argue with Medi-Share for months to get it covered, as she did when her newborn baby ended up in the emergency room.\n\n“I kind of feel like you get what you pay for,” she says. \"It can really be a time suck.”\n\nMedi-Share, which has 336,000 individual members, said in a statement to TIME that 80% of all bills are processed in 30 days or less. Member-voted guidelines govern what is and is not eligible for sharing, the company says, and these guidelines stipulate that there is no annual or lifetime limit on eligible medical bills. Medi-Share also says that physical therapy is eligible for sharing for up to 20 visits combined, and short-term counseling services are available by phone through Medi-Share's telebehavioral health service.\n\nCrowdHealth is small relative to religious health care sharing ministries; the Alliance of Health Care Sharing Ministries counts nearly 700,000 members. The unregulated nature of these health-sharing companies has drawn attention from some states. In 2022, Colorado passed a law that requires health-sharing ministries and medical cost-sharing communities to report specific information to the commissioner of insurance regarding financial operations, membership, and medical bills submitted, paid, and denied in the state. It also required these communities to provide certain disclosures to members and respond to requests for payment of medical expenses without a specific period of time.\n\nSusan Lontine, the former Democratic legislator who sponsored the bill, says she introduced it because some Colorado residents had thought their health care expenses would be covered by these ministries and were surprised to find out they were not. “We were just trying to get a handle on who these entities were,” Lontine says.\n\nThe Alliance of Health Care Sharing Ministries sued the Colorado Division of Insurance over the law in May 2024, arguing that it deprives their members the right to exercise their religious liberty in the health care system. In the lawsuit, the alliance says that 33 states have enacted safe harbor laws clarifying that health care sharing ministries are exempt from the state insurance code. Four additional states have allowed them to operate exempt from the insurance code by providing members exemptions from state health insurance mandates.\n\nRead more:\n\nhttps://time.com/7269608/crowdhealth-health-sharing/",
+   "lang": "en",
+   "createdAt": "2025-03-22T11:30:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "853318060052291584",
+    "username": "OwenGregorian",
+    "name": "Owen Gregorian",
+    "url": "https://x.com/OwenGregorian",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2055033374314577921/ufkxMOpe_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 21,
+    "retweets": 36,
+    "quotes": 14,
+    "likes": 140,
+    "bookmarks": 96,
+    "views": 83712
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1903408995244896256",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GmpEZX_a8AAb-CE.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GmpEZX_a8AAb-CE.jpg",
+     "width": 1200,
+     "height": 800,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://healthcare.gov/",
+     "https://time.com/7269608/crowdhealth-health-sharing/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1486042390569930753",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1486042390569930753",
+   "url": "https://x.com/terrytorres/status/1486042390569930753",
+   "conversationId": "1486042390569930753",
+   "text": "My new, top-of-the-line insurance denied my MRI.\n\nMy doctor's office: \"We need to schedule a peer-to-peer with their coordinator. I'm afraid I can't give you a timeline on this. Even getting into contact takes hours.\n\nBut, boy, we've been getting a lot of denials lately!\" https://x.com/terrytorres/status/1486042390569930753/photo/1",
+   "lang": "en",
+   "createdAt": "2022-01-25T18:24:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "28503577",
+    "username": "terrytorres",
+    "name": "Terry 🍉 Torres",
+    "url": "https://x.com/terrytorres",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1730270449395752960/B33uuXSD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1486042283719995393",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FJ97lWpXMAE7Kjh.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FJ97lWpXMAE7Kjh.jpg",
+     "width": 500,
+     "height": 281,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1628818441401675777",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1628818441401675777",
+   "url": "https://x.com/PNW_PAC/status/1628818441401675777",
+   "conversationId": "1628795000002674690",
+   "text": "@TraumaSoapBoxes Oh yeah that’s just me tying to call the insurance company for a peer to peer to cover the explicitly covered surgery that they denied my patient",
+   "lang": "en",
+   "createdAt": "2023-02-23T18:05:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1530661489102598144",
+    "username": "PNW_PAC",
+    "name": "PNW Physician Assistant",
+    "url": "https://x.com/PNW_PAC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1531118339585544192/c0XW3_mh_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 220
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1424020775443460105",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1424020775443460105",
+   "url": "https://x.com/heme_fan/status/1424020775443460105",
+   "conversationId": "1424020775443460105",
+   "text": "Had to do a peer-to-peer as insurance denied use of factor concentrate for peri-operative management for major abdominal surgery. \n\nReason for denial: DDAVP should be used first.\n\n🙄",
+   "lang": "en",
+   "createdAt": "2021-08-07T14:53:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "806700010909921280",
+    "username": "heme_fan",
+    "name": "Ming Y Lim 明林",
+    "url": "https://x.com/heme_fan",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1448815717168472069/Ltij1v57_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1919274966744264967",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1919274966744264967",
+   "url": "https://x.com/OGodComeToMyAid/status/1919274966744264967",
+   "conversationId": "1919096796082803021",
+   "text": "This is UHC. We had a similar experience with them a few years ago. My disabled son’s doctor had a peer to peer with UHC for a wheelchair motor on a manual chair. We have no way of transporting a power chair, my son’s elbows are permanently dislocated, and he frequently breaks his arms. It was denied and they mocked our doctor over the phone. \n\nThey also denied a spinal fusion until they had confirmation from 3 different doctors that it was medically necessary. \n\nWe have different insurance now. A recent surgery was approved and paid for before we even left the hospital a week later.",
+   "lang": "en",
+   "createdAt": "2025-05-05T06:16:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1556508820976836608",
+    "username": "OGodComeToMyAid",
+    "name": "O Lord, Make Haste to Help Me",
+    "url": "https://x.com/OGodComeToMyAid",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1556509466828341248/VNEZI5Hy_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 265
+   },
+   "replyTo": {
+    "tweetId": "1919096796082803021",
+    "userId": "1099579684981944320",
+    "username": "WallStreetApes"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:861383559440994305",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "861383559440994305",
+   "url": "https://x.com/drscott_atlanta/status/861383559440994305",
+   "conversationId": "861383559440994305",
+   "text": "Denied procedure for patient\n\nDid peer to peer with insurance-company\n\nI asked what can I do?\n\nWas told they can't tell me how to practice😳 https://x.com/stillkicking62/status/861381992998424577",
+   "lang": "en",
+   "createdAt": "2017-05-08T00:53:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "61015562",
+    "username": "drscott_atlanta",
+    "name": "DrScott",
+    "url": "https://x.com/drscott_atlanta",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1800228836/Picture_164_edited_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "unavailable",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/stillkicking62/status/861381992998424577"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1963251717782601829",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1963251717782601829",
+   "url": "https://x.com/WallStreetApes/status/1963251717782601829",
+   "conversationId": "1963251717782601829",
+   "text": "Medical Doctor who’s President of the Nevada State Medical Association says American Health Insurance companies are now denying removing stillbirths from patients and denying their hospital stays\n\n“This denial is so incredibly egregious, I don't even know what to do with it — So we now have absolutely no way to get this baby out.”\n\n“Hi, my name is Dr. Joseph Adashek. I'm a high-risk pregnancy specialist in Nevada. I'm also president of the Nevada State Medical Association. \n\nSo today I received a denial on a patient who unfortunately had an 18-week fetal demise, 18-week stillbirth. \n\nSo unfortunately at this point now we have to get the baby out of her because otherwise she would have to wait until she goes into labor on her own and that could take a rather long time. That could be days or that could be weeks. It's hard to know. \n\nSo just got a letter from Aetna denying they either dilation and evacuation, a D&E procedure to get their baby out. Oh, and also denied putting her in the hospital. So we now have absolutely no way to get this baby out. \n\nFortunately, we can submit a letter requesting Rico consideration and they will get back to me in 14 days. So this poor patient has to wait until she goes into labor on her own. \n\nOf course, I can do a peer-to-peer review. Maybe, just maybe, I will get a physician. Will I get an OBGYN? Probably not. Will I get a high-risk pregnancy specialist? Not a chance. \n\nSo, I'm seeing other physicians just now going online to claim what is going on when they have denials. And this denial is so incredibly egregious, I don't even know what to do with it.“",
+   "lang": "en",
+   "createdAt": "2025-09-03T14:44:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 709,
+    "retweets": 3762,
+    "quotes": 338,
+    "likes": 8350,
+    "bookmarks": 700,
+    "views": 355440
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1963251537016455169",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1963251537016455169/vid/avc1/1920x1080/4fHASXdlNWFuMyf7.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1963251537016455169/img/9XuD7xxS-mmaqCB0.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": 107
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1654574264744308738",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1654574264744308738",
+   "url": "https://x.com/jennabee25/status/1654574264744308738",
+   "conversationId": "1654574264744308738",
+   "text": "Today has been a complete an utter clusterfuck.  My MRI was essentially denied by my insurance because they wanted a peer to peer review with the doctor who ordered.  She out until the 15th.  I canceled it.  The doctor filling in prescribed me a prednisone taper.",
+   "lang": "en",
+   "createdAt": "2023-05-05T19:50:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "15843825",
+    "username": "jennabee25",
+    "name": "Jenn Dixon🌱🧶📸🤘🏻",
+    "url": "https://x.com/jennabee25",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1538326551913279488/tqcUkEta_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 162
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1878271553076380000",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1878271553076380000",
+   "url": "https://x.com/terrimanzetti/status/1878271553076380000",
+   "conversationId": "1878268306072764768",
+   "text": "@unhealthytruth I was told I needed the same procedure.  Insurance company denied based on tests that were run and submitted to them.  After a peer to peer review be/ cardio Dr,  I had a Calcium score test- mine was ZERO! Thank you Humana!",
+   "lang": "en",
+   "createdAt": "2025-01-12T02:43:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "44055088",
+    "username": "terrimanzetti",
+    "name": "Terri",
+    "url": "https://x.com/terrimanzetti",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1204152783118585857/zkowfRfb_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 58
+   },
+   "replyTo": {
+    "tweetId": "1878268306072764768",
+    "userId": "18093097",
+    "username": "unhealthytruth"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "18093097",
+      "username": "unhealthytruth",
+      "name": "Erin Elizabeth Health Nut News🥜"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1558077937756274691",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1558077937756274691",
+   "url": "https://x.com/GallaherCaren/status/1558077937756274691",
+   "conversationId": "1558077937756274691",
+   "text": "Hey...is this common? A procedure or drug is ordered  then denied by insurance after peer to peer..Do you always ask for title, NPI, and specialty plus years of practice/last practiced? Do you share this info w the patient and also have them call the insurer?",
+   "lang": "en",
+   "createdAt": "2022-08-12T13:08:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "3814447817",
+    "username": "GallaherCaren",
+    "name": "CGallMD",
+    "url": "https://x.com/GallaherCaren",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/829117267057209344/3hjWLN0u_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1840122949451558947",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1840122949451558947",
+   "url": "https://x.com/jackson_herring/status/1840122949451558947",
+   "conversationId": "1839763724904587418",
+   "text": "@JenJJams @ThePOTSPostman lmao this is completely incorrect, I was denied a procedure with no peer-to-peer review because my insurance company has a minimum age for the procedure specifically written into their rules",
+   "lang": "en",
+   "createdAt": "2024-09-28T20:14:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "219056252",
+    "username": "jackson_herring",
+    "name": "horus herussy",
+    "url": "https://x.com/jackson_herring",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1465177903537213440/DfYI_KyP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 171
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1707202179176562689",
+      "username": "ThePOTSPostman",
+      "name": "ThePOTSPostman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1750243457954705703",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1750243457954705703",
+   "url": "https://x.com/rjohdomingo/status/1750243457954705703",
+   "conversationId": "1750243457954705703",
+   "text": "🚨ALL PLEASE RT! ⬇️🙏\n.@ClevelandClinic EHP is an absolutely horrific experience that not only am I a patient but also the spouse of a Caregiver at CCF.\n\nIn 2016 I had a successful Gastric Sleeve Surgery but NOW I am suffering in excruciating pain with everything I eat and drink, sleeping I get terrible burning, crushing pains in my abdomen. I am in urgent need of revision surgery and it’s getting denied using EHP Insurance. \n\nThis has gone through my Surgeon through Peer to Peer and myself as an Expedited Appeal. I keep getting denied because even though I have active insurance this urgent revision surgery my spouse has to be employed for 2 years. This surgery cannot wait. \n\nAn institution like yourself prides itself on “compassionate healthcare” in your board of governance but there is absolutely nothing compassionate about the care I am receiving.\n\nWhen I have Drs, my spouse and myself advocating for myself what good comes of it when no exceptions for urgent care. \n\nPLEASE HELP! 🚨\n\n.@TomMihaljevicMD \n.@ScottRSteeleMD",
+   "lang": "en",
+   "createdAt": "2024-01-24T19:45:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "25768580",
+    "username": "rjohdomingo",
+    "name": "ℝ𝔸𝕐",
+    "url": "https://x.com/rjohdomingo",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2072723430437261312/8Z6fYhYd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 17,
+    "quotes": 1,
+    "likes": 22,
+    "bookmarks": 0,
+    "views": 6790
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "24236494",
+      "username": "ClevelandClinic",
+      "name": "Cleveland Clinic"
+     },
+     {
+      "id": "867411036583989248",
+      "username": "ScottRSteeleMD",
+      "name": "Scott R. Steele"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1986996114424537223",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1986996114424537223",
+   "url": "https://x.com/oghofer/status/1986996114424537223",
+   "conversationId": "1986996114424537223",
+   "text": ".@Aetna @AetnaHelp @AetnaNews, this Washington, DC patient has written confirmation from you that you would cover life-altering brain surgery, and yet you have denied it, resulting in the indefinite postponement of this brain surgery. \n\nFurthermore, you refuse to hold a peer-to-peer consult with the patient's neurosurgeon, claiming one has already been conducted, when in fact you had cancelled the peer-to-peer consult that was previously scheduled.\n\nI think this case will be of interest to the DC Department of Insurance, Securities & Banking @DCDISB, to DC @MayorBowser, to the Deputy Mayor for Health and Human Services @DMHHS_DC, Health Care Ombudsmen Maude Regenia Holt @DCGovWeb, to local news media @nbcwashington @fox5dc @wusa9 @WTOP, as well as to journalists covering healthcare such as @brucejapsen @caitlinnowens @sarahkliff @KFFHealthNews @StephArmour1 @sangerkatz @berthacoombs @dariustahir @pw_cunningham",
+   "lang": "en",
+   "createdAt": "2025-11-08T03:16:04.000Z",
+   "type": "quote",
+   "author": {
+    "id": "734471419808108548",
+    "username": "oghofer",
+    "name": "Olivia Hofer Hancock",
+    "url": "https://x.com/oghofer",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1657765517577408512/eB-7afgs_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 589
+   },
+   "replyTo": null,
+   "quotedTweetId": "1986833597383282805",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16188518",
+      "username": "Aetna",
+      "name": "Aetna"
+     },
+     {
+      "id": "488810967",
+      "username": "AetnaHelp",
+      "name": "Aetna"
+     },
+     {
+      "id": "2911191940",
+      "username": "AetnaNews",
+      "name": "Aetna News"
+     },
+     {
+      "id": "28107483",
+      "username": "DCDISB",
+      "name": "DC Department of Insurance, Securities and Banking"
+     },
+     {
+      "id": "976542720",
+      "username": "MayorBowser",
+      "name": "Mayor Muriel Bowser"
+     },
+     {
+      "id": "331774065",
+      "username": "DMHHS_DC",
+      "name": "DMHHS"
+     },
+     {
+      "id": "161716937",
+      "username": "DCGovWeb",
+      "name": "DCGov Web Team"
+     },
+     {
+      "id": "14980820",
+      "username": "nbcwashington",
+      "name": "NBC4 Washington"
+     },
+     {
+      "id": "13918492",
+      "username": "fox5dc",
+      "name": "FOX 5 DC"
+     },
+     {
+      "id": "15391102",
+      "username": "wusa9",
+      "name": "WUSA9"
+     },
+     {
+      "id": "17906632",
+      "username": "WTOP",
+      "name": "WTOP"
+     },
+     {
+      "id": "22739318",
+      "username": "brucejapsen",
+      "name": "Bruce Japsen"
+     },
+     {
+      "id": "381664207",
+      "username": "caitlinnowens",
+      "name": "Caitlin Owens"
+     },
+     {
+      "id": "19734832",
+      "username": "sarahkliff",
+      "name": "Sarah Kliff"
+     },
+     {
+      "id": "23999515",
+      "username": "KFFHealthNews",
+      "name": "KFF Health News"
+     },
+     {
+      "id": "142393556",
+      "username": "StephArmour1",
+      "name": "Stephanie Armour"
+     },
+     {
+      "id": "370113964",
+      "username": "sangerkatz",
+      "name": "Margot Sanger-Katz"
+     },
+     {
+      "id": "93687723",
+      "username": "berthacoombs",
+      "name": "Bertha Coombs"
+     },
+     {
+      "id": "55874399",
+      "username": "dariustahir",
+      "name": "Darius Tahir"
+     },
+     {
+      "id": "204599219",
+      "username": "pw_cunningham",
+      "name": "Paige W. Cunningham"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1719682684216340693",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1719682684216340693",
+   "url": "https://x.com/blu_ray381/status/1719682684216340693",
+   "conversationId": "1719682684216340693",
+   "text": "Got denied insurance coverage for my 2nd skin removal surgery a week or 2 ago.\n\nMy Doc has a \"Peer to Peer\" meeting with them today to plead my case. I have all the faith in my Doc to get this worked out.",
+   "lang": "en",
+   "createdAt": "2023-11-01T11:47:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "35917386",
+    "username": "blu_ray381",
+    "name": "CCH 1/4-Pounder",
+    "url": "https://x.com/blu_ray381",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2065819864691048449/qw1EuLT-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 16,
+    "bookmarks": 0,
+    "views": 1116
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1499789492378611719",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1499789492378611719",
+   "url": "https://x.com/peculiar_pisces/status/1499789492378611719",
+   "conversationId": "1499789492378611719",
+   "text": "on today’s episode of “i hate insurance companies”, my boss and i have been transferred about ten times trying to set up a peer to peer to get a denied surgery authorized for a patient. given about 5 different phone numbers. on the phone for over an hour. we’re still going.",
+   "lang": "en",
+   "createdAt": "2022-03-04T16:50:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "242494574",
+    "username": "peculiar_pisces",
+    "name": "andie 🍉",
+    "url": "https://x.com/peculiar_pisces",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1914074722830049281/y86el2Kt_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1216855074418372609",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1216855074418372609",
+   "url": "https://x.com/MinaLeENT/status/1216855074418372609",
+   "conversationId": "1216855074418372609",
+   "text": "Ordered an MRI today. Was told the insurance company denied it and I’d have to speak with the company’s physician (“peer-to-peer review”). Had a slow phone call with a bureaucrat (not a doctor) who asked me awkward multiple-choice questions and then declared the MRI approved.",
+   "lang": "en",
+   "createdAt": "2020-01-13T22:50:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1038435195723149313",
+    "username": "MinaLeENT",
+    "name": "Mina Le, MD",
+    "url": "https://x.com/MinaLeENT",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1369116452855353344/pfWfTDx9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1800199598973362564",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1800199598973362564",
+   "url": "https://x.com/Vivian20090245/status/1800199598973362564",
+   "conversationId": "1800199598973362564",
+   "text": "Just got a call that 3rd scheduled lumbar MRI has been denied by insurance. I told Dr office this was a waste of time until Dr does a peer to peer. Gonna be blowing up their email 🤬 https://x.com/Vivian20090245/status/1800199598973362564/photo/1",
+   "lang": "en",
+   "createdAt": "2024-06-10T16:13:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1284286824672788480",
+    "username": "Vivian20090245",
+    "name": "Vivian",
+    "url": "https://x.com/Vivian20090245",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1849150362483130368/F8eO13CV_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 159
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1800199592408944640",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/GPuX_c5WkAAG3PB.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/GPuX_c5WkAAG3PB.jpg",
+     "width": 434,
+     "height": 498,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:990206737016909824",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "990206737016909824",
+   "url": "https://x.com/AkshaySharmaMD/status/990206737016909824",
+   "conversationId": "990206737016909824",
+   "text": "I once had to call an insurance company for a “peer-to-peer” to explain them why my patient with multi focal Rosai Dorfman disease needed a whole body MRI (which had obviously been denied). The so called peer had no clue what RDD was when he denied my request in the first place. https://x.com/katie_sharkey/status/989915525483462656",
+   "lang": "en",
+   "createdAt": "2018-04-28T12:30:57.000Z",
+   "type": "quote",
+   "author": {
+    "id": "754664467015892992",
+    "username": "AkshaySharmaMD",
+    "name": "Akshay Sharma MD",
+    "url": "https://x.com/AkshaySharmaMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1023642210724663296/RnBbQPBd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "989915525483462656",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/katie_sharkey/status/989915525483462656"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1864870329765769250",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1864870329765769250",
+   "url": "https://x.com/josonenine/status/1864870329765769250",
+   "conversationId": "1864870329765769250",
+   "text": "I traveled to Mayo Clinic to have a coronary angiogram and stent. Insurance denied the procedure while I was checking in. The cardiologist had to get on the phone and do an urgent peer to peer in the middle of a busy OR day. I was rescheduled to the end of the day. Criminal.",
+   "lang": "en",
+   "createdAt": "2024-12-06T03:11:48.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 181
+   },
+   "replyTo": null,
+   "quotedTweetId": "1864768818746122525",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2003642505670119470",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2003642505670119470",
+   "url": "https://x.com/TRHLofficial/status/2003642505670119470",
+   "conversationId": "2003642505670119470",
+   "text": "My daughter is in remission from a very rare condition where her immune system breaks her bones. 300 children in the United States have this. It took a week of her being sick in the hospital with pain in her foot and fevers that wouldn’t go away, resulting in a cancer hypothesis and a marrow draw, before a pediatric rheumatologist got his hands on her chart and diagnosed her. When she was diagnosed, 20 med students were in the room with us because they would never see this again in their life.\nMJ has CRMO. Her standard of care would be an MRI every 6 months, and a bisphosphonate infusion every 3 months. She had lesions on her feet, knees and spine. She had a fracture in her T5. She’d broken her hands, arms, fingers, and thumbs in the 18 months leading up to this diagnosis. We finally had an answer. And treatments began, but less than a year in, during a peer to peer review, a cardio-thoracic surgeon, who statistically hadn’t even heard of this condition, denied her treatment. So I fought for 6 months with my insurance while she went untreated and became worse.\nI thank God everyday MJ is in remission  now, AND THRIVING, but peer to peer review is a massive system failure and a detriment to patients. I’ll never stop pushing back against it.\nMJ in 2019 vs. MJ now.",
+   "lang": "en",
+   "createdAt": "2025-12-24T01:42:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "37190937",
+    "username": "TRHLofficial",
+    "name": "The Redheaded libertarian",
+    "url": "https://x.com/TRHLofficial",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093592973900402688/0e2lnhax_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 503,
+    "retweets": 502,
+    "quotes": 29,
+    "likes": 8645,
+    "bookmarks": 145,
+    "views": 138377
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2003642151498862592",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G85d68kW0AALH-9.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G85d68kW0AALH-9.jpg",
+     "width": 2048,
+     "height": 1366,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1852371437371220175",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1852371437371220175",
+   "url": "https://x.com/Isa_11_AC/status/1852371437371220175",
+   "conversationId": "1852371437371220175",
+   "text": "Uterine cancer doesn’t often show up on CT \n\nI have three palpable masses on the left side of my pelvis going up into my stomach. \n\nMy ex lap was clean. My lymph nodes are reactive but benign \n\nMy surgeon ordered the PET scan to see if the masses light up \n\nBecause: if they do, then we know what they are \n\nAnd they are painful. Large. Hurting me. I want them removed. But we can’t SEE them. \n\nWe don’t know what they ARE\n\nThey HURT \n\nI need the PET scan. \n\nAnd the insurance plan that I didn’t have to start, that I was convinced to start by an agent for Medicare advantage, blue cross blue shield \n\nThat told me nothing would change \n\nDenied my scan. They want a peer to peer. They want more clinical data. Well we couldn’t even figure it out in surgery. \n\nSo blue cross blue shield of TN.. If you deny my appeal I’m canceling my plan and paying my 20% of the scan. Because I do NEED it. But you seem to be willing to try… so thanks to the woman who went above and beyond today… really thank you. Because … she heard that \n\nI’m not doing well. And it’s getting worse. And no one knows what’s wrong. And she cared. A lot. ✨",
+   "lang": "en",
+   "createdAt": "2024-11-01T15:25:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1050803555701932033",
+    "username": "Isa_11_AC",
+    "name": "╭༺♡༻─ Isa ─༺♡༻╯",
+    "url": "https://x.com/Isa_11_AC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1762132483083026432/Utk0fTxd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 84,
+    "bookmarks": 0,
+    "views": 1702
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1852368231614353409",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GbTvF6aXkAE2mRm.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GbTvF6aXkAE2mRm.jpg",
+     "width": 1241,
+     "height": 1643,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

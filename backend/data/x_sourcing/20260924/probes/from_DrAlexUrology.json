@@ -1,0 +1,1746 @@
+{
+ "key": "from_DrAlexUrology",
+ "query": "from:DrAlexUrology lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102476621600997388",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102476621600997388",
+   "url": "https://x.com/DrAlexUrology/status/2102476621600997388",
+   "conversationId": "2102476621600997388",
+   "text": "So basically, you are promoting complete consolidation of the market with ONLY one negotiation that is possible: Hospital + Insurance companies.  \n\nWe know how it has been working out between the two of them - >15% year-to-year growth in costs? \n\nForce all physicians into complete dependency on hospitals; give hospitals \"tyrannical\" power over physicians.   Essentially, make employed + non-employed physicians equally dependent on hospital largesse.\n\nRemove ANY incentive for health insurance to negotiate fair rates directly with physicians. \n\nWe see where it's going - not a free market but Monopoly on hospital + physician services + Monopsony on insurer side.  \n\nInstead of negotiating a fair compensation, you want to \"force\" physicians to sign whatever contract @UHC and @AnthemBCBS puts in front of their nose, often without even the right to read the contract.  You know well that there are no negotiatons and that's why 80% of physicians are \"employed.\"\n\nBrilliant idea.  Brookings institution is truly a \"think tank\" but it can think only \"one step\" at a time.  \nOblivious to unintended consequences.",
+   "lang": "en",
+   "createdAt": "2026-09-22T19:14:23.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 33,
+    "bookmarks": 4,
+    "views": 3354
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102447891466092818",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "139858167",
+      "username": "AnthemBCBS",
+      "name": "Anthem Blue Cross and Blue Shield"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102216705049018419",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102216705049018419",
+   "url": "https://x.com/DrAlexUrology/status/2102216705049018419",
+   "conversationId": "2102216705049018419",
+   "text": "Insurance company accounting’s is basically “funny money.”\n\nThe posted loss is 0.5% of revenue. \n\nThey can dial it up next quarter to 20% profit by simply denying 10% more claims, prior authorizations, and appeals. Who can stop them?",
+   "lang": "en",
+   "createdAt": "2026-09-22T02:01:34.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 654
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102187056365548006",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102213077718466740",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102213077718466740",
+   "url": "https://x.com/DrAlexUrology/status/2102213077718466740",
+   "conversationId": "2101779122162942254",
+   "text": "@TSRooseveltRE @MetroPlusHealth They are not looking for results. They are looking to delay and deny.  \n\nThe math is simple: delaying is financially as good as denying.",
+   "lang": "en",
+   "createdAt": "2026-09-22T01:47:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2101855165557227765",
+    "userId": "51749993",
+    "username": "TSRooseveltRE"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "51749993",
+      "username": "TSRooseveltRE",
+      "name": "TS Roosevelt, MD, fka Gordon Pasha"
+     },
+     {
+      "id": "108716195",
+      "username": "MetroPlusHealth",
+      "name": "MetroPlusHealth"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102212010440048687",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102212010440048687",
+   "url": "https://x.com/DrAlexUrology/status/2102212010440048687",
+   "conversationId": "2101779122162942254",
+   "text": "@docbala @MetroPlusHealth Libido has very little association with any single lab other than testosterone.",
+   "lang": "en",
+   "createdAt": "2026-09-22T01:42:55.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2102010646795591797",
+    "userId": "254510859",
+    "username": "docbala"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "254510859",
+      "username": "docbala",
+      "name": "Balaji Kalyanaraman"
+     },
+     {
+      "id": "108716195",
+      "username": "MetroPlusHealth",
+      "name": "MetroPlusHealth"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102211121419633107",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102211121419633107",
+   "url": "https://x.com/DrAlexUrology/status/2102211121419633107",
+   "conversationId": "2101779122162942254",
+   "text": "They are not accountable to anyone. State laws exist that make such “science-free” arbitrary requests illegal but the laws are only as good as their enforcement.  There is zero enforcement from NYS Department of Financial Services. \n@GovKathyHochul @AmyPaulin @NYSenatorRivera @MedSocietyNYS",
+   "lang": "en",
+   "createdAt": "2026-09-22T01:39:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 57
+   },
+   "replyTo": {
+    "tweetId": "2101790765118824530",
+    "userId": "19383525",
+    "username": "JoelHillelsohn"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2977083957",
+      "username": "GovKathyHochul",
+      "name": "Governor Kathy Hochul"
+     },
+     {
+      "id": "55615697",
+      "username": "AmyPaulin",
+      "name": "Assemblywoman Amy Paulin"
+     },
+     {
+      "id": "148524657",
+      "username": "NYSenatorRivera",
+      "name": "Gustavo Rivera"
+     },
+     {
+      "id": "208147891",
+      "username": "MedSocietyNYS",
+      "name": "Medical Society NY"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102116161366143386",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102116161366143386",
+   "url": "https://x.com/DrAlexUrology/status/2102116161366143386",
+   "conversationId": "2102116161366143386",
+   "text": "If the @ERISAIndCmte want to deliver documents electronically, it must be mandated to receive them electronically. Must publish publicly electronic delivery address for each plan. \n@USDOL @DrOzCMS @DrOzCMS",
+   "lang": "en",
+   "createdAt": "2026-09-21T19:22:02.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 202
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102108834000986200",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1267796347",
+      "username": "ERISAIndCmte",
+      "name": "ERISA Industry Cmte."
+     },
+     {
+      "id": "20179628",
+      "username": "USDOL",
+      "name": "U.S. Department of Labor"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101784845093318682",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101784845093318682",
+   "url": "https://x.com/DrAlexUrology/status/2101784845093318682",
+   "conversationId": "2101779122162942254",
+   "text": "@justindubinmd @MetroPlusHealth Last time they wanted me to try MUSE, after failure of high dose PDE5i + ICI Trimix; MUSE having been off-market for years now!",
+   "lang": "en",
+   "createdAt": "2026-09-20T21:25:31.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 491
+   },
+   "replyTo": {
+    "tweetId": "2101782294268629430",
+    "userId": "720006571",
+    "username": "justindubinmd"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "720006571",
+      "username": "justindubinmd",
+      "name": "Justin Dubin, MD"
+     },
+     {
+      "id": "108716195",
+      "username": "MetroPlusHealth",
+      "name": "MetroPlusHealth"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101779122162942254",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101779122162942254",
+   "url": "https://x.com/DrAlexUrology/status/2101779122162942254",
+   "conversationId": "2101779122162942254",
+   "text": ">15 years of doing penile implants, and apparently @MetroPlusHealth knows something about penile implants that I don't.  \n\n\"Cortisol...can affect how well a penile implant may work.\"  and now a \"necessary\" test to do before they approve a penile implant. Of course, the patient has no history of cortisol-related pathology...some algorithm....\n\nCan someone explain to me - what is the evidence that cortisol levels are \"medically necessary\", and why we don't have them in the @AmerUrological guidelines or on the Board Exam?🤣  Maybe @AHIPCoverage can help with the answer?\n\n@justindubinmd @ABUrology @DrPaulPerito @RepGregMurphy @rachelcohrs @SMSNA_ORG",
+   "lang": "en",
+   "createdAt": "2026-09-20T21:02:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 20,
+    "bookmarks": 2,
+    "views": 17061
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101775906041704449",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSsCDQUXMAEnKCw.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSsCDQUXMAEnKCw.jpg",
+     "width": 1297,
+     "height": 703,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "108716195",
+      "username": "MetroPlusHealth",
+      "name": "MetroPlusHealth"
+     },
+     {
+      "id": "27122310",
+      "username": "AmerUrological",
+      "name": "Amer. Urol. Assn."
+     },
+     {
+      "id": "22797378",
+      "username": "AHIPCoverage",
+      "name": "AHIP"
+     },
+     {
+      "id": "720006571",
+      "username": "justindubinmd",
+      "name": "Justin Dubin, MD"
+     },
+     {
+      "id": "1110060852",
+      "username": "ABUrology",
+      "name": "ABU"
+     },
+     {
+      "id": "460099818",
+      "username": "DrPaulPerito",
+      "name": "Perito Urology"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "2812429608",
+      "username": "rachelcohrs",
+      "name": "Rachel Cohrs Zhang"
+     },
+     {
+      "id": "3970851673",
+      "username": "SMSNA_ORG",
+      "name": "SMSNA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101765913976451419",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101765913976451419",
+   "url": "https://x.com/DrAlexUrology/status/2101765913976451419",
+   "conversationId": "2101765913976451419",
+   "text": "I think eventually, it will come not to transcription but the recording itself as the record of the visit.",
+   "lang": "en",
+   "createdAt": "2026-09-20T20:10:17.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 9,
+    "bookmarks": 2,
+    "views": 4760
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101647358127690089",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101704867043528901",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101704867043528901",
+   "url": "https://x.com/DrAlexUrology/status/2101704867043528901",
+   "conversationId": "2101704867043528901",
+   "text": "Fundamentally, the problem is that most patients have no control of the money they earn used to pay for their health insurance and little appreciation of how much it costs. \n\nRegulation stands in the way of innovation. What I can do in the office is not paid enough to cover my costs but reimbursed at 300% more in a surgical center.",
+   "lang": "en",
+   "createdAt": "2026-09-20T16:07:42.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 924
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101620215159165280",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101653063089926311",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101653063089926311",
+   "url": "https://x.com/DrAlexUrology/status/2101653063089926311",
+   "conversationId": "2101653063089926311",
+   "text": "You can’t make it up. \n\nhttps://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32?mod=djem10point",
+   "lang": "en",
+   "createdAt": "2026-09-20T12:41:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 151
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32?mod=djem10point"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101341853886919138",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101341853886919138",
+   "url": "https://x.com/DrAlexUrology/status/2101341853886919138",
+   "conversationId": "2101110882768245024",
+   "text": "@dtmcdevitt @AAPSonline @DrDiGiorgio @RepGregMurphy @bobjherman @sarahkliff The recourse has been described as “silent quitting” in Atlas Shrugged. It’s happened every day.",
+   "lang": "en",
+   "createdAt": "2026-09-19T16:05:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2101192277141987431",
+    "userId": "43415765",
+    "username": "dtmcdevitt"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "43415765",
+      "username": "dtmcdevitt",
+      "name": "Daniel McDevitt MD FACS FSVS"
+     },
+     {
+      "id": "42769016",
+      "username": "AAPSonline",
+      "name": "Association of American Physicians & Surgeons"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "2527835190",
+      "username": "bobjherman",
+      "name": "Bob Herman"
+     },
+     {
+      "id": "19734832",
+      "username": "sarahkliff",
+      "name": "Sarah Kliff"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101340766295535849",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101340766295535849",
+   "url": "https://x.com/DrAlexUrology/status/2101340766295535849",
+   "conversationId": "2101267932428878045",
+   "text": "@MattZirwas Do you teach residents how to run a financially responsible practice based on the Medicare fee schedule. \n\nIf you can’t teach that, then you have to teach them how to engage in the luxury of working without being paid. That means cosmetic dermatology to subsidize medical Derm",
+   "lang": "en",
+   "createdAt": "2026-09-19T16:00:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 209
+   },
+   "replyTo": {
+    "tweetId": "2101267932428878045",
+    "userId": "2033947948997083136",
+    "username": "MattZirwas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2033947948997083136",
+      "username": "MattZirwas",
+      "name": "Matthew Zirwas, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101110882768245024",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101110882768245024",
+   "url": "https://x.com/DrAlexUrology/status/2101110882768245024",
+   "conversationId": "2101110882768245024",
+   "text": "If anyone can explain the policy logic of inflation minus “X,” for professional fee physician payments under Medicare, I would like to hear that. \n\nMeanwhile UHC Oxford is raising rates in NY by >50% “due to inflation.”\n\n@DrDiGiorgio @RepGregMurphy @bobjherman @sarahkliff @lawsonhmansell @rachelcohrs @ConorSheehey @SecScottBessent  @RogerMarshallMD  @DrOzCMS @mcuban",
+   "lang": "en",
+   "createdAt": "2026-09-19T00:47:25.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 1413
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100943430608142735",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "2527835190",
+      "username": "bobjherman",
+      "name": "Bob Herman"
+     },
+     {
+      "id": "19734832",
+      "username": "sarahkliff",
+      "name": "Sarah Kliff"
+     },
+     {
+      "id": "1092465422736244736",
+      "username": "lawsonhmansell",
+      "name": "Lawson Mansell"
+     },
+     {
+      "id": "2812429608",
+      "username": "rachelcohrs",
+      "name": "Rachel Cohrs Zhang"
+     },
+     {
+      "id": "1048580058548506624",
+      "username": "ConorSheehey",
+      "name": "Conor Sheehey"
+     },
+     {
+      "id": "1889019333960998912",
+      "username": "SecScottBessent",
+      "name": "Treasury Secretary Scott Bessent"
+     },
+     {
+      "id": "1240107944",
+      "username": "RogerMarshallMD",
+      "name": "Dr. Roger Marshall"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101022225172136135",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101022225172136135",
+   "url": "https://x.com/DrAlexUrology/status/2101022225172136135",
+   "conversationId": "2101022225172136135",
+   "text": "It is wonderful to see how much interest there is in this tiny issue in the big scheme of things. \n\nBack in the 90’s the Clinton administration tried to reform the real problem in healthcare, the ERISA law that allows health plans to deny benefits without accountability. ERISA has been called the “wild-west of healthcare.”\n\nYet, Newt Gingrich, as a Speaker, blocked (or didn’t pursue) the much needed reforms. \n\nAnd not a work now. \n\nSilence from the @Paragon_Inst \n\nI wonder why?",
+   "lang": "en",
+   "createdAt": "2026-09-18T18:55:08.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 184
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100986637706498451",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1435252193607749638",
+      "username": "Paragon_Inst",
+      "name": "Paragon Health Institute"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100817696560460208",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100817696560460208",
+   "url": "https://x.com/DrAlexUrology/status/2100817696560460208",
+   "conversationId": "2100817696560460208",
+   "text": "When science is used to support politics, you get neither good science nor good politics. \n\n@DrJBhattacharya @VPrasadMDMPH",
+   "lang": "en",
+   "createdAt": "2026-09-18T05:22:24.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 499
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100593361530790329",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1427361863830949908",
+      "username": "DrJBhattacharya",
+      "name": "Jay Bhattacharya"
+     },
+     {
+      "id": "1194962714",
+      "username": "VPrasadMDMPH",
+      "name": "Vinay Prasad MD MPH"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100797346976043343",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100797346976043343",
+   "url": "https://x.com/DrAlexUrology/status/2100797346976043343",
+   "conversationId": "2100747749486625069",
+   "text": "@AnilMakam That should be a weekend long CME conference.",
+   "lang": "en",
+   "createdAt": "2026-09-18T04:01:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 146
+   },
+   "replyTo": {
+    "tweetId": "2100747749486625069",
+    "userId": "1658929580",
+    "username": "AnilMakam"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1658929580",
+      "username": "AnilMakam",
+      "name": "Anil Makam"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100794593264476189",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100794593264476189",
+   "url": "https://x.com/DrAlexUrology/status/2100794593264476189",
+   "conversationId": "2100794593264476189",
+   "text": "Huge problem. \n\nThey ran out @VPrasadMDMPH out of Washington for raising the issue.",
+   "lang": "en",
+   "createdAt": "2026-09-18T03:50:36.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 143
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100596930837369110",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1194962714",
+      "username": "VPrasadMDMPH",
+      "name": "Vinay Prasad MD MPH"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100793851585638841",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100793851585638841",
+   "url": "https://x.com/DrAlexUrology/status/2100793851585638841",
+   "conversationId": "2100793851585638841",
+   "text": "There are some men that seek penile reduction. A real problem for some men and their partners.",
+   "lang": "en",
+   "createdAt": "2026-09-18T03:47:39.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 226
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100649947062468981",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100782928334631082",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100782928334631082",
+   "url": "https://x.com/DrAlexUrology/status/2100782928334631082",
+   "conversationId": "2100782928334631082",
+   "text": "This opens up many opportunities for genetic engineering :).",
+   "lang": "en",
+   "createdAt": "2026-09-18T03:04:15.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 183
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100621305594675535",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100405466111054153",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100405466111054153",
+   "url": "https://x.com/DrAlexUrology/status/2100405466111054153",
+   "conversationId": "2099948521747079432",
+   "text": "@CanesDavid @bot google has offered this functionality for about 5 years (conversational ai). \n\nWait til your agents meet the auto shop agents! Insurances are blocking agent calls as I understand it.",
+   "lang": "en",
+   "createdAt": "2026-09-17T02:04:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 25
+   },
+   "replyTo": {
+    "tweetId": "2100387209798967302",
+    "userId": "860624965",
+    "username": "CanesDavid"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "860624965",
+      "username": "CanesDavid",
+      "name": "𝙳𝚊𝚟𝚒𝚍 𝙲𝚊𝚗𝚎𝚜"
+     },
+     {
+      "id": "2085838061347217408",
+      "username": "bot",
+      "name": "Grok Bot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100242327407034409",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2100242327407034409",
+   "url": "https://x.com/DrAlexUrology/status/2100242327407034409",
+   "conversationId": "2100219370429378736",
+   "text": "@txsportsdoc @DRsLoungePod @TomOliverson @DrDiGiorgio You get rid of prior authorization and denials simply move to post-service denials. \n\nYou can’t solve one problem in isolation of the other.",
+   "lang": "en",
+   "createdAt": "2026-09-16T15:16:06.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 51
+   },
+   "replyTo": {
+    "tweetId": "2100219370429378736",
+    "userId": "91464818",
+    "username": "txsportsdoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "1957956452447879168",
+      "username": "DRsLoungePod",
+      "name": "The Doctor’s Lounge Podcast"
+     },
+     {
+      "id": "3060663253",
+      "username": "TomOliverson",
+      "name": "Tom Oliverson, M.D."
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099705965092159750",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099705965092159750",
+   "url": "https://x.com/DrAlexUrology/status/2099705965092159750",
+   "conversationId": "2099705965092159750",
+   "text": "If this was an attempt to report without bias, objectively, on an issue that creates a great headache for physicians + patients, this could have been a Pulitzer worthy article. \n\nInstead, the article is nothing but a political hit piece before elections. \n\nIt fails to consider the reality, the physician/practice perspective. Have you considered the alternative? No OB-GYN when you need one?  Very common in many rural counties. \n\nHow do you think medical practices can provide care to the low income patients if they don’t get paid?\n\nEmployees have to be paid.  \nRent has to be paid. \nTaxes have to be paid. \nMalpractice has to be paid. \nSupplies have to be paid for. \n\nDo you have a proposal, a solution?\n\nPhysicians cannot deduct non-collectible debt on tax returns. \nThe government doesn’t pay physicians to take care of the uninsured, and neither does the NYT. \n\nThe article is a mindless political hit on a physician who have given so much to his patients.",
+   "lang": "en",
+   "createdAt": "2026-09-15T03:44:47.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 7,
+    "quotes": 1,
+    "likes": 25,
+    "bookmarks": 2,
+    "views": 3584
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099573771954716932",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099700557908734121",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2099700557908734121",
+   "url": "https://x.com/DrAlexUrology/status/2099700557908734121",
+   "conversationId": "2099609296375799957",
+   "text": "Brian - how do reconcile the fact that hospitals have to subsidize physician practices on average $350k per provider per year while they are “in-network.”  \n\nIs the “in-network” rate really a “free-market” competitive rate?  \n\nWhy are 80% of physicians employed if “in-network” rates reflect the market rates?\n\nLast week a health plan claimed that their median “contracted” in-network rate for 99204 is $20 \n\nI’d rather buy the Brooklyn Bridge.",
+   "lang": "en",
+   "createdAt": "2026-09-15T03:23:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 134
+   },
+   "replyTo": {
+    "tweetId": "2099609296375799957",
+    "userId": "3913039095",
+    "username": "brian_blase"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098247239172804792",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2098247239172804792",
+   "url": "https://x.com/DrAlexUrology/status/2098247239172804792",
+   "conversationId": "2098247239172804792",
+   "text": "Here is the problem:\n\nCystoscopy in the office becomes non-viable as the Medicare fee has been cut despite inflation, increased regulatory requirements, increased labor costs.  The same is true for many other procedures. \n\nThat’s why private practice is becoming non-existent. \n\nSite neutral care is important but the fee cannot be the existing Medicare fee, often below the cost of providing care.",
+   "lang": "en",
+   "createdAt": "2026-09-11T03:08:20.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 25,
+    "bookmarks": 2,
+    "views": 7307
+   },
+   "replyTo": null,
+   "quotedTweetId": "2098222766080041408",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097871162915131666",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097871162915131666",
+   "url": "https://x.com/DrAlexUrology/status/2097871162915131666",
+   "conversationId": "2097871162915131666",
+   "text": "If you divide by the number of protons that were involved in that MRI generation, the price per proton is very manageable.",
+   "lang": "en",
+   "createdAt": "2026-09-10T02:13:56.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 254
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097795281727414780",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097553407275929670",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097553407275929670",
+   "url": "https://x.com/DrAlexUrology/status/2097553407275929670",
+   "conversationId": "2097553407275929670",
+   "text": "I remember non-randomized studies. \n\nSo many rabbit holes and wrong answers!",
+   "lang": "en",
+   "createdAt": "2026-09-09T05:11:17.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 724
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097320300111356007",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097486650066522216",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097486650066522216",
+   "url": "https://x.com/DrAlexUrology/status/2097486650066522216",
+   "conversationId": "2097365688851595743",
+   "text": "@WillyRontgen @drjohnm @Lpa_Doc @CMichaelGibson @djc795 @drjasonfung @FCademartiri Only God could create perfectly spherical geometry.",
+   "lang": "en",
+   "createdAt": "2026-09-09T00:46:01.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 807
+   },
+   "replyTo": {
+    "tweetId": "2097365688851595743",
+    "userId": "1475084708983803905",
+    "username": "WillyRontgen"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1475084708983803905",
+      "username": "WillyRontgen",
+      "name": "Wil"
+     },
+     {
+      "id": "139173680",
+      "username": "drjohnm",
+      "name": "John Mandrola, MD"
+     },
+     {
+      "id": "790971021830467584",
+      "username": "Lpa_Doc",
+      "name": "Sam Tsimikas, MD"
+     },
+     {
+      "id": "879161563",
+      "username": "CMichaelGibson",
+      "name": "C. Michael Gibson MD"
+     },
+     {
+      "id": "921534081418002432",
+      "username": "djc795",
+      "name": "David J. Cohen, MD, MSc"
+     },
+     {
+      "id": "1343394810",
+      "username": "drjasonfung",
+      "name": "Dr. Jason Fung"
+     },
+     {
+      "id": "1285581030674636805",
+      "username": "FCademartiri",
+      "name": "Dr. Filippo Cademartiri"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097468600504479954",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097468600504479954",
+   "url": "https://x.com/DrAlexUrology/status/2097468600504479954",
+   "conversationId": "2097468600504479954",
+   "text": "It is time to hold health plans accountable. \n\nFirst, they refuse in-network contracts or offer contracts that are impossible to make work.  Doctors are forced into hospital employment subsidized by facility fees. \n\nTurns out that insurance companies make more money by underpaying doctors than doctors get paid. Then they bill employee plans for NSA. Then they get a cut of the NSA payment. \n\nThen they refuse to pay but take the money from self funded plans as “arbitrage”.  \n\nEach dollar in costs is stripped by insurance companies during the payment process so that at most 15 cents is actually paid out.",
+   "lang": "en",
+   "createdAt": "2026-09-08T23:34:18.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 18,
+    "bookmarks": 2,
+    "views": 1707
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097323788811538862",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097463681470624203",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2097463681470624203",
+   "url": "https://x.com/DrAlexUrology/status/2097463681470624203",
+   "conversationId": "2097458072889540925",
+   "text": "@DrDiGiorgio Every 30 min scrub tech shift changes are a best trauma informed practice",
+   "lang": "en",
+   "createdAt": "2026-09-08T23:14:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 3017
+   },
+   "replyTo": {
+    "tweetId": "2097458072889540925",
+    "userId": "1101092814",
+    "username": "DrDiGiorgio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

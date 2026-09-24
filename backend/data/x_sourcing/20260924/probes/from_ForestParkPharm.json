@@ -1,0 +1,1738 @@
+{
+ "key": "from_ForestParkPharm",
+ "query": "from:ForestParkPharm lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102895793506320556",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102895793506320556",
+   "url": "https://x.com/ForestParkPharm/status/2102895793506320556",
+   "conversationId": "2102895793506320556",
+   "text": "More than twenty states have now sued the same nine companies over insulin prices. Florida filed this week. Texas, California, Utah, Minnesota, Michigan, Iowa, Missouri, Oregon, Delaware, Indiana, Massachusetts, Kansas, Arkansas, Mississippi, Kentucky, Illinois and Arizona got there first.\n\nRed states, blue states, and every single complaint describes the same scheme with the same defendants.\n\nThe defendants are always three manufacturers who make over 90% of the world's insulin, three PBMs who process roughly 80% of American prescriptions, and the rebate aggregators that sit between them. Florida named those too. Zinc, Ascent and Emisar, the offshore entities the rebate money gets routed through.\n\nThe mechanism, per Florida's complaint: manufacturers inflate the published list price, pay a cut back to the PBM, and get rewarded with preferred formulary placement. Both sides make more money every time the sticker price goes up. A Lilly executive testified that on a $280 vial of Humalog, roughly $210 goes back to the PBMs. That's 75% of the price of insulin functioning as a payment for permission to be covered.\n\nInsulin costs around two dollars to manufacture.\n\nIf you want to know how locked in this is, look at what happened when somebody tried to break it. Novo Nordisk cut the list price of its insulin Levemir by 65%. Coverage for the drug collapsed from about 90% down to 35%. The PBMs dropped it because a cheaper drug pays them less. Novo discontinued it entirely.\n\nTheir CEO told a Senate committee in September 2024 that this is exactly why he won't cut list prices on his other drugs. His position was that a high list price is more likely to get patients access, because the middlemen only cover what pays them well. He also testified that 74 cents of every dollar the company brings in goes back to PBMs and insurers.\n\nSanders showed up to that hearing with written commitments from all three major PBMs promising they wouldn't drop coverage if Novo lowered prices. The CEO still wouldn't do it. He'd already learned what happens.\n\nAnd the people who get charged against the inflated number are the ones with the least protection. Uninsured patients. People sitting in a deductible. Anyone on percentage coinsurance. The fake price was built to fund the rebate, and the patients with the worst coverage are the ones who pay it.\n\nWe don't take rebates. Nobody pays us for placement, and there's no list price to inflate because there's no middleman here to inflate it for. You pay what the drug costs plus a flat fee.\n\nhttp://forestparkpharmacy.com, check the price checker, transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:00:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 18,
+    "quotes": 2,
+    "likes": 51,
+    "bookmarks": 2,
+    "views": 893
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102765849765355520",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102765849765355520/vid/avc1/1080x1920/5kAhB25DgzSSXqcs.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102765849765355520/img/YavYD466re-aqgT4.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 149
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102578642694058057",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102578642694058057",
+   "url": "https://x.com/ForestParkPharm/status/2102578642694058057",
+   "conversationId": "2102578642694058057",
+   "text": "Your insurance company can count the machinery it uses to deny your care as money spent on your care.\n\nHere's the rule that's supposed to prevent that. Under the ACA, insurers have to spend 80 to 85 cents of every premium dollar on actual medical care. It's called the medical loss ratio. They keep the rest for overhead and profit.\n\nMedicare Advantage plans reported a medical loss ratio of almost 90% for 2023. Then the Insurance Watchdog Coalition went into those same plans' CMS filings and pulled out only the real medical and prescription claims. 82.5%. Below the legal minimum, and about $36 billion less than what got reported.\n\nSo what filled the gap? Per the report, the rules let plans count things that aren't medical care as if they were. Parts of prior authorization systems get classified as \"quality improvement.\" Gym memberships count. Cash cards for everyday expenses count.\n\nThe apparatus that makes your doctor stop, fill out forms, and wait for permission to treat you gets filed in the same column as your treatment.\n\nAnd that 82.5% still leaves something out. It doesn't break out what insurers pay the doctors, pharmacies and PBMs they own. UnitedHealth employs or is affiliated with around 90,000 physicians. CVS owns Aetna, Caremark, and its own clinics.\n\nWe don't have a medical loss ratio, because we don't have premiums. You pay for the medication plus a flat fee. There's nothing to reclassify.\nhttp://forestparkpharmacy.com, check the price checker, transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-23T01:59:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 21,
+    "quotes": 2,
+    "likes": 65,
+    "bookmarks": 10,
+    "views": 1006
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102577467328516096",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102577467328516096/vid/avc1/1080x1920/ZQfJtPr1kTbbzqaG.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102577467328516096/img/dzYr1CwXvlmxFuf-.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 101
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101861818993967197",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101861818993967197",
+   "url": "https://x.com/ForestParkPharm/status/2101861818993967197",
+   "conversationId": "2101861818993967197",
+   "text": "A hospital wanted $18,000 to remove a polyp. The same procedure in a doctor's office runs about $3,000.\n\nHer own professional society, ACOG, says it can be done right in an office with local numbing. So she found an OB who agreed to do it that way. Took the two-week course of hormones to prep for it.\n\nDay before the procedure, his office calls. He can't do it in the office anymore. Has to be at a freestanding surgery center owned by the same health system, because that system bought his practice in 2025. She walks in the next morning to surgical techs and OR nurses moving around a room she didn't need. Bill came to about $6,000.\n\nWant to know what the procedure actually involved? She turned down the sedation entirely. Doctor numbed her cervix, removed the polyp in a few minutes. She called it a few seconds of cramping. She spent it watching the images and talking to the OR crew about snorkeling.\n\nA few minutes of work, and three different prices depending on which room they put her in.\n\n82% of physicians in this country now work for a hospital, an insurer, another corporate entity, or private equity. UnitedHealth alone employs around 10,000 primary care doctors and has another 80,000 affiliated. When somebody owns your doctor, they also own the decision about where your procedure happens.\n\nAlmost none of it gets reviewed. Mergers only trigger antitrust reporting above a dollar threshold, currently around $134 million. Yale researchers looked at more than 275 hospital acquisitions of physician practices and found over 99% fell below that line. It happens one small practice at a time until there's no independent left in your county.\n\nAnd the results are measured. When Harvard researchers studied hospitals buying gastroenterology groups, prices went up, quality went down, complication rates rose. The one thing that got better was throughput. That's a financial number, not a medical one.\n\nSame machine runs at the pharmacy counter. Your insurer owns the PBM, the PBM owns the specialty pharmacy, and you get routed to whichever one pays them most, whether or not it's cheapest or even has your drug in stock.\n\nWe're not attached to any of it. No insurer, no PBM, no parent company deciding where you're allowed to go. Cost plus a flat fee, posted before you pay.\n\nhttp://forestparkpharmacy.com, check the price checker, transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-21T02:31:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 33,
+    "quotes": 2,
+    "likes": 100,
+    "bookmarks": 7,
+    "views": 1862
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101861813390286848",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HStQLuIWIAAxd-w.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HStQLuIWIAAxd-w.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101405315946488047",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101405315946488047",
+   "url": "https://x.com/ForestParkPharm/status/2101405315946488047",
+   "conversationId": "2101405315946488047",
+   "text": "A tweet went around this week saying it's hard to research healthcare without concluding that insurance companies are heroes. 2.5 million views. His argument was that somebody has to tell doctors no, and the insurance company is the one brave enough to do it.\n\nThe problem with that argument is that the insurance company is the doctor now.\n\nUnitedHealth's Optum arm employs or is affiliated with more than 90,000 physicians. That's roughly one in ten doctors in this country working for a company that also owns an insurer and a PBM. CVS owns Aetna and Oak Street Health. Cigna, Humana, Elevance all have provider arms. The referee bought the team.\n\nSo who exactly is telling whom no?\n\nA Health Affairs study published last November found UnitedHealthcare pays its own Optum-affiliated doctors about 17 percent more than it pays outside doctors for the same work. Not less. More. They're not holding the line on costs, they're routing money from one pocket to another and calling the higher number a negotiated rate.\n\nUnder the ACA, insurers have to spend 80 to 85 cents of every premium dollar on actual care. Their margin is capped as a percentage. Think about what that does to the incentive. If you can only keep 15 percent, the only way to make more money next year is for the whole pie to get bigger. Higher prices. More utilization. Bigger premiums.\n\nThey don't profit by saying no. They profit when the total goes up.\n\nThat's why costs never come down no matter how many \"cost containment\" programs get announced. A company whose profit is a fixed slice of total spending has no reason to shrink total spending. Shrinking it is the one thing that actually hurts them.\n\nThe guy who wrote that thread was looking at prior authorizations and denials and seeing discipline. What's actually happening is a company denying your claim on Monday and paying its own clinic a premium rate on Tuesday, with your premium funding both.\n\nThere's a version of this with nobody in the middle. We don't bill insurance. There's no PBM setting our price, no parent company we route money to, no incentive for our number to go up. We buy the drug, add a flat fee, and post it.\n\nhttp://forestparkpharmacy.com, check the price checker, transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-19T20:17:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 35,
+    "quotes": 1,
+    "likes": 80,
+    "bookmarks": 12,
+    "views": 1376
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101404462464327680",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2101404462464327680/vid/avc1/1080x1920/6ZCwI_K2TnHaogo-.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101404462464327680/img/3GDdfFRhxKaOktm4.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 117
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101132733699211743",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101132733699211743",
+   "url": "https://x.com/ForestParkPharm/status/2101132733699211743",
+   "conversationId": "2101132733699211743",
+   "text": "A guy looked at his urgent care bill and caught them.\n\nClinic said the visit was $1,200. Insurance took credit for negotiating it down. He checked his benefits. Insurance paid nothing. Zero. He paid $620 out of his own pocket.\n\nSo the $1,200 was made up. The savings were made up. The only real number in that whole transaction was $620, and it came out of his wallet after he'd already been paying premiums all year.\n\nNobody pays $1,200 for urgent care. A simple visit, a cough, a UTI, a refill, posts at $100 to $250 cash at most clinics. The $1,200 exists so the discount has something to point at. That's the only reason that number is on the page.\n\nHe could have walked into that same clinic, said nothing about insurance, and asked for the self-pay price. Most urgent cares will knock another 15 to 40 percent off for paying that day. He'd have been out maybe $150.\n\nInstead he paid $620 for the privilege of watching a fake discount get applied to a fake price.\n\nCall around before you go. Two or three places, ask what the visit costs cash, ten minutes on the phone. You'll know more about the price than anyone standing at that front desk will tell you.\n\nBetter option, look at direct primary care. Flat monthly fee, no insurance in the middle, a doctor who knows you and picks up the phone. That's what we do for our family.\n\nThe same trick runs at the pharmacy counter. Inflated price, invented discount, a copay with no relationship to what the drug actually costs.\n\nWe fired the people who inflate the number. Cost plus a flat fee, posted before you pay.\n\nhttp://forestparkpharmacy.com, look at the price checker, transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-19T02:14:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 48,
+    "quotes": 2,
+    "likes": 109,
+    "bookmarks": 17,
+    "views": 2767
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101132332883410944",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2101132332883410944/vid/avc1/1080x1920/vyip_NO3MfstH5Zx.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101132332883410944/img/eY55JoWttWRVvFbe.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 80
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100724803611013407",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100724803611013407",
+   "url": "https://x.com/ForestParkPharm/status/2100724803611013407",
+   "conversationId": "2100724803611013407",
+   "text": "A guy went viral this week telling people to use GoodRx to escape their insurance pricing. He is right that your insurance price is probably too high. He is wrong about what GoodRx is.\n\nGoodRx does not negotiate anything. It surfaces prices that pharmacy benefit managers already set. The same PBMs that built the price you are trying to escape. Express Scripts, OptumRx, CVS Caremark, MedImpact, Navitus. GoodRx has contracts with all of them.\n\nFollow the money on a GoodRx fill. You hand over the coupon. The pharmacy processes that claim through a specific PBM. The pharmacy then pays a per-prescription fee to that PBM. The PBM shares a slice of that fee back to GoodRx for sending you there. GoodRx has reported earning roughly 15% of your total prescription cost.\n\nSo the PBM gets paid when you use your insurance, and the PBM gets paid when you use GoodRx to get around your insurance. Both roads lead to the same building.\n\nThe scale of this is not small. In 2020 alone GoodRx accounted for about $3.4 billion in prescription revenue and collected nearly $500 million in fees from PBMs. Three out of four people using GoodRx already had insurance. They were paying premiums every month and still needed a coupon to afford their own medication.\n\nSit with the shape of that. You pay a PBM premiums all year. That PBM sets a price so high you cannot use it. Then a company funded by that same PBM shows you a different price the PBM also set, and the PBM collects a fee on that transaction too.\n\nExpress Scripts made GoodRx its exclusive discount card provider for commercial members. CVS Caremark runs its own version. These are not competitors sneaking around the PBMs. These are the PBMs opening a second register.\n\nIndustry analysts have been blunt about why the two prices exist at all. Different PBMs have different contracted rates, legacy contracts do not reflect current market pricing, and the same PBM offers different rates to different clients. If the cash rate were easy to see, employers would demand it. The confusion is the product.\n\nGoodRx is better than overpaying, and if it is what you have, use it. I would rather someone save $40 than not. But understand you are not escaping the system. You are using the system's back door and paying a toll to the same people who locked the front one.\n\nThere is a version of this where none of it applies. No PBM, no coupon, no fee routed to anyone. We buy the drug and sell it to you at our cost plus a flat fee. The price is the price, and nobody in the middle gets a cut.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and see what your medication actually costs.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-17T23:13:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 111,
+    "quotes": 4,
+    "likes": 286,
+    "bookmarks": 179,
+    "views": 13955
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100724265016287232",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2100724265016287232/vid/avc1/1080x1920/E9jLwu3n9FaTvQeZ.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100724265016287232/img/f483er_brBZDZ8Me.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 101
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100419888837972057",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100419888837972057",
+   "url": "https://x.com/ForestParkPharm/status/2100419888837972057",
+   "conversationId": "2100419888837972057",
+   "text": "A woman posted a bill for $34,000 for an MRI. Thirty-two thousand of that was hospital facility fees. She was not in a hospital.\n\nShe was at a place with a sign out front that says Imaging Center. She read the sign on camera. No hospital anywhere on it. But because that building is classified as a hospital outpatient department, the bill comes with hospital pricing attached. After insurance she still owes $1,336. She had an MRI in an actual ER a month earlier and paid a few hundred dollars.\n\nThen comes the best part. She asked for a copy of her images on a CD. They told her they do not do that there, only hospitals do CDs. So the building is a hospital when it is time to bill her and not a hospital when she needs something from it.\n\nHere is the mechanism nobody explains to patients. A hospital buys an imaging center or a physician practice, changes the billing designation to \"hospital outpatient department,\" and the exact same scan on the exact same machine read by the exact same radiologist starts generating a facility fee that did not exist the week before. Nothing clinical changed. The paperwork changed.\n\nThe numbers on this are not subtle. Medicare pays roughly $475 for an MRI at an independent imaging center and roughly $720 for the identical scan at a hospital outpatient department. On the commercial side the gap is worse, independent centers commonly run $400 to $1,200 cash while hospital outpatient departments run $1,500 to $3,500 for the same images. Freestanding centers do not add a facility fee. Hospital outpatient departments do, on top of everything else, and the radiologist often bills separately too.\n\nSame equipment. Same pictures. Same person reading them. Two to five times the price depending entirely on who owns the building.\n\nThis is also why independent doctors keep disappearing. If a hospital gets paid more than an independent practice for identical work, the independent practice cannot compete on those terms. It is not a fair fight, and it was never designed to be one. Competition is what drives quality up and prices down, and this arrangement removes the competition and calls it consolidation.\n\nThe deeper problem is what actually makes a healthcare business successful in this country. It is not being good at medicine. It is being good at billing insurance. That is where the money is. So when you see a wildly profitable healthcare organization, that is not evidence they deliver excellent care. It is evidence they are excellent at extracting money from claims.\n\nThat is why we fired the insurance companies. There is no facility fee here, no reclassification games, no version of our price that depends on who owns the building. You see the number before you pay it.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-17T03:01:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 66,
+    "quotes": 3,
+    "likes": 162,
+    "bookmarks": 34,
+    "views": 8073
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100417750028222464",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2100417750028222464/vid/avc1/1080x1920/Fh7ZcdKuxjFZNaGu.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100417750028222464/img/MJgHcHbV2u-cy8Lo.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 177
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100069955043836351",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100069955043836351",
+   "url": "https://x.com/ForestParkPharm/status/2100069955043836351",
+   "conversationId": "2100069955043836351",
+   "text": "The FDA spent yesterday in a hearing about whether to approve psychedelics as prescription medication, and it is much closer than most people realize.\n\nCompass Pathways has a synthetic treatment for depression. Definium has a formula for anxiety that just went three for three on phase 3 trials in twelve weeks. Compass is already submitting its application. The first FDA-approved psychedelic in American history is probably months away.\n\nMost of the hearing was about who is supposed to be in the room with you while you are on it.\n\nThe current plan uses something called a dosing session monitor. That is a person whose job is to sit there and make sure you are okay. Not a therapist. Psychologists testified that the therapy is what makes these treatments work and stripping it out to cut costs is a mistake. Psychiatrists said patients need a full psychiatric workup first, partly because some conditions make a dose like this genuinely dangerous. Nurses said they are already licensed and could start Monday. And a clinic in rural Nevada pointed out that the FDA wants a physician reachable within fifteen minutes, which in rural Nevada is less of a regulation and more of a wish.\n\nThen there is how this got moving in the first place. Joe Rogan stood behind Trump in the Oval Office for an executive order on medical psychedelics in April. Shortly after, three psychedelic companies received Commissioner's National Priority Review vouchers. A former White House drug policy advisor testified that drugs should get approved \"through science and trials, not politics or podcasters,\" and argued the existing trials are small relative to the populations being targeted.\n\nHe is not the only one urging caution. A mother named Susan Sagy testified that her 21-year-old daughter Shira died following psychedelic use. She was not there to block approval. Her argument was that FDA approval carries enormous cultural weight, and the country should be ready for what happens after the label changes.\n\nThese are not complicated molecules. They are cheap to make. The day the FDA approves one, it stops being cheap. It becomes a branded product with a patent, a PBM contract, a formulary tier, and a prior authorization form. It will carry a price nobody could justify and a copay nobody can predict, and everyone will pay for it through their premiums whether they ever touch it or not.\n\nThat is the pattern with every drug that goes from obscure to approved. The chemistry does not change. The billing does.\n\nIn the meantime, for the generics that are already cheap, head to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-16T03:51:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 10,
+    "quotes": 0,
+    "likes": 35,
+    "bookmarks": 2,
+    "views": 1086
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100067095879028736",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2100067095879028736/vid/avc1/1080x1920/HkX7paFBnvUY6wgm.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100067095879028736/img/NkS0XpsRDJGXEVUZ.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 140
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099702551226798444",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099702551226798444",
+   "url": "https://x.com/ForestParkPharm/status/2099702551226798444",
+   "conversationId": "2099702551226798444",
+   "text": "A woman posted about a trip to Walgreens that is a perfect case study in how this whole system works.\n\nShe goes to buy blood glucose test strips. Walgreens brand, 100 count, sitting right on the shelf for $29 and change. She grabs it, brings it to the register, and it rings up at $75. She tells the cashier there must be a mistake. The cashier scans it again. Still $75. She holds up the box she pulled from the shelf, the one clearly marked $29. The cashier is just as confused as she is, takes the box, disappears for six minutes, and comes back with the answer: that exact box was supposed to be stocked behind the pharmacy counter, not on the open shelf. Same box, same product, same barcode. Behind the counter, $75. On the shelf where a customer can just grab it, $29.\n\nWatch what that means. Nothing about the test strips changed. The only variable was which side of the counter the box was sitting on, because one side runs through insurance billing and the other does not.\n\nI have seen this from the other side, because I own a pharmacy. Insurance contracts require us to set a higher list price specifically so the insurance company can apply a \"discount\" on top of it and claim they saved you money. The drug never cost that much. The insurance did not lower anything. It inflated the price first so the discount would have something to point at.\n\nThis is not a one-store glitch. Researchers looked at omeprazole, the generic heartburn medication you can buy over the counter for about 80 cents a pill. Medicare Part D paid $27.85 for that same pill. Across 19 common over-the-counter drugs in that study, Medicare paid more than the cash price on 16 of them, and researchers estimated the program could have saved $406 million by just paying the cash price instead. A separate federal audit released last month found Medicare Part D made $587.7 million in improper payments on drugs that had already switched to over-the-counter status and should never have been billed to insurance in the first place.\n\nNone of that is a rare mistake. It is what happens by default when the price gets set for the insurance claim instead of for the medicine.\n\nWe fired that model. Every price you see from us is the real one, insured or not, shelf or counter. Cost plus a flat fee, out in the open.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-15T03:31:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 41,
+    "retweets": 367,
+    "quotes": 18,
+    "likes": 1463,
+    "bookmarks": 515,
+    "views": 57198
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2099700769306144768",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2099700769306144768/vid/avc1/1080x1920/3ToK7hs7d5SgN4_2.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099700769306144768/img/MySk0c6KqOu0BKPK.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 170
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099271449131520264",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099271449131520264",
+   "url": "https://x.com/ForestParkPharm/status/2099271449131520264",
+   "conversationId": "2099271449131520264",
+   "text": "While Walgreens was closing 1,200 stores and CVS was quietly inheriting the customers, something else was happening at the same time that most people missed.\n\nIn July 2026, the FTC reached a settlement with CVS Caremark itself, over formulary design, rebating, and vertical integration the agency said artificially inflated the cost of insulin and other medications.  The FTC called it anticompetitive. The financial press called it smart strategy. Same facts, opposite verdicts, depending on which desk is writing about it.\n\nIt gets worse. Back in January, the House Judiciary Committee released its own investigation and found that CVS Caremark may have broken federal antitrust law by blocking independent pharmacies from using third-party \"hub\" services, tools that help smaller pharmacies cut costs and compete. According to the committee, CVS studied how those services worked, then rewrote its own network rules specifically to lock independents out of them. This was not aimed at Walgreens. It was aimed at pharmacies like mine.\n\nSo the pattern is not limited to one dying competitor. Caremark, Optum Rx, and Express Scripts together process about 80% of every prescription claim filed in this country. Three companies decide what nearly every pharmacy in America gets paid, and two of the three own massive retail and provider networks that answer to nobody but their own parent. Walgreens getting squeezed into 1,200 closures is not a one-off story about one struggling chain. It is what happens to anyone standing on the wrong side of that arrangement, whether it is a national chain or a single independent pharmacy trying to serve its own town.\n\nRegulators on both sides of the aisle have now looked at this same company and reached the same conclusion twice in one year. The FTC calls it anticompetitive. Congress calls it a possible antitrust violation. Meanwhile, the arrangement that lets a company own the pharmacy and the entity that pays the pharmacy keeps running exactly as it did before either finding was published.\n\nThat is the part worth remembering next time someone describes vertical integration as a competitive advantage instead of what regulators on both sides just called it.\n\nWe are not on either side of that setup. No PBM, no rebate scheme, no rule written to lock anyone out. Just the real cost of your medication, plus a flat fee.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-13T22:58:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 49,
+    "quotes": 4,
+    "likes": 141,
+    "bookmarks": 25,
+    "views": 3935
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2099270880727871488",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2099270880727871488/vid/avc1/1080x1920/U6Y-19kUjmYHuw6Z.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099270880727871488/img/Id-nESd9AxjjTsPF.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 117
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098957140241129871",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098957140241129871",
+   "url": "https://x.com/ForestParkPharm/status/2098957140241129871",
+   "conversationId": "2098957140241129871",
+   "text": "CVS Health is now facing at least five lawsuits from major hospital systems, all alleging the same thing: CVS quietly kept money that was supposed to go to hospitals treating low-income patients.\n\nThe program is 340B. It requires drug makers to sell certain medications at a discount to hospitals that serve a lot of low-income and uninsured patients. Mount Sinai, Michigan Medicine, the University of Kansas Health System, Henry Ford Health, and now Froedtert have all sued CVS Health, alleging the company's pharmacy benefit manager and pharmacy subsidiaries pocketed a share of those discounts instead of passing them through\n\nHere is how the hospitals say it worked. A specialty drug claim gets processed at the standard rate first, because eligibility for the 340B discount often is not known yet. Weeks later, once the claim is flagged as 340B-eligible, CVS Caremark quietly reprices it lower and pays that reduced amount to the hospital, presenting it as the full reimbursement. The hospital never sees what the claim was actually paid at the higher rate. CVS keeps the difference. Froedtert's lawsuit puts a number on it: they say CVS kept about 62% of the savings that should have reached the hospital.\n\nAcross the five lawsuits, the hospitals say this cost them roughly a quarter of a billion dollars over five years. And Froedtert adds another detail: when the hospital asked to audit the payments, CVS refused, then terminated the pharmacy services agreement.\n\nThink about who this program was built for. 340B exists so safety-net hospitals can stretch limited dollars further while caring for people who often cannot pay. The lawsuits allege that money got quietly rerouted into a PBM's profit margin instead. CVS owns the insurer, the PBM, and the pharmacy filling the prescription, so it is grading its own homework at every step of that transaction, and the hospitals say it graded in its own favor\n\nNone of this has gone to trial, and CVS has not admitted to any of it. But five separate health systems are now making the same allegation with the same mechanism, and that pattern is hard to write off as a coincidence.\n\nThis is what happens when one company sits on every side of the transaction. Nobody outside the building is watching, so the money finds its way to whoever built the system.\n\nWe do not have that problem, because we are not on every side of anything. No PBM, no insurer, no hidden repricing weeks after the fact. You see the actual cost of your medication before you pay it.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya",
+   "lang": "en",
+   "createdAt": "2026-09-13T02:09:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 18,
+    "quotes": 3,
+    "likes": 61,
+    "bookmarks": 2,
+    "views": 1234
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2098957134402899968",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSD-ZJrbUAADcrs.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSD-ZJrbUAADcrs.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098588036040982609",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098588036040982609",
+   "url": "https://x.com/ForestParkPharm/status/2098588036040982609",
+   "conversationId": "2098588036040982609",
+   "text": "An investigation from City Journal this week looked at a California home health company whose Medicaid billing went from about $90,000 in 2018 to more than $17 million in 2023.\n\nThe company is California Home Health Agency, run by a man named Nathan Ogbatue. Over three years, reporters say it pulled in $34 to $36 million from Medicaid. In the same window, Ogbatue and his wife reportedly bought more than $7 million in California real estate, a $2.7 million Riverside mansion with a putting green and an archery range, a beach house, and other properties. Back in Nigeria, where he holds a traditional chief title, he built a palace, complete with golden statues of himself and his wife.\n\nThe reporters tried to confirm any of the business was real. The office is a Riverside strip mall unit with the blinds shut. The company has not filed a mandatory state utilization report since 2019, the kind of report that would verify the services it billed for. Fraud experts who reviewed the billing data said the volume of services billed is wildly outside the norm and carries, in their words, every red flag of a shell operation.\n\nWhat gets me is the same thing every one of these stories has in common. A company can bill a government program tens of millions of dollars, skip a required report for six straight years, operate out of an office nobody seems to work in, and the money keeps arriving anyway. Whether or not this particular case ends in charges, the pattern only exists because the door is unguarded.\n\nThe reason is simple. Nobody spending that money is spending their own. When a real person pays a real bill with their own money, they check it. When the payer is a giant program with no one actually watching the account, the checks never happen, and the money flows to whoever games it best. City Journal has reported that experts estimate up to 40% of spending in California's largest home health program may be lost to fraud.\n\nWe built our pharmacy to be the opposite of an open vault. You see the real price of a medication, out in the open, and you pay it. No mystery billing, no shell in the middle, no bottomless account.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-12T01:42:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 13,
+    "quotes": 0,
+    "likes": 44,
+    "bookmarks": 0,
+    "views": 1025
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2098587285197582336",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2098587285197582336/vid/avc1/1080x1920/sGrC5tjQPCPOH7u0.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098587285197582336/img/I_Owm0WN2v4Xr-EI.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 206
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2098251440833859708",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2098251440833859708",
+   "url": "https://x.com/ForestParkPharm/status/2098251440833859708",
+   "conversationId": "2098251440833859708",
+   "text": "The government just showed CBS a warehouse full of Ferraris, a Bugatti, a Mercedes G-Wagon, game-worn Kobe Bryant sneakers, and a $1.5 million Mickey Mantle baseball card. All of it seized from one man who stole it from a Medicaid program.\n\nHis name is Paul Randall. This week a federal judge sentenced him to 30 years and ordered him to repay $178 million. In about 11 months, he ran roughly $269 million in fraudulent claims through California's Medi-Cal and got paid about $178 million of it. He bought seven properties, including an 8,500 square foot Orange County compound with a gate so far from the house you cannot see the front door from the street. He was living like a king off of us.\n\nIn early 2022, Medi-Cal temporarily suspended its requirement that providers get prior authorization before expensive drugs could be billed. They dropped the check while switching payment systems. Randall drove a truck through the gap. He paid kickbacks for patient information, paid a nurse practitioner to sign pre-filled prescriptions for 19 high-reimbursement generic drugs, and billed for medications that were medically unnecessary and often never given to anyone. No one was checking, so the money just flowed.\n\nThis man had six prior fraud convictions. He was out on bond, waiting to be sentenced in another fraud case, when he started this one. The system let a six-time fraudster bill it for $269 million because it turned off the one safeguard that would have caught him.\n\nAnd he is a small piece of it. Investigators in the report estimate the country loses up to a trillion dollars a year to this kind of fraud, and that most of it ends up overseas with criminal networks, funding things far worse than mansions and baseball cards. Once the money leaves the country, they say, it is almost never recovered.\n\nThe lesson is the same one I come back to constantly. When nobody spending the money is spending their own, and nobody is guarding the door, the bill lands on you. Randall's mansion was paid for out of the same pot your taxes fund.\n\nWe built our pharmacy to be the opposite of a system with nobody home. No mystery billing, no bottomless account, no third party writing invoices for drugs that never existed. You see what a medication actually costs and you decide.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-11T03:25:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 131,
+    "quotes": 4,
+    "likes": 374,
+    "bookmarks": 89,
+    "views": 39978
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2098247201558499328",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2098247201558499328/vid/avc1/1080x1612/1l56sjH2ly7dIJDp.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098247201558499328/img/gKSoqElLPb3cImM3.jpg",
+     "width": 1080,
+     "height": 1612,
+     "altText": null,
+     "durationSeconds": 190
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097844754490794146",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097844754490794146",
+   "url": "https://x.com/ForestParkPharm/status/2097844754490794146",
+   "conversationId": "2097828920808583655",
+   "text": "@MaryBowdenMD Use code: MaryBowdenMD for free shipping this week! https://www.forestparkpharmacy.com/product-page/ivermectin-3mg-otc-40-tablets",
+   "lang": "en",
+   "createdAt": "2026-09-10T00:29:00.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 93,
+    "bookmarks": 30,
+    "views": 2740
+   },
+   "replyTo": {
+    "tweetId": "2097828920808583655",
+    "userId": "1139217161275101184",
+    "username": "MaryBowdenMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1139217161275101184",
+      "username": "MaryBowdenMD",
+      "name": "Mary Talley Bowden MD"
+     }
+    ],
+    "urls": [
+     "https://www.forestparkpharmacy.com/product-page/ivermectin-3mg-otc-40-tablets"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097840668240490747",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097840668240490747",
+   "url": "https://x.com/ForestParkPharm/status/2097840668240490747",
+   "conversationId": "2097828920808583655",
+   "text": "@MaryBowdenMD We ship compounded and OTC in Texas. It’s not limited to just compounded.",
+   "lang": "en",
+   "createdAt": "2026-09-10T00:12:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 60,
+    "bookmarks": 6,
+    "views": 1232
+   },
+   "replyTo": {
+    "tweetId": "2097828920808583655",
+    "userId": "1139217161275101184",
+    "username": "MaryBowdenMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1139217161275101184",
+      "username": "MaryBowdenMD",
+      "name": "Mary Talley Bowden MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097822364482339068",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097822364482339068",
+   "url": "https://x.com/ForestParkPharm/status/2097822364482339068",
+   "conversationId": "2097822364482339068",
+   "text": "@JoinCrowdHealth  made a sketch imagining the founding fathers designing American healthcare on purpose, and it is funny because every insane detail in it is real.\n\nPicture George Washington being briefed. We will build the finest healthcare system in the world. Will it be affordable? No. How will people pay? Through their employer. What if they lose their job? Then they lose their doctor too. Who decides what is covered? Nobody knows. If a doctor recommends a treatment, who approves it? A man in a call center who will place you on hold.\n\nIt keeps going, and it keeps being true. Can a family find out the price before they get care? No. Can the hospital tell them? The hospital does not know either. How much is a bandage, three dollars or three hundred? Based on what? No one knows. Is the price posted anywhere? Yes, in a file with tens of thousands of numbers that no human can actually use. That last one is not a joke. Hospitals really do satisfy price transparency by publishing giant machine-readable files that are almost impossible to read.\n\nThen the medicine. A patient will not get his drugs from the doctor or the maker. He gets them from a third man who touches no medicine, sees no patient, and sets the price in secret. What is he called? A pharmacy benefit manager. What does he do? No one really knows. There are three of them, and they control almost the entire market.\n\nAnd the ending lands because it is the most real part. After all the waiting and the paperwork, roughly one in five claims gets denied. Not before the care. After. You are already stitched up, already home, and then a letter arrives saying it was not medically necessary. Decided by someone who was not there, was not your doctor, and by many accounts spent less than a minute on the file. That 1-in-5 number is real, ACA marketplace plans denied about 19% of in-network claims in 2024.\n\nNone of it has a logical reason. That is how you know it is the actual system and not a parody.\n\nThe good part is the fix is not complicated. Take the middleman out and the prices come back down to something real. We know what our drugs cost, and we will just tell you.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-09T23:00:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 529
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2097691611744673792",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2097691611744673792/vid/avc1/1080x1920/cdYgtjlTi9riSUkO.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097691611744673792/img/03712H8z0Bbv_v5U.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 215
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1380555947542773760",
+      "username": "JoinCrowdHealth",
+      "name": "CrowdHealth"
+     }
+    ],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097516258384068976",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097516258384068976",
+   "url": "https://x.com/ForestParkPharm/status/2097516258384068976",
+   "conversationId": "2097516258384068976",
+   "text": "A few years ago I had my whole family on a health insurance plan. Me, my wife, our daughter. We paid around $1,600 a month for it. The deductible was $17,000.\n\nThat year was not a quiet one. Our daughter broke her leg. My wife was pregnant, so she went to every prenatal visit, delivered the baby, and had all the postpartum care that follows. A broken leg and a full pregnancy and delivery in a single year.\n\nWe still did not hit the deductible.\n\nSo we paid $1,600 every month, all year, and then paid for the broken leg and the baby out of our own pockets on top of it, because insurance covered none of it. We handed that company close to $20,000 in premiums and got nothing back in a year with a broken bone and a newborn in it. That is when the math stopped making sense to me.\n\nA lot of people are running this same calculation right now and landing in the same spot. You pay every month for a card that only starts helping after you have already spent a small fortune, and most years you never get there. You are insured and uninsured at the same time.\n\nThe good news is that a huge share of what people actually use is cheap once you take the insurance games out of it. Generic medications, which are about 90% of prescriptions, are genuinely inexpensive. You do not need to clear a $17,000 deductible to afford them. You just need to see the real price.\n\nWe fired the insurance companies, so nobody sits in the middle inflating what you pay. You look up the actual cost and decide for yourself.\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-09T02:43:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 28,
+    "quotes": 0,
+    "likes": 102,
+    "bookmarks": 8,
+    "views": 1775
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2097514704037924864",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2097514704037924864/vid/avc1/1080x1920/DyGCB4H70R5j2uje.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097514704037924864/img/HwnjUFspBFuZ5kj2.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 80
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097137605183680951",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097137605183680951",
+   "url": "https://x.com/ForestParkPharm/status/2097137605183680951",
+   "conversationId": "2097137605183680951",
+   "text": "Someone posted their hospital bill for a 30-minute seizure, and it is a masterpiece of nonsense. The total came to $8,449.85. Insurance paid about half.\n\nLook at what is on it. Ninety dollars for a bag of saline, which is salt water. Lab tests they never asked for, including a drug test they did not consent to and did not need. $47.29 just to collect their blood. Over $1,000 for \"hydration,\" which is the salt water again, wearing a fancier name. $523.39 for the anti-seizure medication. And my personal favorite, $23.01 for \"professional fees,\" whatever that means.\n\nNone of these numbers are real. They are not what anything actually cost, and they are not meant to be. A hospital bill is written for the insurance company, not for the patient. Everyone assumes insurance is paying, so the hospital fills the bill with inflated, padded, made-up line items and sends it off to the insurer to fight over. The patient is an afterthought on their own bill.\n\nThat works fine as long as insurance covers everything. It doesn't. Insurance decides what it feels like paying, and whatever is left rolls downhill to you. You are the payer of last resort. If the insurer says no, the bill is yours, at the fake inflated price nobody ever expected a human to actually pay. That is how people end up in medical bankruptcy over a bag of salt water.\n\nCongress noticed people were getting crushed by surprise bills and passed the No Surprises Act to fix it. A Georgetown study just put the price of that fix at $22.4 billion, most of it from arbitration payouts that run well above normal rates, and those costs are now landing in everyone's premiums. Another law aimed at the right problem that made the bill bigger.\n\nThe fix that actually works is boring and obvious. Cut the middleman and find out what things really cost. In pharmacy the drugs themselves are usually cheap once you strip the games out.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-08T01:39:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 19,
+    "quotes": 0,
+    "likes": 49,
+    "bookmarks": 2,
+    "views": 1029
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2097136975216267264",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2097136975216267264/vid/avc1/1080x1920/PUtnQkMCLeeAQt-G.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097136975216267264/img/mW2Uvdm9ofSw_rPj.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 139
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096788701669941651",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2096788701669941651",
+   "url": "https://x.com/ForestParkPharm/status/2096788701669941651",
+   "conversationId": "2096788701669941651",
+   "text": "There is a $28 million mansion in Hidden Hills, California, right next to the Kardashians. The man who reportedly owns it is not a celebrity or a tech founder. According to a City Journal investigation, he is a respiratory therapist whose company billed California's Medicaid program more than $40 million.\n\nThe company is called HeroCare. Reporters Christopher Rufo and Madeleine Rowley traced the money, and the trajectory is something to see. In 2020 the company reportedly made about $7,000. The next year, around $400,000. Then it billed the government $5 million, then $15 million, then $18.8 million. All told, Medicaid data appears to show over $40 million flowing in, mostly selling basic plastic supplies like breathing tubes and catheters that cost a few dollars each.\n\nThe reporters went looking for the actual business and could barely find one. The website doesn't work. The social accounts are empty. The phone goes to a mailbox that won't take messages. They drove to the company's listed addresses and there was no real operation there. A company that supposedly did tens of millions in government business appears, in their words, to be a ghost. No charges have been filed, and fraud experts they spoke to said the pattern is full of red flags and more than enough for an investigation.\n\nInvestigators estimate fraudsters may be stealing up to $50 billion a year from California's Medicaid program alone. That is a system with the doors wide open.\n\nAnd you do not have to live next to the Kardashians to have felt it. My own mother-in-law once received a box of a dozen COVID tests in the mail, from a company she had never heard of, that she never contacted. They somehow had her insurance information, billed her plan, and shipped the tests to her door. Multiply that by every person they could find. Imagine the money a company makes just mailing everyone everything possible and billing for it.\n\nThis is what happens when the people spending the money are not spending their own. Nobody guards a bottomless account. The bill lands on taxpayers and on every one of us paying premiums, and it just keeps growing.\n\nWe built our pharmacy to be the opposite of that. No mystery billing, no ghost companies, no bottomless account. You see exactly what a medication costs, in the open, and you decide.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-07T02:32:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 51,
+    "quotes": 6,
+    "likes": 113,
+    "bookmarks": 9,
+    "views": 2547
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2096786534565388289",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2096786534565388289/vid/avc1/1080x1920/zS9yH-Lglyl4EZl_.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096786534565388289/img/_460oYGavG2BeH2f.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 229
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096415409326932460",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2096415409326932460",
+   "url": "https://x.com/ForestParkPharm/status/2096415409326932460",
+   "conversationId": "2096415409326932460",
+   "text": "A clip went around of a well-known guy losing it at a Walgreens counter. He is used to paying a few dollars for his prescription, and this time the register said something like $43. He got angry, the tech scrambled and knocked it back down to his old price, and everyone moved on.\n\nBoth numbers were fake.\n\nThe $43 was fake. The $3 was fake. Neither one has anything to do with what that medication actually costs. They are copay numbers, and a copay is not a price. It is a figure your insurance plan made up and  it was never tethered to reality in the first place.\n\nWatch how the employee reacted. The person running the prescription was not shocked to see $43 pop up for a cheap generic. They did not blink. And they would not have blinked at $10, or $75, or a thousand dollars, because they see made-up numbers all day. When any number is possible, no number is surprising. That is the system.\n\nAnd this is the important part: this is not really a Walgreens story. The tech at the counter did not invent that price. This is an insurance story. The whole point of keeping the numbers fake and unpredictable is to keep you dependent. If you never know what anything truly costs, you are afraid to walk away from your insurance card, because for all you know the \"real\" price is worse. So you hand over the card, you pay whatever copay appears, and you assume you are protected. Often you are just overpaying with extra steps. There is a reason Walgreens paid $100 million to settle claims that insured customers were charged inflated prices while cash customers paid less for the same drugs.\n\nThe move is simple. Check the price. Every time. Do not assume your copay is the good deal, because half the time the cash price is lower than the number your insurance is quietly charging you.\n\nThat is the entire reason we built a price checker. You can look up what your medication actually costs, in the open, no card required, no counter drama, no mystery figure. If our price is lower than your copay, transfer and keep the difference.\n\nHead to http://forestparkpharmacy.com, use the price checker, and see the real number for yourself.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-06T01:49:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 71,
+    "quotes": 2,
+    "likes": 175,
+    "bookmarks": 27,
+    "views": 5779
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2096413901160341504",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2096413901160341504/vid/avc1/1080x1920/DDramthALQ_5g8jI.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096413901160341504/img/9c9C3Q4khUQsxfLc.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 78
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096010418900939242",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2096010418900939242",
+   "url": "https://x.com/ForestParkPharm/status/2096010418900939242",
+   "conversationId": "2096010418900939242",
+   "text": "Clock in at the compounding lab. Weigh it, mix it, cap it, don't miss.\n\nHighest score after Labor Day wins anything in our shop. Use your social handle as your leaderboard name so we know where to mail it.\n\nhttps://forestparkpharmacy.com/compounding-lab https://x.com/ForestParkPharm/status/2096010418900939242/video/1",
+   "lang": "en",
+   "createdAt": "2026-09-04T23:00:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 21,
+    "bookmarks": 1,
+    "views": 632
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095895232546213889",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2095895232546213889/vid/avc1/1080x1920/gkEBy40Uenq-zlh5.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2095895232546213889/img/kWIppyvx94xCackU.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 51
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://forestparkpharmacy.com/compounding-lab"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095893808252592359",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095893808252592359",
+   "url": "https://x.com/ForestParkPharm/status/2095893808252592359",
+   "conversationId": "2095893808252592359",
+   "text": "Try our game! Can anybody beat my high score? https://www.forestparkpharmacy.com/compounding-lab",
+   "lang": "en",
+   "createdAt": "2026-09-04T15:16:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 373
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.forestparkpharmacy.com/compounding-lab"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095650564344295916",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095650564344295916",
+   "url": "https://x.com/ForestParkPharm/status/2095650564344295916",
+   "conversationId": "2095650564344295916",
+   "text": "Fraud is so easy that federal prosecutors just charged a man who was running his Medicaid scam from inside a jail cell.\n\nFederal and state prosecutors in Philadelphia charged 19 people with billing Medicaid for about $5.76 million in home care services that were never provided. The caregivers were billing for their shifts while incarcerated, while on cruises, while working other jobs, and in one case while dead. One aide logged 30 hours of care during a week he was on a Norwegian cruise. Another billed for a full day caring for his father while the father was actually in a courtroom, watching a different relative get sentenced for defrauding the exact same program.\n\nThe centerpiece is a man named Sean Murray. He is a charged drug trafficker who allegedly billed Medicaid around $400,000 over seven years for care he never gave, sometimes while he was at the gym, at a massage parlor, or packaging narcotics. And here is the kicker. On a recorded jail call, Murray bragged that home health care was \"the best kept secret.\" As one official put it, if this is the standard, you would have to arrest the whole city.\n\nIt is easy to laugh at how brazen this is. But when fraud gets this common, this casual, you have to stop and look at the program itself. If a guy in a cell can bill the government for a full shift and get paid, the problem is not just the criminals. The problem is a system with nobody actually home.\n\nI think about this every time I see the pharmacy version of the same crime. A pharmacy gets caught billing TriCare tens of thousands of dollars for a compounded cream. And yes, that pharmacy is a criminal. But ask the question nobody asks. Why is TriCare set up to pay $25,000 for a cream in the first place? Who designed a system where that is even a number that can be entered? Is anyone home?\n\nThe analogy I always come back to is the Halloween candy bowl. A house leaves a bowl out with a note that says please take just one. You already know how that ends. The bowl is empty by 6pm. That is exactly how healthcare fraud works, except this bowl is never empty. It is bottomless, because it is being refilled all night long with our money. There is no incentive for anyone running it to guard the bowl, because it is not their candy.\n\nWe fired the middleman that makes all of this possible. There is no bottomless bowl here, no mystery number, no system sitting between you and the price. You see what a medication actually costs and you decide. Cost plus a flat fee, in the open.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-03T23:10:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 36,
+    "quotes": 0,
+    "likes": 85,
+    "bookmarks": 4,
+    "views": 1325
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095649779288068097",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2095649779288068097/vid/avc1/1080x1920/CiFcZXSLRsfLYizR.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2095649779288068097/img/kTGRpv7tEko6CLGH.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 132
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095285644952314351",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095285644952314351",
+   "url": "https://x.com/ForestParkPharm/status/2095285644952314351",
+   "conversationId": "2095285644952314351",
+   "text": "CVS and United may be taking your raise next year, and you will probably never connect the two.\n\nEmployers are looking at next year's health insurance bills and flinching. Large employers expect their healthcare costs to jump about 9%. The pharmacy piece of that is expected to rise 12%. Pharmacy costs are going up 12% in the same year we just saw the biggest drop in drug prices in six decades. Drug prices fell. The amount employers are billed for drugs is climbing 12%. Those two facts cannot both be about the actual cost of medicine.\n\nPharmacy is already about 25% of all healthcare spending, and now it is the fastest-growing piece. So employers are doing what they always do when the middleman squeezes them. They cut. The share of employers covering obesity medication has already fallen from 72% to 60% in a single year. Coverage people were promised is quietly disappearing, not because the drugs stopped working, but because the bill got engineered higher.\n\nNow here is why this is your problem and not just your employer's. Your employer's health spending is your compensation. Economists have measured this for decades. The money your company sends to an insurance company every year is money that would otherwise be in your paycheck. So when that bill climbs 9%, that is 9% of a raise that got intercepted before it ever reached you. You did not get a smaller raise because your work was worth less. You got a smaller raise because CVS and United needed a bigger year.\n\nAnd the part that should really bother you is that most of it is not real. People are always shocked when they see how cheap generic medications actually are. Most of healthcare is like that. The true price of things is nowhere near what the headline number says. What is actually growing, year after year, is how good the insurance companies have gotten at maximizing the amount of your income the system lets them take. That is the product. Not care. Extraction.\n\nWe just opted out of the whole thing. No insurer, no PBM, no system sitting between you and the price. You see our number and you decide if it is right for you. When the real cost of a drug drops, your price drops, because there is no middleman in the middle keeping the difference.\n\nIf your employer is drowning in these increases, send this to them too. There is a cheaper way, and it does not require permission from CVS.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-02T23:00:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 50,
+    "quotes": 2,
+    "likes": 113,
+    "bookmarks": 15,
+    "views": 2315
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095160972348411904",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2095160972348411904/vid/avc1/1080x1920/zmDyibJRDc6WHK9c.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2095160972348411904/img/R-Hgm7PzfmuhW43w.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 115
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094923257698799918",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094923257698799918",
+   "url": "https://x.com/ForestParkPharm/status/2094923257698799918",
+   "conversationId": "2094923257698799918",
+   "text": "Another independent pharmacist's story went viral this week, and People Magazine picked it up.\n\nHer numbers are brutal and they are normal. She says 20% of her prescriptions are reimbursed below the cost of the drug itself, and 80% are reimbursed below her cost to operate. Do the math. That leaves one in five prescriptions that actually makes money. She is losing money, or barely breaking even, on four of every five scripts she fills. That is not a broken business. That is a business the PBMs have decided should not exist.\n\nThe pharmacy benefit managers control pharmacy insurance, which means they control her income. And underpaying is only half of what they do.\nThe day after a People article shared her story about the struggles independent pharmacies face, she got hit with a desk audit from one of the big three PBMs. The timing may be a coincidence. I will let you decide.\n\nA desk audit is a list, hers was 40 prescriptions filled back in 2025, and she have to go back and prove exactly how each one was filled. Prescriptions they already reviewed and already approved and already paid. And it is not just those 40. Every refill on those same prescription numbers is fair game too.\n\nHere is the trap. When these audits find a \"discrepancy,\" it is almost never a patient getting the wrong drug or the wrong dose. It is clerical. A missing initial, a signature, a technicality. And they use that clerical nitpick to claw back the entire amount they paid you. You already handed the medicine to the patient. Months later they decide the paperwork was imperfect and take all the money back. Dispensing an insured prescription is a gamble where you can win nothing and lose everything.\n\nIn eight years as a pharmacist in a chain setting, she had exactly one audit. One. Since she opened her independent, she has had at least one every single year.\n\nThe big three PBMs are owned by the same companies that own their own pharmacies. When the PBM owns the pharmacy, why would it ever audit itself? Every prescription its own pharmacy fills in error just makes the parent company more money. They cannot lose. Heads they claw back from me, tails they pay themselves.\n\nThat is the whole game. They gamble with your prescriptions, they squeeze the independent who answers to you, and they wave through the chain that answers to them.\n\nThat is why we fired them. No PBM sets our prices, no PBM audits us into the ground, no parent company profits when your prescription goes wrong. Cost of the medication plus a flat fee, and you see it before you pay.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-09-01T23:00:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 113,
+    "quotes": 8,
+    "likes": 346,
+    "bookmarks": 52,
+    "views": 13157
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2094790483549491200",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2094790483549491200/vid/avc1/1080x1920/Gcgie6hl5llnSv8H.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2094790483549491200/img/34cb8B6K4hYduFM6.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 193
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094187941186728412",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094187941186728412",
+   "url": "https://x.com/ForestParkPharm/status/2094187941186728412",
+   "conversationId": "2094187941186728412",
+   "text": "Walmart just agreed to pay the government $50 million for filling opioid prescriptions its own pharmacists said not to fill. Not scripts that looked bad in hindsight. Scripts their own people flagged, in writing, at the time.\n\nSince 2013, Walmart pharmacies filled thousands of invalid prescriptions for controlled substances. The pharmacists at the counter saw the red flags. They did their job. They sent thousands of refusal-to-fill reports up to corporate compliance.\n\nSo corporate knew. They knew certain prescribers were running pill mills, because their own pharmacists told them. The government quotes an internal email in which a compliance director said reviewing those refusal reports was not a good use of managers' time. The better use was \"driving sales.\" They looked at a stack of warnings and decided selling more mattered more.\n\nAnd Walmart is not alone. Look at who has paid for opioids. More than $50 billion in settlements, from nearly everyone who touched a pill. The distributors, $21 billion. Purdue and the Sacklers, $7.4 billion. Walgreens, $5.7 billion. CVS, about $5 billion. Johnson and Johnson, $5 billion. Walmart, $3.1 billion on top of this. Every giant in the chain wrote a check.\n\nFor all of them, the check is the punishment. Fifty million to Walmart is a couple hours of revenue. Nobody goes to jail. Nobody loses a pharmacy. They pay and they keep dispensing.\n\nNow imagine a small independent did a fraction of this. We would not be writing a check. The DEA would pull our registration, and we would lose the ability to dispense controlled substances at all. That is the end of the pharmacy. For us there is no cost of doing business.\n\nThat is the difference between a chain and an owner. When you own the place, the pharmacist who says no is the person who answers for it. There is no head office overruling that call to protect a sales number, and no check big enough to make the consequences disappear.\n\nWe charge the cost of your medication plus a flat fee, and we answer for every prescription we fill. Head to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-08-30T22:18:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 38,
+    "quotes": 0,
+    "likes": 98,
+    "bookmarks": 8,
+    "views": 2263
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2094187134903054336",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2094187134903054336/vid/avc1/1080x1920/IpuONCbQuGGvHdlv.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2094187134903054336/img/FkMBpQ4TsW8z9dZ7.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 150
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093868572162261004",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2093868572162261004",
+   "url": "https://x.com/ForestParkPharm/status/2093868572162261004",
+   "conversationId": "2093868572162261004",
+   "text": "It is that time of year again. The 2027 health insurance numbers are in, and the average plan is going up about 14%.\n\nFourteen percent. That is the median increase insurers filed across nearly 300 companies in all 50 states. And it is not a one-time spike. Premiums jumped around 26% for 2026, and now they are stacking another double-digit hike on top. If these hold, typical premiums will have climbed more than a third in just two years. Did you get a 14% raise? A 26% raise the year before?\n\nSo here is the question worth sitting with. Where is that money going? Because at the same time premiums are climbing, prescription drugs just posted their steepest price drop since 1963. Brand names are still a problem, but generics, which are about 90% of all prescriptions filled, keep getting cheaper. The single biggest category of what your plan pays for is falling in price, and your premium is going up 14% anyway.\n\nInsurers will tell you the increases are about hospital costs, specialty drugs, and GLP-1s. Some of that is real. But notice what that means. The cheap drugs got cheaper, 90% of them, and none of that savings reached your premium. It got absorbed somewhere in the middle and you never saw a dollar of it. When costs go up, your premium goes up. When costs go down, your premium goes up anyway. There is only one direction, and it is not tied to what care actually costs.\n\nA system where the price only ever moves one way, no matter what the underlying costs do, is not pricing your care. It is pricing whatever the middleman decides it needs to be.\n\nWe do not play that game. We fired the insurance companies, so nobody can force us to jack up a price 14% to make a premium math work. When a generic gets cheaper, you pay less. Full stop. That is what a real price does.\n\nHead to http://forestparkpharmacy.com, check the price checker, and see what fair actually looks like. Transfer today to save.\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-08-30T01:09:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 36,
+    "quotes": 0,
+    "likes": 78,
+    "bookmarks": 10,
+    "views": 1448
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2093866906688036865",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2093866906688036865/vid/avc1/1080x1920/8KbCgZw4DoFGS27v.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2093866906688036865/img/subdnZOU9CvHGE-y.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 83
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093473709373947950",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2093473709373947950",
+   "url": "https://x.com/ForestParkPharm/status/2093473709373947950",
+   "conversationId": "2093473709373947950",
+   "text": "When a job offers health insurance as a \"benefit,\" most people picture their boss generously paying for it. That is not what is happening. It is your money. They are just spending it for you.\n\nHere is the real structure. The average employer family health plan now costs about $27,000 a year. Your employer writes most of that check, but that money is still part of what it costs to employ you. It is compensation. It just never touches your bank account, it gets routed straight to an insurance company on your behalf. Economists have measured this for decades. One JAMA study found that health-premium growth from 1988 to 2019 cost the average worker roughly $8,000 a year in wages they otherwise would have taken home. You may not have gotten a raise this year. Your insurance company did.\n\nSo the real question is not whether insurance is a nice benefit. It is whether the company spending $27,000 of your money every year is any good at spending it. And they are not.\n\nWatch how badly they shop. A prescription comes in listed at $22,000. The insurer \"negotiates\" it down to $7,000 and pats itself on the back for saving $15,000. Fill it three times and they will tell you they saved you $45,000. Incredible work.\n\nThat same prescription is $220 cash at my pharmacy. Two hundred and twenty dollars. They did not save you $45,000. They overpaid by almost $20,000 and called it a discount. And because it was your compensation footing the bill, you are the one who lost. They wasted your money, not theirs. That is the whole problem. The people spending your healthcare dollars feel nothing when they overpay, so they overpay constantly. Private plans routinely pay multiples of what the cash price or the Medicare rate would be, because there is no reason for them not to.\n\nThat should make you furious. It made me furoius. It is why we fired the middleman and just post real prices you can see before you pay.\n\nGo look for yourself. Head to http://forestparkpharmacy.com and check the price checker. Then send it to your boss, because your whole company is likely making the same $22,000 mistake. Transfer yourself and your company today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-08-28T23:00:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 18,
+    "quotes": 1,
+    "likes": 51,
+    "bookmarks": 7,
+    "views": 1189
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2093350925993689088",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2093350925993689088/vid/avc1/1080x1920/0W_hGFp7xGyJ8A1R.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2093350925993689088/img/fzXBAFcylOS0-SEq.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 151
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093111324545056874",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2093111324545056874",
+   "url": "https://x.com/ForestParkPharm/status/2093111324545056874",
+   "conversationId": "2093111324545056874",
+   "text": "A handful of companies now own nearly every step of your healthcare, and UnitedHealth Group is the clearest example. Say you have MS and your insurance is UnitedHealthcare. That insurer is owned by UnitedHealth Group. There is a good chance your doctor's office is owned by UnitedHealth Group too, through its Optum arm. If your doctor prescribes a specialty drug, you will likely have to fill it at UnitedHealth's specialty pharmacy. And the middleman that sits between the pharmacy and the insurer negotiating your drug price, the PBM, is Optum Rx. Also UnitedHealth Group.\n\nOne company owns the insurer, the doctor, the pharmacy, and the middleman. Every step of your care, and a cut at every step.\n\nHere is how big that actually is, because the scale is hard to believe. Optum employs or is affiliated with more than 90,000 physicians. That is roughly one in every ten doctors in the country. Optum Rx controls around a fifth of the entire US prescription drug market. UnitedHealthcare is the largest private insurer in the nation. UnitedHealth Group has something like 2,600 subsidiaries and $400 billion in annual revenue. It is not a company so much as a closed loop you get routed through.\n\nWhen one company owns both the side that pays for care and the side that provides it, it can quietly steer business to itself. And there is now hard proof it does. A Health Affairs study published in November 2025 found UnitedHealthcare pays its own Optum doctors about 17% more than it pays outside doctors for the same work. Money moving from one pocket to another inside the same company, on your premium. Separately, 60% of Optum Rx's revenue comes from other UnitedHealth-owned businesses. The loop pays itself.\n\nAnd it is not just them. CVS Health is built the same way: Aetna the insurer, Caremark the PBM, and its own pharmacies, all one company. Cigna, Humana, and Elevance all own provider or PBM pieces too. This is the model now.\n\nWarren nailed the diagnosis. Vertical integration lets these giants raise prices and squeeze out anyone who is not them. Where she and I differ is the fix. I am not waiting on an act of Congress.\n\nWe already fired the middleman. No PBM sets our prices, no insurer routes you to us, no parent company takes a cut on the way. That means every one of their games counts for nothing here. You just see the real price and pay it.\n\nHead to http://forestparkpharmacy.com, look at the price checker, and transfer today to save.\n\nSee ya.",
+   "lang": "en",
+   "createdAt": "2026-08-27T23:00:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 21,
+    "quotes": 0,
+    "likes": 79,
+    "bookmarks": 4,
+    "views": 1516
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2092974543815983104",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2092974543815983104/vid/avc1/1080x1920/nLu430RIEfVQ0jj7.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2092974543815983104/img/g4U5hs74AeQ7RrCS.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 133
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092747621643280852",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2092747621643280852",
+   "url": "https://x.com/ForestParkPharm/status/2092747621643280852",
+   "conversationId": "2092747621643280852",
+   "text": "How does GoodRx actually work?\n\nYou’re at the pharmacy counter. The price is $180. You Google a coupon on your phone, hand over a code you found 30 seconds ago, and now it’s $40.\n\nMost people assume the pharmacy was overcharging them. That is not what happened.\n\nThe price you get at the counter is the price the insurance company tells the pharmacy to charge. Even the cash price is controlled. The pharmacy cannot lower it for you and cannot quietly give you a better deal. Those prices are locked in by contract, even when they are completely absurd.\n\nThat is where discount cards come in.\nA discount card is not insurance. It is a separate program, so it is not bound by the rules insurance operates under. It can offer prices that are otherwise unavailable to you.\n\nHere is the part nobody explains. The way discount cards get around those restrictions is by using PBM network rates. Special low rates written into the same pharmacy contracts, set aside specifically for discount cards. The card company shops for the lowest network rate and gives you the code to unlock it.\nAccess to those rates is not free. \nSomebody pays for it, and it is built into the price.\n\nSo when you use a discount card, you are still paying the insurance PBM. The same company that built the system locking you into the terrible price is charging you a hidden fee to get out of the terrible price.\n\nNow look at what that discounted price still has to cover. The drug. The pharmacy. The discount card company. Plus a couple of dollars to whoever handed you the card in the first place.\nAll of that fits inside the coupon price. Sit with what that tells you about the number they quoted you first.\n\nAt Forest Park Pharmacy, we fired the insurance companies and we do not take discount cards.\n\nYou pay for the drug. You pay for the pharmacy. That is it.\n\nThat is why our prices can be so much lower.\n\nLook up your medication on the price checker at http://forestparkpharmacy.com and transfer today.",
+   "lang": "en",
+   "createdAt": "2026-08-26T22:54:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1597665271484932099",
+    "username": "ForestParkPharm",
+    "name": "Forest Park Pharmacy",
+    "url": "https://x.com/ForestParkPharm",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1597665694581235713/YCCsr_FQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 29,
+    "quotes": 0,
+    "likes": 77,
+    "bookmarks": 13,
+    "views": 1541
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2092747392202285056",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2092747392202285056/vid/avc1/1080x1920/-s8fkO1lnQOvCzAU.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2092747392202285056/img/46WPFZrU-UWE_RDm.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 164
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://forestparkpharmacy.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

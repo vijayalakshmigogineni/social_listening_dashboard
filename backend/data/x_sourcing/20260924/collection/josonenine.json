@@ -1,0 +1,803 @@
+{
+ "query": "from:josonenine (denied OR denial OR denials OR denying OR \"prior auth\" OR \"prior authorization\" OR \"peer to peer\" OR reimbursement OR underpay OR unpaid OR downcode OR downcoding OR modifier OR IDR OR QPA OR \"fee schedule\" OR \"Medicare Advantage\" OR WISeR OR payment OR paid OR EOB OR \"out of network\" OR insurer OR insurance) since:2025-09-24 lang:en -filter:retweets",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102982971896848875",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102982971896848875",
+   "url": "https://x.com/josonenine/status/2102982971896848875",
+   "conversationId": "2102982971896848875",
+   "text": "This is such an important topic. Healthcare price transparency does not exist. \n\nAlways challenge your healthcare bill by asking for an itemized report of the charges and in network allowable. \n\nIf out of network, call the clinic or physician group and ask to negotiate a fair and reasonable payment. \n\nThe insurance companies don’t pay their contractually required payments to physicians or ASCs forcing physicians and surgical centers to go out of network. \n\nPatients are balanced billed because insurance determines that the payment should be $0.01. \n\nClinic and facility claims are submitted to the Independent Dispute Resolution process of the NSA act. We win over 90% of the time. \n\nInsurance companies ignore the win in arbitration and refuse to pay. There reason for not paying:  “the IDR determination is unenforceable, so we don’t need to pay.” \n\nPhysicians sue insurance company to force them to pay. Insurance company loses in court and still refuses to pay IDR win. \n\nInsurance company appeals loss in court. Circuit court judge says insurance company needs to pay.  Insurance company refuses to pay. \n\nInsurance company appeals again.  And the saga goes on for years. \n\nWe acted in good faith receiving no payment while insurance profited from our good will.  The patients are left wondering why the bills are so high. \n\nI am happy to send an itemized bill. \n\nThe hospital never wants you to see their itemized bill. \n\nQuestion every insurance and hospital statement. \n\nThe corruption runs deep. \n\nWE ARE SO TIRED OF THEIR SHENANIGANS.",
+   "lang": "en",
+   "createdAt": "2026-09-24T04:46:26.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 144
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102953411876438386",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102958172764033078",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102958172764033078",
+   "url": "https://x.com/josonenine/status/2102958172764033078",
+   "conversationId": "2101175897092919583",
+   "text": "@HealthGovInst Our ASC received a $0.01 payment for a $60,000 case. I sent it to our US senator.  \n\nWe MUST track initial payments vs QPA vs IDR award. \n\nTheir brazen belligerent violations of the QPA requirements of the NSA are astounding. \n\nThe must be held accountable.",
+   "lang": "en",
+   "createdAt": "2026-09-24T03:07:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 10
+   },
+   "replyTo": {
+    "tweetId": "2102883983742906432",
+    "userId": "2091642476134039552",
+    "username": "HealthGovInst"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2091642476134039552",
+      "username": "HealthGovInst",
+      "name": "Healthcare Governance Institute"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101175897092919583",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101175897092919583",
+   "url": "https://x.com/josonenine/status/2101175897092919583",
+   "conversationId": "2101175897092919583",
+   "text": "Insurance payments equivalent to what I pay my pet groomer are repugnant. \n\nWe frequently see payments of a few hundred dollars for major operations for facility claims at our ASC and even lower professionally. \n\nWe received a payment of $0.01 for an ASC facility payment on a major case that typically reimburses at $60k or more.   \n\nIt’s a 🖕to every physician in private practice. \n\nWhen we appeal the underpayment, it’s denied. \n\nWhen we submit to the IDR, we win every time. \n\nThey have no justification for their payments. They offer none to the arbitrator. \n\nThese are RICO violations.  \n\nThe insurers are purposely paying way below Medicare fee schedules to force practices into unreasonable contracts or to submit to IDR. \n\nOur only recourse is the IDR or bill the patients. \n\nThey then refuse to pay IDR wins.  They blame physicians and MSOs for price gouging. \n\nThey lie, steal, and blame greedy doctors. \n\nA Blue Cross attorney recently argued in court:  “the IDR determination is as good as writing an IOU on a napkin to your mother”.\n\nInsurers are operating in bad faith by agreeing to participate in the IDR process and then not paying when they lose. \n\nThey litigate in court when they lose. \n\nAll we are asking for is fair and reasonable payments.",
+   "lang": "en",
+   "createdAt": "2026-09-19T05:05:46.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 24,
+    "bookmarks": 2,
+    "views": 1642
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099893323032867321",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094094708415074636",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2094094708415074636",
+   "url": "https://x.com/josonenine/status/2094094708415074636",
+   "conversationId": "2093827763828371650",
+   "text": "@dakotausa91 @FoxNews I have an Asian nephew who got a perfect ACT score and fantastic grades, but got denied by all University of CA except one. Asian males are disproportionately discriminated against.",
+   "lang": "en",
+   "createdAt": "2026-08-30T16:07:39.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 45,
+    "bookmarks": 0,
+    "views": 941
+   },
+   "replyTo": {
+    "tweetId": "2093963692010242154",
+    "userId": "1704641991647084544",
+    "username": "dakotausa91"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1704641991647084544",
+      "username": "dakotausa91",
+      "name": "Dakota Sebastian"
+     },
+     {
+      "id": "1367531",
+      "username": "FoxNews",
+      "name": "Fox News"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088716514690220195",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088716514690220195",
+   "url": "https://x.com/josonenine/status/2088716514690220195",
+   "conversationId": "2088716514690220195",
+   "text": "That’s true of so many specialists.\n\nThose in network specialists churn and burn.\n\nI own two practices with ten providers between the two. One in network practice with its own ASC and one out of network with its ASC.\n\nGuess which surgeons are happy and making more.  \n\nThese consolidated health networks harm patients and practitioners. Private practice groups must end insurance contracts that don’t make sense. Otherwise, they’ll shut down or if they can sell to larger organizations for pennies on the dollar. \n\nDon’t play the insurance game. It’s a race to the bottom with insurance companies always coming out in top and physicians working for the MAN.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:56:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 4,
+    "views": 1288
+   },
+   "replyTo": null,
+   "quotedTweetId": "2088673233767899562",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2086686976002973961",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2086686976002973961",
+   "url": "https://x.com/josonenine/status/2086686976002973961",
+   "conversationId": "2086686976002973961",
+   "text": "Accountability is finally here for the crimes Texas Children’s Hospital committed against children.  The slso criminally committed fraudulent billing with using incorrect biological sex, self identified sex and new name. \n\nBiological Females were dx with low testosterone but were billed as males to Medicaid in order to get paid. \n\nA $10,000,000 settlement. The Biden administration wanted to send this nurse to prison. \n\nThese administrators and physicians must go to prison.  \n\nGender transitioning of adolescents is absolutely abhorrent and those responsible must be held accountable accountabile.  https://x.com/C__Herridge/status/2086607327252140114/video/1",
+   "lang": "en",
+   "createdAt": "2026-08-10T05:31:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 173
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2086607061630984193",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2086607061630984193/vid/avc1/1920x1080/kXYqQ0N3psbbP1Hv.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2086607061630984193/img/TdEJrxvhLUA9R2kb.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": 1227
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/C__Herridge/status/2086607327252140114/video/1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2064936923756745027",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2064936923756745027",
+   "url": "https://x.com/josonenine/status/2064936923756745027",
+   "conversationId": "2064936923756745027",
+   "text": "The AMA is a poser.  It is an arm of the Federal government and commercial insurance companies. \n\nThey’ve screwed physician reimbursement and made us cuckholds of insurance companies.",
+   "lang": "en",
+   "createdAt": "2026-06-11T05:05:01.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 14,
+    "bookmarks": 0,
+    "views": 1811
+   },
+   "replyTo": null,
+   "quotedTweetId": "2064906275922845891",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2064556744693674425",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2064556744693674425",
+   "url": "https://x.com/josonenine/status/2064556744693674425",
+   "conversationId": "2064486412003504390",
+   "text": "We are completely out of network since 2019. Highly recommend not contracting with any insurance plan especially government plans. \n\nWe have year of year growth of 50% revenue   and will be over $10 million in collections this year. \n\nI expect 2027 we will double our revenue.  \n\nWe collect up front the out of network deductibles and bill insurance the rest. We balance bill the patient if insurance refuses or significantly delays payment. \n\nThis is how healthcare business should be done. \n\nStop contracting with commercial payers. Their networks our all large medical systems and they have no interest in doing business with independent groups or ASCs.",
+   "lang": "en",
+   "createdAt": "2026-06-10T03:54:20.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 200
+   },
+   "replyTo": {
+    "tweetId": "2064486412003504390",
+    "userId": "16228398",
+    "username": "mcuban"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2063556666742702424",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2063556666742702424",
+   "url": "https://x.com/josonenine/status/2063556666742702424",
+   "conversationId": "2063468660711174604",
+   "text": "@NeilFlochMD The solution is to go into private practice, don’t participate in any government plans or contract with any commercial insurance. If you agree to play by their rules, you have lost control and no leverage.",
+   "lang": "en",
+   "createdAt": "2026-06-07T09:40:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 132
+   },
+   "replyTo": {
+    "tweetId": "2063468660711174604",
+    "userId": "1954293848",
+    "username": "NeilFlochMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1954293848",
+      "username": "NeilFlochMD",
+      "name": "Neil Floch MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2059816537222271181",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2059816537222271181",
+   "url": "https://x.com/josonenine/status/2059816537222271181",
+   "conversationId": "2059816537222271181",
+   "text": "VBC is a misnomer. @DutchRojas.  After 20 yrs doing VBC, to the insurer it’s all about the $$$. They have no interest in doing bundles because they are incentivized by fee for service and lack software to adjudicate claims.  Value based healthcare is making headway with self directed employer agreements.  It cuts out the insurer completely in the equation making it a WIN-WIN-WIN for the patient-employer-clinic/ASC. It’s a lose-lose for the insurance-hospital. 😝💪🙌",
+   "lang": "en",
+   "createdAt": "2026-05-28T01:58:26.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 1,
+    "views": 2500
+   },
+   "replyTo": null,
+   "quotedTweetId": "2059652492858675457",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "475043222",
+      "username": "DutchRojas",
+      "name": "Dutch Rojas"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2053686614988394744",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2053686614988394744",
+   "url": "https://x.com/josonenine/status/2053686614988394744",
+   "conversationId": "2053654287046017039",
+   "text": "@mcuban @nancymarie1000 The medical directors of insurance companies are practicing medicine without a license. They’re also making medical decisions outside their scope. They absolutely need to be held accountable. There needs to be class action litigation.",
+   "lang": "en",
+   "createdAt": "2026-05-11T04:00:19.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 28,
+    "bookmarks": 0,
+    "views": 558
+   },
+   "replyTo": {
+    "tweetId": "2053654287046017039",
+    "userId": "16228398",
+    "username": "mcuban"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16228398",
+      "username": "mcuban",
+      "name": "Mark Cuban"
+     },
+     {
+      "id": "43276225",
+      "username": "nancymarie1000",
+      "name": "Idahogirl"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2047534808709140559",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2047534808709140559",
+   "url": "https://x.com/josonenine/status/2047534808709140559",
+   "conversationId": "2047319035420012605",
+   "text": "@noahkaufmanmd @rgergelymd Been in private practice 25 yrs. Both in network and out of network. Life is immensely better out of network. Love my career!",
+   "lang": "en",
+   "createdAt": "2026-04-24T04:35:14.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2047319035420012605",
+    "userId": "392805846",
+    "username": "noahkaufmanmd"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "392805846",
+      "username": "noahkaufmanmd",
+      "name": "Noah Kaufman, MD"
+     },
+     {
+      "id": "805163799988711424",
+      "username": "rgergelymd",
+      "name": "Robert Gergely, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2047534214330130477",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2047534214330130477",
+   "url": "https://x.com/josonenine/status/2047534214330130477",
+   "conversationId": "2047385291699179913",
+   "text": "@noahkaufmanmd @RepGregMurphy @sdixitmd @UHC Good idea but won’t work for most private practices due to patients wanting their insurance to cover cost.",
+   "lang": "en",
+   "createdAt": "2026-04-24T04:32:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 30
+   },
+   "replyTo": {
+    "tweetId": "2047426503453864399",
+    "userId": "392805846",
+    "username": "noahkaufmanmd"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "392805846",
+      "username": "noahkaufmanmd",
+      "name": "Noah Kaufman, MD"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "63372945",
+      "username": "sdixitmd",
+      "name": "Sanat Dixit MD FACS"
+     },
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2047533845738914275",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2047533845738914275",
+   "url": "https://x.com/josonenine/status/2047533845738914275",
+   "conversationId": "2047385291699179913",
+   "text": "We dropped ALL insurance contracts including Federal Plans.  If every private practice, ASC, and hospital did this, then market competition on price would allow patients to choose based on quality and cost. Today it’s smoke and mirrors. \n\nWe are doing well out of network. Insurance companies deny, deny, and lie. No accountability by employers or government. \n\nTime to END insurance contracts and networks.  They only serve @UHC.",
+   "lang": "en",
+   "createdAt": "2026-04-24T04:31:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 156
+   },
+   "replyTo": {
+    "tweetId": "2047385291699179913",
+    "userId": "1173978070535024642",
+    "username": "RepGregMurphy"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2025309925560455507",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2025309925560455507",
+   "url": "https://x.com/josonenine/status/2025309925560455507",
+   "conversationId": "2025309925560455507",
+   "text": "Insurance companies reimburse surgeons the same no matter their experience or expertise.  \n\nI went out of network and now earn what surgeons should earn for having 30 yrs experience.",
+   "lang": "en",
+   "createdAt": "2026-02-21T20:41:29.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1655359983582842880",
+    "username": "josonenine",
+    "name": "ArlesMD",
+    "url": "https://x.com/josonenine",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1659827497763209216/dVgcSKrQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 220
+   },
+   "replyTo": null,
+   "quotedTweetId": "2025208337806090517",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

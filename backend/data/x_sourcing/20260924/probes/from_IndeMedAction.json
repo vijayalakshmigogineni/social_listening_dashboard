@@ -1,0 +1,1863 @@
+{
+ "key": "from_IndeMedAction",
+ "query": "from:IndeMedAction lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102099055908364719",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102099055908364719",
+   "url": "https://x.com/IndeMedAction/status/2102099055908364719",
+   "conversationId": "2102099055908364719",
+   "text": "It's back to school season. Millions of students are cracking open new textbooks this month — so it's a good time for the rest of us to sharpen our pencils too. \n\n✅Today's class: IDR 101.\n\n1. When an out-of-network physician and a health plan can't agree on payment, who settles it? Meet the independent arbitrator, and learn how the No Surprises Act's Independent Dispute Resolution process actually works.\n\n2. Here's the first thing to know: most payment disputes between providers and insurers are settled in the informal process, before an arbitrator is ever involved. And there's a reason the system is built that way.\n\n3. Federal IDR is winner-take-all. Once a dispute reaches arbitration, the certified entity must pick one side's final offer or the other — it cannot land on a blended figure and it cannot split the difference. That design is deliberate. The No Surprises Act forces both sides to carry real risk into arbitration, which is meant to push them toward agreement earlier, during the mandatory 30-business-day Open Negotiation Period that comes first.\n\n4. The takeaway is simple: your leverage is highest before arbitration begins. A reasonable number agreed during Open Negotiation is certain. A number left to an arbitrator is not.\n\nLearn more about the IDR from IndeMed:\nhttps://indemed.org/IDR-101/",
+   "lang": "en",
+   "createdAt": "2026-09-21T18:14:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 96
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102097364383379456",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSwmal9bMAA_khn.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSwmal9bMAA_khn.jpg",
+     "width": 3750,
+     "height": 1969,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/IDR-101/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095606099051221488",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095606099051221488",
+   "url": "https://x.com/IndeMedAction/status/2095606099051221488",
+   "conversationId": "2095606099051221488",
+   "text": "What is saving your life worth?\n\n278,807 times, the insurer offered $1 or $0 for the life-saving care delivered by physicians.\n\n‼️ Insurers will say these were claims they believed didn’t belong in arbitration in the first place. That’s not what the data shows. Every one of these offers came after a certified, neutral federal arbitrator had already reviewed the claim and confirmed it qualified for the process. The eligibility question was already settled. The $0 or $1 offer came after.\n\nLearn more:\nhttps://indemed.org/whats-your-care-worth/",
+   "lang": "en",
+   "createdAt": "2026-09-03T20:13:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 1556
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095605059740442626",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRUVsudXIAIKwvy.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRUVsudXIAIKwvy.jpg",
+     "width": 2938,
+     "height": 2463,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/whats-your-care-worth/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095225739129901072",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095225739129901072",
+   "url": "https://x.com/IndeMedAction/status/2095225739129901072",
+   "conversationId": "2095225739129901072",
+   "text": "What is saving your life worth?\n\n$0 — offered more than 9,000 times for the CT scans that catch strokes, internal bleeding and hidden tumors.\n\n‼️ Insurers will say these were claims they believed didn’t belong in arbitration in the first place. That’s not what the data shows. Every one of these offers came after a certified, neutral federal arbitrator had already reviewed the claim and confirmed it qualified for the process. The eligibility question was already settled. The $0 offer came after.\n\nLearn more from IndeMed:\nhttps://indemed.org/whats-your-care-worth/",
+   "lang": "en",
+   "createdAt": "2026-09-02T19:01:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 686
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095225422271111175",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRO8a6rWYAcos3s.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRO8a6rWYAcos3s.jpg",
+     "width": 2938,
+     "height": 2463,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/whats-your-care-worth/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2090145091218178119",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2090145091218178119",
+   "url": "https://x.com/IndeMedAction/status/2090145091218178119",
+   "conversationId": "2090145091218178119",
+   "text": "Will CMS Kill the Clipboard in 2027?\n\nPaul Slosar, MD, of @PhysiciansCap recently sat down with IndeMed chairman @DrBruggeman to examine:\n\n✅Why third-party remote monitoring vendors are at risk, and how they may pivot to survive.\n\n✅How AI could help practices manage patients year-round and capture the coding that pays for it.\n\n✅How CMS's proposed penalties for duplicate imaging and labs could open a lane for interoperability tools.\n\nWatch the video:\nhttps://theindicaxn.substack.com/p/cy2027-cms-physician-fee-schedule-073?r=8auei5",
+   "lang": "en",
+   "createdAt": "2026-08-19T18:33:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 205
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2090144987048452096",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HQGvyqoWIAAQNkK.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HQGvyqoWIAAQNkK.jpg",
+     "width": 1984,
+     "height": 1110,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1717960406403022848",
+      "username": "PhysiciansCap",
+      "name": "PhyCap Fund"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [
+     "https://theindicaxn.substack.com/p/cy2027-cms-physician-fee-schedule-073?r=8auei5"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087561295251849346",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2087561295251849346",
+   "url": "https://x.com/IndeMedAction/status/2087561295251849346",
+   "conversationId": "2087561295251849346",
+   "text": "A major win for physicians and patients. \n\nThis week the full Fifth Circuit ruled in Texas Medical Association v. HHS that federal regulators wrongly let insurers pad the No Surprises Act payment formula with \"ghost rates\" — rates for services a provider never even performs — while excluding the bonus and incentive payments that should count toward the QPA. Both distortions pushed reimbursement artificially low.\n\n✅ IndeMed Chairman @DrBruggeman  credits the @texmed's longstanding litigation strategy on QPA methodology. Read his full statement: https://indemed.org/press-release/fifth-circuit-rejects-ghost-rates-in-no-surprises-act-payment-formula-in-major-win-for-physicians-and-patients/\n\n✅ More in the media: https://www.reuters.com/legal/litigation/us-appeals-court-voids-formula-used-avert-surprise-medical-bills-2026-08-12/",
+   "lang": "en",
+   "createdAt": "2026-08-12T15:26:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 270
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2087560857425199104",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPiBihnWwAAyZgV.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPiBihnWwAAyZgV.jpg",
+     "width": 1672,
+     "height": 941,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     },
+     {
+      "id": "12831902",
+      "username": "texmed",
+      "name": "Texas Medical Association"
+     }
+    ],
+    "urls": [
+     "https://indemed.org/press-release/fifth-circuit-rejects-ghost-rates-in-no-surprises-act-payment-formula-in-major-win-for-physicians-and-patients/",
+     "https://www.reuters.com/legal/litigation/us-appeals-court-voids-formula-used-avert-surprise-medical-bills-2026-08-12/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2085835799644258700",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2085835799644258700",
+   "url": "https://x.com/IndeMedAction/status/2085835799644258700",
+   "conversationId": "2085835799644258700",
+   "text": "24 years of data, and the story couldn't be clearer: physician payment is not what's driving your premiums.\n\nHealth plans have released their proposed 2027 premiums and, to no one's surprise, they want to raise them dramatically again. The median requested increase on the ACA exchanges is 15% — the second straight year of double-digit hikes. And some increases could be as high as 54%. If it holds, marketplace premiums will have climbed by a third in just two years.\n\nInsurers love to point the finger at physicians and medical providers for rising costs. But here's what 24 years of data actually shows:\n\n· Family health insurance premiums: +282%\n· Elevance Health (Anthem) net income: +1,554%\n· UnitedHealth Group net income: +1,303%\n· Medicare physician payment: DOWN 15.5%\n\n‼️The two largest insurers' share prices grew fourteenfold. \n‼️Family premiums nearly tripled. \n‼️And physician payment — from both Medicare and commercial plans — went backward.\n\n🔎So what happens when health plans decrease physician pay and add unnecessary hoops for physicians to jump through — the prior authorizations, the denials, the endless administrative burden?\n\nConsolidation.\n\nIndependent practices can't absorb falling reimbursement and rising red tape forever. So they sell — to hospitals and, increasingly, to the insurers themselves.\n\nFewer independent physicians mean less competition, higher prices and patients with fewer choices. The same companies squeezing physician pay are buying up the practices they squeezed.\n\nPay physicians less. Consolidate medicine. Pay more for healthcare.",
+   "lang": "en",
+   "createdAt": "2026-08-07T21:09:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 8,
+    "quotes": 3,
+    "likes": 23,
+    "bookmarks": 4,
+    "views": 4738
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2085835471603593216",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPJgT2jXcAAMvRG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPJgT2jXcAAMvRG.jpg",
+     "width": 1536,
+     "height": 1024,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080414372149473383",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080414372149473383",
+   "url": "https://x.com/IndeMedAction/status/2080414372149473383",
+   "conversationId": "2080414372149473383",
+   "text": "IndeMed's response:\nhttps://indemed.org/957-2/ https://x.com/IndeMedAction/status/2080414372149473383/photo/1",
+   "lang": "en",
+   "createdAt": "2026-07-23T22:06:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 981
+   },
+   "replyTo": null,
+   "quotedTweetId": "2080290399256543631",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2080414189491798016",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN8drs5XQAAZbli.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN8drs5XQAAZbli.jpg",
+     "width": 1536,
+     "height": 1024,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2080414243271122944",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN8du1PWoAAeRsF.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN8du1PWoAAeRsF.jpg",
+     "width": 1672,
+     "height": 941,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/957-2/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080380796632715295",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080380796632715295",
+   "url": "https://x.com/IndeMedAction/status/2080380796632715295",
+   "conversationId": "2080380770489622705",
+   "text": "Practical steps that would strengthen the program and that both sides should be able to support:\n\n• Automatic penalties for unpaid awards (Murphy NSA Enforcement Act)\n• Independent validation of QPA data\n• Clearer cooling-off rules so claims are not stranded for a year\n• Lower administrative fees for small practices\n• Consistent use of RARC codes so ineligible claims are identified and removed earlier\n\nEveryone benefits when ineligible claims are filtered out before they consume arbitrator time and resources. Better RARC utilization is one of the clearest operational improvements available.\n\n✅These changes protect patients, improve compliance, and preserve access for independent physicians. The data is public. Independent physicians will keep pressing for the process to work as Congress designed it.\n\n10/10",
+   "lang": "en",
+   "createdAt": "2026-07-23T19:53:28.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 212
+   },
+   "replyTo": {
+    "tweetId": "2080380792975376814",
+    "userId": "1985442413989806087",
+    "username": "IndeMedAction"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2080380618106351616",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN7_JlvWMAA-tJe.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN7_JlvWMAA-tJe.jpg",
+     "width": 1672,
+     "height": 941,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2080380757676068866",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN7_RtrXEAIU_FR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN7_RtrXEAIU_FR.jpg",
+     "width": 3375,
+     "height": 3375,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080380778672783405",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080380778672783405",
+   "url": "https://x.com/IndeMedAction/status/2080380778672783405",
+   "conversationId": "2080380770489622705",
+   "text": "Look at the offers that are actually being submitted.\n\nFrom 2023 Q1 through 2025 Q2, plans put in offers of $1 or less on 278,807 line items. Most of those were $0. They lost 83% of those cases.\n\nIn Q2 2025 alone, payers filed no offer at all and lost by default 352,327 times — more than a quarter of all payer losses that quarter.\n\n✅ That pattern is non-participation, not gaming.\n\n4/10",
+   "lang": "en",
+   "createdAt": "2026-07-23T19:53:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 482
+   },
+   "replyTo": {
+    "tweetId": "2080380775682146450",
+    "userId": "1985442413989806087",
+    "username": "IndeMedAction"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2080379430644367361",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN7-EeGWQAEKJs8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN7-EeGWQAEKJs8.jpg",
+     "width": 1672,
+     "height": 941,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080380775682146450",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080380775682146450",
+   "url": "https://x.com/IndeMedAction/status/2080380775682146450",
+   "conversationId": "2080380770489622705",
+   "text": "“Doctors win 85% of IDR cases” is often presented as proof the system is tilted toward physicians.\n\n✅ A more straightforward reading is that insurers are frequently underpaying and independent arbitrators keep finding the same thing.\n\nJudge Thomas Thrash (N.D. Georgia) recently called the pattern of insurer $0 and $1 offers the “more plausible” explanation for provider wins, not a coordinated conspiracy. \n\nThere is no public evidence that 14 separate arbitration entities are systematically biased.\n\n3/10",
+   "lang": "en",
+   "createdAt": "2026-07-23T19:53:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 453
+   },
+   "replyTo": {
+    "tweetId": "2080380773580808597",
+    "userId": "1985442413989806087",
+    "username": "IndeMedAction"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2080378994092810240",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN79rD0WIAAtKzx.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN79rD0WIAAtKzx.jpg",
+     "width": 1536,
+     "height": 1024,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080380773580808597",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080380773580808597",
+   "url": "https://x.com/IndeMedAction/status/2080380773580808597",
+   "conversationId": "2080380770489622705",
+   "text": "The $14.9 billion figure needs context.\n\nU.S. healthcare spending is ~$4.9 trillion. $14.9B paid out to physicians and providers is roughly 0.3%. \n\n‼️CMS itself flagged nine ER payments over $200 million each that may be data errors. Those nine alone could account for up to $1.8 billion of the total. How many other errors are in the file?\n\n✅IDR awards represent about 0.026% of commercial claims. This looks more like a safety valve than a flood.\n2/10",
+   "lang": "en",
+   "createdAt": "2026-07-23T19:53:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 521
+   },
+   "replyTo": {
+    "tweetId": "2080380770489622705",
+    "userId": "1985442413989806087",
+    "username": "IndeMedAction"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080380770489622705",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080380770489622705",
+   "url": "https://x.com/IndeMedAction/status/2080380770489622705",
+   "conversationId": "2080380770489622705",
+   "text": "The health plans have been pushing a narrative about the No Surprises Act IDR process as one in which physicians are “gaming” the system. \n\n🔎The federal data tells a different story.\n\nBoth sides have an interest in a cleaner process. \n\n✅Quick thread with the numbers and the practical steps that actually strengthen the program.\n1/10",
+   "lang": "en",
+   "createdAt": "2026-07-23T19:53:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 7,
+    "quotes": 9,
+    "likes": 21,
+    "bookmarks": 14,
+    "views": 53098
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2080377505777680384",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN78UbaXgAAgY7r.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN78UbaXgAAgY7r.png",
+     "width": 1800,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080275601634541754",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080275601634541754",
+   "url": "https://x.com/IndeMedAction/status/2080275601634541754",
+   "conversationId": "2080275601634541754",
+   "text": "Decades of Medicare policy have favored the hospital setting, driving consolidation and steadily shrinking private practice across the country. Fewer independent practices mean fewer choices for patients and a less resilient healthcare system.\n\nThat's why IndeMed welcomes CMS's interest in a modifier to track physician employment in the CY 2027 PFS Proposed Rule — and why we're urging the agency to reject a revived provision that would cut physician payments by 50% for same-day services within the same group. It was rejected in 2019. It should be defeated for good now.\n\nIndeMed's full statement:\nhttps://indemed.org/press-release/indemed-applauds-cmss-interest-in-a-modifier-to-track-physician-employment/",
+   "lang": "en",
+   "createdAt": "2026-07-23T12:55:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 1,
+    "likes": 16,
+    "bookmarks": 0,
+    "views": 1540
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2080275367000948737",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN6fbK0WQAEag7l.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN6fbK0WQAEag7l.jpg",
+     "width": 3277,
+     "height": 4096,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2080275366992654336",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HN6fbKyXsAA9ERp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HN6fbKyXsAA9ERp.jpg",
+     "width": 4096,
+     "height": 3715,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/press-release/indemed-applauds-cmss-interest-in-a-modifier-to-track-physician-employment/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2079255820383260808",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2079255820383260808",
+   "url": "https://x.com/IndeMedAction/status/2079255820383260808",
+   "conversationId": "2079255820383260808",
+   "text": "When insurers offer $1 and lose in IDR, that's not proof of provider misuse — it's proof of lowballing.\n\nA federal judge just said the quiet part out loud. On July 10, Judge Thomas Thrash dismissed an Elevance subsidiary's lawsuit attacking the No Surprises Act's independent dispute resolution process — and dismantled the insurer narrative in the process:\n\n\"It is highly improbable to infer from these facts that there is a vast conspiracy of providers and IDREs that have conspired to defraud the Plaintiff of millions of dollars in thousands of NSA IDR proceedings over many years,\" Judge Thrash wrote in his ruling. \"It is highly plausible to infer that the Plaintiff engages in a consistent practice of submitting lowball offers to out-of-network providers in an effort to maximize its profits.\"\n\nThe CMS data backs him up. Insurer offers of $1 or less nearly quintupled from 2.5% in early 2023 to 12.25% in Q2 2025 — while provider offers over $100K were outnumbered 112:1 by insurer lowball offers.\n\nHigh provider win rates aren't evidence of gaming the system. They're evidence of lowballing exposed.\n\nMore from IndeMed:\nhttps://indemed.org/wp-content/uploads/2026/07/Elevance-IDR-Study-A-Data-Driven-Rebuttal-1.pdf",
+   "lang": "en",
+   "createdAt": "2026-07-20T17:23:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 352
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2079255665965477888",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNsAAwcXMAAOkpO.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNsAAwcXMAAOkpO.jpg",
+     "width": 3165,
+     "height": 4096,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2079255665961324544",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNsAAwbX0AAnPkR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNsAAwbX0AAnPkR.jpg",
+     "width": 3165,
+     "height": 4096,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/wp-content/uploads/2026/07/Elevance-IDR-Study-A-Data-Driven-Rebuttal-1.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2065609276987494787",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2065609276987494787",
+   "url": "https://x.com/IndeMedAction/status/2065609276987494787",
+   "conversationId": "2065609276987494787",
+   "text": "IndeMed Chairman @DrBruggeman takes a look at the NSA's final rule with @BeckersASC:\n\n\"Adam Bruggeman, MD, CEO of Texas Spine Center (San Antonio): The requirement is the right policy direction. Independent physicians would rather resolve payment disputes through honest negotiation than spend months in arbitration. The question is whether good faith will have enforceable content or function as a procedural formality.\n\n\"The good-faith and open negotiation provisions in the new rule take effect 90 days after the Departments issue implementing guidance, with the rule itself, effective Aug. 3. Getting that guidance right is the immediate priority, and that work needs to involve practicing physicians, not only payer representatives. The longer-term priority is passing the No Surprises Enforcement Act, HR 4710 and S 2420, as part of a year-end package. Without a legislative enforcement backstop, parties that choose to delay rather than negotiate in good faith will face no meaningful consequence for doing so.\"\n\nMore:\nhttps://www.beckersasc.com/asc-coding-billing-and-collections/the-no-surprises-acts-game-of-hot-potato/",
+   "lang": "en",
+   "createdAt": "2026-06-13T01:36:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 318
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2065609173383929856",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HKqEmWBWYAAIzxt.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HKqEmWBWYAAIzxt.jpg",
+     "width": 1934,
+     "height": 636,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     },
+     {
+      "id": "40337215",
+      "username": "BeckersASC",
+      "name": "ASC Review"
+     }
+    ],
+    "urls": [
+     "https://www.beckersasc.com/asc-coding-billing-and-collections/the-no-surprises-acts-game-of-hot-potato/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2060441195638055027",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2060441195638055027",
+   "url": "https://x.com/IndeMedAction/status/2060441195638055027",
+   "conversationId": "2060441195638055027",
+   "text": "New IDR rule strengthens one of healthcare's most important patient protections, the No Surprises Act.\n\n“We appreciate the Administration’s efforts to improve the dispute resolution process, and now Congress has an opportunity to build on that progress. The No Surprises Enforcement Act would provide important accountability measures to ensure physicians are paid promptly after disputes are resolved. IndeMed stands ready to partner with Congress and the Administration to help deliver a system that works fairly and efficiently for physicians and patients alike.” - @DrBruggeman",
+   "lang": "en",
+   "createdAt": "2026-05-29T19:20:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 361
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2060441109965209602",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HJgoRdgWgAIyO9I.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HJgoRdgWgAIyO9I.jpg",
+     "width": 2400,
+     "height": 2239,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2057114998153908444",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2057114998153908444",
+   "url": "https://x.com/IndeMedAction/status/2057114998153908444",
+   "conversationId": "2057114998153908444",
+   "text": "Texas physician group warns of $51M loss due to No Surprises Act https://www.beckersasc.com/asc-news/texas-physician-group-warns-of-51m-loss-due-to-no-surprises-act/",
+   "lang": "en",
+   "createdAt": "2026-05-20T15:03:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 8311
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.beckersasc.com/asc-news/texas-physician-group-warns-of-51m-loss-due-to-no-surprises-act/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055339124962312407",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2055339124962312407",
+   "url": "https://x.com/IndeMedAction/status/2055339124962312407",
+   "conversationId": "2055334227269283920",
+   "text": "@RepGregMurphy \"The No Surprises Act is a shield for patients,\" @DrBruggeman https://x.com/IndeMedAction/status/2055339124962312407/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-15T17:26:48.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 171
+   },
+   "replyTo": {
+    "tweetId": "2055336128882889110",
+    "userId": "1985442413989806087",
+    "username": "IndeMedAction"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055338948650504192",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIYH4ldWkAArHaT.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIYH4ldWkAArHaT.jpg",
+     "width": 1668,
+     "height": 948,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055334227269283920",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2055334227269283920",
+   "url": "https://x.com/IndeMedAction/status/2055334227269283920",
+   "conversationId": "2055334227269283920",
+   "text": "Thanks to @RepAaronBean and @GregMurphyMD for leading an important discussion about the No Surprises Act.\n\nThanks to IndeMed's chair, @DrBruggeman, for representing physicians and patients.\n\nYou can tune in live right now:\nhttps://www.youtube.com/watch?v=za7ILZoSrMo https://x.com/IndeMedAction/status/2055334227269283920/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-15T17:07:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 5,
+    "quotes": 2,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 1039
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055334151008538625",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIYDhU2X0AEYmQ0.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIYDhU2X0AEYmQ0.jpg",
+     "width": 1666,
+     "height": 832,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1604927550081359875",
+      "username": "RepAaronBean",
+      "name": "Aaron Bean"
+     },
+     {
+      "id": "1100072194632237056",
+      "username": "GregMurphyMD",
+      "name": "Dr. Greg Murphy"
+     },
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [
+     "https://www.youtube.com/watch?v=za7ILZoSrMo"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054248231924531484",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2054248231924531484",
+   "url": "https://x.com/IndeMedAction/status/2054248231924531484",
+   "conversationId": "2054248231924531484",
+   "text": "Iowa just put patients first.\n\nHF 2635 passed the Iowa Legislature, and it will prohibit health plans from punishing physicians who refer patients to the physicians and facilities of their choice, create certificate of need reforms and institute prior auth reforms.\n\nThanks to @IAGovernor  for her expected bill signing tomorrow. Following Indiana's SEA 189, the laboratories of democracy are open for business.\n\nMore from IndeMed:\nhttps://indemed.org/press-release/the-laboratories-of-democracy-are-open-for-business-indemed-commends-iowa-legislature-for-standing-with-patients/",
+   "lang": "en",
+   "createdAt": "2026-05-12T17:11:59.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 3,
+    "likes": 9,
+    "bookmarks": 1,
+    "views": 1110
+   },
+   "replyTo": null,
+   "quotedTweetId": "2029558855428907170",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2054247487062339585",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIInNKMW8AEjjrG.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIInNKMW8AEjjrG.jpg",
+     "width": 3750,
+     "height": 1963,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "851808935397011456",
+      "username": "IAGovernor",
+      "name": "Gov. Kim Reynolds"
+     }
+    ],
+    "urls": [
+     "https://indemed.org/press-release/the-laboratories-of-democracy-are-open-for-business-indemed-commends-iowa-legislature-for-standing-with-patients/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2052461928765927492",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2052461928765927492",
+   "url": "https://x.com/IndeMedAction/status/2052461928765927492",
+   "conversationId": "2052461928765927492",
+   "text": "\"Anthem's new policy is trying to force hospitals to solve a problem Anthem created.\"\n- Carmela Coyle, President & CEO, @CalHospitals \n\nCHA is calling out a policy that penalizes hospitals 10% when patients receive care from out-of-network physicians - physicians who, in many cases, are out-of-network because Anthem chose not to contract with them.\n\nThis is exactly the kind of insurer overreach independent physicians have been calling out for years.",
+   "lang": "en",
+   "createdAt": "2026-05-07T18:53:51.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 540
+   },
+   "replyTo": null,
+   "quotedTweetId": "2052153857950794041",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2052461916669255683",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HHvPPSIWoAM7Nt_.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HHvPPSIWoAM7Nt_.jpg",
+     "width": 3375,
+     "height": 3375,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1621324951",
+      "username": "CalHospitals",
+      "name": "California Hospital Association"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2049276902225936452",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2049276902225936452",
+   "url": "https://x.com/IndeMedAction/status/2049276902225936452",
+   "conversationId": "2049276902225936452",
+   "text": "This is an interesting question that @TomOliverson and @DrDiGiorgio may bring up in @RepJamesFrank's hearing in the #txlege on Thursday.",
+   "lang": "en",
+   "createdAt": "2026-04-28T23:57:41.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 1325
+   },
+   "replyTo": null,
+   "quotedTweetId": "2049167488588341485",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "txlege"
+    ],
+    "mentions": [
+     {
+      "id": "3060663253",
+      "username": "TomOliverson",
+      "name": "Tom Oliverson, M.D."
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "1112289313",
+      "username": "RepJamesFrank",
+      "name": "James Frank"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2049124763197444463",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2049124763197444463",
+   "url": "https://x.com/IndeMedAction/status/2049124763197444463",
+   "conversationId": "2049124763197444463",
+   "text": "Insurers often point out that physicians and providers prevail in most IDR cases. What this actually reflects is straightforward: when a neutral arbitrator reviews the evidence, the insurer’s offer frequently does not meet the standard.\n\nIf insurers want different outcomes, the solution is equally clear - submit offers that more accurately reflect the true cost of care.\n\nThrough the No Surprises Act, Congress - on a rare bipartisan basis - established the IDR process to both protect patients and create a fair, structured mechanism for resolving payment disputes. It is neutral, independent, and grounded in law.",
+   "lang": "en",
+   "createdAt": "2026-04-28T13:53:09.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 2,
+    "views": 179
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2049124612760596480",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HG_z-oQa8AAZBlq.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HG_z-oQa8AAZBlq.jpg",
+     "width": 3375,
+     "height": 3375,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2047807622787498170",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2047807622787498170",
+   "url": "https://x.com/IndeMedAction/status/2047807622787498170",
+   "conversationId": "2047807622787498170",
+   "text": "IndeMed backs CMS move to open TEAM to physician-led hospitals. Innovation requires independent physicians.\n\n“Independent physicians are the most innovative actors in healthcare, and TEAM’s success can be expanded by giving independent physicians the infrastructure to lead it,” said @DrBruggeman,  chairman of IndeMed.\n\nMore:\nhttps://indemed.org/press-release/indemed-backs-cms-move-to-open-team-model-to-physician-led-hospitals-innovation-requires-independent-physicians/",
+   "lang": "en",
+   "createdAt": "2026-04-24T22:39:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 6,
+    "bookmarks": 1,
+    "views": 3425
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2047807227160121344",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HGtF0sdbUAABrmp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HGtF0sdbUAABrmp.jpg",
+     "width": 3375,
+     "height": 3375,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [
+     "https://indemed.org/press-release/indemed-backs-cms-move-to-open-team-model-to-physician-led-hospitals-innovation-requires-independent-physicians/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2031741574833385784",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2031741574833385784",
+   "url": "https://x.com/IndeMedAction/status/2031741574833385784",
+   "conversationId": "2031741573063438736",
+   "text": "\"What Congress designed as a neutral arbitration system is now being challenged by Big Insurance through coordinated litigation designed to narrow, intimidate, and ultimately reshape the law.\" - @wendellpotter",
+   "lang": "en",
+   "createdAt": "2026-03-11T14:38:34.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 48
+   },
+   "replyTo": {
+    "tweetId": "2031741573063438736",
+    "userId": "1985442413989806087",
+    "username": "IndeMedAction"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16950628",
+      "username": "wendellpotter",
+      "name": "Wendell Potter"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2031741573063438736",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2031741573063438736",
+   "url": "https://x.com/IndeMedAction/status/2031741573063438736",
+   "conversationId": "2031741573063438736",
+   "text": "How Insurers Are Using the Courts to Rewrite the No Surprises Act, by @wendellpotter https://open.substack.com/pub/healthcareuncovered/p/how-insurers-are-using-the-courts?utm_campaign=post-expanded-share&utm_medium=web",
+   "lang": "en",
+   "createdAt": "2026-03-11T14:38:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 80
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16950628",
+      "username": "wendellpotter",
+      "name": "Wendell Potter"
+     }
+    ],
+    "urls": [
+     "https://open.substack.com/pub/healthcareuncovered/p/how-insurers-are-using-the-courts?utm_campaign=post-expanded-share&utm_medium=web"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2029558855428907170",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2029558855428907170",
+   "url": "https://x.com/IndeMedAction/status/2029558855428907170",
+   "conversationId": "2029558855428907170",
+   "text": "The states are leading.\n\nState legislatures are the laboratories of democracy, and Indiana is showing the rest of the country what's possible when lawmakers put patients first.\n\n✅Indiana just became the first state in the nation to pass bipartisan legislation protecting patients from insurer penalties when their care involves an out-of-network provider.\n\nSenate Enrolled Act 189, authored by @ScottABaldwin, prohibits insurance companies from financially penalizing hospitals and facilities in these situations - keeping the focus where it belongs: on timely, medically necessary care.\n\n⁉️Who's next? Indiana just handed every other state legislature a blueprint.\n\n🔎 Read more: https://wimsradio.com/2026/03/03/indiana-first-in-nation-to-block-insurer-penalties-that-threaten-patient-access/",
+   "lang": "en",
+   "createdAt": "2026-03-05T14:05:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 25,
+    "quotes": 2,
+    "likes": 72,
+    "bookmarks": 5,
+    "views": 60573
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2029558849334902784",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCpxBTlbgAAbRL8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCpxBTlbgAAbRL8.jpg",
+     "width": 1200,
+     "height": 779,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "61041060",
+      "username": "ScottABaldwin",
+      "name": "Scott A. Baldwin"
+     }
+    ],
+    "urls": [
+     "https://wimsradio.com/2026/03/03/indiana-first-in-nation-to-block-insurer-penalties-that-threaten-patient-access/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2025983198908289099",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2025983198908289099",
+   "url": "https://x.com/IndeMedAction/status/2025983198908289099",
+   "conversationId": "2025983198908289099",
+   "text": "🚨Arizona H.B. 2211 would gut the No Surprises Act's protections by imposing arbitrary caps on physician arbitration offers — and penalize physicians who exercise their federally authorized rights.\n\nThe NSA is working: $567/yr in patient savings, 10M+ surprise bills prevented, and growing provider networks.\n\n‼️Don't let insurers rewrite a bipartisan law.\n\n🔎See IndeMed's statement from @DrBruggeman on H.B. 2211:\nhttps://indemed.org/press-release/indemed-statement-on-arizona-h-b-2211/",
+   "lang": "en",
+   "createdAt": "2026-02-23T17:16:50.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 3,
+    "likes": 10,
+    "bookmarks": 1,
+    "views": 1749
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2025979182316945409",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HB25VQxWgAEfG8j.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HB25VQxWgAEfG8j.jpg",
+     "width": 612,
+     "height": 792,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2569441044",
+      "username": "DrBruggeman",
+      "name": "Adam Bruggeman, MD"
+     }
+    ],
+    "urls": [
+     "https://indemed.org/press-release/indemed-statement-on-arizona-h-b-2211/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2004983211127124253",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2004983211127124253",
+   "url": "https://x.com/IndeMedAction/status/2004983211127124253",
+   "conversationId": "2004983211127124253",
+   "text": "5 ago today, @realDonaldTrump signed the No Surprises Act, a bipartisan solution to a real healthcare problem: surprise medical bills. It shows that bipartisan leadership can deliver meaningful patient protections. \n\nIndeMed exists to preserve this bipartisan law for patients. https://x.com/IndeMedAction/status/2004983211127124253/photo/1",
+   "lang": "en",
+   "createdAt": "2025-12-27T18:30:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 2,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 1454
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2004983121876316160",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G9MhhsgXcAAWAUZ.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G9MhhsgXcAAWAUZ.jpg",
+     "width": 1296,
+     "height": 1728,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "25073877",
+      "username": "realDonaldTrump",
+      "name": "Donald J. Trump"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2003487535075590540",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2003487535075590540",
+   "url": "https://x.com/IndeMedAction/status/2003487535075590540",
+   "conversationId": "2003487535075590540",
+   "text": "In a bipartisan show of support, physicians in Congress from both parties urge federal action on Anthem’s new policy, warning it distorts federal law and jeopardizes patients’ access to care.\n\n🔍Read the letter:\nhttps://indemed.org/wp-content/uploads/2025/12/12.18.25-Facility-Administrative-Policy.pdf https://x.com/IndeMedAction/status/2003487535075590540/photo/1",
+   "lang": "en",
+   "createdAt": "2025-12-23T15:27:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1985442413989806087",
+    "username": "IndeMedAction",
+    "name": "IndeMed",
+    "url": "https://x.com/IndeMedAction",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1985447724850831360/qi9miOmR_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 2445
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2003487361896693760",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G83RJAXWQAAA8dg.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G83RJAXWQAAA8dg.jpg",
+     "width": 1002,
+     "height": 1268,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://indemed.org/wp-content/uploads/2025/12/12.18.25-Facility-Administrative-Policy.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

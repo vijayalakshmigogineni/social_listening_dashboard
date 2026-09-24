@@ -1,0 +1,1572 @@
+{
+ "key": "from_DrBruggeman",
+ "query": "from:DrBruggeman lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102903837707141353",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102903837707141353",
+   "url": "https://x.com/DrBruggeman/status/2102903837707141353",
+   "conversationId": "2102606258046198096",
+   "text": "@curtinity Would love to hear your thoughts",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:31:59.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 137
+   },
+   "replyTo": {
+    "tweetId": "2102901761329840558",
+    "userId": "2861069495",
+    "username": "curtinity"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2861069495",
+      "username": "curtinity",
+      "name": "Curtis"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102888970774331892",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102888970774331892",
+   "url": "https://x.com/DrBruggeman/status/2102888970774331892",
+   "conversationId": "2102888970774331892",
+   "text": "Let’s do Medicare Advantage next\n\nThe advisory body to Congress (MedPAC) produces a report multiple times a year that shows that health insurance companies steal 34x the amount you found here!\n\n(MedPAC estimates $76B in 2026)",
+   "lang": "en",
+   "createdAt": "2026-09-23T22:32:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 2,
+    "views": 1052
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102779123500302385",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102781127387660778",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102781127387660778",
+   "url": "https://x.com/DrBruggeman/status/2102781127387660778",
+   "conversationId": "2102778042422882533",
+   "text": "@DrDiGiorgio @TakeWeightOffMD Don’t stop there…. You have BUMC that owns WellSense and of course employs BU/BMC docs\n\nUMass Memorial Health has a Medicare Advantage program\n\nPlus the significant employment/consolidation throughout the state where groups might not own insurance but own everything else.",
+   "lang": "en",
+   "createdAt": "2026-09-23T15:24:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 290
+   },
+   "replyTo": {
+    "tweetId": "2102778042422882533",
+    "userId": "1101092814",
+    "username": "DrDiGiorgio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "481703086",
+      "username": "TakeWeightOffMD",
+      "name": "Dr Murphy Longevity Expert"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102606258046198096",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102606258046198096",
+   "url": "https://x.com/DrBruggeman/status/2102606258046198096",
+   "conversationId": "2102606258046198096",
+   "text": "Except doctors…. You forgot that part.",
+   "lang": "en",
+   "createdAt": "2026-09-23T03:49:31.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 21,
+    "quotes": 2,
+    "likes": 312,
+    "bookmarks": 5,
+    "views": 23750
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102563933571965315",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102464569088348262",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102464569088348262",
+   "url": "https://x.com/DrBruggeman/status/2102464569088348262",
+   "conversationId": "2102464569088348262",
+   "text": "Happy to have been at @physicianhosp Leadership Summit with incredible policy leaders like @EPotterMD @DutchRojas @DrDiGiorgio @noahkaufmanmd and so many others.  Make your way to this meeting.  It is worth your time!",
+   "lang": "en",
+   "createdAt": "2026-09-22T18:26:29.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 32,
+    "bookmarks": 1,
+    "views": 2993
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102410857334583611",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "43274920",
+      "username": "physicianhosp",
+      "name": "PHA"
+     },
+     {
+      "id": "2375674268",
+      "username": "EPotterMD",
+      "name": "Elisabeth Potter MD"
+     },
+     {
+      "id": "475043222",
+      "username": "DutchRojas",
+      "name": "Dutch Rojas"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "392805846",
+      "username": "noahkaufmanmd",
+      "name": "Noah Kaufman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102102346788680001",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102102346788680001",
+   "url": "https://x.com/DrBruggeman/status/2102102346788680001",
+   "conversationId": "2102090328362942646",
+   "text": "@asbelmontes Look forward to watching!",
+   "lang": "en",
+   "createdAt": "2026-09-21T18:27:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 22
+   },
+   "replyTo": {
+    "tweetId": "2102090328362942646",
+    "userId": "14725538",
+    "username": "asbelmontes"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "14725538",
+      "username": "asbelmontes",
+      "name": "asbelmontes"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102080637800980543",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102080637800980543",
+   "url": "https://x.com/DrBruggeman/status/2102080637800980543",
+   "conversationId": "2102080637800980543",
+   "text": "The problem:\n\n1) Hospitals (and first insurers) were allowed to massively consolidate\n\n2) Consolidation never led to the promised/projected efficiencies and lower costs. The opposite occurred\n\n3) Doctors avoided consolidation until late, leading insurers and the government to dramatically reduce payments driving them to consolidate underneath the protected insurers and hospitals \n\nThe result:\n\nCosts are up and access is dropping. Insurance is not healthcare and may not be worth more than the paper it is written on for most insured patients.",
+   "lang": "en",
+   "createdAt": "2026-09-21T17:00:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 28,
+    "quotes": 6,
+    "likes": 89,
+    "bookmarks": 16,
+    "views": 12341
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101711076651884665",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101472249744396639",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101472249744396639",
+   "url": "https://x.com/DrBruggeman/status/2101472249744396639",
+   "conversationId": "2101110882768245024",
+   "text": "@DrAlexUrology @DrDiGiorgio @RepGregMurphy @bobjherman @sarahkliff Because that’s what they do for everyone else, including hospitals",
+   "lang": "en",
+   "createdAt": "2026-09-20T00:43:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 101
+   },
+   "replyTo": {
+    "tweetId": "2101110882768245024",
+    "userId": "231948697",
+    "username": "DrAlexUrology"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "231948697",
+      "username": "DrAlexUrology",
+      "name": "Alex Shteynshlyuger MD"
+     },
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "2527835190",
+      "username": "bobjherman",
+      "name": "Bob Herman"
+     },
+     {
+      "id": "19734832",
+      "username": "sarahkliff",
+      "name": "Sarah Kliff"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100682663665209692",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100682663665209692",
+   "url": "https://x.com/DrBruggeman/status/2100682663665209692",
+   "conversationId": "2100592427341930625",
+   "text": "@LorenAdler Fully agree here. This is strange combined with the quote from Rep Murphy who said the data is helpful in making decisions. I immediately thought of this graph which already gives the same information. What am I missing?",
+   "lang": "en",
+   "createdAt": "2026-09-17T20:25:50.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 37
+   },
+   "replyTo": {
+    "tweetId": "2100592429279650038",
+    "userId": "346082172",
+    "username": "LorenAdler"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "346082172",
+      "username": "LorenAdler",
+      "name": "Loren Adler"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100267627595596150",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100267627595596150",
+   "url": "https://x.com/DrBruggeman/status/2100267627595596150",
+   "conversationId": "2100267627595596150",
+   "text": "For historical accuracy, the RUC was not the cause of the discrepancy between surgeon and primary care pay. We should not perpetuate that myth. \n\nOne man and his team attempted to get “relative” values correct. He thinks they got it about 65% right. The RUC committee has not created the problems. They have done what they were tasked to do and CMS has every right to pick any number they want. The RUC is an advisory body. \n\nAnd all of this ignores the real driver of physician burnout and shortages which is budget neutrality and a myriad of other regulatory and legislative mistakes over the last several decades. It’s not like surgeons aren’t selling their practices and consolidating. Any changes under a budget neutral system out of a fixed pie will just accelerate consolidation and actually drive up costs.",
+   "lang": "en",
+   "createdAt": "2026-09-16T16:56:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 2,
+    "quotes": 3,
+    "likes": 19,
+    "bookmarks": 1,
+    "views": 12154
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100234855590113579",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100022252934934660",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100022252934934660",
+   "url": "https://x.com/DrBruggeman/status/2100022252934934660",
+   "conversationId": "2099938137946350065",
+   "text": "@lawsonhmansell @CMSGov Yes…. If the concern is that the AMA owns the code (CPT coding) and the valuation (RUC), then why not separate them?  It eliminates the concern that most have regarding perceived conflict.  Spin the RUC off into a nonprofit like JCAHO",
+   "lang": "en",
+   "createdAt": "2026-09-16T00:41:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 28
+   },
+   "replyTo": {
+    "tweetId": "2100005553686671715",
+    "userId": "1092465422736244736",
+    "username": "lawsonhmansell"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1092465422736244736",
+      "username": "lawsonhmansell",
+      "name": "Lawson Mansell"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099989611002974245",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099989611002974245",
+   "url": "https://x.com/DrBruggeman/status/2099989611002974245",
+   "conversationId": "2099938137946350065",
+   "text": "@lawsonhmansell @CMSGov Why not just remove the RUC from AMA?",
+   "lang": "en",
+   "createdAt": "2026-09-15T22:31:53.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 224
+   },
+   "replyTo": {
+    "tweetId": "2099938137946350065",
+    "userId": "1092465422736244736",
+    "username": "lawsonhmansell"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1092465422736244736",
+      "username": "lawsonhmansell",
+      "name": "Lawson Mansell"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2099636225246204311",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2099636225246204311",
+   "url": "https://x.com/DrBruggeman/status/2099636225246204311",
+   "conversationId": "2099636225246204311",
+   "text": "While I don’t agree with every recommendation here, Lawson hits several important reforms!",
+   "lang": "en",
+   "createdAt": "2026-09-14T23:07:40.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 859
+   },
+   "replyTo": null,
+   "quotedTweetId": "2099547898438394295",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097934084949352730",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097934084949352730",
+   "url": "https://x.com/DrBruggeman/status/2097934084949352730",
+   "conversationId": "2097934084949352730",
+   "text": "I don’t know the insinuation here (are we blaming hospitals/doctors? Are we saying the system is broken? Both?)\n\nThe reality is that this construct has been around since the 1950s. \n\nInsurers designed deductibles to make sure that patients had skin in the game. The thought is that if patients don’t pay anything, patients will overutilize care. The concept was taken from other insurance products (like auto insurance)\n\nA wrinkle in the system that many don’t think about is that a third party, the physician or hospital delivering care, must stop their normal activity of delivering care to ask the patient for money. The physician or hospital didn’t design the plan, didn’t set the deductible/copay/coinsurance, and generally is an innocent bystander. But, the insurer makes the physician or hospital do their dirty work because the insurer AUTOMATICALLY removes the patient owed amount from the amount they pay a doctor. What does that mean?  That means a part of a doctor’s paycheck requires them to ask for money from the patient they are supposed to be focused on treating, introducing frustration and distrust into the physician-patient relationship.\n\nMaybe this was a sound idea when the amount patients had to pay was small, but that’s not the case anymore. 75% of Americans have an out of pocket of at least $3,000. High deductible plans are increasing every year.  Why?  Because insurers have encouraged employers to continue to increase out of pocket amounts to keep insurance premiums down. Don’t want to pay that double digit premium increase next year?  Just increase that deductible/copay/coinsurance and your premium will only go up a little bit. \n\nHere’s a little secret… the majority of patients never meet their deductible.  Why is that important?  Because that means that despite all those sky high premiums you paid, you still paid for every dollar of your own care. The average family pays (in combination with their employer) $27,000 per year but they, on average, get nothing back out of that money they spent. \n\nToday’s premiums are high, in large part, due to massive consolidation and corporate greed. Doctors got tired of telling their patients to pay them money, of tracking down prior authorizations, and all the other tricks insurers use to make sure patients pay every dollar of their care after premiums and the insurer never pays a dollar. Meanwhile both insurers and the federal government have paid doctors less to do more. Just with Medicare alone, doctors are at half of what they should be paid if they kept up with inflation since 2000. Private insurers seized on the governments reductions and similarly ratcheted down payments. Doctors have left private practice in droves into the arms of hospitals and insurers who have seen record profits as they both consolidate into national behemoths. \n\nThe system is working exactly as it was designed… to give a few large organizations substantial profit margins. When doctors try to collect those amounts, they are called greedy. When they go out of network, they are called greedy.  When they ask for increases in pay consistent with inflation, they are called greedy. Is it any wonder they now go to those same hospitals and insurers and ask for a salary with production based incentives now instead of openly asking for more pay in a public forum?\n\nLet’s write the real stories in the papers, not just surface stories about the symptoms of a sick healthcare system that has been invaded by insurers, hospitals, and government interests.",
+   "lang": "en",
+   "createdAt": "2026-09-10T06:23:58.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 14,
+    "quotes": 1,
+    "likes": 45,
+    "bookmarks": 15,
+    "views": 6850
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097797861580890516",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097801665009103215",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097801665009103215",
+   "url": "https://x.com/DrBruggeman/status/2097801665009103215",
+   "conversationId": "2097711898976203123",
+   "text": "@LorenAdler The number is anywhere from 33-50% of claims aren’t paid. I would guess that the highest dollar amounts are almost never paid",
+   "lang": "en",
+   "createdAt": "2026-09-09T21:37:46.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 155
+   },
+   "replyTo": {
+    "tweetId": "2097711898976203123",
+    "userId": "346082172",
+    "username": "LorenAdler"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "346082172",
+      "username": "LorenAdler",
+      "name": "Loren Adler"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097741413790154827",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097741413790154827",
+   "url": "https://x.com/DrBruggeman/status/2097741413790154827",
+   "conversationId": "2097741413790154827",
+   "text": "So when are we going to decide to introduce more competition and let doctors own hospitals again?",
+   "lang": "en",
+   "createdAt": "2026-09-09T17:38:21.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 10,
+    "quotes": 3,
+    "likes": 65,
+    "bookmarks": 8,
+    "views": 3469
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097696040803774816",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2097443247450640543",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2097443247450640543",
+   "url": "https://x.com/DrBruggeman/status/2097443247450640543",
+   "conversationId": "2097443247450640543",
+   "text": "You see…. This is everything wrong with public figures and public press commenting on healthcare\n\nThe NYT was unafraid to use the word doctor in the title of this article… where it mattered. Then read the article. Every reference is not Senator Marshall. It’s not Dr Marshall. It’s Mr Marshall. \n\nThe same NYT spent the last month or so blasting the No Surprises Act, which reduces the out of pocket costs for patients and protects them from surprise bills, even in emergencies like obstetrics. That’s a bill that Sen Marshall was extremely involved in and voted for. \n\nNow the NYT and apparently other public officials (or those that seek public office) want to blast doctors for trying to collect on the dollars they are rightfully owed by their patients. I guess the answer is that all physicians should just become charities. It is unethical and immoral to seek payment or sell your receivables to a collection agency to try to get paid, particularly in emergent situations where you took call and had no choice but to provide the care.\n\nI don’t know where this ends, but a policy where doctors are unethical for collecting the money they are due and owed and also unethical and “gaming the system” for using a government authorized process where a third party determines their value is leading to massive consolidation. Physicians are small business owners. They aren’t nonprofits with donations to keep them afloat. \n\nThis mentality is the one leading to our healthcare crisis. It’s driving doctors to consolidation so hospitals can become their payer and they no longer have to deal with the difficult decisions of keeping lights on or asking their patients to pay the bills for services doctors rendered. \n\nWe didn’t set the copay or deductible amounts. We didn’t set the rules that doctors now have to make those collections instead of insurers or others as the numbers continue to get bigger year over year. \n\nLet’s stop casting the stones at doctors. They aren’t the problem in this system and that’s clear to essentially everyone in health policy.",
+   "lang": "en",
+   "createdAt": "2026-09-08T21:53:33.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 15,
+    "quotes": 3,
+    "likes": 62,
+    "bookmarks": 8,
+    "views": 6970
+   },
+   "replyTo": null,
+   "quotedTweetId": "2097371157225758878",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096629671945519196",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2096629671945519196",
+   "url": "https://x.com/DrBruggeman/status/2096629671945519196",
+   "conversationId": "2096629671945519196",
+   "text": "Fully agree. Medicare is a budgetary number that is disconnected from anything that resembles value or cost. And yet insurers want us to force arbitrators to use a multiple of a fake number to determine what is fair",
+   "lang": "en",
+   "createdAt": "2026-09-06T16:00:41.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 24,
+    "bookmarks": 4,
+    "views": 1930
+   },
+   "replyTo": null,
+   "quotedTweetId": "2096597935634940103",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095882315251535932",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095882315251535932",
+   "url": "https://x.com/DrBruggeman/status/2095882315251535932",
+   "conversationId": "2095882315251535932",
+   "text": "The AMA should keep its copyright over CPT. Trying to force that copyright open now, through litigation or legislation, raises a problem more serious than disruption. \n\nCopyright is property, and forcing a private organization to surrender ownership of a copyrighted work without compensation is a real legal question, separate from the government edicts doctrine argument now being litigated in the Patient Rights Advocate lawsuit. If a court or Congress did push CPT into the public domain, the result would not be a free version of the current system continuing to run as is. It would functionally require building new coding infrastructure from the ground up, since the codes, their valuations and every licensing relationship tied to them exist inside a copyright framework that would no longer apply. \n\nThat means re-pricing every one of the more than eleven thousand CPT codes, retraining every biller and coder in the country, and rebuilding claims logic inside every electronic health record, clearinghouse and payer system that touches Medicare billing. Independent practices, which do not have in-house IT departments the way hospital systems do, would carry the heaviest share of that cost, and the outcome would be genuinely unpredictable rather than merely expensive. \n\nThe conflict that actually deserves fixing is not code ownership. It is code valuation, and it lives inside the RVS Update Committee, the RUC. The AMA currently administers the RUC directly. The AMA Board of Trustees selects the RUC chair and the AMA's own representative to the committee, even though RUC recommendations to CMS on how Medicare should value physician work determine what independent practices actually get paid. That is the real structural conflict Cassidy and Harshbarger are pointing at, and it can be fixed without touching CPT copyright at all. \n\nSpin the RUC out into its own independent nonprofit, governed separately from AMA leadership, with physician, patient and payer representation and full public disclosure of its recommendations and voting record. That removes the AMA's direct hand from the valuation process without handing valuation to a federal agency that answers to insurers and political appointees instead. \n\nSubmit a comment to CMS on the CY2027 Physician Fee Schedule RFI before September 14 supporting a structurally independent RUC while opposing any shift of CPT ownership or valuation authority to CMS itself. Ask Senator Cassidy and Representative Harshbarger to write that same distinction into any legislation they introduce. Separate the ownership question from the governance question. Fix that governance question and leave copyright alone.",
+   "lang": "en",
+   "createdAt": "2026-09-04T14:30:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 3,
+    "quotes": 5,
+    "likes": 12,
+    "bookmarks": 6,
+    "views": 2454
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095882306473140224",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRYR2nBboAA9A_K.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRYR2nBboAA9A_K.jpg",
+     "width": 1320,
+     "height": 1959,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095727283885531317",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095727283885531317",
+   "url": "https://x.com/DrBruggeman/status/2095727283885531317",
+   "conversationId": "2095727283885531317",
+   "text": "Thank you…\n\nThe IDR process was a backstop. It is utilized for 6% of all claims. That sounds like a backstop\n\nThere are bigger fish to fry. Amazing how organized everyone gets the first time doctors get a win in healthcare https://x.com/DrBruggeman/status/2095727283885531317/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-04T04:14:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 8,
+    "quotes": 1,
+    "likes": 19,
+    "bookmarks": 5,
+    "views": 1568
+   },
+   "replyTo": null,
+   "quotedTweetId": "2095695470001561749",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095727278504214528",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRWE2y1XAAAEjD-.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRWE2y1XAAAEjD-.jpg",
+     "width": 2048,
+     "height": 1390,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095627595614425390",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095627595614425390",
+   "url": "https://x.com/DrBruggeman/status/2095627595614425390",
+   "conversationId": "2095627595614425390",
+   "text": "The number of bids at or below $1 aren’t just alarming. They are accelerating. In early 2023, $1 or less bids were 2.5% of all claims. By 2025 Q2 that number was 12.5%. \n\nWhy are insurers bidding less every quarter? Why don’t they value the services physicians render?\n\nRead more detail here:\nhttp://indemed.org/whats-your-care-worth/",
+   "lang": "en",
+   "createdAt": "2026-09-03T21:38:48.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 7,
+    "quotes": 1,
+    "likes": 12,
+    "bookmarks": 1,
+    "views": 2887
+   },
+   "replyTo": null,
+   "quotedTweetId": "2095606099051221488",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://indemed.org/whats-your-care-worth/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095479101943394594",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095479101943394594",
+   "url": "https://x.com/DrBruggeman/status/2095479101943394594",
+   "conversationId": "2095479101943394594",
+   "text": "Assume for a moment that CMS eventually takes direct control of coding and valuation, either through rulemaking or future legislation. \n\nThe AMA's process is flawed and physician governed, which means physicians at least sit inside the room when codes are created and valued, even if that room is dominated by specialty societies with their own conflicts. CMS is a federal agency subject to political appointees, budget neutrality mandates, and lobbying from every stakeholder in healthcare, and health insurers spend far more on federal lobbying every year than the AMA does. Handing coding and valuation to CMS does not remove industry influence from the process. It changes whose industry influence dominates, and insurers have consistently shown they benefit most when payment rules can be rewritten administratively rather than negotiated through a physician governed body. We have already seen this pattern in the structural tilt of Medicare Advantage payment that lets insurers game risk adjustment while independent practices operate under fixed fee schedules. A federal agency that controls how procedures are coded and valued, without a physician governed check in the room, gives insurers a more direct lever to push coding toward structures that favor large health systems with the scale to absorb changes. AMA’s model should not be left untouched, but the fix has to preserve physician input in the room, not just move the room to a different building.",
+   "lang": "en",
+   "createdAt": "2026-09-03T11:48:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 6,
+    "quotes": 5,
+    "likes": 21,
+    "bookmarks": 6,
+    "views": 5903
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095479098164547584",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRSjIzBakAAxuST.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRSjIzBakAAxuST.jpg",
+     "width": 1320,
+     "height": 862,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095354975480152091",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095354975480152091",
+   "url": "https://x.com/DrBruggeman/status/2095354975480152091",
+   "conversationId": "2095354975480152091",
+   "text": "Let me understand this…. A doctor performs a life saving intubation and they don’t even deserve $1?  I mean the Starbucks employee at the lobby coffee shop got more in a tip for making a venti iced caramel macchiato, blond espresso, oat milk, three pumps vanilla, two pumps caramel with vanilla sweet cream cold foam.",
+   "lang": "en",
+   "createdAt": "2026-09-03T03:35:30.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 29,
+    "bookmarks": 3,
+    "views": 2289
+   },
+   "replyTo": null,
+   "quotedTweetId": "2094860757565649321",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095353832674844904",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095353832674844904",
+   "url": "https://x.com/DrBruggeman/status/2095353832674844904",
+   "conversationId": "2095353832674844904",
+   "text": "It just amazes me how little insurers are willing to pay for life saving care. How are they providing value?  By literally not paying for life saving care?",
+   "lang": "en",
+   "createdAt": "2026-09-03T03:30:58.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 548
+   },
+   "replyTo": null,
+   "quotedTweetId": "2095225739129901072",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095209422570045845",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2095209422570045845",
+   "url": "https://x.com/DrBruggeman/status/2095209422570045845",
+   "conversationId": "2095209422570045845",
+   "text": "Secretary Kennedy's video framed this as an administration taking direct action against the AMA. What actually happened is more limited. On July 16, 2026, CMS included a request for information inside the draft CY2027 Medicare Physician Fee Schedule, not a final rule and not a coding takeover, asking the public to weigh in on what it called harms or challenges associated with AMA's monopoly over CPT-4 licenses. The RFI cites a 2007 MedPAC report and a 2025 National Academies of Sciences, Engineering and Medicine report on alternatives to relying on AMA processes for valuing primary care services. It also raises a structural claim, describing the historic reliance on CPT and the RVS Update Committee, the AMA organized panel that recommends how Medicare values physician work, as a potential contributor to a sick care system with limited emphasis on prevention. Comments on this RFI are due September 14, 2026. No bill has been introduced in Congress to restructure who controls CPT. Representative Diana Harshbarger and Senator Cassidy have both said publicly they want competition and accountability brought to the coding system, but neither has filed legislation naming CMS as the new administrator. \n\nIt is worth putting the dollar figures in context. The United States spends roughly 4.9 trillion dollars a year on healthcare according to CMS National Health Expenditure data. Three hundred million dollars, the figure most commonly cited for AMA's annual CPT related royalty revenue, is close to what the country spends on healthcare in total every thirty minutes, or roughly eighty eight cents per American per year. The scale of the AMA royalties is smaller than the rhetoric around it suggests. The more consequential question is who ends up holding the pen on coding and valuation once this process runs its course.",
+   "lang": "en",
+   "createdAt": "2026-09-02T17:57:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 4,
+    "views": 638
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2095209418417995777",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HROt3XrbgAEboK9.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HROt3XrbgAEboK9.jpg",
+     "width": 1320,
+     "height": 865,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094948921558589693",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094948921558589693",
+   "url": "https://x.com/DrBruggeman/status/2094948921558589693",
+   "conversationId": "2094948921558589693",
+   "text": "Well said. Take the time to read",
+   "lang": "en",
+   "createdAt": "2026-09-02T00:41:59.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 908
+   },
+   "replyTo": null,
+   "quotedTweetId": "2094848722639470873",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094839031817228774",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094839031817228774",
+   "url": "https://x.com/DrBruggeman/status/2094839031817228774",
+   "conversationId": "2094839031817228774",
+   "text": "Insurers have shined the light on doctors who they feel bid extravagant amounts for their services.  When the arbitrators agree with that claim, they cry foul.\n\nI love that IndeMed is now highlighting some of the absurd values insurers have placed on lifesaving care.  Critical newborn care…. That’s worth $0?  Well it is according to an insurer.",
+   "lang": "en",
+   "createdAt": "2026-09-01T17:25:20.000Z",
+   "type": "quote",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 8,
+    "bookmarks": 1,
+    "views": 1499
+   },
+   "replyTo": null,
+   "quotedTweetId": "2094461233659367628",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094836249122976186",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094836249122976186",
+   "url": "https://x.com/DrBruggeman/status/2094836249122976186",
+   "conversationId": "2094557178070011929",
+   "text": "In no specific order:\n\n1) Prior Authorization\n2) Budget Neutrality for physicians\n3) Ban on Physician Owned Hospitals\n4) Site Neutrality (or lack thereof)\n5) 340B\n6) PBM\n7) Massive consolidation (due to some of the above)\n8) Nonprofit status for hospitals\n\nThat’s a good start and I’m sure I’m missing some items!",
+   "lang": "en",
+   "createdAt": "2026-09-01T17:14:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 134
+   },
+   "replyTo": {
+    "tweetId": "2094768230925533473",
+    "userId": "462289331",
+    "username": "DavidIAuerbach"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094823915269005385",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094823915269005385",
+   "url": "https://x.com/DrBruggeman/status/2094823915269005385",
+   "conversationId": "2094823915269005385",
+   "text": "The American Medical Association created the Current Procedural Terminology code set in 1966 to standardize how physicians described medical, surgical and diagnostic services. It did not become mandatory infrastructure through a free market. Congress and federal regulation made it mandatory. Under 45 CFR 162.1002, HIPAA transaction standards require physician and non-hospital services to be coded using CPT and HCPCS, a rule unchanged since 1996. That is the root of the current fight. The AMA holds copyright over a code set that federal law requires every physician, hospital, insurer and health IT vendor in the country to use, and it charges for that access. Licensing runs $82.50 annually plus an $18.50 per user royalty under one common model, with a physical codebook priced at $137.89. Senator Bill Cassidy, chairman of the Senate HELP Committee, documented in an October 2025 letter to AMA President Bobby Mukkamala that AMA royalty revenue from CPT licensing grew from $65.8 million in 2011 to $284.8 million in 2023, a fourfold increase in a decade. Total AMA revenue reached $513.2 million in 2024. Cassidy called this an abuse of a government backed monopoly.\n\nThis scrutiny is not happening in a vacuum. Over the past year the AMA has moved from cautious diplomacy toward open confrontation with HHS. In June 2026 AMA delegates elected Sandra Fryhofer as president-elect over Michael Suk, a former board chair who had prioritized Medicare fee advocacy and pragmatic engagement with Secretary Kennedy. Fryhofer, the AMA's longtime liaison to the federal vaccine advisory committee, has called Kennedy the anti-vax HHS secretary and said physicians and patients can no longer trust the CDC under his leadership, pledging to call out the administration on vaccine policy, Medicaid cuts and physician payment once she takes office in June 2027. Her win over a more conciliatory rival was widely read inside organized medicine as AMA members choosing confrontation over pocketbook diplomacy. None of that makes Cassidy's numbers or the CMS RFI illegitimate, since the monopoly concerns are documented on their own terms. But escalating conflict between AMA leadership and HHS, culminating in the election of one of Kennedy's most outspoken physician critics to lead the organization next year, is presumably part of why the administration is moving on CPT now.\n\nPatient Rights Advocate has also sued the AMA, arguing under the government edicts doctrine from the Supreme Court's 2020 decision in Georgia v. http://Public.Resource.Org that a required code set cannot be copyrighted and sold, a serious legal theory, not a fringe one. Every organization named here has its own financial interest in how this resolves. But the revenue figures are documented, the political conflict is real, and the legal challenge is genuine. Tomorrow we look at what CMS actually proposed, because it differs somewhat from what Secretary Kennedy's video suggested.",
+   "lang": "en",
+   "createdAt": "2026-09-01T16:25:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 8,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 8,
+    "views": 721
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2094823909178621952",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRJPPx2WQAAspwp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRJPPx2WQAAspwp.jpg",
+     "width": 2048,
+     "height": 1360,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://public.resource.org/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2094384217077449056",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2094384217077449056",
+   "url": "https://x.com/DrBruggeman/status/2094384217077449056",
+   "conversationId": "2094384217077449056",
+   "text": "A few days ago HHS Secretary Robert F. Kennedy Jr. released a video accusing the American Medical Association of running a government backed monopoly over the codes that determine how every medical bill in this country gets written. He is right that the AMA's conflicts of interest are real and documented. The fix isn’t putting that same power in the hands of the Centers for Medicare and Medicaid Services. \n\nThis week I want to walk through what actually happened, what CMS actually proposed, what is fair criticism of the AMA and what is not, and why independent physicians should be watching this fight closely no matter how they feel about their own medical society. The AMA's Current Procedural Terminology code set is the language every practice uses to get paid, and whoever controls that language controls how medicine gets valued. \n\nKennedy is asking a fair question about who should hold that power. Tuesday through Thursday we will dig into the history of the CPT monopoly, what CMS actually put on the table in the CY2027 Physician Fee Schedule proposed rule, and why handing coding and valuation to CMS trades one conflicted gatekeeper potentially for one that answers more directly to the insurers who already benefit most from squeezing independent practices. Friday we will lay out what physicians can do about it.",
+   "lang": "en",
+   "createdAt": "2026-08-31T11:18:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 18,
+    "quotes": 5,
+    "likes": 54,
+    "bookmarks": 19,
+    "views": 4872
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2094384213260689408",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRC_WG6W4AAWubu.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRC_WG6W4AAWubu.jpg",
+     "width": 1320,
+     "height": 848,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

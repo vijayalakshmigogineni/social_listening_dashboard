@@ -1,0 +1,1448 @@
+{
+ "key": "from_DrAmyPsyD",
+ "query": "from:DrAmyPsyD lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100723093895323979",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2100723093895323979",
+   "url": "https://x.com/DrAmyPsyD/status/2100723093895323979",
+   "conversationId": "2100723093895323979",
+   "text": "New telehealth blog! https://resiliencymentalhealth.com/2026/09/17/a-telehealth-rant-just-because-its-outside-your-skill-set-doesnt-mean-it-is-impossible/",
+   "lang": "en",
+   "createdAt": "2026-09-17T23:06:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 448
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/09/17/a-telehealth-rant-just-because-its-outside-your-skill-set-doesnt-mean-it-is-impossible/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2095498775930241369",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2095498775930241369",
+   "url": "https://x.com/DrAmyPsyD/status/2095498775930241369",
+   "conversationId": "2095498775930241369",
+   "text": "New blog! https://resiliencymentalhealth.com/2026/09/03/misconceptions-about-esas/",
+   "lang": "en",
+   "createdAt": "2026-09-03T13:06:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 341
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/09/03/misconceptions-about-esas/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092634702813257849",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2092634702813257849",
+   "url": "https://x.com/DrAmyPsyD/status/2092634702813257849",
+   "conversationId": "2092634702813257849",
+   "text": "In honor of Dolly Parton giving hundreds of millions of books to children, @A_Owltistic and I have made Slipper’s ebook available for free: https://resiliencymentalhealth.com/2026/08/26/slipper-the-penguin-free-ebook-in-honor-of-dolly-parton/",
+   "lang": "en",
+   "createdAt": "2026-08-26T15:26:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 334
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1659621002131767298",
+      "username": "A_Owltistic",
+      "name": "Actually Owltistic"
+     }
+    ],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/08/26/slipper-the-penguin-free-ebook-in-honor-of-dolly-parton/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089031092179448305",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2089031092179448305",
+   "url": "https://x.com/DrAmyPsyD/status/2089031092179448305",
+   "conversationId": "2089031092179448305",
+   "text": "Happy Sunday ✨ https://x.com/DrAmyPsyD/status/2089031092179448305/photo/1",
+   "lang": "en",
+   "createdAt": "2026-08-16T16:46:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 481
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2089031089482522624",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HP26tS1aYAAeySc.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HP26tS1aYAAeySc.jpg",
+     "width": 1080,
+     "height": 1350,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2084664208755405271",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2084664208755405271",
+   "url": "https://x.com/DrAmyPsyD/status/2084664208755405271",
+   "conversationId": "2084664208755405271",
+   "text": "Today’s blog is a shoutout to a local nonprofit doing good work in Sioux Falls https://resiliencymentalhealth.com/2026/08/04/feed-sioux-falls-food-pantry/",
+   "lang": "en",
+   "createdAt": "2026-08-04T15:34:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 548
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/08/04/feed-sioux-falls-food-pantry/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2082219395154088276",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2082219395154088276",
+   "url": "https://x.com/DrAmyPsyD/status/2082219395154088276",
+   "conversationId": "2082219395154088276",
+   "text": "New CE course is up! https://resiliencymentalhealth.com/2026/07/28/continuing-education-course-differential-diagnoses-adhd-and-autism/",
+   "lang": "en",
+   "createdAt": "2026-07-28T21:39:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 644
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/07/28/continuing-education-course-differential-diagnoses-adhd-and-autism/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2080282325825310800",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2080282325825310800",
+   "url": "https://x.com/DrAmyPsyD/status/2080282325825310800",
+   "conversationId": "2080282325825310800",
+   "text": "Come learn from me on August 7! https://resiliencymentalhealth.com/2026/07/23/neurodiversity-university-clinical-implications-of-late-identified-neurodivergence-strategies-for-identity-integration-and-therapeutic-support/",
+   "lang": "en",
+   "createdAt": "2026-07-23T13:22:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 355
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/07/23/neurodiversity-university-clinical-implications-of-late-identified-neurodivergence-strategies-for-identity-integration-and-therapeutic-support/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2078655648263282913",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2078655648263282913",
+   "url": "https://x.com/DrAmyPsyD/status/2078655648263282913",
+   "conversationId": "2078655648263282913",
+   "text": "Btw if you're a #PsyPact provider and you need your telehealth CEs, I made a home study course using material from my most recent telehealth book so that you can get continuing education credit for reading it http://payhip.com/b/dDaPm",
+   "lang": "en",
+   "createdAt": "2026-07-19T01:38:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 298
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "PsyPact"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://payhip.com/b/dDaPm"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2077076398712213541",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2077076398712213541",
+   "url": "https://x.com/DrAmyPsyD/status/2077076398712213541",
+   "conversationId": "2077076398712213541",
+   "text": "Bad news today friends 💜\n\nhttps://resiliencymentalhealth.com/2026/07/14/its-so-hard-to-say-goodbye/",
+   "lang": "en",
+   "createdAt": "2026-07-14T17:02:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 574
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/07/14/its-so-hard-to-say-goodbye/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2074594524739809634",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2074594524739809634",
+   "url": "https://x.com/DrAmyPsyD/status/2074594524739809634",
+   "conversationId": "2074594524739809634",
+   "text": "Today’s blog post is about prolonged grief disorder https://resiliencymentalhealth.com/2026/07/07/prolonged-grief-disorder-the-ball-and-the-box-metaphor/",
+   "lang": "en",
+   "createdAt": "2026-07-07T20:40:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 320
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/07/07/prolonged-grief-disorder-the-ball-and-the-box-metaphor/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2066901014121160722",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2066901014121160722",
+   "url": "https://x.com/DrAmyPsyD/status/2066901014121160722",
+   "conversationId": "2066901014121160722",
+   "text": "Considerations for therapists when making decisions around accepting insurance: https://resiliencymentalhealth.com/2026/06/16/considerations-in-taking-insurance/",
+   "lang": "en",
+   "createdAt": "2026-06-16T15:09:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 154
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/06/16/considerations-in-taking-insurance/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2065665290625851882",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2065665290625851882",
+   "url": "https://x.com/DrAmyPsyD/status/2065665290625851882",
+   "conversationId": "2065665290625851882",
+   "text": "Diversity among human brains is NATURAL and not a problem to be eradicated ✍️",
+   "lang": "en",
+   "createdAt": "2026-06-13T05:19:18.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 198
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2063881043854385627",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2063881043854385627",
+   "url": "https://x.com/DrAmyPsyD/status/2063881043854385627",
+   "conversationId": "2063881043854385627",
+   "text": "Sometimes, two people need different things that cannot co-exist in the same space. ✍️",
+   "lang": "en",
+   "createdAt": "2026-06-08T07:09:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 194
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2062526967719608804",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2062526967719608804",
+   "url": "https://x.com/DrAmyPsyD/status/2062526967719608804",
+   "conversationId": "2062526967719608804",
+   "text": "New blog post about accommodations/support needs and the language we use: https://resiliencymentalhealth.com/2026/06/04/opposite-support-needs/",
+   "lang": "en",
+   "createdAt": "2026-06-04T13:28:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 86
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/06/04/opposite-support-needs/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061321949931053201",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2061321949931053201",
+   "url": "https://x.com/DrAmyPsyD/status/2061321949931053201",
+   "conversationId": "2060802187346010230",
+   "text": "Here’s the blog in all its entirety 🩷 \n\nhttps://resiliencymentalhealth.com/2021/10/25/thoughts-on-trauma-dumping/",
+   "lang": "en",
+   "createdAt": "2026-06-01T05:40:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 6,
+    "views": 2234
+   },
+   "replyTo": {
+    "tweetId": "2060802187346010230",
+    "userId": "1281240262291984386",
+    "username": "DrAmyPsyD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2021/10/25/thoughts-on-trauma-dumping/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061321655004315871",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2061321655004315871",
+   "url": "https://x.com/DrAmyPsyD/status/2061321655004315871",
+   "conversationId": "2060802187346010230",
+   "text": "@kkachiMOONS That’s why I wrote an entire blog all about it! It’s multi faceted. https://resiliencymentalhealth.com/2021/10/25/thoughts-on-trauma-dumping/",
+   "lang": "en",
+   "createdAt": "2026-06-01T05:39:14.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 543
+   },
+   "replyTo": {
+    "tweetId": "2061100611572023676",
+    "userId": "1371570372680814595",
+    "username": "kkachiMOONS"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1371570372680814595",
+      "username": "kkachiMOONS",
+      "name": "⊹moons ˖ ࣪ ִ𖤐"
+     }
+    ],
+    "urls": [
+     "https://resiliencymentalhealth.com/2021/10/25/thoughts-on-trauma-dumping/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2060802187346010230",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2060802187346010230",
+   "url": "https://x.com/DrAmyPsyD/status/2060802187346010230",
+   "conversationId": "2060802187346010230",
+   "text": "Someone who “trauma dumps” is not a bad person.",
+   "lang": "en",
+   "createdAt": "2026-05-30T19:15:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 28,
+    "quotes": 38,
+    "likes": 429,
+    "bookmarks": 31,
+    "views": 819288
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2057864704819868133",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2057864704819868133",
+   "url": "https://x.com/DrAmyPsyD/status/2057864704819868133",
+   "conversationId": "2057864704819868133",
+   "text": "It is okay to say that something sucks. It is possible to name problems without letting them fester, and in fact naming the problem is an important component of preventing them from becoming more intense. \n\nYou have the right to shut down toxic positivity. 🫶",
+   "lang": "en",
+   "createdAt": "2026-05-22T16:42:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 407
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054764583123103960",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2054764583123103960",
+   "url": "https://x.com/DrAmyPsyD/status/2054764583123103960",
+   "conversationId": "2054764583123103960",
+   "text": "Everyone deserves to be authentically themselves 💚",
+   "lang": "en",
+   "createdAt": "2026-05-14T03:23:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 146
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2054188002121761083",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2054188002121761083",
+   "url": "https://x.com/DrAmyPsyD/status/2054188002121761083",
+   "conversationId": "2054188002121761083",
+   "text": "New blog post! https://resiliencymentalhealth.com/2026/05/12/what-exactly-is-stimming/",
+   "lang": "en",
+   "createdAt": "2026-05-12T13:12:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 143
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/05/12/what-exactly-is-stimming/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2051180098213253223",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2051180098213253223",
+   "url": "https://x.com/DrAmyPsyD/status/2051180098213253223",
+   "conversationId": "2051180098213253223",
+   "text": "Gentle reminders to carry you into a new week 🤍 #mentalhealth https://x.com/DrAmyPsyD/status/2051180098213253223/photo/1",
+   "lang": "en",
+   "createdAt": "2026-05-04T06:00:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 157
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2051180094694338563",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HHdBbbKbsAMKyuP.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HHdBbbKbsAMKyuP.jpg",
+     "width": 1440,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "mentalhealth"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2050082901010887080",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2050082901010887080",
+   "url": "https://x.com/DrAmyPsyD/status/2050082901010887080",
+   "conversationId": "2050082901010887080",
+   "text": "You’re worthy in every season 🤍",
+   "lang": "en",
+   "createdAt": "2026-05-01T05:20:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 119
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2048472158888955975",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2048472158888955975",
+   "url": "https://x.com/DrAmyPsyD/status/2048472158888955975",
+   "conversationId": "2048472158888955975",
+   "text": "Re-conceptualizing mental health as something that everyone seeks out and actively works on throughout their life, would be a huge step toward eliminating stigma. 🫶",
+   "lang": "en",
+   "createdAt": "2026-04-26T18:39:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 213
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2046078347596505190",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2046078347596505190",
+   "url": "https://x.com/DrAmyPsyD/status/2046078347596505190",
+   "conversationId": "2046078347596505190",
+   "text": "You should always remember that in the battle against stress, you are not isolated 🩷",
+   "lang": "en",
+   "createdAt": "2026-04-20T04:07:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 179
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2043162008644948028",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2043162008644948028",
+   "url": "https://x.com/DrAmyPsyD/status/2043162008644948028",
+   "conversationId": "2043162008644948028",
+   "text": "🎉 NEW Free Video: 👉 Neurodivergent Clients in Therapy\n\nNeurodivergent clients may work hard to be the \"easy\" client, hiding confusion, distress &amp; sensory overwhelm just to maintain acceptance.\n\nLearn how to create a safe environment for clients to be their authentic selves ⬇️ https://x.com/DrAmyPsyD/status/2043162008644948028/photo/1",
+   "lang": "en",
+   "createdAt": "2026-04-12T02:59:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 1,
+    "views": 212
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2043162005968961536",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HFrFBPBawAA4SGe.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HFrFBPBawAA4SGe.jpg",
+     "width": 1080,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2041750772329959437",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2041750772329959437",
+   "url": "https://x.com/DrAmyPsyD/status/2041750772329959437",
+   "conversationId": "2041750772329959437",
+   "text": "You can always try again, there’s always an opportunity to learn and grow 🌱 #mentalhealthsupport",
+   "lang": "en",
+   "createdAt": "2026-04-08T05:31:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 144
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "mentalhealthsupport"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2041513580776849420",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2041513580776849420",
+   "url": "https://x.com/DrAmyPsyD/status/2041513580776849420",
+   "conversationId": "2041513580776849420",
+   "text": "I am taking feedback on blog topics! https://resiliencymentalhealth.com/2026/04/07/what-do-you-want-to-hear-about/",
+   "lang": "en",
+   "createdAt": "2026-04-07T13:49:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 80
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://resiliencymentalhealth.com/2026/04/07/what-do-you-want-to-hear-about/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2039567124281307140",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2039567124281307140",
+   "url": "https://x.com/DrAmyPsyD/status/2039567124281307140",
+   "conversationId": "2039567124281307140",
+   "text": "Teens might not feel comfortable or do not have the words to put to what they are feeling ✍️\n\nTherapy can help bridge the gap 🤍",
+   "lang": "en",
+   "createdAt": "2026-04-02T04:54:30.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 147
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2038371046945071303",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2038371046945071303",
+   "url": "https://x.com/DrAmyPsyD/status/2038371046945071303",
+   "conversationId": "2038371046945071303",
+   "text": "There is nothing wrong or shameful about getting help or support🫶",
+   "lang": "en",
+   "createdAt": "2026-03-29T21:41:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 258
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2037406819489038609",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2037406819489038609",
+   "url": "https://x.com/DrAmyPsyD/status/2037406819489038609",
+   "conversationId": "2037406819489038609",
+   "text": "5 therapist tips to support neurodivergent clients 🫶\n\nhttps://m.youtube.com/watch?v=jgy5D0Nj_OE&fbclid=IwVERDUAQy-ddleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xNzM4NDc2NDI2NzAzNzAAAR7TRW1ZRC6eXC_dI5al3iq1lh9wxT03gv9I7oodNtMeiwoqXJ7L_sMDgTJ6nQ_aem_CjMEqjfwu99N0ze_A19O1A",
+   "lang": "en",
+   "createdAt": "2026-03-27T05:50:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 225
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://m.youtube.com/watch?v=jgy5D0Nj_OE&fbclid=IwVERDUAQy-ddleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xNzM4NDc2NDI2NzAzNzAAAR7TRW1ZRC6eXC_dI5al3iq1lh9wxT03gv9I7oodNtMeiwoqXJ7L_sMDgTJ6nQ_aem_CjMEqjfwu99N0ze_A19O1A"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

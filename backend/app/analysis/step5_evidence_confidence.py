@@ -1,9 +1,11 @@
 """
-Step 5 -- Evidence + confidence.
+Evidence + confidence -- Step 4 of the semantic architecture (module name and
+Step5Evidence schema kept for compatibility with stored rows and the trace).
 
 Question: "What evidence supports the classification, and how confident are
-we?" This step never re-classifies text -- it only aggregates what Steps
-1-4 already produced.
+we?" This step never re-classifies text -- it validates and aggregates what
+Step 1, the semantic Step 2 (projected onto step2/step4 shapes) and Step 3
+already produced. No LLM is called here.
 
 evidence_quote must be an exact, verbatim passage from the normalized text.
 confidence is an overall figure combining whichever component confidences
@@ -16,6 +18,7 @@ human-labelled data.
 from __future__ import annotations
 
 from app.analysis.step2_problem_evidence import extract_evidence_candidate
+from app.analysis.step2_semantic import verbatim_span
 from app.schemas.analysis import (
     Step1Relevance,
     Step2ProblemEvidence,
@@ -34,7 +37,10 @@ def build_evidence(
     step3: Step3Taxonomy,
     step4: Step4Context,
 ) -> Step5Evidence:
-    evidence_quote = step2.evidence_candidate or extract_evidence_candidate(text, [])
+    # Step 2 already restricts the quote to the current post; this re-check
+    # guarantees the persisted quote is verbatim record text whatever
+    # produced it.
+    evidence_quote = verbatim_span(step2.evidence_candidate, text) or extract_evidence_candidate(text, [])
     if not evidence_quote:
         evidence_quote = (text or "")[:300]
 

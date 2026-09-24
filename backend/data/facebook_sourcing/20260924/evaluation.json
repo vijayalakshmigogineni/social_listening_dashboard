@@ -1,0 +1,390 @@
+{
+ "rubric": [
+  "payer behavior/change",
+  "denial/reimbursement problem or emerging pattern",
+  "procedure/device trend",
+  "CMS/payer policy or coverage change",
+  "operational pain point / RCM opportunity",
+  "provider/practice market or operational trend"
+ ],
+ "group_rule": ">=3 matching posts in the probed sample and matches >=~30% of substantive posts; names are never evidence",
+ "raw_files": [
+  "probes/run_wXXeWvUYf5gJv3wwz.json",
+  "probes/run_L8ekyCfP8Wn42zdwT.json"
+ ],
+ "groups": [
+  {
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "title": "PM&R and Interventional Pain Management Coding and Billing",
+   "url": "https://www.facebook.com/groups/290657479460430",
+   "found_via": "prior verified run + web search",
+   "probed_posts": 150,
+   "welcome_posts": 107,
+   "substantive_posts": 43,
+   "matches": 19,
+   "verdict": "accept",
+   "reason": "19 of 43 substantive posts (44%) are payer/denial/procedure signals from practice-side billers; the noise is auto welcome posts, not jobs or vendors"
+  },
+  {
+   "group_id": "205515509641624",
+   "title": "Medical Billing & Coding",
+   "url": "https://www.facebook.com/groups/205515509641624",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "1/15 match (Aetna denied 92507 as non-covered); rest hiring posts, links, image-only"
+  },
+  {
+   "group_id": "3026751500879145",
+   "title": "Medical billing/RCM and Coding Facebook Group",
+   "url": "https://www.facebook.com/groups/3026751500879145",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: coding-course links, India hiring posts, image-only"
+  },
+  {
+   "group_id": "508076976000846",
+   "title": "Medical Billing & Coding Services : USA",
+   "url": "https://www.facebook.com/groups/508076976000846",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: vendor ads (underpayment services), BPO spam, interview-prep PDF, image-only"
+  },
+  {
+   "group_id": "425049717601373",
+   "title": "Medical Billing & Coding Services",
+   "url": "https://www.facebook.com/groups/425049717601373",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: coding-certification course links, image-only"
+  },
+  {
+   "group_id": "506966970453053",
+   "title": "Medical Billing Work",
+   "url": "https://www.facebook.com/groups/506966970453053",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: AR-caller hiring, BPO spam, PPO lead sales"
+  },
+  {
+   "group_id": "1770711423156593",
+   "title": "MEDICAL BILLING & AR",
+   "url": "https://www.facebook.com/groups/1770711423156593",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: hiring drives, coding courses, job seekers"
+  },
+  {
+   "group_id": "694861209638046",
+   "title": "Providers looking for a medical billing company in the US",
+   "url": "https://www.facebook.com/groups/694861209638046",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: RCM vendor promotion, BPO spam"
+  },
+  {
+   "group_id": "3453935871529998",
+   "title": "Medical Director Network",
+   "url": "https://www.facebook.com/groups/3453935871529998",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: med-spa medical-director listings, telehealth ads"
+  },
+  {
+   "group_id": "496827464316905",
+   "title": "Private practice physicians",
+   "url": "https://www.facebook.com/groups/496827464316905",
+   "found_via": "group search + probe (parallel runs on this account)",
+   "probed_posts": 15,
+   "verdict": "reject",
+   "reason": "0/15: vendor/compliance ads, job board, off-topic (skincare, group invites)"
+  },
+  {
+   "group_id": "153075608691474",
+   "url": "https://www.facebook.com/groups/153075608691474",
+   "verdict": "not_probed",
+   "reason": "Candidate (web search: 'Pros and cons of outsourced billing for small specialty...'); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "2832083760354364",
+   "url": "https://www.facebook.com/groups/2832083760354364",
+   "verdict": "not_probed",
+   "reason": "Candidate (web search: 'best approach for payer contract negotiations...'); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "667837087205621",
+   "url": "https://www.facebook.com/groups/667837087205621",
+   "verdict": "not_probed",
+   "reason": "Candidate (web search: 'credentialing software recommended for physician...'); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "541137026613054",
+   "url": "https://www.facebook.com/groups/541137026613054",
+   "verdict": "not_probed",
+   "reason": "Candidate (Home Health PDGM Billing: web search + group search); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "892459929806231",
+   "url": "https://www.facebook.com/groups/892459929806231",
+   "verdict": "not_probed",
+   "reason": "Candidate (Mental Health Billing Support: group search); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "405137378221444",
+   "url": "https://www.facebook.com/groups/405137378221444",
+   "verdict": "not_probed",
+   "reason": "Candidate (Medical Practice Managers Increasing Revenue through CCM: group search); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "6335103055",
+   "url": "https://www.facebook.com/groups/6335103055",
+   "verdict": "not_probed",
+   "reason": "Candidate (DOCTORS, MEDICINE & PRACTICE MANAGEMENT: group search); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "266108444522",
+   "url": "https://www.facebook.com/groups/266108444522",
+   "verdict": "not_probed",
+   "reason": "Candidate (Washington Ambulatory Surgery Center Association: group search); Apify monthly limit exhausted before it could be probed"
+  },
+  {
+   "group_id": "4425387990835085",
+   "url": "https://www.facebook.com/groups/4425387990835085",
+   "verdict": "reject",
+   "reason": "VA disability claims (veterans), not provider RCM: prior research posts"
+  },
+  {
+   "group_id": "3805049843060582",
+   "url": "https://www.facebook.com/groups/3805049843060582",
+   "verdict": "reject",
+   "reason": "Medical Billing jobs in Pakistan: prior research posts"
+  },
+  {
+   "group_id": "431822400195488",
+   "url": "https://www.facebook.com/groups/431822400195488",
+   "verdict": "reject",
+   "reason": "vendor promo + internship seekers: prior research posts"
+  },
+  {
+   "group_id": "368427913735844",
+   "url": "https://www.facebook.com/groups/368427913735844",
+   "verdict": "reject",
+   "reason": "Entry-Level Medical Coders, career/school questions: prior research posts"
+  },
+  {
+   "group_id": "3993496944259606",
+   "url": "https://www.facebook.com/groups/3993496944259606",
+   "verdict": "reject",
+   "reason": "The Coding Corner, career questions: prior research posts"
+  },
+  {
+   "group_id": "341015404031050",
+   "url": "https://www.facebook.com/groups/341015404031050",
+   "verdict": "reject",
+   "reason": "Spinal Cord Stimulator: Ask a Patient, patient voice (excluded by decision)"
+  },
+  {
+   "group_id": "lifeafterbacksurgery",
+   "url": "https://www.facebook.com/groups/lifeafterbacksurgery",
+   "verdict": "reject",
+   "reason": "patient voice (excluded by decision)"
+  },
+  {
+   "group_id": "1409194587419208",
+   "url": "https://www.facebook.com/groups/1409194587419208",
+   "verdict": "reject",
+   "reason": "medical_claims_tasks: Arabic-language education/promo, removed"
+  },
+  {
+   "group_id": "350382725467096",
+   "url": "https://www.facebook.com/groups/350382725467096",
+   "verdict": "reject",
+   "reason": "usa_medical_billing: spam, removed"
+  },
+  {
+   "group_id": "1071047149038089",
+   "url": "https://www.facebook.com/groups/1071047149038089",
+   "verdict": "reject",
+   "reason": "nemt_claims_denials_remittances: private/empty, removed"
+  }
+ ],
+ "selected": [
+  {
+   "post_id": "1607488961110602",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_policy",
+    "operational"
+   ],
+   "evidence": "Auth specialist says procedures >30 days after last encounter get medical-necessity denials; practice booking 45-60 days out"
+  },
+  {
+   "post_id": "1595219802337518",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "denial",
+    "procedure"
+   ],
+   "evidence": "Medicare denying facet injections 64493/64494 as 'questionable service' despite dx on Medicare guidelines"
+  },
+  {
+   "post_id": "1588819176310914",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "denial",
+    "procedure"
+   ],
+   "evidence": "Medicare/Medicare Advantage denying 62330/62331 on dx M48.062 and demanding mod 52 for bilateral"
+  },
+  {
+   "post_id": "1590625826130249",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "reimbursement",
+    "payer_policy"
+   ],
+   "evidence": "99214 + G2211 billed, only G2211 paid"
+  },
+  {
+   "post_id": "1583130446879787",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "payer_policy",
+    "procedure"
+   ],
+   "evidence": "Humana Medicare prior auth via Cohere portal forces a listed code for unlisted 64999 ganglion impar block"
+  },
+  {
+   "post_id": "1572734961252669",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "denial",
+    "procedure"
+   ],
+   "evidence": "Thoracic RFA denied after Optum integrity medical-records review for 'wrong CPT' (64633/64634)"
+  },
+  {
+   "post_id": "1554278133098352",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "denial"
+   ],
+   "evidence": "Medicare MAC WPS denying ketamine infusions billed J3490"
+  },
+  {
+   "post_id": "1558963709296461",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "reimbursement"
+   ],
+   "evidence": "Devoted Health not paying office visits billed with IM injections / trigger point injections"
+  },
+  {
+   "post_id": "1548395837019915",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "denial",
+    "procedure"
+   ],
+   "evidence": "Aetna RFA denials for medical necessity, possibly tied to sedation"
+  },
+  {
+   "post_id": "1544200957439403",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "denial",
+    "emerging_pattern"
+   ],
+   "evidence": "EMGs suddenly all denying for medical necessity"
+  },
+  {
+   "post_id": "1541843994341766",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_behavior",
+    "reimbursement",
+    "procedure"
+   ],
+   "evidence": "Medicare inconsistently bundling anesthesia with RFA"
+  },
+  {
+   "post_id": "1541541657705333",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_change",
+    "operational"
+   ],
+   "evidence": "Medicare claims keep rejecting after last month's eligibility change; EHR (eCW) fixes failing"
+  },
+  {
+   "post_id": "1531960658663433",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "coverage",
+    "procedure",
+    "rcm_opportunity"
+   ],
+   "evidence": "Intrathecal pump refills with compounded meds (Anazeo) not covered; billing company can't explain"
+  },
+  {
+   "post_id": "1548281367031362",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "payer_policy",
+    "operational"
+   ],
+   "evidence": "Auth denied for the procedure actually performed; practice billed the originally authorized code"
+  },
+  {
+   "post_id": "1594120902447408",
+   "group_id": "290657479460430",
+   "group_key": "pmr_interventional_pain_billing",
+   "categories": [
+    "market_trend",
+    "operational"
+   ],
+   "evidence": "Practice moving pain procedures from ASC to an in-office procedure suite (California)"
+  }
+ ],
+ "partial_not_selected": {
+  "1559645415894957": "UDS medical-necessity responsibility debate (lab vs provider): policy-adjacent, no payer/denial event",
+  "1535368488322650": "Code choice for ganglion impar (64999/64451/64520): coding ambiguity, no payer event",
+  "1553666149826217": "T12/L1 RFA code selection: coding education question",
+  "1550014090191423": "Mod 59 on MBB + trigger points: coding education question"
+ },
+ "already_stored_pmr_substantive": {
+  "1622055466320618": "match: Iovera cryoablation, which insurers pay and under what code (new-procedure coverage)",
+  "1620918836434281": "match: qEEG reimbursement, Medicare fee schedule, recoupments/no-pays",
+  "1619623016563863": "match: 64492 denials for third-level facet (TON)",
+  "1618635949995903": "match: multiple claims denying for incorrect procedure code; appeals upheld",
+  "1618694206656744": "partial: cupping 97140 vs unlisted, new service-line coding question"
+ }
+}

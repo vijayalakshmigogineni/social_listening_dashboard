@@ -1,0 +1,2855 @@
+{
+ "key": "mac_lcd",
+ "query": "(Novitas OR Noridian OR Palmetto OR \"First Coast\" OR WPS OR CGS OR \"NGS Medicare\" OR LCD) (denial OR denials OR reimbursement OR coverage OR \"local coverage\") lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102797809145569565",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102797809145569565",
+   "url": "https://x.com/DrMikelDaniels/status/2102797809145569565",
+   "conversationId": "2102797809145569565",
+   "text": "Medicare Administrative Contractors Update Local Coverage Determinations (LCD) for Cellular Tissue Products\n\nhttps://www.cms.gov/medicare-coverage-database\nLike, share &amp; follow! #MedicalPolicy #ClinicalGuidelines https://x.com/DrMikelDaniels/status/2102797809145569565/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:30:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2034404029724504064",
+    "username": "DrMikelDaniels",
+    "name": "Mikel Daniels",
+    "url": "https://x.com/DrMikelDaniels",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2034404104836124672/XjwJTyWi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 10
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102797807149039616",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS6jdumWwAADUJ8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS6jdumWwAADUJ8.jpg",
+     "width": 1024,
+     "height": 576,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "MedicalPolicy",
+     "ClinicalGuidelines"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.cms.gov/medicare-coverage-database"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100762307831988723",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2100762307831988723",
+   "url": "https://x.com/PANKAJJHA35093/status/2100762307831988723",
+   "conversationId": "2100762307831988723",
+   "text": "@bsnl_care @CMDBSNL @MTNLOfficial @CMD_MTNL @JM_Scindia No network coverage searching for network position BSNL MTNL mobile network coverage in full area shivprerna chs Ltd yellow tower building bharni Naka Antophill Wadala east mumbai 400037 and king's circle to CGS colonysect.7",
+   "lang": "en",
+   "createdAt": "2026-09-18T01:42:19.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2042467951471636481",
+    "username": "PANKAJJHA35093",
+    "name": "PANKAJ JHA",
+    "url": "https://x.com/PANKAJJHA35093",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2042485488490303488/7U_CH0bN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 13
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1552548198425989120",
+      "username": "bsnl_care",
+      "name": "BSNLCare"
+     },
+     {
+      "id": "4074434776",
+      "username": "CMDBSNL",
+      "name": "A. Robert Jerard Ravi"
+     },
+     {
+      "id": "103915214",
+      "username": "MTNLOfficial",
+      "name": "MTNL"
+     },
+     {
+      "id": "729531912142782464",
+      "username": "CMD_MTNL",
+      "name": "CMD MTNL"
+     },
+     {
+      "id": "2892809359",
+      "username": "JM_Scindia",
+      "name": "Jyotiraditya M. Scindia"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102868122134798463",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102868122134798463",
+   "url": "https://x.com/Pathologists/status/2102868122134798463",
+   "conversationId": "2102868122134798463",
+   "text": "Bipartisan legislation to improve Medicare’s LCD process has been introduced in the Senate.\n\nSlow or unclear coverage decisions can delay patient care. The CAP supports reforms that improve transparency, accountability, and timely access to medically necessary testing.\n\nRead more: https://capatholo.gy/4d0686T",
+   "lang": "en",
+   "createdAt": "2026-09-23T21:10:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "24725678",
+    "username": "Pathologists",
+    "name": "CAPathologists",
+    "url": "https://x.com/Pathologists",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1410353812699746315/BYSQuY-z_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 461
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102868101482094592",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS7jZZZXIAAslPa.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS7jZZZXIAAslPa.jpg",
+     "width": 2160,
+     "height": 2160,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://capatholo.gy/4d0686T"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1841141547758219693",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1841141547758219693",
+   "url": "https://x.com/bsc_urology/status/1841141547758219693",
+   "conversationId": "1841141547758219693",
+   "text": "Big news! NGS (Medicare Admin. Contractor) has retired the Local Coverage Determination for Prostate Rectal Spacers, applicable to SpaceOAR™ &amp; SpaceOAR Vue™. With this change, up to 250,000 patients may now be eligible nationwide. Learn more: https://bit.ly/4gMC6n7 #ASTRO24 https://x.com/bsc_urology/status/1841141547758219693/photo/1",
+   "lang": "en",
+   "createdAt": "2024-10-01T15:42:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "123903006",
+    "username": "bsc_urology",
+    "name": "Boston Scientific Urology",
+    "url": "https://x.com/bsc_urology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1678747010076123137/EGA4WRfB_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 486
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1841141526832746499",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GY0MdsAWEAMkdxv.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GY0MdsAWEAMkdxv.jpg",
+     "width": 1080,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "ASTRO24"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/4gMC6n7"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2055044666446262745",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2055044666446262745",
+   "url": "https://x.com/PacificEdgeLtd/status/2055044666446262745",
+   "conversationId": "2055044666446262745",
+   "text": "Major Milestone!! Pacific Edge today announces that a draft Local Coverage Determination (LCD) with foundational medical policy for urine-based biomarkers for hematuria evaluation (DL40378) has been published to the Medicare Coverage Database. The draft LCD includes explicit coding guidance for both Cxbladder Triage and Triage Plus in the associated Local Coverage Article (LCA) (DA60424).\n\nLearn more: https://hubs.la/Q04gHqDf0",
+   "lang": "en",
+   "createdAt": "2026-05-14T21:56:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "168061250",
+    "username": "PacificEdgeLtd",
+    "name": "Pacific Edge",
+    "url": "https://x.com/PacificEdgeLtd",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1853220967272865792/CNcQ-L_v_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 64
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2055044664193953792",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HIT8O-bXsAATnk0.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HIT8O-bXsAATnk0.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://hubs.la/Q04gHqDf0"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1056913312225550336",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1056913312225550336",
+   "url": "https://x.com/GenomicHealth/status/1056913312225550336",
+   "conversationId": "1056913312225550336",
+   "text": "Medicare Establishes Final Local Coverage Determination (LCD) for Use of the #Oncotype DX® AR-V7 Nucleus Detect™ Test in Patients with Metastatic Castrate Resistant #ProstateCancer Effective December 10 $GHDX http://bit.ly/2yDF0r9",
+   "lang": "en",
+   "createdAt": "2018-10-29T14:19:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "71592061",
+    "username": "GenomicHealth",
+    "name": "Genomic Health®",
+    "url": "https://x.com/GenomicHealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/897967537425534977/bCL1l9Kw_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Oncotype",
+     "ProstateCancer"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/2yDF0r9"
+    ],
+    "symbols": [
+     "GHDX"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1910712055486722395",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1910712055486722395",
+   "url": "https://x.com/tenet_research/status/1910712055486722395",
+   "conversationId": "1910712055486722395",
+   "text": "🩹 $CMS Delays Coverage Policy for Skin Substitute Grafts to 2026 🏥\n \nCMS announces a delay in the implementation of its final local coverage determination ( $LCD ) for skin substitute products used to treat diabetic foot ulcers and venous leg ulcers — now effective January 1, 2026.\n\n🔍 The agency is reviewing coverage policies as part of the new administration's transition, and is seeking new peer-reviewed evidence by Nov 1, 2025.\n\n📌 Related stock to watch: $ORGO\n\n@ripster47 | @TENETTRADEGROUP | @TenetCharts",
+   "lang": "en",
+   "createdAt": "2025-04-11T15:10:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "706191666219196420",
+    "username": "tenet_research",
+    "name": "TENET RESEARCH",
+    "url": "https://x.com/tenet_research",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2045229105436585984/L1Gnnstj_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 1511
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1054561163843751936",
+      "username": "ripster47",
+      "name": "Ripster"
+     },
+     {
+      "id": "1682867677965189120",
+      "username": "TENETTRADEGROUP",
+      "name": "TENET"
+     },
+     {
+      "id": "84358275",
+      "username": "TenetCharts",
+      "name": "TENET CHARTS"
+     }
+    ],
+    "urls": [],
+    "symbols": [
+     "CMS",
+     "LCD",
+     "ORGO"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1367117841267326976",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1367117841267326976",
+   "url": "https://x.com/bionano/status/1367117841267326976",
+   "conversationId": "1367117841267326976",
+   "text": "Praxis Genomics received DEX Z-codes from Palmetto MolDX for its entire testing menu of LDTs based on #Saphyr. The Z-codes allow for a path for Medicare coverage &amp; private insurance reimbursement for OGM w/ Saphyr of patients w/ suspected genetic disease. https://bit.ly/3ehVevN https://x.com/bionanogenomics/status/1367117841267326976/photo/1",
+   "lang": "en",
+   "createdAt": "2021-03-03T14:21:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "938080704",
+    "username": "bionano",
+    "name": "Bionano",
+    "url": "https://x.com/bionano",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1617320000410484737/H8veXEXA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 47,
+    "quotes": 18,
+    "likes": 333,
+    "bookmarks": 2,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1367117838130032643",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Evj6bjPXMAM-n_V.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Evj6bjPXMAM-n_V.jpg",
+     "width": 2134,
+     "height": 1068,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Saphyr"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3ehVevN"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1279150565004644352",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1279150565004644352",
+   "url": "https://x.com/myAVLS/status/1279150565004644352",
+   "conversationId": "1279150565004644352",
+   "text": "Medicare carriers Novitas and First Coast have announced new draft Local Coverage Determinations (LCD) policies for Chronic Venous Insufficiency and for Endovenous Stenting. Learn more and view the drafts in this month's Advocacy Insider newsletter at http://myavls.org/july-advocacy.",
+   "lang": "en",
+   "createdAt": "2020-07-03T20:30:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "95978111",
+    "username": "myAVLS",
+    "name": "AVLS",
+    "url": "https://x.com/myAVLS",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1260582848790224899/V2hwwW6z_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://myavls.org/july-advocacy"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1213174338880446464",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1213174338880446464",
+   "url": "https://x.com/4Kscore/status/1213174338880446464",
+   "conversationId": "1213174338880446464",
+   "text": "Novitas Solution has issued its final Local Coverage Determination for Medicare payments for the 4Kscore® Test! We look forward to providing urologists with a test that can accurately assess a man’s risk for aggressive prostate cancer after an abnormal PSA or DRE result. https://x.com/4Kscore/status/1213174338880446464/photo/1",
+   "lang": "en",
+   "createdAt": "2020-01-03T19:04:36.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2484849188",
+    "username": "4Kscore",
+    "name": "4Kscore®",
+    "url": "https://x.com/4Kscore",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1318180484158029825/poBynHTz_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1213174334644207616",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/ENYPoTMWwAABoet.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/ENYPoTMWwAABoet.jpg",
+     "width": 1024,
+     "height": 512,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1486419923744272397",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1486419923744272397",
+   "url": "https://x.com/heatherAha/status/1486419923744272397",
+   "conversationId": "1486419923744272397",
+   "text": "No one at @Labcorp seems to know whether their Medicare ABN’s factor in the patient’s specific Local Coverage Determination (LCD) or not. This is unhelpful (and probably reduces your volume), @labcorp Who can help?\n#NEISvoid",
+   "lang": "en",
+   "createdAt": "2022-01-26T19:25:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "44411715",
+    "username": "heatherAha",
+    "name": "Heather",
+    "url": "https://x.com/heatherAha",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1057847082596347904/ua2FHMeW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "NEISvoid"
+    ],
+    "mentions": [
+     {
+      "id": "57214964",
+      "username": "Labcorp",
+      "name": "Labcorp"
+     },
+     {
+      "id": "57214964",
+      "username": "labcorp",
+      "name": "Labcorp"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2063742594161480109",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2063742594161480109",
+   "url": "https://x.com/NobleNegroe/status/2063742594161480109",
+   "conversationId": "2063742594161480109",
+   "text": "🚨 FOOD STAMPS: A Florida woman complains to First Coast News that the new state food benefit reform that removed SNAP coverage of soft drinks and some ultra-processed foods is unfair.\n\nIs this unfair?  https://x.com/MrAndyNgo/status/2063730737686163941/video/1",
+   "lang": "en",
+   "createdAt": "2026-06-07T21:59:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "975564804403482624",
+    "username": "NobleNegroe",
+    "name": "Rev. Damien Thaddeus Jones",
+    "url": "https://x.com/NobleNegroe",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2050377939900874752/DzezP9MX_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 20,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 17,
+    "bookmarks": 1,
+    "views": 1507
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2063729732672225280",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2063729732672225280/vid/avc1/720x1280/33ZsmEc3ZG6ULQIW.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2063729732672225280/img/LU1brzxTBTeYrY4e.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 33
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1650903659310379010",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1650903659310379010",
+   "url": "https://x.com/AmerAcadPainMed/status/1650903659310379010",
+   "conversationId": "1650903659310379010",
+   "text": "Our letter to the National Government &amp; Medical Policy Unit of CMS, signed with 11 other nat'l pain management &amp; interventional pain societies, voicing our disappointment in the 2023 Sacroiliac Joint Injections &amp; Procedures Local Coverage Document (LCD):\n\nhttps://painmed.org/update-on-lcd-for-sacroiliac-injections-procedures/ https://x.com/AmerAcadPainMed/status/1650903659310379010/photo/1",
+   "lang": "en",
+   "createdAt": "2023-04-25T16:44:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "226256938",
+    "username": "AmerAcadPainMed",
+    "name": "American Academy of Pain Medicine (AAPM)",
+    "url": "https://x.com/AmerAcadPainMed",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1078726495059804165/ptswyEvQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 545
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1650903655762083845",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FukwIMgXwAU3k2Q.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FukwIMgXwAU3k2Q.png",
+     "width": 600,
+     "height": 335,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://painmed.org/update-on-lcd-for-sacroiliac-injections-procedures/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1047557696591998976",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1047557696591998976",
+   "url": "https://x.com/SeemaCMS/status/1047557696591998976",
+   "conversationId": "1047557696591998976",
+   "text": "The updated Program Integrity Manual (PIM) published today aims to ensure a transparent Local Coverage Determinations (LCD) process that meets patients’ needs. #StrengtheningMedicare https://go.cms.gov/2P9JeNc",
+   "lang": "en",
+   "createdAt": "2018-10-03T18:43:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "822191111414444034",
+    "username": "SeemaCMS",
+    "name": "Administrator Seema Verma",
+    "url": "https://x.com/SeemaCMS",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/951259828617469952/sfA3q-HW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "StrengtheningMedicare"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://go.cms.gov/2P9JeNc"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1195359170914127877",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1195359170914127877",
+   "url": "https://x.com/4Kscore/status/1195359170914127877",
+   "conversationId": "1195359170914127877",
+   "text": "We’re pleased to share the news that Novitas Solutions has issued its final Local Coverage Determination for Medicare payments for the @4Kscore test with defined coverage criteria, effective December 30, 2019. Learn more in today’s announcement: http://bit.ly/2qS4wIa https://x.com/4Kscore/status/1195359170914127877/photo/1",
+   "lang": "en",
+   "createdAt": "2019-11-15T15:13:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2484849188",
+    "username": "4Kscore",
+    "name": "4Kscore®",
+    "url": "https://x.com/4Kscore",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1318180484158029825/poBynHTz_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1195359166933676032",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EJbE1DwWsAAu5gp.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EJbE1DwWsAAu5gp.jpg",
+     "width": 917,
+     "height": 458,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2484849188",
+      "username": "4Kscore",
+      "name": "4Kscore®"
+     }
+    ],
+    "urls": [
+     "http://bit.ly/2qS4wIa"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1145733999559684097",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1145733999559684097",
+   "url": "https://x.com/4Kscore/status/1145733999559684097",
+   "conversationId": "1145733999559684097",
+   "text": "We’re pleased to share that Novitas issued a proposed local coverage determination for the 4Kscore. Under the LCD, Medicare will reimburse the test for patients who meet the defined criteria. The 4Kscore is available for testing at @BioReference &amp; @GenPath https://hubs.ly/H0jzKMK0 https://x.com/4Kscore/status/1145733999559684097/photo/1",
+   "lang": "en",
+   "createdAt": "2019-07-01T16:40:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2484849188",
+    "username": "4Kscore",
+    "name": "4Kscore®",
+    "url": "https://x.com/4Kscore",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1318180484158029825/poBynHTz_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1145733990101504002",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/D-Z2_l8XUAIhYf0.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/D-Z2_l8XUAIhYf0.jpg",
+     "width": 2121,
+     "height": 1414,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3086783734",
+      "username": "BioReference",
+      "name": "BioReference Laboratories"
+     },
+     {
+      "id": "44928810",
+      "username": "GenPath",
+      "name": "GenPath Oncology"
+     }
+    ],
+    "urls": [
+     "https://hubs.ly/H0jzKMK0"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1301678212049633280",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1301678212049633280",
+   "url": "https://x.com/fireflyann/status/1301678212049633280",
+   "conversationId": "1301678212049633280",
+   "text": "\"...finalized a local coverage determination (LCD) to provide Medicare benefits for serial use of the Signatera molecular residual disease (#MRD) test in pts w/ stage II or III #colorectalcancer...\"\n\nlink to info re BESPOKE trial\n27 US locations, 1000 pts\nhttps://www.facebook.com/groups/369712783922671/permalink/500859007474714",
+   "lang": "en",
+   "createdAt": "2020-09-04T00:27:24.000Z",
+   "type": "quote",
+   "author": {
+    "id": "46803856",
+    "username": "fireflyann",
+    "name": "A.n.n.",
+    "url": "https://x.com/fireflyann",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1001990833703284737/3lwq8nyC_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1301646953193693184",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "MRD",
+     "colorectalcancer"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.facebook.com/groups/369712783922671/permalink/500859007474714"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1666474206463131649",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1666474206463131649",
+   "url": "https://x.com/Market_Pathways/status/1666474206463131649",
+   "conversationId": "1666474206463131649",
+   "text": "#Regulatory Document of the Week: Local Coverage Determination: Genetic Testing for #Oncology\n\nNovitas Solutions, Inc., First Coast Service, June 2, 2023\n\n🧵But why does this matter? ⬇️ https://x.com/Market_Pathways/status/1666474206463131649/photo/1",
+   "lang": "en",
+   "createdAt": "2023-06-07T15:56:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1112868810376110081",
+    "username": "Market_Pathways",
+    "name": "Market Pathways | MedTech Regulatory & Policy",
+    "url": "https://x.com/Market_Pathways",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1491131645524652042/pOPZggf9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 156
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1666471796172791810",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FyB_RO8WIAIz-PC.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FyB_RO8WIAIz-PC.jpg",
+     "width": 1200,
+     "height": 628,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Regulatory",
+     "Oncology"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2078136457399591230",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2078136457399591230",
+   "url": "https://x.com/NateraGenetics/status/2078136457399591230",
+   "conversationId": "2078136457399591230",
+   "text": "Great news for transplant recipients! Yesterday, we announced the impact of the final local coverage determination (LCD) by MolDx for molecular testing in organ transplantation. The LCD expands access to our Prospera™ test across critical post-transplant management settings. Specifically, stronger Medicare coverage is now in place for kidney, heart, and lung transplant recipients in the surveillance setting. This underscores the importance of early detection and routine monitoring to help prevent damage to donor organs. \n\nRead our press release for additional details: \nhttps://ow.ly/4v0h50ZoWeP",
+   "lang": "en",
+   "createdAt": "2026-07-17T15:15:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1732721911",
+    "username": "NateraGenetics",
+    "name": "Natera",
+    "url": "https://x.com/NateraGenetics",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1281452825692663809/KTeBZjOs_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 654
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2078136454740361216",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HNcGGFuWwAAHVrt.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HNcGGFuWwAAHVrt.jpg",
+     "width": 1080,
+     "height": 1350,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/4v0h50ZoWeP"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1654600697206145024",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1654600697206145024",
+   "url": "https://x.com/ASIPP/status/1654600697206145024",
+   "conversationId": "1654600697206145024",
+   "text": "Breaking! After pressure from ASIPP, FSIPP, and other state societies, First Coast and Novitas have ruled to retire the proposed LCD, Nerve Stimulators for Chronic Intractable Pain (DL39406), and related Local Coverage Article (LCA) (DA59190).\n\nFull Story: http://ow.ly/wqj950OhpAV https://x.com/ASIPP/status/1654600697206145024/photo/1",
+   "lang": "en",
+   "createdAt": "2023-05-05T21:35:21.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "78340657",
+    "username": "ASIPP",
+    "name": "ASIPP",
+    "url": "https://x.com/ASIPP",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1146511925498515457/y3eyTdCF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 201
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1654600695885037572",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FvZSkQNXgAQqUOW.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FvZSkQNXgAQqUOW.jpg",
+     "width": 1104,
+     "height": 736,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://ow.ly/wqj950OhpAV"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1824347408198758550",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1824347408198758550",
+   "url": "https://x.com/CapitalPmh/status/1824347408198758550",
+   "conversationId": "1824347408198758550",
+   "text": "#LLAI  (12.5p, Mrkcap £3.8m)\n\nGlobally lung cancer kills 1.8m people annually (135k in the US), primarily because many smokers are unfortunately diagnosed only once the disease has either spread, or become metastatic.\n\nThis is hopefully about to change.\n\nToday LungLife AI – a developer of next generation early stage lung cancer tests – said that its patented LungLB diagnostic had received Medicare coverage from 22nd Sept'24, subject to approval of a Technical Assessment (which I understand is standard practice). Here the price has been set at $2,030/unit for the risk-stratification of indeterminate lung nodules under a Local Coverage Determination (LCD). \n\nThis is an important milestone in terms of full commercialisation, since Medicare is the US government’s healthcare insurance program for the disabled and elderly (ie >65 years old) – representing 18.7% of the population, or 67.3m people.\n\nFollowing the publication of the LCD, the next step is for @LungLifeAI to submit the Technical Assessment  in order to receive payment from Medicare. Thus enabling first revenues to commence.\n\nAs a recap, LungLB has already successfully passed a pivotal 425 person, 17 site, validation study with flying colours under ‘real-world’ conditions. Indeed LungLB achieved a 81% Positive Predictive Value (PPV) in patients with smaller nodules (<15mm) vs 60% & 67% respectively for CT (re current standard of care) and PET scans. \n\nSmall nodules are the most problematic area for early detection and represent the greatest challenge for physicians. Moreover, the blood test outperformed the highly-respected Mayo Risk Model evaluation tool, with an area under the curve (AUC) of 72% compared to 62% for Mayo.\n\nCEO Paul Pagano commenting: \"Having a Local Coverage Determination for risk stratification testing of indeterminate lung nodules represents a key opportunity for our company. It enables us to progress to the next stage of commercialisation by providing a clear pathway to make our innovative LungLB test more accessible and reimbursable under Medicare. This supports our commitment to enabling 80% of lung cancer to be detected early.\"\n\nIn terms of the addressable market, its impossible to be too precise. Albeit as a rough estimate, I suspect that approx 1m (worth $2bn) of the 1.5m indeterminate nodules detected each year in the US are both small & relate to patients who would otherwise have had a tissue biopsy.\n\nLastly, I wouldn’t be too surprised either if @LungLifeAI ultimately decides to team up with a much larger medical diagnostics firm (eg Roche, Thermo Fisher, Natera, etc) in order to accelerate the commercialisation process worldwide. Which hypothetically could be anytime over the next 12 months.\n\nHouse broker @Investec have a 220p/share target price on the stock. Watch this space.",
+   "lang": "en",
+   "createdAt": "2024-08-16T07:28:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "3954306015",
+    "username": "CapitalPmh",
+    "name": "PMH Capital",
+    "url": "https://x.com/CapitalPmh",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1967952381661814784/_B6Syq7P_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 2,
+    "views": 1155
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1824342792639787008",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GVFeGqfWsAAL2f3.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GVFeGqfWsAAL2f3.jpg",
+     "width": 1073,
+     "height": 712,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "LLAI"
+    ],
+    "mentions": [
+     {
+      "id": "1131591735291723777",
+      "username": "LungLifeAI",
+      "name": "LungLife AI"
+     },
+     {
+      "id": "1131591735291723777",
+      "username": "LungLifeAI",
+      "name": "LungLife AI"
+     },
+     {
+      "id": "323092158",
+      "username": "Investec",
+      "name": "Investec"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100656762651279374",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2100656762651279374",
+   "url": "https://x.com/GraceAnna5011/status/2100656762651279374",
+   "conversationId": "2100656762651279374",
+   "text": "Growing a pain management practice doesn’t always mean growing revenue. Complex reimbursement rules, prior authorization challenges, and regional LCD requirements can create billing obstacles as patient volume increases.\n\n#PainManagement #RCM #MedicalBilling #EMRSystems",
+   "lang": "en",
+   "createdAt": "2026-09-17T18:42:55.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1993014831931416576",
+    "username": "GraceAnna5011",
+    "name": "Anna Torres",
+    "url": "https://x.com/GraceAnna5011",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1995473079011840000/IfzECMtU_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 16
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100593662589890945",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "PainManagement",
+     "RCM",
+     "MedicalBilling",
+     "EMRSystems"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1271138572045742081",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1271138572045742081",
+   "url": "https://x.com/PittPGx/status/1271138572045742081",
+   "conversationId": "1271138572045742081",
+   "text": "MolDX (Palmetto/WGS) local coverage determinations for #PGx testing released; future effective 7/26/2020. Includes actionable @cpicpgx level A/B or FDA: See https://www.cms.gov/medicare-coverage-database/details/lcd-details.aspx?LCDId=38294&ver=16&DocID=L38294&SearchType=Advanced&bc=EAAAAAgAAAAA&",
+   "lang": "en",
+   "createdAt": "2020-06-11T17:53:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "760247530290634757",
+    "username": "PittPGx",
+    "name": "Pittsburgh Pharmacogenomics",
+    "url": "https://x.com/PittPGx",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1531780339194028034/yv88ZwSu_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "PGx"
+    ],
+    "mentions": [
+     {
+      "id": "3194622114",
+      "username": "cpicpgx",
+      "name": "CPIC"
+     }
+    ],
+    "urls": [
+     "https://www.cms.gov/medicare-coverage-database/details/lcd-details.aspx?LCDId=38294&ver=16&DocID=L38294&SearchType=Advanced&bc=EAAAAAgAAAAA&"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1976051217957794301",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1976051217957794301",
+   "url": "https://x.com/crypto_biotech/status/1976051217957794301",
+   "conversationId": "1976051217957794301",
+   "text": "$LUCD What a day! I miss the 6-figure daily p/l that are back in vogue.\n\nFunny how price changes sentiment.\n\nI have trimmed other positions to add here past few weeks/days.\n\nConsidering the TAM and certainty of Medicare based on experts’ medical panel recent Local Coverage Determination (LCD) meeting discussing EsoGuard®- there is no better investment out there (my opinion). None\n\nVolume before price. It’s happening.",
+   "lang": "en",
+   "createdAt": "2025-10-08T22:24:58.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1343339871889477635",
+    "username": "crypto_biotech",
+    "name": "BioPharm_the_Magnificent",
+    "url": "https://x.com/crypto_biotech",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1540164673483546626/dOAKR0YX_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 1154
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1976051213905866752",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G2xYHAbWsAA_LxU.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G2xYHAbWsAA_LxU.jpg",
+     "width": 883,
+     "height": 537,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "LUCD"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1933218662217101501",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1933218662217101501",
+   "url": "https://x.com/crypto_biotech/status/1933218662217101501",
+   "conversationId": "1933218662217101501",
+   "text": "$LUCD Decent day today. SP doubles or triples by End Of Month as long as CEO’s prior statement is true.\n\n“In the Lucid Diagnostics Q4 2024 Earnings Call on March 24, 2025, as reported by http://Investing.com, Dr. Lishan Aklog CEO stated that the company anticipates a decision on Medicare coverage in the first half of 2025, which could significantly boost its market reach. This  CMS approval “by the end of the first half of 2025” is imminent.\n\nAdditionally, in the Q3 2024 Earnings Call on October 30, 2024, Aklog expressed optimism about CMS coverage, stating that the company is “very optimistic” and considers it “likely to be a first half event for next year” regarding the reconsideration of the Local Coverage Determination (LCD) for EsoGuard with MolDX.\n\nImminent. There are 12 trading days left in June… EOM. @LucidDiag",
+   "lang": "en",
+   "createdAt": "2025-06-12T17:43:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1343339871889477635",
+    "username": "crypto_biotech",
+    "name": "BioPharm_the_Magnificent",
+    "url": "https://x.com/crypto_biotech",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1540164673483546626/dOAKR0YX_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 2948
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1933218658546810880",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GtQsIJfXAAAp-B6.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GtQsIJfXAAAp-B6.jpg",
+     "width": 1290,
+     "height": 1224,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1128501923521241088",
+      "username": "LucidDiag",
+      "name": "Lucid Diagnostics"
+     }
+    ],
+    "urls": [
+     "http://investing.com/"
+    ],
+    "symbols": [
+     "LUCD"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1600500630933671941",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1600500630933671941",
+   "url": "https://x.com/aahomecare/status/1600500630933671941",
+   "conversationId": "1600500630933671941",
+   "text": "ICYMI, #CMS recently published their new Oxygen and Oxygen Equipment Local Coverage Determination (LCD) -- read it in full here: https://buff.ly/3EUFYlm",
+   "lang": "en",
+   "createdAt": "2022-12-07T14:41:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "16255098",
+    "username": "aahomecare",
+    "name": "AAHomecare",
+    "url": "https://x.com/aahomecare",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1798092728842047488/u-jsd-Aq_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "CMS"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://buff.ly/3EUFYlm"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1910739254461820929",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1910739254461820929",
+   "url": "https://x.com/BSEM_Tech/status/1910739254461820929",
+   "conversationId": "1910739254461820929",
+   "text": "The Medicare Local Coverage Determination (LCD) for Skin Substitutes has officially been postponed until January 1, 2026. \n📰 Read more: https://hubs.ly/Q03h0CTF0\n#WoundCare  $BSEM #LCD https://x.com/BSEM_Tech/status/1910739254461820929/photo/1",
+   "lang": "en",
+   "createdAt": "2025-04-11T16:58:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1288313361969676295",
+    "username": "BSEM_Tech",
+    "name": "BioStem Technologies",
+    "url": "https://x.com/BSEM_Tech",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1546917034570694657/IO7SBG5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 3,
+    "likes": 9,
+    "bookmarks": 1,
+    "views": 3247
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1910739251282554880",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GoRPObsXsAAhXOV.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GoRPObsXsAAhXOV.jpg",
+     "width": 2430,
+     "height": 2430,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "WoundCare",
+     "LCD"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://hubs.ly/Q03h0CTF0"
+    ],
+    "symbols": [
+     "BSEM"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1019401992022777856",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1019401992022777856",
+   "url": "https://x.com/SpecialtyDocs/status/1019401992022777856",
+   "conversationId": "1019401992022777856",
+   "text": "Q3: @NASSspine, how would the Local Coverage Determination (LCD) Clarification Act impact patients? #ASMChat",
+   "lang": "en",
+   "createdAt": "2018-07-18T02:02:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "23117477",
+    "username": "SpecialtyDocs",
+    "name": "Specialty Docs",
+    "url": "https://x.com/SpecialtyDocs",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/179162838/alliance-logo-cropped-two_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "ASMChat"
+    ],
+    "mentions": [
+     {
+      "id": "108653971",
+      "username": "NASSspine",
+      "name": "NASS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1304034398396985344",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1304034398396985344",
+   "url": "https://x.com/iMDxInc/status/1304034398396985344",
+   "conversationId": "1304034398396985344",
+   "text": "Noridian Healthcare Solutions recently issued a final local coverage determination to cover molecular diagnostic testing as predictive classifiers for non-small cell lung cancer  https://buff.ly/2BqU680 #molecular #diagnostics #predictive #NSCLC $OCX https://x.com/OncocyteCorp/status/1304034398396985344/photo/1",
+   "lang": "en",
+   "createdAt": "2020-09-10T12:30:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "808743032929460224",
+    "username": "iMDxInc",
+    "name": "iMDx Inc.",
+    "url": "https://x.com/iMDxInc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1934948793536978944/K6nN126g_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1304034396731826181",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EhjcX_AXYAUzXdJ.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EhjcX_AXYAUzXdJ.png",
+     "width": 513,
+     "height": 640,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "molecular",
+     "diagnostics",
+     "predictive",
+     "NSCLC"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://buff.ly/2BqU680"
+    ],
+    "symbols": [
+     "OCX"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1047573417724133381",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1047573417724133381",
+   "url": "https://x.com/RobertBlaser1/status/1047573417724133381",
+   "conversationId": "1047573417724133381",
+   "text": "Pretty big news, @CMSGov announces broad changes to local coverage determination (LCD) process (response to recent LCD bill passed in House?). Either way, good news, well done CMS https://tinyurl.com/ydclkkkh (1/2)",
+   "lang": "en",
+   "createdAt": "2018-10-03T19:45:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "904085281",
+    "username": "RobertBlaser1",
+    "name": "Robert Blaser @robertblaser.bsky.social",
+    "url": "https://x.com/RobertBlaser1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/3401278974/caedd34106664c3724e9268341514304_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [
+     "https://tinyurl.com/ydclkkkh"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1575698523529646080",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1575698523529646080",
+   "url": "https://x.com/andrewbadillo99/status/1575698523529646080",
+   "conversationId": "1575698523529646080",
+   "text": "One of the best interviews you'll see from #Ian coverage on the First Coast. Thankfully everyone in this neighborhood on Black Hammock Island is ok!  \n🎙@Briana_FCN @FCN2go https://x.com/andrewbadillo99/status/1575698523529646080/video/1",
+   "lang": "en",
+   "createdAt": "2022-09-30T04:06:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1714118712",
+    "username": "andrewbadillo99",
+    "name": "Andrew Badillo",
+    "url": "https://x.com/andrewbadillo99",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1617386616779055104/2NXQCRfd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 19,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1575697802256080898",
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/1575697802256080898/pu/vid/1920x1080/e90VJSWfkXeymw8e.mp4?tag=14",
+     "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1575697802256080898/pu/img/iBVydKPQkBD08vHw.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": 138
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Ian"
+    ],
+    "mentions": [
+     {
+      "id": "18736950",
+      "username": "FCN2go",
+      "name": "First Coast News"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1391850749127237646",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1391850749127237646",
+   "url": "https://x.com/Hologic/status/1391850749127237646",
+   "conversationId": "1391850749127237646",
+   "text": "Our newly acquired company, Biotheranostics has received expanded #Medicare coverage of its @BreastCancerIndex test under a new #Medicare Local Coverage Determination (LCD) effective today. This is exciting news learn more: http://ow.ly/ARiw50EJjNp https://x.com/Hologic/status/1391850749127237646/video/1",
+   "lang": "en",
+   "createdAt": "2021-05-10T20:20:52.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "30007936",
+    "username": "Hologic",
+    "name": "Hologic",
+    "url": "https://x.com/Hologic",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/656891816277446657/yFy9PX0r_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1391850681544413185",
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/1391850681544413185/pu/vid/1280x720/STzFRWCpCVLCGulN.mp4?tag=12",
+     "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1391850681544413185/pu/img/W34xIMCzFVyPAE16.jpg",
+     "width": 1280,
+     "height": 720,
+     "altText": null,
+     "durationSeconds": 16
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Medicare",
+     "Medicare"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://ow.ly/ARiw50EJjNp"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1548307070117564416",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1548307070117564416",
+   "url": "https://x.com/SCAI/status/1548307070117564416",
+   "conversationId": "1548307070117564416",
+   "text": "A Local Coverage Article was recently released by Noridian stating that providers have been inappropriately billing the mechanical arterial #thrombectomy codes for pulmonary thromboembolectomy. After advocacy from SCAI, Noridian has retired the article. ➡️ http://ow.ly/V9on50JVoU9 https://x.com/SCAI/status/1548307070117564416/photo/1",
+   "lang": "en",
+   "createdAt": "2022-07-16T14:02:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "283827278",
+    "username": "SCAI",
+    "name": "SCAI",
+    "url": "https://x.com/SCAI",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1101595431434420224/5-PATfQu_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1548307068016136193",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FXyxEzhUEAEbySg.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FXyxEzhUEAEbySg.jpg",
+     "width": 1000,
+     "height": 667,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "thrombectomy"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://ow.ly/V9on50JVoU9"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1287438641866911744",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1287438641866911744",
+   "url": "https://x.com/AbbottCardio/status/1287438641866911744",
+   "conversationId": "1287438641866911744",
+   "text": "#HeartFailure News:\n\nAs of 7/1 #CardioMEMS is covered by more Medicare administrators now that Novitas and First Coast Service Options have retired local non-coverage determinations.\n\nLearn more: https://bit.ly/2D8uBc5\n\nSafety Info: https://bit.ly/2ZZiCX6 https://x.com/AbbottCardio/status/1287438641866911744/photo/1",
+   "lang": "en",
+   "createdAt": "2020-07-26T17:24:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1329717456",
+    "username": "AbbottCardio",
+    "name": "Abbott Cardiovascular",
+    "url": "https://x.com/AbbottCardio",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2056431228723646464/B-HhCoTq_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1287438640155701248",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Ed3mn0CXsAAUOTw.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Ed3mn0CXsAAUOTw.jpg",
+     "width": 1220,
+     "height": 644,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "HeartFailure",
+     "CardioMEMS"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/2D8uBc5",
+     "https://bit.ly/2ZZiCX6"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1658203311319941120",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1658203311319941120",
+   "url": "https://x.com/Pharmdca/status/1658203311319941120",
+   "conversationId": "1658203311319941120",
+   "text": "$MDXH \n\n▪Year-over-year revenues increase by 141% to $14.7 million; excluding GPS, revenues up 39%\n▪Gross margin expanded by 1,270 basis points over prior year period\n▪Positive Local Coverage Determination (LCD), extending coverage for Select mdx test to Medicare population",
+   "lang": "en",
+   "createdAt": "2023-05-15T20:10:52.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1884013189",
+    "username": "Pharmdca",
+    "name": "Pharmdca",
+    "url": "https://x.com/Pharmdca",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 29,
+    "bookmarks": 2,
+    "views": 7778
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "MDXH"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102330465718075589",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2102330465718075589",
+   "url": "https://x.com/NimbliqueMedia/status/2102330465718075589",
+   "conversationId": "2102330465718075589",
+   "text": "CMS coverage notices ≠ the Medicare Coverage Database. Zentra captures Federal Register documents mentioning coverage — not NCD/LCD rows or coverage advice.\nhttps://apify.com/zentrafoundry/cms-coverage-decision-change-watcher\n#RegulatoryMonitoring #PublicData",
+   "lang": "en",
+   "createdAt": "2026-09-22T09:33:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2084642712582578176",
+    "username": "NimbliqueMedia",
+    "name": "NimblqueStudio",
+    "url": "https://x.com/NimbliqueMedia",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2094754236080791552/JH8I3E1q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 2
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "RegulatoryMonitoring",
+     "PublicData"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://apify.com/zentrafoundry/cms-coverage-decision-change-watcher"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101332991209357522",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2101332991209357522",
+   "url": "https://x.com/3gen_consulting/status/2101332991209357522",
+   "conversationId": "2101332991209357522",
+   "text": "Frequency limits. LCD policies. ABN requirements.\n\nThese aren’t just billing details. They shape reimbursement before a claim is submitted.\n\n3Gen helps labs and pathology groups protect revenue from the order through the claim.\n\nhttps://3genconsulting.com/lab-revenue-cycle-management/ https://x.com/3gen_consulting/status/2101332991209357522/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-19T15:30:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2712052934",
+    "username": "3gen_consulting",
+    "name": "3Gen Consulting Services",
+    "url": "https://x.com/3gen_consulting",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2006239022910431236/pDWslmXa_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 3
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100882574851833856",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSfVkiTaAAAvuDA.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSfVkiTaAAAvuDA.jpg",
+     "width": 1080,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://3genconsulting.com/lab-revenue-cycle-management/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1448368440524218370",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1448368440524218370",
+   "url": "https://x.com/RiponAdvance/status/1448368440524218370",
+   "conversationId": "1448368440524218370",
+   "text": "In continued efforts to fight America’s opioid crisis, @RepTomEmmer recently expressed concerns with a currently proposed local coverage determination (LCD) for non-opioid forms of pain management that he thinks could exacerbate the public health crisis https://bit.ly/3iVCxPE https://x.com/RiponAdvance/status/1448368440524218370/photo/1",
+   "lang": "en",
+   "createdAt": "2021-10-13T19:22:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1613575663",
+    "username": "RiponAdvance",
+    "name": "Ripon Advance",
+    "url": "https://x.com/RiponAdvance",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/651419596952465408/SC5y7Bif_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1447989049994752004",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FBhKXoOXsAQkXV5.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FBhKXoOXsAQkXV5.jpg",
+     "width": 1200,
+     "height": 675,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3iVCxPE"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:711892936972242944",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "711892936972242944",
+   "url": "https://x.com/GNWLive/status/711892936972242944",
+   "conversationId": "711892936972242944",
+   "text": "NanoString Technologies Receives Favorable Final Local Coverage Determination by Noridian Healthcare $NSTG http://bit.ly/1S0dROI",
+   "lang": "en",
+   "createdAt": "2016-03-21T12:31:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "438816954",
+    "username": "GNWLive",
+    "name": "GNWLive",
+    "url": "https://x.com/GNWLive",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/456885923221753857/TSrk7Sxb_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/1S0dROI"
+    ],
+    "symbols": [
+     "NSTG"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1648395861624487936",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1648395861624487936",
+   "url": "https://x.com/Pharmdca/status/1648395861624487936",
+   "conversationId": "1648395861624487936",
+   "text": "$PAVM $LUCD Lucid Diagnostics Reports Publication of Future Effective Foundational Local Coverage Determination by Medicare Administrative Contractor Noridian Healthcare Solutions :: Lucid Diagnostics Inc. (LUCD) https://ir.luciddx.com/news-events/press-releases/detail/95/lucid-diagnostics-reports-publication-of-future-effective",
+   "lang": "en",
+   "createdAt": "2023-04-18T18:39:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1884013189",
+    "username": "Pharmdca",
+    "name": "Pharmdca",
+    "url": "https://x.com/Pharmdca",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 33,
+    "bookmarks": 4,
+    "views": 18166
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ir.luciddx.com/news-events/press-releases/detail/95/lucid-diagnostics-reports-publication-of-future-effective"
+    ],
+    "symbols": [
+     "PAVM",
+     "LUCD"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1658203593730826241",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1658203593730826241",
+   "url": "https://x.com/Pharmdca/status/1658203593730826241",
+   "conversationId": "1658203593730826241",
+   "text": "$MDXH this should boost earnings and guidance over the ⬇️⬇️\n\n“Select mdx will now be reimbursed throughout the U.S. for Medicare patients who meet coverage conditions under the foundational Local Coverage Determination (LCD) for Molecular Biomarkers to Risk-Stratify Patients at Increased Risk for Prostate Cancer. With this coverage decision, each of the tests in our prostate cancer menu is now covered by Medicare and included in the NCCN guidelines.”",
+   "lang": "en",
+   "createdAt": "2023-05-15T20:11:59.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1884013189",
+    "username": "Pharmdca",
+    "name": "Pharmdca",
+    "url": "https://x.com/Pharmdca",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 31,
+    "bookmarks": 3,
+    "views": 8811
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "MDXH"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1904242291449143776",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1904242291449143776",
+   "url": "https://x.com/Pharmdca/status/1904242291449143776",
+   "conversationId": "1904242291449143776",
+   "text": "$LUCD Canaccord Genuity reiterated  BUY rating on Lucid Diagnostics (LUCD) shares\n\n“Importantly, the company expects MolDX should announce a draft update to the foundational local coverage determination (LCD) covering EsoGuard in 1H25, with a final updated LCD in the next several months. Overall, we view the shares as compelling as we believe Lucid will expand adoption levels over time as well as achieve coverage for the EsoGuard test under the foundational LCD.\"",
+   "lang": "en",
+   "createdAt": "2025-03-24T18:41:56.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1884013189",
+    "username": "Pharmdca",
+    "name": "Pharmdca",
+    "url": "https://x.com/Pharmdca",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1461368864525013010/Eih1ekJE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 24,
+    "bookmarks": 0,
+    "views": 6421
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "LUCD"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:955160635586895872",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "955160635586895872",
+   "url": "https://x.com/Heart_SCCT/status/955160635586895872",
+   "conversationId": "955160635586895872",
+   "text": "SCCT member volunteers have worked diligently to complete a comprehensive update to SCCTs model local coverage determination (LCD) policy. http://ow.ly/J72130hKwkw",
+   "lang": "en",
+   "createdAt": "2018-01-21T19:30:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "20791294",
+    "username": "Heart_SCCT",
+    "name": "Heart_SCCT",
+    "url": "https://x.com/Heart_SCCT",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1312138881983295488/GUEGexuo_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://ow.ly/J72130hKwkw"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1232861664443338752",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1232861664443338752",
+   "url": "https://x.com/MCG_Health/status/1232861664443338752",
+   "conversationId": "1232861664443338752",
+   "text": "[WHITE PAPER] Learn about significant changes by @CMSGov to the Local Coverage Determination (LCD) process &amp; updates to #MedicareAdvantage supplemental benefits related to #SDOH. Download the white paper: https://info.mcg.com/white-paper-medicare-compliance-how-cms-policy-changes-impact-utilization-and-case-management.html?utm_source=twitter&utm_medium=social&utm_campaign=wp-2020&utm_content=medicare-compliance-wp",
+   "lang": "en",
+   "createdAt": "2020-02-27T02:55:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "724700780406534144",
+    "username": "MCG_Health",
+    "name": "MCG",
+    "url": "https://x.com/MCG_Health",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2042763393644523520/UdJ68JzA_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "MedicareAdvantage",
+     "SDOH"
+    ],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [
+     "https://info.mcg.com/white-paper-medicare-compliance-how-cms-policy-changes-impact-utilization-and-case-management.html?utm_source=twitter&utm_medium=social&utm_campaign=wp-2020&utm_content=medicare-compliance-wp"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1669267671005687808",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1669267671005687808",
+   "url": "https://x.com/scalpcooling/status/1669267671005687808",
+   "conversationId": "1669267671005687808",
+   "text": "Paxman announces proposal for Local Coverage Determination of #scalpcooling therapy.\n\nPalmetto Medicare Administrative Contractor has issued a Proposed Local Coverage Determination to provide coverage guidance for Scalp Cooling for the Prevention of CIA: http://bit.ly/42FkzoU https://x.com/scalpcooling/status/1669267671005687808/photo/1",
+   "lang": "en",
+   "createdAt": "2023-06-15T08:56:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "809014135",
+    "username": "scalpcooling",
+    "name": "Paxman",
+    "url": "https://x.com/scalpcooling",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593267019046158338/MIrDE1-S_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 652
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1669267666937282562",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FypuGVLXgAIJwHD.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FypuGVLXgAIJwHD.jpg",
+     "width": 2048,
+     "height": 1367,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "scalpcooling"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/42FkzoU"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100593662589890945",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2100593662589890945",
+   "url": "https://x.com/mbc_services/status/2100593662589890945",
+   "conversationId": "2100593662589890945",
+   "text": "Common pattern in pain management: volume goes up, revenue stays flat.\n\nNot clinical. It's billing: multi-procedure payment cuts, rising prior auth denials, LCD rules that vary by region.\n\nGrowth exposes all three at once.\n\nFull breakdown: https://shorturl.at/WfaqZ\n\n#PainManagement https://x.com/mbc_services/status/2100593662589890945/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-17T14:32:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "317638291",
+    "username": "mbc_services",
+    "name": "Medical Billers and Coders (MBC)",
+    "url": "https://x.com/mbc_services",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1877624811645710336/7_31s4eV_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 3,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 140
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100593650778722304",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSbOy8QbUAAgJW3.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSbOy8QbUAAgJW3.jpg",
+     "width": 1148,
+     "height": 442,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PainManagement"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://shorturl.at/WfaqZ"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1860699906236698683",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1860699906236698683",
+   "url": "https://x.com/Cleerlyhealth/status/1860699906236698683",
+   "conversationId": "1860699906236698683",
+   "text": "Expanded Medicare coverage for Cleerly’s coronary plaque analysis is officially in effect for areas covered by MACs CGS, NGS, WPS, and Palmetto! Coverage for Noridian will begin on Dec. 8th.\n\nCPT® Codes 0623T, 0624T, 0625T, 0626T\n\n👉 http://lite.spr.ly/6006D99i\n\n#YesCCT #Cardiology https://x.com/Cleerlyhealth/status/1860699906236698683/photo/1",
+   "lang": "en",
+   "createdAt": "2024-11-24T15:00:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1425916009714704387",
+    "username": "Cleerlyhealth",
+    "name": "Cleerly",
+    "url": "https://x.com/Cleerlyhealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2028483922116648960/6GFDupd6_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 245
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1860699902579212288",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GdKIs_bWgAAb6sm.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GdKIs_bWgAAb6sm.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "YesCCT",
+     "Cardiology"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://lite.spr.ly/6006D99i"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1488127478619115520",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1488127478619115520",
+   "url": "https://x.com/moshepeled/status/1488127478619115520",
+   "conversationId": "1488127478619115520",
+   "text": "📰 $BWAY 📰📰\n\n📻 BrainsWay Announces Final Local Coverage Determination Issued by Regional Medicare Administrative Contractor Palmetto GBA Providing Coverage of Deep TMS™ for the Treatment of OCD 📻\nhttps",
+   "lang": "en",
+   "createdAt": "2022-01-31T12:30:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "28297882",
+    "username": "moshepeled",
+    "name": "moshe peled",
+    "url": "https://x.com/moshepeled",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1486705227134873606/djxjS6YK_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "BWAY"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1473959167731720192",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1473959167731720192",
+   "url": "https://x.com/HealthReconLK/status/1473959167731720192",
+   "conversationId": "1473959167731720192",
+   "text": "3 things you need to know right NOW if your lab is in Novitas or First Coast! \n\n- 4 factors driving reimbursement down\n- Genes you are testing covered by Medicare?\n- Do you know what that your providers may not be qualified to order PGX tests?\n\nRegister-https://bit.ly/PGXRegister https://x.com/Health_Recon/status/1473959167731720192/photo/1",
+   "lang": "en",
+   "createdAt": "2021-12-23T10:10:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1280715589644890116",
+    "username": "HealthReconLK",
+    "name": "HealthRecon Connect Sri Lanka",
+    "url": "https://x.com/HealthReconLK",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1613931972329615360/EJcOh9OS_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1473958747865190404",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FHSNq_wVkAQJHbz.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FHSNq_wVkAQJHbz.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/PGXRegister"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:895040231845638145",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "895040231845638145",
+   "url": "https://x.com/HeatherFCN/status/895040231845638145",
+   "conversationId": "895040231845638145",
+   "text": "Excited about THE PLAYERS’ date change in 2019? First Coast Sports has team coverage right now on First Coast News. #TeamSideline @FCN2go",
+   "lang": "en",
+   "createdAt": "2017-08-08T21:53:14.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "51240839",
+    "username": "HeatherFCN",
+    "name": "Heather Crawford",
+    "url": "https://x.com/HeatherFCN",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1243249686393348101/REa73DfZ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "TeamSideline"
+    ],
+    "mentions": [
+     {
+      "id": "18736950",
+      "username": "FCN2go",
+      "name": "First Coast News"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

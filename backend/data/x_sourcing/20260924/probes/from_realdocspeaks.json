@@ -1,0 +1,1704 @@
+{
+ "key": "from_realdocspeaks",
+ "query": "from:realdocspeaks lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2103031967365177728",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2103031967365177728",
+   "url": "https://x.com/realdocspeaks/status/2103031967365177728",
+   "conversationId": "2103031967365177728",
+   "text": "If your doctor says you need care and your insurance denies it, who actually reviews that decision? Between prior authorization and AI claim denials, there are a lot of steps between you and the care you need.\n\n#PatientCare #PriorAuthorization #HealthInsurance\n\nThis video is for educational purposes only and is NOT medical advice.",
+   "lang": "en",
+   "createdAt": "2026-09-24T08:01:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 125
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2103031735927656448",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2103031735927656448/vid/avc1/1080x1920/yWAgFDJjAhWxGemh.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS94aYuWoAEZOyL.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 62
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "PatientCare",
+     "PriorAuthorization",
+     "HealthInsurance"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102953906913587556",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102953906913587556",
+   "url": "https://x.com/realdocspeaks/status/2102953906913587556",
+   "conversationId": "2102953906913587556",
+   "text": "I agree that it should be uncoupled from health insurance and should have the same rules and contributions limits that IRAs have.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:50:57.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 546
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102932498670067927",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102953554805686644",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102953554805686644",
+   "url": "https://x.com/realdocspeaks/status/2102953554805686644",
+   "conversationId": "2102953554805686644",
+   "text": "I had the pleasure of having @itstiffanyryder on the RealDocSpeaks Podcast and she is a powerful and passionate speaker and subject matter expert.\n\nShe is also very authentic and enjoys life to the fullest.\n\nSo excited for this new role!",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:49:33.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 244
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102765842790236434",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1595214578857672705",
+      "username": "itstiffanyryder",
+      "name": "Tiffany Ryder"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102952546101006618",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102952546101006618",
+   "url": "https://x.com/realdocspeaks/status/2102952546101006618",
+   "conversationId": "2101139975886508489",
+   "text": "@bgurley As a physician who worked during Covid and saw people die who never should have, I want the root cause known.\n\nThank you for your work!",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:45:32.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 11
+   },
+   "replyTo": {
+    "tweetId": "2101139975886508489",
+    "userId": "5252591",
+    "username": "bgurley"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "5252591",
+      "username": "bgurley",
+      "name": "Bill Gurley"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102915220662366615",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102915220662366615",
+   "url": "https://x.com/realdocspeaks/status/2102915220662366615",
+   "conversationId": "2102908060243312886",
+   "text": "@ParkLover_JA Imaging, labs, and specialists are much cheaper when you pay cash and those with chronic diseases would benefit as well.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:17:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 9
+   },
+   "replyTo": {
+    "tweetId": "2102909480208040214",
+    "userId": "1555885843318972416",
+    "username": "ParkLover_JA"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1555885843318972416",
+      "username": "ParkLover_JA",
+      "name": "Jordan FatCat"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102908930406109438",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102908930406109438",
+   "url": "https://x.com/realdocspeaks/status/2102908930406109438",
+   "conversationId": "2102765842790236434",
+   "text": "@itstiffanyryder Congratulations on your new role at @JoinCrowdHealth !  \n\nYou will do a superb job and @andyjschoonover has a great eye for talent.",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:52:13.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 38
+   },
+   "replyTo": {
+    "tweetId": "2102765842790236434",
+    "userId": "1595214578857672705",
+    "username": "itstiffanyryder"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1595214578857672705",
+      "username": "itstiffanyryder",
+      "name": "Tiffany Ryder"
+     },
+     {
+      "id": "1380555947542773760",
+      "username": "JoinCrowdHealth",
+      "name": "CrowdHealth"
+     },
+     {
+      "id": "1098876450374074368",
+      "username": "andyjschoonover",
+      "name": "Andy Schoonover"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102908287221912044",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102908287221912044",
+   "url": "https://x.com/realdocspeaks/status/2102908287221912044",
+   "conversationId": "2102490008246690149",
+   "text": "@txsportsdoc @OckhamsRazor4 @DrCRegen @CoachSchardein Pay for routine care out of pocket and carry a catastrophic policy.",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:49:40.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 50
+   },
+   "replyTo": {
+    "tweetId": "2102880802988023822",
+    "userId": "91464818",
+    "username": "txsportsdoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     },
+     {
+      "id": "1596901402105810963",
+      "username": "OckhamsRazor4",
+      "name": "Ockham's Razor"
+     },
+     {
+      "id": "2089156618747564032",
+      "username": "DrCRegen",
+      "name": "Kendall Christensen, DO"
+     },
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102908060243312886",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102908060243312886",
+   "url": "https://x.com/realdocspeaks/status/2102908060243312886",
+   "conversationId": "2102908060243312886",
+   "text": "That is the correct question to ask!",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:48:46.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 643
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102870502373204052",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102907806382755955",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102907806382755955",
+   "url": "https://x.com/realdocspeaks/status/2102907806382755955",
+   "conversationId": "2102850853396754699",
+   "text": "@scottwdowling They really aren’t wholesalers as they don’t accept shipment from manufacturers and they don’t deliver the drugs to the pharmacy.\n\nThis makes their power over pharmacies even more agregious.",
+   "lang": "en",
+   "createdAt": "2026-09-23T23:47:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 11
+   },
+   "replyTo": {
+    "tweetId": "2102890487946289615",
+    "userId": "978718140912816129",
+    "username": "scottwdowling"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "978718140912816129",
+      "username": "scottwdowling",
+      "name": "Scott W. Dowling"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102850853396754699",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102850853396754699",
+   "url": "https://x.com/realdocspeaks/status/2102850853396754699",
+   "conversationId": "2102850853396754699",
+   "text": "What exactly does a PBM do? They don't manufacture, research, or deliver medications. They're middlemen who can influence formularies and handle rebates, making their role in the prescription drug system worth understanding.\n\n#Healthcare #MedicalCare #PatientCare #PBM #PrescriptionDrugs\n\nThis video is for educational purposes only and is NOT medical advice.",
+   "lang": "en",
+   "createdAt": "2026-09-23T20:01:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 14,
+    "bookmarks": 0,
+    "views": 455
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102850537595043840",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102850537595043840/vid/avc1/1080x1920/NaY1uRPDtYquSbYS.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS7TsJJW4AALIpq.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 53
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Healthcare",
+     "MedicalCare",
+     "PatientCare",
+     "PBM",
+     "PrescriptionDrugs"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102771892545552827",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102771892545552827",
+   "url": "https://x.com/realdocspeaks/status/2102771892545552827",
+   "conversationId": "2102490008246690149",
+   "text": "@CoachSchardein @txsportsdoc After you pay thousands in premiums and deductibles, UNH denies one in five in network claims.\n\nThat is not insurance.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:47:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 18
+   },
+   "replyTo": {
+    "tweetId": "2102769085604044942",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     },
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102771497378988072",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102771497378988072",
+   "url": "https://x.com/realdocspeaks/status/2102771497378988072",
+   "conversationId": "2102490008246690149",
+   "text": "@CoachSchardein @txsportsdoc We were told it was going to save us $2,500 a family.  It has required massive subsidies to hide the true cost.",
+   "lang": "en",
+   "createdAt": "2026-09-23T14:46:07.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 12
+   },
+   "replyTo": {
+    "tweetId": "2102769823545778529",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "391377459",
+      "username": "CoachSchardein",
+      "name": "Mike Schardein"
+     },
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102732096188096718",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102732096188096718",
+   "url": "https://x.com/realdocspeaks/status/2102732096188096718",
+   "conversationId": "2102731293406732452",
+   "text": "@HeathVeuleman @sydney_sweeney We didn't realize he was a philosopher.",
+   "lang": "en",
+   "createdAt": "2026-09-23T12:09:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 28
+   },
+   "replyTo": {
+    "tweetId": "2102731796563853715",
+    "userId": "1312884507972837377",
+    "username": "HeathVeuleman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     },
+     {
+      "id": "2225791442",
+      "username": "sydney_sweeney",
+      "name": "Sydney Sweeney"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102731910992495083",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102731910992495083",
+   "url": "https://x.com/realdocspeaks/status/2102731910992495083",
+   "conversationId": "2102490008246690149",
+   "text": "Except the government told you what was essential, and many people needed only catastrophic coverage.\n\nCoverage doesn't equal care; many on insurance can't afford the deductible and are one ER visit away from bankruptcy.  \n\nIt did cause massive consolidation and vertical integration and made the insurance company C-Suite rich.",
+   "lang": "en",
+   "createdAt": "2026-09-23T12:08:49.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 11
+   },
+   "replyTo": {
+    "tweetId": "2102704961130041397",
+    "userId": "391377459",
+    "username": "CoachSchardein"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102731388948787630",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102731388948787630",
+   "url": "https://x.com/realdocspeaks/status/2102731388948787630",
+   "conversationId": "2102488583298850990",
+   "text": "@Lisataudio Always a scam!",
+   "lang": "en",
+   "createdAt": "2026-09-23T12:06:44.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 6
+   },
+   "replyTo": {
+    "tweetId": "2102707844017524841",
+    "userId": "1433488835384643587",
+    "username": "Lisataudio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1433488835384643587",
+      "username": "Lisataudio",
+      "name": "Lisa T"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102731293406732452",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102731293406732452",
+   "url": "https://x.com/realdocspeaks/status/2102731293406732452",
+   "conversationId": "2102731293406732452",
+   "text": "George Carlin said they want us just smart enough to operate the factories!  That is a great graphic that will receive less attention than @sydney_sweeney",
+   "lang": "en",
+   "createdAt": "2026-09-23T12:06:21.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 0,
+    "views": 718
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102526174350238172",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2225791442",
+      "username": "sydney_sweeney",
+      "name": "Sydney Sweeney"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102730835124424722",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102730835124424722",
+   "url": "https://x.com/realdocspeaks/status/2102730835124424722",
+   "conversationId": "2102730835124424722",
+   "text": "@WendySchoferMD shares what parents really want for their children! Learn more in the full episode: https://youtu.be/CFPHr5BMSM8?si=oqmWcLwVGyA0LCaX @HeathVeuleman @Laffincrow @mass_marion https://x.com/realdocspeaks/status/2102730835124424722/video/1",
+   "lang": "en",
+   "createdAt": "2026-09-23T12:04:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 340
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102730409536569344",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102730409536569344/vid/avc1/3840x2160/MN_SSaCyCSE_ptDv.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102730409536569344/img/eZon6Olb3sUlO2gS.jpg",
+     "width": 3840,
+     "height": 2160,
+     "altText": null,
+     "durationSeconds": 25
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1405863090042904581",
+      "username": "WendySchoferMD",
+      "name": "Wendy Schofer, MD"
+     },
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     },
+     {
+      "id": "22772880",
+      "username": "Laffincrow",
+      "name": "Laffincrow"
+     },
+     {
+      "id": "1001769760596676609",
+      "username": "mass_marion",
+      "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits"
+     }
+    ],
+    "urls": [
+     "https://youtu.be/CFPHr5BMSM8?si=oqmWcLwVGyA0LCaX"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102540014508986767",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102540014508986767",
+   "url": "https://x.com/realdocspeaks/status/2102540014508986767",
+   "conversationId": "2102514333292884191",
+   "text": "@VitalHires So often, doctors and nurses share the same struggles in hospitals.",
+   "lang": "en",
+   "createdAt": "2026-09-22T23:26:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 20
+   },
+   "replyTo": {
+    "tweetId": "2102533986988015648",
+    "userId": "2068565766614679552",
+    "username": "VitalHires"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2068565766614679552",
+      "username": "VitalHires",
+      "name": "VitalHires"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102521005738529073",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102521005738529073",
+   "url": "https://x.com/realdocspeaks/status/2102521005738529073",
+   "conversationId": "2102374622616494141",
+   "text": "@operationdanish We have seen how the government is incapable of regulating healthcare.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:10:45.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 58
+   },
+   "replyTo": {
+    "tweetId": "2102374622616494141",
+    "userId": "2521712738",
+    "username": "operationdanish"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2521712738",
+      "username": "operationdanish",
+      "name": "Dr Danish"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102520624291705133",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102520624291705133",
+   "url": "https://x.com/realdocspeaks/status/2102520624291705133",
+   "conversationId": "2102436943984554087",
+   "text": "They should lose the AKS exemption, along with GPOs.\n\nThey should not own pharmacies.\n\nInsurance companies should not own them.\n\nThey should be limited to processing claims.\n\nThis would save patients' lives and billions each year.\n\nPBMs caused the price of Humalog to increase by 1200%, and this caused patients to ration insulin.  This led to patient deaths and is just one example that was provided in the FTC reports.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:09:14.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 50
+   },
+   "replyTo": {
+    "tweetId": "2102436943984554087",
+    "userId": "1613586957329731623",
+    "username": "BKRBusinessMin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102519622016827512",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102519622016827512",
+   "url": "https://x.com/realdocspeaks/status/2102519622016827512",
+   "conversationId": "2102514333292884191",
+   "text": "@mukundiyngr Thanks!  That was a great post, and it is criminal that oncologists have to waste time that their patients need.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:05:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 33
+   },
+   "replyTo": {
+    "tweetId": "2102518699093905408",
+    "userId": "1474944216342036487",
+    "username": "mukundiyngr"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1474944216342036487",
+      "username": "mukundiyngr",
+      "name": "Mukund Iyengar"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102519412490420385",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102519412490420385",
+   "url": "https://x.com/realdocspeaks/status/2102519412490420385",
+   "conversationId": "2102490008246690149",
+   "text": "@txsportsdoc Does anyone still think the ACA is successful?",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:04:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 203
+   },
+   "replyTo": {
+    "tweetId": "2102490008246690149",
+    "userId": "91464818",
+    "username": "txsportsdoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "91464818",
+      "username": "txsportsdoc",
+      "name": "Robert Berry, DO"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102518854576726092",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102518854576726092",
+   "url": "https://x.com/realdocspeaks/status/2102518854576726092",
+   "conversationId": "2102460710571671764",
+   "text": "@HeathVeuleman Somewhere, the ghost of Jessie Livermore is planning a major short campaign!",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:02:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 45
+   },
+   "replyTo": {
+    "tweetId": "2102460710571671764",
+    "userId": "1312884507972837377",
+    "username": "HeathVeuleman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1312884507972837377",
+      "username": "HeathVeuleman",
+      "name": "Heath Veuleman"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102518691493531829",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102518691493531829",
+   "url": "https://x.com/realdocspeaks/status/2102518691493531829",
+   "conversationId": "2102439874435641696",
+   "text": "@pgipe The only thing that would be helpful is if Congress repealed every piece of healthcare legislation since 1970.",
+   "lang": "en",
+   "createdAt": "2026-09-22T22:01:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 115
+   },
+   "replyTo": {
+    "tweetId": "2102439874435641696",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102514688776962076",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102514688776962076",
+   "url": "https://x.com/realdocspeaks/status/2102514688776962076",
+   "conversationId": "2102394511158554857",
+   "text": "@jimiuorio And they should always balance the budget!!  No deficits.",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:45:39.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 20
+   },
+   "replyTo": {
+    "tweetId": "2102394511158554857",
+    "userId": "60622883",
+    "username": "jimiuorio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "60622883",
+      "username": "jimiuorio",
+      "name": "jim iuorio"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102514333292884191",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102514333292884191",
+   "url": "https://x.com/realdocspeaks/status/2102514333292884191",
+   "conversationId": "2102514333292884191",
+   "text": "3 hours of every day wasted because of the HITECH Act!\n\nBad legislation harms patients and burns out doctors.\n\nDo better, Congress!",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:44:14.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 4,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 2,
+    "views": 1226
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102446986318217223",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102513231440847165",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102513231440847165",
+   "url": "https://x.com/realdocspeaks/status/2102513231440847165",
+   "conversationId": "2102462835926417470",
+   "text": "@DrDiGiorgio @AtlasMD @noahkaufmanmd What does a sinus infection have to do with hospitilazation?  \n\nWe need to reserve hospital services for complex episodes of care.",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:39:51.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 111
+   },
+   "replyTo": {
+    "tweetId": "2102462835926417470",
+    "userId": "1101092814",
+    "username": "DrDiGiorgio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1101092814",
+      "username": "DrDiGiorgio",
+      "name": "Anthony DiGiorgio, DO, MHA"
+     },
+     {
+      "id": "13284722",
+      "username": "AtlasMD",
+      "name": "AtlasMD"
+     },
+     {
+      "id": "392805846",
+      "username": "noahkaufmanmd",
+      "name": "Noah Kaufman, MD"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102512595416535538",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102512595416535538",
+   "url": "https://x.com/realdocspeaks/status/2102512595416535538",
+   "conversationId": "2102429861050499545",
+   "text": "@operationdanish No one in the government is up to the task of regulating or understanding AI.\n\nHowever, they are experts at regulatory capture.\n\nIf we want China to win the AI race, then regulating AI is the answer.",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:37:20.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 216
+   },
+   "replyTo": {
+    "tweetId": "2102429861050499545",
+    "userId": "2521712738",
+    "username": "operationdanish"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2521712738",
+      "username": "operationdanish",
+      "name": "Dr Danish"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102505534381502587",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102505534381502587",
+   "url": "https://x.com/realdocspeaks/status/2102505534381502587",
+   "conversationId": "2102140880564244499",
+   "text": "@Lisataudio @angrydadwi That is an example of non medical switching and there is no justification for it and it needs to end!",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:09:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 10
+   },
+   "replyTo": {
+    "tweetId": "2102486197247656220",
+    "userId": "1433488835384643587",
+    "username": "Lisataudio"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1433488835384643587",
+      "username": "Lisataudio",
+      "name": "Lisa T"
+     },
+     {
+      "id": "1754131350406225922",
+      "username": "angrydadwi",
+      "name": "Angry Dad"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102488583298850990",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102488583298850990",
+   "url": "https://x.com/realdocspeaks/status/2102488583298850990",
+   "conversationId": "2102488583298850990",
+   "text": "Your insurance card doesn't tell the whole story. The details around deductibles, coinsurance, approved care, and provider networks can have a major impact on what you actually pay when you need medical care.\n\n#Healthcare #MedicalCare #PatientCare #HealthInsurance\n\nThis video is for educational purposes only and is NOT medical advice.",
+   "lang": "en",
+   "createdAt": "2026-09-22T20:01:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1721551308329467904",
+    "username": "realdocspeaks",
+    "name": "Real Doc Speaks",
+    "url": "https://x.com/realdocspeaks",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1749444548823003136/938cMh5E_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 2,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 464
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102488142892675072",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102488142892675072/vid/avc1/1080x1920/TG7gPa5sHNmtmpgO.mp4?tag=16",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS2KNRAXkAA8c3i.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 72
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Healthcare",
+     "MedicalCare",
+     "PatientCare",
+     "HealthInsurance"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

@@ -1,0 +1,1569 @@
+{
+ "key": "from_JahangirAsgha10",
+ "query": "from:JahangirAsgha10 lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102961041353154846",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102961041353154846",
+   "url": "https://x.com/JahangirAsgha10/status/2102961041353154846",
+   "conversationId": "2102961041353154846",
+   "text": "I love listening to this stuff….\nAnd definitely agree with him about the upper cut swings being taught today",
+   "lang": "en",
+   "createdAt": "2026-09-24T03:19:18.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 190
+   },
+   "replyTo": null,
+   "quotedTweetId": "1806736684978991461",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102784424408764620",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102784424408764620",
+   "url": "https://x.com/JahangirAsgha10/status/2102784424408764620",
+   "conversationId": "2102784424408764620",
+   "text": "The amount of AI slop on social media can be insane at times…..\n\nThe problem is that something that can be said in one sentence has turned in to a long narrative and essentially loses the point that the person was trying to make",
+   "lang": "en",
+   "createdAt": "2026-09-23T15:37:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 285
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102508499842248706",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102508499842248706",
+   "url": "https://x.com/JahangirAsgha10/status/2102508499842248706",
+   "conversationId": "2102439874435641696",
+   "text": "Hahah… \nOk So when am I allowed to say it’s not working…\nThis year, next year…\n\nWhen can I point to the rapidly rising debt, the rising borrowing costs, rising oil prices, supply issues… I can go down the litany of screwups\n\nI am patient enough… when can I say this administration has failed to address\nThe core issues that impact the future of our country",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:21:03.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 18
+   },
+   "replyTo": {
+    "tweetId": "2102506654185169261",
+    "userId": "3388262727",
+    "username": "BignaultJon"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102506875371897226",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102506875371897226",
+   "url": "https://x.com/JahangirAsgha10/status/2102506875371897226",
+   "conversationId": "2102439874435641696",
+   "text": "Annual core inflation is backward-looking. Interest rates and borrowing costs are rising, and we’re still running a nearly $2 trillion deficit. This looks like a fucking sugar high. If we can’t get the budget under control in good times, what happens in a downturn?\n\nTypical Republican BS…\nTalk about making changes\nAnd then kick the can the road when  you are in the position to do so",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:14:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": {
+    "tweetId": "2102502956151025881",
+    "userId": "3388262727",
+    "username": "BignaultJon"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102505439577395546",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102505439577395546",
+   "url": "https://x.com/JahangirAsgha10/status/2102505439577395546",
+   "conversationId": "2102439874435641696",
+   "text": "I won’t get in to a foreign policy debate…\n\nBut the administrations execution of the war has been a disaster\n\nWe have no achievable goal\nWe have no exit strategy \nAnd we are in a war that we have no real coalition of support for\nWe have no plan after wards \n\nAnd if you think we have a plan \nThan you have your head too far up the administrations backside \n\nI appreciate your views on a lot of things…\nThis one we will not agree on….\n\nTrump is an idiot,  the Republican Party is the same \n\nAnd \n\nWe have a bunch of cosplaying chicken hawks running the department of defense",
+   "lang": "en",
+   "createdAt": "2026-09-22T21:08:54.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 17
+   },
+   "replyTo": {
+    "tweetId": "2102502570199535686",
+    "userId": "3388262727",
+    "username": "BignaultJon"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102499790726607350",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102499790726607350",
+   "url": "https://x.com/JahangirAsgha10/status/2102499790726607350",
+   "conversationId": "2102439874435641696",
+   "text": "He didn’t even do that right.\n\nThe Supreme Court struck down his emergency-power tariffs, and the US Government has refunded roughly $110 billion by August .\n\nThe money collected and returned, is not a fiscal gain.\n\nThrough August, net customs revenue was only about $2 billion higher than the same period last year, while federal spending rose by $147 billion.\n\nThe deficit grew by roughly $100 billion in August alone, reaching about $1.97 trillion for the fiscal year—around $380 billion more than last year. Interest accounts for roughly half the deficit, but the government was still about $900 billion short before interest. The tariffs did nothing for us fiscally…\n\nWhat it did was squeeze supply chains, raise costs, and drive inflationary pressure….\n\nThrow in an unnecessary conflict in the Middle East to put a cherry on top of the economic turd sandwich",
+   "lang": "en",
+   "createdAt": "2026-09-22T20:46:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 32
+   },
+   "replyTo": {
+    "tweetId": "2102495210710437916",
+    "userId": "3388262727",
+    "username": "BignaultJon"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102493992436814315",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102493992436814315",
+   "url": "https://x.com/JahangirAsgha10/status/2102493992436814315",
+   "conversationId": "2102397373817512118",
+   "text": "@Davembmd It’s a shit model…\n\nStop supporting them\nStop reading their papers\nStop reviewing their papers\nStop submitting papers to them\n\nThere are very, very few practice changing papers submitted in those journals\n\nJust my take",
+   "lang": "en",
+   "createdAt": "2026-09-22T20:23:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 89
+   },
+   "replyTo": {
+    "tweetId": "2102397373817512118",
+    "userId": "1738738189",
+    "username": "Davembmd"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1738738189",
+      "username": "Davembmd",
+      "name": "dave"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102493092976673142",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102493092976673142",
+   "url": "https://x.com/JahangirAsgha10/status/2102493092976673142",
+   "conversationId": "2102439874435641696",
+   "text": "That’s my view: economic policy over the past 25 years has failed under both parties.\n\nTrump’s politics center on culture-war conflict rather than economic reform. That approach satisfies ideological supporters on both sides but does not address the real fiscal problems.\n\nHis administration’s fiscal policy is irresponsible. It supports tax cuts without credible spending reductions, accepts large deficits during economic growth, and treats rising debt as a secondary concern. \n\nI am personally done with the populist bullshit…. Culture wars, silly distractions, crap foreign policy that has sunk us into another never ending conflict.\n\nRepublicans are the worst because they run on fiscal discipline and abandon it when they control the government.\n\nThe funny thing is they are more willing to challenge wasteful spending and support substantive reforms when they are in the minority.\n\nIn a weird way, I like the Republican Party when it’s in the minority…. Just not when they take the reins of government.",
+   "lang": "en",
+   "createdAt": "2026-09-22T20:19:50.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 40
+   },
+   "replyTo": {
+    "tweetId": "2102471418583949337",
+    "userId": "3388262727",
+    "username": "BignaultJon"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102446905511006641",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102446905511006641",
+   "url": "https://x.com/JahangirAsgha10/status/2102446905511006641",
+   "conversationId": "2102439874435641696",
+   "text": "@pgipe I am fiscally conservative….\nAnd I despise the current Republican Party \nAnd administration \n\nThey are the definition of brain rot driven by cultural ideologues and grifters…\n\nI really have no political home",
+   "lang": "en",
+   "createdAt": "2026-09-22T17:16:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 154
+   },
+   "replyTo": {
+    "tweetId": "2102439874435641696",
+    "userId": "44632201",
+    "username": "pgipe"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "44632201",
+      "username": "pgipe",
+      "name": "Dr. Gripesalot"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102186093474926820",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102186093474926820",
+   "url": "https://x.com/JahangirAsgha10/status/2102186093474926820",
+   "conversationId": "2102186093474926820",
+   "text": "Bo\nKnows https://x.com/JahangirAsgha10/status/2102186093474926820/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-21T23:59:56.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 501
+   },
+   "replyTo": null,
+   "quotedTweetId": "2102184926435266561",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102186087506419712",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HSx3G9WWoAALwz4.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HSx3G9WWoAALwz4.jpg",
+     "width": 424,
+     "height": 320,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102150713228820579",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102150713228820579",
+   "url": "https://x.com/JahangirAsgha10/status/2102150713228820579",
+   "conversationId": "2102150713228820579",
+   "text": "As @operationdanish warns, online sports betting is an addiction crisis on the scale of opioids.\n\nAthletes, leagues, and corporations are cashing in while politicians conveniently look away.\n\nWe’re losing a generation of young men…\n\nAnd 10 years from now all these door knobs will feign ignorance",
+   "lang": "en",
+   "createdAt": "2026-09-21T21:39:20.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 0,
+    "views": 1694
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101725178812076404",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2521712738",
+      "username": "operationdanish",
+      "name": "Dr Danish"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101783320724189277",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101783320724189277",
+   "url": "https://x.com/JahangirAsgha10/status/2101783320724189277",
+   "conversationId": "2101783320724189277",
+   "text": "There’s huge variation in sports injury commentary from physicians and PTs on social media.\n\nSome thoughtfully explain the possibilities and limitations. Others watch a replay and confidently announce a diagnosis and exact recovery timeline.\n\nSome provide useful education. Others deliver bullshit with remarkable confidence.",
+   "lang": "en",
+   "createdAt": "2026-09-20T21:19:27.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 506
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101771383025914063",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101710647062897028",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101710647062897028",
+   "url": "https://x.com/JahangirAsgha10/status/2101710647062897028",
+   "conversationId": "2101408864843227379",
+   "text": "Again with the spurious conclusions. Criticizing this bill does not mean I “like PE.”\n\nThe problem is the bill reaches beyond private equity. Its restrictions cover MSOs, including those owned by physicians. Physicians use these organizations to share administrative costs, pool resources and invest together so their practices can remain independent.\n\nThose arrangements would face new contracting and governance restrictions too. It will make collaboration more expensive and difficult for independent physicians, while hospitals and hospital-affiliated clinics retain an exemption from the ownership prohibition.\n\nSimply put, the bill impacts much more than PE….\n\nFundamentally, You are ok with the wider impact on practices that are part of MSO’s even if they that aren’t PE owned \n\nI am not….",
+   "lang": "en",
+   "createdAt": "2026-09-20T16:30:40.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 111
+   },
+   "replyTo": {
+    "tweetId": "2101705698270674954",
+    "userId": "26126694",
+    "username": "ClassicCoke85"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101695014224957563",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101695014224957563",
+   "url": "https://x.com/JahangirAsgha10/status/2101695014224957563",
+   "conversationId": "2101670995824193793",
+   "text": "That’s awesome, and I agree it’s possible to leave and be successful.\n\nI’ve done it as well. In my situation, I actually fought the institution on the non compete clause. \n\nHowever, discounting the regulatory inertia that exist is also dangerous. \n\nIn this particular situation, it’s a direct attack on outside investment to start a practice.\n\nAs more and more hospital systems are regional monopolies… and the barriers to start an independent practice rise…,\n\nIt effectively acts as a non compete\n\nMy point is simple… trading non competes for limiting access to resources to start and run a practice isn’t the win we think it is.",
+   "lang": "en",
+   "createdAt": "2026-09-20T15:28:33.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 34
+   },
+   "replyTo": {
+    "tweetId": "2101692887625084976",
+    "userId": "1587190763200614400",
+    "username": "Makers754"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101689508844433626",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101689508844433626",
+   "url": "https://x.com/JahangirAsgha10/status/2101689508844433626",
+   "conversationId": "2101689508844433626",
+   "text": "Also, the hospital-complication studies they love to cite examined PE owned nursing homes and hospitals.\n\nThese are NOT physician practices. \n\nBut @SenWarren proposed bill explicitly exempts hospitals and hospital-affiliated clinics from its corporate-ownership prohibition while imposing that restriction on physician practices. \n\nThat is precisely the regulatory favoritism I’m criticizing.\n\nNone of which people like @DGlaucomflecken speak to…",
+   "lang": "en",
+   "createdAt": "2026-09-20T15:06:41.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 8,
+    "quotes": 0,
+    "likes": 45,
+    "bookmarks": 1,
+    "views": 1881
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101408864843227379",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "970207298",
+      "username": "SenWarren",
+      "name": "Elizabeth Warren"
+     },
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101688355670864100",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101688355670864100",
+   "url": "https://x.com/JahangirAsgha10/status/2101688355670864100",
+   "conversationId": "2101408864843227379",
+   "text": "Its amazing how you go directly to some nefarious plot of someone disagrees with you\n\nBut I will humor you\nI have zero dollars from PE\nZero investments through PE\nI bootstrapped my practice \n\nBut I know plenty  of people who financed starting their practice through outside investment \n\nBut this ruling doesn’t only effect ‘PE’\nIt impacts all investment into a independent practice\n\nAt the same time it allows hospitals to take as much money from outside investment they want.\n\nIf you think that PE is the boogeyman fine…\nBut don’t pretend this bill solves any of it",
+   "lang": "en",
+   "createdAt": "2026-09-20T15:02:06.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 37
+   },
+   "replyTo": {
+    "tweetId": "2101684852143599854",
+    "userId": "26126694",
+    "username": "ClassicCoke85"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101682158125408649",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101682158125408649",
+   "url": "https://x.com/JahangirAsgha10/status/2101682158125408649",
+   "conversationId": "2101670995824193793",
+   "text": "Eliminating a noncompete doesn’t automatically eliminate  on solicitation clauses.\n\nThese separate restrictions on soliciting established patients, referral sources, or staff. Their enforceability depends on the law and the actual restriction.\n\nAnd hospitals still have other ways to limit competition through referral networks, exclusive contracts, and facility access. Being free to open an office doesn’t guarantee a viable independent practice.",
+   "lang": "en",
+   "createdAt": "2026-09-20T14:37:28.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 201
+   },
+   "replyTo": {
+    "tweetId": "2101678499132215351",
+    "userId": "1587190763200614400",
+    "username": "Makers754"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101677617061454246",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101677617061454246",
+   "url": "https://x.com/JahangirAsgha10/status/2101677617061454246",
+   "conversationId": "2101408864843227379",
+   "text": "You do realize this bill only impacts physician practice investments…\n\nHospital systems can take all the PE money they want… and do\n\nAnd all of the data with bad outcomes  related to PE investments are specifically related to hospitals and nursing homes\n\nSo this bill doesn’t do anything to address that, either\n\nThere are real issues in healthcare\nThis doesn’t do anything too solve any of them",
+   "lang": "en",
+   "createdAt": "2026-09-20T14:19:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 72
+   },
+   "replyTo": {
+    "tweetId": "2101505462415876177",
+    "userId": "26126694",
+    "username": "ClassicCoke85"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101674257088426219",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101674257088426219",
+   "url": "https://x.com/JahangirAsgha10/status/2101674257088426219",
+   "conversationId": "2101408864843227379",
+   "text": "@PunGridDoc @DGlaucomflecken This bill doesn’t fight anything related to PE\n\nIt eliminates non physician investments in to independent practices while giving hospitals a free pass….\n\nAnd  increases practice regulatory environment \n\nHospitals can take all the PE money they want",
+   "lang": "en",
+   "createdAt": "2026-09-20T14:06:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 14,
+    "bookmarks": 0,
+    "views": 269
+   },
+   "replyTo": {
+    "tweetId": "2101672741396959685",
+    "userId": "1654364171679698949",
+    "username": "PunGridDoc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1654364171679698949",
+      "username": "PunGridDoc",
+      "name": "Will Collingford"
+     },
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101670995824193793",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101670995824193793",
+   "url": "https://x.com/JahangirAsgha10/status/2101670995824193793",
+   "conversationId": "2101670995824193793",
+   "text": "First, I agree with you 100% on eliminating noncompetes. But we shouldn’t overstate what that alone can accomplish.\n\nFreedom to leave matters. So does having somewhere viable to go. When a few hospital systems dominate a market, eliminating noncompetes alone won’t restore meaningful competition or make independent practice financially viable.\n\nCalifornia has long prohibited most employment noncompetes, yet healthcare consolidation has continued.\n\nIf we simultaneously create regulations that make independent practices harder to finance, build, and sustain, we undermine the alternatives that give physicians real bargaining power. Eliminating noncompetes needs to go hand in hand with protecting those alternatives.",
+   "lang": "en",
+   "createdAt": "2026-09-20T13:53:07.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 1,
+    "views": 1360
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101668510837453057",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101670963075006919",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101670963075006919",
+   "url": "https://x.com/JahangirAsgha10/status/2101670963075006919",
+   "conversationId": "2101408864843227379",
+   "text": "First, I agree with you 100% on eliminating noncompetes. But we shouldn’t overstate what that alone can accomplish.\n\nFreedom to leave matters. So does having somewhere viable to go. When a few hospital systems dominate a market, eliminating noncompetes alone won’t restore meaningful competition or make independent practice financially viable.\n\nCalifornia has long prohibited most employment noncompetes, yet healthcare consolidation has continued.\n\nIf we simultaneously create regulations that make independent practices harder to finance, build, and sustain, we undermine the alternatives that give physicians real bargaining power. Eliminating noncompetes needs to go hand in hand with protecting those alternatives.",
+   "lang": "en",
+   "createdAt": "2026-09-20T13:52:59.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 68
+   },
+   "replyTo": {
+    "tweetId": "2101668510837453057",
+    "userId": "80845534",
+    "username": "sonodoc99"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101668774420066447",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101668774420066447",
+   "url": "https://x.com/JahangirAsgha10/status/2101668774420066447",
+   "conversationId": "2101666672314560781",
+   "text": "@PaleoOnc Private equity is just a boogie man \nMost of the people don’t understand it",
+   "lang": "en",
+   "createdAt": "2026-09-20T13:44:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 79
+   },
+   "replyTo": {
+    "tweetId": "2101666672314560781",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1581144323978133504",
+      "username": "PaleoOnc",
+      "name": "Paleoncologist"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101663478985412651",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101663478985412651",
+   "url": "https://x.com/JahangirAsgha10/status/2101663478985412651",
+   "conversationId": "2101520709470113966",
+   "text": "One of my biggest frustrations on the issue is that people like @DGlaucomflecken discount or ignore the downstream effect and the real world impact of these bills, policies, and laws. \n\nThey take a good intention and turn it into a monstrosity….\n\nStark and self referral is the best example of that.",
+   "lang": "en",
+   "createdAt": "2026-09-20T13:23:15.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 67
+   },
+   "replyTo": {
+    "tweetId": "2101520709470113966",
+    "userId": "817509969238949888",
+    "username": "drmoneymatters"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101650567953010842",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101650567953010842",
+   "url": "https://x.com/JahangirAsgha10/status/2101650567953010842",
+   "conversationId": "2101520709470113966",
+   "text": "@PradGeorge @drmoneymatters Haha… I am a lazy sloth until I get activated about an issue…",
+   "lang": "en",
+   "createdAt": "2026-09-20T12:31:56.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 22
+   },
+   "replyTo": {
+    "tweetId": "2101643468896436333",
+    "userId": "1518988064911241218",
+    "username": "PradGeorge"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1518988064911241218",
+      "username": "PradGeorge",
+      "name": "Prad George"
+     },
+     {
+      "id": "817509969238949888",
+      "username": "drmoneymatters",
+      "name": "Doctor Money Matters"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101478220881088833",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101478220881088833",
+   "url": "https://x.com/JahangirAsgha10/status/2101478220881088833",
+   "conversationId": "2101408864843227379",
+   "text": "@spartywrx @DGlaucomflecken But you’re not an evil group hell bent on stealing from the patient… and doing them harm 🤔",
+   "lang": "en",
+   "createdAt": "2026-09-20T01:07:06.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 204
+   },
+   "replyTo": {
+    "tweetId": "2101456082015027587",
+    "userId": "47535133",
+    "username": "spartywrx"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "47535133",
+      "username": "spartywrx",
+      "name": "PT"
+     },
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101434980467400895",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101434980467400895",
+   "url": "https://x.com/JahangirAsgha10/status/2101434980467400895",
+   "conversationId": "2101408864843227379",
+   "text": "You are right but that’s not enough \n\nCalifornia already bans employment noncompetes, and independent physicians there still struggle. I support banning them, but that alone doesn’t solve rising overhead, access to capital, or the advantages hospital systems enjoy.\n\nOne good provision doesn’t justify making it harder to own and operate an independent practice.",
+   "lang": "en",
+   "createdAt": "2026-09-19T22:15:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 38
+   },
+   "replyTo": {
+    "tweetId": "2101430023165006300",
+    "userId": "80845534",
+    "username": "sonodoc99"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101432185743909276",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101432185743909276",
+   "url": "https://x.com/JahangirAsgha10/status/2101432185743909276",
+   "conversationId": "2101408864843227379",
+   "text": "@sonodoc99 @DGlaucomflecken Yes. Which is great for employed physicians \nBut screws the pooch on many other aspects",
+   "lang": "en",
+   "createdAt": "2026-09-19T22:04:10.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 263
+   },
+   "replyTo": {
+    "tweetId": "2101430023165006300",
+    "userId": "80845534",
+    "username": "sonodoc99"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "80845534",
+      "username": "sonodoc99",
+      "name": "Art Fougner PGY50"
+     },
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101408864843227379",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101408864843227379",
+   "url": "https://x.com/JahangirAsgha10/status/2101408864843227379",
+   "conversationId": "2101408864843227379",
+   "text": "I, also, suspect the hospital lobby and large health systems love the proposed corporate practice of medicine ban. It reinforces the regulatory favoritism they already benefit from.\n\nDespite what @DGlaucomflecken implies…\n\nMSOs are used by private equity AND by independent physicians. For independent practices, they allow practices to pool resources, share administrative services and reduce overhead. This is critical for many independent practices in the current environment. \n\nNo, the bill doesn’t ban MSOs outright. \nBut, It does restrict their contracts and management relationships, with no blanket exemption for physician owned MSOs. Requirements for independent advisers and fair market value compensation add compliance obligations.\n\nMeanwhile, hospitals and hospital affiliated clinics are exempt from the core ownership prohibition.  Honestly, they are exempt from many of the regulations that apply to physicians.\n\nTo be clear, I don’t have an issue with people who object to private equity owning medical  practices.\n\nMy objection is to leveraging the corporate boogie man to restrict a tool physicians also use to remain independent while preserving the hospital ownership pathway.\n\nThe predictable consequence is more legal expense, more compliance risk and greater difficulty operating an independent practice. That gives hospitals another competitive advantage, packaged as protection for physician independence.",
+   "lang": "en",
+   "createdAt": "2026-09-19T20:31:30.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 12,
+    "quotes": 7,
+    "likes": 72,
+    "bookmarks": 10,
+    "views": 17999
+   },
+   "replyTo": null,
+   "quotedTweetId": "2101017479938195532",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101329313836483003",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101329313836483003",
+   "url": "https://x.com/JahangirAsgha10/status/2101329313836483003",
+   "conversationId": "2101323172817637631",
+   "text": "I would love their thoughts\n\nHere is a littlbit of context on the issues with Warren’s proposed bill.  Remember, it has to do with how regulator will interpret the language and potentially write the regulations to implement the law \n\nWhich will determine how far the MSO restrictions reach into physician groups with no private equity involvement.\n\nBut let’s look at the actual language:\n\nSection 2(d)(4) defines an MSO by the services it provides. Billing, payroll, IT, scheduling, leasing. Nothing in that definition requires private equity or outside investors.\nSection 2(b)(2) applies the restrictions to the MSO and its “shareholder, director, member, manager, officer, employee, or contractor.” There is no explicit exemption because those people happen to be physicians.\nThose same people would be restricted from owning, working for or managing a medical practice. Read literally, physicians who own both their practice and a shared MSO could have an ownership problem. That language needs clarification.\nManagement agreements require negotiations “at arm’s length” through independently selected advisers without financial conflicts with the MSO. Fees must reflect “fair market value” as determined by the FTC. This includes amendments, renewals and terminations.\nThe restrictions reach ultimate control over staffing, compensation, billing, pricing and payer contracts when that control affects the nature or quality of care. Those are significant parts of running a practice. Bill text\n\nSo physicians trying to pool resources could have to reassess ownership, revise agreements, support their management fees and potentially restructure their businesses.\n\nThat means more legal expense and uncertainty for independent groups trying to work together and grow. Having physicians own the MSO does not automatically protect them from these requirements.",
+   "lang": "en",
+   "createdAt": "2026-09-19T15:15:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 19
+   },
+   "replyTo": {
+    "tweetId": "2101323172817637631",
+    "userId": "80845534",
+    "username": "sonodoc99"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101292142031151477",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2101292142031151477",
+   "url": "https://x.com/JahangirAsgha10/status/2101292142031151477",
+   "conversationId": "2101042795565719903",
+   "text": "@DutchRojas Just temporarily @DGlaucomflecken quixotic crusade against PE without acknowledging the long term impact of added regulatory burden on physician practices \n\nGot me feeling…. https://x.com/JahangirAsgha10/status/2101292142031151477/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-19T12:47:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1104353784329834497",
+    "username": "JahangirAsgha10",
+    "name": "John Asghar",
+    "url": "https://x.com/JahangirAsgha10",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1519969077430788097/0bMAA710_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 97
+   },
+   "replyTo": {
+    "tweetId": "2101290264296042805",
+    "userId": "475043222",
+    "username": "DutchRojas"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101292135467057152",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/HSlKEGfWAAAgu68.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HSlKEGfWAAAgu68.jpg",
+     "width": 300,
+     "height": 356,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "475043222",
+      "username": "DutchRojas",
+      "name": "Dutch Rojas"
+     },
+     {
+      "id": "726767006905573376",
+      "username": "DGlaucomflecken",
+      "name": "Dr. Glaucomflecken"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

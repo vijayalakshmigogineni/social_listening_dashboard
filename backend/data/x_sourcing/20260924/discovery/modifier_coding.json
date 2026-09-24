@@ -1,0 +1,2719 @@
+{
+ "key": "modifier_coding",
+ "query": "(\"modifier 25\" OR \"modifier 59\" OR \"-25 modifier\" OR \"CPT code\") (denied OR denials OR paid OR payer OR insurance) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2096117972813435286",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2096117972813435286",
+   "url": "https://x.com/houmanhemmati/status/2096117972813435286",
+   "conversationId": "2096117972813435286",
+   "text": "This is what “preventive care” looks like in America in 2026.\n\nA patient goes in for the annual physical her insurance promised would be covered. She mentions anxiety and bloating. The clinic later bills her $216 because, and I quote the billing office: “Insurances pay once a year for a physical—which is just that. A physical, no problems can be discussed.”\n\nRead that again.\n\nNo problems can be discussed.\n\nWhat, exactly, is the point of a “preventative physical” if the patient is not allowed to mention the conditions she is trying to prevent?\n\nThere is no healthy adult walking around with zero medical concerns. Anxiety. Bloating. Fatigue. Sleep. Weight. Blood pressure that is starting to creep. A family history that suddenly feels relevant. These are not “problem visits.” These are the exact conversations that turn a checkbox exam into actual prevention.\n\nThe current coding and payment rules punish that conversation. The moment a physician documents a concern and uses clinical judgment, the visit can be reclassified from a no-cost preventive service into an evaluation-and-management visit subject to deductible and copay. Clinics know this. Insurers know this. Hospital systems that own those clinics know this. The patient is the last person told.\n\nThe result is predictable:\n•  Patients learn to stay silent so they do not get a surprise bill.\n•  Early, cheap problems become late, expensive ones.\n•  Physicians are trained by RVUs and modifier-25 rules to treat humans as either “well” or “sick,” never as people who need both screening and counsel in the same 20 minutes.\n•  Insurers keep the premium and deny the claim. Hospital systems bill the higher code. The patient pays twice—once in premiums, again at the window.\n\nThis is a billing product dressed up as wellness, and it has nothing to do with medicine.\n\n@SecKennedy @RobertKennedyJr @DrOz @DrOzCMS @CMSGov @POTUS — you have the authority to end this farce.\nRequire that a covered annual preventive visit include the discussion of common symptoms and risk factors without automatically converting the encounter into a separately billed problem visit. \n\nMandate clear, written notice before the visit if any conversation may trigger cost-sharing. Stop letting the CPT codebook decide whether a doctor is allowed to listen.\n\nPrevention that forbids the patient from speaking is not remotely close to prevention. It is a trap that makes Americans sicker and the people who run the billing departments richer.\n\nFix the rule. Do it now.\n\nEvery adult who has ever sat in that exam room already knows this is broken. They are waiting for someone in Washington to admit it.",
+   "lang": "en",
+   "createdAt": "2026-09-05T06:07:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "230307512",
+    "username": "houmanhemmati",
+    "name": "Houman David Hemmati, MD, PhD",
+    "url": "https://x.com/houmanhemmati",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1626074870445662209/mY3uw1W2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 588,
+    "retweets": 1332,
+    "quotes": 139,
+    "likes": 3996,
+    "bookmarks": 401,
+    "views": 216842
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2096117969139175424",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HRboL-3akAA3TKR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HRboL-3akAA3TKR.jpg",
+     "width": 1180,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1886875846473879552",
+      "username": "SecKennedy",
+      "name": "Secretary Kennedy"
+     },
+     {
+      "id": "337808606",
+      "username": "RobertKennedyJr",
+      "name": "Robert F. Kennedy Jr"
+     },
+     {
+      "id": "38531995",
+      "username": "DrOz",
+      "name": "Dr. Mehmet Oz"
+     },
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     },
+     {
+      "id": "1879650942410481666",
+      "username": "POTUS",
+      "name": "President Donald J. Trump"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092758160163410194",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2092758160163410194",
+   "url": "https://x.com/EPotterMD/status/2092758160163410194",
+   "conversationId": "2092758160163410194",
+   "text": "The AMA doesn’t just own the CPT code system. It also has a role in recommending how the services behind those codes are valued.\n\nCPT codes are the five digit codes healthcare providers use to describe the care we provide and bill for it.\n\nThe AMA created and copyrighted this system and makes hundreds of millions of dollars annually from publishing products and royalties, which includes CPT licensing.\n\nBut here’s the part I think more patients should know: The AMA also convenes a committee of physicians and medical specialty groups that recommends to the federal government how much different medical services should be valued for Medicare.\n\nThe government ultimately makes the final decision, but those recommendations help shape how much doctors are paid for the care represented by these codes.\n\nThe AMA owns the coding system. It generates significant revenue connected to that system. And it has a significant role in recommending how the medical services represented by those codes are valued.\n\nThat is a lot of influence over how money moves through American healthcare…",
+   "lang": "en",
+   "createdAt": "2026-08-26T23:36:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 33,
+    "retweets": 169,
+    "quotes": 7,
+    "likes": 547,
+    "bookmarks": 80,
+    "views": 7687
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2092758034577555456",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2092758034577555456/vid/avc1/720x1280/Q-MIdkvPxDNieidK.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2092758034577555456/img/qG5nXe3NSBvCZxZE.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 87
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2093698937555488967",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2093698937555488967",
+   "url": "https://x.com/WallStreetApes/status/2093698937555488967",
+   "conversationId": "2093698937555488967",
+   "text": "WOW 🚨 The nonprofit who owns the billing codes used by our medical system and gets paid $300 million per year in royalties ALSO SETS THE PRICE OF MEDICAL SERVICES for those codes\n\nAmerican surgeon “It feels ridiculous because we as healthcare providers have to use those codes according to state and federal government, and the AMA created them, copyrighted them, and charges us, the people that they're representing, to use them. \n\nSo let's go one step further. \n\nThe CPT code system is meant to be this five-digit code that is a universal language for documenting and reporting for all the things that we do in healthcare back to insurance companies, right and ultimately, that affects reimbursement. \n\nBut here's a wrinkle that you might not have known. \n\nThe AMA also actually makes a recommendation to the government about a value that's assigned to the CPT codes that they own. That's right. They own the system. They're making money off of that, and then they're also recommending back to CMS and ultimately to insurance companies how much doctors and providers are paid for those codes. \n\nThat is quite a lot of power for one organization to hold over the money that's exchanged in this healthcare system. \n\nSo they're making that three hundred million dollars a year licensing it, but then they're also influencing what I get paid for everything that I do. Interesting…..”\n\n- US government made using these codes mandatory\n- A nonprofit who donates millions to politicians on both sides was able to keep the copyright\n- That group collects hundreds of millions a year from the people required to use it\n- The same group runs the committee that recommends the dollar values attached to those codes\n\nThe people who could change this, our politicians, are being paid off not to change it\n\nThis is a racket",
+   "lang": "en",
+   "createdAt": "2026-08-29T13:55:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1099579684981944320",
+    "username": "WallStreetApes",
+    "name": "Wall Street Apes",
+    "url": "https://x.com/WallStreetApes",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1593753619148382208/YYzzCs6C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1101,
+    "retweets": 12224,
+    "quotes": 863,
+    "likes": 22984,
+    "bookmarks": 4267,
+    "views": 358551
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2093603587159191554",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2093603587159191554/vid/avc1/1080x1920/D7CF0p5Z1ddHGuZF.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2093603587159191554/img/pTxtmqcZZNiqvRtD.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 205
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100569791224295772",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2100569791224295772",
+   "url": "https://x.com/LighthouseDPC/status/2100569791224295772",
+   "conversationId": "2100569791224295772",
+   "text": "Doctors only get 25% or less of what YOUR Health Insurance pays us. Usually less. We are 80 to 90% EMPLOYEES. \n\nHospitals make $BILLIONS Untaxed. CEOs make minimum. Hospitals sponsor Professional Sports. \n\n55% of AMA money comes from CPT Code publication. Less than 8% comes from Doctors dues. \n\nCongress gets kickbacks known as Contributions or Donations. \n\nThat’s what CPT Codes buy. \n#Congress #Hospital #Fraud #CORRUPTION",
+   "lang": "en",
+   "createdAt": "2026-09-17T12:57:19.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1525987430851035136",
+    "username": "LighthouseDPC",
+    "name": "Humane Healthcare for All",
+    "url": "https://x.com/LighthouseDPC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791460285317840897/2ErGEZj8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 2,
+    "views": 939
+   },
+   "replyTo": null,
+   "quotedTweetId": "2100568209044697181",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Congress",
+     "Hospital",
+     "Fraud",
+     "CORRUPTION"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "BILLIONS"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2022821512785596584",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2022821512785596584",
+   "url": "https://x.com/DrDiGiorgio/status/2022821512785596584",
+   "conversationId": "2022821512785596584",
+   "text": "I love the Medicaid data drop.  \n\nI've been going through it and something doesn't quite add up.  \n\nI'm interested in how Medicaid has paid spine surgeons over the years.  So I went to http://medicaidopendata.org and looked up 63047, the CPT code for lumbar laminectomy.  It came back with only 313 claims across 8 providers, nationwide.  There should be 100x more instances of this.  Craniotomy for subdural (61312) shows up 0 times.  I checked the csv file myself in Julius AI (admittedly I'm a novice) but got the same results.\n\nYet 99214 (30 minute office visit) gives us 502.5 million claims across 150.3 thousand providers.  \n\nAnyone have any guesses why the surgical codes come up so infrequently?",
+   "lang": "en",
+   "createdAt": "2026-02-14T23:53:25.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1101092814",
+    "username": "DrDiGiorgio",
+    "name": "Anthony DiGiorgio, DO, MHA",
+    "url": "https://x.com/DrDiGiorgio",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1604540107335143425/bpkEueiP_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 23,
+    "retweets": 33,
+    "quotes": 3,
+    "likes": 207,
+    "bookmarks": 76,
+    "views": 53050
+   },
+   "replyTo": null,
+   "quotedTweetId": "2022504166455660643",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://medicaidopendata.org/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2043675727510561043",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2043675727510561043",
+   "url": "https://x.com/hxxntrr/status/2043675727510561043",
+   "conversationId": "2043675727510561043",
+   "text": "The hospital your mother delivered you in charged her $40 the first time she held you\n\nCPT code 99460. Skin to skin contact. Billed as a separate line item from everything else that happened that day\n\nThat same billing system is why you have a $4,200 collection on your credit report for an ER visit you thought your insurance covered\n\nA single emergency room visit generates 15-40 individual line items. Each has a CPT code. Each code has a chargemaster price the hospital sets with no connection to actual cost\n\nIV saline bag: costs $0.86. Chargemaster price: $400-$900\nSingle Tylenol tablet: costs $0.02. Chargemaster price: $15-$50\nBasic blood panel: lab cost $12. Chargemaster price: $200-$1,100\nCT scan: equipment cost per scan roughly $50. Chargemaster price: $3,000-$10,000\n\nEvery inflated charge becomes debt when you don't pay. That debt gets sold to a collector for 3 cents on the dollar. That collector reports it to all 3 bureaus as if you genuinely owe $47 for a Tylenol\n\n100 million Americans are carrying medical debt right now. It's the number one cause of collections on credit reports in this country.\n\nMost of it is made-up numbers from a document nobody was supposed to see\nFor any medical bill over $500, do this before paying a single dollar:\nCall the billing department and say:\n\n \"I need the fully itemized bill with CPT codes for every individual charge\"\n\nThey'll try to send the summary. One number. That's not what you asked for. You want the line-by-line breakdown with procedure codes\n\nTake that itemized bill to http://fairhealthconsumer.org. Enter each CPT code. Compare what the hospital charged to fair market rates for your zip code\nYou will find overcharges on almost every bill.\n\nSometimes 3x. Sometimes 10x. Duplicate charges for the same procedure under different codes. Facility fees already included in the surgeon's bill charged again separately\n\nThen call back: \"I've reviewed the itemized charges. Several line items significantly exceed fair market rates. I'd like to discuss an adjustment and confirm whether I qualify for your financial assistance program\"\n\nEvery nonprofit hospital is legally required under Section 501(r) of the IRS code to have a charity care policy. Income under 200-400% of the federal poverty level qualifies for partial or full reduction.\n\nThey are required by law to have this program. They will never tell you it exists\n\nIf the bill already went to collections:\n\nThe collector bought a spreadsheet. Not the itemized bill. Not the CPT codes. Not documentation proving the charges are accurate after insurance adjustments\n\nSend a debt validation letter under FDCPA Section 809. Demand the original itemized statement with CPT codes, complete payment history showing all insurance adjustments, and proof the remaining balance is accurate\n\nCollectors almost never have this documentation for medical accounts. The hospital sold the debt and the paperwork didn't go with it\n\nA woman came to us with $67,000 in medical collections across 3 hospital visits. We requested itemized bills on all three. Found $23,000 in duplicate charges and upcoded procedures.\n\nTwo collectors couldn't validate the debt at all. Third settled for $4,200 on a $31,000 account\n\n$67,000 in medical debt. $4,200 in total payments. Score went from 541 to 718 in 90 days. She bought a house 6 months later\n\nThe hospital charged $40 to hold a newborn. The collector bought your account for pennies. The entire system runs on you never looking at the actual numbers\n\nLook at the numbers\n\n(Medical collections are often the easiest items to remove because documentation almost never survives the debt sale. We handle the full process. Link in bio)",
+   "lang": "en",
+   "createdAt": "2026-04-13T13:00:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1217472690786668544",
+    "username": "hxxntrr",
+    "name": "hunter",
+    "url": "https://x.com/hxxntrr",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2018407737189961728/NvdFQd7e_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 40,
+    "quotes": 2,
+    "likes": 154,
+    "bookmarks": 194,
+    "views": 16331
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://fairhealthconsumer.org/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087222524593545502",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2087222524593545502",
+   "url": "https://x.com/HEALTHCOSTtruth/status/2087222524593545502",
+   "conversationId": "2087222524593545502",
+   "text": "Let's talk about the -25 modifier.  For those that don't know, a -25 modifier is added to codes for office visits (among others).  What that modifier means is that it is a separate and distinguishable service. \n\nCMS, in it's infinite LACK of wisdom, has decided that, at times, that modifier could result in the payment being reduced significantly.  A lot of commercial payers are following that lead (I am not). \n\nWhat does it mean to a patient?  Assume you discover a mole on your body.  You schedule a doctor's appointment to have it looked at.  The doctor determines that it needs to be taken off (simple in-office procedure).  IF that doctor takes the mole off while you are there, he/she will bill for an office visit and the mole removal.  Insurance will cut the office visit portion of the payment in half.  \n\nWhat does it mean for the independent physician?  Two visits, two insurance claims to file, two insurance claims to have to wait on payment for, more administrative work, more health record maintenance, more everything - because CMS thought it was a good idea.\n\nThis is where it gets interesting.  Independent doctors cannot afford to have their office visit reimbursements cut in half because they're already getting screwed out of payments on every corner.  To avoid that, they must reschedule you to come back on another day to have the mole removed.  You change your schedule, you drive back to the doctor's office for the second visit, you miss work and probably don't get paid for the missed work BUT, the insurance company and the broker will show \"look how much you saved on that office visit\".  \n\nA hospital owned physician likely appreciates this set-up because now, you don't pay one facility fee, you pay two - how convenient is that?  Yet another reason to use an Independent Physician.\n\nThe fix?  Find a DPC that can see you in the office, take off a mole, treat a hurt shoulder, look at an infected ear, talk to you about anything you have going on all in one visit for one monthly fee AND you get to go back to him/her as many times as you want.  Call, text, email, visit - all for one fee.\n\nStop being played by the industry.  \n\n#DPC  #supportindependentdocs",
+   "lang": "en",
+   "createdAt": "2026-08-11T17:00:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2036770365205016576",
+    "username": "HEALTHCOSTtruth",
+    "name": "Christine Price",
+    "url": "https://x.com/HEALTHCOSTtruth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2082536526307553280/Lr-GKcUD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 8,
+    "quotes": 6,
+    "likes": 61,
+    "bookmarks": 17,
+    "views": 26922
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "DPC",
+     "supportindependentdocs"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2071292565211799976",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2071292565211799976",
+   "url": "https://x.com/hxxntrr/status/2071292565211799976",
+   "conversationId": "2071292565211799976",
+   "text": "you're about to pay that $14,000 hospital bill. Stop\n\ncall the billing department and say five words: \"I need an itemized statement\"\n\nwatch $14,000 turn into $3,200\n\nhospitals send you a summary bill on purpose. one line. one number. one deadline. designed to make you panic and pay or ignore it until it destroys your credit\n\nthe itemized version tells a completely different story\n\nevery charge has a CPT code (Current Procedural Terminology). this is the 5-digit number that identifies the exact procedure or service. your $14,000 bill might have 30-60 individual CPT codes on it. each one represents a charge the hospital decided you owe\n\nhere's what you'll typically find when you actually read them:\n\n$83 for a tablet of acetaminophen. you know this drug as Tylenol. CVS sells a bottle of 100 for $6.49. the hospital charged you $83 for ONE\n\n$482 for \"room utilization.\" you sat in a curtained area in the ER for 22 minutes while a nurse took your blood pressure\n\n$1,400 for \"physician consultation\" when a nurse practitioner checked your chart for 90 seconds and a doctor you never met signed off remotely\n\n$312 for \"surgical supplies\" for 4 stitches and a gauze pad that cost the hospital $0.74 in materials\n\n$234 for \"facility fee.\" this is a charge for being in the building. literally a fee for walking through the door\n\nduplicate charges billed under different CPT codes for the same procedure\n\nthe chargemaster:\n\nevery hospital has a document called the chargemaster. it's a master list of every service and its price. chargemaster prices are set internally by the hospital with zero external regulation. there is no law governing how much a hospital can charge for a tylenol or a CT scan. the chargemaster is a fictional pricing document that has no relationship to the actual cost of care\n\nunder the Hospital Price Transparency Rule (CMS-1717-F2, effective January 2021), hospitals with 300+ beds are required to publish their chargemaster prices online. most hospitals bury the file in an obscure corner of their website as a 40,000-row spreadsheet that nobody can read. but it's there\n\npull it. compare what they charged you to what they published. then compare both numbers to the Medicare reimbursement rate for the same CPT code at http://cms.gov/medicare/payment. Medicare rates represent what the federal government has determined is a fair price for each procedure\n\nthe gaps are violent:\n\nCT scan abdomen (CPT 74177):\nMedicare rate: $280\nAverage chargemaster price: $4,200\nMarkup: 1,400%\n\nbasic metabolic panel (CPT 80048):\nMedicare rate: $11\nAverage chargemaster price: $620\nMarkup: 5,536%\n\nER visit level 4 (CPT 99284):\nMedicare rate: $268\nAverage chargemaster price: $2,800\nMarkup: 945%\n\nthe negotiation sequence:\n\ncall 1: \"I received my itemized statement. I've compared each CPT code to the Medicare reimbursement rate and found that your charges exceed Medicare rates by 400-1,400% across 18 line items. I'd like to discuss a fair adjustment to bring these charges closer to market rates\"\n\nmost billing departments have authority to reduce 20-40% without supervisor approval. push for 50%+\n\ncall 2: \"I'd like to apply for your financial assistance program under your 501(r) charity care policy\"\n\nevery nonprofit hospital (roughly 60% of US hospitals) is required under IRC Section 501(r) to maintain a financial assistance policy. if your household income falls below 200-400% of the federal poverty level (varies by hospital), you qualify for 40-100% reduction. for 2026, 400% FPL for a single person is roughly $60,240. family of four: $124,800\n\nthis means a family earning $120K/year may qualify for a 50-80% reduction at many nonprofit hospitals. they will never tell you this. you have to ask\n\ncall 3: \"I've identified billing errors including [duplicate charges/upcoded procedures/unbundled services] and I'm filing a formal billing dispute. Please route this to your patient advocate for internal audit review\"\n\nthe word \"audit\" triggers a different process. a compliance officer reviews the bill instead of a collections agent. errors get found. charges get removed\n\ncall 4 (the close): \"I can pay $3,200 today as settlement in full. This resolves the account. I'll need written confirmation that the account is settled and will not be sent to collections\"\n\nhospitals would rather take $3,200 today than send $14,000 to a collection agency that will buy it for $420 and harass you for years. your lump-sum offer at 23 cents on the dollar is more profitable for the hospital than the collections route\n\nif it already went to collections:\n\nthe collector bought your $14,000 bill for $280-$560. they'll take $1,500 and delete. but first, send the FDCPA 809 validation letter demanding the full itemized statement with CPT codes, the insurance explanation of benefits, and proof the remaining balance is accurate after all contractual adjustments\n\ncollectors almost never have this for medical debt. the hospital sold a spreadsheet. the supporting documentation went to a filing cabinet nobody will ever open. unable to validate = dispute with bureaus = deleted in 30 days\n\na woman came to us with $89,000 in medical bills across 4 hospital visits from 2023-2025. we requested itemized statements for all four. found $31,000 in duplicate charges, facility fees already included in surgeon's bills, and supplies billed at 2,000-5,000% above cost. applied for 501(r) financial assistance at 2 of the 4 hospitals. she qualified for 70% reduction at both\n\n$89,000 original total\n$31,000 removed (billing errors)\n$58,000 remaining\n$40,600 reduced (70% charity care at 2 hospitals)\n$17,400 remaining across 2 for-profit hospitals\nSettled for $6,200 lump sum payment\n\n$89,000 to $6,200. 7 cents on the dollar. score went from 512 to 703 in 68 days after the collections were deleted\n\nfive words. \"I need an itemized statement.\" the hospital is hoping you never say them lol\n\n(i fix credit in 30-90 days. link in bio)",
+   "lang": "en",
+   "createdAt": "2026-06-28T18:00:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1217472690786668544",
+    "username": "hxxntrr",
+    "name": "hunter",
+    "url": "https://x.com/hxxntrr",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2018407737189961728/NvdFQd7e_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 104,
+    "retweets": 1660,
+    "quotes": 64,
+    "likes": 5618,
+    "bookmarks": 7079,
+    "views": 419826
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://cms.gov/medicare/payment"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1539676728276180993",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1539676728276180993",
+   "url": "https://x.com/txsportsdoc/status/1539676728276180993",
+   "conversationId": "1539676728276180993",
+   "text": "Stay tuned colleagues @Cigna to start requesting chart notes in August 2022 whenever you bill using a modifier 25. One more hoop to jump through to care for patients or risk having payment denied.\n#orthotwitter #MedTwitter",
+   "lang": "en",
+   "createdAt": "2022-06-22T18:28:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "91464818",
+    "username": "txsportsdoc",
+    "name": "Robert Berry, DO",
+    "url": "https://x.com/txsportsdoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1520957614233894912/Bhsn_7BT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "orthotwitter",
+     "MedTwitter"
+    ],
+    "mentions": [
+     {
+      "id": "37687077",
+      "username": "Cigna",
+      "name": "Cigna Healthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1867922898784030934",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1867922898784030934",
+   "url": "https://x.com/NickelBagsFree/status/1867922898784030934",
+   "conversationId": "1867922898784030934",
+   "text": "Prior Authorization denials happen to 6% of the requests. \nThese can and should be appealed. \nOnly 11% are reviewed corrected and sent back for appeal.\nWhen they are appealed, 82% are approved. \n\nI am not defending Health Insurance. I am not defending the process. I am a CPC, medical coder. I just know the process. \n\nI began studying medical coding out of curiosity of the process. I wanted to see WHO was making these decisions and why and how. \n\nThe World Health Organization (WHO) writes the book International Classification of Diseases (ICD) and the American Medical Association (AMA) write the associated Current Procedural Technology (CPT) these books have Many rules and guidelines. \n\nMedical Necessity is the KEY ! It must be proved on the claim sent to your insurance company for prior authorization. The claim is created and sent to the insurance company by the medical coder who gets the information from the physicians encounter notes. Errors happen in this process that can cause an initial denial, which should be corrected and appealed. \n\nEach claim has many points of data and ALL must be exactly correct or the claim will be denied. \n\nThe patient info, the insurance info, the physician info and credentials, the location of the service, the ICD code must be associated with and rise to the level of Medical Necessity for the CPT code to be paid.  \n\nIf ANY part of the info is incorrect - the initial claim will be denied and should be corrected and sent for appeal. This happens, a LOT.  \nThe insurance company is not just looking at the patients need for the service or procedure. \nIs the physician qualified to perform the procedure? \nIs the facility authorized to perform the procedure? \nIs the physician authorized to perform the procedure AT that location?\nAre there other less invasive procedures that should be tried first? \nIs the physician billing for a heart transplant when the patient shows no prior attempts to treat a heart issue? \nAre they amputating an arm without showing a reason why? \n\nAll of that needs to be established and properly documented. \n\nBelieve it or not, the insurance company IS trying to save money, but in that- they save people from predatory or unnecessary medical procedures and prevent physicians and hospitals from over billing patients. \n\nHint: you do not actually need all procedures suggested by physicians.",
+   "lang": "en",
+   "createdAt": "2024-12-14T13:21:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1150235396032405505",
+    "username": "NickelBagsFree",
+    "name": "Nickel Bags of Freedom",
+    "url": "https://x.com/NickelBagsFree",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1854335734775201813/OS37n_3q_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 93
+   },
+   "replyTo": null,
+   "quotedTweetId": "1867665817716109716",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1947869601091502309",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1947869601091502309",
+   "url": "https://x.com/mtheythem/status/1947869601091502309",
+   "conversationId": "1947829957633147386",
+   "text": "@ok_but_still HPKB is not a valid CPT code and insurance will never pay you need to ask the office to submit a corrected claim billing S8940 instead",
+   "lang": "en",
+   "createdAt": "2025-07-23T04:01:17.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1362450686202503168",
+    "username": "mtheythem",
+    "name": "maleficia • mtheythem.bsky.social",
+    "url": "https://x.com/mtheythem",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1719915091145949184/Id3PivVX_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 50,
+    "bookmarks": 1,
+    "views": 9309
+   },
+   "replyTo": {
+    "tweetId": "1947829957633147386",
+    "userId": "3235596493",
+    "username": "ok_but_still"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3235596493",
+      "username": "ok_but_still",
+      "name": "😀"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1480385221556158464",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1480385221556158464",
+   "url": "https://x.com/rosiebuttoncups/status/1480385221556158464",
+   "conversationId": "1480385221556158464",
+   "text": "True. And to know what any procedure will cost you in advance, ask for the CPT code(s) from the clinic/hospital. Call your insurance company &amp; ask what the “contracted rate” is for that CPT code with the name of the doc doing it &amp; the hospital. They can tell you an exact $ amount",
+   "lang": "en",
+   "createdAt": "2022-01-10T03:45:15.000Z",
+   "type": "quote",
+   "author": {
+    "id": "94769280",
+    "username": "rosiebuttoncups",
+    "name": "Known Anarchist Spooky Boogie",
+    "url": "https://x.com/rosiebuttoncups",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1492543253/rosefactorial_normal.PNG",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 11,
+    "bookmarks": 6,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1479868731438383104",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2026424413940494362",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2026424413940494362",
+   "url": "https://x.com/hxxntrr/status/2026424413940494362",
+   "conversationId": "2026424413940494362",
+   "text": "you're about to pay that $14,000 hospital bill. Stop\n\ncall the billing department and say five words: \"I need an itemized statement\"\n\nwatch $14,000 turn into $4,200\n\nhospitals don't send you itemized bills by default. they send you a summary. one line. one number. pay this\n\nthe itemized version shows every single charge. and that's where the scam falls apart\n\n$78 for a single Tylenol you could buy at CVS for $3 $400 for \"room usage\" for a room you sat in for 12 minutes $1,200 for \"physician consultation\"\n\nwhen a nurse practitioner spent 45 seconds checking your chart $250 for \"surgical supplies\"\n\n when you got 3 stitches and a bandaid duplicate charges for the same procedure billed twice under different codes\n\nhospitals get away with this because most people never ask. they just pay the summary or let it go to collections and destroy their credit for 7 years over charges that were never real\n\nthe call script:\n\n\"Hi, I'm calling about account number [X]. I'd like a fully itemized statement showing every individual charge, CPT code, and unit cost. I'm also requesting the chargemaster rate versus what my insurance was billed\"\n\nthey'll push back. \"we already sent your statement.\" no. you sent a summary. you want the itemized breakdown with procedure codes\n\nonce you get it:\n\nstep 1: google every CPT code on the bill. compare their price to the Medicare rate for the same procedure. hospitals routinely charge 300-800% above Medicare rates. you now have negotiating leverage\n\nstep 2: call back. \"I've reviewed the itemized statement. There are duplicate charges on lines [X] and [X]. The charge for [procedure] is $1,200 but the Medicare reimbursement rate is $180. I'd like to discuss a fair adjustment\"\n\nstep 3: ask about financial hardship discount. every nonprofit hospital has one and many for-profit hospitals do too. most require a simple application. income under $60K-$80K for a family qualifies at most nonprofit hospitals for 40-100% reduction. they won't volunteer this. you have to ask\n\nstep 4: if they won't negotiate, say \"I'd like to file a formal billing dispute and request review by your patient advocate\"\n\nthis triggers an internal audit. a different person reviews the charges. errors get caught. bills get reduced\n\nstep 5: offer a lump sum. \"I can pay $3,800 today if we can settle this account in full.\" hospitals would rather take $3,800 now than send $14,000 to collections where they'll recover a fraction of the balance\n\nand if it already went to collections? the collection agency bought that $14,000 bill for pennies on the dollar. they'll often take a fraction of the original amount to delete it and walk away happy\n\nyou were about to destroy your credit for 7 years over a bill that was mostly inflated charges\nfive words would have saved you\n\n(i repair credit in 60-90 days, links in my bio)",
+   "lang": "en",
+   "createdAt": "2026-02-24T22:30:04.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1217472690786668544",
+    "username": "hxxntrr",
+    "name": "hunter",
+    "url": "https://x.com/hxxntrr",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2018407737189961728/NvdFQd7e_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 437,
+    "retweets": 5415,
+    "quotes": 205,
+    "likes": 25655,
+    "bookmarks": 26845,
+    "views": 1532001
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1968322684087042311",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1968322684087042311",
+   "url": "https://x.com/LeahHoustonMD/status/1968322684087042311",
+   "conversationId": "1968322684087042311",
+   "text": "CPT Code 99213 = a standard office visit.\n\nFor this, the physician was paid $48.\n\nMaybe they spent 15–20 minutes with the patient, but that’s only the beginning. They also had to document, order tests, review results, and follow up. They had to employ staff to manage scheduling, prior authorizations, billing, and endless back-and-forth with insurance. They had to cover rent, utilities, malpractice insurance, supplies, and nursing support—just to deliver that one visit.\n\nDoes this sound sustainable?\n\nWhen doctors are paid less to care for you than you pay for a pedicure with tip, should we really be surprised when they leave the profession?",
+   "lang": "en",
+   "createdAt": "2025-09-17T14:34:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "810835918701461504",
+    "username": "LeahHoustonMD",
+    "name": "Leah Houston MD",
+    "url": "https://x.com/LeahHoustonMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/989866467301773312/VGAcNYPX_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 69,
+    "retweets": 98,
+    "quotes": 16,
+    "likes": 561,
+    "bookmarks": 46,
+    "views": 46867
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1968322680580644864",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1DjDKNaoAAV2yr.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1DjDKNaoAAV2yr.jpg",
+     "width": 1170,
+     "height": 798,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2085563171826508070",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2085563171826508070",
+   "url": "https://x.com/hxxntrr/status/2085563171826508070",
+   "conversationId": "2085563171826508070",
+   "text": "You're about to pay that $14,000 medical bill\n\nStop\n\nDon't be fucking stupid\n\nYou can get it for free\n\nThe hospital violated federal law when they sent you to collections without your signed HIPAA authorization. That authorization is a specific document. Form HHS-329 or the hospital's equivalent privacy notice with your wet signature. The hospital is required under 45 CFR 164.508 to obtain this BEFORE disclosing your protected health information to any third party, including debt collectors\n\nThey almost never get it. They batch-sell delinquent accounts to collection agencies in spreadsheets. The spreadsheet has your name, balance, account number, dates of service, and often the diagnosis codes. All of that is protected health information under HIPAA. All of it was transferred without your written consent\n\nEach unauthorized disclosure is a violation worth $100-$50,000 per incident under the HIPAA Enforcement Rule (45 CFR Part 160). For willful neglect: $50,000 per violation with an annual cap of $1.5 million. The hospital knows this. The collector knows this. Neither of them expects you to know this\n\nThe 3-letter deletion sequence:\n\nLETTER 1: to the collection agency\n\n\"You are in possession of my protected health information as defined under HIPAA, 45 CFR 160.103. Please provide a copy of my signed HIPAA authorization (45 CFR 164.508) that permits you to possess, store, and communicate my medical records and billing information.\n\nIf you cannot produce this authorization within 30 days, you are in violation of the HIPAA Privacy Rule, 45 CFR 164.502(a), and I will file a complaint with the HHS Office for Civil Rights and pursue all available remedies including statutory damages.\"\n\nSend certified mail, return receipt. The collector has 30 days. They don't have the authorization because the hospital never got one. The hospital sold a spreadsheet. The authorization document doesn't exist\n\nLETTER 2: to the hospital billing department\n\n\"I am requesting a copy of my signed HIPAA Privacy Authorization (45 CFR 164.508) that specifically authorizes disclosure of my protected health information to [collection agency name]. Please also provide the Business Associate Agreement between [hospital name] and [collection agency name] as required under 45 CFR 164.502(e).\n\nIf no valid authorization or BAA exists, the disclosure of my PHI to [collection agency] constitutes a violation of the HIPAA Privacy Rule, enforceable under 42 U.S.C. 1320d-6.\"\n\nThe Business Associate Agreement (BAA) is the contract between the hospital and the collector that governs PHI handling. Under HIPAA, a covered entity (hospital) must have a BAA with any business associate (collector) who handles PHI. Many hospitals use outdated or non-compliant BAAs. Some don't have BAAs at all for their collection vendors. If the BAA is missing or defective, the entire collection is a HIPAA violation from the hospital's side\n\nLETTER 3: to all 3 credit bureaus\n\n\"The medical debt reported by [collection agency name], account #[XXX], was disclosed without valid HIPAA authorization as required by 45 CFR 164.508. I have requested proof of authorization from both the collection agency and the original creditor ([hospital name]). Neither has been able to produce it.\n\nThis account was reported based on illegally disclosed protected health information and must be removed under FCRA Section 611(a)(1)(A) as inaccurate. Additionally, per the CFPB's medical debt rule effective March 2024, medical debts under $500 should not appear on consumer credit reports.\"\n\nThe CFPB medical debt rule change:\n\nAs of March 2024, the three major credit bureaus agreed to remove medical collections under $500 from credit reports entirely. Additionally, paid medical collections are no longer reported. If you settled or paid any medical collection, it should already be removed. If it's still there, dispute it citing the updated policy\n\nFor medical debts over $500 that are still reporting: the HIPAA challenge above is your primary weapon. The secondary weapon is the itemized bill challenge (request CPT code breakdown, compare to Medicare rates, dispute inflated charges, apply for 501(r) charity care)\n\nThe CFPB has also proposed a rule (expected implementation late 2026) that would remove ALL medical debt from credit reports regardless of amount. If this passes, every medical collection in America gets wiped from credit files. The proposal is in public comment period now\n\nWhat happens in practice:\n\nThe collector receives Letter 1. They search their files for a HIPAA authorization with your signature. They don't have one. They contact the hospital. The hospital doesn't have one either (or has a general \"notice of privacy practices\" acknowledgment, which is NOT the same as a specific disclosure authorization under 164.508)\n\nThe collector has three options: produce the document (they can't), stop collecting and delete (cheapest option), or fight it (expensive and they'll probably lose)\n\n70-80% delete within 30-45 days. They're not going to spend $3,000 in legal review for a $14,000 account they bought for $280\n\na woman had $67,000 in medical collections across 3 hospitals and 4 collection agencies. we sent all 3 letters to each. hospital 1 couldn't produce the authorization or BAA. their collector deleted within 22 days. hospital 2 produced a \"notice of privacy practices\" that was not a valid 164.508 authorization. their collector deleted at day 34 after we sent a follow-up citing the specific regulatory distinction. hospital 3's collector tried to verify through the bureau. we had already frozen LexisNexis and SageStream (the shadow verification databases). bureau couldn't verify. deleted at day 41\n\n$67,000 in medical collections. $0 paid. all deleted. score went from 523 to 711 in 58 days. she bought a car at 4.9% instead of the 18% she was quoted the month before. the interest savings on that car loan alone: $6,200 over the loan term\n\nthe hospital violated federal privacy law the day they sold your medical records to a collection agency. they're counting on you not knowing. now you know lmfaooo\n\n(i fix credit in 30-90 days. link in bio)",
+   "lang": "en",
+   "createdAt": "2026-08-07T03:06:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1217472690786668544",
+    "username": "hxxntrr",
+    "name": "hunter",
+    "url": "https://x.com/hxxntrr",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2018407737189961728/NvdFQd7e_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 36,
+    "retweets": 405,
+    "quotes": 14,
+    "likes": 1607,
+    "bookmarks": 4040,
+    "views": 222422
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2083739784346800556",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2083739784346800556",
+   "url": "https://x.com/DrAlexUrology/status/2083739784346800556",
+   "conversationId": "2083739784346800556",
+   "text": "Economics at work: patients with Medicare are about to take the hit from CMS proposal to stop paying for E+M with modifier 25. \n\nMany practices stopped seeing patients with commercial plans on the same day as a procedure because of -25 modifier denials. \n\n Medicare patients are about to experience the same “consequences” of having 3 separate appointments instead of one. \n\n@DrOzCMS \n@RepGregMurphy \n@JohnCornyn \n@GeBaiDC \n@caseybmulligan \n@DrJBhattacharya \n@mfcannon \n@brian_blase \n@Paragon_Inst",
+   "lang": "en",
+   "createdAt": "2026-08-02T02:20:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 6,
+    "retweets": 10,
+    "quotes": 2,
+    "likes": 29,
+    "bookmarks": 7,
+    "views": 8074
+   },
+   "replyTo": null,
+   "quotedTweetId": "2083585538724901282",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1879946117544128512",
+      "username": "DrOzCMS",
+      "name": "Dr. Oz CMS"
+     },
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     },
+     {
+      "id": "13218102",
+      "username": "JohnCornyn",
+      "name": "Senator John Cornyn"
+     },
+     {
+      "id": "4497753743",
+      "username": "GeBaiDC",
+      "name": "Ge Bai"
+     },
+     {
+      "id": "227058271",
+      "username": "caseybmulligan",
+      "name": "caseybmulligan"
+     },
+     {
+      "id": "1427361863830949908",
+      "username": "DrJBhattacharya",
+      "name": "Jay Bhattacharya"
+     },
+     {
+      "id": "88246253",
+      "username": "mfcannon",
+      "name": "Michael F. Cannon 🇮🇪🇺🇸"
+     },
+     {
+      "id": "3913039095",
+      "username": "brian_blase",
+      "name": "Brian Blase"
+     },
+     {
+      "id": "1435252193607749638",
+      "username": "Paragon_Inst",
+      "name": "Paragon Health Institute"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1871239002537218358",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1871239002537218358",
+   "url": "https://x.com/Boey_Boman/status/1871239002537218358",
+   "conversationId": "1870620288754254134",
+   "text": "@TacoCat513 @EUhobgoblin @LeoGuidi1 @insultsrare There’s lots of ways. \n\nAll claims require a diagnosis code and an CPT code. I’ve seen cases of insurance fraud while reviewing orders sent from doctors. \n\nAll of them were fraudulent in a way that would make the patient denied when they should have been approved.",
+   "lang": "en",
+   "createdAt": "2024-12-23T16:58:38.000Z",
+   "type": "reply",
+   "author": {
+    "id": "958610802071629825",
+    "username": "Boey_Boman",
+    "name": "Boey_Boman",
+    "url": "https://x.com/Boey_Boman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1733170991726231552/Bx9m8ASn_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 21
+   },
+   "replyTo": {
+    "tweetId": "1871237708770861240",
+    "userId": "264323095",
+    "username": "TacoCat513"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "264323095",
+      "username": "TacoCat513",
+      "name": "three crows"
+     },
+     {
+      "id": "1474624940737445890",
+      "username": "EUhobgoblin",
+      "name": "John Adams"
+     },
+     {
+      "id": "1254510722966597640",
+      "username": "LeoGuidi1",
+      "name": "Leønardø Guidi 💚🏆❤️🏆"
+     },
+     {
+      "id": "1835934302732947456",
+      "username": "insultsrare",
+      "name": "Nature Is Amazing 🏝️"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2073894489224302973",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2073894489224302973",
+   "url": "https://x.com/money_cruncher/status/2073894489224302973",
+   "conversationId": "2073894489224302973",
+   "text": "My wife received a hospital bill. Our insurance covered most of the services, but we still owed about $900 out of pocket\n\nWe requested an itemized bill and saw a CPT code that didn't match the services they did\n\nWe called the hospital, provided doctor’s order, they investigated it and removed the charge.\n\nAlways verify your medical bills…",
+   "lang": "en",
+   "createdAt": "2026-07-05T22:19:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1635004022506627073",
+    "username": "money_cruncher",
+    "name": "The Money Cruncher, CPA",
+    "url": "https://x.com/money_cruncher",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1660392068982644743/lvAJCrZN_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 84,
+    "retweets": 434,
+    "quotes": 5,
+    "likes": 5772,
+    "bookmarks": 246,
+    "views": 206984
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2078312568158818592",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2078312568158818592",
+   "url": "https://x.com/anish_koka/status/2078312568158818592",
+   "conversationId": "2078312568158818592",
+   "text": "Some background before commenting on some elements of the proposed rule.\n\nThe Physician Fee Schedule (PFS) was established in legislation passed in 1989, and went into effect in 1992.  Prior to that Medicare paid physicians based on \"customary, prevailing and reasonable\" (CPR) charges.  Essentially a cost plus approach that existed for hospitals before the Inpatient Prospective Payment System (IPPS) went into effect.  \n\nFundamentally, a cost plus approach was breaking the budget, so the government turned to setting prices for services delivered.  The framework for price setting was the RVU architecture.  Every covered physician service is assigned a CPT code which has 3 RVU components.   Work RVU, Practice Expense RVU, Malpractice RVU.\n\nPayment = (wRVU+PE RVU+MP RVU) x geographic practice cost adjustment x Conversion Factor (CF).\n\nThe CF is what converts RVUs to dollars.  This equation fundamentally determines what a physician is worth in dollars.  In 2024 the CF was $32.74.  Every year CMS sets a low CF, and every year congress intervenes with a temporary patch. \n\nIts important to understand that the goal for CMS is not to \"pay physicians well\", the goal for CMS is to be budget neutral.  In 1997, Congress passed the Balanced Budget Act that introduced the Sustainable Growth Rate (SGR) formula.  This tied the conversion factor yearly update to GDP growth.  If physicians increased the amount of services they delivered more than GDP growth, the SGR required the CF to be reduced to make up for it. \n\nBy the mid 2000s, the gap was so great that the SGR formula was calling for a 20% cut.  Congress overrode the SGR cut every year with 'doc fix' patches.  \n\nMACRA act of 2015 got rid of the SGR and replaced it with MIPS and Alternative Payment Models (ACOs).  This fixed the CF cut, by mandating an increase in the CF by 0.25%-0.75% / year (Inflation is 3-5% / year).\n\nNone of this changes the fact that CMS is forced to be budget neutral.  If CMS increases RVUs and payments for E&M, it must reduce the CF to keep total outlays the same.  Within the physician fee schedule , any RVU increase for one set of services must be offset somewhere else.  It is zero sum.\n\nSo with an mind, the proposed fee schedule does a number of things, not all bad, but one of the provisions is really bad.\n\nCMS is proposing to reduce payment when a separately identifiable office/outpatient E/M visit is furnished by the same physician on the same day as a procedure.  The most expensive procedure would be paid at 100%, the other procedure at 50%.  Commonly a 25 modifier is used to indicate a same day separate procedure so physicians get paid.  \n\nCMS is arguing that a same day E/M code is not like a standalone E/M code.  The case CMS is going after is the patient who is evaluated for a problem on day x and a procedure is decided on.  When the patient comes back 20 days later for their procedure, the patient is seen/evaluated again.  \n\nThis argument was bad when CMS floated a version of it in 2019 and it's still bad now.\n\nThe -25 modifier exists precisely because CMS already acknowledged this problem and built the solution. Modifier -25 requires that the E/M be a significant, separately identifiable service above and beyond the usual pre-procedure evaluation. It is not supposed to be billed when the E/M is merely the routine pre-procedure assessment. The modifier is the mechanism that's supposed to prevent the double-dipping CMS is now claiming to fix with a payment cut.\nIf the problem is modifier -25 abuse, the correct response is enforcement and auditing, not a blanket 50% payment reduction on every legitimate same-day E/M-plus-procedure encounter.\n\nThree scenarios CMS ignores:\n\n1. Patient presents with a new problem or acute change; you evaluate it, decide independently to perform a procedure, and do so — the E/M decision-making is entirely separable\n2. Patient has a scheduled procedure but presents with a comorbidity requiring separate assessment and management decision before you proceed.\n3. A cardiology specific example.  Patient presents with chest pain, you see , evaluate, and decide to do an echocardiogram the same day.\n\nThe stated rationale is a pretext for a budget cut. CMS needs to offset the cost of other proposals.  The appropriate remedy for what amounts to modifier -25 abuse is targeted audit activity, not a structural 50% payment reduction on a category of encounters that includes large numbers of legitimate, non-overlapping clinical situations.\n\nThere are more sensible places in the PFS that make a lot of sense to go after -- telehealth and remote monitoring are probably abused to a significant degree by third parties, and deserve some fairly significant cuts (remember you need to cut something in a budget neutral world), but the best approach would be to not continue playing the zero sum game.\n\nThe current framework is binary: you're either enrolled in Medicare and bound by its payment rates and rules for all covered services, or you opt out entirely and private-contract with everyone. There is no middle path where you remain a Medicare participating physician but can also negotiate separate payment arrangements with individual patients for covered services.\n\nWin-win : Allow private contracting for enrolled physicians - let physicians enter into a voluntary agreement with a Medicare beneficiary to charge above Medicare rates for covered services, without losing their Medicare enrollment or being required to opt out entirely.\n\nI'll reiterate: Budget neutrality means every dollar of E/M increase gets clawed back somewhere else. The CF trajectory is negative no matter what Congress does  The system is structurally incapable of paying physicians fairly under its current constraints.\n\nThe only reason this is politically survivable is that Medicare patients have no alternative. They can't voluntarily pay more even if they want to — the law forbids enrolled physicians from collecting above the limiting charge, and it forbids patients from contracting around that. The coercion runs in both directions.\n\nThis would require a statutory fix -- currently the BBA 1997 act requires a full opt out for physicians, not selective contracting.  Congress was concerned that selective private contracting would create a two-tiered system where wealthy Medicare patients could buy better access.  \n\nNot surprisingly, the two-tiered system Congress feared has materialized anyway, just through different mechanisms: almost everyone right now that can afford it pays for a concierge physician.  Allowing selective private contracts is this is a market freedom argument, not a physician enrichment argument.  The goal is to preserve access to high quality physicians.  The alternative is either no physicians... or even worse access to lower quality physicians. \n\nTo Summarize:  \n\n1. The same day reduced payment for procedure/clinical proposal is a bad idea.  CMS should crack down on truly \"add on\" services by audits, not with a blanket rule that hurts appropriate service delivery.  \n2. Fixing the larger issue of the zero sum nature of the medicare budget is a statutory fix all physicians should unite behind : allow for selective private contracting with Medicare patients. \n\nI urge physicians to comment on the proposed rule:\n\nGo to https://www.regulations.gov/docket/CMS-2026-2377\n\nSuggest:\n1. Describe actual patient scenarios where the same-day E/M and procedure are genuinely non-overlapping.\n2. Make sure to note that if this is finalized, the rational response is to split some encounters across two visits, which costs Medicare more and greatly inconveniences patients.",
+   "lang": "en",
+   "createdAt": "2026-07-18T02:55:04.000Z",
+   "type": "quote",
+   "author": {
+    "id": "725172428339568640",
+    "username": "anish_koka",
+    "name": "Anish Koka, MD",
+    "url": "https://x.com/anish_koka",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863193940406444032/RcLVDG0k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 30,
+    "retweets": 49,
+    "quotes": 10,
+    "likes": 129,
+    "bookmarks": 82,
+    "views": 27575
+   },
+   "replyTo": null,
+   "quotedTweetId": "2077143476299293081",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.regulations.gov/docket/CMS-2026-2377"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2067688047164924050",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2067688047164924050",
+   "url": "https://x.com/InternetCPA/status/2067688047164924050",
+   "conversationId": "2067688047164924050",
+   "text": "Surely you just forgot to comparison-shop.\n\nGo to every hospital website, download the machine-readable file, identify the correct CPT code, determine whether the $886 includes the technical component, verify the radiologist’s separate professional fee, match it to your exact insurance plan, decode the payer-name variation, and compare all nearby facilities.\n\nThen get the chest X-ray somewhere cheaper.\n\nThat is what “price transparency” means in American healthcare.\n\nTotally normal market.",
+   "lang": "en",
+   "createdAt": "2026-06-18T19:17:00.000Z",
+   "type": "quote",
+   "author": {
+    "id": "3846874876",
+    "username": "InternetCPA",
+    "name": "Practical Patriot 🇺🇸",
+    "url": "https://x.com/InternetCPA",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1883633696655151104/emgIkMmT_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 1508
+   },
+   "replyTo": null,
+   "quotedTweetId": "2067384157672743229",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2063226803733381191",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2063226803733381191",
+   "url": "https://x.com/LighthouseDPC/status/2063226803733381191",
+   "conversationId": "2063226803733381191",
+   "text": "You got your citation. Can we discuss this now? \n\nThe AMA is sole sourced a Government Contract, CPT Code publication. The codes are MANDATORY to bill insurance. You can’t get paid without them. They have to be purchased from the AMA. \n\nNo other entity gets a chance to bid on it so the Taxpayers have NO Chance to save money. CPT Code publication is 50% of AMA income. Congress has effectively purchased the support of the AMA in any legislation they want to pass. CPT Code publication makes AMA lobbyists work for Congress. \n\nThe AMA also controls the RUC which distributes RVU coupons among the CPT Codes. A clear conflict of interest that even Grok recognizes. \n\nConflict of interest with a Government Contract is a Federal Crime punishable by prison time. The Corruption in Healthcare doesn’t just extend to Medicare and Medicaid subsidiaries. The AMA is also CORRUPT.",
+   "lang": "en",
+   "createdAt": "2026-06-06T11:49:37.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1525987430851035136",
+    "username": "LighthouseDPC",
+    "name": "Humane Healthcare for All",
+    "url": "https://x.com/LighthouseDPC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791460285317840897/2ErGEZj8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 183
+   },
+   "replyTo": null,
+   "quotedTweetId": "unavailable",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1776426683660132396",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1776426683660132396",
+   "url": "https://x.com/tarrikzaid/status/1776426683660132396",
+   "conversationId": "1776426683660132396",
+   "text": "What if health insurance denies your prior authorization cpt code and then denies your denial code ? Will the AMA make a CPT code for that too ?😅",
+   "lang": "en",
+   "createdAt": "2024-04-06T01:48:20.000Z",
+   "type": "quote",
+   "author": {
+    "id": "243358179",
+    "username": "tarrikzaid",
+    "name": "Tarrik Zaid",
+    "url": "https://x.com/tarrikzaid",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1567163664964132866/LOSauSd9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 448
+   },
+   "replyTo": null,
+   "quotedTweetId": "1771063050734313653",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1217213813231177728",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1217213813231177728",
+   "url": "https://x.com/AOAforDOs/status/1217213813231177728",
+   "conversationId": "1217213813231177728",
+   "text": "Advocacy win: Aetna stops denials of modifier 25 claims http://bit.ly/35TELFS",
+   "lang": "en",
+   "createdAt": "2020-01-14T22:36:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "273614983",
+    "username": "AOAforDOs",
+    "name": "AOA",
+    "url": "https://x.com/AOAforDOs",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1336341288271142912/Yf7evpXS_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://bit.ly/35TELFS"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102169177213595805",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2102169177213595805",
+   "url": "https://x.com/fammedfeisty/status/2102169177213595805",
+   "conversationId": "2102169177213595805",
+   "text": "This is really a very ill advised rule and will only result in more visits for the patient and more money to be paid out by CMS.  This would especially be bad for Family Medicine and primary care physicians and their patients, ESPECIALLY in rural areas.  When I was in practice, we would often see patients for a scheduled E/M visit but the patient would appropriately ask about a skin lesion or another issue requiring an appropriate surgical excision and we would do it using the -25 modifier as intended and get paid for both - and both were appropriate.  And it was convenient for the patient and prevented another visit.\n\nhttps://www.medpagetoday.com/practicemanagement/reimbursement/123080?utm_medium=social&utm_source=x&utm_campaign=mpt-article-share",
+   "lang": "en",
+   "createdAt": "2026-09-21T22:52:42.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "372323479",
+    "username": "fammedfeisty",
+    "name": "Douglas Henley, MD, FAAFP",
+    "url": "https://x.com/fammedfeisty",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1644404477108142080/SxlshiL7_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 7,
+    "bookmarks": 1,
+    "views": 1226
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.medpagetoday.com/practicemanagement/reimbursement/123080?utm_medium=social&utm_source=x&utm_campaign=mpt-article-share"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1638228877943119890",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1638228877943119890",
+   "url": "https://x.com/JoinCrowdHealth/status/1638228877943119890",
+   "conversationId": "1638228877943119890",
+   "text": "CPT code 93351 - transthoracic echocardiogram at rest and after exercise w contrast\n\nWith insurance: $6063 (thanks to a Twitter friend who sent to us his receipt attached)\n\nWithout insurance: $205.92 (receipt says only 93351 but called and confirmed contrast 93320, 93325 is included in this price).\n\nThat’s a 97% savings using cash.",
+   "lang": "en",
+   "createdAt": "2023-03-21T17:19:35.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1380555947542773760",
+    "username": "JoinCrowdHealth",
+    "name": "CrowdHealth",
+    "url": "https://x.com/JoinCrowdHealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1703133886786555904/8jvowzuI_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 10,
+    "quotes": 5,
+    "likes": 47,
+    "bookmarks": 3,
+    "views": 5567
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1638228869017739264",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FrwoegaXoAAoSZl.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FrwoegaXoAAoSZl.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1638228868933754920",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FrwoegGWICgrdj8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FrwoegGWICgrdj8.jpg",
+     "width": 711,
+     "height": 778,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1867600741281804489",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1867600741281804489",
+   "url": "https://x.com/MarcusSchuff/status/1867600741281804489",
+   "conversationId": "1867593004502089787",
+   "text": "I used to manage a radiology practice.\n\nI agree, it would probably cost $85 for the scan itself and another $50 for the radiologist to interpret the CT scan and provide a report. \n\nRight now a radiologist get reimbursed between $45 and $130 for interpreting a CT of the Chest w/o contrast (CPT Code: 71250) from the various insurance companies for an average of ~$87.50. \n\nIf the radiologist didn't have to credential and contract with all the insurance companies, appeal denied claims, with for delayed payments, etc., it would probably worth it to them to accept $50 cash per interpretation of CT.",
+   "lang": "en",
+   "createdAt": "2024-12-13T16:01:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "63177363",
+    "username": "MarcusSchuff",
+    "name": "Marcus Schuff",
+    "url": "https://x.com/MarcusSchuff",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1974497965957091328/NqrrdKWx_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 54,
+    "bookmarks": 2,
+    "views": 2488
+   },
+   "replyTo": {
+    "tweetId": "1867593004502089787",
+    "userId": "36996328",
+    "username": "jeremykauffman"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1981073299708006481",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1981073299708006481",
+   "url": "https://x.com/MaryBowdenMD/status/1981073299708006481",
+   "conversationId": "1981073299708006481",
+   "text": "Cancer patient needs a PET scan. This is how complicated it is.  @memorialhermann \n\n8-27-25\nPET SCAN ordered and faxed. (sent several places until we wound up at Memorial Hermann, which is in her network.)\n\n9/3\nShe hadn’t heard anything from them so she called and scheduled it for Oct 7. (Email correspondence)\n\n9/23\nRep at Memorial Hermann emailed that she needs prior auth\n\n9/26\nI emailed her to call her insurance about obtaining a prior auth, and to let us know what forms they need from us. \n\n10/8\nI emailed her cash pay options to get her pet scan done\n\n10/9\nPhone call with Dr. Bowden.  Dr. Bowden asked that we call Evicore on her behalf. I did. \n\n10/10\nCalled Evicore, who directed me to call Cigna. Used automated system, was told she didn’t need prior auth.  I faxed the case numbers along with the order to Memorial Hermann again.\n\n10/14\nMemorial Hermann faxed that there was an error on the order, it was missing an order date.  I added the order date and re-sent.\n\n10/16\nMemorial Hermann asked for the file and the records to be faxed again. (Actually faxed 10/10, 10/13, 10/16, and 10/20)\n\n10/17\nMemorial Hermann let us know the icd 10 codes were not what they wanted for the diagnosis, they wanted a cpt code. The icd 10 codes let them know she did not need prior auth, but the cpt code indicated she did. Once they had that, they gave a new case number and began the denial process.  I had to call Evicore and start over. \n\nSpoke to Lakishia G. at Evicore.  She put the order through and gave me a new case number. \n\n10/20\nMiranda called from Evicore saying the order was pending denial and needed additional information.  She said they would fax me all the details and what additional information was needed when it was fully denied. (Have not received fax yet.)\n\n10/22\nDonna from Memorial Hermann called to let me know the order was pending denial and some of the information they will most likely ask for is the following:\n     All records (I sent her records multiple times already)\n     Medications, doses and durations\n     Any other imaging she has had\n     Prior studies and their results\n     Any biopsies she has had\n     Prior management attempts including conservative therapies\n\nShe let me know if they don’t have these things by 3pm tmw, the appointment would be cancelled or she’d have to pay cash.  She said the patient could most likely log into their portal and get all this info.",
+   "lang": "en",
+   "createdAt": "2025-10-22T19:00:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1139217161275101184",
+    "username": "MaryBowdenMD",
+    "name": "Mary Talley Bowden MD",
+    "url": "https://x.com/MaryBowdenMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2005347836632748032/m0yywRmA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 531,
+    "retweets": 684,
+    "quotes": 120,
+    "likes": 2286,
+    "bookmarks": 169,
+    "views": 94937
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "17877730",
+      "username": "memorialhermann",
+      "name": "Memorial Hermann"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1886096175377379665",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1886096175377379665",
+   "url": "https://x.com/DrAlexUrology/status/1886096175377379665",
+   "conversationId": "1886096175377379665",
+   "text": "The AMA CPT Advisor Editorial Panel is meeting on Feb 3, 2025 to release official guidance for Prior Authorization CPT code billing. \n\nThe guidance will detail what doctors can get paid for + what is a free service to health insurance companies. \n\n@AmerMedicalAssn @PresAmerMed",
+   "lang": "en",
+   "createdAt": "2025-02-02T16:55:44.000Z",
+   "type": "quote",
+   "author": {
+    "id": "231948697",
+    "username": "DrAlexUrology",
+    "name": "Alex Shteynshlyuger MD",
+    "url": "https://x.com/DrAlexUrology",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/378800000504920784/bd7fe5c95ba9460ee9dd173249c1632a_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 314
+   },
+   "replyTo": null,
+   "quotedTweetId": "1771063050734313653",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "1826319887087652864",
+      "username": "PresAmerMed",
+      "name": "Willie Underwood III, MD, MSc, MPH"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2036926117605744914",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2036926117605744914",
+   "url": "https://x.com/hxxntrr/status/2036926117605744914",
+   "conversationId": "2036926117605744914",
+   "text": "the hospital you were born in charged your mother $40 for the first time she held you\n\nit's called \"skin-to-skin contact\" and there's a billing code for it. CPT 99460. your mother went through labor, pushed a human being out of her body, and the hospital charged her forty dollars for the privilege of touching her own child\n\nthis is the same billing system that's destroying your credit score right now\n\na single ER visit generates 15-40 individual line items. each one has a CPT code. each code has a chargemaster price set by the hospital. and that chargemaster is a fictional document that has no connection to the actual cost of anything\n\na bag of IV saline: hospital cost $0.86, chargemaster price $400-$900\na single acetaminophen tablet (tylenol): hospital cost $0.02, chargemaster price $15-$50\na basic blood panel: lab cost $12, chargemaster price $200-$1,100\na CT scan: equipment cost per scan ~$50, chargemaster price $3,000-$10,000\n\nevery single one of these inflated charges becomes a \"debt\" when you don't pay. and that debt gets sold to a collector for 2-4 cents on the dollar. and that collector puts it on your credit report as if you actually owe $47 for a tylenol tablet\n\nthere are 100 million americans carrying medical debt right now. roughly 1 in 3 adults. it's the #1 cause of collections on credit reports and the #1 reason people file bankruptcy in this country\n\nand most of it is made up numbers from a document nobody was supposed to see\n\nthe play:\n\nfor any medical bill over $1,000, ALWAYS request the itemized bill first. not the summary bill they send you (one big number designed to scare you into paying). the line-by-line itemized version with CPT codes for every charge\n\ngoogle each CPT code against the fair market rate at http://fairhealthconsumer.org. compare what the hospital charged versus what the procedure actually costs in your geographic area. you will find overcharges on almost every bill. sometimes 3x. sometimes 10x\n\nonce you have the itemized bill, call the hospital billing department and say this:\n\n\"i'm reviewing my itemized charges and i've identified several line items that significantly exceed fair market rates for my area. i'd like to discuss an adjustment before this goes any further. i also want to confirm whether i qualify for your financial assistance program under your charity care policy\"\n\nevery nonprofit hospital in america (which is most of them) is legally required to have a financial assistance policy under Section 501(r) of the Internal Revenue Code. if your income falls below a certain threshold relative to the federal poverty level (usually 200-400% FPL), the hospital must reduce or eliminate your bill entirely. they are required by law to have this program and required to tell you about it\n\nmost don't tell you about it. because every dollar you pay in full is a dollar they don't have to write off\n\nif the bill has already gone to collections:\n\nthe collector bought inflated chargemaster numbers for pennies. they can't produce the original itemized bill. they can't explain the CPT codes. they can't verify the charges are accurate. they bought a spreadsheet\n\nsend the validation letter under FDCPA 809. demand the original itemized statement with CPT codes, the payment history showing insurance adjustments, and proof the remaining balance is accurate after all insurance payments and contractual adjustments\n\ncollectors almost never have this level of documentation for medical accounts. the hospital sold the debt and moved on. the paperwork went with it\n\na woman came to us with $67,000 in medical collections across three hospital visits. we requested itemized bills for all three. found $23,000 in duplicate charges, upcoded procedures, and facility fees that were already included in the surgeon's bill. disputed the collections using the itemized discrepancies as evidence. two collectors couldn't validate at all. the third settled for $4,200 on a $31,000 account\n\nshe went from $67,000 in medical debt to $4,200 in total payments. her score went from 541 to 718 in 90 days. she bought a house 6 months later\n\nthe hospital charged your mom $40 to hold you. and they'll charge you $50 for a tylenol today. and they'll put both on your credit report if you don't pay. and they'll sell it for pennies to a collector who'll harass you for years\n\nthe entire system runs on your ignorance. the billing, the collections, the reporting. every layer depends on you never looking at the itemized charges and never questioning the numbers\n\nwe look at the numbers. we question everything. and we get the bullshit off your credit report. link in bio",
+   "lang": "en",
+   "createdAt": "2026-03-25T22:00:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1217472690786668544",
+    "username": "hxxntrr",
+    "name": "hunter",
+    "url": "https://x.com/hxxntrr",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2018407737189961728/NvdFQd7e_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 92,
+    "retweets": 1222,
+    "quotes": 60,
+    "likes": 3578,
+    "bookmarks": 2774,
+    "views": 170507
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://fairhealthconsumer.org/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1861030224932008229",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1861030224932008229",
+   "url": "https://x.com/mass_marion/status/1861030224932008229",
+   "conversationId": "1861030224932008229",
+   "text": "Agree that 'suits' at @CMSGov potentially fixing prices not a good idea, but the CPT code thing..\n Current problems with AMA owning CPT: \n-Was it a government granted backdoor deal?   If so, shady from the start \n-AMA collecting $$ from each CPT gives it a COI with the insurance industry...  \n-Physicians paying attention during early days of #covid might note that the FIRST thing AMA did was make codes. They might ask if that was the most helpful thing to do for physicians and patients or a 💰 move. \n_Also curious... in the gender debate, there are no codes for de-transitioning, and plenty for transitioning. Is the AMA able to effect what physicians can and cannot get paid for? Is ideology guiding medicine? \n-AMA can sell rights to the CPT and has done so to Optum, who also has contracts with CMS and HHS and their PBM arm has the right to government granted kickbacks. What are the financial arrangements here?",
+   "lang": "en",
+   "createdAt": "2024-11-25T12:52:36.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1001769760596676609",
+    "username": "mass_marion",
+    "name": "Marion E Mass, M.D. #patientsfirst #scrubsnotsuits",
+    "url": "https://x.com/mass_marion",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1882401174256541696/C-5do0el_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 12,
+    "retweets": 17,
+    "quotes": 2,
+    "likes": 48,
+    "bookmarks": 10,
+    "views": 5541
+   },
+   "replyTo": null,
+   "quotedTweetId": "1860850239768244288",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1861028737015234560",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GdOzxrKWQAA0yut.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GdOzxrKWQAA0yut.png",
+     "width": 1824,
+     "height": 1128,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "covid"
+    ],
+    "mentions": [
+     {
+      "id": "70837868",
+      "username": "CMSGov",
+      "name": "CMSGov"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089538703534264367",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2089538703534264367",
+   "url": "https://x.com/DrBruggeman/status/2089538703534264367",
+   "conversationId": "2089538703534264367",
+   "text": "Come with me for a few minutes to an imaginary world. A world where professionals are paid 50% for any work they do in the same visit they diagnose the problem. \n\nYour water main bursts. Water is shooting 30 feet in the air, flooding your street. The plumber diagnoses it in 2 minutes. He'll be back tomorrow if his schedule allows\n\nIt's 105° outside, 85° inside. The AC tech finds you're bone dry on refrigerant. Sit tight, someone will swing by next week.\n\nYour tire light's been on. Shop finds a nail, tire's losing air fast. They tell you to drive home on it, come back next Tuesday.\n\nYour toilet has overflowed. Raw sewage is spreading across your bathroom floor right now. Keep towels down till Thursday when they can come back.\n\nElectrician finds a scorched wire behind your breaker panel, which is an active fire risk and potentially could burn your house down. They tell you to call their scheduler for our next available appointment\n\nDoes any of this make sense? Of course not.\n\nUnfortunately this is exactly what the government wants to do to doctors. Diagnose you in clinic, decide a procedure is needed, perform it that same day to save you a second appointment, a second copay, a second day off work, and get paid 50% less for it.\n\nSo doctors won't eat that cut. They'll do exactly what any rational professional would do: delay the fix. Schedule the second visit. Make the patient come back.\n\nWhen it's a plumber, you wait a few extra days for water damage. When it's a doctor, patients delay care they need, and some of them get worse waiting.\n\nWrite CMS today and tell them that paying the -25 modifier at 50% is both unreasonable and reckless. Call your Member of Congress and tell them this isn’t what you paid premiums and taxes for. \n\n@IndeMedAction",
+   "lang": "en",
+   "createdAt": "2026-08-18T02:23:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2569441044",
+    "username": "DrBruggeman",
+    "name": "Adam Bruggeman, MD",
+    "url": "https://x.com/DrBruggeman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1989729140111462400/uBBMjCyg_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 24,
+    "quotes": 6,
+    "likes": 65,
+    "bookmarks": 5,
+    "views": 2584
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2089538697922584576",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HP-IX_oboAAyMzD.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HP-IX_oboAAyMzD.jpg",
+     "width": 1320,
+     "height": 1313,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1985442413989806087",
+      "username": "IndeMedAction",
+      "name": "IndeMed"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102062968921858184",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2102062968921858184",
+   "url": "https://x.com/theashezgroup/status/2102062968921858184",
+   "conversationId": "2102062968921858184",
+   "text": "🧩 ABA Billing TipCodes like 97151, 97153, 97155 & 97156 are only part of a clean ABA claim.Before billing, verify:\n✔️ Authorization & approved units\n✔️ Correct rendering provider\n✔️ CPT code & POS\n✔️ Session time/documentation\n✔️ Payer-specific requirements💡 One mismatch can turn an authorized ABA service into a denied claim.📞 844-824-4040 | 🌐 http://theashezgroup.com\n#ABABilling #ABA #BCBA #RBT #MedicalBilling #RevenueCycleManagement #TheAshezGroup",
+   "lang": "en",
+   "createdAt": "2026-09-21T15:50:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1911278952359788544",
+    "username": "theashezgroup",
+    "name": "The Ashez Group . Medical Billing & RCM Expert",
+    "url": "https://x.com/theashezgroup",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1914417325773553664/kajVJWhV_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 15
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102062897786400768",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2102062897786400768/vid/avc1/1254x1254/hDGQ7dgxRRaBPNiS.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102062897786400768/img/gw5BajmThPqk4nvh.jpg",
+     "width": 1254,
+     "height": 1254,
+     "altText": null,
+     "durationSeconds": 20
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "ABABilling",
+     "ABA",
+     "BCBA",
+     "RBT",
+     "MedicalBilling",
+     "RevenueCycleManagement",
+     "TheAshezGroup"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://theashezgroup.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1897083052003659847",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1897083052003659847",
+   "url": "https://x.com/LighthouseDPC/status/1897083052003659847",
+   "conversationId": "1897083052003659847",
+   "text": "CPT Codes are required to bill Health Insurance. CPT codes do not require a security clearance. CPT Code Publication is tax payer funded and not put out for bid like other Government Contracts and given to the American Medical Association. 50% of AMA income comes from Taxpayers and our children for CPT Code Publication. There is NO Reason CPT Code publication is NOT put out for bid.\nCPT Codes are discussed in yearly CLOSED DOOR Meetings. These meetings should be transcripted, recorded and open to the public. The AMA and CPT Code publication process needs to be audited. @DOGE @DOGE_HHS  #Corrupt #Fraud https://paddockpost.com/2019/12/03/how-revenue-is-spent-at-the-american-medical-association-ama/",
+   "lang": "en",
+   "createdAt": "2025-03-05T00:33:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1525987430851035136",
+    "username": "LighthouseDPC",
+    "name": "Humane Healthcare for All",
+    "url": "https://x.com/LighthouseDPC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791460285317840897/2ErGEZj8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 95
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Corrupt",
+     "Fraud"
+    ],
+    "mentions": [
+     {
+      "id": "1856751787644260354",
+      "username": "DOGE",
+      "name": "Department of Government Efficiency"
+     },
+     {
+      "id": "1891334438115483648",
+      "username": "DOGE_HHS",
+      "name": "DOGE HHS"
+     }
+    ],
+    "urls": [
+     "https://paddockpost.com/2019/12/03/how-revenue-is-spent-at-the-american-medical-association-ama/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1790826354000413176",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1790826354000413176",
+   "url": "https://x.com/JCLinMD/status/1790826354000413176",
+   "conversationId": "1790826354000413176",
+   "text": "I can't wait for this fight!\n\n@UHC wrongly denying E&amp;M claims with modifier 25. \n\nI would recommend that they watch my multiple YouTube videos describing appropriate use of modifier 25 on E&amp;M visits.\n\nMaybe they will learn something.\n\n#Deny #Delay #Decline #Deceive #Insurance",
+   "lang": "en",
+   "createdAt": "2024-05-15T19:27:29.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "43546819",
+    "username": "JCLinMD",
+    "name": "John C Lin, MD",
+    "url": "https://x.com/JCLinMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1592704870024290304/ldkojMju_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 1478
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Deny",
+     "Delay",
+     "Decline",
+     "Deceive",
+     "Insurance"
+    ],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "UHC",
+      "name": "UnitedHealthcare"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100166919684805065",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2100166919684805065",
+   "url": "https://x.com/mardehaym/status/2100166919684805065",
+   "conversationId": "2100166919684805065",
+   "text": "Imagine a PE-backed medical group with 40 clinics.\n\nEleven people doing nothing but prior authorizations, 2,8K requests a month at 24 minutes each, and a third of them bounced back for a missing attachment or a wrong CPT code.\n\nHere's how we'd get that from 24 minutes to under 4 with AI agents.\n\n[1] Week one we don't touch a payer portal, because the first thing we build is the golden set: sixty real prior-auth requests from the last quarter with the outcome the team actually got, including the twenty that bounced.\n\nThat becomes the definition of done (foundation), and every change to the agent from then on is scored against it.\n\nMost teams skip this and go straight to browser automation, which works on one national payer, breaks on the regional Blue, and leaves nobody able to say what \"works\" meant.\n\n[2] Weeks two and three go to the data layer: read-only access to the EHR and the practice management system, a dictionary of the fields the agent can reason from, and patient identifiers masked before any model sees a record.\n\n[3] Weeks four and five are the harness.\n\nThe agent assembles the request, checks the payer's documented criteria, attaches the notes, and then stops so a coordinator can see the assembled packet in a browser extension, read the agent's reasoning in three sentences, and click submit or edit.\n\nNothing reaches a payer without a human on it, every portal interaction is recorded so a changed login page shows up as a failure on our side before the coordinator hits it, and for payers that only take phone the agent queues the call with the script prepared while a person dials.\n\nIn week six the group's own prior-auth lead runs acceptance by taking the twenty bounced requests and watching the agent rebuild them, and if it misses an attachment on any of the twenty it goes back to us.\n\nThe time saving comes from assembly rather than submission, since pulling notes, matching criteria, and formatting the packet is 19 of the 24 minutes. The agent takes those and the coordinator keeps the four that need judgment.\n\nAt 2,800 requests a month the agent costs a few cents per request in model calls plus $250 a month in infrastructure inside the group's own tenant, and the build is one pod at $17K a month with the first coordinator-facing version in month three.\n\nThousands of medical groups exist like this, and every one of them has been shown a demo on somebody else's portal.\n\nThe design itself is how we shipped a prior-auth extension for a 10-year-old platform this summer, where the operators told us the invisible automation they'd had before was the problem, because nobody could see it working or failing.\n\nVendors sell autonomous, and what a CFO can actually sign is supervised, measured, and running inside the practice's own tenant.",
+   "lang": "en",
+   "createdAt": "2026-09-16T10:16:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "326024615",
+    "username": "mardehaym",
+    "name": "Mark Ajzenstadt",
+    "url": "https://x.com/mardehaym",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1217178205863514112/73FfYSrY_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 10,
+    "quotes": 4,
+    "likes": 101,
+    "bookmarks": 201,
+    "views": 33797
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1768033291922235414",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1768033291922235414",
+   "url": "https://x.com/Path4People/status/1768033291922235414",
+   "conversationId": "1768033291922235414",
+   "text": "CPT Code-How Pathologists can get paid,esp Private sector  \n\nI think it's important to understand as a resident  \n\nCPT Code 88305, for instance, includes s/o of nevi, prostate biopsies, colon polyps  (Total 2023 reimbursable rate $71.74; in 2024, it's set to decrease $70.40👇💵",
+   "lang": "en",
+   "createdAt": "2024-03-13T21:55:59.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1636389172964659200",
+    "username": "Path4People",
+    "name": "Jay \"Thymocyte\" Hwang",
+    "url": "https://x.com/Path4People",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1644114712622436353/M9xp4Hv2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 2,
+    "views": 1482
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1828380911257239583",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1828380911257239583",
+   "url": "https://x.com/LighthouseDPC/status/1828380911257239583",
+   "conversationId": "1828380911257239583",
+   "text": "The AMA here is working with Corporate Healthcare at the expense of Cancer patients and Doctors. 50% of AMA income is from CPT Code publication. Does your Plumbing , Electrician or Mechanic bill require Codes for billing? \nThe CPT codes are a Government Contract funded by TAXPAYERS. CPT Code publication is NOT put out for bid to get the best price. Have any of the companies who publish or use these codes ever been audited like government contractors should?\nCPT Codes are NOT Necessary for the practice of Medicine. CPT Codes are used by Corporate Healthcare and Insurance to Financially Rape the sick ad suffering and deny Health Care. #Healthcare #government #Fraud #Corruption",
+   "lang": "en",
+   "createdAt": "2024-08-27T10:35:53.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1525987430851035136",
+    "username": "LighthouseDPC",
+    "name": "Humane Healthcare for All",
+    "url": "https://x.com/LighthouseDPC",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1791460285317840897/2ErGEZj8_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 6,
+    "quotes": 3,
+    "likes": 19,
+    "bookmarks": 3,
+    "views": 2458
+   },
+   "replyTo": null,
+   "quotedTweetId": "1828179925007798525",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Healthcare",
+     "government",
+     "Fraud",
+     "Corruption"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1534676176677048320",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1534676176677048320",
+   "url": "https://x.com/DrHasson2/status/1534676176677048320",
+   "conversationId": "1534676176677048320",
+   "text": "It’s time for us to have preventative mental health care. \n\nYou shouldn’t need acute care in order to be able to use your health insurance to see one of us. \n\nCan’t we have a mental health wellness CPT code? Think yearly physical but for mental health.",
+   "lang": "en",
+   "createdAt": "2022-06-08T23:18:08.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1112418538558504961",
+    "username": "DrHasson2",
+    "name": "Jessica Hasson, PhD",
+    "url": "https://x.com/DrHasson2",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1482792549295214609/GDaNs3_T_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 71,
+    "bookmarks": 3,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:825282283443740672",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "825282283443740672",
+   "url": "https://x.com/VishalGulati_/status/825282283443740672",
+   "conversationId": "825282283443740672",
+   "text": "Or even worse. Tech exists, let's hack a CPT code to get paid. https://x.com/chrissyfarr/status/825104449655840768",
+   "lang": "en",
+   "createdAt": "2017-01-28T10:00:04.000Z",
+   "type": "quote",
+   "author": {
+    "id": "804833",
+    "username": "VishalGulati_",
+    "name": "Vishal Gulati (I back scientists)",
+    "url": "https://x.com/VishalGulati_",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1924175249370750976/unfDNi_X_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "825104449655840768",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/chrissyfarr/status/825104449655840768"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089406893726785944",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2089406893726785944",
+   "url": "https://x.com/InvestingDoc/status/2089406893726785944",
+   "conversationId": "2089406893726785944",
+   "text": "Why is there a CPT code for almost everything we diagnose in medicine… (V97.33XD – Sucked Into Jet Engine)\n\nExcept the ONE thing that actually saves Medicare money?\n\nI stayed late this past Friday. Saw 3 patients in the last minutes of the work day and kept all 3 out of the ER.\n\nNo CPT code.\nNo credit to me.\nNo data to Medicare.\n\nJust the system pretending it wants “value” and happy to metric me on not doing enough mammograms but look the other way at the hundreds of times I've kept patients out of the ER this year alone.\n\nOh, I don't get paid more to keep them out of the ER. I just get paid LESS the more time they go to the ER. That's what the system cares about...",
+   "lang": "en",
+   "createdAt": "2026-08-17T17:39:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "748186945575063552",
+    "username": "InvestingDoc",
+    "name": "InvestingDoc",
+    "url": "https://x.com/InvestingDoc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2062633236509999104/G3Vh2dDD_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 11,
+    "retweets": 1,
+    "quotes": 2,
+    "likes": 52,
+    "bookmarks": 1,
+    "views": 8885
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100203547904315731",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "2100203547904315731",
+   "url": "https://x.com/B_Madden4/status/2100203547904315731",
+   "conversationId": "2100203547904315731",
+   "text": "Where is employer-sponsored insurance heading? \n\nWe're talking about in this episode of Claims Denied.\n\nI recently sat down with @AhmedMarmoush, CEO and co-founder of Handl Health, fresh off their Series A. \n\nAhmed's path is unlike any guest I've had: clinical pharmacist in New Zealand's single-payor system, to a consultant alongside the country's former Director General of Health, to an $800 bill for a routine physical in LA that turned into a company. (They offered him 50% off if he paid within a few days. He compared it to haggling in an Egyptian street market. He's not wrong.)\n\nWe get into why cost shifting is dead, how variable copay plans really work, what's inside Handl's value index, and why he's betting on being the enablement layer between brokers and carriers instead of building yet another health plan.\n\nIf you touch benefits strategy, brokerage, or health plan ops, this one's worth the commute. Full episode in this post.\n\nTIMESTAMPS\n\n(01:35) From pill counter in Auckland to founder in LA: what a single-payor upbringing teaches you about US healthcare (and why healthcare repeats itself every 10 years) \n(13:30) The $800 \"free\" physical, the 50% phone discount, and haggling with hospitals like it's a Cairo street market (\"Welcome to US healthcare\")\n(17:12) Price transparency files were a goldmine nobody could read: how Handl went from data vendor to plan orchestrator for 800+ brokers \n(23:52) Cost shifting is dead: variable copays, shopping by episode instead of CPT code, and the end of point-solution sprawl \n(28:13) Inside the value index — cost, quality, appropriateness — and why \"tier and steer\" is the whole ballgame \n(36:13) Selling outcomes instead of software: AI turns a high-touch services business into a product\n(47:22) Why Handl is building the enablement layer between brokers and carriers, not another health plan\n\n@Hospitalogy_HC",
+   "lang": "en",
+   "createdAt": "2026-09-16T12:42:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "318475371",
+    "username": "B_Madden4",
+    "name": "Blake Madden 🏥",
+    "url": "https://x.com/B_Madden4",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1802899584382795776/9hxJ1lJp_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 6,
+    "views": 5242
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2098514925492801536",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2098514925492801536/vid/avc1/1920x1080/aLaf1CWXk7XomqBX.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098514925492801536/img/sKAGRYemmeMqXLrj.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": 3147
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "884141653170278400",
+      "username": "AhmedMarmoush",
+      "name": "Ahmed Marmoush"
+     },
+     {
+      "id": "1511522661221941256",
+      "username": "Hospitalogy_HC",
+      "name": "Hospitalogy 🏥"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1851728941821890700",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1851728941821890700",
+   "url": "https://x.com/PanickedFoodie/status/1851728941821890700",
+   "conversationId": "1851728941821890700",
+   "text": "Folks, make sure you are checking your medical billing carefully.\n\nI have a situation where a radiologist double billed me, got paid by the insurance company, and then sent me to collections lmao😂 They billed 3 times for the same CPT code.\n\nThey are refusing to correct it",
+   "lang": "en",
+   "createdAt": "2024-10-30T20:52:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1020405030791319552",
+    "username": "PanickedFoodie",
+    "name": "Dr. Ashley | Panicked Foodie (she/her)",
+    "url": "https://x.com/PanickedFoodie",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2089562708488146944/8nuVmMge_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 6,
+    "quotes": 1,
+    "likes": 68,
+    "bookmarks": 2,
+    "views": 1443
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1234204456079654912",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1234204456079654912",
+   "url": "https://x.com/AAPSonline/status/1234204456079654912",
+   "conversationId": "1234204456079654912",
+   "text": "California Court of Appeal rules in favor of surgeon denied payment, by Aetna, for emergency surgery, solely for using the wrong CPT code.  https://www.courts.ca.gov/opinions/documents/B296716.PDF",
+   "lang": "en",
+   "createdAt": "2020-03-01T19:50:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "42769016",
+    "username": "AAPSonline",
+    "name": "Association of American Physicians & Surgeons",
+    "url": "https://x.com/AAPSonline",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1602776304104853504/nNkBTYLv_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 26,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.courts.ca.gov/opinions/documents/B296716.PDF"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1518958714736185344",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1518958714736185344",
+   "url": "https://x.com/FarhoodFarjah/status/1518958714736185344",
+   "conversationId": "1518958714736185344",
+   "text": "Thank you @AmerMedicalAssn for CPT code 43497\n\nWonder if a CPT code might increase #achalasia patient access to POEM &amp; reduce physician burnout arising from payer denials &amp; pre-auths\n\nhttps://ja.ma/3v60km\n@JAMASurgery @AlexLoisMD @SAGES_updates @ElliotServaisMD @DrShawnGroth",
+   "lang": "en",
+   "createdAt": "2022-04-26T14:22:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1205957214898286592",
+    "username": "FarhoodFarjah",
+    "name": "Farhood Farjah",
+    "url": "https://x.com/FarhoodFarjah",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1206279385235349504/7xXN0T--_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "achalasia"
+    ],
+    "mentions": [
+     {
+      "id": "27922157",
+      "username": "AmerMedicalAssn",
+      "name": "AMA"
+     },
+     {
+      "id": "54949696",
+      "username": "JAMASurgery",
+      "name": "JAMA Surgery"
+     },
+     {
+      "id": "1114276502982615042",
+      "username": "AlexLoisMD",
+      "name": "Alex Lois, MD"
+     },
+     {
+      "id": "40354506",
+      "username": "SAGES_updates",
+      "name": "SAGES is in Vegas in 2027!"
+     },
+     {
+      "id": "1298777287635218432",
+      "username": "ElliotServaisMD",
+      "name": "Elliot Servais, MD, FACS"
+     },
+     {
+      "id": "927657098401460226",
+      "username": "DrShawnGroth",
+      "name": "Shawn Groth"
+     }
+    ],
+    "urls": [
+     "https://ja.ma/3v60km"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1450508973233278983",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1450508973233278983",
+   "url": "https://x.com/LenKusov/status/1450508973233278983",
+   "conversationId": "1450508973233278983",
+   "text": "Shoutout to my (hopefully) soon-to-be surgeon for having a dedicated trans specialty whose job is, among other things, to try every combination of diagnostic and CPT code to get insurance to pay for shit.\n\nFor an orchiectomy like mine, only had 2 people with CareSource denied.",
+   "lang": "en",
+   "createdAt": "2021-10-19T17:07:43.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1182294903826583553",
+    "username": "LenKusov",
+    "name": "Len 🏳️‍⚧️ the raptor @ PCD",
+    "url": "https://x.com/LenKusov",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1377847638889013251/99cFlyA2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1450337862860218382",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1810432524176556269",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1810432524176556269",
+   "url": "https://x.com/morgancheatham/status/1810432524176556269",
+   "conversationId": "1810432524176556269",
+   "text": "big healthcare AI news today as @TempusAI received the first-ever CPT code for an algorithm-only analysis of previously-sequenced, laboratory developed test transcriptomic data. TLDR: AI molecular phenotyping has a new business model.\n\nthe PurISTSM test uses RNA profiling to identify molecular subtypes in patients with advanced pancreatic ductal adenocarcinoma, which may inform first-line therapy selection and management.\n\nwhile i'm skeptical that payer balance sheets are going to solve the \"who pays for healthcare AI\" problem, the reimbursement pipes for clinical AI are maturing. i am surprised to see more progress for usage-based vs. performance-based models given the many challenges with FFS economics.\n\nit will be interesting to see how payers assess the \"medical necessity\" and therefore a reimbursability of clinical AI as these models come to market.\n\nhttps://investors.tempus.com/news-releases/news-release-details/american-medical-association-grants-pla-code-tempus-algorithmic?mobile=1",
+   "lang": "en",
+   "createdAt": "2024-07-08T21:55:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "785805552928509953",
+    "username": "morgancheatham",
+    "name": "Morgan Cheatham, MD",
+    "url": "https://x.com/morgancheatham",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1915807787285643264/_0s_Rb9G_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 25,
+    "quotes": 3,
+    "likes": 202,
+    "bookmarks": 115,
+    "views": 36351
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1810430703365992448",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GR_xIfSXMAA33p2.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GR_xIfSXMAA33p2.jpg",
+     "width": 1490,
+     "height": 458,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3909851415",
+      "username": "TempusAI",
+      "name": "Tempus"
+     }
+    ],
+    "urls": [
+     "https://investors.tempus.com/news-releases/news-release-details/american-medical-association-grants-pla-code-tempus-algorithmic?mobile=1"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1615343985341382659",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1615343985341382659",
+   "url": "https://x.com/pinky68abc/status/1615343985341382659",
+   "conversationId": "1615343985341382659",
+   "text": "Absolutely disgusting that just because the CPT code is changing for breast reconstructive surgery that it will put it out of reach for those that need to file under insurance. Like having breast cancer isn’t bad enough. Insurance is a scam.",
+   "lang": "en",
+   "createdAt": "2023-01-17T13:43:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2548444770",
+    "username": "pinky68abc",
+    "name": "Lori Summers",
+    "url": "https://x.com/pinky68abc",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1570931555341590529/CUPjJ5sQ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 3,
+    "quotes": 1,
+    "likes": 26,
+    "bookmarks": 0,
+    "views": 719
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1547629407791067141",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1547629407791067141",
+   "url": "https://x.com/PedSurgUpdate/status/1547629407791067141",
+   "conversationId": "1547629407791067141",
+   "text": "sorry is in Spanish...but we have this CPT code that receives different reimbursement for the same diagnosis and management...from different health insurance companies...is that we have different types of children?...thought they were all equal... https://x.com/PedSurgUpdate/status/1547629407791067141/video/1",
+   "lang": "en",
+   "createdAt": "2022-07-14T17:09:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1397755602",
+    "username": "PedSurgUpdate",
+    "name": "Tito Lugo MD",
+    "url": "https://x.com/PedSurgUpdate",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1495085141168951299/0WWSs6k5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1547629332520005635",
+     "type": "video",
+     "url": "https://video.twimg.com/ext_tw_video/1547629332520005635/pu/vid/1280x720/dllOByBxhiFxSFw7.mp4?tag=12",
+     "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1547629332520005635/pu/img/I3VkPVW7yyx7eFIZ.jpg",
+     "width": 1280,
+     "height": 720,
+     "altText": null,
+     "durationSeconds": 90
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1621234808264204292",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1621234808264204292",
+   "url": "https://x.com/teapartypathq/status/1621234808264204292",
+   "conversationId": "1620964127949848576",
+   "text": "@Anti__Globalism @MichaelDeLauzon Exactly also Paid CPT Code to diagnose Jab before anything else. Beware! There are no lies that can cover this up. We Know what [They] did. https://x.com/teapartypathq/status/1621234808264204292/photo/1",
+   "lang": "en",
+   "createdAt": "2023-02-02T19:51:14.000Z",
+   "type": "reply",
+   "author": {
+    "id": "206244842",
+    "username": "teapartypathq",
+    "name": "Tea Party Patriot HQ",
+    "url": "https://x.com/teapartypathq",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1765959766793191425/JP3sPZ8G_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 236
+   },
+   "replyTo": {
+    "tweetId": "1620964127949848576",
+    "userId": "1551015498636070912",
+    "username": "Anti__Globalism"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1621234803751194633",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Fn_Idt8XEAkNbiq.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Fn_Idt8XEAkNbiq.jpg",
+     "width": 750,
+     "height": 1334,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1621234803734417410",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Fn_Idt4XEAIlcmX.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Fn_Idt4XEAIlcmX.jpg",
+     "width": 750,
+     "height": 1334,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "1621234803717689344",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Fn_Idt0X0AAgkpW.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Fn_Idt0X0AAgkpW.jpg",
+     "width": 750,
+     "height": 1334,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1551015498636070912",
+      "username": "Anti__Globalism",
+      "name": "America First Shemp 🇺🇸🇮🇹🇺🇸"
+     },
+     {
+      "id": "752493806",
+      "username": "MichaelDeLauzon",
+      "name": "The TRUMP PAGE 🇺🇸"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1406731447453507584",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1406731447453507584",
+   "url": "https://x.com/DutchRojas/status/1406731447453507584",
+   "conversationId": "1406731447453507584",
+   "text": "Price is not a CPT code. \n\nPrice is the total paid for a service. \n\nMRI of the leg with and without contrast. \n+ contrast material\n+ reading \n= price. \n\nBy providing prices and by knowing prices physicians help patients break free of the #cartel. \n\nThat’s #health and #care",
+   "lang": "en",
+   "createdAt": "2021-06-20T21:51:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "475043222",
+    "username": "DutchRojas",
+    "name": "Dutch Rojas",
+    "url": "https://x.com/DutchRojas",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2093537758014750720/J5_SJ-97_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 10,
+    "quotes": 1,
+    "likes": 23,
+    "bookmarks": 1,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "cartel",
+     "health",
+     "care"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

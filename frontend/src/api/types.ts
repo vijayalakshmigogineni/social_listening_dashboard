@@ -128,3 +128,121 @@ export interface PostFilters {
 /** Which stored scoring version the dashboard reads. Both are persisted per
  *  post, so switching this re-ranks the whole dashboard without re-analysing. */
 export type ScoringVersion = 'v1' | 'v2'
+
+// --- Data Collection / Analysis jobs ---------------------------------------
+
+export type CollectionMode = 'since_last_sweep' | 'custom_range' | 'latest_n'
+
+export type JobStatus =
+  | 'queued'
+  | 'running'
+  | 'completed'
+  | 'completed_with_errors'
+  | 'failed'
+  | 'interrupted'
+
+export type SourceRunStatus = 'waiting' | 'fetching' | 'completed' | 'partial' | 'failed'
+
+export interface SourceCheckpoint {
+  last_successful_fetch: string | null
+  last_job_id: number | null
+  next_sweep_from: string | null
+  next_sweep_from_origin: 'checkpoint' | 'newest_stored_post' | 'default_lookback'
+}
+
+export interface CollectionSource {
+  key: string
+  label: string
+  available: boolean
+  unavailable_reason: string | null
+  unit_label: string
+  units: string[]
+  sweep_depth_per_unit: number
+  cost_note: string
+  checkpoint: SourceCheckpoint
+}
+
+export interface ActiveJob {
+  kind: 'collection' | 'analysis'
+  id: number | null
+}
+
+export interface CollectionSourcesResponse {
+  max_post_limit: number
+  sources: CollectionSource[]
+  active_job: ActiveJob | null
+}
+
+export interface SourceRunResult {
+  status: SourceRunStatus
+  fetched: number
+  new: number
+  duplicate: number
+  skipped: number
+  units_total: number
+  units_done: number
+  current_unit: string | null
+  window_start: string | null
+  window_end: string | null
+  window_origin: string | null
+  depth_per_unit: number | null
+  errors: string[]
+  warnings: string[]
+  checkpoint_advanced: boolean
+  started_at: string | null
+  completed_at: string | null
+}
+
+export interface CollectionJob {
+  id: number
+  mode: CollectionMode
+  sources: string[]
+  start_date: string | null
+  end_date: string | null
+  post_limit: number | null
+  status: JobStatus
+  posts_fetched: number
+  posts_new: number
+  posts_duplicate: number
+  posts_skipped: number
+  source_results: Record<string, SourceRunResult>
+  errors: string[]
+  retry_of: number | null
+  retryable_sources: string[]
+  created_at: string
+  started_at: string | null
+  completed_at: string | null
+  duration_s: number | null
+}
+
+export interface CollectionJobRequest {
+  mode: CollectionMode
+  sources: string[]
+  start_date?: string
+  end_date?: string
+  post_limit?: number
+}
+
+export interface AnalysisJob {
+  id: number
+  source: string | null
+  collection_job_id: number | null
+  status: JobStatus
+  total_posts: number
+  processed_posts: number
+  failed_posts: number
+  current_stage: string | null
+  current_stage_number: number | null
+  stages: string[]
+  errors: string[]
+  scores: { v1?: number[]; v2?: number[] }
+  created_at: string
+  started_at: string | null
+  completed_at: string | null
+  duration_s: number | null
+}
+
+export interface PendingAnalysis {
+  pending_posts: number
+  active_job: ActiveJob | null
+}

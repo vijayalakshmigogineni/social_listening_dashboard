@@ -1,5 +1,9 @@
 """
-Step 2 -- Problem evidence.
+Step 2 -- Problem evidence (LEGACY: now the fallback only).
+
+The pipeline's Step 2 is step2_semantic.py (one LLM call). This module runs
+only when that call is unavailable or returns unusable output, and
+extract_evidence_candidate remains the deterministic quote fallback.
 
 Question: "Does this content contain evidence of an actual operational/
 business problem?"

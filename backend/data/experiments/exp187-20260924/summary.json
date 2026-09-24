@@ -1,0 +1,530 @@
+{
+ "experiment": {
+  "experiment_id": "exp187-20260924",
+  "versions": [
+   "exp187-20260924-v1",
+   "exp187-20260924-v2"
+  ],
+  "started_at": "2026-09-24T06:12:55.443018+00:00",
+  "finished_at": "2026-09-24T07:08:35.937129+00:00",
+  "llm": {
+   "provider": "ollama",
+   "model": "llama3.1",
+   "host": "http://localhost:11434",
+   "enabled": true
+  },
+  "llm_call_stats": {
+   "attempted": 33,
+   "succeeded": 33,
+   "failed": 0
+  },
+  "boto3_imported": false
+ },
+ "by_source": {
+  "aapc": {
+   "posts": 102,
+   "processed": 102,
+   "errors": 0,
+   "rcm_relevant": 75,
+   "problem_evidence": 36,
+   "v1": {
+    "mean": 10.36,
+    "median": 8.29,
+    "max": 39.49
+   },
+   "v2": {
+    "mean": 24.34,
+    "median": 11.55,
+    "max": 95.0
+   },
+   "v1_bands": {
+    "High (>=20)": 19,
+    "Mid (10-20)": 24,
+    "Watch (4-10)": 21,
+    "Low (<4)": 38
+   },
+   "v2_bands": {
+    "Act (>=55)": 18,
+    "Engage (30-55)": 14,
+    "Watch (10-30)": 27,
+    "Discard (<10)": 43
+   },
+   "seeking": {
+    "L0": 6,
+    "L1": 44,
+    "L2": 8,
+    "L3": 0,
+    "none": 44
+   },
+   "stance": {
+    "seeking": 51,
+    "neutral": 34,
+    "supplying": 17
+   },
+   "speaker": {
+    "unknown": 91,
+    "practice_side": 11
+   },
+   "stance_source": {
+    "nli": 60,
+    "skipped": 27,
+    "llm": 15
+   },
+   "seeking_source": {
+    "nli": 48,
+    "skipped": 44,
+    "llm": 10
+   },
+   "llm_calls": {
+    "attempted": 25,
+    "succeeded": 25,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 21.34
+  },
+  "reddit": {
+   "posts": 35,
+   "processed": 35,
+   "errors": 0,
+   "rcm_relevant": 9,
+   "problem_evidence": 6,
+   "v1": {
+    "mean": 0.73,
+    "median": 0.0,
+    "max": 4.38
+   },
+   "v2": {
+    "mean": 2.67,
+    "median": 0.19,
+    "max": 47.0
+   },
+   "v1_bands": {
+    "High (>=20)": 0,
+    "Mid (10-20)": 0,
+    "Watch (4-10)": 1,
+    "Low (<4)": 34
+   },
+   "v2_bands": {
+    "Act (>=55)": 0,
+    "Engage (30-55)": 1,
+    "Watch (10-30)": 0,
+    "Discard (<10)": 34
+   },
+   "seeking": {
+    "L0": 0,
+    "L1": 8,
+    "L2": 0,
+    "L3": 0,
+    "none": 27
+   },
+   "stance": {
+    "seeking": 8,
+    "neutral": 26,
+    "supplying": 1
+   },
+   "speaker": {
+    "unknown": 35
+   },
+   "stance_source": {
+    "nli": 9,
+    "skipped": 26
+   },
+   "seeking_source": {
+    "nli": 8,
+    "skipped": 27
+   },
+   "llm_calls": {
+    "attempted": 0,
+    "succeeded": 0,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 10.24
+  },
+  "linkedin": {
+   "posts": 30,
+   "processed": 30,
+   "errors": 0,
+   "rcm_relevant": 18,
+   "problem_evidence": 5,
+   "v1": {
+    "mean": 10.66,
+    "median": 8.05,
+    "max": 29.62
+   },
+   "v2": {
+    "mean": 10.85,
+    "median": 2.92,
+    "max": 70.0
+   },
+   "v1_bands": {
+    "High (>=20)": 8,
+    "Mid (10-20)": 7,
+    "Watch (4-10)": 3,
+    "Low (<4)": 12
+   },
+   "v2_bands": {
+    "Act (>=55)": 2,
+    "Engage (30-55)": 0,
+    "Watch (10-30)": 8,
+    "Discard (<10)": 20
+   },
+   "seeking": {
+    "L0": 0,
+    "L1": 1,
+    "L2": 0,
+    "L3": 0,
+    "none": 29
+   },
+   "stance": {
+    "supplying": 17,
+    "seeking": 1,
+    "neutral": 12
+   },
+   "speaker": {
+    "unknown": 27,
+    "practice_side": 2,
+    "vendor": 1
+   },
+   "stance_source": {
+    "nli": 14,
+    "llm": 4,
+    "skipped": 12
+   },
+   "seeking_source": {
+    "skipped": 29,
+    "llm": 1
+   },
+   "llm_calls": {
+    "attempted": 5,
+    "succeeded": 5,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 20.36
+  },
+  "facebook": {
+   "posts": 20,
+   "processed": 20,
+   "errors": 0,
+   "rcm_relevant": 6,
+   "problem_evidence": 1,
+   "v1": {
+    "mean": 4.29,
+    "median": 0.0,
+    "max": 31.56
+   },
+   "v2": {
+    "mean": 4.0,
+    "median": 0.19,
+    "max": 23.65
+   },
+   "v1_bands": {
+    "High (>=20)": 1,
+    "Mid (10-20)": 2,
+    "Watch (4-10)": 2,
+    "Low (<4)": 15
+   },
+   "v2_bands": {
+    "Act (>=55)": 0,
+    "Engage (30-55)": 0,
+    "Watch (10-30)": 4,
+    "Discard (<10)": 16
+   },
+   "seeking": {
+    "L0": 0,
+    "L1": 3,
+    "L2": 0,
+    "L3": 0,
+    "none": 17
+   },
+   "stance": {
+    "supplying": 3,
+    "neutral": 14,
+    "seeking": 3
+   },
+   "speaker": {
+    "unknown": 19,
+    "practice_side": 1
+   },
+   "stance_source": {
+    "llm": 3,
+    "skipped": 14,
+    "nli": 3
+   },
+   "seeking_source": {
+    "skipped": 17,
+    "nli": 3
+   },
+   "llm_calls": {
+    "attempted": 3,
+    "succeeded": 3,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 9.74
+  }
+ },
+ "overall": {
+  "posts": 187,
+  "processed": 187,
+  "errors": 0,
+  "rcm_relevant": 108,
+  "problem_evidence": 48,
+  "v1": {
+   "mean": 7.96,
+   "median": 3.4,
+   "max": 39.49
+  },
+  "v2": {
+   "mean": 15.94,
+   "median": 6.5,
+   "max": 95.0
+  },
+  "v1_bands": {
+   "High (>=20)": 28,
+   "Mid (10-20)": 33,
+   "Watch (4-10)": 27,
+   "Low (<4)": 99
+  },
+  "v2_bands": {
+   "Act (>=55)": 20,
+   "Engage (30-55)": 15,
+   "Watch (10-30)": 39,
+   "Discard (<10)": 113
+  },
+  "seeking": {
+   "L0": 6,
+   "L1": 56,
+   "L2": 8,
+   "L3": 0,
+   "none": 117
+  },
+  "stance": {
+   "seeking": 63,
+   "neutral": 86,
+   "supplying": 38
+  },
+  "speaker": {
+   "unknown": 172,
+   "practice_side": 14,
+   "vendor": 1
+  },
+  "stance_source": {
+   "nli": 86,
+   "skipped": 79,
+   "llm": 22
+  },
+  "seeking_source": {
+   "nli": 59,
+   "skipped": 117,
+   "llm": 11
+  },
+  "llm_calls": {
+   "attempted": 33,
+   "succeeded": 33,
+   "failed": 0
+  },
+  "renormalize_mismatches": 0,
+  "avg_seconds": 17.86
+ },
+ "facebook_by_group": {
+  "medical_claims_tasks": {
+   "posts": 7,
+   "processed": 7,
+   "errors": 0,
+   "rcm_relevant": 3,
+   "problem_evidence": 0,
+   "v1": {
+    "mean": 3.4,
+    "median": 0.0,
+    "max": 9.93
+   },
+   "v2": {
+    "mean": 5.17,
+    "median": 0.19,
+    "max": 17.6
+   },
+   "v1_bands": {
+    "High (>=20)": 0,
+    "Mid (10-20)": 0,
+    "Watch (4-10)": 2,
+    "Low (<4)": 5
+   },
+   "v2_bands": {
+    "Act (>=55)": 0,
+    "Engage (30-55)": 0,
+    "Watch (10-30)": 2,
+    "Discard (<10)": 5
+   },
+   "seeking": {
+    "L0": 0,
+    "L1": 0,
+    "L2": 0,
+    "L3": 0,
+    "none": 7
+   },
+   "stance": {
+    "supplying": 3,
+    "neutral": 4
+   },
+   "speaker": {
+    "unknown": 7
+   },
+   "stance_source": {
+    "llm": 3,
+    "skipped": 4
+   },
+   "seeking_source": {
+    "skipped": 7
+   },
+   "llm_calls": {
+    "attempted": 3,
+    "succeeded": 3,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 22.5
+  },
+  "pmr_interventional_pain_billing": {
+   "posts": 9,
+   "processed": 9,
+   "errors": 0,
+   "rcm_relevant": 3,
+   "problem_evidence": 1,
+   "v1": {
+    "mean": 6.9,
+    "median": 0.0,
+    "max": 31.56
+   },
+   "v2": {
+    "mean": 4.73,
+    "median": 0.19,
+    "max": 23.65
+   },
+   "v1_bands": {
+    "High (>=20)": 1,
+    "Mid (10-20)": 2,
+    "Watch (4-10)": 0,
+    "Low (<4)": 6
+   },
+   "v2_bands": {
+    "Act (>=55)": 0,
+    "Engage (30-55)": 0,
+    "Watch (10-30)": 2,
+    "Discard (<10)": 7
+   },
+   "seeking": {
+    "L0": 0,
+    "L1": 3,
+    "L2": 0,
+    "L3": 0,
+    "none": 6
+   },
+   "stance": {
+    "neutral": 6,
+    "seeking": 3
+   },
+   "speaker": {
+    "unknown": 8,
+    "practice_side": 1
+   },
+   "stance_source": {
+    "skipped": 6,
+    "nli": 3
+   },
+   "seeking_source": {
+    "skipped": 6,
+    "nli": 3
+   },
+   "llm_calls": {
+    "attempted": 0,
+    "succeeded": 0,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 3.01
+  },
+  "usa_medical_billing": {
+   "posts": 4,
+   "processed": 4,
+   "errors": 0,
+   "rcm_relevant": 0,
+   "problem_evidence": 0,
+   "v1": {
+    "mean": 0.0,
+    "median": 0.0,
+    "max": 0.0
+   },
+   "v2": {
+    "mean": 0.33,
+    "median": 0.19,
+    "max": 0.88
+   },
+   "v1_bands": {
+    "High (>=20)": 0,
+    "Mid (10-20)": 0,
+    "Watch (4-10)": 0,
+    "Low (<4)": 4
+   },
+   "v2_bands": {
+    "Act (>=55)": 0,
+    "Engage (30-55)": 0,
+    "Watch (10-30)": 0,
+    "Discard (<10)": 4
+   },
+   "seeking": {
+    "L0": 0,
+    "L1": 0,
+    "L2": 0,
+    "L3": 0,
+    "none": 4
+   },
+   "stance": {
+    "neutral": 4
+   },
+   "speaker": {
+    "unknown": 4
+   },
+   "stance_source": {
+    "skipped": 4
+   },
+   "seeking_source": {
+    "skipped": 4
+   },
+   "llm_calls": {
+    "attempted": 0,
+    "succeeded": 0,
+    "failed": 0
+   },
+   "renormalize_mismatches": 0,
+   "avg_seconds": 2.53
+  }
+ },
+ "gold_eval": {
+  "posts": 167,
+  "fresh_v1": {
+   "pearson": 0.556,
+   "spearman": 0.587,
+   "top20_overlap": 11
+  },
+  "fresh_v2": {
+   "pearson": 0.755,
+   "spearman": 0.794,
+   "top20_overlap": 14
+  },
+  "stored_v1": {
+   "pearson": 0.564,
+   "spearman": 0.59,
+   "top20_overlap": 11
+  },
+  "reference_v2_gold_csv": {
+   "pearson": 0.754,
+   "spearman": 0.793,
+   "top20_overlap": 14
+  },
+  "v1_changed_vs_stored": 70,
+  "v2_changed_vs_reference": 75
+ }
+}

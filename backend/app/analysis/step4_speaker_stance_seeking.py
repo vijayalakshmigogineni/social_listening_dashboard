@@ -1,6 +1,9 @@
 """
-Step 4 -- Speaker type, content stance, and seeking level (merged per spec:
-content_type was explicitly removed from this architecture).
+Step 4 -- Speaker type, content stance, and seeking level (LEGACY: now the
+fallback only). The pipeline decides these in step2_semantic.py's single LLM
+call; this module runs only when that call is unavailable or unusable.
+
+(Merged per spec: content_type was explicitly removed from this architecture.)
 
 Question: "Who is speaking, what is their stance, and what are they
 seeking?"
@@ -15,7 +18,8 @@ Speaker Type stays rule-based (unchanged). Content Stance and Seeking
 Level are NLI-primary: zero-shot DeBERTa (model_registry.run_zero_shot,
 shared with Step 1) runs first; its result is accepted when both top_score
 and margin clear the confidence thresholds below, and only the ambiguous
-remainder falls back to the local Ollama LLM (llm_fallback.py). SEEKING_MARKERS_BY_LEVEL
+remainder falls back to the configured LLM (llm_fallback.py; local Ollama by
+default, Bedrock when LLM_PROVIDER=bedrock). SEEKING_MARKERS_BY_LEVEL
 is intentionally no longer read here for the final L0-L3 decision -- it stays
 in lexicons.py because Part 2 of testing/SLD-ROADMAP.md's rule-based relevance
 gates may still reference it, but Step 4's decision is NLI/LLM now.

@@ -1,0 +1,851 @@
+{
+ "query": "from:EPotterMD (denied OR denial OR denials OR denying OR \"prior auth\" OR \"prior authorization\" OR \"peer to peer\" OR reimbursement OR underpay OR unpaid OR downcode OR downcoding OR modifier OR IDR OR QPA OR \"fee schedule\" OR \"Medicare Advantage\" OR WISeR OR payment OR paid OR EOB OR \"out of network\" OR insurer OR insurance) since:2025-09-24 lang:en -filter:retweets",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2101063199327994113",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2101063199327994113",
+   "url": "https://x.com/EPotterMD/status/2101063199327994113",
+   "conversationId": "2101063199327994113",
+   "text": "My patient has breast cancer. I’m her doctor. I’m in network with her insurance. She wants me to perform her surgery.\n\nAnd yet, after denying our request for me to operate at the facility where I believe she can receive the safest care, @redbudsurgerycenter, her insurance company contacted her and directed her to another doctor.\n\nA patient navigating cancer already has enough decisions to make. She should not have to defend her choice of physician because of a disagreement over where that physician operates.\n\nTrying to tell a doctor where they can operate is invasive enough.\n\nBut telling a patient with cancer that she should see a different surgeon, when she has already chosen the doctor she trusts to care for her?\n\nThat has gone way too far.",
+   "lang": "en",
+   "createdAt": "2026-09-18T21:37:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 183,
+    "retweets": 1582,
+    "quotes": 74,
+    "likes": 7039,
+    "bookmarks": 211,
+    "views": 192139
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2101063113726480384",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2101063113726480384/vid/avc1/720x1280/1Gv130lkSC_8B_iD.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101063113726480384/img/YLjGaS1q3uHyQs8_.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 97
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2092758160163410194",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2092758160163410194",
+   "url": "https://x.com/EPotterMD/status/2092758160163410194",
+   "conversationId": "2092758160163410194",
+   "text": "The AMA doesn’t just own the CPT code system. It also has a role in recommending how the services behind those codes are valued.\n\nCPT codes are the five digit codes healthcare providers use to describe the care we provide and bill for it.\n\nThe AMA created and copyrighted this system and makes hundreds of millions of dollars annually from publishing products and royalties, which includes CPT licensing.\n\nBut here’s the part I think more patients should know: The AMA also convenes a committee of physicians and medical specialty groups that recommends to the federal government how much different medical services should be valued for Medicare.\n\nThe government ultimately makes the final decision, but those recommendations help shape how much doctors are paid for the care represented by these codes.\n\nThe AMA owns the coding system. It generates significant revenue connected to that system. And it has a significant role in recommending how the medical services represented by those codes are valued.\n\nThat is a lot of influence over how money moves through American healthcare…",
+   "lang": "en",
+   "createdAt": "2026-08-26T23:36:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 33,
+    "retweets": 169,
+    "quotes": 7,
+    "likes": 547,
+    "bookmarks": 80,
+    "views": 7687
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2092758034577555456",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2092758034577555456/vid/avc1/720x1280/Q-MIdkvPxDNieidK.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2092758034577555456/img/qG5nXe3NSBvCZxZE.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 87
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2089493869754790059",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2089493869754790059",
+   "url": "https://x.com/EPotterMD/status/2089493869754790059",
+   "conversationId": "2089493869754790059",
+   "text": "It’s ridiculous. An insurance company openly admitting that they don’t treat their members fairly, asking me to play a part in the games they play with patients lives. Hard no. I care about the patient I’m advocating for and every other patient who will be in her shoes. https://x.com/EPotterMD/status/2089493869754790059/video/1",
+   "lang": "en",
+   "createdAt": "2026-08-17T23:25:34.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 29,
+    "retweets": 206,
+    "quotes": 17,
+    "likes": 769,
+    "bookmarks": 47,
+    "views": 22022
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2089493805162487808",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2089493805162487808/vid/avc1/720x1280/A1fDD20QlnWIdcT9.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2089493805162487808/img/X8uGAeSgSyBnS5kT.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 59
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2087303931432980834",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2087303931432980834",
+   "url": "https://x.com/EPotterMD/status/2087303931432980834",
+   "conversationId": "2087303931432980834",
+   "text": "It’s been a minute since I have checked in, I have missed you all and wanted to share some updates! \n\nI’m still out of network with Blue Cross and United @Redbudsurgerycenter. Today was another reminder of why I keep pushing for change.\n\nThis morning, I performed a DIEP flaps on a patient whose sister recently had surgery with me at Redbud. She saw the experience her sister had and wanted the same for herself. Because I’m still out of network with her insurance, she chose to pay an additional $5,000 out of pocket penalty charged by Bluecross to have her surgery with me at Redbud. I wish none of my patients had to pay out of network fees to have their surgery at Redbud. At the same time, I am deeply moved that my patients are willing to spend their hard earned money to choose where and with whom they receive their care. I don’t take that trust lightly.\n\nI want all patients to have choice. Choice in their surgeon. Choice in where they have surgery. Choice without unnecessary financial or insurance barriers standing in the way. \n\nThat is a big part of why I’m still pushing so hard. I choose to change what healthcare looks and feels like one patient at a time. \n\nThere’s also a lot happening in my life outside of work. Some of it hard. A lot of it really good. You may see some new faces around here, including more of my sister and some of her littles.\n\nI’m taking care of myself. I’m surrounded by people I love. And even when things are hard, I know I’m exactly where I am meant to be. \n\nNow it’s your turn. I’d love to hear what’s been happening in your lives, too. Leave a comment and let me know what’s been going on. Let’s connect ❤️",
+   "lang": "en",
+   "createdAt": "2026-08-11T22:23:32.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 19,
+    "retweets": 28,
+    "quotes": 1,
+    "likes": 319,
+    "bookmarks": 6,
+    "views": 7194
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2087303878366662656",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2087303878366662656/vid/avc1/720x1280/3JSzR3z8O4AG5aq_.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2087303878366662656/img/cleY-wCG-1ig3cJB.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 91
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2083257992699642320",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2083257992699642320",
+   "url": "https://x.com/EPotterMD/status/2083257992699642320",
+   "conversationId": "2083257992699642320",
+   "text": "A year and a half ago, I shared a video about UnitedHealthcare.\n\nIt wasn’t just about my practice. It was about what happens when insurance companies stand between patients and the care they need.\n\nA lot has happened since then. \n\nRedbud Surgery Center is still out of network. \n\nBack in January, United’s CEO said he would personally look into the situation. I’m still waiting. \n\nDoes it feel fair? No. But I’m not giving up.\n\nI will keep telling the truth about what patients experience. I will keep advocating for transparent, affordable, high quality care. And I will keep working to help fix a healthcare system that too often puts barriers between patients and the care they need.\n\nThe reason I’m still here is in large part because of you.\n\nYou have listened. You have shared these stories. You have believed in this mission.\n\nThank you for standing with me.\n\nI’m not going anywhere.",
+   "lang": "en",
+   "createdAt": "2026-07-31T18:26:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 39,
+    "retweets": 347,
+    "quotes": 10,
+    "likes": 1591,
+    "bookmarks": 93,
+    "views": 26164
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2083257820401508352",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2083257820401508352/vid/avc1/1080x1920/21ihyGSCvr22VU9n.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2083257820401508352/img/16xVIHP_7zBaQyhn.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 130
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2081778182756168013",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2081778182756168013",
+   "url": "https://x.com/EPotterMD/status/2081778182756168013",
+   "conversationId": "2081778182756168013",
+   "text": "Behind every surgery is a team advocating for patients.\n\nMost of that work happens quietly.\n\nPhone calls. Documentation. Insurance appeals. Hours spent fighting for patients long before they ever step into the operating room.\n\nMary, our Surgical Practice Manager, shared the story of a patient whose surgery was canceled the day it was scheduled because the hospital was no longer safe for surgery. Because of the timing, if we couldn’t get insurance approval before January 1, her coverage would reset and she would lose the benefits she had already earned.\n\nOur team spent days working with the insurance company, coordinating documentation, and advocating for her so she could receive the care she needed at Redbud.\n\nWhen the approval finally came through, there wasn’t a sense of relief because the paperwork was finished.\n\nThere was relief because our patient could finally move forward with the surgery she needed.\n\nThis is the work our team does every day.\n\nWhen we tell patients we’re working on an authorization or an appeal, we mean it. Behind every insurance decision is a person waiting for care, and our team will continue advocating for them every step of the way.",
+   "lang": "en",
+   "createdAt": "2026-07-27T16:26:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 5,
+    "quotes": 0,
+    "likes": 48,
+    "bookmarks": 1,
+    "views": 1330
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2081778066011848704",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2081778066011848704/vid/avc1/1080x1920/DdIwrp5nr4861hxR.mp4?tag=29",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2081778066011848704/img/W6pEkWv3d6hm3ag1.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 93
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2074859740820021687",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2074859740820021687",
+   "url": "https://x.com/EPotterMD/status/2074859740820021687",
+   "conversationId": "2074859740820021687",
+   "text": "“Are we going to be able to pull this off?”\n\nThat was the very first question my patient asked me after she had been diagnosed with breast cancer. She had already spent weeks navigating insurance barriers, trying to find doctors in network, and by the time we met to discuss her reconstruction, she wasn’t just thinking about surgery. She was wondering whether the system would even allow her to get the care she needed.\n\nMy answer was simple. “Yes. We can.”\n\nThis is how much uncertainty patients are carrying before treatment even begins. A breast cancer diagnosis is hard enough. Wondering whether you’ll be able to access the care you need shouldn’t be part of the experience.\n\nEvery day, my team makes phone calls, solves problems, coordinates care, and finds paths forward when the system makes things unnecessarily difficult for patients. We will do whatever it takes to ensure this process is as seamless as possible. \n\nIf you’re impacted by breast cancer, I want you to know that we are here out here, meeting the need and more than pulling this off. We’ve got you.",
+   "lang": "en",
+   "createdAt": "2026-07-08T14:14:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 23,
+    "quotes": 1,
+    "likes": 164,
+    "bookmarks": 5,
+    "views": 3590
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2074859663875506176",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2074859663875506176/vid/avc1/720x1280/UcBoSt0INWaBN5Ju.mp4?tag=28",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2074859663875506176/img/CJQcfe-YlyJvr9mo.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 55
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2070870661925335225",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2070870661925335225",
+   "url": "https://x.com/EPotterMD/status/2070870661925335225",
+   "conversationId": "2070870661925335225",
+   "text": "A nine week delay in treatment changed this patient's life forever.\n\nShe asked me to share her story.\n\nThis patient has Crohn's disease and was doing well on a medication that controlled her disease. Then, because of an insurance-related delay, she lost access to that medication for nine weeks.\n\nDuring that time, she developed a rectovaginal fistula, an opening to form between her intestine and her vagina. She underwent multiple surgeries to try to repair it and they all failed.\n\nShe now lives with a colostomy.\n\nThis is why I push back when people describe delays in care as administrative issues.\n\nThey are patient issues.\n\nBy the time a medication is approved, an appeal is reviewed, or a policy is changed, the damage may already be done and the patient’s life might be impacted forever. \n\nYou can fix a process but you cannot always undo the harm.\n\nBehind every delay is a person whose life may be permanently changed.\n\nWe cannot keep treating timely access to care as optional when the consequences are this real.",
+   "lang": "en",
+   "createdAt": "2026-06-27T14:03:35.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 38,
+    "retweets": 418,
+    "quotes": 15,
+    "likes": 1280,
+    "bookmarks": 64,
+    "views": 30840
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2070870544992321536",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2070870544992321536/vid/avc1/720x1280/pCnsLXH17cnWIL70.mp4?tag=28",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2070870544992321536/img/2eqeLoBJY8LscEQG.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 105
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2067727626530152844",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2067727626530152844",
+   "url": "https://x.com/EPotterMD/status/2067727626530152844",
+   "conversationId": "2067727626530152844",
+   "text": "Did you know your surgeon may not get to choose where your surgery happens?\n \nYour insurance company often makes that decision instead.\n \nYesterday, I performed a complex DIEP flap reconstruction for a patient. Three days before surgery, I requested specific resources and accommodations that I knew would help optimize her care. I communicated those needs ahead of time, but when I arrived, those requests had not been accommodated.\n \nThe surgery went well, and my patient is doing great. But the experience highlighted something I wish more patients understood. A surgical outcome is not determined by the surgeon alone. The patient experience is shaped by the entire environment surrounding that surgery: the operating room team, the nursing staff, the hospital administration, the systems in place, and the culture of the facility itself.\n \nAs surgeons, we are responsible for providing excellent care no matter where we operate. I hold myself to the same standard in every operating room. What I cannot control is everything around me.\n \nThis morning, when I rounded on my patient, I found that she was not positioned according to the postoperative orders I had written for her. We corrected it immediately, and she is doing well, but it was another reminder that excellent surgical care depends on much more than the operation itself.\n \nToo often, patients assume their surgeon chooses the hospital or surgery center where they receive care. In reality, insurance companies frequently make that decision.\n \nHealthcare is not just about whether a surgery is approved. It is also about where that surgery happens, who is caring for the patient afterward, and whether the entire environment is set up to support the best possible outcome.\n \nPatients deserve to know that.",
+   "lang": "en",
+   "createdAt": "2026-06-18T21:54:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 21,
+    "quotes": 0,
+    "likes": 109,
+    "bookmarks": 7,
+    "views": 3318
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2067727561472274433",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2067727561472274433/vid/avc1/720x1280/QXDz08nVDMe-vd1U.mp4?tag=28",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2067727561472274433/img/qPaK7HbilKCqShPQ.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 105
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2066681584019796026",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2066681584019796026",
+   "url": "https://x.com/EPotterMD/status/2066681584019796026",
+   "conversationId": "2066681584019796026",
+   "text": "There is hope.\n\nI got on the phone with an insurance medical director to advocate for a 34 year old elementary school teacher who needed breast reconstruction after her mastectomy.\n\nShe had carefully planned her surgery during summer break so she could return to her students in the fall. But because Redbud Surgery Center remains out of network despite nearly two years of trying to become in network, she was facing thousands of dollars in additional costs.\n\nSo I made the call. I explained that this wasn't about reimbursement. It wasn't about me. It was about a patient who deserved access to safe, high quality care without unnecessary financial barriers.\n\nAnd something remarkable happened.\n\nHe listened.\n\nHe understood why this mattered. He approved an exception for this patient. Then he acknowledged that Redbud Surgery Center being in network would be better for their members.\n\nFor all the frustration, all the barriers, and all the moments when healthcare feels broken, I want you to know this:\n\nThere are good people inside the system trying to do the right thing.\n\nHealthcare doesn't change through outrage alone. It changes when people are willing to listen, understand, and act.\n\nThere is hope. And together, we are changing healthcare from the inside out.\n\nOne patient.\nOne doctor.\nOne decision.\nOne practice.\nOne conversation at a time.\n\nMy gratitude for the physician who listened and heard me is immense.\n\nNow I need your help.\n\nIf you have Blue Cross Blue Shield of Texas insurance, please contact your employer's benefits manager or human resources department and tell them:\n\n\"I want Redbud Surgery Center in network.\"\n\nYour employer has more influence than you may realize. Insurance companies listen when employers advocate for better access to care for their employees.\n\nIf you live in Texas, please also contact your state representative, state senator, and the Governor's office and tell them:\n\n\"I want Redbud Surgery Center in network for the people of Texas.\"\n\nIf enough patients, employers, physicians, and Texans speak up, change can happen.",
+   "lang": "en",
+   "createdAt": "2026-06-16T00:37:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 26,
+    "retweets": 191,
+    "quotes": 10,
+    "likes": 1153,
+    "bookmarks": 46,
+    "views": 31832
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2066681458144456704",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2066681458144456704/vid/avc1/720x1280/pvgvqieTFszQ4Zvn.mp4?tag=28",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2066681458144456704/img/eMMxpNDVqiPGxvHU.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 153
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2065189673606226378",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2065189673606226378",
+   "url": "https://x.com/EPotterMD/status/2065189673606226378",
+   "conversationId": "2065189673606226378",
+   "text": "When insurance companies create barriers to care, I take even better care of their patients.\n\nToday, we performed a DIEP flap reconstruction for a Blue Cross Blue Shield of Texas patient after securing a single case agreement so she could have her surgery at Redbud Surgery Center.\n\nHer surgery took just 2 hours and 16 minutes, and she's doing great!\n\nThis is a reminder that patients are not powerless.\n\nWhile Redbud is still working to become in network, this patient advocated for herself, asked questions, pushed back, and together we found a way forward.\n\nOur approach is simple: do the right thing for the patient. Do the right thing for healthcare. Keep showing up. Keep finding solutions. Keep moving forward.\n\nTo this patient: thank you for advocating for yourself.\n\nAnd to everyone navigating the healthcare system right now, don't give up. Sometimes getting the care you need requires persistence, appeals, and asking one more question. Keep going.",
+   "lang": "en",
+   "createdAt": "2026-06-11T21:49:22.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 48,
+    "quotes": 1,
+    "likes": 287,
+    "bookmarks": 5,
+    "views": 6439
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2065189600524455937",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2065189600524455937/vid/avc1/720x1280/Z7E-3YYflGfc0QeV.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2065189600524455937/img/ZiMdIlo0yNO9KFR8.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 31
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2064352955378094150",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2064352955378094150",
+   "url": "https://x.com/EPotterMD/status/2064352955378094150",
+   "conversationId": "2064352955378094150",
+   "text": "Alma was a healthcare worker for over 25 years. She had insurance. And when her oncologist recommended MD Anderson for a second opinion, they told her it would be $16,000 upfront just to be seen.\n\nShe couldn't afford it. She didn't get the care.\n\nAlma passed away.\n\nI stood up to honor her today because she deserves to be remembered. And because her words are still doing something — still making people uncomfortable in the right way.\n\n\"If they treat me like that, can you imagine how they treat someone that doesn't know anything?\"\n\nNo. We shouldn't have to imagine it. We should be outraged by it.\n\nAlma's name means soul. And I felt her soul in that room today.\n\nRest in power, Alma. We're still listening. 🤍",
+   "lang": "en",
+   "createdAt": "2026-06-09T14:24:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 24,
+    "retweets": 270,
+    "quotes": 11,
+    "likes": 866,
+    "bookmarks": 34,
+    "views": 26246
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2064352751643963392",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2064352751643963392/vid/avc1/720x1280/2w5qKxKqs6VbGuwA.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2064352751643963392/img/ZTwtrWrsmUo83Adn.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 115
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2062302315969716292",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2062302315969716292",
+   "url": "https://x.com/EPotterMD/status/2062302315969716292",
+   "conversationId": "2062302315969716292",
+   "text": "I learned about a family in my home state of GA who needed help getting lifesaving medication. \n\nAdam, has a rare autoimmune condition that causes inflammation in his brain. Without treatment, he can lose the ability to eat, speak, and walk. For years, a medication called IVIG helped give him his life back.\n\nThen his father’s  insurance benefits changed.\n\nNot because the treatment stopped working. Not because his doctors recommended stopping it. An administrative change in his healthcare benefits meant Adam suddenly lost access to the medication he needed. He ended up back in the hospital.\n\nAs I learned more about the situation, I realized the employer had the ability to help. I thought of Mark Cuban, sent him a message, and asked if he could get involved.\n\nHe did.\n\nAnd Tyson Foods stepped up to make sure Adam could continue receiving his medication while longer term solutions are worked out.\n\nThis should not happen in America. No one should lose access to a treatment that is working because of a benefits change.\n\nBut this is also a story about people doing the right thing.\n\nA family who never stopped advocating for his son. A company that listened. Someone who used their influence to help.\n\nAnd a reminder that every message you send me matters. I read as many as I can, and every story is important.\n\nAdam's journey isn't over, but today there's hope.",
+   "lang": "en",
+   "createdAt": "2026-06-03T22:36:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 20,
+    "retweets": 73,
+    "quotes": 4,
+    "likes": 405,
+    "bookmarks": 15,
+    "views": 8891
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2062302198545948672",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2062302198545948672/vid/avc1/720x1280/JCof5FPC5YZUMykT.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2062302198545948672/img/ktzLzx0y66UfXGPC.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 136
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061969797332771293",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2061969797332771293",
+   "url": "https://x.com/EPotterMD/status/2061969797332771293",
+   "conversationId": "2061969797332771293",
+   "text": "Over the last year, many of you have heard me speak about what is broken in healthcare.\n\nYou watched me speak up after being pulled out of surgery by an insurance company. You watched me continue speaking after facing retaliation for telling the truth. And recently, you watched me stand alongside healthcare workers from across the country on Capitol Hill.\n\nBut words are only one part of the story.\n\nLong before any of those moments, I was building. Building a practice that puts patients first. Building systems that support healthcare workers. Building proof that healthcare can be done differently.\n\nWhat we've created isn't just a practice. It's a method.\n\nA method that honors patients first and takes care of healthcare workers. A method that proves we don't have to choose between exceptional patient care and sustainable healthcare careers.\n\nIt can be done.\n\nThe work is well underway.\n\nAnd over the coming months, I'd like to show you more of the method so you can do it, too.",
+   "lang": "en",
+   "createdAt": "2026-06-03T00:34:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 10,
+    "retweets": 70,
+    "quotes": 3,
+    "likes": 348,
+    "bookmarks": 16,
+    "views": 5672
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2061969729376423936",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2061969729376423936/vid/avc1/720x1280/zf4IhvSammUOk6tY.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2061969729376423936/img/ATqi0gvm1ab40Exf.jpg",
+     "width": 720,
+     "height": 1280,
+     "altText": null,
+     "durationSeconds": 39
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2057938290200789096",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2057938290200789096",
+   "url": "https://x.com/EPotterMD/status/2057938290200789096",
+   "conversationId": "2057938290200789096",
+   "text": "We are changing healthcare. And when you change healthcare, you change the world.\n\nThis week on Capitol Hill, I stood alongside healthcare workers, advocates, lawmakers, and organizations who are refusing to accept that burnout, fear, retaliation, and silence are just “part of the job.”\n\nLast year, I spoke up after being pulled out of surgery by an insurance company and pressured to justify care for a patient with breast cancer.\n\nI told the truth about what happened and the system retaliated.\n\nWhat I expected was conversation. Collaboration. A desire to make things better.\n\nInstead, I was threatened, pressured to stay quiet, and forced to confront just how uncomfortable the healthcare system becomes when healthcare workers speak honestly about what patients and providers are experiencing.\n\nBut then something powerful happened.\n\n@wearfigs stepped up for me.\n\nThey helped protect my ability to keep speaking, keep advocating, and keep my practice open when things became incredibly difficult. And now, together, we are helping push forward legislation like the SPEAK FREE Act so healthcare workers can speak truthfully about patient safety, workforce safety, and harmful system issues without fear of retaliation.\n\nThis week we also advocated for:\n• Funding for the Dr. Lorna Breen Act supporting healthcare worker mental health\n• The Healthcare is Human Act supporting healthcare workers serving in shortage areas\n• A future where healthcare workers are empowered to tell the truth and help fix the systems hurting patients and providers alike\n\nAnd I want to say this clearly: Healthcare workers speaking honestly about broken systems should never be treated as the problem.\n\nTelling the truth is how we begin fixing what is broken.\n\nThank you to every healthcare worker who continues showing up. Thank you to every patient who trusted us with their stories. Thank you to everyone who encouraged me to keep speaking this past year. Thank you to Noah Wyle  for using your platform with integrity and purpose. And thank you to FIGS for not just talking about advocacy, but actively stepping into the arena with us.",
+   "lang": "en",
+   "createdAt": "2026-05-22T21:34:57.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2375674268",
+    "username": "EPotterMD",
+    "name": "Elisabeth Potter MD",
+    "url": "https://x.com/EPotterMD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1090328961857380352/BfnEMYOi_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 18,
+    "retweets": 76,
+    "quotes": 4,
+    "likes": 304,
+    "bookmarks": 16,
+    "views": 4975
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2057938012151910400",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2057938012151910400/vid/avc1/1080x1920/DZuL17eUxCiuWOkV.mp4?tag=27",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2057938012151910400/img/BeDp5rn6qVbSouEz.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 113
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1517256859",
+      "username": "wearfigs",
+      "name": "FIGS"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

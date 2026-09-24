@@ -1,0 +1,2943 @@
+{
+ "key": "payer_portal_hold",
+ "query": "(Availity OR \"provider portal\" OR \"provider services\" OR \"provider rep\") (claim OR denial OR hold OR hours) lang:en -filter:retweets",
+ "mode": "Top",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102661913972789687",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2102661913972789687",
+   "url": "https://x.com/DeskGate_App/status/2102661913972789687",
+   "conversationId": "2102661913972789687",
+   "text": "If you ask your PA coordinators why they burn out, they’ll tell you the same thing: Wegovy and specialty PAs take 35 minutes of re-typing, payer IVRs trap them on hold for hours, and the daily case quota feels mathematically impossible.\nhttps://www.reddit.com/r/PriorAuthorization/comments/1nsgyyu/prior_auth_job_burnout_how_long_do_people/\nDeskGate gives your coordinators breathing room. It mounts inside their active Chrome session, stages the Availity or CoverMyMeds form in 2 seconds from your lane map, and stops before Submit so they remain the filing authority.\nYour staff stops feeling like copy-paste robots, turnaround times drop, and your pod clears 30%+ more completed units per day without overtime. Let's run a 14-day zero-cost trial on your hardest lane under Schedule M.\"",
+   "lang": "en",
+   "createdAt": "2026-09-23T07:30:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2098717515392208898",
+    "username": "DeskGate_App",
+    "name": "DeskGate",
+    "url": "https://x.com/DeskGate_App",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2098777069022851076/muZ_8bqa_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 44
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.reddit.com/r/PriorAuthorization/comments/1nsgyyu/prior_auth_job_burnout_how_long_do_people/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2023803931034611744",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2023803931034611744",
+   "url": "https://x.com/Optexity/status/2023803931034611744",
+   "conversationId": "2023803931034611744",
+   "text": "Before a doctor can submit a prior authorization, they need to check if the patient's insurance is even active. They need to know the copay, the coinsurance, the deductible status, all of it. Because patients need to be charged correctly and they deserve to know what they're paying upfront.\n\nThis isn't optional. It's a required step in the workflow.\nMost clinics pull this data from clearinghouses like @Availity . Real time eligibility verification, benefits information, coverage details. It's all there. But there's a problem.\n\n@Availity doesn't have an API.\n\nWhich means staff have to log into the portal manually. Search for each patient. Pull the eligibility data. Copy it into their system. Then move on to the next patient and do it all over again.\n\nWhen you're running 30, 40, 50 patients a day, this adds up fast. One clinic told us their front desk was spending close to 2 hours every day just on eligibility checks. Not answering calls, not scheduling appointments, not helping patients. Just logging into Availity and copying information. That's almost 10 hours a week. Per person. On something that should take seconds.\n\nThis demo shows what we at @Optexity  built to fix it. You send patient details to Optexity, and it handles the entire @Availity lookup automatically. What comes back is structured data you can actually use. Member status, total deductible, remaining deductible, PCP copay, specialist copay. All formatted and ready to plug into whatever system you're running.\n\n@Availity doesn't offer an API. But now you have one anyway. The data flows out automatically, and your team never has to touch the portal again.\n\nWe're in production now serving companies across the US Healthcare System. If your team is still doing eligibility checks manually, you can start using Optexity today.\n\nOpen source. Free to use. Reach out if you want help getting set up.",
+   "lang": "en",
+   "createdAt": "2026-02-17T16:57:12.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1803115962155094016",
+    "username": "Optexity",
+    "name": "Optexity",
+    "url": "https://x.com/Optexity",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1803117706440290304/Eg4LvbcU_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 444
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2023803283522109440",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2023803283522109440/vid/avc1/3840x2160/-fsfF_m7jx0diQbB.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2023803283522109440/img/m2QmxwcAGgrBGe6i.jpg",
+     "width": 3840,
+     "height": 2160,
+     "altText": null,
+     "durationSeconds": 47
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     },
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     },
+     {
+      "id": "1803115962155094016",
+      "username": "Optexity",
+      "name": "Optexity"
+     },
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     },
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1770012269683843333",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1770012269683843333",
+   "url": "https://x.com/CRCook1978/status/1770012269683843333",
+   "conversationId": "1770012269683843333",
+   "text": "This is not providing endorsement to any Clearinghouse but if your practice is needing to make a temporary or permanent switch from @uhc’s @optum @Change_HC here is a short non exhaustive list.\n\nMD Clarity\nhttps://www.mdclarity.com/\nInfinx\nhttps://www.infinx.com/\nDentrix\nhttps://www.dentrix.com/\nTruBridge\nhttps://www.trubridge.com/\nDrChrono\nhttps://www.drchrono.com/\nWaystar\nhttps://www.waystar.com/\nStrataPT\nhttps://www.stratapt.com/\nAvaility\nhttps://www.availity.com/\nOffice Ally\nhttps://www.officeally.com/\nClaim Logic/TriZetto Provider Solutions\nhttps://www.claimlogic.com/\n\nhttps://www.trizettoprovider.com/ \nPayerpath/Allscripts/Veradigm\nhttps://www.allscripts.com/ and https://www.veradigm.com/",
+   "lang": "en",
+   "createdAt": "2024-03-19T08:59:44.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1830264295",
+    "username": "CRCook1978",
+    "name": "Christopher Cook, D.O., FASA",
+    "url": "https://x.com/CRCook1978",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1929024959587725312/rtmPGGEF_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 1,
+    "bookmarks": 1,
+    "views": 678
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "397462571",
+      "username": "uhc",
+      "name": "UnitedHealthcare"
+     },
+     {
+      "id": "318007077",
+      "username": "optum",
+      "name": "Optum"
+     },
+     {
+      "id": "37701900",
+      "username": "Change_HC",
+      "name": "Change Healthcare"
+     }
+    ],
+    "urls": [
+     "https://www.mdclarity.com/",
+     "https://www.infinx.com/",
+     "https://www.dentrix.com/",
+     "https://www.trubridge.com/",
+     "https://www.drchrono.com/",
+     "https://www.waystar.com/",
+     "https://www.stratapt.com/",
+     "https://www.availity.com/",
+     "https://www.officeally.com/",
+     "https://www.claimlogic.com/",
+     "https://www.trizettoprovider.com/",
+     "https://www.allscripts.com/",
+     "https://www.veradigm.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1735298502211629412",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1735298502211629412",
+   "url": "https://x.com/DougMadory/status/1735298502211629412",
+   "conversationId": "1735298502211629412",
+   "text": "Two days after the devastating cyberattack on Kyivstar, #Ukraine's largest mobile provider, services are still recovering.\n\nA hacker group linked to the Russian military claimed  credit for attack, while Kyivstar cast doubts on the claim.\nhttps://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/ https://x.com/DougMadory/status/1735298502211629412/photo/1",
+   "lang": "en",
+   "createdAt": "2023-12-14T13:59:37.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1651085773",
+    "username": "DougMadory",
+    "name": "Doug Madory (also on Bluesky)",
+    "url": "https://x.com/DougMadory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/541947697599508481/49QsQsTn_normal.jpeg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 2,
+    "views": 940
+   },
+   "replyTo": null,
+   "quotedTweetId": "1734961421488619553",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1735296887219970048",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GBUDUy6WYAAfT3h.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GBUDUy6WYAAfT3h.jpg",
+     "width": 1736,
+     "height": 1008,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Ukraine"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1874423435922669932",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1874423435922669932",
+   "url": "https://x.com/DTaruta/status/1874423435922669932",
+   "conversationId": "1874423435922669932",
+   "text": "🚨 Breaking News: ChatGPT and Sora hit by a major outage today, lasting over 4 hours! OpenAI blames an upstream provider. Services are coming back, but glitches remain. Did you notice the disruption? Share your thoughts! #Outage #OpenAI #ServiceRecovery",
+   "lang": "en",
+   "createdAt": "2025-01-01T11:52:26.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1358814585982251010",
+    "username": "DTaruta",
+    "name": "Dimas",
+    "url": "https://x.com/DTaruta",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1788256274024402947/iKwBwNnG_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 34
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "Outage",
+     "OpenAI",
+     "ServiceRecovery"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1908905909918875921",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1908905909918875921",
+   "url": "https://x.com/HildavonHausens/status/1908905909918875921",
+   "conversationId": "1908713982229164477",
+   "text": "No, money does not buy morality. It opens the door for those who want to be caregivers to have a wage that reflects the duties of the job. \n\nA caregiver is not just someone who “babysits” a person with a disability or who is elderly. They are…\n\nA med tech\nDriver\nMedical liaison\nPersonal shopper\nMeal prep and service\nLaundry service \nHouse keeper \nCompanion \nPersonal finance trainer\nAdvocate \nLife coach\nSocial network manager \nPersonal hygiene support services \nLiaison between state Medicaid and provider services \nLegal documentation representative \nSocial Security liaison or representative\n\nThis list does not include the hours of training, paperwork, and being on call 24 hours a day. \n\nSo when you pay someone to do this job and pay them $7.25-$15.00 per hour you do not end up with a lot of quality applicants.",
+   "lang": "en",
+   "createdAt": "2025-04-06T15:33:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "1862134884128690176",
+    "username": "HildavonHausens",
+    "name": "Hilda von Hausenschnaut ✝️🇺🇸",
+    "url": "https://x.com/HildavonHausens",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1862135529552379904/DAJe4yKc_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 549
+   },
+   "replyTo": {
+    "tweetId": "1908899123954073836",
+    "userId": "1843954965166878720",
+    "username": "miahunnyaerwj"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1378091659955609601",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1378091659955609601",
+   "url": "https://x.com/dziring/status/1378091659955609601",
+   "conversationId": "1378091659955609601",
+   "text": "You may think I’ve been on hold for 1 minute, 16 seconds. Au contraire. 80 minutes now and still counting. Waiting to schedule peer to peer for 28 yo w CD, with likely a clinical pharmacist.  “You may wish to call on Mon or Fri!” #TGIF ⁦@RegenceWA⁩ #Availity https://x.com/dziring/status/1378091659955609601/photo/1",
+   "lang": "en",
+   "createdAt": "2021-04-02T21:07:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "48701696",
+    "username": "dziring",
+    "name": "David Ziring",
+    "url": "https://x.com/dziring",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1358220053653561347/dxbJUCHW_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 7,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1378091653727088640",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Ex_3DsBVcAAmlDx.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Ex_3DsBVcAAmlDx.jpg",
+     "width": 1512,
+     "height": 2016,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "TGIF",
+     "Availity"
+    ],
+    "mentions": [
+     {
+      "id": "28669136",
+      "username": "RegenceWA",
+      "name": "Regence BlueShield"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1550303721900343297",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1550303721900343297",
+   "url": "https://x.com/DrAmyPsyD/status/1550303721900343297",
+   "conversationId": "1550303721900343297",
+   "text": "If the insurance company’s provider portal marks a claim as “paid” but I haven’t received money yet, does that mean the check is in the mail, or do I have to make a phone call?\n\nMy PP is confusing",
+   "lang": "en",
+   "createdAt": "2022-07-22T02:16:25.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 16,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1805245741167726789",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1805245741167726789",
+   "url": "https://x.com/DrAmyPsyD/status/1805245741167726789",
+   "conversationId": "1805245741167726789",
+   "text": "Hey @FLBlue why does your provider services phone number not have an option to talk to a real person? And why does it say I'm calling outside of \"normal business hours\" when it's 10:30am Eastern and your call center is supposedly open from 8am-6pm Eastern?",
+   "lang": "en",
+   "createdAt": "2024-06-24T14:24:59.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1281240262291984386",
+    "username": "DrAmyPsyD",
+    "name": "Dr. Amy, Psy.D.",
+    "url": "https://x.com/DrAmyPsyD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1513541726522286087/AlCWtH39_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 604
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "190752794",
+      "username": "FLBlue",
+      "name": "Florida Blue"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1662132279139860480",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1662132279139860480",
+   "url": "https://x.com/JoliStream/status/1662132279139860480",
+   "conversationId": "1662132279139860480",
+   "text": "We experienced a critical outage that lasted over 12 hours.\n\nThe problem was a financial issue with out service provider. Services are now online again.\n\nWe are sorry for any inconvenience",
+   "lang": "en",
+   "createdAt": "2023-05-26T16:23:10.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1625118334147608576",
+    "username": "JoliStream",
+    "name": "JoliStream",
+    "url": "https://x.com/JoliStream",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1625451258617245698/WSYNaXJA_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 64
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1429815998425743365",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1429815998425743365",
+   "url": "https://x.com/cmmhartmann/status/1429815998425743365",
+   "conversationId": "1429623468467838978",
+   "text": "@deafoddish Hey! I live with my boyfriend, but I know DB folks who live on their own. They either have very strong friend/family networks or live in a state with good CN/SSP (co-navigator or special service provider) services. MN has something like 50 hours /month. (I don't live there.)",
+   "lang": "en",
+   "createdAt": "2021-08-23T14:41:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "141066922",
+    "username": "cmmhartmann",
+    "name": "Cristina Hartmann",
+    "url": "https://x.com/cmmhartmann",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1926830353815130112/bxoPpY7t_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2047016994881622489",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "2047016994881622489",
+   "url": "https://x.com/RohanArun/status/2047016994881622489",
+   "conversationId": "2047016994881622489",
+   "text": "To make the contests more fair and avoid all the scams we get constantly, we're converting this clipping contest to 100 bounties more people can win TODAY. \n\nMore winners, no scams, and each bounty helps us build the most comprehensive computer-use benchmark on the planet!\n\nRules:\n1) Must include http://GetSupers.com text overlay on the video of the bounty.\n\n2) Must use our Mac client and connect a remote device to control it(Mac/Windows/Linux/Android) to accomplish the bounty.\n\nOur Mac client now automates benchmarks, so these bounties will help us build the most comprehensive computer-use benchmarks on the planet.\n\n3) Must publish the bounty as a step-by-step power in the powers studio, then run it and record a video.\n\n4) First to post the video to X by timestamp wins.\n\n5) Each bounty is $50 and you can win unlimited bounties-- we need to finish these fast.\n\nBounties:\n\n1. Order groceries from Instacart by adding 10 common household items, selecting a delivery window, and placing the order to the checkout confirmation page.\n\n2. Reorder toiletries from Amazon by buying a previous order like toothpaste, shampoo, and paper towels, then confirm the cart and delivery date.\n\n3. Buy household supplies from Target online by adding at least 5 home essentials and completing checkout until the order confirmation screen.\n\n4. Book a restaurant reservation at a U.S. restaurant for 2 people at a requested date and time, then show the reservation confirmation.\n\n5. Buy movie tickets from a U.S. theater chain for a chosen film, seat selection, and showtime, then verify with the ticket confirmation page.\n\n6. Buy concert tickets for a U.S. venue by selecting a real event, choosing seats or section, and reaching the purchase confirmation.\n\n7. Buy sports tickets for a U.S. team or stadium by selecting a game, picking seats, and verifying the order confirmation page.\n\n8. Reserve a campsite in a U.S. state or national park system by choosing dates, party size, and campsite, then confirming the reservation details.\n\n9. Book a hotel room in the United States by choosing check-in/check-out dates, guest count, and room type, then verifying the booking confirmation.\n\n10. Book a domestic U.S. flight by selecting departure and arrival cities, travel dates, and fare class, then confirm the booking summary page.\n\n11. Check in for a flight online using an airline confirmation number and last name, then verify the boarding pass or check-in confirmation.\n\n12. Reserve a rental car in the United States by choosing airport or city location, pickup/drop-off dates, car type, and confirming the reservation.\n\n13. Book a U.S. Airbnb stay by selecting dates, guest count, and a listing, then verify the reservation request or booking confirmation.\n\n14. Find and book a haircut at a U.S. salon or barbershop using Yelp, Google, or booking software, then confirm the appointment time and location.\n\n15. Book a manicure or spa visit at a U.S. business by choosing a service, time slot, and provider, then verify the appointment confirmation.\n\n16. Schedule a dentist appointment with a U.S. clinic through their booking portal, then confirm the appointment date, time, and office location.\n\n17. Schedule a doctor appointment through a U.S. provider portal by selecting the doctor, visit type, and time, then verify the appointment confirmation.\n\n18. Book a pet grooming appointment with a U.S. pet service by selecting the pet, service package, and date, then confirm the booking details.\n\n19. Register for a fitness class at a U.S. gym or studio by choosing a class time and location, then verify the registration or pass in the app or site.\n\n20. Register for a local U.S. event or meetup by selecting an event, entering attendee info, and confirming the registration page.\n\n21. Fill out apartment inquiry forms on 3 listings with name, move-in date, budget, and contact info, then verify each submission success page.\n\n22. Submit a tour request for an apartment by picking a preferred time and entering renter details, then verify that the tour request was sent.\n\n23. Renew a parking permit through a city, campus, or apartment portal by entering vehicle information and verifying the renewal confirmation.\n\n24. Pay a U.S. power bill online through the utility portal and verify the payment receipt or updated account balance.\n\n25. Pay a U.S. water bill online through the utility website and confirm the payment receipt number.\n\n26. Pay a U.S. internet bill through the ISP portal and verify the updated statement or payment confirmation.\n\n27. Upload marketplace listings to Etsy by creating a product title, photos, description, pricing, and shipping info, then verify the live listing.\n\n28. Cross-post a product listing from Shopify to eBay by copying title, images, description, and price, then verify the eBay listing is published.\n\n29. Reload a Starbucks card in the Starbucks app or website with a selected dollar amount and verify the new balance.\n\n30. Cancel a streaming subscription by navigating account settings, completing cancellation flow, and verifying the end date or cancellation email.\n\n31. Cancel a U.S. gym membership online by accessing account settings or support flow and verifying written confirmation of cancellation.\n\n32. Pause a meal-kit subscription for the next billing cycle and verify the skipped deliveries or pause confirmation.\n\n33. Start a return for an online purchase by selecting the item, reason, refund method, and verifying the return authorization.\n\n34. Print a shipping label for a return by completing the return flow and confirming the downloadable PDF label.\n\n35. Track multiple packages from email confirmations or carrier sites and compile a summary with carrier, status, and delivery date for each.\n\n36. Compare prices for the same item across at least 3 stores and produce a short summary showing cheapest option, shipping cost, and delivery date.\n\n37. Apply coupons at checkout by testing promo codes and verifying which code gives the largest savings before purchase.\n\n38. Search for used versions of a product on eBay, Facebook Marketplace, and Mercari, then summarize the cheapest and best-condition options.\n\n39. Monitor restocks for sold-out products by checking 3 retailer pages and verifying restock alert signup or back-in-stock availability.\n\n40. Buy limited-drop sneakers at launch by preparing cart, selecting size, and verifying successful checkout or queue entry result.\n\n41. Buy a gift for a friend based on a budget, recipient interests, and delivery deadline, then verify the selected product and checkout page.\n\n42. Create a shopping cart for back-to-school items from a provided list and verify all required items, quantities, and total price.\n\n43. Compare laptop prices across at least 3 sites for the same model and produce a summary with total cost, warranty, and delivery date.\n\n44. Compare hotel prices across travel sites for the same destination and dates, then verify the cheapest refundable option.\n\n45. Find the cheapest nonstop flight for a route and travel window, then verify airline, fare, baggage policy, and total price.\n\n46. Find the fastest route with one stop max by comparing travel times and verifying the selected itinerary details.\n\n47. Build an itinerary from email confirmations by extracting flights, hotels, reservations, and events into one organized trip summary.\n\n48. Add trip details to a calendar by creating calendar events for flight departure, hotel stay, dinner reservations, and return trip.\n\n49. Check visa or entry requirement pages for a destination and summarize passport, visa, vaccination, and validity requirements.\n\n50. Register a child for a U.S. camp or after-school program by completing required forms and verifying enrollment submission.\n\n51. Sign up for a U.S. community class by selecting the course, entering attendee info, and confirming registration.\n\n52. Register for a U.S. race or marathon by choosing distance, wave, shirt size, and verifying registration confirmation.\n\n53. Fill out school enrollment forms by entering student, parent, and emergency contact information, then verify successful submission.\n\n54. Complete scholarship applications by filling required fields, uploading materials, and verifying the submission receipt.\n\n55. Submit rebate forms after a purchase by entering order details and uploading receipt images, then confirm the rebate tracking number.\n\n56. Enter sweepstakes or giveaway forms by completing required fields and verifying the entry confirmation page.\n\n57. Renew car registration online through the DMV or state portal and verify the receipt or temporary registration notice.\n\n58. Schedule a DMV appointment by selecting service type, location, and time slot, then verify the appointment confirmation.\n\n59. Pay a U.S. parking ticket by entering citation details and verifying the payment receipt number.\n\n60. Pay a U.S. toll bill through the toll authority portal and verify that the balance is cleared or payment is posted.\n\n61. Upload insurance documents to a portal by selecting the policy or claim, attaching files, and verifying successful upload.\n\n62. Submit a reimbursement claim by filling claim fields, entering amount, uploading receipts, and verifying submission confirmation.\n\n63. Automate generating websites for a Fiverr gig to make money on autopilot by creating a simple client-ready website from a template and verifying the final published page URL.\n\n64. Check prescription refill status with a U.S. pharmacy by logging in, selecting the prescription, and verifying current refill status.\n\n65. Request a prescription refill from a U.S. pharmacy portal and verify the refill request confirmation and expected ready date.\n\n66. Message a doctor through a patient portal by composing a non-urgent message and verifying it appears in sent messages.\n\n67. Schedule a vaccine appointment with a U.S. pharmacy or clinic by selecting vaccine type, location, and time, then confirm the booking.\n\n68. Compare insurance plans during enrollment by reviewing premium, deductible, and copay details, then summarize the best option for the user’s needs.\n\n69. File a simple support request with an insurer by entering policy details, issue summary, and attachments, then verify ticket creation.\n\n70. Review bank transactions for suspicious charges by scanning recent transactions and creating a flagged list with merchant, date, and amount.\n\n71. Download monthly statements from a bank or credit card portal and verify the PDF files for the requested date range.\n\n72. Pay a U.S. credit card bill by selecting payment amount and date, then verify payment scheduling or confirmation receipt.\n\n73. Transfer money between accounts by selecting source and destination accounts, amount, and verifying the transfer confirmation.\n\n74. Set up auto-pay on bills by enabling recurring payment and verifying the schedule, funding source, and next payment date.\n\n75. Categorize expenses from statements by labeling transactions into categories like food, travel, and utilities, then export a summary.\n\n76. Look for better U.S. phone plans by comparing 3 carrier offers and summarizing monthly cost, data limits, and contract terms.\n\n77. Look for better U.S. internet plans by comparing local providers on speed, price, fees, and availability, then identify the best choice.\n\n78. Compare car insurance quotes from multiple providers and summarize premium, deductible, and coverage differences.\n\n79. Compare renters insurance quotes from multiple providers and verify the cheapest plan meeting the requested coverage amount.\n\n80. Find and apply promo codes before switching services by testing available codes and verifying which one lowers first-month or annual cost the most.\n\n81. Post a listing on Facebook Marketplace by uploading photos, title, description, price, and location, then verify the live listing.\n\n82. Post an item on Craigslist by creating a category-specific listing with images and details, then verify publication.\n\n83. Cross-post an item on eBay and Mercari by reusing the same product data and confirming both listings are live.\n\n84. Update prices on secondhand listings by editing at least 3 active listings and verifying the new prices are visible.\n\n85. Respond to buyer questions in marketplaces by sending answers to active inquiries and verifying the messages are delivered.\n\n86. Track offers from buyers by reviewing offer status across marketplace apps and summarizing open, accepted, and expired offers.\n\n87. Schedule pickup times with buyers by coordinating through marketplace messages and verifying agreed date, time, and location.\n\n88. Automatically apply to jobs using your resume across multiple job boards by filling application forms, uploading documents, and verifying each application submission.\n\n89. Upload a YouTube video by adding title, description, thumbnail, tags, and visibility settings, then verify the live or scheduled video page.\n\n90. Schedule posts across social apps by preparing captions, media, and publish times, then verify the scheduled post queue.\n\n91. Reply to common DMs by sending templated responses to selected incoming messages and verifying replies in the inbox.\n\n92. Pull comments that need responses by reviewing recent posts and compiling unanswered comments into a response queue.\n\n93. Create a playlist on Spotify or YouTube by adding at least 20 tracks or videos matching a theme, then verify the published playlist.\n\n94. Save recipes from different sites into one doc by collecting ingredients, links, and cook times, then verify the final compiled document.\n\n95. Build a meal plan for the week by assigning recipes to each day and verifying total meals, prep needs, and variety.\n\n96. Make a shopping list from selected recipes by aggregating ingredients and quantities, then verify the final grocery list is deduplicated.\n\n97. Research U.S. summer camps and submit interest forms by identifying 3 matching camps and verifying each inquiry submission.\n\n98. Research colleges and organize deadlines by compiling application, scholarship, and test deadlines into one structured tracker.\n\n99. Research grant opportunities and apply by identifying matching grants, filling forms where possible, and verifying submitted applications.\n\n100. Plan a U.S. weekend trip and complete all bookings by selecting destination, transportation, lodging, and one activity, then verify all confirmations.",
+   "lang": "en",
+   "createdAt": "2026-04-22T18:17:37.000Z",
+   "type": "quote",
+   "author": {
+    "id": "376478209",
+    "username": "RohanArun",
+    "name": "Rohan Arun",
+    "url": "https://x.com/RohanArun",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1946954678874308608/lbpeDP1__normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 22,
+    "bookmarks": 2,
+    "views": 4637
+   },
+   "replyTo": null,
+   "quotedTweetId": "2040293178817855680",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "http://getsupers.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1569667171864674304",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 1
+   },
+   "id": "1569667171864674304",
+   "url": "https://x.com/buySAMadrink/status/1569667171864674304",
+   "conversationId": "1569667171864674304",
+   "text": "My provider rep hold time has been “2-5 minutes” for 20 minutes. Make it make sense.",
+   "lang": "en",
+   "createdAt": "2022-09-13T12:39:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "38983055",
+    "username": "buySAMadrink",
+    "name": "Sam",
+    "url": "https://x.com/buySAMadrink",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1865581843459850240/rcCrMLGc_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2023948081633620255",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "2023948081633620255",
+   "url": "https://x.com/tech_mahindra/status/2023948081633620255",
+   "conversationId": "2023948081633620255",
+   "text": "Healthcare teams today are balancing more complexity than ever, and what they need most is speed, accuracy, and compliance that truly works at scale. @tech_mahindra's #BPS Provider Services Capability supports providers across the entire #healthcare value chain by combining deep domain expertise with AI‑powered solutions.\n\nFrom patient access and digital onboarding to clinical coding, CDI, RAF and HCC optimization, denial management, and compliance, the offering helps providers lower costs, improve accuracy, and safeguard revenue integrity. With advanced #AI tools at the core, organizations can reduce claim denials, onboard faster, enhance care quality, and stay audit‑ready with confidence.\n\nIt is a smarter, more efficient way to run healthcare operations, built on intelligence, trust, and real impact.\n\nKnow more: https://www.techmahindra.com/services/business-process-services/tech-mahindra-bps-provider-services-capability/?utm_campaign=bps_smp&utm_source=twitter-x&utm_medium=organic&utm_content=static\n\n#ScaleAtSpeed #HealthcareTransformation #AIinHealthcare #PatientExperience #RevenueCycleManagement",
+   "lang": "en",
+   "createdAt": "2026-02-18T02:30:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "51406202",
+    "username": "tech_mahindra",
+    "name": "Tech Mahindra",
+    "url": "https://x.com/tech_mahindra",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1981626712614993920/1FzzNU7n_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 184
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2023644079528308741",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HBVtkZAbcAU2qQU.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HBVtkZAbcAU2qQU.jpg",
+     "width": 1000,
+     "height": 1000,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "BPS",
+     "healthcare",
+     "AI",
+     "ScaleAtSpeed",
+     "HealthcareTransformation",
+     "AIinHealthcare",
+     "PatientExperience",
+     "RevenueCycleManagement"
+    ],
+    "mentions": [
+     {
+      "id": "51406202",
+      "username": "tech_mahindra",
+      "name": "Tech Mahindra"
+     }
+    ],
+    "urls": [
+     "https://www.techmahindra.com/services/business-process-services/tech-mahindra-bps-provider-services-capability/?utm_campaign=bps_smp&utm_source=twitter-x&utm_medium=organic&utm_content=static"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1976524847657201876",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1976524847657201876",
+   "url": "https://x.com/mayorxchange22/status/1976524847657201876",
+   "conversationId": "1976524847657201876",
+   "text": "ALLORA TESTNET ENGAGEMENT PRACTICAL GUIDE\n\nOverview\n@AlloraNetwork testnet is the place you test models, submit inferences, validate results, and build reputation before mainnet. You will learn the flows, prove performance, and earn early signals that matter.\n\nWhy join\n1.Get hands on with @AlloraNetwork mechanics and tooling.\n\nhttp://2.Build a public track record that influences rewards.\n\n3.Find bugs early and shape integrations.\n\n4.Earn reputation that translates to priority on mainnet.\n\nPrerequisites\n1.Wallet with testnet tokens.\n\n2.Basic ML or scripting skills for inference submission.\n\n3.GitHub account for reporting and repo access.\n\n4.A browser and a terminal for CLI tools.\n\nStep by step engagement\n1.Join the channels\n\n•Join @AlloraNetwork testnet channels on X and Discord or Telegram.\n\n•Read pinned guides and the testnet announcement.\n\n2.Connect wallet and claim funds\n\n•Switch your wallet to the testnet network.\n\n•Use the faucet to claim test tokens.\n\n•Keep private keys off public devices.\n\n3.Explore the testnet UI\n\n•Open the Explorer to view live topics, leaderboards, and submissions.\n\n•Watch a topic through a full cycle to learn timing and scoring.\n\n4.Try inference submissions as a user\n\n•Pick a low-risk topic.\n\n•Submit a small number of inferences to learn the format.\n\n•Verify your submission appears in the Explorer logs.\n\n5.Register a model provider (if you build models)\n\n•Package your model in the supported format.\n\n•Publish the interface endpoint or upload artifact per docs.\n\n•Register the model via the provider portal or CLI.\n\n•Submit test inferences and monitor scoring.\n\n6.Act as a Reputer or verifier\n\n•Opt into verification tasks where available.\n\n•Compare model outputs to ground truth after the event window.\n\n•Record your votes and follow dispute procedures if they exist.\n\nhttp://7.Run a validator or node (advanced)\n\n•Review hardware and uptime requirements in the docs.\n\n•Clone the node repo and follow the setup guide.\n\n•Keep logs and alerts active to meet slashing rules.\n\nhttp://8.Report issues and feedback\n\n•Use the project’s GitHub issues for reproducible bug reports.\n\n•Post short, clear repro steps in the testnet channel.\n\n•Tag the right maintainers and include logs.\n\nHow rewards and reputation move on testnet\n\n1.Early participation gives reputation signals.\n\n2.Accurate submissions improve model and contributor ranking.\n\n3.Validators and Reputers build credibility for mainnet allocation.\n\n4.Track your leaderboard position and accuracy metrics.\n\nBest practices\n\n1.Start small, scale submissions after you confirm format.\n\n2.Timestamp and archive every request and response.\n\n3.Never use mainnet keys or funds on testnet.\n\nhttp://4.Read scoring rules before submitting at scale.\n\n5.Share your results publicly to claim credit.\n\nMetrics to track\n\n1.Submission accuracy.\n\n2.Latency from inference request to recorded result.\n\n3.Reward rate per task.\n\n4.Leaderboard rank trends over time.\n\nCommon pitfalls\n\n1.Wrong payload format, which causes rejection.\n\n2.Submitting too late in the topic window.\n\n3.Using mainnet credentials on testnet.\n\n4.Poor logging, which makes bug reports weak.\n\nNext steps after testnet success\n\n1.Document your process and results.\n\n2.Port validated models to mainnet flows when released.\n\n3.Apply reputation history to staking or governance roles.\n\n4.Mentor new testers in the community channels.",
+   "lang": "en",
+   "createdAt": "2025-10-10T05:47:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1875485485377974272",
+    "username": "mayorxchange22",
+    "name": "MAYOR 👻",
+    "url": "https://x.com/mayorxchange22",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2045206997063360512/VNb1-MUU_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 14,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 14,
+    "bookmarks": 0,
+    "views": 125
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1976524836110233600",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G24G3coWcAAqp_7.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G24G3coWcAAqp_7.jpg",
+     "width": 1024,
+     "height": 682,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1752421556494438401",
+      "username": "AlloraNetwork",
+      "name": "Allora"
+     },
+     {
+      "id": "1752421556494438401",
+      "username": "AlloraNetwork",
+      "name": "Allora"
+     },
+     {
+      "id": "1752421556494438401",
+      "username": "AlloraNetwork",
+      "name": "Allora"
+     }
+    ],
+    "urls": [
+     "http://2.build/",
+     "http://7.run/",
+     "http://8.report/",
+     "http://4.read/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1994481583110365372",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1994481583110365372",
+   "url": "https://x.com/VhagarOnChain/status/1994481583110365372",
+   "conversationId": "1994481583110365372",
+   "text": "Vendor lock-in is the silent killer nobody talks about. 😤\n\n@syndicateio Most appchains launch on centralized providers, feeling good about the \"easy\" setup.\n\nThen they realize - they're TRAPPED.\n\nMigration? Expensive. Risky. Technically complex. Providers KNOW this and price accordingly.\n\nYou're locked in from day one.\n\nProvider raises prices? You pay or die.\n\nService degrades? You suffer.\n\nBetter options emerge? Too bad - migration cost makes it impossible.\n\nThat's not infrastructure. That's a hostage situation with smart contracts on top.\n\nI've said it a lot of times - infrastructure that traps you isn't infrastructure, it's a cage with better marketing.\n\n@syndicateio eliminates lock-in by design.\n\nProgrammable onchain sequencers through $SYND. Sequencing logic lives in contracts YOU control, not provider services.\n\nExecution layer can swap. Settlement layer can change. You maintain sovereignty at EVERY level.\n\nTraditional rollups pitch convenience but deliver dependency. Easy launch, impossible exit.\n\nThey optimize for customer acquisition, not customer freedom.\n\nThat's not how you build for longevity.\n\nReal infrastructure gives you options. Real infrastructure doesn't hold your chain hostage because you made one early decision.\n\nCheck the leaderboard, ends Dec 2, $100K $SYND for top 150: https://bantr.fun/project/syndicate\n\nTrue sovereignty is the way. 🔥\n\nStay comfy bros. Build on infrastructure that respects your freedom, not chains that trap you. 😤",
+   "lang": "en",
+   "createdAt": "2025-11-28T19:00:39.000Z",
+   "type": "quote",
+   "author": {
+    "id": "1985631338968596484",
+    "username": "VhagarOnChain",
+    "name": "Vhagar",
+    "url": "https://x.com/VhagarOnChain",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2072837926472589312/LptD5gmr_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 50,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 37,
+    "bookmarks": 1,
+    "views": 262
+   },
+   "replyTo": null,
+   "quotedTweetId": "1994431378285572495",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1994481543088410627",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G63SZW7bkAMWtDd.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G63SZW7bkAMWtDd.jpg",
+     "width": 680,
+     "height": 680,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1298091402975354880",
+      "username": "syndicateio",
+      "name": "Syndicate"
+     },
+     {
+      "id": "1298091402975354880",
+      "username": "syndicateio",
+      "name": "Syndicate"
+     }
+    ],
+    "urls": [
+     "https://bantr.fun/project/syndicate"
+    ],
+    "symbols": [
+     "SYND",
+     "SYND"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1691185903522205696",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1691185903522205696",
+   "url": "https://x.com/B_Madden4/status/1691185903522205696",
+   "conversationId": "1691185903522205696",
+   "text": "The thread is centered around drugmaker gamesmanship and rent seeking behavior. \n\nDon’t get me wrong - I was critical, but I didn’t intend to come across as ‘anti’ drug or ‘anti’ innovation, just to point out rampant problems with drug pricing specifically and how the government wants to solve them.\n\nAt the end of the day I think we can agree that we just want market-driven, rational drug pricing. I’d prefer a non-government solution. But is that achievable? Like the rest of healthcare, probably not any time soon.\n\nTo the specific, thoughtful points Andrew presents below (welcome any and all thoughts or disagreement - nobody is gonna read all this but I’m posting it anyway):\n\nDrug spending is far less than hospital care & physician services and has stayed fairly consistent for decades\n\nDrugs hold some of the highest margins in healthcare. Yes - Drugmakers deserve to be compensated for ‘riskier’ investment; I am 100% in favor of financial incentives in healthcare - the problem is with the rent seeking behavior I outlined, which I think we agree needs fixing.\n\nYou don’t think that high margin drugs influence provider behavior? It’s all inner-connected. e.g., Nonprofit 340B activity (see: arbitrage) and the oncology industry as a couple examples. It’s the same effect that physician compensation has on healthcare. Comp is ~8% of total healthcare spending, and yet compensation contracts incentivizing RVU productivity requirements cause over-utilization of resources and increased downstream healthcare spending. See : private equity activity in healthcare or hospital alignment with physicians (another issue for another day). Same thing with drugs. ADHD medication, opioid crisis as extreme examples. pharmaceutical sales reps in doctors’ offices. PhRMA lobbying dollars. We all love drugs and prescribing them. That’s fine. But need to acknowledge the reality and cascading effects of these practices.\n\nThe pie chart omits Part B drug spending - which grew at 9.2% annually from 2008-2021. Higher than inflation by a significant margin\n\nWhile gross prices are increasing (largely in anticipation of higher PBM rebates), net drug price has actually fallen YoY for the past few years\n\nRebates & middlemen are obviously a problem, something I’ve touched on in the past but which the current thread doesn’t focus on. Still, list prices are still important to note. Pt. out of pocket costs rise as list prices do. Also affects uninsured. High deductible health plans are a thing. Maybe you can call that bad benefit design, but drugmakers still do it... Lots of patient drug rationing stemming from list prices.\n\nLaunch prices of brand new drugs are increasing exponentially consequently. Not factored into list price growth.\n\nNet prices decrease really only after competition is introduced (Humira), which I outline in the original thread.\n\nDrugs improve outcomes & reduce massive downstream hospital costs - how many heart attacks (& associated costs) have statins prevented?\n\nI agree! Drugs (the good kind lol) are amazing and the biggest source of innovation in healthcare. How is the value of a drug determined though? This is where things get fuzzy. Are statins extracting more value than they produce? Do we have empirical evidence to point to that value and is it priced in accordance? I have no idea, you probably do; just questions I’m asking.\n\nDrugs democratize healthcare: health provider services could vary significantly in quality & cost (even in the same hospital!); but if you have insurance and are near a pharmacy, you can get the best drugs in the world\n\nAlso agreed! You can get the best drugs in the world…if your formulary covers it, and you have good insurance…or if you can afford the out of pocket list price. Again, this is beyond the scope of the original thread and I acknowledge / agree that middlemen are a problem, probably should have been referenced. But list prices, and launch prices, again, are a problem too.\n\nThe vast majority of drugs eventually do go generic and costs plummet. ~90% of scripts are filled with generic drugs - nearly all were once expensive branded drugs. Compare that with every other cost in healthcare, which increases at a higher rate than inflation\n\nThe original thread considers pricing gamesmanship, not the fact that generics exist. How are specialty drug cost trends faring? 43% increase in specialty drug costs from 2016-2021. That’s 50% of total drug spend.\n\nIndexing on drug prices alone misses the context that increasingly medicines are low-volume products, targeting niche diseases or produced in small batches - naturally the list price will be higher, but the \"N\" will be lower to compensate\n\nHow can we thoughtfully address drug pricing and objectively obtain the appropriate price of a drug?\nHow does Medicare or a payor choose to cover and reimburse for these low-volume, extremely high cost, extremely specialized drugs?\n\nBlake brings up the EpiPen, but prior to this innovation, epinephrine injection required a vial & syringe. Anaphylaxis can be very disconcerting for a non-medically trained parent, as they are watching their kid's throat close up. Every second counts - easier & faster dosing is life saving. Mylan also predominantly drove workplace, school & societal education on the value of having an autoinjector on-hand, absolutely saving many lives. Were they personally motivated to do so? Yes - but they also foot the bill. Once they stop, who will pick up that service to ensure we remain adequately supplied for the next emergency?\n\nThe level of price gouging involved with EpiPens is akin to surprise billing and the No Surprises Act. It’s predatory behavior on the basis of emergency situations, where pricing is extremely inelastic. It needs to be stocked in schools, day care, with children, with parents, etc.\n\nThe bigger story here is that while increasing list prices is perfectly legal, they pursued an anticompetitive price gouging strategy, jacking up the rate by 500+%…and surely we can see something wrong with that. I mean, the feds did.\n\nEpiPen footed a bill for sure - a $345M settlement bill related to EpiPen anticompetitive price fixing.\n\nhttps://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-agrees-pay-345-mln-resolve-epipen-pricing-lawsuit-2021-07-16/\n\nAlong with $264M on the Mylan side\n\nhttps://www.nytimes.com/2022/02/28/business/viatris-epipen-settlement.html\n\nand another $465M in false claims prior to that\n\nhttps://www.justice.gov/opa/pr/mylan-agrees-pay-465-million-resolve-false-claims-act-liability-underpaying-epipen-rebates\n\nDon’t get me wrong, these pricing & antitrust dynamics are not beholden to the drug industry - they are widespread, but two wrongs don’t make a right. And obviously we all know pricing and affordability of healthcare is a major issue, especially as the prevalence of high deductible health plans grows.\n\nBut it's also worth understanding each individual situation - if a manufacturer takes an \"old\" drug but spends real R&D money improving it, either via more convenient / less frequent dosing, lower side effects or new indications - they should be rewarded for doing so.\n\nHow much did Mylan actually improve the EpiPen? What’s the quantifiable impact of those improvements? A quick Google search tells me that the auto-injector was already developed in the 1970s, but I could be missing something.\n\nTo your point, we need to incentivize drugmakers to step in and address generic drug shortages. But raising the EpiPen price 5-fold? Where’s the balance when pharmaceutical companies own the entire market for these drugs?\n\nI am sure you're right that the IRA does a ton of stuff that pharmaceutical investors & firms don't like. But when there are rampant, obvious problems, haven't they kind of made their own bed?",
+   "lang": "en",
+   "createdAt": "2023-08-14T20:31:54.000Z",
+   "type": "quote",
+   "author": {
+    "id": "318475371",
+    "username": "B_Madden4",
+    "name": "Blake Madden 🏥",
+    "url": "https://x.com/B_Madden4",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1802899584382795776/9hxJ1lJp_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 8,
+    "bookmarks": 4,
+    "views": 4809
+   },
+   "replyTo": null,
+   "quotedTweetId": "1690718646178578432",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-agrees-pay-345-mln-resolve-epipen-pricing-lawsuit-2021-07-16/",
+     "https://www.nytimes.com/2022/02/28/business/viatris-epipen-settlement.html",
+     "https://www.justice.gov/opa/pr/mylan-agrees-pay-465-million-resolve-false-claims-act-liability-underpaying-epipen-rebates"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1943820142548595080",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1943820142548595080",
+   "url": "https://x.com/marekhealth/status/1943820142548595080",
+   "conversationId": "1943820142548595080",
+   "text": "Marek Day Ends In Just A Few Hours! \nSave 20% off and start getting actual results, not just data.\n\nUse code “MarekDay” to save on Marek Health’s Guided Optimization®:\n\n✅ 1-on-1 health coaching\n✅ Supplementation protocols\n✅ Lifestyle strategies\n✅ Medical treatment plans (if approved)\n\nTerms and conditions apply. Offer ends July 11, 2025 at 11:59pm EST. The discount applies to the intake fee only. Additional fees apply to lab work, provider services, and treatments.",
+   "lang": "en",
+   "createdAt": "2025-07-11T23:50:11.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1443729606406705153",
+    "username": "marekhealth",
+    "name": "Marek Health",
+    "url": "https://x.com/marekhealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1990424313854357504/6XhJga_2_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 348
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1943819961517875200",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/1943819961517875200/vid/avc1/720x1280/rplPY_q7ahJ_SsIE.mp4?tag=14",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1943819961517875200/img/2qFG_18lPCYlG0Yb.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 45
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:969015373147398144",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "969015373147398144",
+   "url": "https://x.com/Availity/status/969015373147398144",
+   "conversationId": "969015373147398144",
+   "text": "Availity is proud to help @AmedisysInc improve their overall #patientcare by offering real-time claim #authorizations. http://bit.ly/2sJNz39 #homehealth #healthcare https://x.com/Availity/status/969015373147398144/photo/1",
+   "lang": "en",
+   "createdAt": "2018-03-01T01:04:03.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2207653698",
+    "username": "Availity",
+    "name": "Availity",
+    "url": "https://x.com/Availity",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2098434020879286272/kchngZYZ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "969015370488037376",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DXKiWGvVQAA8JMr.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DXKiWGvVQAA8JMr.jpg",
+     "width": 1024,
+     "height": 512,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "patientcare",
+     "authorizations",
+     "homehealth",
+     "healthcare"
+    ],
+    "mentions": [
+     {
+      "id": "3905265073",
+      "username": "AmedisysInc",
+      "name": "Amedisys"
+     }
+    ],
+    "urls": [
+     "http://bit.ly/2sJNz39"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1441139725486616578",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1441139725486616578",
+   "url": "https://x.com/MuseumJoe/status/1441139725486616578",
+   "conversationId": "1441139725486616578",
+   "text": "Telco Provider rep lied to me today about the conditions of the denial of a number port request.\n\nI called him out with highly technical detail, showing exactly what was wrong with his statement.\n\nRemember: when someone spins you a yarn, make an exquisitely detailed rug.",
+   "lang": "en",
+   "createdAt": "2021-09-23T20:37:40.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1051993209566621696",
+    "username": "MuseumJoe",
+    "name": "Joe's Proud Computer Museum 🌈",
+    "url": "https://x.com/MuseumJoe",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1663995934823284737/AtMAm2Rd_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1750394244223607279",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1750394244223607279",
+   "url": "https://x.com/marcelknobloch8/status/1750394244223607279",
+   "conversationId": "1750394244223607279",
+   "text": "🚀🌟 Exciting #Ripple News for the #XRP Army! 🌟🚀\nThe XRP Ledger is buzzing with excitement as the XLS-30D AMM Amendment gains massive support from validators! With 60% consensus now, it's time for XRP holders to turn their holdings into a source of passive income. 🤑💰\n\nThe XLS-30D AMM (Automated Market Maker) Amendment is a proposed update to the XRP Ledger (XRPL) protocol that aims to introduce automated market maker functionality into the XRP Ledger. Here's a more detailed explanation of what this amendment is about:\n\nAutomated Market Maker (AMM) Functionality: An AMM is a decentralized financial tool commonly used in the world of cryptocurrencies. It allows users to trade digital assets without the need for a traditional order book or matching engine. Instead, AMMs use smart contracts to automatically facilitate trades and determine asset prices based on supply and demand.\n\nLiquidity Staking Pool: The XLS-30D AMM Amendment plans to create a liquidity staking pool within the XRP Ledger. This means that XRP holders can provide liquidity to this pool by depositing their XRP tokens into it. In return, they receive liquidity pool tokens, which represent their share in the pool.\n\nEarnings and Risk Sharing: Individuals who contribute liquidity to the AMM will have the opportunity to earn passive income. Their earnings will be proportionate to the amount of liquidity they provide to the pool. Additionally, they will share the associated exchange risk with other liquidity providers.\n\nVoting on Trading Fees: XRP liquidity providers can have a say in determining the trading fee within the AMM. The trading fee is typically set based on the proportion of LP (liquidity provider) assets they hold. This feature allows LPs to influence the economics of the AMM.\n\nCommunity Engagement: The XLS-30D AMM Amendment is designed to engage the XRP community actively. A significant portion of community members have expressed their willingness to participate in AMM liquidity provider services, indicating strong support and participation potential.\n\nSecurity and Auditing: To ensure the security of this new functionality, the XLS-30D code base underwent a comprehensive audit by the reputable security firm CertiK, which granted it an impressive security score of 95/100. This audit helps address concerns about potential vulnerabilities.\n\nImplementation: However, the implementation of this smart contract functionality hinges on securing an 80% endorsement from XRPL validators. This means that a significant consensus among validators is required to activate the amendment.\n\nIn summary, the XLS-30D AMM Amendment is designed to bring automated market maker functionality to the XRP Ledger, allowing XRP holders to earn passive income by participating in liquidity staking pools and influencing trading fees. While it presents exciting opportunities, it also requires strong support from validators and addresses security and potential drawbacks like market volatility and manipulation concerns.",
+   "lang": "en",
+   "createdAt": "2024-01-25T05:44:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1699287707581595648",
+    "username": "marcelknobloch8",
+    "name": "Marcel Knobloch",
+    "url": "https://x.com/marcelknobloch8",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2066081579961585665/ceXdJOMf_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 26,
+    "quotes": 3,
+    "likes": 104,
+    "bookmarks": 8,
+    "views": 9108
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1750394192822411265",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GEqmPpAWIAEeyUB.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GEqmPpAWIAEeyUB.jpg",
+     "width": 512,
+     "height": 341,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Ripple",
+     "XRP"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1451216912663392265",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1451216912663392265",
+   "url": "https://x.com/Availity/status/1451216912663392265",
+   "conversationId": "1451216912663392265",
+   "text": "Emily is a true Revenue Cycle leader. Working closely with Availity, Emily and her team were able to establish new workflows and reduce claim error rates down to 3%. We’re proud to name Emily a Revenue Cycle Star for Q2 2021!  To learn more visit https://www.availity.com/rcstars https://x.com/Availity/status/1451216912663392265/photo/1",
+   "lang": "en",
+   "createdAt": "2021-10-21T16:00:48.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2207653698",
+    "username": "Availity",
+    "name": "Availity",
+    "url": "https://x.com/Availity",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2098434020879286272/kchngZYZ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1451216907936403461",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FCPCFsGXEAUDzrI.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FCPCFsGXEAUDzrI.jpg",
+     "width": 1024,
+     "height": 512,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://www.availity.com/rcstars"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1939995558850035856",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1939995558850035856",
+   "url": "https://x.com/shahid_5212/status/1939995558850035856",
+   "conversationId": "1939995558850035856",
+   "text": "🚨 The Future of Health Data Starts Now\nMeet @LURbyLumera – a Web3-powered personal health ecosystem that gives patients true control over their data while streamlining operations for providers.\n\nA thread on the next-gen infrastructure for healthcare👇\n\n🔒 The Problem: Health Data Is Broken\nMost patient records are scattered across providers.\nNo true ownership, minimal interoperability, and security risks everywhere.\nThis creates poor care, wasted time, and rising costs.\n\n---\n\n💡 The Solution: Lock™ by Lumera\nA secure personal health record (PHR) app built with blockchain.\nPatients can store, verify, and manage their complete medical history in one place — immutably.\n\nNo more chasing files. No more duplicates. No more data loss.\n\n---\n\n🛡️ Built on Trust: Identity-Proofed Health Data\nEvery user on Lumera is verified through a patent-pending identity framework.\nThis prevents fraud, misidentification, and inconsistent records across systems.\n\nYour data is real, verifiable, and yours alone.\n\n---\n\n⚙️ For Providers: A Unified, Intelligent SaaS Platform\nLumera isn’t just for patients.\nClinics get a full-stack, AI-powered suite that replaces EMR systems, communication tools, and workflow dashboards — all in one clean interface.\n\n---\n\n🤖 Smarter Healthcare with AI Integration\nLumera’s platform leverages AI to:\n✔️ Summarize reports instantly\n✔️ Detect early risk markers\n✔️ Flag important indicators\n✔️ Save doctors 10+ hours per week\n\nTime saved = better patient outcomes.\n\n---\n\n 🌐 Web3 Infrastructure That Matters\nAll of this runs on Lumera’s own hybrid blockchain, designed with:\n\nProof-of-Authority & Proof-of-Stake\n\nImmutable audit trails\n\nSeamless cross-platform access\n\nScalable for global adoption\n\n---\n\n💸 Powered by $LUR — The Ecosystem Token\n$LUR enables:\n\nNetwork access\n\nSubscription discounts\n\nGamified health incentives\n\nOn-chain clinical trials\n\nGovernance & staking\n\nIt’s not just a token — it’s infrastructure.\n\n---\n\n📍 Real-World Use Cases\n\nA diabetic patient tracks treatment records across 3 countries\n\nA startup clinic uses Lumera to avoid buying 4 separate SaaS tools\n\nA clinical trial uses $LUR to reward verified participants securely\n\nThis isn’t theory. It’s happening.\n\n---\n\n🚀 Roadmap Highlights\n✅ Android Launch – Q2 2025\n✅ iOS Launch – Q3 2025\n✅ Provider Portal Beta – Late 2025\n✅ Cross-border Health Data Exchange – 2026\n✅ Global ID-backed Health DAO – 2027+\n\nThe future is decentralized, verifiable, and patient-owned.\n\n---\n\n🧬 Why Lumera Matters\n\n> Healthcare is a $10T+ global industry\nData transparency, efficiency, and trust are non-negotiable\nLumera is the bridge between Web3 and real-world medicine\n\nBacked by research, real tech, and regulatory focus.\n\n---\n\n🌟 Final Thoughts\nIf you're a:\n🩺 Patient who values control\n🏥 Provider who needs efficiency\n🧠 Builder shaping the future of health\n📈 Investor seeking scalable Web3 utility\n\nThen @LURbyLumera is a project worth watching.\n\n🌐 Official Website: http://lumerahealth.ai\n\n📢 Community & Updates:\n     @lumeraofficial on Telegram\n\n🐦 Follow Us on X (Twitter):  \n      @LURbyLumera\n\n#Web3 #HealthTech #Blockchain #DigitalHealth",
+   "lang": "en",
+   "createdAt": "2025-07-01T10:32:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1848291765616623616",
+    "username": "shahid_5212",
+    "name": "NISUN",
+    "url": "https://x.com/shahid_5212",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1960605367999848452/jLXcOOX-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 13,
+    "retweets": 9,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 273
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1939994679199641601",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Guw-4dfXsAEC_S7.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Guw-4dfXsAEC_S7.jpg",
+     "width": 1536,
+     "height": 1024,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Web3",
+     "HealthTech",
+     "Blockchain",
+     "DigitalHealth"
+    ],
+    "mentions": [
+     {
+      "id": "1909969404932370432",
+      "username": "LURbyLumera",
+      "name": "Lumera Health"
+     },
+     {
+      "id": "1909969404932370432",
+      "username": "LURbyLumera",
+      "name": "Lumera Health"
+     },
+     {
+      "id": "1591060010167144450",
+      "username": "lumeraofficial",
+      "name": "LUMÉRA"
+     },
+     {
+      "id": "1909969404932370432",
+      "username": "LURbyLumera",
+      "name": "Lumera Health"
+     }
+    ],
+    "urls": [
+     "http://lumerahealth.ai/"
+    ],
+    "symbols": [
+     "LUR",
+     "LUR",
+     "LUR"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1903376569210486978",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1903376569210486978",
+   "url": "https://x.com/KiprotichSNR1/status/1903376569210486978",
+   "conversationId": "1903376569210486978",
+   "text": "Are Facing an issue with your SHA provider portal? Need help processing a claim? The #TaifaCareCallCentre is always open to assist you. Call 147 and get the support you need, any time of the day https://x.com/KiprotichSNR1/status/1903376569210486978/photo/1",
+   "lang": "en",
+   "createdAt": "2025-03-22T09:21:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1484532999370780674",
+    "username": "KiprotichSNR1",
+    "name": "GENERALI KIPROTICH 🇰🇪",
+    "url": "https://x.com/KiprotichSNR1",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2102542824784756736/e2niX56s_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 149
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1903376564558938112",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Gmom5qRWwAA59f9.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Gmom5qRWwAA59f9.jpg",
+     "width": 1200,
+     "height": 1200,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "TaifaCareCallCentre"
+    ],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1989860836127773106",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1989860836127773106",
+   "url": "https://x.com/lium_io/status/1989860836127773106",
+   "conversationId": "1989860836127773106",
+   "text": "+25% GPUs over the last 24 hours\n\nOur new provider portal v2 allowed us to heavily scale compute while not increasing payouts just because we made the onboarding process drastically easiser.\n\nNext step is to simplify the payout process to scale further. https://x.com/lium_io/status/1989860836127773106/photo/1",
+   "lang": "en",
+   "createdAt": "2025-11-16T00:59:27.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1848432432921645056",
+    "username": "lium_io",
+    "name": "lium.io",
+    "url": "https://x.com/lium_io",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1948139458265489408/JdPnE5Cf_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 9,
+    "retweets": 23,
+    "quotes": 1,
+    "likes": 135,
+    "bookmarks": 3,
+    "views": 6926
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1989860241547128832",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G51nWNIW8AAye_v.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G51nWNIW8AAye_v.png",
+     "width": 2772,
+     "height": 846,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:943229471435485184",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "943229471435485184",
+   "url": "https://x.com/crysesu/status/943229471435485184",
+   "conversationId": "943229471435485184",
+   "text": "@Cignaquestions waited on hold for nearly 5 hours finally called from another phone to have to explain my issue AGAIN only to be told I’ll receive a call back in 3-5 minutes after issue is investigated that 20 minutes ago unacceptable provider services! https://x.com/crysesu/status/943229471435485184/photo/1",
+   "lang": "en",
+   "createdAt": "2017-12-19T21:20:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "19277280",
+    "username": "crysesu",
+    "name": "Crystal",
+    "url": "https://x.com/crysesu",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/713943670299488257/vzKNlR3k_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "943229467614265344",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DRcGNA7UQAAINKR.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DRcGNA7UQAAINKR.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1447660851696218112",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1447660851696218112",
+   "url": "https://x.com/Melbo0221/status/1447660851696218112",
+   "conversationId": "1447660851696218112",
+   "text": "Hey! @SunHealthFL Your Wellcare Medicaid transition is causing erroneous claim denials and continuity of care issues. Your Provider Services team has NO status of why or when this will be fixed. Can you issue any guidance for your providers!? #Help #JesusFixIt #CustomerService https://x.com/Melbo0221/status/1447660851696218112/photo/1",
+   "lang": "en",
+   "createdAt": "2021-10-11T20:30:17.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "27763154",
+    "username": "Melbo0221",
+    "name": "Melissa Herrera",
+    "url": "https://x.com/Melbo0221",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1721740800810176513/tIm8WMOB_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1447660846390382597",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/FBcf3qhXEAUGfBJ.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/FBcf3qhXEAUGfBJ.jpg",
+     "width": 180,
+     "height": 108,
+     "altText": "mad GIF",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Help",
+     "JesusFixIt",
+     "CustomerService"
+    ],
+    "mentions": [
+     {
+      "id": "822127020062756865",
+      "username": "SunHealthFL",
+      "name": "Sunshine Health"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1041719930956083200",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1041719930956083200",
+   "url": "https://x.com/homeinternetpro/status/1041719930956083200",
+   "conversationId": "1041719930956083200",
+   "text": "It’s been 6 hours already and you haven’t been able to download your favorite series. Who needs that!? Switch to a better internet provider today! \nVisit http://homeinternetproviders.com for more.\n#internet #TV #speed #provider #services https://x.com/homeinternetpro/status/1041719930956083200/photo/1",
+   "lang": "en",
+   "createdAt": "2018-09-17T16:06:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1034838264232988672",
+    "username": "homeinternetpro",
+    "name": "Home Internet Providers",
+    "url": "https://x.com/homeinternetpro",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1034844545433968640/p0ThUNft_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1041708161563013120",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DnTkDcGWsAAALcA.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DnTkDcGWsAAALcA.jpg",
+     "width": 1200,
+     "height": 1200,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "internet",
+     "TV",
+     "speed",
+     "provider",
+     "services"
+    ],
+    "mentions": [],
+    "urls": [
+     "http://homeinternetproviders.com/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1480559468366766091",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 2
+   },
+   "id": "1480559468366766091",
+   "url": "https://x.com/The_Pastelist/status/1480559468366766091",
+   "conversationId": "1480543160048791560",
+   "text": "@danielmarven @Hlaha8610241 Those mmakgunyos were billing one of the in-house divisions R45000 for my \"independent provider\" services, pay themselves for claiming for me and then only give me a portion of that on top of my salary...then tell me I can't claim for myself🤯🤬",
+   "lang": "en",
+   "createdAt": "2022-01-10T15:17:39.000Z",
+   "type": "reply",
+   "author": {
+    "id": "196965071",
+    "username": "The_Pastelist",
+    "name": "🖍🖌 painterist🎨✏️",
+    "url": "https://x.com/The_Pastelist",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1848218290243424256/T4JQOyZs_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 6,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1480543160048791560",
+    "userId": "400053687",
+    "username": "danielmarven"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "400053687",
+      "username": "danielmarven",
+      "name": "Daniel Marven"
+     },
+     {
+      "id": "1250512292728406017",
+      "username": "Hlaha8610241",
+      "name": "Hlaha@861024"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1717435994792751276",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1717435994792751276",
+   "url": "https://x.com/NDIS/status/1717435994792751276",
+   "conversationId": "1717435994792751276",
+   "text": "There is an upcoming outage to the my NDIS app, myplace participant portal and myplace provider portal.\n\nIt’s taking place today from 8 pm to 2 am on Friday 27 October AEDT and will last 6 hours.\n\nLearn more: https://bit.ly/3S9XMzV https://x.com/NDIS/status/1717435994792751276/photo/1",
+   "lang": "en",
+   "createdAt": "2023-10-26T07:00:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1398523621",
+    "username": "NDIS",
+    "name": "NDIS",
+    "url": "https://x.com/NDIS",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/970436083686064129/29l2yzUV_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 269
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1717435989306548225",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F9WO7tMWoAE5e13.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F9WO7tMWoAE5e13.jpg",
+     "width": 5833,
+     "height": 3062,
+     "altText": "Graphic with text: Planned system outage with a cartoon of a person using a laptop",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3S9XMzV"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1311411255102656513",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1311411255102656513",
+   "url": "https://x.com/JacksonvilleU/status/1311411255102656513",
+   "conversationId": "1311411255102656513",
+   "text": "Are you a Nurse Practitioner who wants to practice independently? Jacksonville University is proud to present the @Availity Nurse Practitioner Scholars Fund through JU’s UpSkill Institute. Claim your scholarship code today! https://www.ju.edu/availity https://x.com/JacksonvilleU/status/1311411255102656513/photo/1",
+   "lang": "en",
+   "createdAt": "2020-09-30T21:03:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "552864552",
+    "username": "JacksonvilleU",
+    "name": "Jacksonville University",
+    "url": "https://x.com/JacksonvilleU",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1365405587970936834/IFuBrurl_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1311411251172564992",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/EjMRlbSXYAATKyb.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/EjMRlbSXYAATKyb.jpg",
+     "width": 993,
+     "height": 889,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2207653698",
+      "username": "Availity",
+      "name": "Availity"
+     }
+    ],
+    "urls": [
+     "https://www.ju.edu/availity"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1750183490346226103",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1750183490346226103",
+   "url": "https://x.com/KnowsleyUnison/status/1750183490346226103",
+   "conversationId": "1750183490346226103",
+   "text": "NJC Pay Claim consultation ended yesterday and the results have been shared nationally. As we await the next steps we continue to visit workplaces. This week we have attended schools as well as sites in adult provider services welcoming new members, reps and actvisits.",
+   "lang": "en",
+   "createdAt": "2024-01-24T15:47:15.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "882183674028077056",
+    "username": "KnowsleyUnison",
+    "name": "Knowsley Unison",
+    "url": "https://x.com/KnowsleyUnison",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2091439490061484032/NJBgmBu-_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 900
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1562477178071105536",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1562477178071105536",
+   "url": "https://x.com/syalmans/status/1562477178071105536",
+   "conversationId": "1562477178071105536",
+   "text": "I have been struggling with Labcorp's provider portal for three hours and I now feel confident in declaring it one of the least helpful services I've ever seen.",
+   "lang": "en",
+   "createdAt": "2022-08-24T16:29:23.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "15996679",
+    "username": "syalmans",
+    "name": "Sy Almans",
+    "url": "https://x.com/syalmans",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/128881790/threadicon_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1744813722651005211",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1744813722651005211",
+   "url": "https://x.com/MTomlin68/status/1744813722651005211",
+   "conversationId": "1744813722651005211",
+   "text": "Me after 3+ hours with my internet service provider rep trying to cancel  an add on to my original contract that I never used and never wanted.  Supposedly this cuts my bill by $60 a month. $60!  Why do I feel as if I've been assaulted? https://x.com/MTomlin68/status/1744813722651005211/photo/1",
+   "lang": "en",
+   "createdAt": "2024-01-09T20:09:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "227117412",
+    "username": "MTomlin68",
+    "name": "M Tomlin",
+    "url": "https://x.com/MTomlin68",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1957814679834607616/3VqPN4ml_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 120
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1744813716661526529",
+     "type": "animated_gif",
+     "url": "https://video.twimg.com/tweet_video/GDbS1LTW4AEsmVi.mp4",
+     "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/GDbS1LTW4AEsmVi.jpg",
+     "width": 498,
+     "height": 240,
+     "altText": "Sad Tired GIF",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1577697649247113220",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1577697649247113220",
+   "url": "https://x.com/Availity/status/1577697649247113220",
+   "conversationId": "1577697649247113220",
+   "text": "A perfect storm of #revenuecycle staff shortages and increasing claim volumes means #providers must find new workflow efficiencies. One Availity client saved 1200 staff hours over 3 months with attachments in Essentials Pro:\n\nhttps://bddy.me/3e9gHcs https://x.com/Availity/status/1577697649247113220/photo/1",
+   "lang": "en",
+   "createdAt": "2022-10-05T16:30:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2207653698",
+    "username": "Availity",
+    "name": "Availity",
+    "url": "https://x.com/Availity",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2098434020879286272/kchngZYZ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1577697642963996675",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FeUbpbPXEAMkxrP.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FeUbpbPXEAMkxrP.jpg",
+     "width": 1920,
+     "height": 1080,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "revenuecycle",
+     "providers"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bddy.me/3e9gHcs"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1821788818296451472",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1821788818296451472",
+   "url": "https://x.com/NDIS/status/1821788818296451472",
+   "conversationId": "1821788818296451472",
+   "text": "We have a multi-system outage this weekend.\n\nMy NDIS app, myplace participant portal and myplace provider portal will be down for 6 hours. The outage will start on Sunday 11 August at 12:00 am AEST. It will end on Sunday 11 August at 6:00 am AEST. \n\nMore: https://ow.ly/yxq350STxb7 https://x.com/NDIS/status/1821788818296451472/photo/1",
+   "lang": "en",
+   "createdAt": "2024-08-09T06:01:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1398523621",
+    "username": "NDIS",
+    "name": "NDIS",
+    "url": "https://x.com/NDIS",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/970436083686064129/29l2yzUV_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 1,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 368
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1821788810239156225",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GUhLRUoWIAEaCr6.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GUhLRUoWIAEaCr6.jpg",
+     "width": 5250,
+     "height": 5250,
+     "altText": "Graphic with text: Planned system outage",
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://ow.ly/yxq350STxb7"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1305914330404323333",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1305914330404323333",
+   "url": "https://x.com/nolahealthdept/status/1305914330404323333",
+   "conversationId": "1305914330404323333",
+   "text": "The Morial Convention Center Resource Center will re-open at normal hours tomorrow Wednesday, September 16th (10am-2pm) and be available to our Southwest Louisiana residents again Monday-Friday for walk-up provider services and supplies/donations. https://x.com/nolahealthdept/status/1305914330404323333/photo/1",
+   "lang": "en",
+   "createdAt": "2020-09-15T17:00:13.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "720210428",
+    "username": "nolahealthdept",
+    "name": "New Orleans Health Department",
+    "url": "https://x.com/nolahealthdept",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1096551960780726272/yLtGEx1A_normal.png",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 7,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1305914325610172416",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Eh-KKP0WkAAg5kB.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Eh-KKP0WkAAg5kB.jpg",
+     "width": 750,
+     "height": 842,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1595439560221020161",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1595439560221020161",
+   "url": "https://x.com/SagilityHealth/status/1595439560221020161",
+   "conversationId": "1595439560221020161",
+   "text": "#Sagility Provider Services has a track record of exceeding expectations for appointment setting, cash recoveries, and denial reversals. We leverage process ingenuity and tech, including our intelligent interaction analytics.   \n\nGet more insights here: https://bit.ly/3SLtdx3 https://x.com/SagilityHealth/status/1595439560221020161/photo/1",
+   "lang": "en",
+   "createdAt": "2022-11-23T15:30:07.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1440910384681009158",
+    "username": "SagilityHealth",
+    "name": "Sagility",
+    "url": "https://x.com/SagilityHealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2090039615025729536/X0w6sAKO_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1595439556148469766",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FiQj0sTWIAYir9H.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FiQj0sTWIAYir9H.jpg",
+     "width": 1200,
+     "height": 627,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Sagility"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3SLtdx3"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1782509935579803927",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1782509935579803927",
+   "url": "https://x.com/Knickanator_/status/1782509935579803927",
+   "conversationId": "1782509935579803927",
+   "text": "On hold for 8 minutes before I was hung up on because your provider portal is absolutely useless. \n\n@MetroPlusHealth \n\nStop stealing taxpayer money https://x.com/Knickanator_/status/1782509935579803927/photo/1",
+   "lang": "en",
+   "createdAt": "2024-04-22T20:41:00.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "325509956",
+    "username": "Knickanator_",
+    "name": "Knickanator",
+    "url": "https://x.com/Knickanator_",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1919389213922848768/l_L-jLP5_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 448
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1782509931255472128",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GLy_Vp0WoAA_wQ7.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/GLy_Vp0WoAA_wQ7.jpg",
+     "width": 1152,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "108716195",
+      "username": "MetroPlusHealth",
+      "name": "MetroPlusHealth"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1714253699223110139",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1714253699223110139",
+   "url": "https://x.com/chris_chisom/status/1714253699223110139",
+   "conversationId": "1714253699223110139",
+   "text": "Business Therapy Series (BTS).. E01\n\nTarget Market vs Target Audience \n\n- Why you should seperate one from the other. \n\nCase study : Laundry Service Provider\n\nServices: Washing, treatment and ironing  of clothes, plus shoe cleaning.\n\nUSP : Home pickup service and delivery after washing, within 48 hours.\n\nTarget Market : Corporations, working class professionals in Nigeria.\n\nTarget audience : Single/Married, 9-5 working class professionals living in Ikoyi, Chevron, Ikeja GRA, Magodo, Lagos state. (This can be narrowed or broadened, depending on specific objectives, using different filters).\n\nThe difference?\n\nYour Target Market is a broad demographic that has the potential to provide your target audience.\n\nOn the other hand, your Target Audience are a specific group within your target market to whom you primarily cater to. \n\nBenefits of specifying your target audience?\n\n1. Efficient resource allocation\n2. Improved customer service\n3. Specific message delivery\n4. Better product development \n5. Higher ROI\n6. Competitive advantage \n7. Data driven decisions\n8. Brand consistency \n9. Adaptability \n10. Long term growth\n\nYou see, identifying a problem is one thing, but the journey towards providing value starts when you're able to Filter the Noise. \nUnderstanding your primary audience is one of them.",
+   "lang": "en",
+   "createdAt": "2023-10-17T12:15:05.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "623295562",
+    "username": "chris_chisom",
+    "name": "C.C",
+    "url": "https://x.com/chris_chisom",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1856125340357218304/XIwW0VY9_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 370
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1714240791160225792",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/F8o06siXAAATWus.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/F8o06siXAAATWus.jpg",
+     "width": 2492,
+     "height": 1402,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1365100294460166145",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "1365100294460166145",
+   "url": "https://x.com/_melissahartman/status/1365100294460166145",
+   "conversationId": "1365100294460166145",
+   "text": "Residents have spent hours on the phone with customer service or online awaiting availability through a provider portal because of accelerated vaccine demand. However, they should have less trouble in a few weeks.\n\nRead what health officials had to say to the press this week:",
+   "lang": "en",
+   "createdAt": "2021-02-26T00:44:07.000Z",
+   "type": "quote",
+   "author": {
+    "id": "943263364498591744",
+    "username": "_melissahartman",
+    "name": "Melissa Hartman",
+    "url": "https://x.com/_melissahartman",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1182034176842682368/x9R7sylj_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": "1365098820967759873",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:969574049864126464",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 3
+   },
+   "id": "969574049864126464",
+   "url": "https://x.com/Availity/status/969574049864126464",
+   "conversationId": "969574049864126464",
+   "text": "Availity is proud to help @AmedisysInc improve their overall #patientcare by offering real-time claim #authorizations. http://bit.ly/2sJNz39 #homehealth #healthcare https://x.com/Availity/status/969574049864126464/photo/1",
+   "lang": "en",
+   "createdAt": "2018-03-02T14:04:01.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2207653698",
+    "username": "Availity",
+    "name": "Availity",
+    "url": "https://x.com/Availity",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2098434020879286272/kchngZYZ_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "969574048198885376",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/DXSedbZVAAALJr8.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/DXSedbZVAAALJr8.jpg",
+     "width": 1024,
+     "height": 512,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "patientcare",
+     "authorizations",
+     "homehealth",
+     "healthcare"
+    ],
+    "mentions": [
+     {
+      "id": "3905265073",
+      "username": "AmedisysInc",
+      "name": "Amedisys"
+     }
+    ],
+    "urls": [
+     "http://bit.ly/2sJNz39"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2100938118731825454",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2100938118731825454",
+   "url": "https://x.com/_billiambennett/status/2100938118731825454",
+   "conversationId": "2100938118731825454",
+   "text": "The way healthcare providers navigate payer/insurer coverage policy is completely broken. Today, Penelope Health launches with $100m of committed capital to build the policy intelligence layer that US healthcare never had.\n\nEvery medical claim in America lives or dies by payer coverage policies — documents that dictate which codes are covered, which diagnoses qualify, and what documentation is required. There are thousands of these documents which update several times per year and without warning, buried in 50-page PDFs across arcane insurer web portals.\n\nWhereas claims submission got Waystar and Availity, the policy intelligence that sits upstream of every claim has been left to manual portal-trawling, static data vendors, and a lot of Googling.\n\nThe result is billions in preventable denials, appeals that take weeks, and clinical staff spending hours on admin that should take seconds.\n\nThe problem is harder than it looks. Payers update policies on a random Wednesday and change code coverage overnight. There are 5+ clinically significant differences between any two payer policies on average. And the most important information is routinely hidden in footnotes and appendices — invisible to keyword search.\n\nPenelope Health is the real-time medical coverage policy network that changes all of that with 500,000+ extracted codes, 2 million medical necessity criteria, daily policy updates and sub-second API response times. Query by payer, plan, CPT, ICD or HCPCS — and get back structured, contextual intelligence you can actually act on: claim scrubbing, prior auth generation, appeal letters, payer competitive analysis.\n\nSohum and Mattijs are clinical and engineering maestros (and clinical operators!) with a rare combination of lived frustration and technical depth. \n\ncc @seedcamp @tom_wils",
+   "lang": "en",
+   "createdAt": "2026-09-18T13:20:55.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "2736669388",
+    "username": "_billiambennett",
+    "name": "Will Bennett",
+    "url": "https://x.com/_billiambennett",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1988711005690441728/W8SHyU7d_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 2,
+    "retweets": 3,
+    "quotes": 2,
+    "likes": 10,
+    "bookmarks": 1,
+    "views": 3143
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2100937475208237056",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HSgHgKEX0AArYHb.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HSgHgKEX0AArYHb.jpg",
+     "width": 1200,
+     "height": 1500,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15317462",
+      "username": "seedcamp",
+      "name": "seedcamp"
+     },
+     {
+      "id": "225144766",
+      "username": "tom_wils",
+      "name": "Tom Wilson"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2085642801123869068",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "2085642801123869068",
+   "url": "https://x.com/Finsee_main/status/2085642801123869068",
+   "conversationId": "2085642801123869068",
+   "text": "$STLN Q2 2026 earnings: Profitability Reached, but Mix Shift Requires Scrutiny\n\nStarling Oncology delivered a milestone quarter, driving revenue up 34.6% YoY to $161.3M and turning Adjusted EBITDA positive ($229K). The company subsequently raised full-year revenue and gross profit guidance. However, the quality of this revenue is shifting dramatically. High-margin Fee-For-Service (FFS) revenue is shrinking rapidly, forcing the Specialty Pharmacy segment (+58% YoY) and lower-margin Capitated contracts to do all the heavy lifting for the bottom line.\n\nFull article with charts - link in bio\n\n🐂 𝐁𝐮𝐥𝐥 𝐂𝐚𝐬𝐞\n• 𝐏𝐨𝐬𝐢𝐭𝐢𝐯𝐞 𝐄𝐁𝐈𝐓𝐃𝐀 𝐌𝐢𝐥𝐞𝐬𝐭𝐨𝐧𝐞 — Adjusted EBITDA flipped to positive $229K from a $4.1M loss a year ago. H1 Free Cash Flow also rebounded powerfully to $9.5M (from negative $14.6M).\n• 𝐔𝐧𝐥𝐨𝐜𝐤𝐢𝐧𝐠 𝐌𝐚𝐬𝐬𝐢𝐯𝐞 𝐂𝐚𝐩𝐢𝐭𝐚𝐭𝐞𝐝 𝐒𝐜𝐚𝐥𝐞 — Achieved exclusivity in California with a major partner, adding 230,000 capitated lives, and signed first delegated contracts outside Florida in Nevada and Oregon.\n\n🐻 𝐁𝐞𝐚𝐫 𝐂𝐚𝐬𝐞\n• 𝐅𝐞𝐞-𝐅𝐨𝐫-𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐄𝐫𝐨𝐬𝐢𝐨𝐧 — FFS revenue dropped 16.7% YoY to $30.8M. This segment's decline acts as a severe drag on Patient Services margins.\n• 𝐌𝐋𝐑 𝐒𝐩𝐢𝐤𝐢𝐧𝐠 — The Medical Loss Ratio (MLR) on capitated contracts surged to 85.5% from 71.0% YoY, reflecting the margin pressure of onboarding large, immature patient cohorts.\n\n⚖️ 𝐕𝐞𝐫𝐝𝐢𝐜𝐭: ⚪\nCautiously Bullish. The headline turnaround to positive EBITDA and cash flow is excellent, but investors must monitor the collapsing FFS segment and the spiking MLR to ensure the capitated growth model doesn't destroy gross margins long-term.\n\n𝐊𝐞𝐲 𝐓𝐡𝐞𝐦𝐞𝐬\n\n🟢🟢 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐲 𝐏𝐡𝐚𝐫𝐦𝐚𝐜𝐲 𝐢𝐬 𝐭𝐡𝐞 𝐆𝐫𝐨𝐰𝐭𝐡 𝐄𝐧𝐠𝐢𝐧𝐞\nAccelerating. The Specialty Pharmacy segment remains STLN's most critical financial pillar. Q2 revenue surged 58% YoY to $98.6M, driven by record Part D fills. As new capitated lives are brought onto the platform, STLN is successfully capturing their prescription volumes, providing a massive buffer to overall gross profits.\n\n🟢 𝐂𝐚𝐩𝐢𝐭𝐚𝐭𝐞𝐝 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐄𝐱𝐩𝐚𝐧𝐬𝐢𝐨𝐧 [NEW]\nAccelerating. STLN cemented a major exclusivity deal in California, adding ~230,000 capitated lives. Furthermore, they signed their first delegated contracts in Nevada and Oregon. This resulted in Q2 Capitated Revenue jumping 48.5% YoY to $28.0M.\n\n🔴 𝐅𝐞𝐞-𝐅𝐨𝐫-𝐒𝐞𝐫𝐯𝐢𝐜𝐞 (𝐅𝐅𝐒) 𝐂𝐨𝐥𝐥𝐚𝐩𝐬𝐞\nDecelerating. FFS is STLN's clear laggard. Despite management previously labeling FFS declines as 'minor cannibalization', Q2 FFS revenue plunged 16.7% YoY to $30.8M (worsening from a 10% decline in Q1). Because FFS natively carries higher margins, its erosion directly pressures Patient Services gross profitability.\n\n🔴 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐋𝐨𝐬𝐬 𝐑𝐚𝐭𝐢𝐨 (𝐌𝐋𝐑) 𝐒𝐩𝐢𝐤𝐞𝐬 𝐨𝐧 𝐍𝐞𝐰 𝐂𝐨𝐡𝐨𝐫𝐭𝐬\nReversing. STLN's MLR on capitated contracts shot up to 85.5% in Q2, compared to 71.0% a year ago. Direct costs for capitated patients surged 78.7% YoY, significantly outpacing the 48.5% revenue growth. While management expects newly delegated contracts to run higher initially, this exact data point contradicts the narrative of effortless margin expansion.\n\n🟢 𝐒𝐭𝐚𝐫𝐥𝐢𝐧𝐠 𝐍𝐞𝐱𝐮𝐬 𝐏𝐨𝐫𝐭𝐚𝐥 𝐋𝐚𝐮𝐧𝐜𝐡 [NEW]\nScheduled for mid-August, the proprietary 'Starling Nexus' provider portal aims to tighten clinical pathway adherence among network physicians. If successful, this technology will directly pull down the elevated MLR and could facilitate higher Part D prescription capture for the pharmacy segment.\n\n🔴 𝐌𝐚𝐜𝐫𝐨: 𝐓𝐚𝐫𝐢𝐟𝐟 𝐚𝐧𝐝 𝐓𝐫𝐚𝐝𝐞 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\nManagement explicitly warned in their Safe Harbor language that their outlook assumes a stable global market, noting the business would be 'negatively impacted if recent tariff rate increases and exchange rate changes persist'. Given their reliance on specialized oncology drugs, supply chain inflation remains a looming macro risk.\n\n𝐎𝐭𝐡𝐞𝐫 𝐊𝐏𝐈𝐬\n\n𝐇𝟏 𝐅𝐫𝐞𝐞 𝐂𝐚𝐬𝐡 𝐅𝐥𝐨𝐰: $9.5 million\nReversing. FCF improved massively from a cash burn of $(14.6)M in H1 2025. This was driven by a $24.9M YoY swing in operating cash flow, validating management's prior quarter claims that scale is allowing them to negotiate significantly better vendor and drug procurement terms.\n\n𝐂𝐨𝐧𝐬𝐨𝐥𝐢𝐝𝐚𝐭𝐞𝐝 𝐆𝐫𝐨𝐬𝐬 𝐏𝐫𝐨𝐟𝐢𝐭: $27.2 million\nAccelerating. Up 55.2% YoY, vastly outpacing top-line revenue growth of 34.6%. This indicates that despite the MLR spike in patient services, the volume leverage and margin profile of the Specialty Pharmacy segment are more than compensating at the consolidated level.\n\n𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞\n\n𝐅𝐘𝟐𝟔 𝐑𝐞𝐯𝐞𝐧𝐮𝐞: $650 to $670 million\nAccelerating. Raised from the previous range of $630-$650 million. The midpoint ($660M) implies continued high-growth momentum, fueled by the newly announced 230k California lives and Nevada/Oregon expansion.\n\n𝐅𝐘𝟐𝟔 𝐆𝐫𝐨𝐬𝐬 𝐏𝐫𝐨𝐟𝐢𝐭: $105 to $110 million\nAccelerating. Raised from the prior $97-$107 million range. Suggests management confidence that the Pharmacy margins will hold up and that newly added capitated cohorts will mature and improve their MLR in the second half of the year.\n\n𝐅𝐘𝟐𝟔 𝐀𝐝𝐣𝐮𝐬𝐭𝐞𝐝 𝐄𝐁𝐈𝐓𝐃𝐀: $2 to $7 million\nStable. The range was updated from $0-$9 million. While the floor was raised, the ceiling was lowered, keeping the implied midpoint essentially flat at $4.5 million. This reflects near-term onboarding costs and the MLR drag of integrating the massive new California exclusivity deal.\n\n𝐐𝟑 𝟐𝟎𝟐𝟔 𝐀𝐝𝐣𝐮𝐬𝐭𝐞𝐝 𝐄𝐁𝐈𝐓𝐃𝐀: $500K to $1.5M\nAccelerating. A sequential step-up from Q2's $229K, as the company absorbs the ramp-up of Florida delegated lives.\n\n𝐊𝐞𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n𝐅𝐞𝐞-𝐅𝐨𝐫-𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐅𝐥𝐨𝐨𝐫\nWith Fee-For-Service revenue declining nearly 17% year-over-year, where does management see the natural floor for this segment, and how much is true cannibalization versus lost market share?\n\n𝐌𝐋𝐑 𝐌𝐚𝐭𝐮𝐫𝐚𝐭𝐢𝐨𝐧 𝐂𝐮𝐫𝐯𝐞\nThe Medical Loss Ratio jumped significantly to 85.5%. What is the exact expected timeline for the new 230,000 California lives to mature and reach the target mid-80s MLR?\n\n𝐒𝐭𝐚𝐫𝐥𝐢𝐧𝐠 𝐍𝐞𝐱𝐮𝐬 𝐀𝐝𝐨𝐩𝐭𝐢𝐨𝐧\nHow will you measure and report the financial impact of the Starling Nexus portal? Is there a specific target for increased Part D prescription capture among non-employed MSO providers?",
+   "lang": "en",
+   "createdAt": "2026-08-07T08:22:47.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1653727125759721472",
+    "username": "Finsee_main",
+    "name": "Finsee",
+    "url": "https://x.com/Finsee_main",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1653739062870540288/QML1T1zL_normal.png",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 1337
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2085642797500051456",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HPGxEvlXsAAIiZl.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HPGxEvlXsAAIiZl.jpg",
+     "width": 1600,
+     "height": 900,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": [
+     "STLN"
+    ]
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1305933087067516929",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1305933087067516929",
+   "url": "https://x.com/CityOfNOLA/status/1305933087067516929",
+   "conversationId": "1305933087067516929",
+   "text": "The Morial Convention Center Resource Center will re-open at normal hours tomorrow Wed, Sept 16th (10am-2pm) and be available to our Southwest Louisiana residents again Monday-Friday for walk-up provider services and supplies/donations. Donations: @juniorleagueno @2ndharvestgnoa https://x.com/CityOfNOLA/status/1305933087067516929/photo/1",
+   "lang": "en",
+   "createdAt": "2020-09-15T18:14:45.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1029778320328667136",
+    "username": "CityOfNOLA",
+    "name": "The City Of New Orleans",
+    "url": "https://x.com/CityOfNOLA",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1114241900637249536/hfyOoGa0_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1305933081858183174",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Eh-bOASWkAYjQw5.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Eh-bOASWkAYjQw5.jpg",
+     "width": 750,
+     "height": 750,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "158386993",
+      "username": "juniorleagueno",
+      "name": "Junior League NOLA"
+     },
+     {
+      "id": "78377952",
+      "username": "2ndharvestgnoa",
+      "name": "2ndHarvestGNOA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1628779424094076930",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1628779424094076930",
+   "url": "https://x.com/SagilityHealth/status/1628779424094076930",
+   "conversationId": "1628779424094076930",
+   "text": "#Sagility Provider Services has a track record of exceeding expectations for appointment setting, cash recoveries, and denial reversals.\n\nTo get more insights, visit: https://bit.ly/3uZ7bNJ​\n\n#Sagility #WeAreSagility #SOARWithSagility #ProviderServices https://x.com/SagilityHealth/status/1628779424094076930/photo/1",
+   "lang": "en",
+   "createdAt": "2023-02-23T15:30:50.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1440910384681009158",
+    "username": "SagilityHealth",
+    "name": "Sagility",
+    "url": "https://x.com/SagilityHealth",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2090039615025729536/X0w6sAKO_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 101
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1628779406964432899",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/FpqWPbGWIAM-Kt3.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/FpqWPbGWIAM-Kt3.jpg",
+     "width": 5001,
+     "height": 2613,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "Sagility",
+     "Sagility",
+     "WeAreSagility",
+     "SOARWithSagility",
+     "ProviderServices"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://bit.ly/3uZ7bNJ"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1305933055815806979",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1305933055815806979",
+   "url": "https://x.com/mayorcantrell/status/1305933055815806979",
+   "conversationId": "1305933055815806979",
+   "text": "The Morial Convention Center Resource Center will re-open at normal hours tomorrow Wed, Sept 16th (10am-2pm) and be available to our Southwest Louisiana residents again Monday-Friday for walk-up provider services and supplies/donations. Donations: @juniorleagueno @2ndharvestgnoa https://x.com/mayorcantrell/status/1305933055815806979/photo/1",
+   "lang": "en",
+   "createdAt": "2020-09-15T18:14:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "992056970248183808",
+    "username": "mayorcantrell",
+    "name": "Mayor LaToya Cantrell",
+    "url": "https://x.com/mayorcantrell",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/2034096656803639298/pN89zNkq_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1305933049914429440",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/Eh-bMJSXkAA46aO.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/Eh-bMJSXkAA46aO.jpg",
+     "width": 750,
+     "height": 750,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "158386993",
+      "username": "juniorleagueno",
+      "name": "Junior League NOLA"
+     },
+     {
+      "id": "78377952",
+      "username": "2ndharvestgnoa",
+      "name": "2ndHarvestGNOA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1968783602176639137",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1968783602176639137",
+   "url": "https://x.com/ShreeHistory/status/1968783602176639137",
+   "conversationId": "1968783602176639137",
+   "text": "Dr. Houston.\n\nI too was once like you. Using tech to solve the issue of healthcare.\nBut American healthcare is designed for these inefficiencies. \n\nLet me tell you the credentialing issue.\nCAQH is supposed to be one stop shop for all credentialing. It is supposed to keep everything in sync and all the insurance/hospital/systems were supposed to pull it from there.\n\nBut then UnitedHealthcare created its own credentialing and then followed by Aetna and Cigna. \n\nHere is the reason why they do it. See the EOB below!\nThey can now deny the claim \"in -network\" \n\nIn this specific case CAQH , Availity as well as Aetna's own databases were all updated but Aetna's Special Need plan wants an extra field in credentialing where physician has to choose his/her gender preferences! \n\nEarlier they only had two choices M/F.\nNow physicians have to choose from a list of binary, queer, intersex.. and so on around 50! \nSince physician had not checked it, the system marked credentialing incomplete, kept the money from Medicare to itself, created EOB with stern warning to physician not to collect this from patient and then @aetna management got their million/billion-dollar golden parachute. \n\nTechnology cannot solve the venality of Insurance.",
+   "lang": "en",
+   "createdAt": "2025-09-18T21:06:03.000Z",
+   "type": "quote",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 8,
+    "quotes": 1,
+    "likes": 16,
+    "bookmarks": 2,
+    "views": 1760
+   },
+   "replyTo": null,
+   "quotedTweetId": "1968739436038078602",
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "1968781649602297857",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/G1KEerDaQAE07aM.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/G1KEerDaQAE07aM.png",
+     "width": 739,
+     "height": 347,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "16188518",
+      "username": "aetna",
+      "name": "Aetna"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1443009788363804679",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1443009788363804679",
+   "url": "https://x.com/LCSWwithADHD/status/1443009788363804679",
+   "conversationId": "1443009788363804679",
+   "text": "A collective 3.5 hours today on hold, on the phone, on websites, and on Availity trying to get authorization for general, STANDARD outpatient mental health services only to be told none of the numbers, forms, or links get me where I need to go.\n\nNo closer to helping the client.",
+   "lang": "en",
+   "createdAt": "2021-09-29T00:28:38.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "1298086307252461568",
+    "username": "LCSWwithADHD",
+    "name": "LCSW with ADHD",
+    "url": "https://x.com/LCSWwithADHD",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1436170555699384321/kT1u0z8M_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:1291123484483915776",
+   "workflow": "search",
+   "source": {
+    "mode": "Top",
+    "page": 4
+   },
+   "id": "1291123484483915776",
+   "url": "https://x.com/KarmiahPea/status/1291123484483915776",
+   "conversationId": "1290611394706980864",
+   "text": "@Frogglin @SarinaRusso Working in community services, this is the experience of a majority of the job provider services, including the Parents Next program. They also refuse to help you apply for a job if it falls under a certain number of hours a week bc they won’t get their money for it.",
+   "lang": "en",
+   "createdAt": "2020-08-05T21:26:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "33837542",
+    "username": "KarmiahPea",
+    "name": "Jos Marie",
+    "url": "https://x.com/KarmiahPea",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1272106822866833410/zcWDPy-p_normal.jpg",
+    "verified": false,
+    "isBlueVerified": false
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 9,
+    "bookmarks": 0,
+    "views": 0
+   },
+   "replyTo": {
+    "tweetId": "1290611394706980864",
+    "userId": "627423",
+    "username": "Frogglin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "627423",
+      "username": "Frogglin",
+      "name": "Lyn"
+     },
+     {
+      "id": "35673817",
+      "username": "SarinaRusso",
+      "name": "Sarina Russo"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

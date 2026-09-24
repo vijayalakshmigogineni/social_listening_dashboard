@@ -1,0 +1,1608 @@
+{
+ "key": "from_drdanchoi",
+ "query": "from:drdanchoi lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713951626609062",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713951626609062",
+   "url": "https://x.com/drdanchoi/status/2088713951626609062",
+   "conversationId": "2088713923973533937",
+   "text": "Full piece by healthcare attorney Mohamed Nabulsi in The Hill:\nhttps://thehill.com/opinion/healthcare/6026050-insurers-attack-no-surprises-act/\n\nIf you’re a physician, patient, or employer — this one matters. RT to make sure Congress hears it.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 11,
+    "quotes": 1,
+    "likes": 23,
+    "bookmarks": 5,
+    "views": 1286
+   },
+   "replyTo": {
+    "tweetId": "2088713947692355720",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://thehill.com/opinion/healthcare/6026050-insurers-attack-no-surprises-act/"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713947692355720",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713947692355720",
+   "url": "https://x.com/drdanchoi/status/2088713947692355720",
+   "conversationId": "2088713923973533937",
+   "text": "76% of Americans are already worried about insurers weakening this law.\n\nCongress should investigate this coordinated campaign — and pass @RepGregMurphy (R-NC) bipartisan No Surprises Enforcement Act.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:26.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 19,
+    "bookmarks": 1,
+    "views": 823
+   },
+   "replyTo": {
+    "tweetId": "2088713943095370097",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy",
+      "name": "Congressman Greg Murphy, M.D."
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713943095370097",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713943095370097",
+   "url": "https://x.com/drdanchoi/status/2088713943095370097",
+   "conversationId": "2088713923973533937",
+   "text": "Make no mistake about who pays.\n\nArbitration is the only thing forcing insurers to make a fair offer. Gut it, and the cost doesn’t vanish — it comes back to patients as surprise bills, narrower networks, and less access.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 714
+   },
+   "replyTo": {
+    "tweetId": "2088713939400208824",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713939400208824",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713939400208824",
+   "url": "https://x.com/drdanchoi/status/2088713939400208824",
+   "conversationId": "2088713923973533937",
+   "text": "The tell:\n\nUnitedHealth reported $8B+ in quarterly earnings and touted a lower medical cost ratio — while its CEO publicly complained that arbitration awards are “egregious.”\n\nRecord profits. Still fighting to pay less.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:24.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 1,
+    "views": 761
+   },
+   "replyTo": {
+    "tweetId": "2088713936485101782",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713936485101782",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713936485101782",
+   "url": "https://x.com/drdanchoi/status/2088713936485101782",
+   "conversationId": "2088713923973533937",
+   "text": "Losing in court → move to the court of public opinion.\n\n• Near-identical copycat federal lawsuits from the biggest carriers\n• A wave of op-eds blaming doctors\n• A brand-new “coalition” with a six-figure ad buy to kill the bipartisan No Surprises Enforcement Act",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:23.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 15,
+    "bookmarks": 1,
+    "views": 847
+   },
+   "replyTo": {
+    "tweetId": "2088713933670797706",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713933670797706",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713933670797706",
+   "url": "https://x.com/drdanchoi/status/2088713933670797706",
+   "conversationId": "2088713923973533937",
+   "text": "That was the THIRD dismissal of insurer lawsuits against the same billing intermediary — California, Texas, now Georgia.\n\nThey also lost when the administration finalized new arbitration rules in May. They sued over that too.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 13,
+    "bookmarks": 1,
+    "views": 834
+   },
+   "replyTo": {
+    "tweetId": "2088713931401707580",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713931401707580",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713931401707580",
+   "url": "https://x.com/drdanchoi/status/2088713931401707580",
+   "conversationId": "2088713923973533937",
+   "text": "Why do they lose so badly?\n\nIn arbitration, both sides submit a number. Insurers routinely submit zero — or an offer so low it wouldn’t cover cab fare.\n\nA federal judge in Georgia said it’s far more plausible the insurer is lowballing to maximize profit than that thousands of doctors are conspiring.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 17,
+    "bookmarks": 1,
+    "views": 858
+   },
+   "replyTo": {
+    "tweetId": "2088713928687894936",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713928687894936",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713928687894936",
+   "url": "https://x.com/drdanchoi/status/2088713928687894936",
+   "conversationId": "2088713923973533937",
+   "text": "So why the assault?\n\nBecause insurers lose ~88% of arbitration cases reviewing the payment offers they make.\n\nWhen a neutral third party looks at the numbers, the insurers are wrong almost 9 times out of 10.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 20,
+    "bookmarks": 0,
+    "views": 1000
+   },
+   "replyTo": {
+    "tweetId": "2088713926041305251",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713926041305251",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713926041305251",
+   "url": "https://x.com/drdanchoi/status/2088713926041305251",
+   "conversationId": "2088713923973533937",
+   "text": "The law works.\n\nBefore it passed:\n• ~41% of Americans had gotten a surprise out-of-network bill\n• Nearly 1 in 5 ER visits ended in one\n\nCBO’s own conclusion: the No Surprises Act is protecting patients. For some services, inflation-adjusted prices have gone DOWN.",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:21.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 3,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 1,
+    "views": 1205
+   },
+   "replyTo": {
+    "tweetId": "2088713923973533937",
+    "userId": "944821373750403072",
+    "username": "drdanchoi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2088713923973533937",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2088713923973533937",
+   "url": "https://x.com/drdanchoi/status/2088713923973533937",
+   "conversationId": "2088713923973533937",
+   "text": "Insurers are running a coordinated campaign to destroy the No Surprises Act — the law that stopped Americans from getting $100,000 surprise medical bills.\n\nThey’re losing in court. So they’re going after the law itself.\n\nHere’s what’s actually happening 🧵",
+   "lang": "en",
+   "createdAt": "2026-08-15T19:46:20.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 5,
+    "retweets": 28,
+    "quotes": 2,
+    "likes": 112,
+    "bookmarks": 30,
+    "views": 14674
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2061092121046597745",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2061092121046597745",
+   "url": "https://x.com/drdanchoi/status/2061092121046597745",
+   "conversationId": "2060292589899657586",
+   "text": "@alexanderrX_ As a spine surgeon, I can corroborate this. Most of the gym injuries I’ve had to operate on for my patients are a result of deadlifting or squatting",
+   "lang": "en",
+   "createdAt": "2026-05-31T14:27:09.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 163
+   },
+   "replyTo": {
+    "tweetId": "2060292589899657586",
+    "userId": "1657790214524350465",
+    "username": "alexanderrX_"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1657790214524350465",
+      "username": "alexanderrX_",
+      "name": "Alexander"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2056827521749115154",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2056827521749115154",
+   "url": "https://x.com/drdanchoi/status/2056827521749115154",
+   "conversationId": "2056827521749115154",
+   "text": "The only fix for this is to bring back private practice \n\nWhat nobody is talking about in a healthcare fix: how to address a generation of physicians so jaded by healthcare consolidation and loss of autonomy that they are all looking to get out?\n\nReverse the provisions of ACA that have made it impossible for doctors to control their own destiny and prioritize the patient/physician relationship\n\nBring back private practice\nBring back physician owned hospitals\nStop the early retirement of physicians",
+   "lang": "en",
+   "createdAt": "2026-05-19T20:01:09.000Z",
+   "type": "quote",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 37,
+    "retweets": 51,
+    "quotes": 7,
+    "likes": 322,
+    "bookmarks": 14,
+    "views": 23763
+   },
+   "replyTo": null,
+   "quotedTweetId": "2056651733959381388",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2027885607381303343",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2027885607381303343",
+   "url": "https://x.com/drdanchoi/status/2027885607381303343",
+   "conversationId": "2027814536649314769",
+   "text": "@SteveWiesnerSMB Thank you  for sharing 🙏",
+   "lang": "en",
+   "createdAt": "2026-02-28T23:16:19.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 297
+   },
+   "replyTo": {
+    "tweetId": "2027814536649314769",
+    "userId": "1526368417044869120",
+    "username": "SteveWiesnerSMB"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1526368417044869120",
+      "username": "SteveWiesnerSMB",
+      "name": "Steve Wiesner"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2027333804159840434",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2027333804159840434",
+   "url": "https://x.com/drdanchoi/status/2027333804159840434",
+   "conversationId": "2027333804159840434",
+   "text": "5 years ago it was just me and my office manager with a big vision. 2 weeks in our receptionist quit on Super Bowl Sunday and I was greeting patients at the door myself 😂 But here we are - FIVE YEARS of @SpineMedLI! Celebrated last week with the amazing people who made it all possible. Grateful doesn’t cover it. 🙏🎉",
+   "lang": "en",
+   "createdAt": "2026-02-27T10:43:39.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 17,
+    "retweets": 6,
+    "quotes": 2,
+    "likes": 67,
+    "bookmarks": 0,
+    "views": 3693
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2027333788766736385",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCKJVvCWkAENOMx.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCKJVvCWkAENOMx.jpg",
+     "width": 2048,
+     "height": 1536,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2027333788762525696",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCKJVvBWUAAe52h.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCKJVvBWUAAe52h.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2027333788766724096",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCKJVvCWYAAyo5Y.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCKJVvCWYAAyo5Y.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2027333788775206912",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HCKJVvEX0AAQtYB.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HCKJVvEX0AAQtYB.jpg",
+     "width": 1536,
+     "height": 2048,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1353602454781353986",
+      "username": "SpineMedLI",
+      "name": "Spine Med & Surgery of Long Island"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2019593078345204011",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2019593078345204011",
+   "url": "https://x.com/drdanchoi/status/2019593078345204011",
+   "conversationId": "2019593078345204011",
+   "text": "Doctors Lounge - Journalist Ben Ryan on Gender Affirmation Medical Malpractice https://x.com/i/broadcasts/1BRJjgwqBbVxw",
+   "lang": "en",
+   "createdAt": "2026-02-06T02:04:46.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 0,
+    "views": 348
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/broadcasts/1BRJjgwqBbVxw"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2018304616899674524",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2018304616899674524",
+   "url": "https://x.com/drdanchoi/status/2018304616899674524",
+   "conversationId": "2018304616899674524",
+   "text": "Insurers are gaming the No Surprises Act ‼️ \n\nBy aggressively challenging IDR eligibility, payers delay disputes and clog the system.\n\nIn a letter to HHS, @SenBillCassidy and @SenatorHassan call for oversight to stop abuse and restore a timely IDR process.\n\n📄  https://www.help.senate.gov/imo/media/doc/letter_to_secretary_kennedy_on_nsa_implementation_01162026pdf.pdf\n\n#NoSurprisesAct #IDR #HealthcarePolicy\n@SecKennedy @HHSGov",
+   "lang": "en",
+   "createdAt": "2026-02-02T12:44:53.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 7,
+    "retweets": 8,
+    "quotes": 2,
+    "likes": 26,
+    "bookmarks": 5,
+    "views": 4363
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2018304600835530752",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAJ1V01WoAAQWXC.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAJ1V01WoAAQWXC.jpg",
+     "width": 1251,
+     "height": 1624,
+     "altText": null,
+     "durationSeconds": null
+    },
+    {
+     "id": "2018304600785252353",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HAJ1V0pXcAEjh00.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HAJ1V0pXcAEjh00.jpg",
+     "width": 1251,
+     "height": 1612,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [
+     "NoSurprisesAct",
+     "IDR",
+     "HealthcarePolicy"
+    ],
+    "mentions": [
+     {
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy",
+      "name": "U.S. Senator Bill Cassidy, M.D."
+     },
+     {
+      "id": "946549322",
+      "username": "SenatorHassan",
+      "name": "Sen. Maggie Hassan"
+     },
+     {
+      "id": "1886875846473879552",
+      "username": "SecKennedy",
+      "name": "Secretary Kennedy"
+     },
+     {
+      "id": "44783853",
+      "username": "HHSGov",
+      "name": "HHS"
+     }
+    ],
+    "urls": [
+     "https://www.help.senate.gov/imo/media/doc/letter_to_secretary_kennedy_on_nsa_implementation_01162026pdf.pdf"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2017056179667816707",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2017056179667816707",
+   "url": "https://x.com/drdanchoi/status/2017056179667816707",
+   "conversationId": "2017056179667816707",
+   "text": "Welcome to our live show! https://x.com/i/broadcasts/1RDGlAlYyLoJL",
+   "lang": "en",
+   "createdAt": "2026-01-30T02:04:02.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 1,
+    "likes": 2,
+    "bookmarks": 1,
+    "views": 379
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/broadcasts/1RDGlAlYyLoJL"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014526046339575819",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2014526046339575819",
+   "url": "https://x.com/drdanchoi/status/2014526046339575819",
+   "conversationId": "2014526046339575819",
+   "text": "Join @DRsLoungePod tonight LIVE with @AlexBerenson discuss rampant fraud in US healthcare!",
+   "lang": "en",
+   "createdAt": "2026-01-23T02:30:12.000Z",
+   "type": "quote",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 642
+   },
+   "replyTo": null,
+   "quotedTweetId": "2014519018129129533",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1957956452447879168",
+      "username": "DRsLoungePod",
+      "name": "The Doctor’s Lounge Podcast"
+     },
+     {
+      "id": "87679233",
+      "username": "AlexBerenson",
+      "name": "Alex Berenson"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2014519017193849104",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2014519017193849104",
+   "url": "https://x.com/drdanchoi/status/2014519017193849104",
+   "conversationId": "2014519017193849104",
+   "text": "Doctors Lounge - Alex Berenson and Healthcare Fraud https://x.com/i/broadcasts/1jMKgRLglRmxL",
+   "lang": "en",
+   "createdAt": "2026-01-23T02:02:16.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 2,
+    "views": 374
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/broadcasts/1jMKgRLglRmxL"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2013419575585468602",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2013419575585468602",
+   "url": "https://x.com/drdanchoi/status/2013419575585468602",
+   "conversationId": "2013040873311785358",
+   "text": "@haridigresses Wow. Government overreach at its worst",
+   "lang": "en",
+   "createdAt": "2026-01-20T01:13:29.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 0,
+    "views": 566
+   },
+   "replyTo": {
+    "tweetId": "2013040873311785358",
+    "userId": "1104434828974276608",
+    "username": "haridigresses"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1104434828974276608",
+      "username": "haridigresses",
+      "name": "hari raghavan"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2011982702216691948",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2011982702216691948",
+   "url": "https://x.com/drdanchoi/status/2011982702216691948",
+   "conversationId": "2011982702216691948",
+   "text": "Doctors Lounge Live https://x.com/i/broadcasts/1djxXWqPyXBJZ",
+   "lang": "en",
+   "createdAt": "2026-01-16T02:03:51.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 3,
+    "views": 466
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/broadcasts/1djxXWqPyXBJZ"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2011241454312575440",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2011241454312575440",
+   "url": "https://x.com/drdanchoi/status/2011241454312575440",
+   "conversationId": "2011241454312575440",
+   "text": "Doctors Lounge Side Table - Dr. Josh Umbehr MD - Direct Primary Care &amp; Direct Primary Insurance https://x.com/i/broadcasts/1ynKOMBjrXEJR",
+   "lang": "en",
+   "createdAt": "2026-01-14T00:58:24.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 1,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 1,
+    "views": 409
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/broadcasts/1ynKOMBjrXEJR"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2010042694748516785",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2010042694748516785",
+   "url": "https://x.com/drdanchoi/status/2010042694748516785",
+   "conversationId": "2010042694748516785",
+   "text": "Very well said",
+   "lang": "en",
+   "createdAt": "2026-01-10T17:34:57.000Z",
+   "type": "quote",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 5,
+    "bookmarks": 0,
+    "views": 541
+   },
+   "replyTo": null,
+   "quotedTweetId": "2009754758551044386",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2010042582496342492",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2010042582496342492",
+   "url": "https://x.com/drdanchoi/status/2010042582496342492",
+   "conversationId": "2009754758551044386",
+   "text": "@ClementLeeMD Truth",
+   "lang": "en",
+   "createdAt": "2026-01-10T17:34:31.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 2877
+   },
+   "replyTo": {
+    "tweetId": "2009754758551044386",
+    "userId": "938159420646838272",
+    "username": "ClementLeeMD"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "938159420646838272",
+      "username": "ClementLeeMD",
+      "name": "Clement Lee, MD, MSc"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2009446699438420297",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2009446699438420297",
+   "url": "https://x.com/drdanchoi/status/2009446699438420297",
+   "conversationId": "2009446699438420297",
+   "text": "Welcome to our live show! https://x.com/i/broadcasts/1DXxyWAprQgGM",
+   "lang": "en",
+   "createdAt": "2026-01-09T02:06:41.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 3,
+    "quotes": 0,
+    "likes": 8,
+    "bookmarks": 1,
+    "views": 501
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [
+     "https://x.com/i/broadcasts/1DXxyWAprQgGM"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2008159224069538187",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2008159224069538187",
+   "url": "https://x.com/drdanchoi/status/2008159224069538187",
+   "conversationId": "2008159224069538187",
+   "text": "We’re hiring a Chief Operating Officer (COO) 🚀\n\nSpine Medicine and Surgery of Long Island is a fully independent, physician-led spine practice that scaled to 5 physicians in under 5 years and is now expanding rapidly across the tri-state area.\n\nLooking for a healthcare operator who thrives in a fast-paced, startup-style environment and is tech-forward—with experience using AI, automation, and data to improve operations and patient experience.\n\nFull-time | On-site | Ronkonkoma, NY\n\nhttps://spinemedicineandsurgeryoflongisland.applytojob.com/apply/GaK6eFp2jb/Chief-Operating-Officer-COO-Spine-Surgery-Practice\n\n#HealthcareLeadership #COO #IndependentMedicine #AIinHealthcare #HealthcareJobs",
+   "lang": "en",
+   "createdAt": "2026-01-05T12:50:43.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 3,
+    "likes": 22,
+    "bookmarks": 1,
+    "views": 1036
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [
+     "HealthcareLeadership",
+     "COO",
+     "IndependentMedicine",
+     "AIinHealthcare",
+     "HealthcareJobs"
+    ],
+    "mentions": [],
+    "urls": [
+     "https://spinemedicineandsurgeryoflongisland.applytojob.com/apply/GaK6eFp2jb/Chief-Operating-Officer-COO-Spine-Surgery-Practice"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2008002446195593233",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2008002446195593233",
+   "url": "https://x.com/drdanchoi/status/2008002446195593233",
+   "conversationId": "2007994395812049038",
+   "text": "@BKRBusinessMin Thank you sir!!!! 🙏",
+   "lang": "en",
+   "createdAt": "2026-01-05T02:27:44.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 165
+   },
+   "replyTo": {
+    "tweetId": "2007994395812049038",
+    "userId": "1613586957329731623",
+    "username": "BKRBusinessMin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1613586957329731623",
+      "username": "BKRBusinessMin",
+      "name": "Scott Becker"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2007976746579320880",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2007976746579320880",
+   "url": "https://x.com/drdanchoi/status/2007976746579320880",
+   "conversationId": "2007976746579320880",
+   "text": "2025 in the books: “Carpe diem. Seize the day, boys. Make your lives extraordinary!”\n\nAdded two phenomenal docs to @spinemedli, new Huntington office, Ronkonkoma expansion, Elon Musk tweet (!), Fox News @WillCainShow invite, launched @DRsLoungePod, big advocacy pushes, kept leveling up as a practice operator and CEO.\n\nMost importantly: helped a ton of patients with cutting-edge spine surgery.\n\nHuge thanks to our leadership & staff—you make it all happen 🙏\n\n2026’s gonna be even bigger. 🚀",
+   "lang": "en",
+   "createdAt": "2026-01-05T00:45:37.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 8,
+    "retweets": 4,
+    "quotes": 2,
+    "likes": 41,
+    "bookmarks": 2,
+    "views": 2847
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2007976427056996352",
+     "type": "video",
+     "url": "https://video.twimg.com/amplify_video/2007976427056996352/vid/avc1/1080x1920/95_oPm1zWDUs2Lb8.mp4?tag=21",
+     "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2007976427056996352/img/FDedYvQR3_mP_Xpz.jpg",
+     "width": 1080,
+     "height": 1920,
+     "altText": null,
+     "durationSeconds": 53
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1353602454781353986",
+      "username": "spinemedli",
+      "name": "Spine Med & Surgery of Long Island"
+     },
+     {
+      "id": "1723024784781426688",
+      "username": "WillCainShow",
+      "name": "The Will Cain Show"
+     },
+     {
+      "id": "1957956452447879168",
+      "username": "DRsLoungePod",
+      "name": "The Doctor’s Lounge Podcast"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2007814488892862638",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2007814488892862638",
+   "url": "https://x.com/drdanchoi/status/2007814488892862638",
+   "conversationId": "2007740629028335662",
+   "text": "This simple principle can be applied to US healthcare\n\nUS chose to move towards socialized healthcare with the ACA and look at the inefficient, expensive dumpster fire healthcare system we have today \n\nBring back private practice\nBring back physician ownership hospitals \nBring back competition, free market and capitalist principles in healthcare",
+   "lang": "en",
+   "createdAt": "2026-01-04T14:00:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 39,
+    "retweets": 88,
+    "quotes": 4,
+    "likes": 474,
+    "bookmarks": 18,
+    "views": 24733
+   },
+   "replyTo": {
+    "tweetId": "2007740629028335662",
+    "userId": "898142955038543873",
+    "username": "MichaelAArouet"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2007814429392466112",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2007814429392466112",
+   "url": "https://x.com/drdanchoi/status/2007814429392466112",
+   "conversationId": "2007814429392466112",
+   "text": "This simple principle can be applied to US healthcare\n\nUS chose to move towards socialized healthcare with the ACA and look at the inefficient, expensive dumpster fire healthcare system we have today \n\nBring back private practice\nBring back physician ownership hospitals \nBring back competition, free market and capitalist principles in healthcare",
+   "lang": "en",
+   "createdAt": "2026-01-04T14:00:38.000Z",
+   "type": "quote",
+   "author": {
+    "id": "944821373750403072",
+    "username": "drdanchoi",
+    "name": "Dan Choi, MD, FAAOS",
+    "url": "https://x.com/drdanchoi",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1863224613804589057/Z5R3NR0C_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 57,
+    "retweets": 108,
+    "quotes": 11,
+    "likes": 419,
+    "bookmarks": 21,
+    "views": 13037
+   },
+   "replyTo": null,
+   "quotedTweetId": "2007740629028335662",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}

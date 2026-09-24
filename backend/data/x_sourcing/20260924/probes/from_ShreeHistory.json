@@ -1,0 +1,1625 @@
+{
+ "key": "from_ShreeHistory",
+ "query": "from:ShreeHistory lang:en -filter:retweets",
+ "mode": "Latest",
+ "items": [
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102994452201541869",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102994452201541869",
+   "url": "https://x.com/ShreeHistory/status/2102994452201541869",
+   "conversationId": "2102799358530060704",
+   "text": "@Pragmatic_Prsn Yes. True for all.\n\nBut Konkani preserves Sanskrit roots most faithfully in this example.",
+   "lang": "en",
+   "createdAt": "2026-09-24T05:32:03.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 75
+   },
+   "replyTo": {
+    "tweetId": "2102992491041702389",
+    "userId": "2851857973",
+    "username": "Pragmatic_Prsn"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2851857973",
+      "username": "Pragmatic_Prsn",
+      "name": "Pragmatic"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102989147015434355",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102989147015434355",
+   "url": "https://x.com/ShreeHistory/status/2102989147015434355",
+   "conversationId": "2102799358530060704",
+   "text": "@LenzSanatani Thanks for being nice to me.",
+   "lang": "en",
+   "createdAt": "2026-09-24T05:10:58.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 56
+   },
+   "replyTo": {
+    "tweetId": "2102979411893256449",
+    "userId": "2445032341",
+    "username": "LenzSanatani"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "2445032341",
+      "username": "LenzSanatani",
+      "name": "HinduLenz"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102955587613139068",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102955587613139068",
+   "url": "https://x.com/ShreeHistory/status/2102955587613139068",
+   "conversationId": "2102861292365386210",
+   "text": "I know. But problem is  patients want blood draw done in office because they see they get big bills at hospital owned practices.\n\nInsurance pays $2.50 for blood draw!\n\nWe tried the future orders and send patients to LabCorp. Patients hate going anywhere else and insurance does not pay primary care.\n\nSo doctors in primary care are no longer able to provide longitudinal care and this generates extra referrals.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:57:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 35
+   },
+   "replyTo": {
+    "tweetId": "2102917972180545739",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102953996302573939",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102953996302573939",
+   "url": "https://x.com/ShreeHistory/status/2102953996302573939",
+   "conversationId": "2102823335239594428",
+   "text": "@broomland4 Who pays for them? Everything has to be done within the meagre amount Insurance CEOS can spare for medical claims in the primary care.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:51:18.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 17
+   },
+   "replyTo": {
+    "tweetId": "2102919779770306890",
+    "userId": "1657506681083895815",
+    "username": "broomland4"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1657506681083895815",
+      "username": "broomland4",
+      "name": "VW"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102953638436180197",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102953638436180197",
+   "url": "https://x.com/ShreeHistory/status/2102953638436180197",
+   "conversationId": "2102923064438886578",
+   "text": "@SridharT True for all languages. But Konkani  preserves Sanskrit roots.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:49:53.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 48
+   },
+   "replyTo": {
+    "tweetId": "2102923064438886578",
+    "userId": "26026136",
+    "username": "SridharT"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "26026136",
+      "username": "SridharT",
+      "name": "Sridhar Tiruchendurai"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102953217432887752",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102953217432887752",
+   "url": "https://x.com/ShreeHistory/status/2102953217432887752",
+   "conversationId": "2102799358530060704",
+   "text": "@krishkallapur @hamsanandi ಹಿಂಡಿ is because oil has been squeezed (ಹಿಂಡಿದ) from it .",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:48:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 34
+   },
+   "replyTo": {
+    "tweetId": "2102947357264671176",
+    "userId": "3734925798",
+    "username": "krishkallapur"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3734925798",
+      "username": "krishkallapur",
+      "name": "KuntalaSanjaata"
+     },
+     {
+      "id": "18636235",
+      "username": "hamsanandi",
+      "name": "ಹಂಸಾನಂದಿ Hamsanandi हंसानन्दि"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102952514622816535",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102952514622816535",
+   "url": "https://x.com/ShreeHistory/status/2102952514622816535",
+   "conversationId": "2102799358530060704",
+   "text": "@kts_o7 Yes. Similar dérivation but from a different root word.\n\n My observation was that Konkani has preserved the words from Sanskrit.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:45:25.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 0,
+    "views": 137
+   },
+   "replyTo": {
+    "tweetId": "2102950488862036091",
+    "userId": "1715736033420279808",
+    "username": "kts_o7"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1715736033420279808",
+      "username": "kts_o7",
+      "name": "Krishnatejaswi S"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102950787383169351",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102950787383169351",
+   "url": "https://x.com/ShreeHistory/status/2102950787383169351",
+   "conversationId": "2102950787383169351",
+   "text": "People do not remember if you help them or not. But, they remember how they felt when they were with you.\n\nIt does not matter how hard you try to provide best care, reasonable prices and highest access. They still blame you when you say insurance  did not pay the claim and their prescriptions are denied.\n\nEven though you had no role in the denial they still blame you because you made them feel bad.\n\nSo please keep insurance outside the office.  Preferably only on the fax machine.\n\nBloody insurance.",
+   "lang": "en",
+   "createdAt": "2026-09-24T02:38:33.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 12,
+    "bookmarks": 0,
+    "views": 569
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102915570706616425",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102915570706616425",
+   "url": "https://x.com/ShreeHistory/status/2102915570706616425",
+   "conversationId": "2102878856940003617",
+   "text": "@btbytes Make sure you offered it too! I bring this from my people to you 😜.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:18:36.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 66
+   },
+   "replyTo": {
+    "tweetId": "2102878856940003617",
+    "userId": "3637771",
+    "username": "btbytes"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "3637771",
+      "username": "btbytes",
+      "name": "Pradeep Gowda"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102914957201613171",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102914957201613171",
+   "url": "https://x.com/ShreeHistory/status/2102914957201613171",
+   "conversationId": "2102861292365386210",
+   "text": "But most of the time patients would say, I saw you one month ago. Today's visit is because you said repeat this in a month then.  So today's visit continuation of previous visit and I should not get a bill.\n\nThis is what necessitates quick referral.  \n\nIf Insurance had fair to the orthogonal care done by PCP they would not be on the treadmill.",
+   "lang": "en",
+   "createdAt": "2026-09-24T00:16:10.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 151
+   },
+   "replyTo": {
+    "tweetId": "2102861292365386210",
+    "userId": "1581144323978133504",
+    "username": "PaleoOnc"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102856756804415722",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102856756804415722",
+   "url": "https://x.com/ShreeHistory/status/2102856756804415722",
+   "conversationId": "2102856756804415722",
+   "text": "Colorado will see a 10 to 15 percent increase in health insurance premiums next year! https://x.com/ShreeHistory/status/2102856756804415722/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-23T20:24:54.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 462
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102856675887820800",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS7ZAVvaMAAJtub.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS7ZAVvaMAAJtub.png",
+     "width": 676,
+     "height": 498,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102824491365826920",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102824491365826920",
+   "url": "https://x.com/ShreeHistory/status/2102824491365826920",
+   "conversationId": "2102514911440208164",
+   "text": "@yajnadevam After a strenuous yoga workout, the shavasana at the end can calm the muscles only by targeted thinking about them getting relaxed!",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:16:41.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 72
+   },
+   "replyTo": {
+    "tweetId": "2102514911440208164",
+    "userId": "1438954682328789000",
+    "username": "yajnadevam"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1438954682328789000",
+      "username": "yajnadevam",
+      "name": "yajnadevam"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102824131322585185",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102824131322585185",
+   "url": "https://x.com/ShreeHistory/status/2102824131322585185",
+   "conversationId": "2102760926017704147",
+   "text": "When the policies are canceled, the hospitals do not get impacted; they are minting money hand over fist. At ten times what it costs.\nWhereas individual physicians are never reimbursed for their time and service and materials. \n\nAmerican healthcare propped by middle men and fake businesses, which want more middlemen",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:15:16.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2102760926017704147",
+    "userId": "1613586957329731623",
+    "username": "BKRBusinessMin"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102823335239594428",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102823335239594428",
+   "url": "https://x.com/ShreeHistory/status/2102823335239594428",
+   "conversationId": "2102823335239594428",
+   "text": "PA denies Zepbound, saying Wegovy is what must be used, and Wegovy prescription too is denied by insurance, saying Zepbound should be tried first.\n\nMillion-dollar CEOs and bloody insurance companies.",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:12:06.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 4,
+    "bookmarks": 1,
+    "views": 476
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102820445225677203",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102820445225677203",
+   "url": "https://x.com/ShreeHistory/status/2102820445225677203",
+   "conversationId": "2102751520697757817",
+   "text": "@rahuldeodhar @ShefVaidya @SwarajyaMag @IndicaOrg Yes. This is my understanding too. American right is not appropriate for Bharat.",
+   "lang": "en",
+   "createdAt": "2026-09-23T18:00:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 13
+   },
+   "replyTo": {
+    "tweetId": "2102753615127642329",
+    "userId": "15015810",
+    "username": "rahuldeodhar"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "15015810",
+      "username": "rahuldeodhar",
+      "name": "Rahul Deodhar"
+     },
+     {
+      "id": "1934388686",
+      "username": "ShefVaidya",
+      "name": "Shefali Vaidya. 🇮🇳"
+     },
+     {
+      "id": "2451476942",
+      "username": "SwarajyaMag",
+      "name": "Swarajya"
+     },
+     {
+      "id": "3260790854",
+      "username": "IndicaOrg",
+      "name": "INDICA"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102819786409623994",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102819786409623994",
+   "url": "https://x.com/ShreeHistory/status/2102819786409623994",
+   "conversationId": "2102695007404822995",
+   "text": "Young brains need civilizational grounding, and Kannada textbooks provided that. In the above example, I had learnt that the real names of Everest are Sagarmatha and Chomolungma instead of anchoring myself in the farce that \"Everest discovered Everest\".\n\n30 years later, as I train a newer version of AI on the corpus of medical literature, I wonder if the same principles worked in making us utter nonsense like parrots because the entire education was hijacked by colonial vestiges which produce dumbo like Ruchika Sharma who has a doctorate and does not even know anything! \n\nAt least vernacular languages did not have so much fakeness because the lived history was strong.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:58:00.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 22
+   },
+   "replyTo": {
+    "tweetId": "2102817739580821714",
+    "userId": "1092051241516048385",
+    "username": "SaamaanyaJ"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102817974382170185",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102817974382170185",
+   "url": "https://x.com/ShreeHistory/status/2102817974382170185",
+   "conversationId": "2102751520697757817",
+   "text": "I think it is important to understand that template of right/conservative movement in the USA can not be applied to India.\n\nThe Federalist Society can happen only when there is critical reasoning.   \n\nIn India, critical reasoning has been totally removed through a century or more of fake narratives being fed en masse, creating what I call \"anchoring bias\".\n\nHumanities in India are really not human insights. They are most toxic narratives which are taken as gospel truth and most of the fakery of colonialism is brushed aside with fictitious claims on caste and other things brought by the colonizers. \n\nThis was the only study Indians were allowed after the Hindu school system was decimated, plunging India into material as well as spiritual poverty. \n\nSo asking why India has not produced a \"right leaning\" institution is wrong question. \n\nBharat had pramana based teaching where both left, right, center could figure out correct world view. This is what has been removed with toxic @incindia and its Nehru invader culture. \n\nI wish I had more time today to pen a detailed response.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:50:48.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 3,
+    "bookmarks": 2,
+    "views": 167
+   },
+   "replyTo": {
+    "tweetId": "2102751520697757817",
+    "userId": "1934388686",
+    "username": "ShefVaidya"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1153045459",
+      "username": "incindia",
+      "name": "Congress"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102815854673137910",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102815854673137910",
+   "url": "https://x.com/ShreeHistory/status/2102815854673137910",
+   "conversationId": "2102695007404822995",
+   "text": "Yes. I remember other Kannada textbooks. Absolutely top class. One on how Shantala inspired the Belur temple - Kallarali Hoovagi. \nTenzing's description of the ascent to Everest, I still remember.  His saying \"Tujiche Chomo Lungma ( may be incorrect because I am transliterating from Kannada) was a goose bump moment. \nIndians must read Indian literature and not \"colonial narratives\"",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:42:22.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 95
+   },
+   "replyTo": {
+    "tweetId": "2102695007404822995",
+    "userId": "1092051241516048385",
+    "username": "SaamaanyaJ"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102814016049693127",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102814016049693127",
+   "url": "https://x.com/ShreeHistory/status/2102814016049693127",
+   "conversationId": "2102512024488116458",
+   "text": "@hamsanandi It is too dangerous to leave the economists free. So they are clubbed with the humanities.",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:35:04.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 26
+   },
+   "replyTo": {
+    "tweetId": "2102512024488116458",
+    "userId": "18636235",
+    "username": "hamsanandi"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "18636235",
+      "username": "hamsanandi",
+      "name": "ಹಂಸಾನಂದಿ Hamsanandi हंसानन्दि"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102810126831030542",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 1
+   },
+   "id": "2102810126831030542",
+   "url": "https://x.com/ShreeHistory/status/2102810126831030542",
+   "conversationId": "2102765773819375754",
+   "text": "Alta's use is mentioned in Natyashastra. It is still used. \nThe hands and feet are colored with alta to highlight the intricate hand gestures during various mudras\n\nHenna is sometimes used instead of Alta by modern Bharatnatyam dancers who are also working in corporate jobs because henna is not very staining. You can still shake hands with clients, whereas Alta stains very dark and unless you keep applying a newer coat.\n\nHenna is actually described in Sushrutha Samhita  (medical text dating back to BCE)",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:19:37.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 36
+   },
+   "replyTo": {
+    "tweetId": "2102794332290068635",
+    "userId": "934003727559569409",
+    "username": "IndicHistory"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102806748310716784",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102806748310716784",
+   "url": "https://x.com/ShreeHistory/status/2102806748310716784",
+   "conversationId": "2102765773819375754",
+   "text": "@RahulDewanV2 @MumukshuSavitri Scientifically, the green region is where this plant originated.\n\nAlso my ancestors, Appu Bhat et al described this Hortus Malabaricus too as a \"native plant\" of Bharat. https://x.com/ShreeHistory/status/2102806748310716784/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-23T17:06:11.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 2,
+    "quotes": 0,
+    "likes": 10,
+    "bookmarks": 0,
+    "views": 139
+   },
+   "replyTo": {
+    "tweetId": "2102765773819375754",
+    "userId": "884831262384340992",
+    "username": "RahulDewanV2"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102806256096526336",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS6rJhYaQAA_XeE.jpg",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS6rJhYaQAA_XeE.jpg",
+     "width": 1428,
+     "height": 928,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "884831262384340992",
+      "username": "RahulDewanV2",
+      "name": "Rahul Dewan"
+     },
+     {
+      "id": "1262798778131607553",
+      "username": "MumukshuSavitri",
+      "name": "Savitri Mumukshu - सावित्री मुमुक्षु"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102799358530060704",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102799358530060704",
+   "url": "https://x.com/ShreeHistory/status/2102799358530060704",
+   "conversationId": "2102799358530060704",
+   "text": "Rice as Linguistic Memory\nKonkani preserves distinct names for rice at nearly every stage of processing. Together, these words form a living archive of ancient Indic agriculture and culinary practice.\n\nBhāt: paddy\nUnhusked rice is भात, bhāt. It is probably related to Sanskrit भक्त, bhakta, from भज्, bhaj, meaning “to divide, distribute, or allot.” Bhakta came to mean an allotted portion, food, a meal, or rice. The word may recall agricultural communities in which the paddy harvest was divided among cultivators, workers, landholders, temples, and families. \n\nTandulu: raw rice\nAfter its husk is removed, the grain becomes तांदूळ, tandulu. This directly continues Sanskrit तण्डुल, taṇḍula, meaning threshed, winnowed, and uncooked rice grain.\n\nSheeth: cooked rice\nCooked rice is शीत, sheeth. It probably descends through Prakrit sittha from Sanskrit सिक्थ, siktha, meaning boiled rice or an individual lump or grain of cooked rice.\n\nKani: broken rice\nBroken grains are called कणी, kani. Sanskrit कण, kaṇa means a small grain, particle, or fragment and was also used for broken rice.\n\nLayee: popped paddy\nPopped paddy retaining part of its hull is ल्हाय or लायी, layee. It corresponds to Sanskrit लाज, lāja, meaning parched or popped grain traditionally made by heating unhusked paddy.\n\nPej: rice porridge\nRice porridge is पेज, pej, sometimes pronounced pech. It comes through Prakrit pejjā from Sanskrit पेया, peyā, literally meaning “drinkable.”\n\nTussu: rice husk\nThe discarded rice husk is तुस्सु, tussु. It closely corresponds to Sanskrit तुष, tuṣa, meaning the husk or chaff of grain.\n\nFrom bhāt to tandulu, sheeth, kani, layee, pej, and tussu, the entire life of rice survives in everyday Konkani speech.",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:36:49.000Z",
+   "type": "tweet",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 16,
+    "retweets": 39,
+    "quotes": 8,
+    "likes": 149,
+    "bookmarks": 36,
+    "views": 5774
+   },
+   "replyTo": null,
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102797915932754078",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102797915932754078",
+   "url": "https://x.com/ShreeHistory/status/2102797915932754078",
+   "conversationId": "2102578006636265927",
+   "text": "@MonaADhar Konkani retains most Sanskrit/PIE words for the stages of rice.",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:31:05.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 45
+   },
+   "replyTo": {
+    "tweetId": "2102578006636265927",
+    "userId": "1489119550969098240",
+    "username": "MonaADhar"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1489119550969098240",
+      "username": "MonaADhar",
+      "name": "decodingmyroots.com - नित्यकर्म सर्वोपरि"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102791713509273999",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102791713509273999",
+   "url": "https://x.com/ShreeHistory/status/2102791713509273999",
+   "conversationId": "2102700900972388783",
+   "text": "@MonaADhar You have spent more than many lifetimes of any academician while you toured hundreds of temples and built your knowledge around connecting the dots. You are more valuable than any aca \"dummy\" of JNU.",
+   "lang": "en",
+   "createdAt": "2026-09-23T16:06:27.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 2,
+    "bookmarks": 0,
+    "views": 47
+   },
+   "replyTo": {
+    "tweetId": "2102700900972388783",
+    "userId": "1489119550969098240",
+    "username": "MonaADhar"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1489119550969098240",
+      "username": "MonaADhar",
+      "name": "decodingmyroots.com - नित्यकर्म सर्वोपरि"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102784898557964623",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102784898557964623",
+   "url": "https://x.com/ShreeHistory/status/2102784898557964623",
+   "conversationId": "2102784898557964623",
+   "text": "Saraswat stories are backed by genetic evidence!",
+   "lang": "en",
+   "createdAt": "2026-09-23T15:39:22.000Z",
+   "type": "quote",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 1,
+    "retweets": 4,
+    "quotes": 0,
+    "likes": 26,
+    "bookmarks": 5,
+    "views": 1059
+   },
+   "replyTo": null,
+   "quotedTweetId": "2028669315558543672",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102784549440880803",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102784549440880803",
+   "url": "https://x.com/ShreeHistory/status/2102784549440880803",
+   "conversationId": "2102663812830937559",
+   "text": "@theashramCH Our stories line up nicely with the genetic evidence.\nhttps://x.com/ShreeHistory/status/2028669315558543672?s=20",
+   "lang": "en",
+   "createdAt": "2026-09-23T15:37:59.000Z",
+   "type": "quote",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 83
+   },
+   "replyTo": {
+    "tweetId": "2102663812830937559",
+    "userId": "391545406",
+    "username": "theashramCH"
+   },
+   "quotedTweetId": "2028669315558543672",
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "391545406",
+      "username": "theashramCH",
+      "name": "The Ashram"
+     }
+    ],
+    "urls": [
+     "https://x.com/ShreeHistory/status/2028669315558543672?s=20"
+    ],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102587241260519523",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102587241260519523",
+   "url": "https://x.com/ShreeHistory/status/2102587241260519523",
+   "conversationId": "2102187056365548006",
+   "text": "@chrissyfarr Like I have mentioned here typically October is when the plans go bankrupt.\n\nThis allows them to collect premiums and then stuff the primary care which keeps seeing patients.\n\nMLR means CEOs of the plans get paid first and nothing is paid to the care giver.",
+   "lang": "en",
+   "createdAt": "2026-09-23T02:33:57.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 42
+   },
+   "replyTo": {
+    "tweetId": "2102187056365548006",
+    "userId": "211583400",
+    "username": "chrissyfarr"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "211583400",
+      "username": "chrissyfarr",
+      "name": "Christina Farr"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102428393644114091",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102428393644114091",
+   "url": "https://x.com/ShreeHistory/status/2102428393644114091",
+   "conversationId": "2101665877955379676",
+   "text": "@GeBaiDC Wow. I found you again. Was wondering what happened to you!\n\nHow do we discover prices when we have fifty thousand insurance plans and millions of providers? https://x.com/ShreeHistory/status/2102428393644114091/photo/1",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:02:44.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 1,
+    "bookmarks": 0,
+    "views": 27
+   },
+   "replyTo": {
+    "tweetId": "2101665877955379676",
+    "userId": "4497753743",
+    "username": "GeBaiDC"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [
+    {
+     "id": "2102428317219741696",
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/HS1TalWa4AA-b_O.png",
+     "thumbnailUrl": "https://pbs.twimg.com/media/HS1TalWa4AA-b_O.png",
+     "width": 680,
+     "height": 453,
+     "altText": null,
+     "durationSeconds": null
+    }
+   ],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "4497753743",
+      "username": "GeBaiDC",
+      "name": "Ge Bai"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102427753694032331",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102427753694032331",
+   "url": "https://x.com/ShreeHistory/status/2102427753694032331",
+   "conversationId": "2084341520606675238",
+   "text": "Multiple prices means hidden price. Call any hospital for price, they tell you it depends on your insurance and call insurance they tell you in addition to your insurance it also depends on your hospital and \"in network\" policies present on the date of service and any changes made to these on the date of adjudication. \n\nSo the price is hidden till you get your bill.",
+   "lang": "en",
+   "createdAt": "2026-09-22T16:00:12.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 6
+   },
+   "replyTo": {
+    "tweetId": "2084518188029780325",
+    "userId": "1679196464122298369",
+    "username": "prachi4037"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  },
+  {
+   "schemaVersion": "tweet-result-v1",
+   "recordType": "tweet",
+   "recordId": "tweet:1:2102427168039149905",
+   "workflow": "search",
+   "source": {
+    "mode": "Latest",
+    "page": 2
+   },
+   "id": "2102427168039149905",
+   "url": "https://x.com/ShreeHistory/status/2102427168039149905",
+   "conversationId": "2084341520606675238",
+   "text": "@prachi4037 I am just pointing out that there is no market. A market needs supply to meet demand.",
+   "lang": "en",
+   "createdAt": "2026-09-22T15:57:52.000Z",
+   "type": "reply",
+   "author": {
+    "id": "845990425",
+    "username": "ShreeHistory",
+    "name": "History इतिहास 🇺🇲🛕 🚀",
+    "url": "https://x.com/ShreeHistory",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/1658640335042650114/7RKsr6OE_normal.jpg",
+    "verified": false,
+    "isBlueVerified": true
+   },
+   "metrics": {
+    "replies": 0,
+    "retweets": 0,
+    "quotes": 0,
+    "likes": 0,
+    "bookmarks": 0,
+    "views": 9
+   },
+   "replyTo": {
+    "tweetId": "2084518188029780325",
+    "userId": "1679196464122298369",
+    "username": "prachi4037"
+   },
+   "quotedTweetId": null,
+   "retweetedTweetId": null,
+   "media": [],
+   "entities": {
+    "hashtags": [],
+    "mentions": [
+     {
+      "id": "1679196464122298369",
+      "username": "prachi4037",
+      "name": "Bharat Bodh"
+     }
+    ],
+    "urls": [],
+    "symbols": []
+   },
+   "possiblySensitive": false
+  }
+ ]
+}
