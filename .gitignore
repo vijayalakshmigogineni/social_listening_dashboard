@@ -1,6 +1,12 @@
 # Secrets
 .env
+.env.*
 *.env.local
+!.env.example
+secrets
+secrets.*
+*.pem
+*.key
 
 # Python
 __pycache__/

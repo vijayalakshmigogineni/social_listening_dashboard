@@ -1,6 +1,14 @@
-import requests
+import os
 
-TOKEN = "REDACTED"
+import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
+TOKEN = os.getenv("CMS_API_TOKEN")
+
+if not TOKEN:
+    raise ValueError("CMS_API_TOKEN not found in .env file")
 
 
 headers = {
