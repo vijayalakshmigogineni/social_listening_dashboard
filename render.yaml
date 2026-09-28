@@ -49,6 +49,11 @@ services:
       - type: rewrite
         source: /api/*
         destination: https://sld-api-lrvq.onrender.com/api/*
+      # "/*" doesn't match the bare root on Render (it answered 404), so "/"
+      # gets its own rule.
+      - type: rewrite
+        source: /
+        destination: /index.html
       - type: rewrite
         source: /*
         destination: /index.html
