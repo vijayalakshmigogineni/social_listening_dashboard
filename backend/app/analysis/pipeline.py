@@ -1,6 +1,6 @@
 """
 Orchestrates the analysis stages for a single normalized record into one
-AnalysisResult (the v3 row):
+AnalysisResult row (ANALYSIS_VERSION):
 
   1. RCM Relevance             -- rule gate (clearly_relevant | ambiguous);
                                   the LLM resolves only ambiguous records
@@ -8,14 +8,18 @@ AnalysisResult (the v3 row):
                                   person, speaker, stance, seeking, quote
   3. Taxonomy                  -- deterministic entity extraction
   4. Evidence / Confidence     -- validates the quote, aggregates confidence
-  5. Scoring                   -- v3 (semantic + problem severity + RCM
-                                  specificity, additive)
+  5. Scoring                   -- ProbePS opportunity score: 65% LLM
+                                  assessment + 20% RCM relevance + 15% Step 3
+                                  specificity (scoring_opportunity.py)
 
 Step 2's output is also projected onto the Step2ProblemEvidence /
 Step4Context shapes that the evidence stage and the persisted row consume.
-v3 reads the full semantic output (its per-field confidences) plus the
-taxonomy. Nothing downstream re-reads raw text where a structured field
-already answers the question.
+Scoring reads Step 1, the full semantic output (its per-field confidences
+and the opportunity assessment) and the taxonomy. Nothing downstream
+re-reads raw text where a structured field already answers the question.
+
+The semantic output is persisted inside score_breakdown, so rescore_row()
+can recompute a stored row's score without any LLM call.
 
 parent_text is the parent post of a reply (context only); source is the
 record's source name. Both are optional.
@@ -30,10 +34,10 @@ from app.analysis.step1_relevance import classify_rcm_relevance, scan_keywords
 from app.analysis.step2_semantic import classify_semantics
 from app.analysis.step3_taxonomy import classify_taxonomy
 from app.analysis.step5_evidence_confidence import build_evidence
-from app.analysis.step6_scoring_v3 import score_record_v3
+from app.analysis.scoring_opportunity import score_opportunity
 from app.schemas.analysis import (
-    ANALYSIS_VERSION_V3,
-    SCORING_VERSION_V3,
+    ANALYSIS_VERSION,
+    SCORING_VERSION,
     AnalysisResult,
     Step1Relevance,
     Step2ProblemEvidence,
@@ -41,7 +45,7 @@ from app.schemas.analysis import (
     Step3Taxonomy,
     Step4Context,
     Step5Evidence,
-    ScoreBreakdownV3,
+    ScoreBreakdownOpportunity,
 )
 
 
@@ -64,7 +68,7 @@ class Stages(NamedTuple):
     step3: Step3Taxonomy
     step4: Step4Context
     step5: Step5Evidence
-    score: ScoreBreakdownV3
+    score: ScoreBreakdownOpportunity
     semantic: Optional[Step2Semantic]
 
 
@@ -79,12 +83,12 @@ def build_text(title: str | None, text: str | None) -> str:
 def _assemble(
     source_item_id: str,
     s: Stages,
-    analysis_version: str = ANALYSIS_VERSION_V3,
+    analysis_version: str = ANALYSIS_VERSION,
 ) -> AnalysisResult:
     return AnalysisResult(
         source_item_id=source_item_id,
         analysis_version=analysis_version,
-        scoring_version=SCORING_VERSION_V3,
+        scoring_version=SCORING_VERSION,
         rcm_relevant=s.step1.rcm_relevant,
         rcm_relevance_confidence=s.step1.rcm_relevance_confidence,
         problem_evidence=s.step2.problem_evidence,
@@ -147,9 +151,9 @@ def _run_stages(
     stage(4)
     step5 = build_evidence(full_text, step1, step2, step3, step4)
     stage(5)
-    # v3 reads only structured outputs: the semantic analysis (None when
-    # short-circuited, which scores 0 semantic points) and the taxonomy.
-    score = score_record_v3(semantic, step3)
+    # Reads only structured outputs: Step 1, the semantic analysis (None
+    # when short-circuited, which scores 0) and the taxonomy.
+    score = score_opportunity(step1, semantic, step3)
 
     return Stages(step1, step2, step3, step4, step5, score, semantic)
 
@@ -180,8 +184,8 @@ def run_pipeline(
     parent_text: str | None = None,
     source: str | None = None,
 ) -> AnalysisResult:
-    """The v3 row for one record. created_at is accepted for call-site
-    compatibility; v3 scoring does not use recency."""
+    """The analysis row for one record. created_at is accepted for call-site
+    compatibility; opportunity scoring does not use recency."""
     s = _run_stages(build_text(title, text), matched_keywords, on_stage,
                     parent_text=parent_text, source=source)
     return _assemble(source_item_id, s)
@@ -193,7 +197,7 @@ def run_pipeline_traced(
     text: str | None,
     created_at: datetime | None = None,
     matched_keywords: list[str] | None = None,
-    analysis_version: str = ANALYSIS_VERSION_V3,
+    analysis_version: str = ANALYSIS_VERSION,
     parent_text: str | None = None,
     source: str | None = None,
 ) -> tuple[AnalysisResult, dict]:
@@ -222,7 +226,29 @@ def explain_pipeline(
     return {
         "input_text": full_text,
         **_trace(s, parent_text),
-        "step6_7_scoring": s.score.model_dump(),  # the v3 breakdown
-        "analysis_version": ANALYSIS_VERSION_V3,
-        "scoring_version": SCORING_VERSION_V3,
+        "score_breakdown": s.score.model_dump(),
+        "final_score": s.score.final_score,
+        "analysis_version": ANALYSIS_VERSION,
+        "scoring_version": SCORING_VERSION,
     }
+
+
+def rescore_row(
+    rcm_relevant: bool,
+    rcm_relevance_confidence: float,
+    score_breakdown: dict | None,
+    taxonomy: Step3Taxonomy,
+) -> ScoreBreakdownOpportunity | None:
+    """Re-score a stored row from what it already holds -- Step 1 columns,
+    the Step 3 taxonomy columns and score_breakdown["llm_assessment"] -- with
+    NO LLM call. Returns None when the row cannot be re-scored offline: it
+    is RCM-relevant but was stored without an llm_assessment (e.g. an older
+    analysis version), so only a full re-analysis can score it."""
+    step1 = Step1Relevance(rcm_relevant=rcm_relevant,
+                           rcm_relevance_confidence=rcm_relevance_confidence)
+    assessment = (score_breakdown or {}).get("llm_assessment")
+    if not rcm_relevant:
+        return score_opportunity(step1, None, Step3Taxonomy())
+    if assessment is None:
+        return None
+    return score_opportunity(step1, Step2Semantic(**assessment), taxonomy)

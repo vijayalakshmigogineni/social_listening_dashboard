@@ -1,4 +1,3 @@
-import { SCORING_VERSION } from '../api/client'
 import { type ScoreTier, scoreTier } from './scoreTiers'
 
 interface Props {
@@ -26,7 +25,7 @@ export function ScoreBadge({ score }: Props) {
   }
   const { cls, label } = band(score)
   return (
-    <span className={`score-badge ${cls}`} title={`${label} (${SCORING_VERSION})`}>
+    <span className={`score-badge ${cls}`} title={`${label} (opportunity score, 0-100)`}>
       {score.toFixed(1)}
     </span>
   )

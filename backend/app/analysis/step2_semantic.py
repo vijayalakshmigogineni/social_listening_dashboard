@@ -20,7 +20,7 @@ Validation here covers what the LLM client cannot check structurally:
     case- and whitespace-insensitively, then returned as the exact span);
     otherwise it is replaced deterministically from the current post
   - seeking_level is null for "supplying" content (the contract the old
-    Step 4 had, which v1/v2 scoring rely on)
+    Step 4 had)
 
 If the LLM is disabled, unreachable, or returns unusable output, the legacy
 rule+NLI stages produce the same fields and semantic_source="fallback".
@@ -86,6 +86,14 @@ def _from_llm(llm: dict, post_text: str) -> Step2Semantic:
         speaker_confidence=llm["speaker_confidence"],
         stance_confidence=llm["stance_confidence"],
         seeking_confidence=llm["seeking_confidence"] if seeking_level is not None else None,
+        pain_severity=llm["pain_severity"],
+        business_impact=llm["business_impact"],
+        probeps_fit=llm["probeps_fit"],
+        opportunity_type=llm["opportunity_type"],
+        opportunity_reasoning=llm["opportunity_reasoning"],
+        pain_confidence=llm.get("pain_confidence"),
+        impact_confidence=llm.get("impact_confidence"),
+        fit_confidence=llm.get("fit_confidence"),
         semantic_source="llm",
     )
 

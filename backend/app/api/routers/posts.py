@@ -1,8 +1,10 @@
 """
 Post listing/search/filter/detail endpoints. Every record returned here is
-the join of a normalized_items row with its current-version analysis_results
-row (LEFT JOIN, so unanalyzed items are still visible/debuggable, just with
-null analysis fields and a final_score of None so they sort last).
+the join of a normalized_items row with its current-version (ANALYSIS_VERSION)
+analysis_results row (LEFT JOIN, so unanalyzed items are still
+visible/debuggable, just with null analysis fields and a final_score of None
+so they sort last). The opportunity filters use app/api/opportunity.py, the
+same definitions as the Overview KPIs.
 """
 
 from __future__ import annotations
@@ -14,9 +16,11 @@ from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy import String, cast, func, or_
 from sqlalchemy.orm import Session
 
+from app.analysis.scoring_opportunity import is_opportunity
+from app.api.opportunity import base_query, not_opportunity_clause, opportunity_clause, to_utc
 from app.db.base import get_db
 from app.db.models import AnalysisResult, NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION_V3
+from app.schemas.analysis import ANALYSIS_VERSION
 
 router = APIRouter()
 
@@ -63,12 +67,21 @@ def _row_to_dict(item: NormalizedItem, analysis: AnalysisResult | None) -> dict[
                 "evidence_quote": None,
                 "confidence": None,
                 "final_score": None,
+                "llm_score": None,
+                "rcm_score": None,
+                "step3_score": None,
+                "opportunity_type": None,
+                "probeps_fit": None,
+                "opportunity_reasoning": None,
+                "is_opportunity": False,
                 "score_breakdown": None,
                 "analysis_version": None,
                 "scoring_version": None,
             }
         )
     else:
+        breakdown = analysis.score_breakdown or {}
+        assessment = breakdown.get("llm_assessment") or {}
         base.update(
             {
                 "analyzed": True,
@@ -85,6 +98,13 @@ def _row_to_dict(item: NormalizedItem, analysis: AnalysisResult | None) -> dict[
                 "evidence_quote": analysis.evidence_quote,
                 "confidence": analysis.confidence,
                 "final_score": analysis.final_score,
+                "llm_score": breakdown.get("llm_score"),
+                "rcm_score": breakdown.get("rcm_score"),
+                "step3_score": breakdown.get("step3_score"),
+                "opportunity_type": assessment.get("opportunity_type"),
+                "probeps_fit": assessment.get("probeps_fit"),
+                "opportunity_reasoning": assessment.get("opportunity_reasoning"),
+                "is_opportunity": is_opportunity(analysis.final_score, analysis.problem_evidence),
                 "score_breakdown": analysis.score_breakdown,
                 "analysis_version": analysis.analysis_version,
                 "scoring_version": analysis.scoring_version,
@@ -92,24 +112,6 @@ def _row_to_dict(item: NormalizedItem, analysis: AnalysisResult | None) -> dict[
         )
     return base
 
-
-# Short names the UI passes -> stored analysis_version. v3 is the only scorer.
-SCORING_VERSIONS = {"v3": ANALYSIS_VERSION_V3}
-
-
-def resolve_version(version: str) -> str:
-    """Map the short name the UI passes to the stored analysis_version."""
-    if version not in SCORING_VERSIONS:
-        raise HTTPException(400, f"version must be one of {sorted(SCORING_VERSIONS)}")
-    return SCORING_VERSIONS[version]
-
-
-def _base_query(db: Session, analysis_version: str = ANALYSIS_VERSION_V3):
-    return db.query(NormalizedItem, AnalysisResult).outerjoin(
-        AnalysisResult,
-        (AnalysisResult.source_item_id == NormalizedItem.source_item_id)
-        & (AnalysisResult.analysis_version == analysis_version),
-    )
 
 
 @router.get("")
@@ -124,28 +126,43 @@ def list_posts(
     speaker_type: Optional[str] = Query(None),
     content_stance: Optional[str] = Query(None),
     rcm_relevant: Optional[bool] = Query(None),
+    opportunity: Optional[bool] = Query(
+        None, description="Only (true) or no (false) opportunities -- same rule as the Overview KPI"),
+    opportunity_type: Optional[str] = Query(None),
     score_min: Optional[float] = Query(None),
     score_max: Optional[float] = Query(None),
-    date_from: Optional[datetime] = Query(None),
-    date_to: Optional[datetime] = Query(None),
+    date_from: Optional[datetime] = Query(None, description="Post date (created_at) from"),
+    date_to: Optional[datetime] = Query(None, description="Post date (created_at) to"),
+    collected_from: Optional[datetime] = Query(None, description="Collected (inserted_at) from"),
+    collected_to: Optional[datetime] = Query(None, description="Collected (inserted_at) to"),
     sort: str = Query("score_desc"),
-    version: str = Query("v3", description="Scoring version to read (v3)"),
     page: int = Query(1, ge=1),
     page_size: int = Query(20, ge=1, le=100),
 ):
     if sort not in SORT_OPTIONS:
         raise HTTPException(400, f"sort must be one of {sorted(SORT_OPTIONS)}")
 
-    query = _base_query(db, resolve_version(version))
+    query = base_query(db)
 
     if source:
         query = query.filter(NormalizedItem.source == source)
     if date_from:
-        query = query.filter(NormalizedItem.created_at >= date_from)
+        query = query.filter(NormalizedItem.created_at >= to_utc(date_from))
     if date_to:
-        query = query.filter(NormalizedItem.created_at <= date_to)
+        query = query.filter(NormalizedItem.created_at <= to_utc(date_to))
+    if collected_from:
+        query = query.filter(NormalizedItem.inserted_at >= to_utc(collected_from))
+    if collected_to:
+        query = query.filter(NormalizedItem.inserted_at <= to_utc(collected_to))
     if rcm_relevant is not None:
         query = query.filter(AnalysisResult.rcm_relevant == rcm_relevant)
+    if opportunity is not None:
+        query = query.filter(opportunity_clause() if opportunity else not_opportunity_clause())
+    if opportunity_type:
+        query = query.filter(
+            AnalysisResult.score_breakdown["llm_assessment"]["opportunity_type"].as_string()
+            == opportunity_type
+        )
     if problem_category:
         query = query.filter(
             cast(AnalysisResult.problem_category, String).contains(f'"{problem_category}"')
@@ -154,7 +171,9 @@ def list_posts(
         query = query.filter(cast(AnalysisResult.payer_tags, String).contains(f'"{payer}"'))
     if specialty:
         query = query.filter(AnalysisResult.specialty == specialty)
-    if seeking_level:
+    if seeking_level == "none":
+        query = query.filter(AnalysisResult.id.isnot(None), AnalysisResult.seeking_level.is_(None))
+    elif seeking_level:
         query = query.filter(AnalysisResult.seeking_level == seeking_level)
     if speaker_type:
         query = query.filter(AnalysisResult.speaker_type == speaker_type)
@@ -204,7 +223,6 @@ def get_post(
     source: str,
     source_item_id: str,
     db: Session = Depends(get_db),
-    version: str = Query("v3", description="Scoring version to read (v3)"),
 ):
     item = (
         db.query(NormalizedItem)
@@ -217,7 +235,7 @@ def get_post(
     analysis = (
         db.query(AnalysisResult)
         .filter_by(
-            source_item_id=source_item_id, analysis_version=resolve_version(version)
+            source_item_id=source_item_id, analysis_version=ANALYSIS_VERSION
         )
         .one_or_none()
     )

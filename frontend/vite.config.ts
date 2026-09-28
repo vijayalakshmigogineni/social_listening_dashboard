@@ -6,7 +6,8 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://127.0.0.1:8000',
+        // SLD_API_URL points the dev server at another backend (default: local API).
+        target: process.env.SLD_API_URL || 'http://127.0.0.1:8000',
         changeOrigin: true,
       },
     },

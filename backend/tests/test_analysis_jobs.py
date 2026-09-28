@@ -74,10 +74,10 @@ def test_analysis_job_scores_pending_posts_and_skips_done(session_factory, monke
     job = _run(session_factory)
     assert job["status"] == "completed"
     assert (job["total_posts"], job["processed_posts"], job["failed_posts"]) == (2, 2, 0)
-    assert len(job["scores"]["v3"]) == 2
+    assert len(job["scores"]["score"]) == 2
 
     db = session_factory()
-    assert db.query(models.AnalysisResult).count() == 2  # one v3 row per post
+    assert db.query(models.AnalysisResult).count() == 2  # one row per post
     db.close()
 
     again = _run(session_factory)

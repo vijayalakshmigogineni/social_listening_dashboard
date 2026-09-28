@@ -52,3 +52,15 @@ def test_aapc_default_forums_include_rss_validated_additions():
     for url in aapc.DEFAULT_FORUMS.values():
         assert url.startswith("https://www.aapc.com/discuss/forums/")
         assert url.endswith("/index.rss")
+
+
+def test_reddit_post_date_is_read_from_created_utc():
+    # The current Reddit actor returns created_utc (ISO); dropping it left
+    # every Reddit post undated.
+    from datetime import datetime, timezone
+
+    post = {"id": "abc", "title": "t", "body": "b", "created_utc": "2026-09-22T13:00:30.000Z"}
+    assert reddit.normalize_post(post, "medicalbilling")["created_at"] == datetime(
+        2026, 9, 22, 13, 0, 30, tzinfo=timezone.utc)
+    epoch = {"id": "abc", "title": "t", "created_utc": 1758546030}
+    assert reddit.normalize_post(epoch, "x")["created_at"].tzinfo is not None

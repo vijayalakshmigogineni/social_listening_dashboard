@@ -1,26 +1,21 @@
-import { SCORING_VERSION } from '../api/client'
-import type { ScoringVersion } from '../api/types'
-
 /**
- * Dashboard bands for v3 scores.
+ * Dashboard bands for the ProbePS opportunity score (0-100).
  *
- * PROVISIONAL: these reuse the old v2 cutoffs (Act >=55, Engage >=30,
- * Watch >=10) until v3 bands are chosen from v3's own score distribution
- * (observed max ~65; not fitted to the gold set). Kept per version so a future
- * scorer can bring its own cutoffs.
+ * Engage starts at the backend's OPPORTUNITY_THRESHOLD (40,
+ * app/analysis/scoring_opportunity.py), so every Engage/Act post is counted
+ * as an opportunity when it has problem evidence. PROVISIONAL: set all three
+ * cutoffs from the real score distribution and the gold set
+ * (scripts/rescore.py --dry-run) before relying on them.
  */
-const BANDS: Record<ScoringVersion, { high: number; mid: number; watch: number }> = {
-  v3: { high: 55, mid: 30, watch: 10 },
-}
+const BANDS = { high: 60, mid: 40, watch: 20 }
 
 export type ScoreTier = 'Act' | 'Engage' | 'Watch' | 'Discard'
 
 export const SCORE_TIERS: ScoreTier[] = ['Act', 'Engage', 'Watch', 'Discard']
 
-export function scoreTier(score: number, version: ScoringVersion = SCORING_VERSION): ScoreTier {
-  const b = BANDS[version]
-  if (score >= b.high) return 'Act'
-  if (score >= b.mid) return 'Engage'
-  if (score >= b.watch) return 'Watch'
+export function scoreTier(score: number): ScoreTier {
+  if (score >= BANDS.high) return 'Act'
+  if (score >= BANDS.mid) return 'Engage'
+  if (score >= BANDS.watch) return 'Watch'
   return 'Discard'
 }

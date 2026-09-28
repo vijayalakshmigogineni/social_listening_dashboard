@@ -2,7 +2,7 @@
 Analysis jobs: the dashboard's equivalent of `python scripts/run_pipeline.py`.
 
 Same item selection and row writes as the script (app/analysis/runner.py):
-posts without a v3 row, one v3 row per post. Two deliberate differences, both
+posts without a current-version row, one row per post. Two deliberate differences, both
 because this runs unattended behind a progress bar: each post is committed on
 its own, so progress survives a
 crash, and a post that raises is recorded as failed and skipped instead of
@@ -35,7 +35,7 @@ def create_job(db: Session, source: str | None = None, collection_job_id: int | 
         collection_job_id=collection_job_id,
         status="queued",
         errors=[],
-        scores={"v3": []},
+        scores={"score": []},
     )
     db.add(job)
     db.commit()
@@ -59,7 +59,7 @@ def run_job(job_id: int, session_factory=SessionLocal) -> None:
 
         processed = failed = 0
         errors: list[str] = []
-        scores: dict[str, list[float]] = {"v3": []}
+        scores: dict[str, list[float]] = {"score": []}
 
         def on_stage(number: int) -> None:
             live_stage[job_id] = (number, _stage_label(number))
@@ -76,7 +76,7 @@ def run_job(job_id: int, session_factory=SessionLocal) -> None:
                     errors.append(f"{label}: {type(exc).__name__}: {exc}")
             else:
                 processed += 1
-                scores["v3"].append(round(result.final_score, 2))
+                scores["score"].append(round(result.final_score, 2))
 
             job = db.get(AnalysisJob, job_id)
             job.processed_posts = processed

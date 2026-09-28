@@ -14,7 +14,7 @@ import pytest
 
 from app.analysis import llm_fallback, step1_relevance, step2_semantic
 from app.analysis import pipeline as pipeline_module
-from app.analysis.step6_scoring_v3 import SEEKING_POINTS
+from app.analysis.scoring_opportunity import SEEKING_POINTS
 from app.schemas.analysis import Step2ProblemEvidence, Step4Context
 
 CLEAR_TEXT = "We keep getting claim denials from Aetna for this procedure. Has anyone else seen this?"
@@ -38,9 +38,24 @@ def _semantic(**overrides) -> dict:
         "problem_confidence": 0.94, "first_person_confidence": 0.9,
         "operational_impact_confidence": 0.8, "speaker_confidence": 0.9,
         "stance_confidence": 0.95, "seeking_confidence": 0.89,
+        "pain_severity": "moderate", "business_impact": "moderate", "probeps_fit": "high",
+        "opportunity_type": "denial_management",
+        "opportunity_reasoning": "A practice reports recurring Aetna denials it cannot resolve.",
+        "pain_confidence": 0.8, "impact_confidence": 0.7, "fit_confidence": 0.85,
     }
     base.update(overrides)
     return base
+
+
+_LLM_NAMES = {"pain_confidence": "pain_severity_confidence",
+              "impact_confidence": "business_impact_confidence",
+              "fit_confidence": "probeps_fit_confidence"}
+
+
+def _raw(**overrides) -> dict:
+    """_semantic() as the LLM itself returns it: the opportunity confidences
+    carry their field-named keys (the client maps them back)."""
+    return {_LLM_NAMES.get(k, k): v for k, v in _semantic(**overrides).items()}
 
 
 def _run(text, relevance=None, semantic=None, parent_text=None, source="reddit", title=""):
@@ -127,6 +142,10 @@ def test_semantic_fields_reach_the_persisted_row():
     sem = trace["step2_semantic"]
     for field in ("problem_current", "problem_recurring", "operational_impact"):
         assert field in sem
+    assert (sem["probeps_fit"], sem["opportunity_type"]) == ("high", "denial_management")
+    # The LLM output is persisted with the score, for offline re-scoring.
+    assert v1.score_breakdown["llm_assessment"]["probeps_fit"] == "high"
+    assert v1.score_breakdown["llm_source"] == "llm"
 
 
 def test_supplying_forces_null_seeking_level():
@@ -148,6 +167,11 @@ def test_semantic_llm_unavailable_uses_legacy_stages():
     c.assert_called_once()
     assert trace["step2_semantic"]["semantic_source"] == "fallback"
     assert results.seeking_level == "L0"
+    # The fallback cannot judge opportunity value: those fields are None and
+    # contribute nothing.
+    assert trace["step2_semantic"]["probeps_fit"] is None
+    assert results.score_breakdown["llm_points"]["probeps_fit"] == 0.0
+    assert results.score_breakdown["llm_source"] == "fallback"
 
 
 # ---------------------------------------------------------------------------
@@ -187,13 +211,13 @@ def test_quote_is_matched_whitespace_and_case_insensitively_to_exact_span():
 
 
 # ---------------------------------------------------------------------------
-# v3 scoring receives the semantic seeking_level (and its confidence)
+# Opportunity scoring receives the semantic seeking_level (and its confidence)
 # ---------------------------------------------------------------------------
 @pytest.mark.parametrize("level", ["L0", "L1", "L2", "L3"])
-def test_v3_receives_semantic_seeking_level(level):
+def test_scoring_receives_semantic_seeking_level(level):
     row, _, _, _ = _run(CLEAR_TEXT, semantic=_semantic(seeking_level=level))
     assert row.seeking_level == level
-    assert row.score_breakdown["seeking_points"] == pytest.approx(SEEKING_POINTS[level] * 0.89)
+    assert row.score_breakdown["llm_points"]["seeking"] == pytest.approx(SEEKING_POINTS[level] * 0.89)
 
 
 def test_stage_numbers_match_stage_names():
@@ -221,23 +245,31 @@ def _enabled():
 
 def test_semantic_client_validates_and_normalizes():
     p1, p2 = _enabled()
-    raw = _semantic(seeking_level="none", problem_confidence=1.7)
+    raw = _raw(seeking_level="none", problem_confidence=1.7)
     with p1, p2, patch.object(llm_fallback.requests, "post", return_value=_ollama(raw)) as post:
         out = llm_fallback.analyze_semantics_llm(REPLY, PARENT, "aapc")
     assert out["seeking_level"] is None
     assert out["problem_confidence"] == 1.0
+    assert (out["probeps_fit"], out["opportunity_type"]) == ("high", "denial_management")
+    assert out["fit_confidence"] == 0.85
     user_msg = post.call_args.kwargs["json"]["messages"][1]["content"]
     assert user_msg.index("PARENT POST") < user_msg.index("CURRENT POST")
     assert llm_fallback.CALL_STATS_BY_KIND["semantic"]["succeeded"] == 1
 
 
 @pytest.mark.parametrize("bad", [
-    _semantic(speaker_type="biller"),
-    _semantic(content_stance="asking"),
-    _semantic(seeking_level="L4"),
-    _semantic(first_person="yes"),
-    _semantic(stance_confidence="high"),
-    {k: v for k, v in _semantic().items() if k != "problem_evidence"},
+    _raw(speaker_type="biller"),
+    _raw(content_stance="asking"),
+    _raw(seeking_level="L4"),
+    _raw(first_person="yes"),
+    _raw(stance_confidence="high"),
+    _raw(probeps_fit="very_high"),
+    _raw(business_impact=None),
+    _raw(opportunity_type="sales_lead"),
+    _raw(opportunity_reasoning=3),
+    _raw(fit_confidence="high"),
+    {k: v for k, v in _raw().items() if k != "problem_confidence"},
+    {k: v for k, v in _raw().items() if k != "problem_evidence"},
     "not json",
 ])
 def test_semantic_client_rejects_malformed_output(bad):
@@ -245,6 +277,20 @@ def test_semantic_client_rejects_malformed_output(bad):
     with p1, p2, patch.object(llm_fallback.requests, "post", return_value=_ollama(bad)):
         assert llm_fallback.analyze_semantics_llm(REPLY) is None
     assert llm_fallback.CALL_STATS_BY_KIND["semantic"]["failed"] >= 1
+
+
+def test_missing_opportunity_confidence_is_tolerated_as_none():
+    # Nova sometimes drops one confidence; that signal then scores 0 instead
+    # of the whole classification being thrown away.
+    p1, p2 = _enabled()
+    raw = {k: v for k, v in _raw().items() if k != "business_impact_confidence"}
+    with p1, p2, patch.object(llm_fallback.requests, "post", return_value=_ollama(raw)):
+        out = llm_fallback.analyze_semantics_llm(REPLY)
+    assert out is not None and out["impact_confidence"] is None
+    with patch.object(step2_semantic, "analyze_semantics_llm", return_value=out):
+        row = pipeline_module.run_pipeline(source_item_id="x", title="", text=CLEAR_TEXT, created_at=None)
+    assert row.score_breakdown["llm_points"]["business_impact"] == 0.0
+    assert row.score_breakdown["llm_points"]["probeps_fit"] > 0
 
 
 def test_relevance_client_validates():

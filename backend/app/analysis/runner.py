@@ -3,8 +3,9 @@ Batch runner around the pipeline: which items still need analysis, and how one
 item's results are written to analysis_results. Shared by scripts/run_pipeline.py
 and the dashboard's analysis job so both select and store rows identically.
 
-Each item produces one v3 row (unique key: source_item_id + analysis_version).
-Replies get their parent post's text as context.
+Each item produces one row under the current ANALYSIS_VERSION (unique key:
+source_item_id + analysis_version). Replies get their parent post's text as
+context.
 """
 
 from __future__ import annotations
@@ -14,35 +15,44 @@ from sqlalchemy.orm import Session
 from app.analysis.pipeline import StageCallback, build_text, run_pipeline
 from app.db.models import AnalysisResult as AnalysisResultRow
 from app.db.models import NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION_V3, AnalysisResult
-
-ALL_VERSIONS = (ANALYSIS_VERSION_V3,)
+from app.schemas.analysis import ANALYSIS_VERSION, AnalysisResult
 
 
 def select_items(
-    db: Session, source: str | None = None, force: bool = False
+    db: Session,
+    source: str | None = None,
+    force: bool = False,
+    item_ids: list[tuple[str, str]] | None = None,
+    limit: int | None = None,
 ) -> tuple[list[NormalizedItem], int]:
     """(items to analyze, number skipped as already analyzed).
 
-    An item counts as done once every version in ALL_VERSIONS has a row, so
-    adding a new scoring version later backfills it without --force.
+    An item counts as done once it has a row under the current
+    ANALYSIS_VERSION, so bumping the version backfills every item without
+    --force. item_ids ((source, source_item_id) pairs) restricts the run to
+    those records; limit caps the batch (pilot runs). Ordered by id so a
+    limited run is repeatable.
     """
     query = db.query(NormalizedItem)
     if source:
         query = query.filter_by(source=source)
-    items = query.all()
+    items = query.order_by(NormalizedItem.id).all()
+    if item_ids is not None:
+        wanted = set(item_ids)
+        items = [i for i in items if (i.source, i.source_item_id) in wanted]
+
     if force:
-        return items, 0
-
-    seen: dict[str, set[str]] = {}
-    for sid, ver in db.query(
-        AnalysisResultRow.source_item_id, AnalysisResultRow.analysis_version
-    ).all():
-        seen.setdefault(sid, set()).add(ver)
-    already_done = {sid for sid, vers in seen.items() if set(ALL_VERSIONS) <= vers}
-
-    todo = [item for item in items if item.source_item_id not in already_done]
-    return todo, len(items) - len(todo)
+        todo = items
+    else:
+        already_done = {
+            sid for (sid,) in db.query(AnalysisResultRow.source_item_id)
+            .filter_by(analysis_version=ANALYSIS_VERSION).all()
+        }
+        todo = [item for item in items if item.source_item_id not in already_done]
+    skipped = len(items) - len(todo)
+    if limit is not None:
+        todo = todo[:limit]
+    return todo, skipped
 
 
 def resolve_parent_text(db: Session, source: str, parent_id: str | None) -> str | None:

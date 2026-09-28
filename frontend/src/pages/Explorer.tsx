@@ -1,13 +1,21 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { api } from '../api/client'
 import type { Post, PostFilters } from '../api/types'
+import { filtersFromParams, paramsFromFilters } from '../components/drill'
 import { FilterBar } from '../components/FilterBar'
 import { PostCard } from '../components/PostCard'
 
 const PAGE_SIZE = 20
 
+/** All Signals. The URL is the source of truth for filters, so Overview
+ *  cards/charts can deep-link here and back/forward work. */
 export function Explorer() {
-  const [filters, setFilters] = useState<PostFilters>({ sort: 'score_desc', page: 1, page_size: PAGE_SIZE })
+  const [params, setParams] = useSearchParams()
+  const filters = useMemo<PostFilters>(
+    () => ({ sort: 'score_desc', page: 1, ...filtersFromParams(params), page_size: PAGE_SIZE }),
+    [params],
+  )
   const [results, setResults] = useState<Post[]>([])
   const [total, setTotal] = useState(0)
   const [error, setError] = useState<string | null>(null)
@@ -29,6 +37,7 @@ export function Explorer() {
     return () => clearTimeout(timeout)
   }, [filters])
 
+  const setFilters = (next: PostFilters) => setParams(paramsFromFilters(next))
   const page = filters.page ?? 1
   const pageCount = Math.max(1, Math.ceil(total / PAGE_SIZE))
 

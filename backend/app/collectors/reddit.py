@@ -76,7 +76,11 @@ def normalize_post(post: dict[str, Any], subreddit: str) -> dict[str, Any]:
         "organization_name": None,
         "organization_url": None,
         "location": None,
-        "created_at": parse_datetime(post.get("createdAt") or post.get("created_at")),
+        # The current actor returns created_utc (ISO string); older actors and
+        # the native API used createdAt / created_at (or epoch seconds).
+        "created_at": parse_datetime(
+            post.get("createdAt") or post.get("created_at") or post.get("created_utc")
+        ),
         "collected_at": datetime.now(timezone.utc),
         "engagement": {
             "score": post.get("score"),

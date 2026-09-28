@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import { SCORING_VERSION } from '../../api/client'
 import type { AnalysisJob } from '../../api/types'
 import { SCORE_TIERS, scoreTier } from '../scoreTiers'
 import { JOB_STATUS_LABELS, fmtDuration, isActive } from './format'
@@ -70,7 +69,7 @@ function AnalysisProgress({ job }: { job: AnalysisJob }) {
         ))}
       </ol>
       <p className="dc-subtle">
-        Each post goes through all six steps in turn; the highlighted step is where the current post
+        Each post goes through every analysis step in turn; the highlighted step is where the current post
         is. The first run after a server start loads the language model and can pause for a minute.
       </p>
     </div>
@@ -78,7 +77,7 @@ function AnalysisProgress({ job }: { job: AnalysisJob }) {
 }
 
 function AnalysisResult({ job }: { job: AnalysisJob }) {
-  const scores = job.scores[SCORING_VERSION] ?? []
+  const scores = job.scores.score ?? []
   const tiers = Object.fromEntries(SCORE_TIERS.map((t) => [t, 0])) as Record<string, number>
   scores.forEach((s) => (tiers[scoreTier(s)] += 1))
 

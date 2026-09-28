@@ -183,6 +183,23 @@ class CollectionCheckpoint(Base):
     )
 
 
+class SourceSetting(Base):
+    """Units a source collects from (subreddits, forums, groups, query
+    families, accounts), edited on the Data Collection page. A row overrides
+    the collector's in-code default list; no row = the default. The collectors
+    themselves are unchanged -- each unit's value is passed to them exactly as
+    a default unit's would be."""
+
+    __tablename__ = "source_settings"
+
+    source: Mapped[str] = mapped_column(String, primary_key=True)
+    # [{"name": str, "value": str}, ...] in display order
+    units: Mapped[list] = mapped_column(JSON, nullable=False)
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), default=_utcnow, onupdate=_utcnow
+    )
+
+
 class AnalysisJob(Base):
     __tablename__ = "analysis_jobs"
 
@@ -195,7 +212,7 @@ class AnalysisJob(Base):
     failed_posts: Mapped[int] = mapped_column(Integer, default=0)
     current_stage: Mapped[str | None] = mapped_column(String, nullable=True)
     errors: Mapped[list] = mapped_column(JSON, default=list)
-    # {"v1": [final_score, ...], "v2": [...]} for the posts this job scored
+    # {"score": [final_score, ...]} for the posts this job scored
     scores: Mapped[dict] = mapped_column(JSON, default=dict)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=_utcnow)
     started_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)

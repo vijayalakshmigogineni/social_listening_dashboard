@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { api } from '../api/client'
 import type {
   AnalysisJob,
@@ -6,13 +6,18 @@ import type {
   CollectionJobRequest,
   CollectionMode,
   CollectionSource,
+  SourceStatsResponse,
 } from '../api/types'
 import { AnalysisPanel } from '../components/collection/AnalysisPanel'
 import { CollectionHistory } from '../components/collection/CollectionHistory'
 import { CollectionProgress } from '../components/collection/CollectionProgress'
-import { MODE_LABELS, fmtDateTime, isActive, plural, toLocalInput } from '../components/collection/format'
+import { CollectionStepper, type StepperState } from '../components/collection/CollectionStepper'
+import { SourceCard } from '../components/collection/SourceCard'
+import { SourceEditor } from '../components/collection/SourceEditor'
+import { MODE_LABELS, isActive, toLocalInput } from '../components/collection/format'
 
-const POLL_MS = 1500
+const POLL_MS = 1500 // while a job this page is showing runs
+const LIVE_MS = 5000 // otherwise: sources, stats, history, pending, jobs started elsewhere
 
 const MODE_HELP: Record<CollectionMode, string> = {
   since_last_sweep:
@@ -21,32 +26,54 @@ const MODE_HELP: Record<CollectionMode, string> = {
   latest_n: 'The newest posts from each source, whenever they were made.',
 }
 
-/** Re-run `tick` every POLL_MS while `active`. */
-function usePolling(active: boolean, tick: () => void) {
+/** Re-run `tick` every `ms` while `active` and the tab is visible. */
+function usePolling(active: boolean, ms: number, tick: () => void) {
   useEffect(() => {
     if (!active) return
-    const id = setInterval(tick, POLL_MS)
+    const id = setInterval(() => {
+      if (!document.hidden) tick()
+    }, ms)
     return () => clearInterval(id)
-  }, [active, tick])
+  }, [active, ms, tick])
 }
 
-function checkpointText(s: CollectionSource): string {
-  const cp = s.checkpoint
-  if (cp.last_successful_fetch) return `Last sweep ${fmtDateTime(cp.last_successful_fetch)}`
-  if (cp.next_sweep_from_origin === 'newest_stored_post') {
-    return `Not swept yet — would start from newest stored post (${fmtDateTime(cp.next_sweep_from)})`
+/** "just now" / "12 s ago" -- re-rendered every second. */
+function useAgo(since: number | null): string {
+  const [now, setNow] = useState(() => Date.now())
+  useEffect(() => {
+    const id = setInterval(() => setNow(Date.now()), 1000)
+    return () => clearInterval(id)
+  }, [])
+  if (since === null) return '—'
+  const s = Math.max(0, Math.round((now - since) / 1000))
+  return s < 3 ? 'just now' : `${s} s ago`
+}
+
+function stepperState(
+  collection: CollectionJob | null,
+  analysis: AnalysisJob | null,
+  pending: number | null,
+): StepperState {
+  if (isActive(collection?.status)) return { choose: 'done', fetch: 'active', analyze: 'todo', dashboard: 'todo' }
+  if (isActive(analysis?.status)) return { choose: 'done', fetch: 'done', analyze: 'active', dashboard: 'todo' }
+  const fetched = collection !== null && !isActive(collection.status)
+  if (fetched && (pending ?? 0) > 0) return { choose: 'done', fetch: 'done', analyze: 'active', dashboard: 'todo' }
+  if (fetched && analysis && !isActive(analysis.status) && (pending ?? 0) === 0) {
+    return { choose: 'done', fetch: 'done', analyze: 'done', dashboard: 'done' }
   }
-  return 'Not swept yet — would fetch the last 7 days'
+  return { choose: 'active', fetch: 'todo', analyze: 'todo', dashboard: 'todo' }
 }
 
 export function DataCollection() {
   const [sources, setSources] = useState<CollectionSource[]>([])
+  const [stats, setStats] = useState<SourceStatsResponse | null>(null)
   const [maxLimit, setMaxLimit] = useState(200)
   const [mode, setMode] = useState<CollectionMode>('since_last_sweep')
   const [selected, setSelected] = useState<string[]>([])
   const [startDate, setStartDate] = useState(() => toLocalInput(new Date(Date.now() - 7 * 864e5)))
   const [endDate, setEndDate] = useState(() => toLocalInput(new Date()))
   const [postLimit, setPostLimit] = useState('20')
+  const [editing, setEditing] = useState<string | null>(null)
 
   const [collectionJob, setCollectionJob] = useState<CollectionJob | null>(null)
   const [analysisJob, setAnalysisJob] = useState<AnalysisJob | null>(null)
@@ -55,44 +82,54 @@ export function DataCollection() {
   const [pending, setPending] = useState<number | null>(null)
   const [loaded, setLoaded] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [offline, setOffline] = useState(false)
+  const [updatedAt, setUpdatedAt] = useState<number | null>(null)
   const [submitting, setSubmitting] = useState<'collect' | 'retry' | 'analyze' | null>(null)
 
-  const refreshSideData = useCallback(() => {
-    api
-      .getCollectionSources()
-      .then((r) => {
-        setSources(r.sources)
-        setMaxLimit(r.max_post_limit)
-      })
-      .catch((e) => setError(String(e.message ?? e)))
-    api.listCollectionJobs().then((r) => setHistory(r.results)).catch(() => {})
-    api.getPendingAnalysis().then((r) => setPending(r.pending_posts)).catch(() => {})
-    api
-      .listAnalysisJobs(1)
-      .then((r) => setLastAnalysis(r.results[0] ?? null))
-      .catch(() => {})
-  }, [])
-
-  // First load: sources, history, and whatever job is still running (or ran last).
+  // Latest job ids without re-creating the refresh callback on every change.
+  const shown = useRef<{ collection: number | null; analysis: number | null }>({ collection: null, analysis: null })
   useEffect(() => {
-    Promise.all([api.getCollectionSources(), api.listCollectionJobs(), api.listAnalysisJobs(1), api.getPendingAnalysis()])
-      .then(([src, jobs, analyses, pend]) => {
+    shown.current = { collection: collectionJob?.id ?? null, analysis: analysisJob?.id ?? null }
+  }, [collectionJob?.id, analysisJob?.id])
+
+  /** Everything on the page except the job being polled at POLL_MS. Also
+   *  adopts a job started elsewhere (CLI, another browser, a teammate). */
+  const refreshAll = useCallback(() => {
+    return Promise.all([
+      api.getCollectionSources(),
+      api.listCollectionJobs(),
+      api.listAnalysisJobs(1),
+      api.getPendingAnalysis(),
+      api.getSourceStats(),
+    ])
+      .then(([src, jobs, analyses, pend, st]) => {
         setSources(src.sources)
         setMaxLimit(src.max_post_limit)
-        setSelected(src.sources.filter((s) => s.available).map((s) => s.key))
         setHistory(jobs.results)
         setPending(pend.pending_posts)
+        setStats(st)
         const latest = jobs.results[0] ?? null
-        setCollectionJob(latest)
+        if (latest && (isActive(latest.status) || shown.current.collection === null)) setCollectionJob(latest)
         const la = analyses.results[0] ?? null
         setLastAnalysis(la)
-        if (la && (isActive(la.status) || (latest && la.collection_job_id === latest.id))) {
-          setAnalysisJob(la)
-        }
+        if (la && isActive(la.status) && shown.current.analysis !== la.id) setAnalysisJob(la)
+        setOffline(false)
+        setUpdatedAt(Date.now())
+        return { src, jobs, la }
+      })
+  }, [])
+
+  // First load: pre-select every available source; show the latest runs.
+  useEffect(() => {
+    refreshAll()
+      .then(({ src, jobs, la }) => {
+        setSelected(src.sources.filter((s) => s.available).map((s) => s.key))
+        const latest = jobs.results[0] ?? null
+        if (la && (isActive(la.status) || (latest && la.collection_job_id === latest.id))) setAnalysisJob(la)
       })
       .catch((e) => setError(`Could not reach the backend: ${e.message ?? e}`))
       .finally(() => setLoaded(true))
-  }, [])
+  }, [refreshAll])
 
   const collecting = isActive(collectionJob?.status)
   const analyzing = isActive(analysisJob?.status)
@@ -103,10 +140,10 @@ export function DataCollection() {
       .getCollectionJob(collectionJob.id)
       .then((j) => {
         setCollectionJob(j)
-        if (!isActive(j.status)) refreshSideData()
+        if (!isActive(j.status)) refreshAll().catch(() => {})
       })
       .catch(() => {}) // transient; next tick retries
-  }, [collectionJob, refreshSideData])
+  }, [collectionJob, refreshAll])
 
   const pollAnalysis = useCallback(() => {
     if (!analysisJob) return
@@ -114,13 +151,19 @@ export function DataCollection() {
       .getAnalysisJob(analysisJob.id)
       .then((j) => {
         setAnalysisJob(j)
-        if (!isActive(j.status)) refreshSideData()
+        if (!isActive(j.status)) refreshAll().catch(() => {})
       })
       .catch(() => {})
-  }, [analysisJob, refreshSideData])
+  }, [analysisJob, refreshAll])
 
-  usePolling(collecting, pollCollection)
-  usePolling(analyzing, pollAnalysis)
+  const liveTick = useCallback(() => {
+    refreshAll().catch(() => setOffline(true))
+  }, [refreshAll])
+
+  usePolling(collecting, POLL_MS, pollCollection)
+  usePolling(analyzing, POLL_MS, pollAnalysis)
+  usePolling(loaded, LIVE_MS, liveTick)
+  const ago = useAgo(updatedAt)
 
   const availableKeys = sources.filter((s) => s.available).map((s) => s.key)
   const allSelected = availableKeys.length > 0 && availableKeys.every((k) => selected.includes(k))
@@ -136,6 +179,7 @@ export function DataCollection() {
     else if (new Date(startDate) >= new Date(endDate)) formProblem = 'The start must be before the end.'
     else if (new Date(startDate) > new Date()) formProblem = 'The start date is in the future.'
   }
+  if (!formProblem && editing) formProblem = 'Save or cancel the source edit first.'
 
   const busy = collecting || analyzing
   const toggle = (key: string) =>
@@ -185,15 +229,32 @@ export function DataCollection() {
       .finally(() => setSubmitting(null))
   }
 
+  const onSourceSaved = (updated: CollectionSource) => {
+    setSources((cur) => cur.map((s) => (s.key === updated.key ? updated : s)))
+    setEditing(null)
+  }
+
   if (!loaded) return <div className="loading">Loading...</div>
+
+  const editingSource = sources.find((s) => s.key === editing) ?? null
 
   return (
     <div className="data-collection">
-      <h2>Data Collection</h2>
-      <p className="dc-intro">
-        Fetch new posts from the sources, check what came in, then run the SLD analysis to score them
-        for the dashboard.
-      </p>
+      <div className="section-head">
+        <div>
+          <h2>Data Collection</h2>
+          <p className="dc-intro">
+            Fetch new posts from the sources, check what came in, then run the SLD analysis to score them for
+            the dashboard.
+          </p>
+        </div>
+        <span className={`dc-live ${offline ? 'dc-live-off' : ''}`} role="status">
+          <span className="dc-live-dot" aria-hidden="true" />
+          {offline ? 'Reconnecting…' : `Live · updated ${ago}`}
+        </span>
+      </div>
+
+      <CollectionStepper state={stepperState(collectionJob, analysisJob, pending)} />
 
       {error && <div className="error-banner dc-error">{error}</div>}
 
@@ -270,31 +331,31 @@ export function DataCollection() {
             All sources
           </label>
         </div>
-        <div className="dc-sources">
+        <div className="dc-source-grid">
           {sources.map((s) => (
-            <label
+            <SourceCard
               key={s.key}
-              className={`dc-source ${selected.includes(s.key) ? 'dc-source-on' : ''} ${s.available ? '' : 'dc-source-off'}`}
-            >
-              <input
-                type="checkbox"
-                checked={selected.includes(s.key)}
-                onChange={() => toggle(s.key)}
-                disabled={busy || !s.available}
-              />
-              <span className="dc-source-body">
-                <span className={`source-tag source-${s.key}`}>{s.label}</span>
-                <span className="dc-subtle">
-                  {s.available ? checkpointText(s) : `Unavailable: ${s.unavailable_reason}`}
-                </span>
-                <span className="dc-subtle">
-                  {s.units.length} {plural(s.unit_label, s.units.length)} · {s.cost_note}
-                </span>
-              </span>
-            </label>
+              source={s}
+              stat={stats?.sources[s.key]}
+              days={stats?.days ?? []}
+              selected={selected.includes(s.key)}
+              disabled={busy}
+              editing={editing === s.key}
+              onToggle={() => toggle(s.key)}
+              onEdit={() => setEditing(editing === s.key ? null : s.key)}
+            />
           ))}
         </div>
       </section>
+
+      {editingSource && (
+        <SourceEditor
+          key={editingSource.key}
+          source={editingSource}
+          onSaved={onSourceSaved}
+          onClose={() => setEditing(null)}
+        />
+      )}
 
       <div className="dc-actions">
         <button

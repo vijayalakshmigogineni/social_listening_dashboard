@@ -10,8 +10,9 @@ This module defines:
   - the enums/allowed-value sets the spec fixes (problem categories,
     speaker types, stance, seeking level)
 
-Steps are never re-derived by later stages: v3 scoring reads the structured
-fields the analysis stages already produced and never re-classifies text.
+Steps are never re-derived by later stages: opportunity scoring reads the
+structured fields the analysis stages already produced and never
+re-classifies text.
 """
 
 from __future__ import annotations
@@ -21,11 +22,17 @@ from typing import Any, Literal, Optional
 
 from pydantic import BaseModel, ConfigDict
 
-# v3 is the only scorer (v1 and v2 were retired after Experiment 2). The
-# unique key is (source_item_id, analysis_version), so a future scorer can
-# still be stored as its own row beside v3 under a new analysis_version.
-ANALYSIS_VERSION_V3 = "sld-analysis-v3"
-SCORING_VERSION_V3 = "sld-score-v3"
+# The current (and only) analysis/scoring lineage: the ProbePS opportunity
+# score, 65% LLM assessment + 20% RCM relevance + 15% Step 3 specificity.
+#   ANALYSIS_VERSION -- bump when the prompt or the analysis stages change
+#                       (existing rows then need a full LLM re-run)
+#   SCORING_VERSION  -- bump when only weights/points change (existing rows
+#                       can be re-scored offline: scripts/rescore.py)
+# The unique key is (source_item_id, analysis_version), so rows from an
+# earlier analysis version (e.g. "sld-analysis-v3") stay untouched beside the
+# new ones until they are deleted.
+ANALYSIS_VERSION = "sld-analysis-opportunity-1"
+SCORING_VERSION = "sld-score-opportunity-1"
 
 # ---------------------------------------------------------------------------
 # Step 3 taxonomy -- fixed category set. Multi-label: a record can carry
@@ -55,6 +62,24 @@ SpeakerType = Literal[
 ContentStance = Literal["seeking", "supplying", "neutral", "mixed"]
 
 SeekingLevel = Literal["L0", "L1", "L2", "L3"]
+
+# ---------------------------------------------------------------------------
+# Step 2 -- LLM opportunity assessment allowed values
+# ---------------------------------------------------------------------------
+Grade = Literal["none", "low", "moderate", "high"]
+
+# DRAFT list -- to be finalized with the business team. The last two mark
+# posts that are not ProbePS opportunities and cap the LLM score.
+OpportunityType = Literal[
+    "denial_management",
+    "prior_authorization",
+    "ar_followup_cashflow",
+    "coding_documentation",
+    "payer_policy_reimbursement",
+    "billing_operations_staffing",
+    "informational_only",
+    "not_an_opportunity",
+]
 
 
 RelevanceStatus = Literal["clearly_relevant", "ambiguous"]
@@ -127,9 +152,11 @@ class Step2Semantic(BaseModel):
     Classifies the CURRENT post only; a parent post is context, never the
     source of evidence_quote. The adapters below project it back onto the
     Step2ProblemEvidence / Step4Context shapes that Step 5 and the persisted
-    row consume. v3 scoring reads this model directly (problem_evidence,
-    first_person, seeking_level, operational_impact and problem_recurring,
-    with their confidences); problem_current is an analysis field only.
+    row consume. Opportunity scoring reads this model directly (the LLM
+    component); problem_current, operational_impact, pain_severity and
+    opportunity_reasoning are analysis/display fields with no score weight.
+    The whole model is persisted in score_breakdown["llm_assessment"] so a
+    row can be re-scored without calling the LLM again.
     """
 
     problem_evidence: bool
@@ -142,13 +169,24 @@ class Step2Semantic(BaseModel):
     seeking_level: Optional[SeekingLevel] = None
     evidence_quote: Optional[str] = None
     problem_confidence: float
-    # Read only by v3 scoring (confidence-weighted semantic contributions);
-    # None when the legacy fallback produced the record.
+    # Confidence-weight the LLM score's contributions; None when the legacy
+    # fallback produced the record.
     first_person_confidence: Optional[float] = None
     operational_impact_confidence: Optional[float] = None
     speaker_confidence: Optional[float] = None
     stance_confidence: Optional[float] = None
     seeking_confidence: Optional[float] = None
+    # ProbePS opportunity assessment. All None when the legacy fallback
+    # produced the record (it cannot judge opportunity value), so they then
+    # contribute 0 rather than an invented default.
+    pain_severity: Optional[Grade] = None
+    business_impact: Optional[Grade] = None
+    probeps_fit: Optional[Grade] = None
+    opportunity_type: Optional[OpportunityType] = None
+    opportunity_reasoning: Optional[str] = None
+    pain_confidence: Optional[float] = None
+    impact_confidence: Optional[float] = None
+    fit_confidence: Optional[float] = None
     # "llm", or "fallback" when the LLM was unavailable / returned unusable
     # output and the legacy rule+NLI stages produced these values instead.
     semantic_source: Literal["llm", "fallback"]
@@ -189,39 +227,70 @@ class Step5Evidence(BaseModel):
     seeking_confidence: Optional[float] = None
 
 
-class ScoreBreakdownV3(BaseModel):
-    """Step 6/7 scoring, v3 -- three additive components, no multipliers.
+class LlmPoints(BaseModel):
+    """Raw points behind the LLM component (sum = llm_score, max 100)."""
 
-    final_score = semantic_score + problem_severity + rcm_specificity, capped
-    at SANITY_CAP when problem_evidence is false. Every contribution is stored
-    so a score can be read off the row without re-running anything.
+    problem_evidence: float
+    first_person: float
+    seeking: float
+    business_impact: float
+    recurring: float
+    probeps_fit: float
+
+
+class RcmPoints(BaseModel):
+    """Raw points behind the RCM component (sum = rcm_score, max 100)."""
+
+    relevance: float
+    category_severity: float
+    primary_problem_category: Optional[str] = None
+
+
+class Step3Points(BaseModel):
+    """Raw specificity points (max 20); step3_score = total / 20 * 100."""
+
+    category: float
+    payer: float
+    procedure: float
+    denial_reason: float
+    code: float
+    specialty: float
+    total: float
+
+
+class ScoreBreakdownOpportunity(BaseModel):
+    """ProbePS opportunity score -- three normalized 0-100 components,
+    combined by fixed weights (65% LLM, 20% RCM, 15% Step 3), no multipliers.
+
+    Every intermediate value is stored so a score can be read -- and
+    explained -- off the row without re-running anything. llm_assessment is
+    the full Step 2 output (None when Step 1 short-circuited), which is what
+    makes an offline re-score possible.
     """
 
-    # Semantic Score (0-50): confidence-weighted Step 2 signals only
-    problem_evidence_points: float
-    first_person_points: float
-    seeking_points: float
-    operational_impact_points: float
-    semantic_score: float
+    llm_score: float
+    rcm_score: float
+    step3_score: float
 
-    # Problem Severity (0-30 by spec; primary category only, so 0-10 in practice)
-    primary_problem_category: Optional[str] = None
-    primary_category_points: float
-    recurring_points: float
-    problem_severity: float
+    weights: dict[str, float]
+    llm_contribution: float
+    rcm_contribution: float
+    step3_contribution: float
 
-    # RCM Specificity (0-20): each taxonomy signal counted once
-    category_points: float
-    payer_points: float
-    procedure_points: float
-    denial_reason_points: float
-    code_points: float
-    specialty_points: float
-    rcm_specificity: float
+    llm_points: LlmPoints
+    rcm_points: RcmPoints
+    step3_points: Step3Points
 
-    base_score: float
-    sanity_cap_applied: bool
+    # Caps (never bonuses). llm_cap_applied: the LLM called the post
+    # informational / not an opportunity. cap_applied: no problem evidence.
+    llm_cap_applied: bool
+    cap_applied: bool
+    cap_reason: Optional[str] = None
+    pre_cap_score: float
     final_score: float
+
+    llm_source: Optional[Literal["llm", "fallback"]] = None
+    llm_assessment: Optional[dict[str, Any]] = None
 
 
 class AnalysisResult(BaseModel):
@@ -230,8 +299,8 @@ class AnalysisResult(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     source_item_id: str
-    analysis_version: str = ANALYSIS_VERSION_V3
-    scoring_version: str = SCORING_VERSION_V3
+    analysis_version: str = ANALYSIS_VERSION
+    scoring_version: str = SCORING_VERSION
 
     # Step 1
     rcm_relevant: bool
@@ -260,7 +329,7 @@ class AnalysisResult(BaseModel):
     evidence_quote: str
     confidence: float
 
-    # Scoring (v3)
+    # Scoring (ScoreBreakdownOpportunity.model_dump())
     score_breakdown: dict[str, Any]
     final_score: float
 

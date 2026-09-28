@@ -1,15 +1,25 @@
 import { useEffect, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 import { api } from '../api/client'
-import { isV3Breakdown } from '../api/types'
+import { isOpportunityBreakdown } from '../api/types'
 import type { Post } from '../api/types'
+import { humanize } from '../components/drill'
 import { ScoreBadge } from '../components/ScoreBadge'
+import { ScoreContributions } from '../components/ScoreContributions'
 import { sourceContext } from '../components/PostCard'
 
 export function PostDetail() {
   const { source, sourceItemId } = useParams<{ source: string; sourceItemId: string }>()
   const [post, setPost] = useState<Post | null>(null)
   const [error, setError] = useState<string | null>(null)
+  const navigate = useNavigate()
+
+  // Go back in history when we arrived from within the app; otherwise
+  // (direct link / new tab) fall back to the signals list.
+  const goBack = () => {
+    if (window.history.state?.idx > 0) navigate(-1)
+    else navigate('/explorer')
+  }
 
   useEffect(() => {
     if (!source || !sourceItemId) return
@@ -19,13 +29,18 @@ export function PostDetail() {
   if (error) return <div className="error-banner">{error}</div>
   if (!post) return <div className="loading">Loading...</div>
 
-  const breakdown = post.score_breakdown
+  const breakdown = isOpportunityBreakdown(post.score_breakdown) ? post.score_breakdown : null
+  const assessment = breakdown?.llm_assessment ?? null
 
   return (
     <div className="post-detail">
+      <button type="button" className="back-link" onClick={goBack}>
+        ← Back
+      </button>
       <div className="post-detail-header">
         <span className={`source-tag source-${post.source}`}>{post.source}</span>
         <ScoreBadge score={post.final_score} />
+        {post.is_opportunity && <span className="tag tag-opportunity">Opportunity</span>}
         <Link to={`/pipeline/${post.source}/${post.source_item_id}`} className="debug-link">
           View pipeline breakdown →
         </Link>
@@ -82,67 +97,35 @@ export function PostDetail() {
           </dl>
         </div>
 
-        {breakdown && (
-          <div className="detail-section">
-            <h3>Score breakdown</h3>
-            {isV3Breakdown(breakdown) && (
-              <dl>
-                <dt>Problem evidence</dt>
-                <dd>{breakdown.problem_evidence_points} / 15</dd>
-                <dt>First person</dt>
-                <dd>{breakdown.first_person_points} / 8</dd>
-                <dt>Seeking level</dt>
-                <dd>{breakdown.seeking_points} / 17</dd>
-                <dt>Operational impact</dt>
-                <dd>{breakdown.operational_impact_points} / 10</dd>
-                <dt>
-                  <strong>Semantic score</strong>
-                </dt>
-                <dd>
-                  <strong>{breakdown.semantic_score} / 50</strong>
-                </dd>
-                <dt>Primary problem</dt>
-                <dd>
-                  {breakdown.primary_problem_category ?? 'none'} (+{breakdown.primary_category_points})
-                  {breakdown.recurring_points > 0 && <>, recurring +{breakdown.recurring_points}</>}
-                </dd>
-                <dt>
-                  <strong>Problem severity</strong>
-                </dt>
-                <dd>
-                  <strong>{breakdown.problem_severity}</strong>
-                </dd>
-                <dt>RCM specificity</dt>
-                <dd>
-                  category {breakdown.category_points} · payer {breakdown.payer_points} · procedure{' '}
-                  {breakdown.procedure_points} · denial reason {breakdown.denial_reason_points} · code{' '}
-                  {breakdown.code_points} · specialty {breakdown.specialty_points}
-                </dd>
-                <dt>
-                  <strong>RCM specificity</strong>
-                </dt>
-                <dd>
-                  <strong>{breakdown.rcm_specificity} / 20</strong>
-                </dd>
-                <dt>Base score</dt>
-                <dd>{breakdown.base_score}</dd>
-                {breakdown.sanity_cap_applied && (
-                  <>
-                    <dt>No problem evidence</dt>
-                    <dd>capped at 30</dd>
-                  </>
-                )}
-                <dt>
-                  <strong>Final score</strong>
-                </dt>
-                <dd>
-                  <strong>{breakdown.final_score}</strong>
-                </dd>
-              </dl>
-            )}
-          </div>
-        )}
-      </div>
+        <div className="detail-section">
+          <h3>ProbePS opportunity</h3>
+          {assessment ? (
+            <dl>
+              <dt>Opportunity type</dt>
+              <dd>{assessment.opportunity_type ? humanize(assessment.opportunity_type) : '—'}</dd>
+              <dt>ProbePS fit</dt>
+              <dd>{assessment.probeps_fit ?? '—'}</dd>
+              <dt>Business impact</dt>
+              <dd>{assessment.business_impact ?? '—'}</dd>
+              <dt>Pain severity</dt>
+              <dd>{assessment.pain_severity ?? '—'}</dd>
+              <dt>Recurring</dt>
+              <dd>{assessment.problem_recurring ? 'Yes' : 'No'}</dd>
+              <dt>Assessed by</dt>
+              <dd>{assessment.semantic_source === 'llm' ? 'LLM' : 'rule fallback (LLM unavailable)'}</dd>
+            </dl>
+          ) : (
+            <p className="dc-subtle">No LLM assessment stored for this post.</p>
+          )}
+          {assessment?.opportunity_reasoning && <p className="assessment-reason">{assessment.opportunity_reasoning}</p>}
+        </div>      </div>
+
+      {breakdown && (
+        <div className="detail-section score-section">
+          <h3>Score breakdown</h3>
+          <ScoreContributions breakdown={breakdown} />
+        </div>
+      )}
 
       {post.evidence_quote && (
         <div className="evidence-block">

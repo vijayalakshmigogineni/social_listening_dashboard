@@ -1,9 +1,10 @@
 """
 Schema/pipeline compatibility: AnalysisResult must still build and round-trip
 through the DB model after the semantic refactor. Step 1's relevance_status /
-relevance_method and Step 2's Step2Semantic are Pydantic/trace-only -- not
-persisted (see backend/app/db/models.py) -- so the row's column list must be
-satisfiable from AnalysisResult exactly as before.
+relevance_method are trace-only, and Step 2's Step2Semantic is persisted only
+inside score_breakdown["llm_assessment"] -- not as columns (see
+backend/app/db/models.py) -- so the row's column list must be satisfiable
+from AnalysisResult exactly as before.
 """
 
 from __future__ import annotations
@@ -23,6 +24,10 @@ SEMANTIC_L2 = {
     "problem_confidence": 0.9, "first_person_confidence": 0.9,
     "operational_impact_confidence": 0.8, "speaker_confidence": 0.8,
     "stance_confidence": 0.9, "seeking_confidence": 0.85,
+    "pain_severity": "high", "business_impact": "high", "probeps_fit": "high",
+    "opportunity_type": "prior_authorization",
+    "opportunity_reasoning": "The practice is overwhelmed by prior-auth denials.",
+    "pain_confidence": 0.8, "impact_confidence": 0.8, "fit_confidence": 0.8,
 }
 
 

@@ -8,8 +8,9 @@ Three kinds of call go through it:
                keyword hits) into relevant / not relevant.
   semantic  -- Step 2 (Semantic Problem & Intent Analysis): one call per
                relevant post returning problem evidence, first-person,
-               speaker, stance, seeking level, an evidence quote and
-               component confidences.
+               speaker, stance, seeking level, an evidence quote, the
+               ProbePS opportunity assessment (pain, business impact, fit,
+               opportunity type, reasoning) and component confidences.
   legacy    -- the old Step 4 stance/seeking fallback, still used by the
                legacy stages that run when the semantic call fails.
 
@@ -47,7 +48,7 @@ from app.config import (
     OLLAMA_HOST,
     OLLAMA_MODEL,
 )
-from app.schemas.analysis import ContentStance, SeekingLevel, SpeakerType
+from app.schemas.analysis import ContentStance, Grade, OpportunityType, SeekingLevel, SpeakerType
 
 PROVIDER = LLM_PROVIDER if LLM_PROVIDER in {"ollama", "bedrock", "none"} else "none"
 
@@ -69,7 +70,9 @@ else:
 OLLAMA_TIMEOUT_S = 120  # first call after Ollama starts pays a one-time model-load cost
 BEDROCK_TIMEOUT_S = 60
 MAX_OUTPUT_TOKENS = 200
-SEMANTIC_MAX_OUTPUT_TOKENS = 800  # long evidence quotes truncated the JSON at 400
+# Long evidence quotes truncated the JSON at 400; the opportunity fields and
+# the reasoning sentence add roughly 150 more tokens.
+SEMANTIC_MAX_OUTPUT_TOKENS = 1200
 TOOL_NAME = "record_classification"
 
 # Ollama's default context (2048 tokens) is too small for a long post plus a
@@ -86,6 +89,8 @@ CALL_STATS_BY_KIND = {k: {"attempted": 0, "succeeded": 0, "failed": 0} for k in 
 STANCE_LABELS = list(get_args(ContentStance))
 SEEKING_LABELS = list(get_args(SeekingLevel))
 SPEAKER_LABELS = list(get_args(SpeakerType))
+GRADE_LABELS = list(get_args(Grade))
+OPPORTUNITY_TYPE_LABELS = list(get_args(OpportunityType))
 # JSON-schema enums with a null member are unreliable across providers, so
 # "no seeking level" travels as the string "none" and is mapped back to None.
 SEEKING_NONE = "none"
@@ -388,11 +393,15 @@ SEMANTIC_SYSTEM_PROMPT = (
     "the parent's problem, experience or intent to the current author unless the "
     "current post itself says it applies to them (e.g. 'same here', 'we have this too').\n\n"
     "The downstream use of these classifications is to identify genuine RCM "
-    "operational problems and potential service opportunities for an RCM services "
-    "provider. Classify the evidence objectively. Do not increase a classification "
-    "merely because a post sounds commercially interesting. Do not infer a problem, "
-    "intent, speaker type, or experience from topic or terminology alone. You do not "
-    "score posts; you only classify what the current post says.\n\n"
+    "operational problems and potential service opportunities for ProbePS, an "
+    "outsourced RCM services provider (billing, coding, denial management, prior "
+    "authorization, AR follow-up, payer-policy and reimbursement work). Classify the "
+    "evidence objectively, the way an experienced RCM business-development reviewer "
+    "would. Do not increase a classification merely because a post sounds "
+    "commercially interesting. Do not infer a problem, intent, speaker type, or "
+    "experience from topic or terminology alone. RCM relevance is not opportunity: a "
+    "specific coding or definition question is highly RCM-relevant but usually a weak "
+    "opportunity. You classify; the system computes scores from your classifications.\n\n"
     "Fields:\n"
     "- problem_evidence: true ONLY when the CURRENT POST itself provides evidence of a "
     "real operational RCM problem or a concrete operational difficulty being "
@@ -436,9 +445,33 @@ SEMANTIC_SYSTEM_PROMPT = (
     "- evidence_quote: one short, exact, verbatim excerpt (at most two sentences) "
     "copied from the CURRENT POST that best supports the classification. Never "
     "quote the parent post.\n"
-    "- problem/first_person/operational_impact/speaker/stance/seeking_confidence: "
-    "your certainty for that field, 0 to 1.\n\n"
-    "Return only the JSON object. No reasoning or explanation."
+    "- pain_severity: how much the problem hurts the author's organization -- none (no "
+    "problem), low (minor inconvenience), moderate (real, ongoing friction), high "
+    "(serious or escalating: lost revenue, backlog, staff overwhelmed).\n"
+    "- business_impact: the stated or clearly implied effect on cash flow, AR, denial "
+    "rate, workload/staffing or patient access -- none, low, moderate, high. Only "
+    "what the post supports; do not assume impact from topic alone.\n"
+    "- probeps_fit: could an outsourced RCM services team realistically solve or "
+    "relieve this author's problem? high = an organization with an ongoing "
+    "operational RCM problem it is struggling to fix (e.g. recurring payer denials, "
+    "authorization backlog, growing AR); moderate = a real problem an RCM service "
+    "could help with but with limited scale or urgency; low = a one-off lookup, a "
+    "coding/definition question, or an individual learning the trade; none = no "
+    "problem, a patient's personal bill, a vendor or educator promoting, recruiting, "
+    "news, or a payer-side author.\n"
+    "- opportunity_type: the ONE best fit -- denial_management, prior_authorization, "
+    "ar_followup_cashflow, coding_documentation, payer_policy_reimbursement, "
+    "billing_operations_staffing; informational_only (an RCM question or discussion "
+    "with no operational problem to solve); not_an_opportunity (promotion, "
+    "recruiting, news, patient billing, off-topic).\n"
+    "- opportunity_reasoning: at most two short sentences explaining the probeps_fit "
+    "judgement, citing what the post says.\n"
+    "- Every *_confidence field is your certainty, 0 to 1, for the field it is named "
+    "after: problem_confidence (problem_evidence), first_person_confidence, "
+    "operational_impact_confidence, speaker_confidence, stance_confidence, "
+    "seeking_confidence, pain_severity_confidence, business_impact_confidence, "
+    "probeps_fit_confidence. All nine are required.\n\n"
+    "Return only the JSON object."
 )
 
 _BOOL_FIELDS = (
@@ -449,6 +482,21 @@ _CONFIDENCE_FIELDS = (
     "problem_confidence", "first_person_confidence", "operational_impact_confidence",
     "speaker_confidence", "stance_confidence", "seeking_confidence",
 )
+_GRADE_FIELDS = ("pain_severity", "business_impact", "probeps_fit")
+# The opportunity confidences are named after their field in the LLM schema
+# ("business_impact_confidence"): with a shorter "impact_confidence" next to
+# "operational_impact_confidence", Nova dropped one of the two on about half
+# of real posts. Each is listed right after its field. Returned under the
+# internal Step2Semantic names (right-hand side).
+_GRADE_CONFIDENCE_FIELDS = {
+    "pain_severity_confidence": "pain_confidence",
+    "business_impact_confidence": "impact_confidence",
+    "probeps_fit_confidence": "fit_confidence",
+}
+# A still-missing opportunity confidence is tolerated: it becomes None, so
+# that one signal contributes 0 (no invented default), instead of rejecting
+# the whole classification. Every other field stays strictly required.
+MAX_REASONING_CHARS = 500
 
 SEMANTIC_SCHEMA = {
     "type": "object",
@@ -459,10 +507,19 @@ SEMANTIC_SCHEMA = {
         "seeking_level": {"type": "string", "enum": SEEKING_LABELS + [SEEKING_NONE]},
         "evidence_quote": {"type": "string"},
         **{f: {"type": "number"} for f in _CONFIDENCE_FIELDS},
+        "pain_severity": {"type": "string", "enum": GRADE_LABELS},
+        "pain_severity_confidence": {"type": "number"},
+        "business_impact": {"type": "string", "enum": GRADE_LABELS},
+        "business_impact_confidence": {"type": "number"},
+        "probeps_fit": {"type": "string", "enum": GRADE_LABELS},
+        "probeps_fit_confidence": {"type": "number"},
+        "opportunity_type": {"type": "string", "enum": OPPORTUNITY_TYPE_LABELS},
+        "opportunity_reasoning": {"type": "string"},
     },
     "required": [
         *_BOOL_FIELDS, "speaker_type", "content_stance", "seeking_level",
-        "evidence_quote", *_CONFIDENCE_FIELDS,
+        "evidence_quote", *_CONFIDENCE_FIELDS, *_GRADE_FIELDS, *_GRADE_CONFIDENCE_FIELDS,
+        "opportunity_type", "opportunity_reasoning",
     ],
 }
 
@@ -476,20 +533,34 @@ def _validate_semantic(parsed: Any) -> Optional[dict]:
         return _unexpected(parsed)
     if not all(_is_number(parsed.get(f)) for f in _CONFIDENCE_FIELDS):
         return _unexpected(parsed)
+    missing_optional = [f for f in _GRADE_CONFIDENCE_FIELDS if parsed.get(f) is None]
+    if not all(_is_number(parsed[f]) for f in _GRADE_CONFIDENCE_FIELDS if f not in missing_optional):
+        return _unexpected(parsed)
     if (
         parsed.get("speaker_type") not in SPEAKER_LABELS
         or parsed.get("content_stance") not in STANCE_LABELS
         or parsed.get("seeking_level") not in SEEKING_LABELS + [SEEKING_NONE]
+        or not all(parsed.get(f) in GRADE_LABELS for f in _GRADE_FIELDS)
+        or parsed.get("opportunity_type") not in OPPORTUNITY_TYPE_LABELS
+        or not isinstance(parsed.get("opportunity_reasoning"), str)
     ):
         return _unexpected(parsed)
     quote = parsed.get("evidence_quote")
+    reasoning = parsed["opportunity_reasoning"].strip()
     result: dict[str, Any] = {f: parsed[f] for f in _BOOL_FIELDS}
     result.update({f: _confidence(parsed[f]) for f in _CONFIDENCE_FIELDS})
+    result.update({internal: None if f in missing_optional else _confidence(parsed[f])
+                   for f, internal in _GRADE_CONFIDENCE_FIELDS.items()})
+    if missing_optional:
+        print(f"[llm_fallback] {PROVIDER} omitted {missing_optional}; those signals score 0")
+    result.update({f: parsed[f] for f in _GRADE_FIELDS})
     result.update(
         speaker_type=parsed["speaker_type"],
         content_stance=parsed["content_stance"],
         seeking_level=None if parsed["seeking_level"] == SEEKING_NONE else parsed["seeking_level"],
         evidence_quote=quote.strip() if isinstance(quote, str) and quote.strip() else None,
+        opportunity_type=parsed["opportunity_type"],
+        opportunity_reasoning=reasoning[:MAX_REASONING_CHARS] or None,
     )
     return result
 

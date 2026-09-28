@@ -2,24 +2,17 @@ import type {
   AnalysisJob,
   CollectionJob,
   CollectionJobRequest,
+  CollectionSource,
   CollectionSourcesResponse,
   PendingAnalysis,
   PipelineExplanation,
   Post,
   PostFilters,
+  OverviewResponse,
   PostListResponse,
-  ScoringVersion,
-  Summary,
+  SourceStatsResponse,
+  SourceUnit,
 } from './types'
-
-/**
- * Which scoring version the dashboard reads.
- *
- * v3 is the only scorer: semantic + problem severity + RCM specificity,
- * additive. The API still takes the version as a parameter so a future scorer
- * can be stored beside it and switched to here.
- */
-export const SCORING_VERSION: ScoringVersion = 'v3'
 
 /** FastAPI puts the reason in `detail` -- a string, or a list of validation errors. */
 async function errorMessage(res: Response, path: string): Promise<string> {
@@ -44,9 +37,9 @@ async function getJson<T>(path: string): Promise<T> {
   return res.json() as Promise<T>
 }
 
-async function postJson<T>(path: string, body: unknown = {}): Promise<T> {
+async function postJson<T>(path: string, body: unknown = {}, method = 'POST'): Promise<T> {
   const res = await fetch(path, {
-    method: 'POST',
+    method,
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
   })
@@ -56,7 +49,7 @@ async function postJson<T>(path: string, body: unknown = {}): Promise<T> {
   return res.json() as Promise<T>
 }
 
-function buildQuery(filters: Record<string, unknown>): string {
+export function buildQuery(filters: Record<string, unknown>): string {
   const params = new URLSearchParams()
   Object.entries(filters).forEach(([key, value]) => {
     if (value !== undefined && value !== null && value !== '') {
@@ -70,17 +63,17 @@ function buildQuery(filters: Record<string, unknown>): string {
 export const api = {
   listPosts: (filters: PostFilters) =>
     getJson<PostListResponse>(
-      `/api/posts${buildQuery({ version: SCORING_VERSION, ...filters })}`,
+      `/api/posts${buildQuery({ ...filters })}`,
     ),
   getPost: (source: string, sourceItemId: string) =>
-    getJson<Post>(
-      `/api/posts/${encodeURIComponent(source)}/${encodeURIComponent(sourceItemId)}` +
-        buildQuery({ version: SCORING_VERSION }),
-    ),
-  getSummary: () => getJson<Summary>(`/api/stats/summary${buildQuery({ version: SCORING_VERSION })}`),
-  explainPipeline: (source: string, sourceItemId: string) =>
+    getJson<Post>(`/api/posts/${encodeURIComponent(source)}/${encodeURIComponent(sourceItemId)}`),
+  getOverview: (bucket: 'day' | 'week' | 'month' = 'month') =>
+    getJson<OverviewResponse>(`/api/stats/overview${buildQuery({ bucket })}`),
+  /** Stored breakdown by default; live=true re-runs every stage (calls the LLM). */
+  explainPipeline: (source: string, sourceItemId: string, live = false) =>
     getJson<PipelineExplanation>(
-      `/api/pipeline/${encodeURIComponent(source)}/${encodeURIComponent(sourceItemId)}`,
+      `/api/pipeline/${encodeURIComponent(source)}/${encodeURIComponent(sourceItemId)}` +
+        buildQuery({ live: live || undefined }),
     ),
 
   getCollectionSources: () => getJson<CollectionSourcesResponse>('/api/collection/sources'),
@@ -90,6 +83,11 @@ export const api = {
   listCollectionJobs: (limit = 20) =>
     getJson<{ results: CollectionJob[] }>(`/api/collection/jobs${buildQuery({ limit })}`),
   retryCollection: (id: number) => postJson<CollectionJob>(`/api/collection/jobs/${id}/retry`),
+  getSourceStats: () => getJson<SourceStatsResponse>('/api/collection/source-stats'),
+  saveSourceUnits: (key: string, units: SourceUnit[]) =>
+    postJson<CollectionSource>(`/api/collection/sources/${encodeURIComponent(key)}/units`, { units }, 'PUT'),
+  resetSourceUnits: (key: string) =>
+    postJson<CollectionSource>(`/api/collection/sources/${encodeURIComponent(key)}/units`, undefined, 'DELETE'),
 
   getPendingAnalysis: () => getJson<PendingAnalysis>('/api/analysis/pending'),
   startAnalysis: (collectionJobId?: number) =>

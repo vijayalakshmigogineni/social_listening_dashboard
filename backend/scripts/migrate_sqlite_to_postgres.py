@@ -39,7 +39,9 @@ from sqlalchemy.engine import make_url  # noqa: E402
 from app.config import DATABASE_PATH, DATABASE_URL, IS_SQLITE  # noqa: E402
 from app.db import models  # noqa: E402,F401  (registers the tables)
 from app.db.base import Base, engine as target  # noqa: E402
-from app.schemas.analysis import ANALYSIS_VERSION_V3  # noqa: E402
+# The analysis version the SQLite archive holds (the one-time migration
+# predates the opportunity scorer); not the current ANALYSIS_VERSION.
+ANALYSIS_VERSION_V3 = "sld-analysis-v3"
 
 TABLE_ORDER = [
     "normalized_items",

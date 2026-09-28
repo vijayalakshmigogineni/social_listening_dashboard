@@ -26,6 +26,7 @@ from typing import Any
 from app.collectors import aapc, facebook, linkedin, reddit, x
 from app.collectors.common import parse_datetime
 from app.config import APIFY_TOKEN
+from app.services import source_settings
 
 MAX_POST_LIMIT = 200  # per source, per job -- bounds Apify spend from the UI
 
@@ -45,9 +46,9 @@ class UnitFetch:
 
 
 def post_time(record: dict[str, Any]) -> datetime | None:
-    """When the post was made. Reddit's normalizer does not read the
-    fatihtahta actor's `created_utc`, so its stored created_at is empty; fall
-    back to the raw field here (read-only -- the stored record is unchanged)."""
+    """When the post was made. Reddit rows collected before the normalizer
+    read the actor's `created_utc` have an empty created_at; fall back to the
+    raw field for those (read-only -- the stored record is unchanged)."""
     value = record.get("created_at")
     if value is None:
         value = parse_datetime((record.get("raw_data") or {}).get("created_utc"))
@@ -70,8 +71,26 @@ class SourceAdapter:
     posts_per_depth = 1.0
     cost_note = ""
 
-    def units(self) -> dict[str, Any]:
+    def default_units(self) -> dict[str, Any]:
+        """The collector's in-code list: {display name: value passed to it}."""
         raise NotImplementedError
+
+    def units(self) -> dict[str, Any]:
+        """The units a job collects: the Data Collection page's saved list
+        when there is one (app/services/source_settings.py), else the default."""
+        override = source_settings.OVERRIDES.get(self.key)
+        if override:
+            return source_settings.units_dict(self.key, override)
+        return self.default_units()
+
+    def unit_values(self) -> list[dict[str, str]]:
+        """units() as editable [{"name", "value"}] rows."""
+        override = source_settings.OVERRIDES.get(self.key)
+        if override:
+            return [dict(u) for u in override]
+        rule = source_settings.RULES[self.key]
+        return [{"name": (name if rule.named else str(value)), "value": str(value)}
+                for name, value in self.default_units().items()]
 
     def fetch_unit(self, name: str, arg: Any, depth: int, plan: FetchPlan) -> UnitFetch:
         raise NotImplementedError
@@ -129,6 +148,14 @@ class SourceAdapter:
             "unavailable_reason": reason,
             "unit_label": self.unit_label,
             "units": list(self.units()),
+            "unit_values": self.unit_values(),
+            "customized": bool(source_settings.OVERRIDES.get(self.key)),
+            "unit_rule": {
+                "value_label": source_settings.RULES[self.key].value_label,
+                "value_hint": source_settings.RULES[self.key].value_hint,
+                "named": source_settings.RULES[self.key].named,
+                "max_units": source_settings.MAX_UNITS,
+            },
             "sweep_depth_per_unit": self.sweep_depth,
             "cost_note": self.cost_note,
         }
@@ -139,7 +166,7 @@ class RedditAdapter(SourceAdapter):
     sweep_depth, max_depth = 30, 100
     cost_note = "Apify credits per post fetched"
 
-    def units(self):
+    def default_units(self):
         return {f"r/{s}": s for s in reddit.DEFAULT_SUBREDDITS}
 
     def fetch_unit(self, name, arg, depth, plan):
@@ -152,7 +179,7 @@ class LinkedInAdapter(SourceAdapter):
     sweep_depth, max_depth = 10, 50
     cost_note = "Apify credits per post fetched"
 
-    def units(self):
+    def default_units(self):
         return dict(linkedin.QUERY_FAMILIES)
 
     def fetch_unit(self, name, arg, depth, plan):
@@ -167,7 +194,7 @@ class AapcAdapter(SourceAdapter):
     posts_per_depth = 3.0
     cost_note = "Free (public forum pages); ~1.5 s per thread"
 
-    def units(self):
+    def default_units(self):
         return dict(aapc.DEFAULT_FORUMS)
 
     def fetch_unit(self, name, arg, depth, plan):
@@ -183,7 +210,7 @@ class FacebookAdapter(SourceAdapter):
     posts_per_depth = 0.7  # some returned rows are not usable posts
     cost_note = f"~$0.005 per post, capped at ${facebook.MAX_CHARGE_PER_RUN_USD:.2f} per group run"
 
-    def units(self):
+    def default_units(self):
         return dict(facebook.DEFAULT_GROUPS)
 
     def fetch_unit(self, name, arg, depth, plan):
@@ -199,7 +226,7 @@ class XAdapter(SourceAdapter):
     posts_per_depth = 0.7  # short posts and retweets are not collected
     cost_note = f"~$0.25 per 1K posts, capped at ${x.MAX_CHARGE_PER_RUN_USD:.2f} per account run"
 
-    def units(self):
+    def default_units(self):
         return {f"@{h}": h for h in x.DEFAULT_ACCOUNTS}
 
     def fetch_unit(self, name, arg, depth, plan):

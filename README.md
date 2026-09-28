@@ -3,8 +3,8 @@
 Prototype dashboard for the **Social Listening Dashboard (SLD)** at PainMed-PA.
 
 Collects posts from Reddit, LinkedIn, the AAPC forums, Facebook groups, X and
-YouTube comments, scores each one
-through a six-stage analysis pipeline, and serves the results to a React
+YouTube comments, scores each one for **ProbePS opportunity value**
+through a five-stage analysis pipeline, and serves the results to a React
 dashboard. The feasibility research this grew out of lives in
 [testing/](testing/) — start with [testing/SLD-ROADMAP.md](testing/SLD-ROADMAP.md)
 for scope and background.
@@ -17,9 +17,9 @@ for scope and background.
 
 | Part | What it is | Location |
 |---|---|---|
-| Backend | FastAPI + SQLAlchemy, SQLite store | [backend/](backend/) |
+| Backend | FastAPI + SQLAlchemy, PostgreSQL (Neon) via `DATABASE_URL`; local SQLite when unset | [backend/](backend/) |
 | Frontend | React 19 + TypeScript + Vite | [frontend/](frontend/) |
-| Analysis | Rules-first pipeline, zero-shot model for ambiguous cases | [backend/app/analysis/](backend/app/analysis/) |
+| Analysis | Rule gate + one LLM assessment per relevant post, 65/20/15 opportunity score | [backend/app/analysis/](backend/app/analysis/) |
 
 Requires Python 3.11 and Node 20+ (developed against Python 3.11.9 / Node 24).
 
@@ -50,19 +50,24 @@ Copy [.env.example](.env.example) to `.env` to start from a list of every
 supported variable.
 The collectors share the same token as the existing `testing/` scripts.
 
-The Step 4 LLM fallback (content stance and seeking level, used only when the
-zero-shot model is unsure) is chosen with `LLM_PROVIDER`:
+`DATABASE_URL` selects the database (production: the Neon PostgreSQL URL).
+Leave it unset to work offline against the local SQLite file; tests always use
+their own in-memory SQLite. `REPORT_TZ` (IANA name, default `UTC`) sets where
+"today" starts for the Overview's New Today KPI.
+
+The LLM (Step 1 for ambiguous relevance, Step 2 for the semantic problem and
+ProbePS opportunity assessment) is chosen with `LLM_PROVIDER`:
 
 | `LLM_PROVIDER` | What runs | Needs |
 |---|---|---|
 | `ollama` (default) | Local Ollama, fully offline | `ollama pull llama3.1`; optional `OLLAMA_HOST`, `OLLAMA_MODEL` |
 | `bedrock` | Amazon Nova 2 Lite on Bedrock | `AWS_BEARER_TOKEN_BEDROCK`, `AWS_REGION`, `BEDROCK_MODEL_ID` |
-| `none` | Fallback off; Step 4 keeps the zero-shot result | — |
+| `none` | LLM off; the rule + zero-shot fallback classifies (opportunity fields score 0) | — |
 
 Only the selected provider is loaded, so an Ollama run never imports boto3 or
 contacts AWS. For Bedrock, use the `us.` model-ID prefix from a US region and
 `global.amazon.nova-2-lite-v1:0` from anywhere else; post text is sent to AWS
-when that fallback runs.
+for every RCM-relevant post.
 
 ## Starting the application
 
@@ -139,14 +144,6 @@ Collectors only store raw normalized posts — nothing is scored until
 | | `--max-comments-per-video` | 50 | Worst case ≈ videos × comments (~$0.002/comment) |
 | | `--families` | all | Subset of `QUERY_FAMILIES` in [youtube.py](backend/app/collectors/youtube.py) |
 
-### Evaluation runs
-
-`scripts/run_experiment.py` re-normalizes the 167 gold posts plus the stored
-Facebook posts from raw data, runs every stage fresh with `LLM_PROVIDER=ollama`,
-stores rows under `exp187-20260924-v1/-v2` (production rows untouched), and
-writes `backend/data/experiments/<id>/report.md`. Add `--report-only` to
-rebuild the report without re-running.
-
 The per-unit flags are not total caps — they scale Apify spend faster than they
 look. Start small.
 
@@ -156,10 +153,46 @@ ones inserted. Each run prints an
 `{'inserted': N, 'updated': N, 'skipped': N}` summary.
 
 `run_pipeline.py` skips items already scored under the current
-`ANALYSIS_VERSION`, so re-running is cheap. Useful flags:
+`ANALYSIS_VERSION`, so re-running is cheap. It commits post by post and skips
+(and lists) posts that fail. Useful flags:
 
 - `--source reddit` — analyze one source only
-- `--force` — re-score everything, for when analysis logic has changed
+- `--force` — re-analyze everything, for when the prompt or stages changed
+- `--item-id reddit:abc123` — (re-)analyze one post; repeatable
+- `--limit 30` — pilot batch before a full run
+
+## Scoring: ProbePS opportunity score
+
+Every RCM-relevant post gets one LLM assessment (problem evidence, first
+person, seeking level, business impact, recurrence, ProbePS fit, opportunity
+type, a short reasoning line). The score is three 0–100 components with fixed
+weights ([scoring_opportunity.py](backend/app/analysis/scoring_opportunity.py)):
+
+| Component | Weight | From |
+|---|---|---|
+| LLM opportunity assessment | 65% | Step 2 LLM fields × their confidences |
+| RCM relevance | 20% | Step 1 confidence + primary problem-category severity |
+| Step 3 payer / procedure | 15% | Deterministic taxonomy specificity |
+
+No multipliers or bonuses; two caps only (LLM score ≤ 30 for
+`informational_only` / `not_an_opportunity`; final ≤ 30 without problem
+evidence). An **opportunity** is a post with problem evidence and a score ≥
+`OPPORTUNITY_THRESHOLD` (40, provisional). The Overview KPIs and the All
+Signals `opportunity` filter share that one definition
+([backend/app/api/opportunity.py](backend/app/api/opportunity.py)).
+
+The LLM output is stored in `score_breakdown.llm_assessment`, so weight or
+point changes never need the LLM again:
+
+```powershell
+..\.venv\Scripts\python.exe scripts\rescore.py --dry-run                           # distribution + top list
+..\.venv\Scripts\python.exe scripts\rescore.py --dry-run --compare sld-analysis-v3 # movers vs old scores
+..\.venv\Scripts\python.exe scripts\rescore.py                                     # write
+```
+
+Bump `SCORING_VERSION` in [schemas/analysis.py](backend/app/schemas/analysis.py)
+when weights change, and `ANALYSIS_VERSION` when the prompt or stages change
+(the latter needs a full `run_pipeline.py` run).
 
 ## Everyday loop
 
@@ -190,9 +223,9 @@ Run pipeline :
 python run_pipeline.py
 
 When you want fresh data: collect → `run_pipeline.py` → refresh the browser,
-or use the **Data Collection** tab (below). The `/api/pipeline/{source}/{id}` endpoint is debug-only — it re-runs
-the stage-by-stage explanation for one existing post to power the
-Pipeline/Debug tab.
+or use the **Data Collection** tab (below). The `/api/pipeline/{source}/{id}` endpoint is debug-only — it returns
+the stored scoring breakdown for one post (`?live=true` re-runs every stage,
+calling the LLM) to power the Pipeline/Debug tab.
 
 ### Data Collection tab
 
@@ -247,4 +280,5 @@ only matters if you bypass the proxy and call the API directly from the browser.
 `ModuleNotFoundError: No module named 'app'`.
 
 **Schema changes** need `python scripts\init_db.py` re-run; it only creates
-missing tables, so drop `backend/data/sld 1.db` for a clean rebuild.
+missing tables (there is no Alembic yet), so changing an existing column needs
+a manual migration on PostgreSQL.

@@ -29,6 +29,10 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1")
 AWS_REGION = os.getenv("AWS_REGION", "eu-north-1")
 BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "")
 
+# IANA time zone the Overview reports in: where "today" starts for the New
+# Today KPI and how the Opportunities Over Time buckets are cut.
+REPORT_TZ = os.getenv("REPORT_TZ", "UTC").strip() or "UTC"
+
 DATA_DIR = BACKEND_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
 # Database: DATABASE_URL (repo-root .env) selects PostgreSQL -- the production
