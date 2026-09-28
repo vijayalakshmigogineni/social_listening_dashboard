@@ -10,8 +10,8 @@ This module defines:
   - the enums/allowed-value sets the spec fixes (problem categories,
     speaker types, stance, seeking level)
 
-Steps are never re-derived by later stages: Step 6/7 scoring reads the
-structured fields Steps 1-5 already produced and must not re-classify text.
+Steps are never re-derived by later stages: v3 scoring reads the structured
+fields the analysis stages already produced and never re-classifies text.
 """
 
 from __future__ import annotations
@@ -21,18 +21,9 @@ from typing import Any, Literal, Optional
 
 from pydantic import BaseModel, ConfigDict
 
-ANALYSIS_VERSION = "sld-analysis-v1"
-SCORING_VERSION = "sld-score-v1"
-
-# v2 scoring is stored as its own row rather than replacing v1, so the two can
-# be diffed per post. The unique key is (source_item_id, analysis_version) --
-# scoring_version is NOT part of it -- so a second scorer needs its own
-# analysis_version even though Steps 1-5 are identical for both.
-ANALYSIS_VERSION_V2 = "sld-analysis-v2"
-SCORING_VERSION_V2 = "sld-score-v2"
-
-# v3 (Experiment 2): same pattern -- its own analysis_version so a third row
-# per post can sit beside v1/v2 and be compared on the same analysis pass.
+# v3 is the only scorer (v1 and v2 were retired after Experiment 2). The
+# unique key is (source_item_id, analysis_version), so a future scorer can
+# still be stored as its own row beside v3 under a new analysis_version.
 ANALYSIS_VERSION_V3 = "sld-analysis-v3"
 SCORING_VERSION_V3 = "sld-score-v3"
 
@@ -135,11 +126,10 @@ class Step2Semantic(BaseModel):
 
     Classifies the CURRENT post only; a parent post is context, never the
     source of evidence_quote. The adapters below project it back onto the
-    Step2ProblemEvidence / Step4Context shapes that Step 5, v1/v2 scoring and
-    the persisted row already consume, so nothing downstream changes.
-
-    problem_current / problem_recurring / operational_impact are trace-only:
-    scoring keeps reading its own lexicon markers for those.
+    Step2ProblemEvidence / Step4Context shapes that Step 5 and the persisted
+    row consume. v3 scoring reads this model directly (problem_evidence,
+    first_person, seeking_level, operational_impact and problem_recurring,
+    with their confidences); problem_current is an analysis field only.
     """
 
     problem_evidence: bool
@@ -199,47 +189,6 @@ class Step5Evidence(BaseModel):
     seeking_confidence: Optional[float] = None
 
 
-class ScoreBreakdown(BaseModel):
-    """Step 6/7 scoring, fully explainable -- never store only final_score."""
-
-    problem_strength: float
-    market_relevance: float
-    intent_strength: float
-    specificity: float
-    severity: float
-    base_score: float
-    confidence: float
-    recency_factor: float
-    final_score: float
-
-
-class ScoreBreakdownV2(BaseModel):
-    """Step 6/7 scoring, v2 -- additive components, then multiplicative factors.
-
-    Every factor is stored even when it is 1.0, so a score can be reconstructed
-    from the row without re-running the scorer. `signals` lists which detectors
-    fired, which is the evidence trail for a given score.
-    """
-
-    # Additive
-    problem_strength: float
-    identity: float
-    specificity: float
-    intent_strength: float
-    interaction_bonus: float
-    base_score: float
-
-    # Multiplicative -- 1.0 means "did not apply"
-    relevance_factor: float
-    domain_factor: float
-    commentary_factor: float
-    noise_factor: float
-    offdomain_factor: float
-
-    final_score: float
-    signals: list[str] = []
-
-
 class ScoreBreakdownV3(BaseModel):
     """Step 6/7 scoring, v3 -- three additive components, no multipliers.
 
@@ -281,8 +230,8 @@ class AnalysisResult(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     source_item_id: str
-    analysis_version: str = ANALYSIS_VERSION
-    scoring_version: str = SCORING_VERSION
+    analysis_version: str = ANALYSIS_VERSION_V3
+    scoring_version: str = SCORING_VERSION_V3
 
     # Step 1
     rcm_relevant: bool
@@ -311,7 +260,7 @@ class AnalysisResult(BaseModel):
     evidence_quote: str
     confidence: float
 
-    # Step 6/7
+    # Scoring (v3)
     score_breakdown: dict[str, Any]
     final_score: float
 

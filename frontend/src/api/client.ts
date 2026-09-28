@@ -15,11 +15,9 @@ import type {
 /**
  * Which scoring version the dashboard reads.
  *
- * v1, v2 and v3 rows are stored for every post, so this is a read-time choice
- * -- flipping it re-ranks the entire dashboard with no re-analysis. v3 is the
- * Experiment 2 additive scorer (semantic + problem severity + RCM
- * specificity); v2 (fitted on the 167-post gold set) and v1 are kept for
- * comparison.
+ * v3 is the only scorer: semantic + problem severity + RCM specificity,
+ * additive. The API still takes the version as a parameter so a future scorer
+ * can be stored beside it and switched to here.
  */
 export const SCORING_VERSION: ScoringVersion = 'v3'
 

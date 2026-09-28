@@ -3,27 +3,20 @@ Batch runner around the pipeline: which items still need analysis, and how one
 item's results are written to analysis_results. Shared by scripts/run_pipeline.py
 and the dashboard's analysis job so both select and store rows identically.
 
-Each item produces one row per scoring version -- v1, v2 and v3 -- from a
-single pass over the analysis stages. Replies get their parent post's text as
-context. The rows coexist because the unique key is
-(source_item_id, analysis_version).
+Each item produces one v3 row (unique key: source_item_id + analysis_version).
+Replies get their parent post's text as context.
 """
 
 from __future__ import annotations
 
 from sqlalchemy.orm import Session
 
-from app.analysis.pipeline import StageCallback, build_text, run_pipeline_all_versions
+from app.analysis.pipeline import StageCallback, build_text, run_pipeline
 from app.db.models import AnalysisResult as AnalysisResultRow
 from app.db.models import NormalizedItem
-from app.schemas.analysis import (
-    ANALYSIS_VERSION,
-    ANALYSIS_VERSION_V2,
-    ANALYSIS_VERSION_V3,
-    AnalysisResult,
-)
+from app.schemas.analysis import ANALYSIS_VERSION_V3, AnalysisResult
 
-ALL_VERSIONS = (ANALYSIS_VERSION, ANALYSIS_VERSION_V2, ANALYSIS_VERSION_V3)
+ALL_VERSIONS = (ANALYSIS_VERSION_V3,)
 
 
 def select_items(
@@ -31,8 +24,8 @@ def select_items(
 ) -> tuple[list[NormalizedItem], int]:
     """(items to analyze, number skipped as already analyzed).
 
-    An item counts as done only once every version has a row, so adding a new
-    scoring version backfills it without --force.
+    An item counts as done once every version in ALL_VERSIONS has a row, so
+    adding a new scoring version later backfills it without --force.
     """
     query = db.query(NormalizedItem)
     if source:
@@ -73,35 +66,27 @@ def resolve_parent_text(db: Session, source: str, parent_id: str | None) -> str 
 
 def analyze_item(
     db: Session, item: NormalizedItem, on_stage: StageCallback = None
-) -> list[AnalysisResult]:
-    """Run the pipeline for one item and add/update its rows. Does not commit."""
-    matched_keywords = (item.source_metadata or {}).get("matched_rcm_keywords")
-    results = run_pipeline_all_versions(
+) -> AnalysisResult:
+    """Run the pipeline for one item and add/update its row. Does not commit."""
+    result = run_pipeline(
         source_item_id=item.source_item_id,
         title=item.title,
         text=item.text,
         created_at=item.created_at,
-        matched_keywords=matched_keywords,
+        matched_keywords=(item.source_metadata or {}).get("matched_rcm_keywords"),
         on_stage=on_stage,
         parent_text=resolve_parent_text(db, item.source, item.parent_id),
         source=item.source,
     )
-
-    for result in results:
-        # Look up by the result's OWN version, not a module constant --
-        # otherwise a second version is checked against the first's row.
-        existing = (
-            db.query(AnalysisResultRow)
-            .filter_by(
-                source_item_id=result.source_item_id,
-                analysis_version=result.analysis_version,
-            )
-            .one_or_none()
-        )
-        payload = result.model_dump(exclude={"created_at", "updated_at"})
-        if existing is None:
-            db.add(AnalysisResultRow(**payload))
-        else:
-            for field, value in payload.items():
-                setattr(existing, field, value)
-    return results
+    existing = (
+        db.query(AnalysisResultRow)
+        .filter_by(source_item_id=result.source_item_id, analysis_version=result.analysis_version)
+        .one_or_none()
+    )
+    payload = result.model_dump(exclude={"created_at", "updated_at"})
+    if existing is None:
+        db.add(AnalysisResultRow(**payload))
+    else:
+        for field, value in payload.items():
+            setattr(existing, field, value)
+    return result

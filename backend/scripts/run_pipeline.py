@@ -3,12 +3,10 @@
 Usage:
     python scripts/run_pipeline.py [--source reddit] [--force]
 
-Each item produces one row per scoring version -- v1 and v2 -- from a single
-pass over Steps 1-5, which are the expensive part. The rows coexist because
-the unique key is (source_item_id, analysis_version).
+Each item produces one v3 row (unique key: source_item_id + analysis_version).
 
 --force re-runs and overwrites rows already analyzed (useful while
-iterating); by default items already analyzed under ALL versions are skipped.
+iterating); by default items that already have a v3 row are skipped.
 
 The selection and storage logic lives in app/analysis/runner.py, shared with
 the dashboard's Data Collection page.
@@ -36,12 +34,11 @@ def main():
 
         processed = 0
         for item in items:
-            results = analyze_item(db, item)
+            result = analyze_item(db, item)
             processed += 1
-            scores = "  ".join(f"{r.scoring_version}={r.final_score:.2f}" for r in results)
             print(
                 f"[{processed}] {item.source_item_id}: "
-                f"rcm_relevant={results[0].rcm_relevant} {scores}",
+                f"rcm_relevant={result.rcm_relevant} {result.scoring_version}={result.final_score:.2f}",
                 flush=True,
             )
 

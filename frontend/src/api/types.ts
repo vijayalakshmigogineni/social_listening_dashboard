@@ -1,33 +1,4 @@
-export interface ScoreBreakdownV1 {
-  problem_strength: number
-  market_relevance: number
-  intent_strength: number
-  specificity: number
-  severity: number
-  base_score: number
-  confidence: number
-  recency_factor: number
-  final_score: number
-}
-
-/** v2: additive components, then multiplicative factors (1.0 = did not apply). */
-export interface ScoreBreakdownV2 {
-  problem_strength: number
-  identity: number
-  specificity: number
-  intent_strength: number
-  interaction_bonus: number
-  base_score: number
-  relevance_factor: number
-  domain_factor: number
-  commentary_factor: number
-  noise_factor: number
-  offdomain_factor: number
-  final_score: number
-  signals: string[]
-}
-
-/** v3 (Experiment 2): three additive components, no multipliers. Semantic
+/** v3: three additive components, no multipliers. Semantic
  *  points are the Step 2 LLM signals x their confidence; a post without
  *  problem evidence is capped at 30. */
 export interface ScoreBreakdownV3 {
@@ -52,11 +23,7 @@ export interface ScoreBreakdownV3 {
   final_score: number
 }
 
-export type ScoreBreakdown = ScoreBreakdownV1 | ScoreBreakdownV2 | ScoreBreakdownV3
-
-export function isV2Breakdown(b: ScoreBreakdown): b is ScoreBreakdownV2 {
-  return 'relevance_factor' in b
-}
+export type ScoreBreakdown = ScoreBreakdownV3
 
 export function isV3Breakdown(b: ScoreBreakdown): b is ScoreBreakdownV3 {
   return 'semantic_score' in b
@@ -156,7 +123,7 @@ export interface PostFilters {
 
 /** Which stored scoring version the dashboard reads. Both are persisted per
  *  post, so switching this re-ranks the whole dashboard without re-analysing. */
-export type ScoringVersion = 'v1' | 'v2' | 'v3'
+export type ScoringVersion = 'v3'
 
 // --- Data Collection / Analysis jobs ---------------------------------------
 
@@ -264,7 +231,7 @@ export interface AnalysisJob {
   current_stage_number: number | null
   stages: string[]
   errors: string[]
-  scores: { v1?: number[]; v2?: number[]; v3?: number[] }
+  scores: { v3?: number[] }
   created_at: string
   started_at: string | null
   completed_at: string | null

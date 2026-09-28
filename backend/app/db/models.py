@@ -21,7 +21,6 @@ from sqlalchemy import (
     Boolean,
     DateTime,
     Float,
-    ForeignKey,
     Index,
     Integer,
     String,
@@ -88,9 +87,11 @@ class AnalysisResult(Base):
 
     id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)
 
-    source_item_id: Mapped[str] = mapped_column(
-        String, ForeignKey("normalized_items.source_item_id"), nullable=False
-    )
+    # No DB-level foreign key: normalized_items.source_item_id is unique only
+    # together with `source`, and PostgreSQL rejects an FK to a non-unique
+    # column (SQLite never enforced it). The relationships below declare the
+    # join explicitly, so nothing depends on the constraint.
+    source_item_id: Mapped[str] = mapped_column(String, nullable=False)
     analysis_version: Mapped[str] = mapped_column(String, nullable=False)
     scoring_version: Mapped[str] = mapped_column(String, nullable=False)
 

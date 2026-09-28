@@ -14,7 +14,7 @@ import pytest
 
 from app.analysis import llm_fallback, step1_relevance, step2_semantic
 from app.analysis import pipeline as pipeline_module
-from app.analysis.step6_scoring_v2 import score_record_v2
+from app.analysis.step6_scoring_v3 import SEEKING_POINTS
 from app.schemas.analysis import Step2ProblemEvidence, Step4Context
 
 CLEAR_TEXT = "We keep getting claim denials from Aetna for this procedure. Has anyone else seen this?"
@@ -45,14 +45,14 @@ def _semantic(**overrides) -> dict:
 
 def _run(text, relevance=None, semantic=None, parent_text=None, source="reddit", title=""):
     """Runs the traced pipeline with both LLM calls mocked; returns
-    (results, trace, relevance_mock, semantic_mock)."""
+    (v3 row, trace, relevance_mock, semantic_mock)."""
     with patch.object(step1_relevance, "classify_relevance_llm", return_value=relevance) as rel, \
          patch.object(step2_semantic, "analyze_semantics_llm", return_value=semantic) as sem:
-        results, trace = pipeline_module.run_pipeline_traced(
+        row, trace = pipeline_module.run_pipeline_traced(
             source_item_id="x1", title=title, text=text, created_at=None,
             parent_text=parent_text, source=source,
         )
-    return results, trace, rel, sem
+    return row, trace, rel, sem
 
 
 # ---------------------------------------------------------------------------
@@ -93,8 +93,7 @@ def test_zero_hit_not_relevant_stops_after_one_call():
     # No third status: it stays "ambiguous", resolved to not relevant.
     assert (s1["relevance_status"], s1["relevance_method"], s1["rcm_relevant"]) == ("ambiguous", "llm", False)
     assert trace["step2_semantic"] is None
-    v1, _, _ = results
-    assert v1.rcm_relevant is False and v1.final_score == 0.0
+    assert results.rcm_relevant is False and results.final_score == 0.0
 
 
 def test_relevance_llm_unavailable_falls_back_to_nli():
@@ -119,7 +118,7 @@ def test_empty_text_makes_no_call():
 def test_semantic_fields_reach_the_persisted_row():
     results, trace, _, _ = _run(CLEAR_TEXT, semantic=_semantic(speaker_type="practice_side",
                                                               seeking_level="L3"))
-    v1, v2, _ = results
+    v1 = results
     assert v1.problem_evidence is True and v1.first_person is True
     assert v1.speaker_type == "practice_side"
     assert v1.content_stance == "seeking"
@@ -132,7 +131,7 @@ def test_semantic_fields_reach_the_persisted_row():
 
 def test_supplying_forces_null_seeking_level():
     results, trace, _, _ = _run(CLEAR_TEXT, semantic=_semantic(content_stance="supplying", seeking_level="L1"))
-    assert results[0].seeking_level is None
+    assert results.seeking_level is None
     assert trace["step5_evidence_confidence"]["seeking_confidence"] is None
 
 
@@ -148,7 +147,7 @@ def test_semantic_llm_unavailable_uses_legacy_stages():
     p.assert_called_once()
     c.assert_called_once()
     assert trace["step2_semantic"]["semantic_source"] == "fallback"
-    assert results[0].seeking_level == "L0"
+    assert results.seeking_level == "L0"
 
 
 # ---------------------------------------------------------------------------
@@ -169,8 +168,8 @@ def test_reply_and_parent_are_sent_separately():
 
 def test_parent_sentence_is_rejected_as_evidence_quote():
     results, _, _, _ = _run(REPLY, semantic=_semantic(evidence_quote=PARENT), parent_text=PARENT)
-    assert results[0].evidence_quote != PARENT
-    assert results[0].evidence_quote in REPLY
+    assert results.evidence_quote != PARENT
+    assert results.evidence_quote in REPLY
 
 
 def test_embedded_forum_quote_is_stripped_and_used_as_context():
@@ -188,20 +187,19 @@ def test_quote_is_matched_whitespace_and_case_insensitively_to_exact_span():
 
 
 # ---------------------------------------------------------------------------
-# Scoring is unchanged and still receives seeking_level
+# v3 scoring receives the semantic seeking_level (and its confidence)
 # ---------------------------------------------------------------------------
 @pytest.mark.parametrize("level", ["L0", "L1", "L2", "L3"])
-def test_v2_receives_semantic_seeking_level(level):
-    results, _, _, _ = _run(CLEAR_TEXT, semantic=_semantic(seeking_level=level))
-    _, v2, _ = results
-    assert v2.final_score == score_record_v2(CLEAR_TEXT, level).final_score
-    assert v2.seeking_level == level
+def test_v3_receives_semantic_seeking_level(level):
+    row, _, _, _ = _run(CLEAR_TEXT, semantic=_semantic(seeking_level=level))
+    assert row.seeking_level == level
+    assert row.score_breakdown["seeking_points"] == pytest.approx(SEEKING_POINTS[level] * 0.89)
 
 
 def test_stage_numbers_match_stage_names():
     stages: list[int] = []
     with patch.object(step2_semantic, "analyze_semantics_llm", return_value=_semantic()):
-        pipeline_module.run_pipeline_all_versions(
+        pipeline_module.run_pipeline(
             source_item_id="x", title="", text=CLEAR_TEXT, created_at=None, on_stage=stages.append)
     assert stages == list(range(1, len(pipeline_module.STAGE_NAMES) + 1))
 

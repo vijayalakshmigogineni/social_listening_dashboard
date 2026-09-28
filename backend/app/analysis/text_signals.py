@@ -55,3 +55,17 @@ def is_first_person(text: str, text_lower: str) -> tuple[bool, list[str]]:
     if FIRST_PERSON_REGEX.search(text):
         hits.append("first_person_regex")
     return bool(hits), hits
+
+
+# Forum replies embed the full parent post ("X said: ... Click to expand...").
+# Stripping that block keeps a reply from being credited with the parent
+# author's problem (Step 2 classifies only what the current author wrote).
+QUOTE_BLOCK_RE = re.compile(r"^.*?said:\n.*?Click to expand\.\.\.\n?", re.S)
+
+
+def strip_quoted_parent(text: str | None) -> str:
+    t = text or ""
+    stripped = QUOTE_BLOCK_RE.sub("", t)
+    # A reply that is *only* a quote keeps its original text rather than
+    # becoming empty.
+    return stripped if stripped.strip() else t

@@ -16,7 +16,7 @@ from sqlalchemy.orm import Session
 
 from app.db.base import get_db
 from app.db.models import AnalysisResult, NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION, ANALYSIS_VERSION_V2, ANALYSIS_VERSION_V3
+from app.schemas.analysis import ANALYSIS_VERSION_V3
 
 router = APIRouter()
 
@@ -93,7 +93,8 @@ def _row_to_dict(item: NormalizedItem, analysis: AnalysisResult | None) -> dict[
     return base
 
 
-SCORING_VERSIONS = {"v1": ANALYSIS_VERSION, "v2": ANALYSIS_VERSION_V2, "v3": ANALYSIS_VERSION_V3}
+# Short names the UI passes -> stored analysis_version. v3 is the only scorer.
+SCORING_VERSIONS = {"v3": ANALYSIS_VERSION_V3}
 
 
 def resolve_version(version: str) -> str:
@@ -103,7 +104,7 @@ def resolve_version(version: str) -> str:
     return SCORING_VERSIONS[version]
 
 
-def _base_query(db: Session, analysis_version: str = ANALYSIS_VERSION):
+def _base_query(db: Session, analysis_version: str = ANALYSIS_VERSION_V3):
     return db.query(NormalizedItem, AnalysisResult).outerjoin(
         AnalysisResult,
         (AnalysisResult.source_item_id == NormalizedItem.source_item_id)
@@ -128,7 +129,7 @@ def list_posts(
     date_from: Optional[datetime] = Query(None),
     date_to: Optional[datetime] = Query(None),
     sort: str = Query("score_desc"),
-    version: str = Query("v1", description="Scoring version to read: v1 or v2"),
+    version: str = Query("v3", description="Scoring version to read (v3)"),
     page: int = Query(1, ge=1),
     page_size: int = Query(20, ge=1, le=100),
 ):
@@ -203,7 +204,7 @@ def get_post(
     source: str,
     source_item_id: str,
     db: Session = Depends(get_db),
-    version: str = Query("v1", description="Scoring version to read: v1 or v2"),
+    version: str = Query("v3", description="Scoring version to read (v3)"),
 ):
     item = (
         db.query(NormalizedItem)

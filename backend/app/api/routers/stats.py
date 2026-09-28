@@ -16,7 +16,7 @@ router = APIRouter()
 @router.get("/summary")
 def summary(
     db: Session = Depends(get_db),
-    version: str = Query("v1", description="Scoring version to read: v1 or v2"),
+    version: str = Query("v3", description="Scoring version to read (v3)"),
 ):
     analysis_version = resolve_version(version)
     total_posts = db.query(func.count(NormalizedItem.id)).scalar()

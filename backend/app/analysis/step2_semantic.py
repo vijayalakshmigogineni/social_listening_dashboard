@@ -10,7 +10,7 @@ operational problem, is it their own, who are they, and what do they want?
 
 Reply handling: the classified text is the CURRENT post only. Forum replies
 embed the parent as a quote block ("X said: ... Click to expand..."); that
-block is stripped from the current post (same regex v2 scoring uses) and, when
+block is stripped from the current post (text_signals.strip_quoted_parent) and, when
 the parent row itself was not resolved, reused as parent context. The parent
 is sent to the LLM as a separately labelled section and can never supply the
 evidence quote: the quote is accepted only if it occurs in the current post.
@@ -36,7 +36,7 @@ from app.analysis.step2_problem_evidence import (
     extract_evidence_candidate,
 )
 from app.analysis.step4_speaker_stance_seeking import classify_context
-from app.analysis.step6_scoring_v2 import QUOTE_BLOCK_RE, strip_quoted_parent
+from app.analysis.text_signals import QUOTE_BLOCK_RE, strip_quoted_parent
 from app.schemas.analysis import Step2Semantic
 
 _QUOTE_TRIM = " \t\r\n\"'“”‘’.…"

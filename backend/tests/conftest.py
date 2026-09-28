@@ -8,7 +8,14 @@ test_llm_fallback.py, re-enable the client explicitly with a mocked transport.
 
 from __future__ import annotations
 
-from unittest.mock import patch
+import os
+
+# Tests never touch the production database (Neon): an empty DATABASE_URL
+# makes app.config fall back to SQLite, and load_dotenv never overrides a
+# variable that is already set. Must run before any `app` import.
+os.environ["DATABASE_URL"] = ""
+
+from unittest.mock import patch  # noqa: E402
 
 import pytest
 

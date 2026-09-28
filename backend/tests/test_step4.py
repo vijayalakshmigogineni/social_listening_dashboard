@@ -164,7 +164,7 @@ def test_seeking_level_null_when_stance_is_supplying():
 
 def test_seeking_level_can_be_non_null_when_stance_is_neutral():
     # Regression: seeking_level is not gated on content_stance == "seeking"
-    # (step6_scoring.py reads seeking_level unconditionally).
+    # (v3 scoring reads seeking_level unconditionally).
     stance = _nli_result("neutral", 0.9, 0.5)
     seeking = _nli_result("L0", 0.9, 0.5)
     with patch.object(step4, "run_zero_shot", fake_run_zero_shot_factory(stance, seeking)):

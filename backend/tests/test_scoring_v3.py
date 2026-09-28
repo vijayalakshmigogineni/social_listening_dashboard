@@ -151,7 +151,7 @@ def test_missing_confidence_contributes_zero():
     assert bd.first_person_points == 0.0 and bd.operational_impact_points == 0.0
 
 
-def test_pipeline_emits_a_v3_row_beside_v1_v2():
+def test_pipeline_emits_one_v3_row():
     llm = {
         "problem_evidence": True, "problem_current": True, "problem_recurring": True,
         "first_person": True, "operational_impact": True,
@@ -162,13 +162,11 @@ def test_pipeline_emits_a_v3_row_beside_v1_v2():
         "stance_confidence": 0.9, "seeking_confidence": 0.9,
     }
     with patch.object(step2_semantic, "analyze_semantics_llm", return_value=llm):
-        rows = pipeline_module.run_pipeline_all_versions(
+        v3 = pipeline_module.run_pipeline(
             source_item_id="p1", title="", text="We keep getting claim denials from Aetna. Any advice?",
             created_at=None)
-    assert [r.analysis_version for r in rows][2] == ANALYSIS_VERSION_V3
-    v3 = rows[2]
+    assert v3.analysis_version == ANALYSIS_VERSION_V3
     assert v3.scoring_version == SCORING_VERSION_V3
     assert v3.final_score == v3.score_breakdown["final_score"]
     assert {"semantic_score", "problem_severity", "rcm_specificity", "base_score"} <= set(v3.score_breakdown)
-    # analysis fields identical across versions: one pass, three scores
-    assert rows[0].seeking_level == rows[1].seeking_level == v3.seeking_level == "L2"
+    assert v3.seeking_level == "L2"

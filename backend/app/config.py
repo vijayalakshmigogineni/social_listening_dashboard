@@ -31,6 +31,25 @@ BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "")
 
 DATA_DIR = BACKEND_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
-# The production database file is "sld 1.db" (the space is part of the name).
+# Database: DATABASE_URL (repo-root .env) selects PostgreSQL -- the production
+# database is Neon. When it is unset/empty, the local SQLite file is used
+# (offline work; tests use their own in-memory SQLite engines).
+# DATABASE_PATH is that SQLite file ("sld 1.db"; the space is part of the name)
+# and is also the source for scripts/migrate_sqlite_to_postgres.py.
 DATABASE_PATH = DATA_DIR / "sld 1.db"
-DATABASE_URL = f"sqlite:///{DATABASE_PATH.as_posix()}"
+
+
+def _database_url() -> str:
+    url = (os.getenv("DATABASE_URL") or "").strip()
+    if not url:
+        return f"sqlite:///{DATABASE_PATH.as_posix()}"
+    # Neon hands out postgresql:// (or postgres://) URLs; SQLAlchemy would pick
+    # psycopg2 for those, but the installed driver is psycopg 3.
+    for prefix in ("postgresql://", "postgres://"):
+        if url.startswith(prefix):
+            return "postgresql+psycopg://" + url[len(prefix):]
+    return url
+
+
+DATABASE_URL = _database_url()
+IS_SQLITE = DATABASE_URL.startswith("sqlite")

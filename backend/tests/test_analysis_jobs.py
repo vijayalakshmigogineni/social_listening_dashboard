@@ -35,7 +35,7 @@ def session_factory():
 
 
 def _fake_pipeline(fail_ids=()):
-    real = pipeline_module.run_pipeline_all_versions
+    real = pipeline_module.run_pipeline
 
     def fake(source_item_id, title, text, created_at, matched_keywords=None, on_stage=None, **kwargs):
         if source_item_id in fail_ids:
@@ -68,24 +68,24 @@ def _run(session_factory):
 
 
 def test_analysis_job_scores_pending_posts_and_skips_done(session_factory, monkeypatch):
-    monkeypatch.setattr(runner, "run_pipeline_all_versions", _fake_pipeline())
+    monkeypatch.setattr(runner, "run_pipeline", _fake_pipeline())
     _seed(session_factory, ["a", "b"])
 
     job = _run(session_factory)
     assert job["status"] == "completed"
     assert (job["total_posts"], job["processed_posts"], job["failed_posts"]) == (2, 2, 0)
-    assert len(job["scores"]["v1"]) == len(job["scores"]["v2"]) == len(job["scores"]["v3"]) == 2
+    assert len(job["scores"]["v3"]) == 2
 
     db = session_factory()
-    assert db.query(models.AnalysisResult).count() == 6  # v1 + v2 + v3 per post
+    assert db.query(models.AnalysisResult).count() == 2  # one v3 row per post
     db.close()
 
     again = _run(session_factory)
-    assert again["total_posts"] == 0  # already analyzed under both versions
+    assert again["total_posts"] == 0  # already analyzed
 
 
 def test_analysis_job_records_failed_posts_and_continues(session_factory, monkeypatch):
-    monkeypatch.setattr(runner, "run_pipeline_all_versions", _fake_pipeline(fail_ids={"b"}))
+    monkeypatch.setattr(runner, "run_pipeline", _fake_pipeline(fail_ids={"b"}))
     _seed(session_factory, ["a", "b", "c"])
 
     job = _run(session_factory)
@@ -103,12 +103,11 @@ def test_stage_hook_reports_stages_without_changing_results(monkeypatch):
                         lambda *a, **k: {"relevant": False, "confidence": 0.9})
     stages: list[int] = []
     kwargs = dict(source_item_id="s1", title="", text="I love hiking on weekends.", created_at=None)
-    with_hook = pipeline_module.run_pipeline_all_versions(**kwargs, on_stage=stages.append)
-    without = pipeline_module.run_pipeline_all_versions(**kwargs)
+    with_hook = pipeline_module.run_pipeline(**kwargs, on_stage=stages.append)
+    without = pipeline_module.run_pipeline(**kwargs)
     assert stages == [1, 4, 5]  # non-relevant short-circuit skips Steps 2-3
-    assert [r.model_dump(exclude={"created_at", "updated_at"}) for r in with_hook] == [
-        r.model_dump(exclude={"created_at", "updated_at"}) for r in without
-    ]
+    assert with_hook.model_dump(exclude={"created_at", "updated_at"}) == without.model_dump(
+        exclude={"created_at", "updated_at"})
 
 
 # --- API -------------------------------------------------------------------

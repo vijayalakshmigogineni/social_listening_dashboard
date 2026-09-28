@@ -32,7 +32,7 @@ from app.collectors.x import (  # noqa: E402
     collect_account,
     select_posts,
 )
-from app.config import DATA_DIR  # noqa: E402
+from app.config import DATA_DIR, DATABASE_PATH, IS_SQLITE  # noqa: E402
 from app.db.base import SessionLocal  # noqa: E402
 from app.db.models import NormalizedItem  # noqa: E402
 
@@ -83,10 +83,12 @@ def main():
             print(f"[x] WARNING: only {len(records)} collectable posts (wanted {args.limit}); not padding.")
 
         if args.store:
-            db_path = DATA_DIR / "sld.db"
-            backup = db_path.with_name(f"sld.db.bak-before-x-{datetime.now():%Y%m%d%H%M%S}")
-            shutil.copy2(db_path, backup)
-            print(f"[x] DB backed up to {backup.name}")
+            if IS_SQLITE:
+                backup = DATABASE_PATH.with_name(f"sld.db.bak-before-x-{datetime.now():%Y%m%d%H%M%S}")
+                shutil.copy2(DATABASE_PATH, backup)
+                print(f"[x] DB backed up to {backup.name}")
+            else:
+                print("[x] PostgreSQL target: no file backup -- use a Neon branch or pg_dump first if needed")
             print(f"[x] upsert: {upsert_normalized_items(db, records)}")
     finally:
         db.close()
