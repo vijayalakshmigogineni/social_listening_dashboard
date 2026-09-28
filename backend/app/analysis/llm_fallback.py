@@ -69,7 +69,7 @@ else:
 OLLAMA_TIMEOUT_S = 120  # first call after Ollama starts pays a one-time model-load cost
 BEDROCK_TIMEOUT_S = 60
 MAX_OUTPUT_TOKENS = 200
-SEMANTIC_MAX_OUTPUT_TOKENS = 400
+SEMANTIC_MAX_OUTPUT_TOKENS = 800  # long evidence quotes truncated the JSON at 400
 TOOL_NAME = "record_classification"
 
 # Ollama's default context (2048 tokens) is too small for a long post plus a
@@ -387,34 +387,57 @@ SEMANTIC_SYSTEM_PROMPT = (
     "The parent post, if any, is context for understanding a reply -- never attribute "
     "the parent's problem, experience or intent to the current author unless the "
     "current post itself says it applies to them (e.g. 'same here', 'we have this too').\n\n"
+    "The downstream use of these classifications is to identify genuine RCM "
+    "operational problems and potential service opportunities for an RCM services "
+    "provider. Classify the evidence objectively. Do not increase a classification "
+    "merely because a post sounds commercially interesting. Do not infer a problem, "
+    "intent, speaker type, or experience from topic or terminology alone. You do not "
+    "score posts; you only classify what the current post says.\n\n"
     "Fields:\n"
-    "- problem_evidence: the current post describes or clearly refers to a real "
-    "operational problem (denials, authorization, reimbursement or payment delays, "
-    "documentation / medical necessity, claim processing, payer policy, billing "
-    "workflow). False for education, definitions, vendor promotion, recruiting, "
-    "generic industry news/discussion or purely informational content.\n"
+    "- problem_evidence: true ONLY when the CURRENT POST itself provides evidence of a "
+    "real operational RCM problem or a concrete operational difficulty being "
+    "experienced or directly reported -- e.g. denials, authorization problems, "
+    "reimbursement/payment delays, documentation or medical-necessity problems, "
+    "claim-processing problems, payer-policy problems, billing workflow problems, or "
+    "concrete operational difficulties affecting an organization. The post does not "
+    "need to be first-person, but it must contain concrete evidence of an actual "
+    "operational problem. Do NOT set it true merely because: the post contains an RCM "
+    "keyword; the author asks a generic educational question or what a term means; "
+    "the author defines or explains an RCM concept; the author says they have heard "
+    "about a problem (e.g. 'I keep hearing that practices are struggling with Aetna "
+    "denials' is problem_evidence=false and first_person=false unless the post adds "
+    "concrete evidence that the author is directly reporting an actual problem); the "
+    "author discusses a general industry trend or what other practices generally "
+    "experience; the content is news, commentary or purely informational; the author "
+    "is promoting a service or recruiting. Be conservative: if the evidence is not "
+    "sufficient, set it false.\n"
     "- problem_current: the problem is happening now, not historical or hypothetical.\n"
     "- problem_recurring: the problem is repeated or ongoing, not a one-off.\n"
     "- first_person: the author describes their OWN (or their organization's) "
     "experience ('we keep getting denials'). False for third-party or general "
-    "statements ('many practices get denials'). Discussing a problem is not enough.\n"
+    "statements ('many practices get denials') and for things the author has only "
+    "heard about. Discussing a problem is not enough.\n"
     "- operational_impact: the post states an effect on operations, cash flow, "
     "workload or patient access.\n"
     "- speaker_type: vendor (selling or promoting a product/service), payer_side "
     "(works for an insurer/payer), practice_side (provider, biller, coder or staff at "
     "a practice/facility), patient, educator_media (teaching, news, commentary), "
     "unknown (not enough evidence -- do not infer from topic alone).\n"
-    "- content_stance: seeking (asks for help/information/solution), supplying "
-    "(gives information/advice/solution), neutral (describes without asking or "
-    "offering), mixed (both asks and offers).\n"
-    "- seeking_level: L0 = describing/venting with no explicit request; L1 = asking "
-    "for help, information or advice; L2 = looking for a better way, workaround or "
-    "process fix; L3 = looking for a vendor, service or external solution; "
-    '"none" when the author is only supplying information.\n'
+    "- content_stance: the author's communication intent. seeking (asks for help, "
+    "information, advice or a solution), supplying (provides information, advice or a "
+    "solution), neutral (describes a situation without asking for or offering help), "
+    "mixed (both asks for help and provides information/advice). A generic educational "
+    "question is still just 'seeking'; it is not by itself evidence of a problem.\n"
+    "- seeking_level: L0 = describing a problem or venting with no explicit request; "
+    "L1 = asking for help, information or advice; L2 = looking for a solution, "
+    "workaround or better way to solve the problem; L3 = actively looking for a "
+    'vendor, service, provider or external solution; "none" when the author is only '
+    "supplying information.\n"
     "- evidence_quote: one short, exact, verbatim excerpt (at most two sentences) "
     "copied from the CURRENT POST that best supports the classification. Never "
     "quote the parent post.\n"
-    "- problem/speaker/stance/seeking_confidence: your certainty for that field, 0 to 1.\n\n"
+    "- problem/first_person/operational_impact/speaker/stance/seeking_confidence: "
+    "your certainty for that field, 0 to 1.\n\n"
     "Return only the JSON object. No reasoning or explanation."
 )
 
@@ -423,7 +446,8 @@ _BOOL_FIELDS = (
     "first_person", "operational_impact",
 )
 _CONFIDENCE_FIELDS = (
-    "problem_confidence", "speaker_confidence", "stance_confidence", "seeking_confidence",
+    "problem_confidence", "first_person_confidence", "operational_impact_confidence",
+    "speaker_confidence", "stance_confidence", "seeking_confidence",
 )
 
 SEMANTIC_SCHEMA = {

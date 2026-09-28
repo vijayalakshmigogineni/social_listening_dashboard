@@ -31,6 +31,11 @@ SCORING_VERSION = "sld-score-v1"
 ANALYSIS_VERSION_V2 = "sld-analysis-v2"
 SCORING_VERSION_V2 = "sld-score-v2"
 
+# v3 (Experiment 2): same pattern -- its own analysis_version so a third row
+# per post can sit beside v1/v2 and be compared on the same analysis pass.
+ANALYSIS_VERSION_V3 = "sld-analysis-v3"
+SCORING_VERSION_V3 = "sld-score-v3"
+
 # ---------------------------------------------------------------------------
 # Step 3 taxonomy -- fixed category set. Multi-label: a record can carry
 # several of these at once.
@@ -147,6 +152,10 @@ class Step2Semantic(BaseModel):
     seeking_level: Optional[SeekingLevel] = None
     evidence_quote: Optional[str] = None
     problem_confidence: float
+    # Read only by v3 scoring (confidence-weighted semantic contributions);
+    # None when the legacy fallback produced the record.
+    first_person_confidence: Optional[float] = None
+    operational_impact_confidence: Optional[float] = None
     speaker_confidence: Optional[float] = None
     stance_confidence: Optional[float] = None
     seeking_confidence: Optional[float] = None
@@ -229,6 +238,41 @@ class ScoreBreakdownV2(BaseModel):
 
     final_score: float
     signals: list[str] = []
+
+
+class ScoreBreakdownV3(BaseModel):
+    """Step 6/7 scoring, v3 -- three additive components, no multipliers.
+
+    final_score = semantic_score + problem_severity + rcm_specificity, capped
+    at SANITY_CAP when problem_evidence is false. Every contribution is stored
+    so a score can be read off the row without re-running anything.
+    """
+
+    # Semantic Score (0-50): confidence-weighted Step 2 signals only
+    problem_evidence_points: float
+    first_person_points: float
+    seeking_points: float
+    operational_impact_points: float
+    semantic_score: float
+
+    # Problem Severity (0-30 by spec; primary category only, so 0-10 in practice)
+    primary_problem_category: Optional[str] = None
+    primary_category_points: float
+    recurring_points: float
+    problem_severity: float
+
+    # RCM Specificity (0-20): each taxonomy signal counted once
+    category_points: float
+    payer_points: float
+    procedure_points: float
+    denial_reason_points: float
+    code_points: float
+    specialty_points: float
+    rcm_specificity: float
+
+    base_score: float
+    sanity_cap_applied: bool
+    final_score: float
 
 
 class AnalysisResult(BaseModel):

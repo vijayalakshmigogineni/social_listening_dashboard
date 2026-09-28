@@ -17,9 +17,10 @@ load_dotenv(REPO_ROOT / ".env")
 APIFY_TOKEN = os.getenv("APIFY_TOKEN")
 APIFY_TOKEN1 = os.getenv("APIFY_TOKEN1")
 
-# Step 4 LLM fallback provider: "ollama" (local, default), "bedrock", or
-# "none". Only the selected provider's client is ever loaded, so an Ollama
-# run never imports boto3 or contacts AWS.
+# LLM provider for Step 1 (ambiguous relevance) and Step 2 (semantic
+# analysis): "ollama" (local, default), "bedrock", or "none". Only the
+# selected provider's client is ever loaded, so an Ollama run never imports
+# boto3 or contacts AWS.
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "ollama").strip().lower()
 
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
@@ -30,4 +31,6 @@ BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "")
 
 DATA_DIR = BACKEND_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
-DATABASE_URL = f"sqlite:///{(DATA_DIR / 'sld.db').as_posix()}"
+# The production database file is "sld 1.db" (the space is part of the name).
+DATABASE_PATH = DATA_DIR / "sld 1.db"
+DATABASE_URL = f"sqlite:///{DATABASE_PATH.as_posix()}"

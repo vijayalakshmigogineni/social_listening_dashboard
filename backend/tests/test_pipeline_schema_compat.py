@@ -20,7 +20,8 @@ SEMANTIC_L2 = {
     "first_person": True, "operational_impact": True,
     "speaker_type": "practice_side", "content_stance": "seeking", "seeking_level": "L2",
     "evidence_quote": "Is there a better way to manage our prior auth denials?",
-    "problem_confidence": 0.9, "speaker_confidence": 0.8,
+    "problem_confidence": 0.9, "first_person_confidence": 0.9,
+    "operational_impact_confidence": 0.8, "speaker_confidence": 0.8,
     "stance_confidence": 0.9, "seeking_confidence": 0.85,
 }
 

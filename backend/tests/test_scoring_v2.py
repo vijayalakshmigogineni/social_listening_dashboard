@@ -40,8 +40,10 @@ from app.db.models import AnalysisResult as AnalysisResultRow
 from app.schemas.analysis import (
     ANALYSIS_VERSION,
     ANALYSIS_VERSION_V2,
+    ANALYSIS_VERSION_V3,
     SCORING_VERSION,
     SCORING_VERSION_V2,
+    SCORING_VERSION_V3,
 )
 from tests.test_step4 import _nli_result, fake_run_zero_shot_factory
 
@@ -204,12 +206,13 @@ def test_run_pipeline_all_versions_emits_two_distinct_rows():
             text=STRONG_POST, created_at=None,
         )
 
-    assert [r.analysis_version for r in results] == [ANALYSIS_VERSION, ANALYSIS_VERSION_V2]
-    assert [r.scoring_version for r in results] == [SCORING_VERSION, SCORING_VERSION_V2]
+    # v3 (Experiment 2) is emitted third from the same pass; v1/v2 unchanged.
+    assert [r.analysis_version for r in results] == [ANALYSIS_VERSION, ANALYSIS_VERSION_V2, ANALYSIS_VERSION_V3]
+    assert [r.scoring_version for r in results] == [SCORING_VERSION, SCORING_VERSION_V2, SCORING_VERSION_V3]
 
     # Steps 1-5 are shared, so everything except the score must be identical --
     # that is what makes scoring twice off one NLI pass legitimate.
-    v1, v2 = results
+    v1, v2, _ = results
     assert v1.seeking_level == v2.seeking_level
     assert v1.speaker_type == v2.speaker_type
     assert v1.evidence_quote == v2.evidence_quote
@@ -232,7 +235,7 @@ def test_v2_scores_non_relevant_records_that_v1_zeroes(monkeypatch):
         source_item_id="reddit:xyz789", title="", text="I love hiking on weekends.",
         created_at=None,
     )
-    v1, v2 = results
+    v1, v2, _ = results
     assert v1.rcm_relevant is False
     assert v1.final_score == 0.0
     assert v2.seeking_level is None

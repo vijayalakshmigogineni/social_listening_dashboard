@@ -35,7 +35,8 @@ def _semantic(**overrides) -> dict:
         "first_person": True, "operational_impact": False,
         "speaker_type": "practice_side", "content_stance": "seeking", "seeking_level": "L1",
         "evidence_quote": "We keep getting claim denials from Aetna for this procedure.",
-        "problem_confidence": 0.94, "speaker_confidence": 0.9,
+        "problem_confidence": 0.94, "first_person_confidence": 0.9,
+        "operational_impact_confidence": 0.8, "speaker_confidence": 0.9,
         "stance_confidence": 0.95, "seeking_confidence": 0.89,
     }
     base.update(overrides)
@@ -92,7 +93,7 @@ def test_zero_hit_not_relevant_stops_after_one_call():
     # No third status: it stays "ambiguous", resolved to not relevant.
     assert (s1["relevance_status"], s1["relevance_method"], s1["rcm_relevant"]) == ("ambiguous", "llm", False)
     assert trace["step2_semantic"] is None
-    v1, _ = results
+    v1, _, _ = results
     assert v1.rcm_relevant is False and v1.final_score == 0.0
 
 
@@ -118,7 +119,7 @@ def test_empty_text_makes_no_call():
 def test_semantic_fields_reach_the_persisted_row():
     results, trace, _, _ = _run(CLEAR_TEXT, semantic=_semantic(speaker_type="practice_side",
                                                               seeking_level="L3"))
-    v1, v2 = results
+    v1, v2, _ = results
     assert v1.problem_evidence is True and v1.first_person is True
     assert v1.speaker_type == "practice_side"
     assert v1.content_stance == "seeking"
@@ -192,7 +193,7 @@ def test_quote_is_matched_whitespace_and_case_insensitively_to_exact_span():
 @pytest.mark.parametrize("level", ["L0", "L1", "L2", "L3"])
 def test_v2_receives_semantic_seeking_level(level):
     results, _, _, _ = _run(CLEAR_TEXT, semantic=_semantic(seeking_level=level))
-    _, v2 = results
+    _, v2, _ = results
     assert v2.final_score == score_record_v2(CLEAR_TEXT, level).final_score
     assert v2.seeking_level == level
 

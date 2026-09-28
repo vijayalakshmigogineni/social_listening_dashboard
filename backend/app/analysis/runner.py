@@ -3,8 +3,9 @@ Batch runner around the pipeline: which items still need analysis, and how one
 item's results are written to analysis_results. Shared by scripts/run_pipeline.py
 and the dashboard's analysis job so both select and store rows identically.
 
-Each item produces one row per scoring version -- v1 and v2 -- from a single
-pass over the analysis stages. Replies get their parent post's text as context. The rows coexist because the unique key is
+Each item produces one row per scoring version -- v1, v2 and v3 -- from a
+single pass over the analysis stages. Replies get their parent post's text as
+context. The rows coexist because the unique key is
 (source_item_id, analysis_version).
 """
 
@@ -15,9 +16,14 @@ from sqlalchemy.orm import Session
 from app.analysis.pipeline import StageCallback, build_text, run_pipeline_all_versions
 from app.db.models import AnalysisResult as AnalysisResultRow
 from app.db.models import NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION, ANALYSIS_VERSION_V2, AnalysisResult
+from app.schemas.analysis import (
+    ANALYSIS_VERSION,
+    ANALYSIS_VERSION_V2,
+    ANALYSIS_VERSION_V3,
+    AnalysisResult,
+)
 
-ALL_VERSIONS = (ANALYSIS_VERSION, ANALYSIS_VERSION_V2)
+ALL_VERSIONS = (ANALYSIS_VERSION, ANALYSIS_VERSION_V2, ANALYSIS_VERSION_V3)
 
 
 def select_items(

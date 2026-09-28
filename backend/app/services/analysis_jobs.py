@@ -2,7 +2,7 @@
 Analysis jobs: the dashboard's equivalent of `python scripts/run_pipeline.py`.
 
 Same item selection and row writes as the script (app/analysis/runner.py):
-posts not yet analyzed under every scoring version, v1 and v2 rows from one
+posts not yet analyzed under every scoring version, v1/v2/v3 rows from one
 pass. Two deliberate differences, both because this runs unattended behind a
 progress bar: each post is committed on its own, so progress survives a
 crash, and a post that raises is recorded as failed and skipped instead of
@@ -35,7 +35,7 @@ def create_job(db: Session, source: str | None = None, collection_job_id: int | 
         collection_job_id=collection_job_id,
         status="queued",
         errors=[],
-        scores={"v1": [], "v2": []},
+        scores={"v1": [], "v2": [], "v3": []},
     )
     db.add(job)
     db.commit()
@@ -59,7 +59,7 @@ def run_job(job_id: int, session_factory=SessionLocal) -> None:
 
         processed = failed = 0
         errors: list[str] = []
-        scores: dict[str, list[float]] = {"v1": [], "v2": []}
+        scores: dict[str, list[float]] = {"v1": [], "v2": [], "v3": []}
 
         def on_stage(number: int) -> None:
             live_stage[job_id] = (number, _stage_label(number))
@@ -77,8 +77,8 @@ def run_job(job_id: int, session_factory=SessionLocal) -> None:
             else:
                 processed += 1
                 for r in results:
-                    key = "v2" if r.scoring_version.endswith("v2") else "v1"
-                    scores[key].append(round(r.final_score, 2))
+                    key = r.scoring_version.rsplit("-", 1)[-1]  # "sld-score-v3" -> "v3"
+                    scores.setdefault(key, []).append(round(r.final_score, 2))
 
             job = db.get(AnalysisJob, job_id)
             job.processed_posts = processed

@@ -13,9 +13,9 @@ What it does, in order:
   1. Manifest  -- freezes the post list once (gold ids from
                   data/gold/sld_167_gold_labels.json + every source=facebook row)
                   into data/experiments/<id>/manifest.json. Later runs reuse it.
-  2. Preflight -- refuses to start unless LLM_PROVIDER=ollama and the Ollama
-                  model is pulled, so no run silently falls back to NLI-only or
-                  touches Bedrock.
+  2. Preflight -- refuses to start unless an LLM provider is enabled (and, for
+                  Ollama, the model is pulled), so no run silently falls back
+                  to the legacy stages.
   3. Per post  -- rebuilds the normalized record from raw_data with the source's
                   own collector normalize_post(), validates it against the
                   canonical schema, then runs every analysis stage + v1 + v2
@@ -88,10 +88,10 @@ def build_manifest(db, expected_facebook: int) -> list[dict]:
 def preflight() -> dict:
     info = {"provider": llm_fallback.PROVIDER, "model": llm_fallback.ACTIVE_MODEL,
             "host": llm_fallback.OLLAMA_HOST, "enabled": llm_fallback.LLM_FALLBACK_ENABLED}
-    if llm_fallback.PROVIDER != "ollama" or not llm_fallback.LLM_FALLBACK_ENABLED:
-        raise SystemExit(f"LLM provider must be ollama for this experiment, got {info}. "
-                         "Set LLM_PROVIDER=ollama.")
-    if not llm_fallback.ollama_model_available():
+    if not llm_fallback.LLM_FALLBACK_ENABLED:
+        raise SystemExit(f"No LLM provider is enabled, got {info}. "
+                         "Set LLM_PROVIDER=ollama or bedrock.")
+    if llm_fallback.PROVIDER == "ollama" and not llm_fallback.ollama_model_available():
         raise SystemExit(f"Ollama is not reachable at {llm_fallback.OLLAMA_HOST} or model "
                          f"'{llm_fallback.OLLAMA_MODEL}' is not pulled (ollama pull {llm_fallback.OLLAMA_MODEL}).")
     return info
@@ -136,7 +136,7 @@ def run(exp_id: str, out_dir: Path, expected_facebook: int) -> None:
         print(f"[exp] LLM: {llm_info}")
         llm_fallback.reset_call_stats()
 
-        v1_tag, v2_tag = f"{exp_id}-v1", f"{exp_id}-v2"
+        v1_tag, v2_tag, v3_tag = f"{exp_id}-v1", f"{exp_id}-v2", f"{exp_id}-v3"
         started = datetime.now(timezone.utc)
         lines = []
         for n, entry in enumerate(manifest, 1):
@@ -165,6 +165,7 @@ def run(exp_id: str, out_dir: Path, expected_facebook: int) -> None:
                     matched_keywords=(rec["source_metadata"] or {}).get("matched_rcm_keywords"),
                     analysis_version_v1=v1_tag,
                     analysis_version_v2=v2_tag,
+                    analysis_version_v3=v3_tag,
                     parent_text=resolve_parent_text(db, row.source, row.parent_id),
                     source=row.source,
                 )
@@ -180,7 +181,7 @@ def run(exp_id: str, out_dir: Path, expected_facebook: int) -> None:
                         for field, value in payload.items():
                             setattr(existing, field, value)
 
-                v1, v2 = results
+                v1, v2, v3 = results
                 s1 = trace["step1_rcm_relevance"]
                 s4 = trace["step4_context"]
                 rec_out.update({
@@ -193,8 +194,9 @@ def run(exp_id: str, out_dir: Path, expected_facebook: int) -> None:
                     "seeking_level": v1.seeking_level,
                     "stance_source": s4.get("stance_source"), "seeking_source": s4.get("seeking_source"),
                     "confidence": v1.confidence,
-                    "v1": v1.final_score, "v2": v2.final_score,
+                    "v1": v1.final_score, "v2": v2.final_score, "v3": v3.final_score,
                     "v1_breakdown": v1.score_breakdown, "v2_breakdown": v2.score_breakdown,
+                    "v3_breakdown": v3.score_breakdown,
                     "evidence_quote": v1.evidence_quote,
                     "trace": trace,
                 })
@@ -223,7 +225,7 @@ def run(exp_id: str, out_dir: Path, expected_facebook: int) -> None:
             for line in lines:
                 fh.write(json.dumps(line, default=str, ensure_ascii=False) + "\n")
         run_meta = {
-            "experiment_id": exp_id, "versions": [v1_tag, v2_tag],
+            "experiment_id": exp_id, "versions": [v1_tag, v2_tag, v3_tag],
             "started_at": started.isoformat(), "finished_at": finished.isoformat(),
             "llm": llm_info, "llm_call_stats": dict(llm_fallback.CALL_STATS),
             "llm_call_stats_by_kind": {k: dict(v) for k, v in llm_fallback.CALL_STATS_BY_KIND.items()},

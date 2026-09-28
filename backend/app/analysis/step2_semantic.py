@@ -81,6 +81,8 @@ def _from_llm(llm: dict, post_text: str) -> Step2Semantic:
         seeking_level=seeking_level,
         evidence_quote=quote,
         problem_confidence=llm["problem_confidence"],
+        first_person_confidence=llm["first_person_confidence"],
+        operational_impact_confidence=llm["operational_impact_confidence"],
         speaker_confidence=llm["speaker_confidence"],
         stance_confidence=llm["stance_confidence"],
         seeking_confidence=llm["seeking_confidence"] if seeking_level is not None else None,

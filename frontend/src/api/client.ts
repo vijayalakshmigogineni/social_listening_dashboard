@@ -15,11 +15,13 @@ import type {
 /**
  * Which scoring version the dashboard reads.
  *
- * Both v1 and v2 rows are stored for every post, so this is a read-time choice
- * -- flipping it re-ranks the entire dashboard with no re-analysis. v2 is the
- * model derived from the 167-post gold set; v1 is kept for comparison.
+ * v1, v2 and v3 rows are stored for every post, so this is a read-time choice
+ * -- flipping it re-ranks the entire dashboard with no re-analysis. v3 is the
+ * Experiment 2 additive scorer (semantic + problem severity + RCM
+ * specificity); v2 (fitted on the 167-post gold set) and v1 are kept for
+ * comparison.
  */
-export const SCORING_VERSION: ScoringVersion = 'v2'
+export const SCORING_VERSION: ScoringVersion = 'v3'
 
 /** FastAPI puts the reason in `detail` -- a string, or a list of validation errors. */
 async function errorMessage(res: Response, path: string): Promise<string> {

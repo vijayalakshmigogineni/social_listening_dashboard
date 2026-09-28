@@ -2,7 +2,8 @@
 
 Prototype dashboard for the **Social Listening Dashboard (SLD)** at PainMed-PA.
 
-Collects posts from Reddit, LinkedIn and the AAPC forums, scores each one
+Collects posts from Reddit, LinkedIn, the AAPC forums, Facebook groups, X and
+YouTube comments, scores each one
 through a six-stage analysis pipeline, and serves the results to a React
 dashboard. The feasibility research this grew out of lives in
 [testing/](testing/) — start with [testing/SLD-ROADMAP.md](testing/SLD-ROADMAP.md)
@@ -35,7 +36,7 @@ pip install -r backend\requirements.txt
 # Frontend
 npm install --prefix frontend
 
-# Database (creates backend/data/sld.db)
+# Database (creates backend/data/sld 1.db)
 cd backend
 python scripts\init_db.py
 cd ..
@@ -45,6 +46,8 @@ In Git Bash, activate with `source .venv/Scripts/activate` instead.
 
 Credentials are read from the repo-root `.env` (see
 [backend/app/config.py](backend/app/config.py)), which needs an `APIFY_TOKEN`.
+Copy [.env.example](.env.example) to `.env` to start from a list of every
+supported variable.
 The collectors share the same token as the existing `testing/` scripts.
 
 The Step 4 LLM fallback (content stance and seeking level, used only when the
@@ -93,7 +96,7 @@ API URL configured — but the backend must be running or every request 404s.
 ## Fetching data
 
 The dashboard renders empty until data is collected and analyzed. Collected
-data persists in `backend/data/sld.db`, so this is **not** part of routine
+data persists in `backend/data/sld 1.db`, so this is **not** part of routine
 startup — run it only when you want fresh posts.
 
 All commands from `backend/`:
@@ -104,6 +107,8 @@ All commands from `backend/`:
 ..\.venv\Scripts\python.exe scripts\collect_linkedin.py --limit 10
 ..\.venv\Scripts\python.exe scripts\collect_aapc.py --max-threads 5
 ..\.venv\Scripts\python.exe scripts\collect_facebook.py --limit 20
+..\.venv\Scripts\python.exe scripts\collect_x.py --store
+..\.venv\Scripts\python.exe scripts\collect_youtube.py --max-videos-total 10
 
 # Score the new posts
 ..\.venv\Scripts\python.exe scripts\run_pipeline.py
@@ -125,6 +130,14 @@ Collectors only store raw normalized posts — nothing is scored until
 | | `--per-group` | 8 | Posts fetched per group (each ~$0.005, capped at $0.10/run) |
 | | `--groups` | all in `DEFAULT_GROUPS` | Subset of group keys in [facebook.py](backend/app/collectors/facebook.py) |
 | | `--top-up` | off | Only add new posts until the stored Facebook total reaches `--limit` |
+| `collect_x.py` | `--limit` | 20 | **Total** posts kept, round-robin across accounts |
+| | `--per-account` | 15 | Posts fetched per account |
+| | `--store` | off | Without it, posts are only printed — nothing is written to the DB |
+| | `--from-raw` | off | Reuse saved raw output instead of calling Apify again |
+| `collect_youtube.py` | `--max-videos-total` | 60 | Cap on videos across all queries |
+| | `--max-videos-per-query` | 5 | |
+| | `--max-comments-per-video` | 50 | Worst case ≈ videos × comments (~$0.002/comment) |
+| | `--families` | all | Subset of `QUERY_FAMILIES` in [youtube.py](backend/app/collectors/youtube.py) |
 
 ### Evaluation runs
 
@@ -234,4 +247,4 @@ only matters if you bypass the proxy and call the API directly from the browser.
 `ModuleNotFoundError: No module named 'app'`.
 
 **Schema changes** need `python scripts\init_db.py` re-run; it only creates
-missing tables, so drop `backend/data/sld.db` for a clean rebuild.
+missing tables, so drop `backend/data/sld 1.db` for a clean rebuild.

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { api } from '../api/client'
-import { isV2Breakdown } from '../api/types'
+import { isV2Breakdown, isV3Breakdown } from '../api/types'
 import type { Post } from '../api/types'
 import { ScoreBadge } from '../components/ScoreBadge'
 import { sourceContext } from '../components/PostCard'
@@ -85,7 +85,61 @@ export function PostDetail() {
         {breakdown && (
           <div className="detail-section">
             <h3>Score breakdown</h3>
-            {isV2Breakdown(breakdown) ? (
+            {isV3Breakdown(breakdown) ? (
+              <dl>
+                <dt>Problem evidence</dt>
+                <dd>{breakdown.problem_evidence_points} / 15</dd>
+                <dt>First person</dt>
+                <dd>{breakdown.first_person_points} / 8</dd>
+                <dt>Seeking level</dt>
+                <dd>{breakdown.seeking_points} / 17</dd>
+                <dt>Operational impact</dt>
+                <dd>{breakdown.operational_impact_points} / 10</dd>
+                <dt>
+                  <strong>Semantic score</strong>
+                </dt>
+                <dd>
+                  <strong>{breakdown.semantic_score} / 50</strong>
+                </dd>
+                <dt>Primary problem</dt>
+                <dd>
+                  {breakdown.primary_problem_category ?? 'none'} (+{breakdown.primary_category_points})
+                  {breakdown.recurring_points > 0 && <>, recurring +{breakdown.recurring_points}</>}
+                </dd>
+                <dt>
+                  <strong>Problem severity</strong>
+                </dt>
+                <dd>
+                  <strong>{breakdown.problem_severity}</strong>
+                </dd>
+                <dt>RCM specificity</dt>
+                <dd>
+                  category {breakdown.category_points} · payer {breakdown.payer_points} · procedure{' '}
+                  {breakdown.procedure_points} · denial reason {breakdown.denial_reason_points} · code{' '}
+                  {breakdown.code_points} · specialty {breakdown.specialty_points}
+                </dd>
+                <dt>
+                  <strong>RCM specificity</strong>
+                </dt>
+                <dd>
+                  <strong>{breakdown.rcm_specificity} / 20</strong>
+                </dd>
+                <dt>Base score</dt>
+                <dd>{breakdown.base_score}</dd>
+                {breakdown.sanity_cap_applied && (
+                  <>
+                    <dt>No problem evidence</dt>
+                    <dd>capped at 30</dd>
+                  </>
+                )}
+                <dt>
+                  <strong>Final score</strong>
+                </dt>
+                <dd>
+                  <strong>{breakdown.final_score}</strong>
+                </dd>
+              </dl>
+            ) : isV2Breakdown(breakdown) ? (
               <dl>
                 <dt>Problem strength</dt>
                 <dd>{breakdown.problem_strength}</dd>

@@ -27,10 +27,39 @@ export interface ScoreBreakdownV2 {
   signals: string[]
 }
 
-export type ScoreBreakdown = ScoreBreakdownV1 | ScoreBreakdownV2
+/** v3 (Experiment 2): three additive components, no multipliers. Semantic
+ *  points are the Step 2 LLM signals x their confidence; a post without
+ *  problem evidence is capped at 30. */
+export interface ScoreBreakdownV3 {
+  problem_evidence_points: number
+  first_person_points: number
+  seeking_points: number
+  operational_impact_points: number
+  semantic_score: number
+  primary_problem_category: string | null
+  primary_category_points: number
+  recurring_points: number
+  problem_severity: number
+  category_points: number
+  payer_points: number
+  procedure_points: number
+  denial_reason_points: number
+  code_points: number
+  specialty_points: number
+  rcm_specificity: number
+  base_score: number
+  sanity_cap_applied: boolean
+  final_score: number
+}
+
+export type ScoreBreakdown = ScoreBreakdownV1 | ScoreBreakdownV2 | ScoreBreakdownV3
 
 export function isV2Breakdown(b: ScoreBreakdown): b is ScoreBreakdownV2 {
   return 'relevance_factor' in b
+}
+
+export function isV3Breakdown(b: ScoreBreakdown): b is ScoreBreakdownV3 {
+  return 'semantic_score' in b
 }
 
 export interface Post {
@@ -127,7 +156,7 @@ export interface PostFilters {
 
 /** Which stored scoring version the dashboard reads. Both are persisted per
  *  post, so switching this re-ranks the whole dashboard without re-analysing. */
-export type ScoringVersion = 'v1' | 'v2'
+export type ScoringVersion = 'v1' | 'v2' | 'v3'
 
 // --- Data Collection / Analysis jobs ---------------------------------------
 
@@ -235,7 +264,7 @@ export interface AnalysisJob {
   current_stage_number: number | null
   stages: string[]
   errors: string[]
-  scores: { v1?: number[]; v2?: number[] }
+  scores: { v1?: number[]; v2?: number[]; v3?: number[] }
   created_at: string
   started_at: string | null
   completed_at: string | null

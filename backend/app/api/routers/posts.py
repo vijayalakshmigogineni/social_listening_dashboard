@@ -16,7 +16,7 @@ from sqlalchemy.orm import Session
 
 from app.db.base import get_db
 from app.db.models import AnalysisResult, NormalizedItem
-from app.schemas.analysis import ANALYSIS_VERSION, ANALYSIS_VERSION_V2
+from app.schemas.analysis import ANALYSIS_VERSION, ANALYSIS_VERSION_V2, ANALYSIS_VERSION_V3
 
 router = APIRouter()
 
@@ -93,7 +93,7 @@ def _row_to_dict(item: NormalizedItem, analysis: AnalysisResult | None) -> dict[
     return base
 
 
-SCORING_VERSIONS = {"v1": ANALYSIS_VERSION, "v2": ANALYSIS_VERSION_V2}
+SCORING_VERSIONS = {"v1": ANALYSIS_VERSION, "v2": ANALYSIS_VERSION_V2, "v3": ANALYSIS_VERSION_V3}
 
 
 def resolve_version(version: str) -> str:
