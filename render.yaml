@@ -1,5 +1,6 @@
-# Render Blueprint: the FastAPI backend. Jobs run in-process with an
-# in-memory lock, so keep ONE instance and ONE uvicorn worker.
+# Render Blueprint: the FastAPI backend (sld-api) and the React dashboard
+# (sld-dashboard, a free static site). Jobs run in-process with an
+# in-memory lock, so keep ONE backend instance and ONE uvicorn worker.
 services:
   - type: web
     name: sld-api
@@ -32,3 +33,22 @@ services:
         sync: false
       - key: CORS_ORIGINS
         sync: false
+
+  - type: web
+    name: sld-dashboard
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+    routes:
+      # Order matters: API calls are proxied to the backend first, then every
+      # other path falls back to the SPA's index.html (client-side routing).
+      - type: rewrite
+        source: /api/*
+        destination: https://sld-api-lrvq.onrender.com/api/*
+      - type: rewrite
+        source: /*
+        destination: /index.html

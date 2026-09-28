@@ -287,8 +287,9 @@ a manual migration on PostgreSQL.
 ## Deployment
 
 The zero-shot model runs on the **Hugging Face Inference API**, **Render**
-runs the API, and **Vercel** serves the frontend. The browser only talks to
-Vercel; Vercel forwards `/api/*` to Render, so no CORS setup is needed.
+runs the API and serves the frontend as a static site (both defined in
+[render.yaml](render.yaml)). The browser only talks to the static site, which
+forwards `/api/*` to the API, so no CORS setup is needed.
 
 ### 1. Hugging Face token (model)
 
@@ -310,7 +311,7 @@ loading; the backend retries.
    | `APIFY_TOKEN`, `APIFY_TOKEN1` | Apify tokens |
    | `AWS_BEARER_TOKEN_BEDROCK`, `AWS_REGION`, `BEDROCK_MODEL_ID` | Bedrock (`LLM_PROVIDER=bedrock` is preset) |
    | `HF_TOKEN` | the Hugging Face token from step 1 |
-   | `CORS_ORIGINS` | your Vercel URL (only needed if you call the API directly) |
+   | `CORS_ORIGINS` | the dashboard URL (only needed if you call the API directly) |
 
 3. Check `https://<service>.onrender.com/api/health`.
 
@@ -321,10 +322,13 @@ minute, and a long collection job can be killed if nobody has the dashboard
 open (it is then marked *interrupted*; retry it). Switch to Starter for an
 always-on service.
 
-### 3. Vercel (frontend)
+### 3. Frontend
 
-1. Edit the `/api` destination in [frontend/vercel.json](frontend/vercel.json)
-   if your Render URL isn't `https://sld-api-lrvq.onrender.com`.
-2. Vercel → Add New Project → this repo → **Root Directory `frontend`**. The
-   framework (Vite), build command and output come from `vercel.json`.
-3. Deploy, then open the Vercel URL.
+The Blueprint also creates **sld-dashboard**, a free static site built from
+`frontend/`. Its `/api/*` rewrite in [render.yaml](render.yaml) points at
+`https://sld-api-lrvq.onrender.com`; change it if your API URL differs.
+Open the static site's `.onrender.com` URL to use the dashboard.
+
+Vercel works as an alternative: import the repo with **Root Directory
+`frontend`**; [frontend/vercel.json](frontend/vercel.json) holds the same
+rewrites.
