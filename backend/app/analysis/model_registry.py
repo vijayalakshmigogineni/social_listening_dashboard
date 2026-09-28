@@ -19,9 +19,10 @@ ZERO_SHOT_MODEL_NAME = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 
 _zero_shot_classifier = None
 
-# A free Hugging Face Space sleeps when idle and takes a minute or two to
-# wake, so the remote call waits long and retries on 503/connection errors.
-_REMOTE_TIMEOUT_S = 180
+# Hugging Face Inference API (hf-inference serves this exact model). A model
+# that went cold answers 503 while it loads, so the call retries.
+_HF_INFERENCE_URL = "https://router.huggingface.co/hf-inference/models/" + ZERO_SHOT_MODEL_NAME
+_REMOTE_TIMEOUT_S = 120
 _REMOTE_ATTEMPTS = 3
 _REMOTE_RETRY_WAIT_S = 20
 
@@ -41,34 +42,43 @@ def _classify_remote(text: str, hypotheses: list[str]) -> dict:
 
     import requests
 
-    from app.config import ZERO_SHOT_API_KEY, ZERO_SHOT_API_URL
+    from app.config import HF_TOKEN
 
-    headers = {"Authorization": f"Bearer {ZERO_SHOT_API_KEY}"} if ZERO_SHOT_API_KEY else {}
+    payload = {
+        "inputs": text,
+        "parameters": {"candidate_labels": hypotheses, "hypothesis_template": "{}", "multi_label": False},
+    }
     for attempt in range(1, _REMOTE_ATTEMPTS + 1):
         try:
             resp = requests.post(
-                f"{ZERO_SHOT_API_URL}/classify",
-                json={"text": text, "hypotheses": hypotheses},
-                headers=headers,
+                _HF_INFERENCE_URL,
+                json=payload,
+                headers={"Authorization": f"Bearer {HF_TOKEN}"},
                 timeout=_REMOTE_TIMEOUT_S,
             )
             if resp.status_code != 503:
                 resp.raise_for_status()
-                return resp.json()
+                data = resp.json()
+                # The API returns [{label, score}, ...] ranked; older versions
+                # returned the pipeline's {labels, scores} shape.
+                if isinstance(data, list):
+                    ranked = sorted(data, key=lambda d: d["score"], reverse=True)
+                    return {"labels": [d["label"] for d in ranked], "scores": [d["score"] for d in ranked]}
+                return data
         except (requests.ConnectionError, requests.Timeout):
             if attempt == _REMOTE_ATTEMPTS:
                 raise
         if attempt == _REMOTE_ATTEMPTS:
             resp.raise_for_status()
-        print(f"[model_registry] zero-shot service not ready, retrying ({attempt}/{_REMOTE_ATTEMPTS})")
+        print(f"[model_registry] zero-shot API not ready, retrying ({attempt}/{_REMOTE_ATTEMPTS})")
         time.sleep(_REMOTE_RETRY_WAIT_S)
 
 
 def _classify(text: str, hypotheses: list[str]) -> dict:
-    """Returns the pipeline's {labels, scores}, ranked, locally or via the Space."""
-    from app.config import ZERO_SHOT_API_URL
+    """Returns the pipeline's {labels, scores}, ranked, via the HF API or in-process."""
+    from app.config import HF_TOKEN
 
-    if ZERO_SHOT_API_URL:
+    if HF_TOKEN:
         return _classify_remote(text, hypotheses)
     # hypothesis_template="{}" is required: our "labels" are already full
     # NLI hypothesis sentences, not short label words -- the pipeline's

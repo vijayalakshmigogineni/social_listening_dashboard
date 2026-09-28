@@ -31,8 +31,8 @@ Run from the repo root.
 # Backend
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-# Local model (no ZERO_SHOT_API_URL). Use backend\requirements.txt instead
-# if you point ZERO_SHOT_API_URL at the Hugging Face Space.
+# Local model (no HF_TOKEN). Use backend\requirements.txt instead
+# if you set HF_TOKEN to use the Hugging Face Inference API.
 pip install -r backend\requirements-local-model.txt
 
 # Frontend
@@ -286,24 +286,18 @@ a manual migration on PostgreSQL.
 
 ## Deployment
 
-Three hosts: a **Hugging Face Space** runs the zero-shot model, **Render**
+The zero-shot model runs on the **Hugging Face Inference API**, **Render**
 runs the API, and **Vercel** serves the frontend. The browser only talks to
 Vercel; Vercel forwards `/api/*` to Render, so no CORS setup is needed.
 
-### 1. Hugging Face Space (model)
+### 1. Hugging Face token (model)
 
-1. On huggingface.co: New Space → SDK **Docker** → hardware **CPU basic** (free).
-2. Push the contents of [hf_space/](hf_space/) to the Space repo:
-   ```powershell
-   git clone https://huggingface.co/spaces/<user>/<space> hf-space-repo
-   Copy-Item hf_space\* hf-space-repo\
-   cd hf-space-repo; git add .; git commit -m "zero-shot service"; git push
-   ```
-3. Space Settings → Variables and secrets → add secret `SPACE_API_KEY` (any long random string).
-4. Once built, `https://<user>-<space>.hf.space/health` returns ok.
-
-A free Space sleeps after ~48h idle; the first call after that takes 1–2 min.
-The backend waits and retries automatically.
+The Inference API serves `MoritzLaurer/deberta-v3-base-zeroshot-v2.0` as-is,
+so nothing is deployed there. Create a token at
+huggingface.co/settings/tokens → **Fine-grained** → tick **Make calls to
+Inference Providers**. Usage is billed against your HF account's monthly
+credits (huggingface.co/settings/billing). A cold model answers 503 while
+loading; the backend retries.
 
 ### 2. Render (API)
 
@@ -315,8 +309,7 @@ The backend waits and retries automatically.
    | `DATABASE_URL` | Neon connection string |
    | `APIFY_TOKEN`, `APIFY_TOKEN1` | Apify tokens |
    | `AWS_BEARER_TOKEN_BEDROCK`, `AWS_REGION`, `BEDROCK_MODEL_ID` | Bedrock (`LLM_PROVIDER=bedrock` is preset) |
-   | `ZERO_SHOT_API_URL` | `https://<user>-<space>.hf.space` |
-   | `ZERO_SHOT_API_KEY` | the Space's `SPACE_API_KEY` |
+   | `HF_TOKEN` | the Hugging Face token from step 1 |
    | `CORS_ORIGINS` | your Vercel URL (only needed if you call the API directly) |
 
 3. Check `https://<service>.onrender.com/api/health`.

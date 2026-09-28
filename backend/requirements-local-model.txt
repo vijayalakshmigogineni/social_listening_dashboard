@@ -1,5 +1,5 @@
 # Local offline runs: loads the zero-shot model in-process instead of calling
-# the Hugging Face Space (leave ZERO_SHOT_API_URL empty).
+# the Hugging Face Inference API (leave HF_TOKEN empty).
 -r requirements.txt
 transformers>=4.45.0
 torch>=2.4.0

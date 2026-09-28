@@ -28,9 +28,7 @@ services:
         sync: false
       - key: BEDROCK_MODEL_ID
         sync: false
-      - key: ZERO_SHOT_API_URL
-        sync: false
-      - key: ZERO_SHOT_API_KEY
+      - key: HF_TOKEN
         sync: false
       - key: CORS_ORIGINS
         sync: false

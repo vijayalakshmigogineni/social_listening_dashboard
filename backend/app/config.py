@@ -29,11 +29,10 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1")
 AWS_REGION = os.getenv("AWS_REGION", "eu-north-1")
 BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "")
 
-# Zero-shot classifier: when ZERO_SHOT_API_URL is set (the Hugging Face Space,
-# see hf_space/), classification goes over HTTP; otherwise the model is loaded
+# Zero-shot classifier: when HF_TOKEN is set, classification goes to the
+# Hugging Face Inference API (same model); otherwise the model is loaded
 # in-process (needs requirements-local-model.txt).
-ZERO_SHOT_API_URL = os.getenv("ZERO_SHOT_API_URL", "").strip().rstrip("/")
-ZERO_SHOT_API_KEY = os.getenv("ZERO_SHOT_API_KEY", "").strip()
+HF_TOKEN = os.getenv("HF_TOKEN", "").strip()
 
 # Comma-separated browser origins allowed by CORS.
 CORS_ORIGINS = [

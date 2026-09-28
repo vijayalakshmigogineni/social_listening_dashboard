@@ -11,8 +11,8 @@ python-dateutil>=2.9.0
 requests>=2.32.5
 beautifulsoup4>=4.15.0
 
-# Analysis / NLP: the zero-shot model runs in a Hugging Face Space
-# (ZERO_SHOT_API_URL). For an in-process model, install
+# Analysis / NLP: the zero-shot model runs on the Hugging Face Inference API
+# (HF_TOKEN). For an in-process model, install
 # requirements-local-model.txt instead.
 
 # Utility
