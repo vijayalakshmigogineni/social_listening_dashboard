@@ -315,9 +315,11 @@ loading; the backend retries.
 3. Check `https://<service>.onrender.com/api/health`.
 
 Keep **one instance** and one uvicorn worker: jobs run in background threads
-with an in-memory lock. The blueprint uses the Starter plan (always on). The
-free plan also works but sleeps after 15 min without requests, which can kill
-a long collection job; it is then marked *interrupted*.
+with an in-memory lock. The blueprint uses the **free** plan, which sleeps
+after 15 min without requests: the first page load after that takes about a
+minute, and a long collection job can be killed if nobody has the dashboard
+open (it is then marked *interrupted*; retry it). Switch to Starter for an
+always-on service.
 
 ### 3. Vercel (frontend)
 
