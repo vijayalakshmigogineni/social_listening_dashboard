@@ -19,6 +19,12 @@ ZERO_SHOT_MODEL_NAME = "MoritzLaurer/deberta-v3-base-zeroshot-v2.0"
 
 _zero_shot_classifier = None
 
+# A free Hugging Face Space sleeps when idle and takes a minute or two to
+# wake, so the remote call waits long and retries on 503/connection errors.
+_REMOTE_TIMEOUT_S = 180
+_REMOTE_ATTEMPTS = 3
+_REMOTE_RETRY_WAIT_S = 20
+
 
 def get_zero_shot_classifier():
     global _zero_shot_classifier
@@ -30,20 +36,56 @@ def get_zero_shot_classifier():
     return _zero_shot_classifier
 
 
+def _classify_remote(text: str, hypotheses: list[str]) -> dict:
+    import time
+
+    import requests
+
+    from app.config import ZERO_SHOT_API_KEY, ZERO_SHOT_API_URL
+
+    headers = {"Authorization": f"Bearer {ZERO_SHOT_API_KEY}"} if ZERO_SHOT_API_KEY else {}
+    for attempt in range(1, _REMOTE_ATTEMPTS + 1):
+        try:
+            resp = requests.post(
+                f"{ZERO_SHOT_API_URL}/classify",
+                json={"text": text, "hypotheses": hypotheses},
+                headers=headers,
+                timeout=_REMOTE_TIMEOUT_S,
+            )
+            if resp.status_code != 503:
+                resp.raise_for_status()
+                return resp.json()
+        except (requests.ConnectionError, requests.Timeout):
+            if attempt == _REMOTE_ATTEMPTS:
+                raise
+        if attempt == _REMOTE_ATTEMPTS:
+            resp.raise_for_status()
+        print(f"[model_registry] zero-shot service not ready, retrying ({attempt}/{_REMOTE_ATTEMPTS})")
+        time.sleep(_REMOTE_RETRY_WAIT_S)
+
+
+def _classify(text: str, hypotheses: list[str]) -> dict:
+    """Returns the pipeline's {labels, scores}, ranked, locally or via the Space."""
+    from app.config import ZERO_SHOT_API_URL
+
+    if ZERO_SHOT_API_URL:
+        return _classify_remote(text, hypotheses)
+    # hypothesis_template="{}" is required: our "labels" are already full
+    # NLI hypothesis sentences, not short label words -- the pipeline's
+    # default template would wrap them ungrammatically and degrade accuracy.
+    return get_zero_shot_classifier()(text, hypotheses, hypothesis_template="{}", multi_label=False)
+
+
 def run_zero_shot(text: str, labels: dict[str, str]) -> dict:
     """
     labels: {short_name: full_nli_hypothesis_sentence}
     Returns {label, top_score, second_label, second_score, margin, all_scores}.
     """
-    classifier = get_zero_shot_classifier()
     names = list(labels.keys())
     hypotheses = [labels[n] for n in names]
     hyp_to_name = {labels[n]: n for n in names}
 
-    # hypothesis_template="{}" is required: our "labels" are already full
-    # NLI hypothesis sentences, not short label words -- the pipeline's
-    # default template would wrap them ungrammatically and degrade accuracy.
-    result = classifier(text, hypotheses, hypothesis_template="{}", multi_label=False)
+    result = _classify(text, hypotheses)
 
     ranked = list(zip(result["labels"], result["scores"]))
     top_hyp, top_score = ranked[0]

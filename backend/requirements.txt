@@ -11,11 +11,9 @@ python-dateutil>=2.9.0
 requests>=2.32.5
 beautifulsoup4>=4.15.0
 
-# Analysis / NLP (hybrid: rules first, models for ambiguous cases)
-transformers>=4.45.0
-torch>=2.4.0
-spacy>=3.8.0
+# Analysis / NLP: the zero-shot model runs in a Hugging Face Space
+# (ZERO_SHOT_API_URL). For an in-process model, install
+# requirements-local-model.txt instead.
 
 # Utility
-pandas>=2.2.0
 boto3>=1.40.0

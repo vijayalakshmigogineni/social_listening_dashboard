@@ -29,6 +29,19 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1")
 AWS_REGION = os.getenv("AWS_REGION", "eu-north-1")
 BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID", "")
 
+# Zero-shot classifier: when ZERO_SHOT_API_URL is set (the Hugging Face Space,
+# see hf_space/), classification goes over HTTP; otherwise the model is loaded
+# in-process (needs requirements-local-model.txt).
+ZERO_SHOT_API_URL = os.getenv("ZERO_SHOT_API_URL", "").strip().rstrip("/")
+ZERO_SHOT_API_KEY = os.getenv("ZERO_SHOT_API_KEY", "").strip()
+
+# Comma-separated browser origins allowed by CORS.
+CORS_ORIGINS = [
+    o.strip()
+    for o in os.getenv("CORS_ORIGINS", "http://localhost:5173,http://127.0.0.1:5173").split(",")
+    if o.strip()
+]
+
 # IANA time zone the Overview reports in: where "today" starts for the New
 # Today KPI and how the Opportunities Over Time buckets are cut.
 REPORT_TZ = os.getenv("REPORT_TZ", "UTC").strip() or "UTC"

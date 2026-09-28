@@ -31,7 +31,9 @@ Run from the repo root.
 # Backend
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-pip install -r backend\requirements.txt
+# Local model (no ZERO_SHOT_API_URL). Use backend\requirements.txt instead
+# if you point ZERO_SHOT_API_URL at the Hugging Face Space.
+pip install -r backend\requirements-local-model.txt
 
 # Frontend
 npm install --prefix frontend
@@ -272,8 +274,7 @@ Later runs use the cached weights.
 
 **Port 5173 may already be taken.** Vite falls back to the next free port
 (5174, ...) and prints the real URL on startup — use whatever it prints. The
-`/api` proxy still works, because it is server-side. The CORS allowlist in
-[backend/app/main.py](backend/app/main.py) is pinned to port 5173, but that
+`/api` proxy still works, because it is server-side. The CORS allowlist (`CORS_ORIGINS`, default port 5173) but that
 only matters if you bypass the proxy and call the API directly from the browser.
 
 **Run uvicorn from `backend/`.** Starting it from the repo root fails with
@@ -282,3 +283,53 @@ only matters if you bypass the proxy and call the API directly from the browser.
 **Schema changes** need `python scripts\init_db.py` re-run; it only creates
 missing tables (there is no Alembic yet), so changing an existing column needs
 a manual migration on PostgreSQL.
+
+## Deployment
+
+Three hosts: a **Hugging Face Space** runs the zero-shot model, **Render**
+runs the API, and **Vercel** serves the frontend. The browser only talks to
+Vercel; Vercel forwards `/api/*` to Render, so no CORS setup is needed.
+
+### 1. Hugging Face Space (model)
+
+1. On huggingface.co: New Space → SDK **Docker** → hardware **CPU basic** (free).
+2. Push the contents of [hf_space/](hf_space/) to the Space repo:
+   ```powershell
+   git clone https://huggingface.co/spaces/<user>/<space> hf-space-repo
+   Copy-Item hf_space\* hf-space-repo\
+   cd hf-space-repo; git add .; git commit -m "zero-shot service"; git push
+   ```
+3. Space Settings → Variables and secrets → add secret `SPACE_API_KEY` (any long random string).
+4. Once built, `https://<user>-<space>.hf.space/health` returns ok.
+
+A free Space sleeps after ~48h idle; the first call after that takes 1–2 min.
+The backend waits and retries automatically.
+
+### 2. Render (API)
+
+1. Render → New → Blueprint → pick this repo. It reads [render.yaml](render.yaml).
+2. Fill in the secret env vars:
+
+   | Var | Value |
+   |---|---|
+   | `DATABASE_URL` | Neon connection string |
+   | `APIFY_TOKEN`, `APIFY_TOKEN1` | Apify tokens |
+   | `AWS_BEARER_TOKEN_BEDROCK`, `AWS_REGION`, `BEDROCK_MODEL_ID` | Bedrock (`LLM_PROVIDER=bedrock` is preset) |
+   | `ZERO_SHOT_API_URL` | `https://<user>-<space>.hf.space` |
+   | `ZERO_SHOT_API_KEY` | the Space's `SPACE_API_KEY` |
+   | `CORS_ORIGINS` | your Vercel URL (only needed if you call the API directly) |
+
+3. Check `https://<service>.onrender.com/api/health`.
+
+Keep **one instance** and one uvicorn worker: jobs run in background threads
+with an in-memory lock. The blueprint uses the Starter plan (always on). The
+free plan also works but sleeps after 15 min without requests, which can kill
+a long collection job; it is then marked *interrupted*.
+
+### 3. Vercel (frontend)
+
+1. Edit the `/api` destination in [frontend/vercel.json](frontend/vercel.json)
+   if your Render URL isn't `https://sld-api.onrender.com`.
+2. Vercel → Add New Project → this repo → **Root Directory `frontend`**. The
+   framework (Vite), build command and output come from `vercel.json`.
+3. Deploy, then open the Vercel URL.

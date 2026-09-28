@@ -1,0 +1,36 @@
+# Render Blueprint: the FastAPI backend. Jobs run in-process with an
+# in-memory lock, so keep ONE instance and ONE uvicorn worker.
+services:
+  - type: web
+    name: sld-api
+    runtime: python
+    plan: starter
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: LLM_PROVIDER
+        value: bedrock
+      - key: REPORT_TZ
+        value: UTC
+      - key: DATABASE_URL
+        sync: false
+      - key: APIFY_TOKEN
+        sync: false
+      - key: APIFY_TOKEN1
+        sync: false
+      - key: AWS_BEARER_TOKEN_BEDROCK
+        sync: false
+      - key: AWS_REGION
+        sync: false
+      - key: BEDROCK_MODEL_ID
+        sync: false
+      - key: ZERO_SHOT_API_URL
+        sync: false
+      - key: ZERO_SHOT_API_KEY
+        sync: false
+      - key: CORS_ORIGINS
+        sync: false
