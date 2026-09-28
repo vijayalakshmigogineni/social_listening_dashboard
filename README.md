@@ -324,7 +324,7 @@ always-on service.
 ### 3. Vercel (frontend)
 
 1. Edit the `/api` destination in [frontend/vercel.json](frontend/vercel.json)
-   if your Render URL isn't `https://sld-api.onrender.com`.
+   if your Render URL isn't `https://sld-api-lrvq.onrender.com`.
 2. Vercel → Add New Project → this repo → **Root Directory `frontend`**. The
    framework (Vite), build command and output come from `vercel.json`.
 3. Deploy, then open the Vercel URL.
